@@ -1,0 +1,42 @@
+Anamnèse
+Patient, femme de 57 ans.
+ANTÉCÉDENTS PERSONNELS :
+"Allergique à l'AAS et aux AINS.
+"Pas d'habitudes toxiques.
+"Hypertension sous traitement à l'énalapril.
+"Dyslipidémie sous traitement diététique.
+"Hernie hiatale traitée à l'oméprazole.
+"Côlon irritable.
+"Interventions chirurgicales : appendicectomie à l'âge de 17 ans, strabisme à l'âge de 16 ans.
+ANTÉCÉDENTS ONCOLOGIQUES
+Diagnostiqué en mai 2009, par une étude de dépistage de la population, d'un carcinome canalaire infiltrant du sein droit (quadrant supérieur externe) de grade 3, ER 80 %, RP 905, HER-2 négatif, opéré par tumorectomie et biopsie du ganglion lymphatique sentinelle, pT1c (12 mm) pN1 (mic) M0, avec des facteurs de mauvais pronostic (invasion lymphatique et périneurale), qui a bénéficié d'un traitement adjuvant par chimiothérapie FEC x 6, puis d'une radiothérapie sur le sein (DT 50 Gy et boost sur le lit tumoral DT 16 Gy) et d'une hormonothérapie par tamoxifène (fin février 2014).
+En décembre 2016, suite à des dorsalgies mécaniques, un diagnostic de progression multiple au niveau osseux avec biopsie positive pour des métastases d'adénocarcinome du sein a été posé. Un traitement hormonal de première intention a été débuté dans le cadre de l'essai clinique Flipper (branche fulvestrant + palbociclib), avec une bonne tolérance au traitement.
+Chez les témoins, conformément au protocole de l'essai, un scanner a été réalisé pour évaluer la réponse après le troisième cycle, montrant une image nodulaire hypodense cardiaque intracavitaire.
+
+Examen physique
+"Normal, afébrile.
+"Conscient, orienté, couleur normale et hydratation normale. Eupnéique au repos.
+"ECOG 0.
+"AC : rythmique.
+"AP : mvc, sans bruits additionnels.
+"ABD : doux, dépressible, non douloureux à la palpation, péristaltisme conservé. Pas de masses ni de mégalithes.
+"Pas d'œdème ni de signes de TVP.
+
+Examens complémentaires
+" CT : image nodulaire hypodense cardiaque intracavitaire dans le ventricule gauche, adjacente au septum interventriculaire, stable et présente depuis janvier 2017 (non décrite dans le rapport précédent) qui correspond probablement à un thrombus intracavitaire, et qu'une autre option ne peut être exclue dans le contexte du patient. Il est recommandé de compléter l'étude par une échocardiographie +/- une IRM cardiaque.
+"GGO : par rapport à l'étude précédente réalisée en décembre dernier, les lésions de la cavité glénoïde droite et de la trochlée gauche persistent. Affection de D3, D5 et D6 dans sa totalité, avec extension à l'arc postérieur de la côte droite, avec diminution de l'intensité et de l'extension de la lésion de L1, diminution de la lésion de la région sacro-iliaque gauche.
+"Compte tenu des résultats du scanner, un échocardiogramme et une IRM cardiaque ont été demandés et le patient a été envoyé en cardiologie pour évaluation : Echocardiographie : VEMS 64%, ventricule gauche non dilaté, avec une contractilité préservée.
+"L'oreillette gauche et la racine aortique sont normales. Structures valvulaires normales. Pas d'épanchement péricardique. Une masse sessile d'environ 14 x 11 mm, mobile et hétérogène, est attachée au septum interventriculaire dans le ventricule gauche. Compte tenu du fait qu'elle a déjà été détectée en janvier 2017 et de son hétérogénéité, et du contexte clinique du patient, il faut envisager un processus tumoral.
+" IRM cardiaque : ventricule et oreillette gauches de taille normale, hypertrophie septale légère-modérée, contractilité symétrique. VEMS normal. Ventricule droit et oreillette de taille et de fonction normales. Pas d'altération du péricarde. Présence d'une masse arrondie, pédiculée, dépendant du septum interventriculaire de 15-13 mm, hypotensive en DIr-T1 et hypertensive en TIr-T1, et avec une prise de gadolinium anormale, suggérant en premier lieu et dans le contexte clinique du patient une métastase intracardiaque. Un thrombus a été exclu.
+"ECG : rythme sinusal à 75 bpm, QRS étroits, sans altérations aiguës de la repolarisation.
+
+Diagnostic
+Métastase intracardiaque dans une néoplasie mammaire avancée.
+
+Traitement
+Il a été décidé de commencer un traitement décoagulant à l'héparine et de poursuivre le traitement oncologique systémique.
+
+Évolution
+Compte tenu des résultats cliniques des examens complémentaires, le cas a été discuté au sein du comité interdisciplinaire, qui a examiné les examens de l'étude d'extension réalisés en décembre 2016, et le scanner thoraco-abdominal de l'étude d'extension a montré la lésion avec les mêmes dimensions et caractéristiques.
+Après évaluation par la cardiologie, il a été décidé de réaliser un cathétérisme pour effectuer une biopsie et confirmer l'origine métastatique de la lésion, mais le patient a refusé l'intervention par crainte des complications possibles de la procédure.
+L'équipe d'oncologie a revu le protocole de l'essai Flipper et a exclu la présence de métastases à cet endroit comme critère d'exclusion. Etant donné la bonne réponse au GGO au niveau osseux, aucune progression de la maladie n'a été considérée (lésion déjà présente avant le début de l'essai) et il a été décidé de continuer avec le même traitement de fulvestrant + palbociclib.

@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 57 ans, avec des antécédents de tabagisme actif (taux cumulé : 40 paquets-années), d'hypercholestérolémie sous traitement pharmacologique et de syndrome dépressif. Aucune allergie médicamenteuse connue.
+Un mélanome malin nodulaire (indice de Breslow 6 mm) a été diagnostiqué en avril 2013 sur l'avant-bras gauche. La lésion a été complètement excisée. Aucune adénopathie n'a été observée à l'examen physique ou à l'échographie. En juin 2013, le patient a été évalué en oncologie médicale, avec une tomodensitométrie de stadification négative, et avec le diagnostic de mélanome pt4a-b N0M0, un traitement adjuvant à l'interféron (IFN) alfa-2b a été commencé le 15/07/13.
+
+Examen physique
+Lors de sa première visite dans notre service, la patiente présentait un ECOG 1.
+L'examen physique général et l'examen neurologique complet n'ont révélé aucune altération notable.
+
+Examens complémentaires
+En janvier 2014, le scanner de contrôle semestriel a révélé un élargissement d'une adénopathie axillaire gauche qui a fait l'objet d'une biopsie avec un résultat anatomo-pathologique (AP) de mélanome. Au vu de ce résultat, le patient a subi en mars 2014 une lymphadénectomie axillaire gauche et le traitement par IFN a été suspendu, avec des contrôles réguliers dans des cliniques ambulatoires.
+En octobre 2014, un scanner de contrôle a montré une progression de la maladie due à l'apparition de métastases dans les ganglions lymphatiques, les poumons, le foie et la rate. Une étude moléculaire a été demandée en section d'anatomie pathologique, mais aucune mutation BRAF V600E n'a été détectée et un traitement par Dacarbicine a été débuté.
+Au 8ème cycle (20/04/2015), une progression de la maladie a été observée en raison de la croissance des lésions existantes, de sorte que le 11/05/2015, un traitement par Ipililumab a été commencé.
+Au scanner de contrôle de la semaine 16 (08/09/2015) nouvelle progression due à l'apparition de 3 nouveaux nodules pulmonaires.
+
+Diagnostic
+Mélanome cutané métastatique (pulmonaire, médiastinal, splénique, hépatique), BRAF non muté, progressant après 3 lignes de traitement (IFN - Dacarbicine - Ipililumab).
+
+Traitement
+Avec ce diagnostic, la patiente a été considérée comme candidate à un essai clinique avec le Nivolumab et a commencé le traitement le 02/10/15.
+
+Évolution
+Après 3 cycles de traitement, une progression de la maladie a été observée à la fois radiologiquement et cliniquement (lors de l'examen physique, une nouvelle lymphadénopathie axillaire a été palpée et une douleur a été ressentie dans l'hypochondre droit), de sorte que le traitement a été interrompu en raison de la progression et de l'absence de bénéfice du traitement.
+Un mois après l'arrêt du traitement, la patiente a subi un examen clinique et radiologique. L'adénopathie axillaire a disparu et il y a eu une réponse partielle à tous les niveaux, de sorte que le traitement par anti-PD1 a été réintroduit.

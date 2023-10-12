@@ -1,0 +1,19 @@
+Anamnèse
+Une femme de 40 ans a consulté pour l'apparition d'une adénopathie sus-claviculaire gauche en août 2014. Ses antécédents médicaux comprenaient un épisode d'arrêt cardio-respiratoire 1 an plus tôt en raison d'une obstruction de l'artère coronaire ayant nécessité une chirurgie cardiovasculaire urgente.
+Elle est ex-fumeuse depuis cet épisode. Elle travaille comme assistante administrative. Antécédents familiaux paternels de mort subite avant l'âge de 50 ans. Pas d'antécédents familiaux de cancer. Elle suit un traitement chronique à base d'acide acétylsalicylique, d'oméprazole et d'atorvastatine.
+
+Examen physique
+À l'examen, la patiente a un indice ECOG (Eastern Cooperative Oncology Group) de 0, mesure 150 cm et pèse 54 kg. Il n'y a pas d'autres ganglions lymphatiques cervicaux et le reste de l'examen physique est normal.
+
+Tests complémentaires
+Les examens de laboratoire ont révélé un taux élevé de marqueurs tumoraux Ca 19.9 de 1 063 UI/ml (plage normale de 0 à 34) et CEA de 252,7 ng/ml (plage normale de 0 à 5), le reste des paramètres analytiques se situant dans les plages normales. Une biopsie de l'adénopathie sus-claviculaire a été réalisée et le diagnostic histopathologique a été positif pour l'adénocarcinome TTF1.
+Un bilan d'extension a été réalisé au moyen d'une tomographie cervicale, thoracique, abdominale et pelvienne, montrant de multiples adénopathies cervicales et sus-claviculaires bilatérales, une masse médiastinale antérieure mesurant 7,7 x 4,8 cm qui incluait de gros vaisseaux et s'étendait jusqu'à l'apex pulmonaire gauche, où l'on pouvait voir une opacité à bords spiculés mesurant 3,2 x 2,4 cm ; deux lésions focales ont également été observées au niveau des segments hépatiques II et VI. Une étude de l'EGFR et de l'ALK a été réalisée et a donné des résultats négatifs pour les mutations.
+
+Diagnostic
+Adénocarcinome pulmonaire de stade IV EGFR et ALK négatif.
+
+Traitement
+Une chimiothérapie de première ligne à base de carboplatine et de gemcitabine a été mise en place. Après 3 cycles, la maladie a progressé selon les critères RECIST (Response Evaluation Criteria In Solid Tumors) version 1.1, de sorte que la deuxième ligne de chimiothérapie par pemetrexed a été mise en place, la meilleure réponse étant une maladie stable et une toxicité non hématologique sous la forme d'une asthénie de grade 2 et d'une rétention d'eau de grade 2. En avril 2015, après 9 cycles de pemetrexed, elle a présenté une douleur au niveau supraclaviculaire gauche, et a reçu une radiothérapie analgésique. Compte tenu de la progression de la maladie, elle a commencé une troisième ligne avec le nivolumab dans le cadre de l'accès élargi en mai 2015.
+
+Evolution
+Trois mois après le début du traitement, le patient présente des critères de réponse partielle, avec une réduction de la lésion du lobe supérieur gauche à un diamètre inférieur à 1 cm, une réduction des adénopathies cervicales et sus-claviculaires, une réduction de 50 % de la taille de la masse médiastinale et une réduction de 80 % des lésions hépatiques. Actuellement, après 25 mois de traitement par nivolumab, il maintient la réponse obtenue, avec un ECOG 0, et a repris le travail. En ce qui concerne la toxicité liée au traitement, elle a présenté une hypothyroïdie asymptomatique de grade 2 sous traitement substitutif et une xérose cutanée et muqueuse de grade 1 sous nivolumab.

@@ -1,0 +1,18 @@
+T1	pathologie 95 113	anemia ferropénica
+T2	pathologie 717 724	melenas
+T3	pathologie 960 975	heces melénicas
+T4	pathologie 1101 1119	sangrado digestivo
+T5	pathologie 1387 1412	hemorragia digestiva alta
+T6	pathologie 1587 1633	lesión gástrica de origen submucoso y ulcerada
+T7	pathologie 1780 1802	enfermedad metastásica
+T8	pathologie 1871 1900	origen submucoso de la lesión
+T9	pathologie 1902 1915	GIST gástrico
+#1	SNOMED T1	87522002
+#2	SNOMED T2	2901004
+#3	SNOMED T3	2901004
+#4	SNOMED T4	74474003
+#5	SNOMED T5	37372002
+#6	SNOMED T6	397825006
+#7	SNOMED T7	128462008
+#8	SNOMED T8	276320009
+#9	SNOMED T9	420120006

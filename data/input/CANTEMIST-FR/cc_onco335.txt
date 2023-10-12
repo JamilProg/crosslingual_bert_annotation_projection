@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 62 ans, pas d'allergies médicamenteuses ni d'habitudes toxiques connues. Hypertension artérielle sous traitement médical et hyperplasie bénigne de la prostate sous suivi. En décembre 2015, il a dû subir un sondage vésical transitoire en raison d'une rétention urinaire aiguë. Contrôle du PSA 7,66 ug/L attribué à la pathologie sous-jacente et au récent sondage.
+En avril 2016, elle consulte aux urgences pour céphalées, paraphasies, syndrome confusionnel d'évolution 3 jours.
+
+Examen physique
+ECOG 0, conscient, orienté, Glasgow 15, pas de focalisation neurologique à l'examen physique.
+
+Examens complémentaires
+Un scanner cérébral urgent a montré une lésion temporale gauche compatible avec un méningiome, qui, en raison de sa densité et de l'œdème qui l'entoure, semblait témoigner d'une hémorragie périphérique récente.
+Une IRM programmée a été réalisée, montrant une lésion solide, extra-axiale, dans la fosse crânienne moyenne et la grande aile du sphénoïde gauche, quelque peu hétérogène bien que principalement hypointense en T1 avec une légère prise de contraste. Signes compatibles avec un hématome récent, apparemment extra-axial.
+
+Diagnostic
+La suspicion principale, bien que les caractéristiques d'imagerie ne soient pas typiques, est de suggérer un méningiome comme première option. La neurochirurgie est contactée pour une résection.
+
+Traitement
+Crâniotomie ptérionale + excision de la métastase invasive. Découverte pendant l'opération d'une volumineuse métastase hémorragique à la pointe du lobe temporal avec infiltration de la base du crâne sous-jacente dans la fosse moyenne, à côté de la troisième branche du trijumeau.
+
+Dans l'anatomie pathologique, METASTASIS DE L'ADENOCARCINOMME et infiltration focale de l'os par l'adénocarcinome.
+L'AP a souligné que l'aspect histologique, les données cliniques et le profil immunohistochimique (positivité pour la kératine AE1/AE3 et la phosphatase acide prostatique, ainsi qu'une faible positivité pour le PSA ; négativité pour les kérastines 7 et 20) seraient compatibles avec une ORIGINE PROSTATIQUE.
+
+Evolution
+Après chirurgie, nouveau dosage du PSA à 4,74 ug/L (ratio PSA libre 0,06), et biopsie prostatique avec ADK de Gleason 4+5, grade pronostique V sur l'échelle de l'OMS. PET-CT scan montrant des lésions ostéogéniques hypermétaboliques vertébrales dans les branches iliopubiennes et ischiopubiennes gauches évocatrices de métastases. IRM du neuroaxe sans autre altération et ponction lombaire négative pour les cellules malignes.
+Il a été évalué comme un ADK prostatique de stade IV, hormono-sensible, avec dissémination osseuse et méningée au début, avec un état général optimal, nécessitant un blocage hormonal + un traitement oncologique systémique de première ligne par Docetaxel. La RT a également été entamée sur la zone crânienne traitée.

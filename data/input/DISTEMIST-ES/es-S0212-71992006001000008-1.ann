@@ -1,0 +1,16 @@
+T1	pathologie 91 116	hipotiroidismo subclínico
+T2	pathologie 342 350	lesiones
+T3	pathologie 923 938	esclerodactilia
+T4	pathologie 940 950	cicatrices
+T5	pathologie 1012 1025	esclerodermia
+T6	pathologie 1457 1482	hipotiroidismo subclínico
+T7	pathologie 1579 1586	sífilis
+T8	pathologie 1882 1943	esclerodactilia y cicatrices puntiformes en pulpejos de dedos
+#1	SNOMED T1	54823002
+#2	SNOMED T3	201051000
+#3	SNOMED T5	89155008
+#4	SNOMED T6	54823002
+#5	SNOMED T8	201051000+128618006
+#6	SNOMED T2	157670007
+#7	SNOMED T7	76272004
+#8	SNOMED T4	275322007

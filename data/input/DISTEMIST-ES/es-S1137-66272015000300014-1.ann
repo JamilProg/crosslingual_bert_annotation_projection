@@ -1,0 +1,24 @@
+T1	pathologie 96 124	adenocarcinoma de endometrio
+T2	pathologie 154 180	distrofia miotónica tipo I
+T3	pathologie 182 191	DM tipo I
+T4	pathologie 195 217	enfermedad de Steinert
+T5	pathologie 234 246	BAV completo
+T6	pathologie 248 279	enfermedad restrictiva pulmonar
+T7	pathologie 342 370	hepatopatía crónica no viral
+T8	pathologie 426 440	hipotiroidismo
+T9	pathologie 475 478	HTA
+T10	pathologie 605 624	cataratas bilateral
+T11	pathologie 709 743	Bloqueo completo de rama izquierda
+T12	pathologie 793 808	derrame pleural
+#1	SNOMED T12	60046008
+#2	SNOMED T11	6180003
+#3	SNOMED T1	123845008
+#4	SNOMED T3	46635009
+#5	SNOMED T4	77956009
+#6	SNOMED T5	27885002
+#7	SNOMED T6	36485005
+#8	SNOMED T7	328383001
+#9	SNOMED T8	40930008
+#10	SNOMED T9	38341003
+#11	SNOMED T10	95722004
+#12	SNOMED T2	77956009

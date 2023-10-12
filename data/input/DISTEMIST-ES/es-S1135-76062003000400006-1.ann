@@ -1,0 +1,36 @@
+T1	pathologie 323 339	infarto inferior
+T2	pathologie 836 853	disección aórtica
+T3	pathologie 876 885	embolismo
+T4	pathologie 988 1015	patología en aorta torácica
+T5	pathologie 1074 1109	oclusión bilateral a nivel popliteo
+T6	pathologie 1420 1439	insuficiencia renal
+T7	pathologie 1442 1447	shock
+T8	pathologie 1983 1996	cardiomegalia
+T9	pathologie 2034 2074	ventrículo izquierdo estaba hipertrófico
+T10	pathologie 2175 2204	cardiopatía isquémica crónica
+T11	pathologie 2230 2237	infarto
+T12	pathologie 2344 2468	aorta torácica presenta una gran placa arterioesclerótica rota, con una hemorragia intraplaca y material trombótico adherido
+T13	pathologie 2495 2571	endotelio de la aorta abdominal está ocupado por material hemático coagulado
+T14	pathologie 2597 2631	hígado exhibía aspecto esteatósico
+T15	pathologie 2706 2716	esteatosis
+T16	pathologie 2719 2733	edema pulmonar
+T17	pathologie 2743 2882	arteriolas encargadas de irrigar la musculatura esquelética de las piernas, se advierten numerosos émbolos procedentes de placas de ateroma
+T18	pathologie 2969 3113	riñones presentan necrosis tubular aguda, pigmento mioglobínico en túbulos y émbolos en arteriolas procedentes de la rotura de placas de ateroma
+#1	SNOMED T12	312601003
+#2	SNOMED T17	425527003
+#3	SNOMED T18	90493000+35455006+48165008
+#4	SNOMED T8	8186001
+#5	SNOMED T4	312601003
+#6	SNOMED T9	55827005
+#7	SNOMED T6	723188008
+#8	SNOMED T7	27942005
+#9	SNOMED T5	314189001
+#10	SNOMED T13	448722002
+#11	SNOMED T10	413838009
+#12	SNOMED T14	197321007
+#13	SNOMED T2	308546005
+#14	SNOMED T11	55641003
+#15	SNOMED T3	414086009
+#16	SNOMED T1	73795002
+#17	SNOMED T15	29185008
+#18	SNOMED T16	19242006

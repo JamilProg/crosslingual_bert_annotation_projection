@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 47 ans, sans allergies médicamenteuses ni habitudes toxiques, avec des antécédents de double néoplasie mammaire métachrone. Première néoplasie mammaire à l'âge de 27 ans, pour laquelle une mastectomie a été pratiquée avec pour résultat un carcinome canalaire infiltrant (CDI) commun de grade 3 pT2N1b avec des récepteurs hormonaux (RH) positifs ; seconde néoplasie dans le sein controlatéral à l'âge de 39 ans, avec une seconde mastectomie pour un CDI de grade 1 pT1bpN0 avec des RH positifs.
+Ses antécédents familiaux de cancer comprennent deux sœurs atteintes d'un cancer du sein. L'une d'entre elles, ex-fumeuse avec une dose cumulée de 10 paquets-années, s'est présentée à l'âge de 35 ans avec un CBI de grade 3 pT2pN0, HR positif, subissant une quadrantectomie du sein gauche et un curage axillaire, suivis d'une chimiothérapie adjuvante à base de 5-fluorouracil-doxorubicine-cyclophosphamide pendant 4 cycles, puis de paclitaxel hebdomadaire pendant 12 cycles, avec une radiothérapie adjuvante et du tamoxifène.
+Cette sœur, âgée de 41 ans, en raison de douleurs pleurales, s'est vu diagnostiquer un carcinome pulmonaire peu différencié cT2N2, stade IIIA ; chimiothérapie néoadjuvante avec cisplatine-vinorelbine pendant 4 cycles, suivie d'une radiothérapie sur le médiastin, montrant une réponse radiologique partielle. Le cas a été présenté au comité et il a été décidé d'évaluer la chirurgie pulmonaire. Dans l'étude d'extension, une progression de la maladie a été observée avec l'apparition de deux métastases cérébrales. Une radiothérapie holocrânienne et une médiastinoscopie de restadification ont été effectuées, qui se sont révélées négatives, de sorte qu'une lobectomie supérieure gauche a été réalisée avec lymphadénectomie systémique, etpT2aypN0 . Trois mois après la chirurgie pulmonaire, la patiente est décédée d'une carcinomatose leptoméningée.
+L'autre sœur a présenté à l'âge de 29 ans un carcinome canalaire in situ et a subi une mastectomie du sein gauche et une chimioprévention par le tamoxifène. À l'âge de 35 ans, elle a présenté un IDC dans le sein controlatéral, grade 3 avec HR positif, pT1cpN1mic, pour lequel une tumorectomie a été réalisée, avec radiothérapie adjuvante et chimioprévention par le tamoxifène.
+En outre, il y avait des antécédents de cancer du sein chez trois parentes au deuxième degré du côté paternel, entre 35 et 45 ans.
+
+Examen physique
+La patiente était en bon état général, un examen des seins a été effectué, au cours duquel des prothèses mammaires bilatérales ont été palpées, aucun nodule ou adénopathie axillaire ou supraclaviculaire n'a été palpé. L'abdomen était souple et dépressible, aucune masse ou mégalithe n'a été palpée.
+
+Examens complémentaires
+ Une échoendoscopie de la glande pancréatique a montré une stéatose pancréatique, le reste étant normal.
+ L'étude est complétée par une IRM qui ne montre pas de dilatation canalaire ni de lésion focale suspecte.
+ La mammographie montre un moignon de mastectomie gauche sans lésion sous-jacente, comme pour le moignon de mastectomie droit.
+
+Traitement
+Les implications thérapeutiques possibles de la présence d'une mutation germinale du gène PALB2 sont encore inconnues.
+À ce jour, il n'existe pas de lignes directrices cliniques pour le suivi clinique des porteuses d'une mutation du gène PALB2. Le dépistage qui peut être recommandé aux porteuses de la mutation PALB2 comprend une mammographie et une imagerie par résonance magnétique (IRM) mammaire annuelle à partir de l'âge de 30 ans. Une IRM pancréatique ou cholangio-IRM annuelle et une échographie endoscopique annuelle peuvent être recommandées dans un contexte de recherche clinique, et l'option d'une salpingo-ovariectomie bilatérale prophylactique peut être discutée avec la patiente en fonction de ses antécédents familiaux.
+
+Évolution
+Les deux patients porteurs de la mutation sont suivis selon les recommandations ci-dessus, sans maladie pour le moment.

@@ -1,0 +1,25 @@
+Anamnèse
+Femme de 38 ans, n'ayant jamais fumé et n'ayant aucune autre habitude toxique ou exposition à des risques. Elle a des antécédents familiaux de cancer de la vessie, du poumon, du rein et du cerveau au premier et au deuxième degré. Il n'y avait pas d'antécédents de tumeurs compatibles avec une néoplasie endocrinienne multiple (NEM) dans la famille. Le seul antécédent pathologique intéressant était des épisodes de diarrhée depuis 2014, avec un seul épisode de rectorragie avec une coloscopie sans résultat pathologique.
+En février 2018, plusieurs lésions d'occupation de l'espace hépatique (LOE) ont été détectées fortuitement lors d'une échographie abdominale réalisée dans l'étude en raison d'antécédents familiaux d'anévrisme aortique. En ambulatoire, une étude a été complétée par une tomodensitométrie (TDM) dans laquelle des résultats radiologiques, hépatiques et osseux, suspects de M1, ont été décrits.
+Il a été décidé d'hospitaliser le patient pour compléter l'étude.
+
+Examen physique
+À l'examen physique, plusieurs petits ganglions lymphatiques sus-claviculaires étaient palpables. Le lobe thyroïdien gauche présentait un nodule dur et non adhérent. Le sein gauche présente un nævus de morphologie et de pigmentation irrégulières. Le reste de l'examen physique par appareil était inchangé.
+
+Tests complémentaires
+Lors de l'analyse d'admission, les marqueurs tumoraux ont été demandés et l'ACE 964,9 ng/ml et la chromogranine A 565 ng/Ml ont été trouvés augmentés.
+Une biopsie à l'aiguille (CNB) de la LOE hépatique a été effectuée, qui était infiltrée par un carcinome dont les techniques d'immunohistochimie suggéraient une origine pulmonaire ou mammaire, et une tomodensitométrie thoracique a été demandée. Une masse a été observée dans le lobe gauche de la thyroïde, soulevant la possibilité d'une tumeur primaire de la thyroïde ou d'un M1 à ce niveau. En outre, des adénopathies sus-claviculaires et médiastinales ont également été observées, ainsi que des lésions pulmonaires évoquant une lymphangite carcinomateuse.
+En raison de ces observations, une étude immunohistochimique approfondie des cellules tumorales du foie a été réalisée. Ces cellules étaient positives pour la synaptophysine et la calcitonine, mais négatives pour la thyroglobuline. Un dépôt de matière amyloïde a été observé.
+Dans le même temps, une mammographie a été réalisée, qui a révélé deux lésions suspectes dans le sein droit, confirmées par échographie. Dans la BAG du sein, une infiltration carcinomateuse a également été signalée, avec une immunohistochimie positive pour la calcitonine et la chromogranine A, écartant l'hypothèse d'une néoplasie mammaire primaire. En outre, la coloration au rouge Congo était positive, soulignant la présence d'un dépôt de matière amyloïde. La concentration de calcitonine sérique a été déterminée et s'est avérée très élevée (51 300 pg/Ml).
+Compte tenu du diagnostic présumé de carcinome médullaire de la thyroïde, une aspiration à l'aiguille fine (AAF) de la thyroïde guidée par échographie a été réalisée, confirmant le diagnostic cytologique. Une tomodensitométrie du cou a montré une masse mesurant 30 x 31 mm, avec un effet de masse significatif sur la trachée, la déplaçant vers la droite, sans l'effondrer.
+Un bilan d'extension a été réalisé par scintigraphie osseuse, avec des lésions compatibles avec une dissémination métastatique osseuse diffuse avec une probable prédominance lytique.
+
+Diagnostic
+Diagnostic de carcinome médullaire de la thyroïde de stade IV C avec N1 et M1 mammaires, osseux, hépatiques et éventuellement pulmonaires, découvert suite à la détection fortuite d'un LOE hépatique par échographie abdominale. Une étude génétique a été réalisée, qui s'est révélée négative pour RET, MET et MEN1, excluant le diagnostic syndromique de MEN2.
+
+Traitement
+Un traitement de première intention par vandétanib (300 mg/jour) a été débuté en août 2018, avec une bonne tolérance. La seule complication a été une toxicité cutanée G1 quelques semaines après le début du traitement. En comité des tumeurs endocriniennes, il a été décidé d'orienter la patiente vers une chirurgie pour thyroïdectomie et curage ganglionnaire sélectif, dans le but de réduire la masse tumorale. Cependant, le patient a refusé après avoir reçu un second avis dans un autre centre.
+
+Évolution
+Après six mois de traitement, la patiente était stable et menait une vie active. Un scanner thoracique de suivi a été réalisé en février 2019, montrant une réduction partielle de la masse thyroïdienne, une diminution des nodules pulmonaires et des lésions hépatiques, concluant à une amélioration radiologique de la maladie oncologique. Les taux de calcitonine et de CEA au moment du diagnostic étaient respectivement de
+51 300 pg/ml et 858pg/ml respectivement. Après 6 mois de traitement, ils avaient diminué à 4 420 pg/ml et 337pg/ml.

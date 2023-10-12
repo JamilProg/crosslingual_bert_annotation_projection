@@ -1,0 +1,36 @@
+Anamnèse
+
+HISTOIRE DE LA FAMILLE
+
+La mère du patient est décédée à l'âge de 38 ans d'un thymome.
+
+CONTEXTE PERSONNEL
+
+Un homme de 40 ans avec des antécédents personnels d'intolérance à l'ibuprofène, d'hypertension artérielle essentielle sous traitement à l'énalapril et d'épilepsie partielle secondaire à une anoxie post-partum diagnostiquée en 1998 et sous traitement au valproate, à la lamotrigine et au levetiracetam avec un bon contrôle. En outre, un lymphome centroblastique diffus de Hodgkin de stade IV-B a été diagnostiqué chez lui en 1993. Entre juin et novembre 1993, il a reçu une chimiothérapie (QT) selon le schéma COD-BLAM IV (cyclophosphamide, vincristine, prednisone, bléomycine, doxorubicine, procarbazine) pendant 4 cycles et une RT sur le genou droit (40Gy, en octobre 1993) avec une réponse complète ultérieure. Il a également reçu du QT intrathécal pendant 6 cycles à titre prophylactique. Par la suite, en juin 1994, une autogreffe de sang périphérique a été réalisée avec un conditionnement BEAM (BCNU, étoposide, cytosine arabinoside et melphalan) et 6 jours plus tard, une perfusion a été réalisée. Suivi par le service d'hématologie après réponse complète jusqu'en mars 2016.
+
+MALADIE ACTUELLE
+Lors d'un bilan de santé en janvier 2015, la patiente a signalé des gonalgies du côté droit depuis des mois. Un examen d'imagerie par résonance magnétique (IRM) a été entrepris en raison d'une suspicion d'infiltration de lymphome, compte tenu des antécédents de la patiente. On a observé une altération du signal de la moelle osseuse affectant le condyle fémoral externe et la région métaphysoépiphysaire. L'étude a été complétée par un scanner PET-CT montrant une lésion hypermétabolique agressive dans le condyle externe du fémur droit, ce qui a conduit à un diagnostic différentiel entre une pathologie bénigne telle qu'une ostéomyélite (sans exclure la tuberculose) et une pathologie maligne (métastase, myélome, lymphome).
+
+Il a été adressé au service de traumatologie, qui a réalisé une biopsie osseuse ouverte avec le résultat d'un tissu ostéochondral bénin et fibreux et une nouvelle IRM (juillet 2015) avec une lésion simulant une dysplasie osseuse sclérosante ou une lésion traitée avec progression de celle-ci en raison d'une transformation maligne ou d'une infection subaiguë. Une nouvelle biopsie osseuse guidée par scanner a été réalisée en août 2015, l'anatomie pathologique montrant un processus fibreux réparateur sans pouvoir exclure des lésions de type dysplasie osseuse. Au vu des résultats négatifs des biopsies avec images suspectes, il a été décidé de réaliser une IRM du genou droit après 3 mois (novembre 2015), où aucune variation n'a été observée.
+
+Suite à ces bilans, le patient s'est présenté aux urgences le 3/01/2016 après une chute occasionnelle avec une douleur et une impotence fonctionnelle du genou droit. La radiographie a montré une fracture supracondylienne du fémur droit. Il a été admis dans le service de traumatologie et a été opéré le 8/01/2016 avec une biopsie de la zone fracturée, une arthrocentèse, une réduction de la fracture et une ostéosynthèse avec une plaque LISS à 5 trous. L'anatomie pathologique a révélé une tumeur fibroblastique très évocatrice d'un fibrosarcome sur un os précédemment irradié. L'étude a été complétée par un nouveau PET-CT scan (26/01/2106) avec une captation irrégulière dans le territoire de la fracture pathologique fémorale supracondylienne droite artéfactualisée par le matériel d'ostéosynthèse sans pouvoir délimiter la captation sur le processus néoprolifératif connu dans le condyle fémoral externe. Par conséquent, le 25/02/2016, la lésion a été réséquée en bloc avec le matériel d'ostéosynthèse et une arthroplastie tumorale du genou droit et une ostéotomie de la tubérosité tibiale antérieure ont été réalisées. Les résultats anatomo-pathologiques étaient compatibles avec un ostéosarcome, dans ce cas post-radique, avec des marges exemptes d'infiltration tumorale. Le patient est sorti de l'hôpital le 1/03/2016 après une bonne évolution.
+
+Examen physique
+ECOG 1. Indépendant pour toutes les activités de base de la vie quotidienne (ABVD). Le patient présente une légère asthénie. Il conserve un mode de vie actif, marchant avec des béquilles. L'examen physique ne montre aucune altération. Plaie ouverte au genou droit de bonne apparence et de bonne évolution.
+
+Tests complémentaires
+
+Examens de laboratoire : fonction rénale préservée. Hémogramme sans altération.
+
+Echocardiogramme : normal.
+
+CT thoracique-abdominal-pelvien : une atteinte métastatique est exclue.
+
+Diagnostic
+Le diagnostic initial était histiocytome fibreux malin de l'os du fémur distal droit pT1-2N0M0, Gx, stade Ib. Cependant, après examen, le diagnostic final a été un ostéosarcome du fémur distal droit pT1-2N0M0, Gx, stade Ib.
+
+Traitement
+Après confirmation du diagnostic, le patient est adressé au service d'oncologie médicale pour évaluer le traitement adjuvant. Tous les traitements reçus par le patient en raison d'antécédents de lymphome ont été passés en revue. Étant donné qu'il a été traité avec une dose totale de Doxorubicine de 200mg/m2, une dose supplémentaire de 300mg/m2 pourrait être administrée. Par conséquent, le 18/05/2016, le patient reçoit le premier cycle de chimiothérapie adjuvante avec trois semaines de Cisplatine 75 - Doxorubicine 25 pour 6 cycles, ainsi que du G-CSF de soutien, afin d'éviter des complications infectieuses graves.
+
+Évolution
+Après le premier cycle de traitement, le patient a présenté une excellente tolérance, suite au traitement ambulatoire de la plaie chirurgicale dans sa policlinique de référence, avec une bonne évolution. Le patient a reçu le deuxième cycle de chimiothérapie le 7/06/2016, sans incident immédiat. Un contrôle est prévu dans 3 semaines. Un contrôle radiologique et échocardiographique est prévu après les troisième et sixième cycles de chimiothérapie.

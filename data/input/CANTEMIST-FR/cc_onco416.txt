@@ -1,0 +1,27 @@
+Anamnèse
+La patiente est une femme de 73 ans, sans allergie médicamenteuse connue, avec des antécédents personnels intéressants d'arthrose sévère et de goitre multinodulaire opéré par thyroïdectomie, sous traitement substitutif. Dans sa famille, un carcinome mammaire a été diagnostiqué chez sa mère à l'âge de 52 ans.
+
+Examen physique
+Palpation d'un nodule dans le quadrant supéro-externe du sein gauche. Le reste de l'examen physique n'a rien révélé.
+
+Essais complémentaires
+[À décrire dans la section sur l'évolution].
+
+Diagnostic
+"Carcinome canalaire infiltrant du sein gauche.
+"Oligodendrogliome anaplasique de l'OMS III.
+"Ostéosarcome.
+
+Traitement
+[Décrit dans la section sur l'évolution].
+
+Évolution
+En 2006, on a diagnostiqué chez la patiente un carcinome canalaire infiltrant du sein gauche pT1cpN0 avec IHC triple négatif. Elle a reçu une chimiothérapie néoadjuvante à base de taxane et d'anthracycline. Une tumorectomie et un curage axillaire ont été effectués. Carcinome canalaire infiltrant de grade II de 1,2 cm de diamètre sans métastase ganglionnaire. Les bords de la résection sont libres. Elle a reçu une radiothérapie de la glande mammaire gauche (50Gy) et du lit tumoral (10Gy).
+Au cours du suivi, en décembre 2006, une échographie abdominale a mis en évidence une lésion occupant de l'espace (LOE) dans le foie, évoquant une métastase plutôt qu'un hémangiome. Aucune FNA n'a été réalisée en raison de la possibilité d'hémangiome et du risque de saignement, les marqueurs tumoraux étant normaux, une TEP a été demandée.
+Le résultat était très suspect de métastases hépatiques et une chimiothérapie a été administrée à nouveau avec une réponse radiologique complète et un suivi ultérieur.
+En juin 2009, après des maux de tête et une désorientation, une tomodensitométrie et une imagerie par résonance magnétique (IRM) cérébrale ont été réalisées en urgence, montrant une lésion unique dans la région temporo-occipitale droite, compatible avec une métastase et un œdème périlésionnel. Le service de neurochirurgie a rejeté la biopsie et la patiente a été orientée vers un traitement par radiothérapie palliative holocrânienne, recevant un total de 30 Gy en 10 séances. Le suivi ultérieur par le service de radiothérapie a décidé d'une radiochirurgie stéréotaxique au vu de la lésion résiduelle, qui a été bien tolérée.
+Lors des contrôles successifs, la disparition de la LOE cérébrale a été observée, avec une lésion résiduelle ponctuée submillimétrique dans le lobe temporal droit, pour laquelle un suivi a été décidé.
+Aucun signe de rechute de la tumeur n'a été observé jusqu'en novembre 2015, date à laquelle, lors d'une IRM cérébrale de contrôle, une augmentation significative de la taille et de la captation a été détectée dans la zone de la lésion précédente, située dans le lobe temporal droit. Biopsie en février 2016 : le résultat anatomopathologique était compatible avec un oligodendrogliome anaplasique de l'OMS III. Après une chirurgie locale, une immunofluorescence a été réalisée selon la technique FISH, qui a montré une perte des sondes qui s'hybrident avec 1p36 et 19q13. Une chimiothérapie adjuvante a été mise en place avec un schéma de traitement en PVC : CCNU, procarbazine et vincristine toutes les 6 semaines, pour un total de 3 cycles, car le traitement a dû être suspendu en raison d'une mauvaise tolérance.
+Au cours de ces années, la patiente a présenté une détérioration cognitive notable, principalement en termes de mémoire et de bradypsychie.
+En mai 2018, lors de la consultation de suivi, une lésion nécrotique a été observée dans la zone chirurgicale de la calotte et une IRM a confirmé une lésion bipariétale des tissus mous, dans laquelle une FNA a été réalisée avec le résultat d'un ostéosarcome.
+Un traitement palliatif a été décidé.

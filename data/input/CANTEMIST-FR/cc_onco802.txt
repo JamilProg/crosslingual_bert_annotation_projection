@@ -1,0 +1,29 @@
+Anamnèse
+Homme âgé de 59 ans, fumeur actif d'un paquet de cigarettes depuis l'âge de 15 ans (dose totale accumulée de 40 paquets/an), obésité de grade 2 et bronchopneumopathie chronique obstructive (BPCO) Gold 2 avec contrôles erratiques.
+Le père a été diagnostiqué à 72 ans avec un carcinome épidermoïde du pilier amygdalien gauche. Célibataire, il vit avec sa mère et est actuellement au chômage.
+
+Examen physique
+Consultation aux urgences de notre centre en octobre 2017, lors d'une chute apparemment accidentelle, avec traumatisme craniocérébral et apparition ultérieure d'une dysarthrie et d'une hypoesthésie de l'hémiface gauche (langue, lèvre et joue).
+À l'arrivée, l'hémodynamique est correcte et le patient est afébrile. Examen physique neurologique sans altération des nerfs crâniens, persistance d'une légère dysarthrie. Romberg négatif. Du point de vue respiratoire, aucun signe ou symptôme notable. Aucune adénopathie supraclaviculaire ou latérocervicale n'était palpable.
+
+Examens complémentaires
+Une tomodensitométrie cérébrale a été réalisée au service des urgences, montrant de multiples lésions supra- et infratentorielles avec une prise de contraste périphérique, suggérant une métastase.
+Il a été admis en médecine interne où un scanner thoraco-abdominal a montré une masse de 6 x 3 cm dans le lobe inférieur droit, et une bronchoscopie, une lésion rouge vif au niveau de la pyramide basale droite. L'anatomie pathologique de cette dernière est compatible avec une tumeur neuroendocrine carcinoïde, avec une positivité pour le CD56, la chromogranine et la synaptophysine, avec un index de prolifération estimé à environ 1 % par le Ki-67.
+En termes de marqueurs tumoraux, la chromogranine A 174 ug/l (0-100) et l'énolase 15,3 mcg/l (0-16) se distinguent. La TEP-TDM a montré une atteinte adénopathique médiastinale bilatérale, sans autre lésion à distance.
+À sa sortie de l'hôpital, la patiente a été adressée au service ambulatoire d'oncologie médicale. Initialement classé comme tumeur neuroendocrine de stade IV, l'oncologue qui s'occupait du patient a été frappé par l'excellent état général du patient, l'anatomie pathologique indiquait une tumeur carcinoïde typique (Ki67 1% et absence de nécrose) mais, néanmoins, avec un schéma de dissémination inhabituel pour ce sous-type histologique.
+La bronchoscopie a donc été répétée avec une cryobiopsie de la masse endobronchique, cette fois suggestive d'un carcinoïde atypique (Ki67 5%, mitose et nécrose de la plupart des tissus). Cependant, la ponction à l'aiguille fine de l'adénopathie paratrachéale gauche s'est révélée positive pour un carcinome non à petites cellules, avec la présence d'amas de grandes cellules et d'un nucléole proéminent.
+Il a été décidé de réaliser une médiastinoscopie, qui a finalement donné un résultat plus conforme au schéma de dissémination du patient : adénocarcinome du poumon. EGFR non muté, ALK non transloqué avec un PD-L1 de 1%.
+Un octréoscan a également été réalisé et a montré une lésion pulmonaire droite exprimant les récepteurs de la somatostatine, ce qui a permis d'exclure d'autres lésions à distance.
+
+Diagnostic
+Le cas est finalement orienté comme un jeune patient, âgé de 60 ans, avec deux néoplasmes pulmonaires synchrones. Premièrement, un adénocarcinome peu différencié du lobe inférieur droit de stade IV avec dissémination médiastinale et cérébrale multiple, EGFR non muté, ALK non transloqué et faible expression de PD-L1. Deuxièmement, une tumeur carcinoïde atypique localisée.
+
+Traitement
+La radiothérapie holocrânienne est commencée lors de l'admission en médecine interne. Un total de 30 Grays (Gy) a été administré, réparti sur 10 séances à raison de 3 Gy par séance. Le traitement s'est terminé le 15/11/2017, sans aucun incident.
+Le pronostic étant marqué par l'adénocarcinome peu différencié, il a été décidé de débuter une première ligne de chimiothérapie standard le 16/1/2018 avec du cisplatine 75 mg/m2 associé à du pemetrexed 500 mg/m2 toutes les 3 semaines.
+Il a été décidé de ne pas associer d'analogues de la somatostatine afin de ne pas ajouter de toxicités au schéma précédent.
+
+Évolution
+Il a subi le troisième cycle de cisplatine-pemetrexed le 26/2/2018. Comme toxicités, il a présenté, après 3 cycles, une asthénie de grade 2 et une diarrhée de grade 1.
+Cependant, fin mars, il a été admis au service d'oncologie médicale pour exacerbation de sa BPCO. Lors de son admission, un scanner a été réalisé qui a montré une stabilité de la lésion pulmonaire, mais l'apparition d'une lésion hépatique évocatrice d'une métastase.
+Le patient a évolué favorablement sur le plan respiratoire. Il est actuellement en attente d'évaluation de nouvelles options thérapeutiques en ambulatoire.

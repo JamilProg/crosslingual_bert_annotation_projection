@@ -1,0 +1,41 @@
+Anamnèse
+La patiente est une femme de 56 ans, sans allergies médicamenteuses connues et sans antécédents personnels intéressants, à l'exception du fait qu'elle fume 40 paquets par an.
+Son père, ses 3 oncles paternels et ses 4 frères sont décédés d'un cancer du poumon, sa grand-mère maternelle est décédée d'un cancer du côlon et sa mère a eu un cancer de la thyroïde.
+En octobre 2008, elle consulte pour une augmentation de sa dyspnée habituelle, lors d'un effort modéré ou léger et l'apparition d'une toux non productive.
+
+Examen physique
+L'auscultation cardio-pulmonaire a révélé une légère hypoventilation généralisée dans les deux hémithorax, sans autres bruits. En outre, il y avait des acropacités.
+Le reste de l'examen de l'appareil et des systèmes n'a révélé aucun élément pathologique intéressant.
+
+Examens complémentaires
+- Radiographie thoracique : masse pulmonaire dans le lobe moyen droit d'environ 5 cm de diamètre.
+- Tomodensitométrie : nodule spiculé dans le lobe supérieur gauche mesurant 2,2 x 2 cm et masse dans le lobe moyen mesurant 5 x 5,3 cm provoquant une obstruction distale de la bronche lobaire moyenne et une atélectasie et infiltrant la veine pulmonaire supérieure et envahissant le péricarde. Adénopathies mal délimitées dans la fenêtre aorto-pulmonaire. Aucune autre observation.
+- Tomographie par émission de positons : dépôt pathologique dans le lobe moyen de 5,4 x 5,6 cm avec un taux métabolique élevé (SUV max = 8,5) et dépôt de 1,8 x 1,2 cm dans le lobe pulmonaire supérieur gauche avec un taux métabolique (SUV max = 4). Tous deux pathologiques.
+- Bronchoscopie : masse obstructive à l'entrée du lobe moyen. Reste de l'étude sans altération.
+- Épreuves fonctionnelles respiratoires : modèle obstructif léger.
+Capacité vitale forcée (CVF) : 2,92 litres.
+Volume expiré de pointe dans la première seconde d'expiration forcée (VEMS) : 2,48 litres.
+Rapport VEMS/CVF : 78 %.
+- Aspiration à l'aiguille fine :
+Lésion du lobe supérieur gauche : carcinome épidermoïde.
+Lésion du lobe moyen : carcinome à grandes cellules.
+
+Diagnostic
+Double tumeur pulmonaire synchrone :
+- Carcinome épidermoïde dans le lobe supérieur gauche. T1bN0M0.
+- Carcinome à grandes cellules dans le lobe moyen. T4N0M0.
+
+Traitement
+Le cas a été présenté au comité des tumeurs pulmonaires et il a été décidé de commencer un traitement systémique. En novembre 2008, le traitement par chimiothérapie a commencé selon l'AUC du carboplatine : 5 tous les 21 jours avec la gemcitabine 1 250 mg/m2 les jours 1 et 8.
+
+Évolution
+En janvier 2009, après trois cycles de traitement, un scanner d'évaluation a été réalisé et a montré un comportement différent des néoplasmes pulmonaires. On a observé une stabilité de la masse spiculée dans le lobe supérieur gauche, ainsi qu'une réduction significative de la masse dans le lobe moyen, qui a été visualisée à ce moment-là comme une atélectasie partielle du lobe moyen, sans masse mesurable.
+Compte tenu de la réponse dissociée, le cas a été présenté à nouveau au comité des tumeurs. Il a été décidé de réséquer la tumeur dans le lobe supérieur gauche et de traiter ensuite la lésion du lobe moyen par une chimiothérapie/radiothérapie concomitante.
+Le 20 janvier 2009, une segmentectomie du lobe supérieur gauche a été réalisée avec un résultat anatomopathologique d'adénocarcinome, variante mixte, modérément différencié, de 20 mm de diamètre avec invasion de la plèvre viscérale (pT2a). La détermination de la mutation de l'EGFR s'est révélée négative.
+Après l'opération, le 19 février 2009, il a commencé un traitement par chimiothérapie (carboplatine AUC : 2 avec paclitaxel 50 mg/m2 par semaine) et radiothérapie concomitante, qui s'est achevé en avril 2009.
+La tomodensitométrie réalisée après la fin du traitement a montré des changements secondaires à la chirurgie dans le lobe supérieur gauche, avec absence de rechute locale et diminution de l'atélectasie partielle du lobe moyen, sans signe de tumeur. La tomographie par émission de positons réalisée après la fin du traitement n'a révélé aucune zone de captation pathologique.
+La patiente a continué à se soumettre à des contrôles réguliers et est restée en réponse complète sans changement jusqu'en avril 2014, date à laquelle le scanner a montré l'apparition d'une lésion apicale droite de 27 mm de diamètre entourant l'artère sous-clavière droite à 170º, ainsi qu'une adénopathie paratrachéale basse mesurant 12 mm.
+Au vu de ces résultats, une étude d'extension a été demandée :
+- Tomographie par émission de positons : dépôt pathologique dans la cavité thoracique situé à l'apex du poumon droit, d'aspect arrondi (diamètre maximal de 2,8 cm) avec un taux métabolique élevé (SUV max = 10,7) indiquant une lésion pulmonaire proliférative ; Un autre petit dépôt pathologique (diamètre maximal de 1,3 cm) a également été trouvé dans le médiastin au niveau paratrachéal droit (4R) avec un taux métabolique modéré (SUV max = 3,6) reflétant la présence d'une adénopathie proliférative.
+- Biopsie transbronchique guidée par échobronchoscopie : une adénopathie est observée dans la partie supéro-externe de la bronche principale droite (10R). Une ponction a été effectuée, avec des résultats anatomopathologiques positifs pour les cellules malignes compatibles avec un adénocarcinome, avec des études négatives de réarrangement ALK et de mutation EGFR et K-RAS.
+Avec un diagnostic d'adénocarcinome T1a N2 M0, stade IIIA, le comité des tumeurs a décidé de commencer un traitement systémique avec du cisplatine 75 mg/m2 et du pemetrexed 500 mg/m2, qui a débuté le 28 mai 2014.

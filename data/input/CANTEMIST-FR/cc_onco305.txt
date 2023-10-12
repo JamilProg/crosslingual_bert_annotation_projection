@@ -1,0 +1,30 @@
+Anamnèse
+Le patient est un homme de 52 ans, sans allergies médicamenteuses connues, ni antécédents médico-chirurgicaux personnels ou familiaux dignes d'intérêt. En ce qui concerne les habitudes toxiques, il fumait 10 cigarettes par jour et refusait de consommer de l'alcool. Après avoir réalisé une échographie abdominale du système urinaire en novembre 2003, une masse a été découverte au niveau du pancréas, avec de multiples lésions occupant l'espace (LOE) dans le parenchyme hépatique, de sorte qu'une ponction-aspiration à l'aiguille fine (FNA) a été réalisée, avec des résultats de l'anatomie pathologique (PA) compatibles avec un sarcome.
+
+Examen physique
+À l'examen physique, le patient était en bon état général, asymptomatique, avec une auscultation cardio-pulmonaire normale, et à la palpation abdominale, il y avait une masse d'environ 6 x 6 centimètres, située dans l'hypochondre gauche, non douloureuse, sans palpation d'autres viscéro-mégalies. Le reste de l'examen physique était normal.
+
+Tests complémentaires
+"FNA du LOE hépatique.
+"Tomodensitométrie diagnostique de l'étude d'extension.
+"Tomodensitométrie de suivi.
+
+Diagnostic
+Diagnostiqué en novembre 2003 pour une tumeur du pancréas avec des LOE hépatiques, avec une FNA compatible avec un sarcome (CKit négatif). Il a été opéré en janvier 2004 avec une résection de la tumeur qui a nécessité l'exérèse du parenchyme du corps et de la queue du pancréas, ainsi que du nodule hépatique. Le rapport du médecin légiste était positif pour un léiomyosarcome pléomorphe, d'une taille de 12 cm, avec un nodule hépatique positif pour le léiomyosarcome. L'immunohistochimie (IHC) était positive pour la polyactine, la vimentine, le HMB45 et le Melan-A, et le diagnostic définitif suggérait un ANGIOMYOLIPOMA MALIGNANT (MLA).
+
+Traitement
+"1er : Intervention chirurgicale de la tumeur primaire et des métastases hépatiques.
+"2ème : Chimiothérapie avec Adriamycine et Ifosfamide.
+"3ème : Segmentectomie des segments hépatiques II/III, métastasectomie multiple (5 lésions) et radiofréquence dans le reste des lésions.
+"4ème : Inhibiteurs de la voie mTOR, Sirolimus.
+
+Évolution
+Après l'intervention chirurgicale, le patient a commencé un suivi clinique. Le scanner réalisé en mars 2004 a mis en évidence de multiples métastases pulmonaires et hépatiques, ce qui l'a conduit à recevoir un traitement de chimiothérapie par Adriamycine (3 cycles) et Ifosfamide (12,5 g/m2 en perfusion continue de 5 jours) (2 cycles). Au cours du deuxième cycle d'Ifosfomide, elle a présenté une cystite hémorragique qui a spontanément cessé avec la suspension du QT (60% du deuxième cycle a été administré et le troisième a été suspendu), avec une stabilisation de la maladie.
+Un suivi clinico-radiologique étroit a été effectué et la patiente a toujours été dans un très bon état général, avec une stabilisation de la maladie.
+Le scanner thoracique de 12/2011 montre une légère augmentation de la taille des lésions métastatiques pulmonaires multiples bilatérales, et le scanner abdominal de la même date montre une augmentation de la taille de la lésion hépatique du segment II. Compte tenu du type de tumeur et du bon état général de la patiente, une mise en observation a été proposée. Le scanner thoraco-abdominal suivant, daté de 06/2012, montre une stabilité de l'atteinte métastatique pulmonaire et une légère progression de l'atteinte métastatique hépatique du segment II. Il a été présenté au comité des tumeurs sarcomateuses pour une décision thérapeutique, et il a été décidé de procéder à une chirurgie des métastases hépatiques, opérées en 07/2012 avec segmentectomie des segments hépatiques II/III, métastasectomie multiple (5 lésions) et radiofréquence dans le reste des lésions. Le résultat de l'examen anatomopathologique est le suivant :
+- Segment II-III : positif pour un PECome de 6 cm de taille, avec des marges libres.
+- Segment 4b, 6, 7, 5, 8 : positif pour un PECome de 0,5 à 1,5 cm avec une extension focale aux marges.
+- Étude IHC : positive pour Melan-A, HMB45 et Desmin 1.
+Il a repris le suivi clinico-radiologique ; au scanner de 11/2013, le poumon était stable, mais il y avait une progression au niveau du foie, plus évidente, surtout au niveau des lésions situées dans le dôme du foie, dont certaines avaient augmenté de 16 à 40 mm, mais une approche attentiste a été décidée.
+En février 2014, le scanner abdominal a montré une progression de l'atteinte métastatique du foie, la plus grande lésion mesurant 7 cm dans les segments VII-VIII, avec une atteinte du reste du parenchyme hépatique. Dans cette situation, le patient n'était pas candidat à la chirurgie en raison de la localisation et de l'étendue de la maladie, il a donc commencé un traitement avec des inhibiteurs de mTOR, en l'occurrence le Sirolimus, en mars 2014, à une dose de 4mg toutes les 24 heures. Le scanner suivant a montré une stabilisation de la maladie, avec la poursuite du même traitement.
+Il a continué à subir des contrôles évolutifs, la dernière étude radiologique datant de septembre 2015, avec une stabilisation de la maladie, la poursuite du traitement par Sirolimus à la même dose, avec un très bon état général du patient.

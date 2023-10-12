@@ -1,0 +1,24 @@
+Anamnèse
+En 2010, à la suite d'une hématurie macroscopique, le patient a subi une échographie dans le centre spécialisé et a été diagnostiqué avec une masse rénale gauche. Le scanner a montré une masse de 6 x 6 cm sans preuve d'implication métastatique. Une néphrectomie gauche totale a été pratiquée, l'histologie indiquant un carcinome rénal à cellules claires (CRCC) de Fuhrman de grade 3 sans extension extrarénale avec quelques images d'invasion vasculaire veineuse, ce qui correspondrait à pT1bN0M0.
+Le patient a subi des contrôles annuels par tomodensitométrie, où un nodule millimétrique à croissance lente a été observé dans le lobe inférieur gauche jusqu'en juin 2016, date à laquelle il a été discuté au sein du comité des tumeurs thoraciques et il a été décidé de procéder à l'excision chirurgicale de la lésion, qui a été rapportée comme une lésion de 1,2 cm compatible avec une métastase de CRCC, pour laquelle il a été référé au service ambulatoire d'oncologie médicale : il s'agissait d'un patient oligométastatique et il a donc été décidé de réaliser un suivi semestriel par tomodensitométrie.
+Lors du premier scanner de contrôle (octobre 2017), des lésions hypervasculaires ont été observées au niveau de la tête : processus unciné du pancréas restant. Le cas a été discuté au sein du comité des tumeurs hépatobiliopancréatiques et il a été décidé d'exclure d'autres niveaux d'atteinte par TEP et de réaliser une biopsie ciblée par échographie endoscopique. La TEP n'a montré aucun signe de maladie métaboliquement active ; cependant, la biopsie par échoendoscopie était positive pour le carcinome sans pouvoir exclure une origine rénale, de sorte qu'en février 2018, une pancréatectomie de Whipple a été réalisée : la pièce opératoire a montré quatre lésions métastatiques pour le CRCC, sans aucun signe d'atteinte ganglionnaire dans les 28 ganglions lymphatiques de la pièce opératoire.
+Avant la réalisation du scanner de contrôle, le patient a dû être admis au service digestif pour des douleurs abdominales et une hémorragie gastro-intestinale haute, et l'endoscopie gastro-intestinale haute a révélé une lésion ulcéreuse arrondie avec des bords irréguliers dont l'anatomie pathologique était positive pour le CRCC. Il s'agirait d'un risque intermédiaire selon les critères de l'International Metastatic RCC Database Consortium (IMDC)1 en raison de la neutrophilie.
+
+Examen physique
+ECOG 0, l'examen physique ne révèle que la cicatrice costale gauche de la thoracotomie et une hypoventilation à la base de l'hémithorax gauche.
+
+Examens complémentaires
+" Le premier scanner de contrôle (octobre 2017) a montré l'apparition de lésions hypervasculaires au niveau de la tête : processus unciné du pancréas restant.
+" Le PET scan n'a montré aucun signe de maladie métaboliquement active.
+" La biopsie réalisée par échoendoscopie était positive pour un carcinome sans pouvoir exclure une origine rénale.
+"Une tomodensitométrie de contrôle effectuée six mois après la chirurgie de Whipple a révélé des adénopathies para-aortiques et aortocaves à croissance lente. Après avoir discuté du cas avec le comité d'urologie, il a donc été décidé d'attendre et de procéder à un contrôle précoce dans trois mois.
+"L'endoscopie du tractus gastro-intestinal supérieur réalisée lors de l'admission au service digestif a révélé une lésion ulcéreuse arrondie avec des bords irréguliers, dont l'examen pathologique était positif pour le CRCC.
+
+Diagnostic
+Carcinome rénal à cellules claires pT1bN1M1 (atteinte métastatique gastrique, pulmonaire et pancréatique).
+
+Traitement
+Pazopanib 400 mg pendant 2 cycles de 28 jours, puis pazopanib 800 mg.
+
+Évolution
+La patiente a montré une excellente tolérance au traitement par pazopanib, la seule toxicité étant des nausées de grade 1, et aucun autre saignement gastro-intestinal supérieur. La première tomodensitométrie réalisée après le début du traitement a montré une stabilité de la maladie.

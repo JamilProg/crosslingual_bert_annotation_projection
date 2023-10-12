@@ -1,0 +1,55 @@
+Anamnèse
+Homme de 64 ans, marié et en préretraite pour cause de dépression ; allergique au diclofénac et sans habitudes toxiques connues. Il n'avait pas d'antécédents familiaux intéressants et ses antécédents pathologiques comprenaient une hypertension, une dyslipidémie, un trouble dépressif majeur diagnostiqué en 2011, qui a nécessité plusieurs admissions dans l'unité de psychiatrie et une déficience cognitive légère à modérée. Son traitement pharmacologique habituel consistait en Omeprazole 40mg pour le petit-déjeuner, Paroxetine 20mg pour le petit-déjeuner et le dîner, Mianserin 30mg pour le dîner, Losartan 50mg pour le petit-déjeuner, 100mg pour le dîner, Gemfibrozil 900mg pour le dîner et Tamsulosin 0,4mg pour le petit-déjeuner.
+
+**** ANTÉCÉDENTS ONCOLOGIQUES :
+En avril 2009, le patient a subi une néphrectomie gauche par laparoscopie, avec un diagnostic de carcinome rénal à cellules claires (ca.), stade pT1b G2.
+- Par la suite, il a effectué des contrôles jusqu'en janvier 2015, date à laquelle une rechute à distance a été diagnostiquée (masse prévertébrale D9-D10 avec atteinte osseuse) avec une FNA positive pour le carcinome rénal.
+Intervalle sans maladie : 5,9 ans. Pour cette raison, le Pazopanib a été indiqué, présentant une toxicité inacceptable sous la forme d'une hépatotoxicité et d'une mucosite g.2.
+- En février 2015, il a reçu une radiothérapie (RT) de 30 Gy sur D9-L3 en raison de symptômes neurologiques et d'une nouvelle lésion en L2 avec une masse des tissus mous.
+- En mai 2015, il a été décidé de passer au Sunitinib, qu'elle a subi pendant 3 mois avec une toxicité digestive (douleurs abdominales généralisées de type colique avec nausées et constipation occasionnelles) et un déséquilibre psychiatrique (nervosité importante nécessitant un ajustement du traitement). Une scintigraphie osseuse (GGO) a été réalisée et une nouvelle progression a été observée. En raison de la toxicité digestive mal tolérée et du déséquilibre psychiatrique, il a été décidé d'arrêter le traitement antiangiogénique et de surveiller étroitement la patiente.
+- Le scanner de décembre 2015 a montré une nouvelle progression de la maladie avec l'apparition d'adénopathies médiastinales et de métastases pulmonaires, ainsi que de nouvelles lésions osseuses ; l'évérolimus en 2e ligne a donc été débuté puis arrêté après 7 jours en raison de douleurs abdominales, de vomissements, de diarrhées et d'un malaise général qui se sont améliorés après l'arrêt du traitement.
+- Enfin, en janvier 2016, il a été décidé d'arrêter définitivement le traitement oncospécifique en raison d'une mauvaise tolérance et d'une mauvaise observance ; un suivi par l'équipe de soins palliatifs a été mis en place. Une RT analgésique palliative a de nouveau été administrée, à la dose de 8Gy à J5-D9.
+
+Symptômes et signes de la maladie actuelle :
+Le seul symptôme de notre patient est une douleur dorsale mal contrôlée d'origine tumorale, dont nous donnons une description détaillée ci-dessous.
+- Localisation : douleur lombaire (D9) à caractère lancinant, irradiant vers la paroi thoracique gauche avec une distribution métamérique. Plus tard, il a présenté une lombalgie avec extension radiculaire L2-L3 accompagnée d'une faiblesse et d'une paresthésie dans les deux membres inférieurs.
+- Durée : douleur continue, débutant tôt le matin (EVA 3-4/10), augmentant progressivement en intensité (EVA 8-9/10) plus tard dans la journée.
+- Facteurs de conditionnement : S'améliore avec le décubitus et le repos, s'aggrave avec les changements posturaux et le surmenage physique.
+- Intensité :
+"Douleur la plus forte au cours des deux derniers jours : EVA 8-9/10.
+"Douleur la plus faible au cours des deux derniers jours : EVA 3-4/10.
+"Douleur moyenne au cours des deux derniers jours : EVA 6/10.
+- Nombre de crises/jour : 3-4 épisodes/jour de douleur intense et d'apparition soudaine, coïncidant avec des changements posturaux.
+- Type de douleur et pronostic : Selon le système de classification de la douleur cancéreuse d'Edmonton (ECS-CP), il s'agit d'une douleur neuropathique et nociceptive mixte avec présence de douleur incidente, détresse psychologique et déficience cognitive légère-modérée (NIPAC : Ne, Ic, Pp, Ao, Ci) ; ces caractéristiques la définissent comme une douleur difficilement contrôlable.
+- Étiologie : tumeur due à une métastase osseuse avec masse de tissu mou provenant d'un carcinome rénal.
+-Interférence avec l'activité générale : Limitation de la marche et diminution de l'appétit, interférence avec sa qualité de vie et aggravation de son humeur. EVA 8/10.
+- Interférence avec le repos nocturne : difficulté à s'endormir et interruption du repos nocturne à plusieurs reprises. EVA 7/10.
+
+EXAMENS PHYSIQUES
+ECOG 2, conscient, orienté et coopératif. Pas de déficit moteur ou sensoriel. Marche limitée en raison d'une douleur lombaire bilatérale avec paresthésie dans les deux membres inférieurs. Le reste de l'examen ne révèle rien de significatif.
+
+EXAMENS COMPLÉMENTAIRES :
+- Tomodensitométrie abdominopelvienne de la première rechute (janvier 2015) :
+On observe des modifications secondaires à la néphrectomie gauche sans altération du site opératoire. Pas d'adénopathies rétropéritonéales ou pelviennes, mais une masse des tissus mous est observée au niveau paravertébral à J10.
+- Tomodensitométrie thoraco-abdominale à l'évolution (novembre 2015) :
+Mise en évidence d'adénopathies hilaires droites dont la taille a augmenté. Il confirme également l'existence de métastases osseuses connues, dont la plupart ont augmenté de taille ou sont d'apparition nouvelle.
+-TDM du rachis dorsal (en cours) : Notre patient présente une progression de l'atteinte métastatique osseuse à plusieurs niveaux, avec envahissement du canal rachidien et compression médullaire, en particulier en D5 et D6.
+
+DIAGNOSTIC :
+- Dorsolombalgie due à une atteinte osseuse métastatique multiple entraînant une atteinte neurologique et nécessitant une analgésie opioïde à doses croissantes.
+-Rechute à distance avec ILE 5,9 ans après un cancer du rein à cellules claires opéré sans possibilité de traitement oncospécifique avec des médicaments antiangiogéniques en raison d'une mauvaise tolérance et d'une mauvaise observance.
+
+TRAITEMENT :
+Tapentadol 100 toutes les 12 heures, Méthadone 15-10-15mg.
+
+ÉVOLUTION :
+- Avant de rencontrer le patient, des analgésiques de la première étape de l'échelle analgésique de l'OMS (Paracétamol, Ibuprofène et Métamizole) avaient été utilisés, ce qui était insuffisant pour contrôler la douleur.
+- Un traitement au Tramadol a été prescrit aux urgences, mais a été mal toléré.
+- Lors de son passage en oncologie en janvier 2015, une analgésie de troisième phase a été débutée avec du Tapentadol, en titrant les doses progressivement et en ajoutant de la Gabapentine et de la Prednisone comme coadjuvants.
+- A la mi-février 2015, une fois la RT terminée, un bon contrôle de la douleur a été obtenu avec le Tapentadol 250mg toutes les 12 heures, sans nécessiter de secours et il a été possible de réduire la dose des médicaments adjuvants.
+- Au cours du traitement avec des médicaments antiangiogéniques, la douleur s'est améliorée, ce qui a permis de réduire la dose de Tapentadol à 100 mg toutes les 12 heures et d'arrêter la Gabapentine et les corticostéroïdes.
+
+- Plus tard, alors que la patiente ne recevait plus qu'un traitement de soutien et que la progression de la maladie coïncidait avec l'augmentation de la douleur et le besoin de plus de 4 remplacements par jour de fentanyl sublingual 200mcg, il a été nécessaire d'ajuster la dose de Tapentadol jusqu'à 300mg toutes les 12 heures.
+- En février 2016, l'admission à l'hôpital a été décidée pour une rotation des opioïdes vers la méthadone en raison d'un manque de contrôle avec l'escalade des doses de Tapentadol ; elle a eu une bonne réponse initiale et a été renvoyée chez elle avec une dose de 10-5-10mg. Cependant, elle a signalé une augmentation de la douleur malgré l'augmentation de la dose de méthadone (15-10-10 mg), et il a donc été décidé de reprendre le Tapentadol combiné à 100 mg toutes les 12 heures.
+- Il a été réadmis pour des symptômes neurologiques compatibles avec une compression de la moelle épinière et une douleur incoercible : des corticoïdes ont été administrés à fortes doses (Dexamethasone 8mg toutes les 8 heures) et un scanner urgent de la colonne vertébrale a été demandé, qui a confirmé la suspicion initiale de compression de la moelle épinière à deux niveaux ; une laminectomie décompressive a été exclue et une nouvelle RT a été demandée sur D5-D9, ce qui a conduit à une amélioration de la mobilité dans les membres inférieurs.
+- Actuellement, le patient a été transféré dans un centre de long séjour pour la neuroréhabilitation et reçoit un traitement au Tapentadol 100mg toutes les 12 heures et à la Méthadone 15-10-15mg, avec un bon contrôle de la douleur VAS : 1/10, sans présenter de paresthésie ni nécessiter de secours.

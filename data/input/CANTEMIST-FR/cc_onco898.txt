@@ -1,0 +1,24 @@
+Anamnèse
+Patient âgé de 70 ans, allergique à la pénicilline, ayant des antécédents d'hypertension artérielle, de dyslipidémie, d'hyperuricémie, d'accident vasculaire cérébral hémisphérique gauche sans séquelle, de sténose carotidienne traitée par endartériectomie, de glaucome OI, adénocarcinome de la prostate T3b Gleason 5+4 traité par radiothérapie de 54 Gy pendant 3 mois se terminant par 76 Gy et blocage hormonal complet, diagnostic d'adénocarcinome pulmonaire, TTF1 (+), PSA (-), PDL-1 faiblement +, stade IVa avec nodules pulmonaires.
+Elle est traitée par acide acétylsalicylique (AAS), bisoprolol, spironolactone, hydrochlorothiazide, telmisartan allopurinol, atorvastatine, brinzolamide, bimatoprost, timolol, oméprazole et paracétamol.
+Elle a présenté des douleurs dans le haut du dos irradiant vers les deux hypocondres depuis deux mois, ainsi qu'une diminution de la force dans le membre inférieur droit depuis deux jours.
+
+Examen physique
+Le patient présente un ECOG 1 avec une asymétrie des pouls carotidiens, des douleurs à la palpation de la colonne dorsale et lombaire, et une parésie du membre inférieur droit 3/5 avec un Babinski droit.
+
+Examens complémentaires
+Biochimie : ions normaux, profil rénal et hépatique normal, profil hormonal normal avec testostérone et PSA normaux.
+Hémogramme et coagulation normaux.
+Radiographie thoracique : nodules en verre terni dans les deux hémithorax déjà connus.
+CT scan crânien : signes globaux d'involution. Leucoencéphalopathie chronique hypoxique et ischémique. Lésion ischémique chronique du centre semi-ovale gauche.
+IRM dorso-lombaire avec contraste : rehaussement intrathécal au niveau T7-T8 d'environ 3 cm d'axe craniocaudal partant de l'espace épidural et dépassant l'arachnoïde, occupant l'espace sous-arachnoïdien ; comprimant la moelle épinière dans des dimensions de 10 x 12 mm dans l'axe AP/l, entraînant un œdème centromédullaire en T6/T7 (moelle épinière déplacée vers la gauche) et s'étendant au neuroforamen droit T7-T8.
+TEP-TDM au 18-FDG : deux nodules pulmonaires paramédiastinaux apicaux bilatéraux, de 8 et 9 mm ; le droit associé à une densité accrue en verre dépoli dans le parenchyme adjacent. Lésion intrathécale hypermétabolique à D7-D8, d'environ 27 mm de diamètre dans l'axe CC. Un foyer d'hyperenhancement pathologique persiste à la base du lobe prostatique gauche.
+
+Diagnostic
+Métastase extra-médullaire intra-durale probablement secondaire à un adénocarcinome pulmonaire.
+
+Traitement
+Une radiothérapie urgente est débutée sur l'atteinte dorsale, couvrant D6-D9 à raison de 500 cGy/jour pendant 4 jours, se terminant le dernier jour par 20 Gy.
+
+Evolution
+Le patient a évolué favorablement, récupérant partiellement la force du membre inférieur droit (4+/5) ; il est sorti pour un suivi dans le service ambulatoire du Service d'Oncologie Médicale.

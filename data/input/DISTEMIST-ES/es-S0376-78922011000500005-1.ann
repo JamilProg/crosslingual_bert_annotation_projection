@@ -1,0 +1,18 @@
+T1	pathologie 61 73	exalcohólico
+T2	pathologie 75 84	exfumador
+T3	pathologie 86 125	enfermedad pulmonar obstructiva crónica
+T4	pathologie 127 131	EPOC
+T5	pathologie 149 203	incapacidad respiratoria de tipo mixto moderado-severo
+T6	pathologie 205 216	hepatopatía
+T7	pathologie 218 230	poliartrosis
+T8	pathologie 232 253	polimialgia reumática
+T9	pathologie 256 273	esófago de Barret
+T10	pathologie 343 380	aplastamiento osteoporótico vertebral
+T11	pathologie 561 601	síndrome de lesión medular transversa D4
+T12	pathologie 743 759	lesión vertebral
+T13	pathologie 883 956	herida abierta, infectada y esfacelada en la región vertebral dorsal alta
+T14	pathologie 1059 1073	lesión medular
+T15	pathologie 1146 1152	herida
+T16	pathologie 1572 1617	iatrogénica una congestión venosa del colgajo
+T17	pathologie 2014 2020	herida
+T18	pathologie 2102 2111	infección

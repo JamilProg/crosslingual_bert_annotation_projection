@@ -1,0 +1,22 @@
+T1	pathologie 117 143	traumatismo sobre el brazo
+T2	pathologie 201 255	fractura abierta transversal de tercio medio de húmero
+T3	pathologie 342 380	lesión vascular de la arteria braquial
+T4	pathologie 1073 1121	herida lineal sobre superficie anterior de brazo
+T5	pathologie 1124 1159	sección completa de bíceps braquial
+T6	pathologie 1278 1332	fractura expuesta de tercio medio de húmero desplazada
+T7	pathologie 2100 2123	síndrome compartimental
+T8	pathologie 2388 2406	fractura de húmero
+T9	pathologie 2629 2637	fractura
+T10	pathologie 5036 5058	insuficiencia arterial
+T11	pathologie 5108 5124	fractura humeral
+#1	SNOMED T10	195374003
+#2	SNOMED T7	111245009
+#3	SNOMED T4	125595000
+#4	SNOMED T1	125595000
+#5	SNOMED T5	724921009
+#6	SNOMED T9	72704001
+#7	SNOMED T11	66308002
+#8	SNOMED T2	89294002
+#9	SNOMED T6	89294002
+#10	SNOMED T3	285711003
+#11	SNOMED T8	66308002

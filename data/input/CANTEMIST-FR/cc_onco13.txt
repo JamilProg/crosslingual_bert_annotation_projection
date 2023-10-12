@@ -1,0 +1,34 @@
+Anamnèse
+Nous présentons le cas d'un homme de 22 ans chez qui on a diagnostiqué un hépatoblastome métastatique.
+Il a consulté le service des urgences d'un autre hôpital en juillet 2014 pour des douleurs abdominales. Son seul antécédent personnel était le tabagisme, avec une consommation cumulée de 10 ans/pack. Il n'avait pas d'antécédents familiaux de cancer. Il s'agissait d'un homme bénéficiant d'un soutien familial. Le patient se plaignait depuis environ 2 mois de douleurs abdominales diffuses, plus accentuées au niveau de l'hypochondre droit, alternant des épisodes de diarrhée et de constipation ; il était associé à une anorexie et une perte de poids de 10 kg en 4 mois.
+
+Examen physique
+Le patient présentait une stabilité hémodynamique, un état de performance de 1 et seulement un abdomen douloureux diffus avec une hépatomégalie de trois largeurs de doigt et une cachexie modérée, le reste de l'examen physique étant normal.
+
+Tests complémentaires
+Compte tenu des manifestations cliniques susmentionnées, il a été admis pour des examens complémentaires :
+"Au niveau analytique, il n'y a pas eu d'altération de l'hémogramme ni de la coagulation, et on a mis en évidence : bilirubine totale (BT) de 2,78 mg/dl, GOT 115 UI/l, GPT 225 UI/l et LDH 663 UI/l ; protéinogramme normal, sans détection de composant monoclonal ; alpha-fœtoprotéine (AFP) 1,5 ng/ml ; sérologies du virus de l'hépatite négatives.
+"Les radiographies du thorax et de l'abdomen n'ont révélé aucun signe de pathologie et l'échographie cardiaque a montré une fraction d'éjection du ventricule gauche de 71 %.
+"L'étude a été complétée par une échographie abdominale, une tomodensitométrie (TDM) et une imagerie par résonance magnétique (IRM), montrant une volumineuse masse kystique solide de 105-107 mm située à la jonction duodéno-pancréatique avec une infiltration hépatique diffuse de tous les segments hépatiques, ainsi qu'une infiltration des voies biliaires intrahépatiques et extrahépatiques, des canaux spléniques et pancréatiques. On a également constaté une infiltration des structures vasculaires (artère splénique, artères hépatiques, tronc cœliaque et veine cave inférieure), ainsi qu'une thrombose portale.
+"Une biopsie du foie a été réalisée, qui a révélé une infiltration hépatique par une tumeur à petites cellules compatible avec un hépatoblastome. L'étude immunohistochimique a montré une positivité pour la bêta-caténine, l'antichymotrypsine, la cytokératine A1/A3, la cytokératine 19 et le CD99. Elle était négative pour S-100, chromogranine, TTF1, WT1, BCL2 et CD56 entre autres, avec un indice de prolifération Ki-67 de 60%. La biopsie n'a pas pu être examinée et les études moléculaires n'ont pas été réalisées dans notre centre en raison de l'absence d'échantillon.
+
+Diagnostic
+Au cours du processus de diagnostic, le patient a développé une insuffisance hépatique sévère avec un ictère franc et une ascite modérée, ainsi qu'un taux de BT de 34 mg/dl et des temps de coagulation prolongés.
+Avec le diagnostic d'hépatoblastome à haut risque de stade PRETEXT-IV (extension tumorale avant traitement) en raison de l'atteinte de tous les segments hépatiques, E+ (atteinte extra-hépatique), M+ (métastases pancréatiques) et AFP < 100 ng/ml, et après avoir revu le protocole SIOPEL-4 de la Société internationale d'oncologie pédiatrique, il a été décidé d'entamer un traitement de chimiothérapie intensifiée avec une intention néoadjuvante et une chirurgie radicale ultérieure en fonction de la réponse.
+
+Traitement
+Elle a commencé un traitement de chimiothérapie par CDDP en monothérapie à une dose de 100 mg/m2 et a reçu un total de trois cycles entre juillet et septembre 2014. Après trois cycles de chimiothérapie par CDDP, la patiente a présenté une maladie radiologiquement stable.
+Compte tenu de l'augmentation de l'ictère avec cholurie, acholie et taux de BT de 18,04 mg/dl, et étant donné qu'il était prévu de le transférer dans notre centre en raison de la disponibilité de soins oncologiques continus et donc d'être éligible à un traitement d'intensification avec des anthracyclines et des platines, 80 mg/m2 de CDDP ont été administrés le 24 septembre 2014 et il a été transféré.
+
+Protocole de traitement :
+"Bloc A1 : jour +1 CDDP 80 mg/m2 en perfusion continue (CP) 24 h. Jours +8 et +15, CDDP 70 mg/m2 en PC 24 h. Jours +8 et +9, doxorubicine 30 mg/m2.
+"Bloc A2 : Jours +29 +36 et +43, CDDP 70 mg/m2 en PC 24 h. Jours +36 et +37, doxorubicine 30 mg/m2. Jours +36 et +37, doxorubicine 30 mg/m2.
+"Bloc A3 : Jours +57 et +64, CDDP 70 mg/m2 en PC 24 h. Jours +57 et +58, doxorubicine 30 mg/m2.
+Avant la chimiothérapie, il a été décidé de mettre en place un drainage des voies biliaires internes-externes. Après normalisation de la BT, elle a débuté le traitement par chimiothérapie (bloc A1) le 12 novembre 2014 et a terminé le bloc A3 (jour +78) le 17 février 2015.
+Au cours du traitement, il a présenté des complications telles qu'un début de diabète difficile à contrôler, une bactériémie associée à un cathéter veineux central et une neutropénie fébrile qui a conduit à retarder le début du bloc A3.
+Les toxicités après la fin du traitement comprenaient une thrombopénie de grade 4 et une neuropathie de grade 2.
+
+Évolution
+Après avoir terminé le traitement (blocs A1, A2 et A3), le patient a montré une nette amélioration clinique, avec un rétablissement de l'état général, une capacité à se réintroduire progressivement dans ses tâches habituelles et une autonomie dans les activités de la vie quotidienne. L'évaluation de la réponse selon les critères RECIST 1.1 est une maladie stable, avec une thrombose portale persistante et une atteinte pancréatique confirmée par la tomodensitométrie et la tomographie par émission de positons. Après évaluation par un comité multidisciplinaire, la chirurgie radicale a été exclue en raison de la présence d'une thrombose portale et d'une maladie métastatique pancréatique, et il était candidat pour recevoir le cycle B du protocole SIOPEL-4 basé sur le carboplatine et l'adriamycine.
+En raison des toxicités liées au traitement de l'hypersplénisme, il a été décidé de n'effectuer que des soins de soutien et une surveillance étroite, et le traitement de la progression sera évalué.
+Actuellement, le patient profite de sa vie de famille avec sa femme et sa fille de 7 mois et suit des examens réguliers avec un intervalle sans progression de 3 mois et une survie après le diagnostic de 11 mois.

@@ -1,0 +1,16 @@
+T1	pathologie 183 194	rectorragia
+T2	pathologie 353 358	RS3PE
+T3	pathologie 1365 1382	lesiones erosivas
+T4	pathologie 1711 1759	bronquiectasias cilíndricas de pared fina en LII
+T5	pathologie 1816 1895	vejiga urinaria con engrosamiento del suelo vesical, con múltiples divertículos
+T6	pathologie 1897 1919	hipertrofia prostática
+T7	pathologie 2031 2090	divertículos y placas antracosis en todo el árbol bronquial
+T8	pathologie 2888 2908	enfermedad de Poncet
+#1	SNOMED T1	12063002
+#2	SNOMED T2	445345005
+#3	SNOMED T5	197866008
+#4	SNOMED T6	266569009
+#5	SNOMED T7	29422001
+#6	SNOMED T4	83457000
+#7	SNOMED T8	63712002
+#8	SNOMED T3	15498001

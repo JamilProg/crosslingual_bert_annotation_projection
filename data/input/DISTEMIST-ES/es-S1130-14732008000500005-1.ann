@@ -1,0 +1,18 @@
+T1	pathologie 56 73	diabetes mellitus
+T2	pathologie 75 96	hipertensión arterial
+T3	pathologie 99 120	fibrilación auricular
+T4	pathologie 243 265	incontinencia urinaria
+T5	pathologie 381 410	hidrocefalia tetraventricular
+T6	pathologie 432 435	HCA
+T7	pathologie 928 952	hipotensión intracraneal
+T8	pathologie 1108 1160	hematoma en vermis y hemisferio cerebeloso izquierdo
+T9	pathologie 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
+#1	SNOMED T1	73211009
+#2	SNOMED T2	38341003
+#3	SNOMED T4	165232002
+#4	SNOMED T5	230745008
+#5	SNOMED T6	15139001
+#6	SNOMED T7	433691000124104
+#7	SNOMED T8	301765007
+#8	SNOMED T9	21454007
+#9	SNOMED T3	49436004

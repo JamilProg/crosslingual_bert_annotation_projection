@@ -1,0 +1,66 @@
+Anamnèse
+Patient âgé de 72 ans. A l'examen, on observe une hyperbilirubinémie et une détérioration clinique due à une asthénie.
+
+Antécédents : intolérance au lactose sans allergie connue. Hypertension artérielle sous traitement médical depuis l'âge de 50 ans. Elle a présenté 1 an plus tôt une TEP (thromboembolie pulmonaire) dans l'artère pulmonaire droite, dans la lingula et le lobe inférieur gauche, en avril 2015, avec une thrombose veineuse profonde dans la veine poplitée droite. Il était sous traitement anticoagulant par Bemiparin (Hibor) qu'il a récemment suspendu en raison d'une hématémèse. Etude ANA positive. ANCA et anti-DNA négatifs.
+Oncocytome rénal gauche à l'âge de 46 ans traité par néphrectomie partielle et surrénalectomie gauche.
+Syndrome prostatique traité par Dutasteride. PSA en mars 2015 : 2,8 ng/ml.
+Autre : Glaucome sous traitement. Côlon irritable depuis l'âge de 30 ans avec des épisodes mensuels de diarrhée.
+Elle n'a pas d'antécédents familiaux et les médicaments qu'elle prenait étaient les suivants : Atenolol 50 mg. Pantoprazole 40 mg. Primperan pendant 48 heures. Paracétamol en cas de douleur. Bemiparine 10000 IU.
+
+Antécédents oncologiques
+Diagnostiqué en avril 2015 d'un adénocarcinome gastrique avec infiltration de la muqueuse œsophagienne, sans amplification du gène HER2 par la technique FISH. Le bilan d'extension par tomodensitométrie thoraco-abdominale a montré des adénopathies locorégionales, rétropéritonéales et médiastinales, des métastases hépatiques bilatérales, une thromboembolie pulmonaire bilatérale et un nodule thyroïdien droit.
+
+Fin avril 2015, il a commencé une chimiothérapie avec un schéma FLOT (trithérapie pour tenter de réduire la charge tumorale chez les patients symptomatiques avec une charge tumorale élevée, Docetaxel+Oxaliplatine+Fluorouracil), complétant 8 cycles avec une stabilisation de la maladie initiale et une progression ultérieure.
+
+En septembre 2015, une progression de la maladie a été observée au niveau du foie et des adénopathies avec de nouveaux nodules pulmonaires minimes. Compte tenu de l'expression tumorale du CEA >30% +++ des cellules, il a commencé un traitement dans le cadre de l'essai clinique BP29435 avec MPDL3280A 800mg+ RO 6895882 15mg (Atezolizumab + variante de l'interleukine 2). Il a présenté une progression après 3 cycles au niveau hépatique et adénopathique avec une stabilisation pulmonaire, il a donc commencé une nouvelle ligne avec Mitomycin, Irinotecan, Bevacizumab. Il a bénéficié de deux séances, le dernier cycle le 21 décembre 2015. A cette époque, elle a continué à prendre de l'héparine en raison de la persistance d'une TVP dans le membre inférieur droit.
+
+En janvier 2016, il a été décidé de retarder le troisième cycle en raison d'une détérioration clinique sous la forme d'une diarrhée de grade 2, d'une hyporexie et d'une asthénie de grade 3. À cette époque, elle s'est présentée dans sa ville avec un épisode d'hématémèse et a été admise dans son centre de référence où elle a été diagnostiquée avec une HDA (hémorragie gastro-intestinale supérieure) autolimitée et l'héparine a été suspendue et elle est venue dans notre centre où elle a présenté une cholurie et une acholie, de sorte que, compte tenu de la suspicion d'obstruction biliaire qui pourrait justifier le tableau complet, il a été décidé de l'admettre pour compléter les études.
+
+À son arrivée dans le service d'oncologie, le patient a signalé une orthopnée à deux oreillettes, une dyspnée non soudaine à effort minimal, qui a été initialement attribuée à une anémie. Pas de fièvre, pas de foyer, pas de toux ni d'expectoration. Dysphonie évoluant depuis un mois avec possibilité d'étouffement.
+Il avait arrêté l'héparine depuis 7 jours.
+
+Examen physique
+Les signes vitaux à l'admission étaient les suivants : tension artérielle de 135/89 mmHg, fréquence cardiaque de 90 bpm, saturation en oxygène de 97%. Poids : 90 kg.
+
+ECOG 2. Conscient et coopératif. Légère pâleur cutanéo-muqueuse.
+
+Oropharynx sans altération
+
+Auscultation cardiaque : rythmique, pas de souffle.
+
+Auscultation pulmonaire : murmure vésiculaire physiologique.
+
+Abdomen : mou, dépressible, non douloureux. Présence de bruits hydro-aériens. Pas de masses ni de mégalithes.
+
+Spinopalpation vertébrale négative et percussion bilatérale du poing rénal.
+
+Présence d'un œdème de grade II à IV dans les extrémités inférieures sans signe de Homans.
+
+Examen neurologique : les nerfs crâniens sont dans les limites de la normale, à l'exception d'une paralysie faciale gauche connue. Aucune perte de force ou de sensibilité.
+
+Tests complémentaires
+ANALYTIQUES
+D-dimères >20000 [laboratoire VN : (150 - 500)]. ProBNP : 9111 pg/mL [laboratoire VN : (0 - 194)]. Troponine : 0,08 ng/mL [laboratoire VN : (0 - 0,035)].
+
+VAE (équilibre artériel)
+P02 de 46,6 mmHg, ph de 7,53 et pC02 de 32 mmHg.
+
+ÉLECTROCARDIOGRAMME
+Rythme sinusal, altérations de l'onde T en face inférieure et antérieure, présence d'une onde Q en III.
+
+ANGIO-TAC THORACO-ABDOMINAL
+Thromboembolie pulmonaire bilatérale dans les branches principales : du côté gauche, elle s'étend aux branches lobaires, segmentaires et sous-segmentaires du lobe supérieur, à la lingula et, dans une moindre mesure, au lobe inférieur, et du côté droit, elle affecte les branches lobaires, segmentaires et sous-segmentaires du lobe supérieur, du lobe moyen et du lobe inférieur.
+Atteinte adénopathique médiastinale et sus-claviculaire gauche. Nodules pulmonaires bilatéraux.
+
+Diagnostic
+DIAGNOSTIC PRINCIPAL
+1) Adénocarcinome de stade IV de la jonction gastro-œsophagienne sans amplification de HER-2, qui a reçu 3 lignes de traitement par chimiothérapie. Elle a reçu le deuxième cycle de Mitomycine+Irinotécan+Bévacizumab le 21 décembre 2015.
+Infarctus pulmonaire dans le lobe supérieur droit secondaire à une PTE massive bilatérale dans les branches principales, avec surcharge ventriculaire droite. Sous traitement anticoagulant par Hibor 10000 UI. Présence d'une TVP aux deux extrémités inférieures.
+
+Traitement
+Le traitement débute par une oxygénothérapie et de l'héparine non fractionnée en perfusion continue avec une surveillance stricte des tests de coagulation. Après 96 heures, le traitement est remplacé par une administration sous-cutanée (Bemiparin 10000 IU).
+
+Évolution
+Compte tenu de la forte suspicion clinique et de la présence de modifications électrocardiographiques évoquant une surcharge/hypertension pulmonaire droite, une angio-TDM a été réalisée, montrant des signes de thromboembolie pulmonaire bilatérale dans les branches principales avec des signes d'infarctus pulmonaire dans le lobe supérieur droit.
+Après évaluation par le service d'hématologie, une perfusion d'héparine non fractionnée a été mise en place ; elle a été maintenue pendant 96 heures, après quoi la bémiparine 10 000 UI a été mise en place. En outre, une antibiothérapie prophylactique à base d'augmentine a été mise en place dès l'admission, pour une durée de 7 jours.
+Il a été décidé d'arrêter le traitement oncologique actif et le patient est sorti après 8 jours avec une oxygénothérapie et un soutien à domicile.

@@ -1,0 +1,16 @@
+T1	pathologie 399 421	condilomatosis vaginal
+T2	pathologie 534 560	condilomas vulvoperineales
+T3	pathologie 1103 1118	corioamnionitis
+T4	pathologie 1191 1206	corioamnionitis
+T5	pathologie 1214 1229	inmadurez fetal
+T6	pathologie 1444 1459	corioamnionitis
+T7	pathologie 1551 1580	condiloma acuminado de vagina
+T8	pathologie 1583 1612	condiloma acuminado de periné
+#1	SNOMED T4	11612004
+#2	SNOMED T5	49333008
+#3	SNOMED T1	399599006
+#4	SNOMED T3	11612004
+#5	SNOMED T6	11612004
+#6	SNOMED T2	240542006
+#7	SNOMED T7	399599006
+#8	SNOMED T8	733132008

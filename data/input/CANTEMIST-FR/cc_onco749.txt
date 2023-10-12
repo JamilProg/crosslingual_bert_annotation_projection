@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 20 ans sans antécédents médicaux ou chirurgicaux intéressants.
+Elle a consulté en mars 2015 en raison d'une perte de poids allant jusqu'à 30 kg et de modifications du rythme intestinal associées à une hématochézie et à des mucosités. Une échographie abdominale a été réalisée, qui a révélé une ascite, et il a été décidé de l'hospitaliser pour des examens complémentaires. Une biopsie à l'aiguille de la lésion péritonéale a donc été pratiquée. L'anatomie pathologique a révélé un carcinome de haut grade dont l'origine gynécologique a été suspectée sur la base de la présentation clinique. En avril, l'étude a été complétée par une laparoscopie diagnostique, qui a révélé un ovaire droit élargi et irrégulier avec des parties solides à sa surface ; il y avait également un épaississement et une irrégularité de l'épiploon dans la coque, ainsi que de multiples implants péritonéaux.
+Compte tenu de la charge tumorale élevée, elle a été considérée comme non résécable, de sorte qu'une chimiothérapie néoadjuvante à base de carboplatine (6-AUC)-paclitaxel (175 mg/m2) jour 1 tous les 21 jours a été envisagée, à partir d'avril 2015. Le bévacizumab (15 mg/kg) a été ajouté le jour 1 tous les 21 jours lors du deuxième cycle, complétant ainsi trois cycles, sans toxicité pertinente. Une réponse partielle a été observée et une chirurgie d'intervalle a été envisagée. En juillet 2015, une cytoréduction d'intervalle a été réalisée (avec splénectomie associée, omentectomie radicale, hystérectomie et double annexectomie, résection rectosigmoïdienne et appendicectomie). A la fin de l'opération, la maladie résiduelle était considérée comme inférieure à 1 cm (R1). Le résultat anatomopathologique était un carcinome séreux peu différencié de l'ovaire gauche, avec atteinte du parenchyme splénique, du grand et du petit omentum, de la séreuse de l'utérus, de l'ovaire controlatéral et de la surface appendiculaire, stade IIIC. La détermination du BRCA germinal a été demandée et ne s'est pas révélée pathogène.
+Par la suite, elle a suivi une chimiothérapie adjuvante à base de carboplatine (paclitaxel) et de bevacizumab pendant 5 cycles jusqu'en novembre 2015, et le bevacizumab d'entretien a été maintenu jusqu'en février 2016 sans complications.
+Lors du scanner de réévaluation de février 2016, elle a présenté une progression tumorale au niveau hépatique, médiastinal et péritonéal, confirmée par une cytologie guidée par EBUS. Étant donné qu'il s'agissait d'une maladie résistante au platine (intervalle sans platine de 3 mois), une monothérapie par gemcitabine (1 000 mg/m2 par semaine, les jours 1, 8 et 15 tous les 28 jours) a été envisagée en mars 2016. Elle a reçu 3 cycles au total (dernière dose le 6/6/2016) avec la nécessité de retarder plusieurs cycles en raison d'une toxicité hématologique de grade 3 et hépatique de grade 2.
+Le 13/6/2016, elle a assisté à une consultation d'oncologie médicale où une anémie (7,4 g/dl), une thrombopénie (20 000 mcl) et une insuffisance rénale aiguë (créatinine 1,7 mg/dl) ont été observées. Il a présenté une asthénie, une épistaxis légère autolimitée et des œdèmes des membres inférieurs d'une semaine d'évolution, et a été adressé au service des urgences pour admission.
+
+Examen physique
+A l'arrivée au service des urgences :
+"Signes vitaux stables. Température 36,2 ºC ; TA 130/90 mm Hg ; FC 69 bpm ; saturation basale en O2 93 %, eupnéique au repos.
+"État général correct. Bien hydraté et perfusé. Pâleur cutanéo-muqueuse.
+"PCA : tonalités rythmiques. Pas de bruits pathologiques ajoutés.
+" Abdomen : bruits hydro-aériques positifs, globuleux, cicatrice de laparotomie en bon état, pas de signe d'irritation péritonéale, non douloureux à la palpation superficielle ou profonde, Murphy négatif, PPRB négatif.
+"Membres inférieurs : œdème bilatéral jusqu'à la racine des cuisses, pas de signes de TVP.
+
+Tests complémentaires
+A l'arrivée aux urgences :
+"Biochimie : créatinine 1,7 mg/dl, urée 108 mg/dl, ionogramme dans l'intervalle. Profil hépatique altéré (ALT 132 U/l, AST 185 U/l, GGT 131 U/l),
+"Hémogramme : thrombopénie (20 000 mcl) et anémie (7,6 mg/dl).
+"L'analyse d'urine a révélé une hématurie microscopique et une protéinurie de 1 g/l.
+"Une échographie urinaire a été réalisée en urgence, ce qui a permis d'exclure toute cause obstructive, sans aucun signe de dilatation des voies urinaires.
+"Coombs direct : négatif.
+"Frottis sanguin périphérique : pas d'agrégats plaquettaires. 9,2 % de schistocytes.
+
+Diagnostic
+Compte tenu de la présence de la triade caractéristique et de son association possible avec la gemcitabine, le diagnostic a été posé : syndrome hémolytique et urémique en association probable avec la gemcitabine.
+
+Traitement
+Elle a été admise aux soins intensifs pour commencer le traitement par plasmaphérèse après évaluation par le service de néphrologie. Par la suite, compte tenu de l'amélioration analytique et du bon état clinique de la patiente, les séances de plasmaphérèse ont été poursuivies dans le service, pour un total de 9. Pendant l'admission, deux concentrés de globules rouges ont été transfusés, sans qu'une transfusion de plaquettes ne soit nécessaire.
+
+Évolution
+L'évolution clinique et analytique a été favorable, avec une augmentation progressive des taux de plaquettes et d'hémoglobine et une normalisation de la créatinine, et la patiente est sortie de l'hôpital après deux semaines d'hospitalisation.
+Par la suite, la patiente a évolué vers différentes lignes de traitement par chimiothérapie (doxorubicine liposomale-trabectedine, topotécan, carboplatine-paclitaxel et cyclophosphamide), avec une bonne tolérance et sans complications hématologiques pertinentes.
+En novembre 2017, son état général s'est dégradé et elle a été suivie par l'unité de soins palliatifs à domicile, et est décédée en décembre 2017.

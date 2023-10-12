@@ -1,0 +1,24 @@
+Anamnèse
+Patiente âgée de 36 ans, sans antécédents médicaux intéressants, ni habitudes toxiques. Elle se réfère à une présentation clinique qui a commencé en mai 2013, d'une évolution de 3 semaines, consistant en des vomissements, des vertiges, une perte auditive et une perte de sensation dans l'hémiface gauche, en plus de l'incapacité de voir le regard conjugué vertical (syndrome de Parinaud).
+
+Examen physique
+Le patient est conscient, orienté dans le temps, l'espace et la personne. Afébrile, stable sur le plan hémodynamique et respiratoire.
+Langage bien articulé sans éléments dysphasiques. Pas de déficit neurologique. Examen cardiorespiratoire et abdominal normal.
+
+Examens complémentaires
+- Un scanner a été réalisé en urgence à l'hôpital régional, qui a révélé une tumeur solide dans la région pinéale.
+- Il a été décidé de le transférer dans notre centre, où une imagerie par résonance magnétique (IRM) cérébrale a été réalisée en juin, montrant une hydrocéphalie triventriculaire avec une petite exsudation transépendymaire causée par une tumeur de la région pinéale, mesurant 3 cm dans tous ses diamètres, d'apparence solide, avec de petites zones kystiques sur les côtés latéraux, gauches et inférieurs, avec de petits niveaux de liquide-hémosidérine. Cette masse présente un halo périphérique très hypointense en séquence "gradient-echo" dans sa partie inférieure, également dû à des dépôts d'hémosidérine. La lésion présente une prise de contraste intense.
+
+Diagnostic
+Deux jours après l'IRM, une ventriculostomie endoscopique a été pratiquée pour soulager les symptômes de l'hydrocéphalie et une biopsie a été effectuée, qui a révélé une tumeur pinéale pléomorphe de grade II-III.
+
+Traitement
+La description peropératoire est la suivante : "masse tumorale fortement adhérente à tous les plans avec un apport vasculaire abondant. Après une excision complète au microscope optique, la fermeture est effectuée". Le résultat anatomopathologique de l'échantillon est une tumeur parenchymateuse pinéale de différenciation intermédiaire de grade II-III. Pendant la période postopératoire, le patient a présenté comme complication une fistule du LCR à travers la plaie chirurgicale, qui n'a pas guéri malgré des ponctions lombaires pour l'évacuation, de sorte que la dure-mère a été fermée et une dure-mère synthétique a été mise en place. Une cytologie du LCR a été réalisée et s'est révélée négative.
+
+Évolution
+L'IRM cranio-rachidienne post-chirurgicale montre un petit résidu tumoral mesurant 8,4 mm de diamètre maximal, situé dans la partie supérieure droite de la région thalamique. Il n'y a aucun signe de dissémination sous-arachnoïdienne.
+Il a été décidé d'instaurer un traitement "sandwich" (chimiothérapie-radiothérapie-chimiothérapie), en commençant par 3 cycles de cisplatine (25 mg/m2, jours 1 à 4), d'étoposide (40 mg/m2, jours 1 à 4) et de cyclophosphamide (1 000 mg/m2, jour 4), répétés toutes les 4 semaines, avec le soutien du GCSF (biosimilaire du filgastrim), présentant une thrombopénie de grade 1 après le premier cycle.
+Une semaine après le début du traitement, elle a eu une crise d'épilepsie (crise tonico-clonique) qui s'est résorbée sous lévétiracepam 500 mg c/12 heures. Un traitement par radiothérapie a ensuite été administré, avec une série sur le lit chirurgical et holoventriculaire jusqu'à 36 Gy et un "boost" sur le lit de 19,8 Gy (dose totale au point ICRU de 55,8 Gy), avec une légère dermite comme seule complication. Il a suivi deux cycles supplémentaires de cisplatine, d'étoposide et de cyclophosphamide.
+L'étude IRM réalisée avant le début de la radiothérapie a montré la disparition de la prise visible dans l'IRM post-chirurgicale, avec des critères de réponse complète, sans données suggérant une dissémination dans la moelle épinière.
+La réponse à l'IRM s'est maintenue après la fin du traitement.
+Le patient fait actuellement l'objet d'un programme de suivi.

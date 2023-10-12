@@ -1,0 +1,32 @@
+Anamnèse
+Patient de 64 ans avec des antécédents personnels de tabagisme (30 cigarettes par jour pendant 20 ans), d'hypertriglycéridémie sans autres facteurs de risque cardiovasculaire. Pas d'antécédents familiaux intéressants.
+Elle consulte le service ORL pour des difficultés d'élocution en mai 2016 après avoir constaté une volumineuse tumeur buccale d'un mois d'évolution.
+Pour cette raison, une biopsie oropharyngée a été réalisée, compatible avec un carcinome épidermoïde de l'oropharynx (p16 négatif), de sorte qu'une étude d'extension a été réalisée avec PET-CT (jusqu'au niveau hépatique), avec une tumeur dans la fosse amygdalienne gauche stade cT4a (infiltration de la musculature extrinsèque de la langue et du palais mou) N2b (niveaux IIa, III à gauche et IIa à droite) M0.
+Le patient a été présenté au comité des tumeurs et un traitement radical de chimiothérapie-radiothérapie a été décidé.
+Cependant, en attendant le début du traitement, elle s'est rendue aux urgences le 16 juillet 2016 en raison de symptômes d'instabilité (incapacité à se lever), de nausées et de difficultés à parler pendant 6 heures. Elle a rapporté que depuis un mois, elle présentait des secousses involontaires épisodiques de la jambe gauche, s'aggravant la semaine dernière, au cours desquelles elle perdait l'équilibre en marchant, ainsi qu'une maladresse du membre inférieur gauche. Pas d'épisode de fièvre, pas de douleur thoracique et pas de cortex végétatif associé. Aucun autre symptôme.
+
+Examen physique
+ Normotendu, afébrile.
+ Cou : souffle carotidien droit, avec masse cervicale gauche mal définie, douloureuse à la palpation.
+ Cavité buccale : grosse tumeur occupant le palais mou et l'amygdale gauche, sans signe de saignement.
+ Examen neurologique : dysarthrie, légère dysmétrie bilatérale, pas d'ataxie, démarche hésitante mais pas d'augmentation de la base d'appui.
+
+Examens complémentaires
+Lors de son séjour aux urgences, un bilan sanguin a été réalisé montrant une légère dégradation de la fonction rénale (créatinine 1,53 mg/dl), des ions (sodium, potassium) et un hémogramme dans les limites de la normale. L'électrocardiogramme montre un rythme sinusal à 70 bpm.
+Un scanner cérébral a été réalisé, montrant une hyperdensité au niveau de la bifurcation de l'artère basilaire, qui pourrait correspondre à des artefacts dus à un durcissement du faisceau, sans pouvoir exclure complètement un thrombus intramural. Aucune hémorragie intracrânienne aiguë n'a été observée. Athéromatose des artères carotides dans la partie intracaverneuse.
+Avec ce résultat, une évaluation a été demandée par la neurologie, qui a écarté le code d'accident vasculaire cérébral en raison du temps d'évolution et de la fluctuation des symptômes. Une échocardiographie transthoracique a été réalisée le 18 juillet, qui n'a révélé aucune altération de la fonction ventriculaire ou du schéma de remplissage, ainsi qu'un Doppler des troncs supra-aortiques montrant des adénopathies pathologiques proéminentes au niveau II-III gauche, sans altération des artères vertébrales.
+
+Diagnostic
+ Suspicion initiale d'accident vasculaire cérébral vertébro-basilaire. Hyperdensité détectée dans l'a. basilaire sur la tomodensitométrie cranio-basilaire : artefact ou thrombus intraluminal, non confirmé par l'angio-IRM.
+ Détérioration générale avec instabilité de la marche d'évolution subaiguë dans le contexte d'une hypercalcémie tumorale.
+ Maladie cérébrovasculaire chronique des petits vaisseaux chez un ex-fumeur présentant une dyslipidémie.
+ Carcinome épidermoïde de l'oropharynx de stade c T4 N2b M0 en attente d'un traitement par chimiothérapie-radiothérapie radicale.
+
+Traitement
+Compte tenu du diagnostic présumé d'accident vasculaire cérébral dans le territoire vertébrobasilaire chez un patient ayant des antécédents de tabagisme et d'artériosclérose, un traitement antiplaquettaire a été décidé avec 300 mg d'acide acétylsalicylique + 80 mg d'atorvastatine par jour (il a été décidé de ne pas administrer d'anticoagulant en raison de la stabilité neurologique et du risque élevé d'hémorragie tumorale) et de réaliser une étude neurologique.
+
+Évolution
+Le 19 juillet, détérioration neurologique, avec ralentissement de la réponse et aggravation de l'état général. Il a été décidé d'étendre l'étude analytique qui a mis en évidence une hypercalcémie sévère de 14 mg/dl (précédemment non extraite aux urgences), un taux de phosphate de 2,4 mg/dl, une iPTH similaire, et il a été décidé d'administrer une dose d'acide zolédronique.
+Après cela, elle a présenté une amélioration clinique, avec des tests sanguins le 21 juillet avec une calcémie améliorée (11,7 mg/dl), se normalisant le 24 juillet avec 9,5 mg/dl. Par conséquent, bien que le tableau clinique semble plus suggestif d'une hypercalcémie, étant donné qu'il y avait des doutes concernant l'image de tomodensitométrie cérébrale (artefact/thrombus dans l'artère basilaire), il a été décidé de compléter l'étude par une angiographie cérébrale avec imagerie par résonance magnétique le 27 juillet : lésions ischémiques isolées des petits vaisseaux et de la substance blanche supratentorielle, sans résultats radiologiques suggérant une lésion ischémique aiguë ou des résultats pathologiques dans l'étude angiographique.
+Une QTRT a été débutée en août 2016 avec cisplatine 100 mg trois fois par semaine + RT 70 Gy sur le volume tumoral et les adénopathies, avec une bonne tolérance pendant 7 semaines.
+Cependant, après 3 mois, il avait des difficultés à marcher, une IRM du rachis a donc été réalisée, qui a montré une lésion osseuse avec une composante de tissu mou dans la région trochantérienne et le col fémoral gauche, suggérant une métastase osseuse comme première possibilité. Une biopsie a été pratiquée, qui était compatible avec une métastase de carcinome épidermoïde. Aucune réévaluation de la région cervicale n'a été effectuée, mais l'examen ORL n'a révélé aucune lésion visible. Un scanner du thorax et de l'abdomen a révélé des métastases pulmonaires et une atteinte osseuse au niveau de L3 et du fémur, de sorte qu'une RT palliative QT (paclitaxel + cetuximab + acide zolédronique) et analgésique a été mise en place. A ce jour, il a terminé 3 cycles de QT avec une réponse partielle au niveau pulmonaire et une amélioration clinique de la mobilité.

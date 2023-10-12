@@ -1,0 +1,51 @@
+Anamnèse
+Antécédents familiaux : Pas d'intérêt oncologique.
+
+Antécédents personnels :
+Aucune allergie médicamenteuse connue.
+Profession : Pré-retraité, a travaillé dans le domaine de la toiture.
+Habitudes toxiques : Fumeur invétéré d'un paquet de cigarettes par jour depuis plus de 30 ans.
+A abandonné l'alcool il y a plus de 12 ans.
+Comorbidités : Cardiopathie ischémique-hypertensive avec IAM en 2009. Diabète sucré insulinodépendant. BPCO emphysémateuse.
+Chirurgies : anévrisme vasculaire intracrânien (1998).
+
+ONCOLOGIE
+
+En 2009, on lui a diagnostiqué un carcinome rénal bilatéral et il a subi une néphrectomie conservatrice du néphron droit (carcinome papillaire) et une néphrectomie radicale du néphron gauche (carcinome à cellules claires).
+
+En avril 2013, il a présenté une néoplasie de la vessie et a subi une TUR, qui a été rapportée comme un carcinome urothélial de la vessie, pT1 G3.
+Il souffre d'une maladie rénale chronique à la suite d'une intervention chirurgicale et d'un contrôle difficile de la pression artérielle.
+En juillet 2015, les études de suivi menées par le département d'urologie ont montré une maladie disséminée avec récidive dans le pôle inférieur du rein droit résiduel, un nodule pulmonaire basal gauche et une lésion lytique iliopubienne droite, confirmés par TEP-TDM et biopsie dirigée par tomodensitométrie. Le patient a eu des difficultés à suivre les tests de contraste iodé et de gadolinium en raison de l'IRC résiduelle, car il n'avait plus que la moitié du rein droit.
+Il a été adressé au service d'oncologie médicale pour évaluer le traitement systémique, et à cette époque, sa principale plainte était une douleur à la hanche droite.
+
+Examen physique
+ECOG 1, obésité. Bouche sans foyer septique actif. Pas d'adénopathies cervicales, axillaires ou inguinales.
+Cœur rythmé. Champs pulmonaires avec murmure vésiculaire globalement diminué. Abdomen non douloureux, pas d'accès aux masses. Membres symétriques sans œdème, légère douleur à la mobilisation active de la hanche droite. Pas de focalité neurologique.
+
+Tests complémentaires
+Biochimie de base août 2014 : créatinine 2,76 mg/dl, calcémie 2,37mmol/l, Hb 13, légère neutrophilie de 7500, pas de thrombocytose, LDH 173 UI/l TDM thoraco-abdominale sans contraste avril 2014 : étude sans contraste intraveineux en raison de l'IRC. Nodule en LII de 13mm. Kyste hépatique simple en LHI. Altérations post-chirurgicales secondaires à une néphrectomie radicale gauche et à une néphrectomie partielle droite, sans signe de récidive locale. Dans le pôle rénal inférieur droit, un nodule de 30 mm a été identifié, mesurant 2 cm en 2009. Petite hypertrophie des tissus mous dans la cellule péri-rénale droite, qui pourrait être post-chirurgicale. Adénopathies subcentimétriques dans le tronc cœliaque et para-aortique gauche, non spécifiques. Ganglions mésentériques calcifiés.
+IRM de l'abdomen en juin 2014 : pas de gadolinium en raison de l'IRC. Dans le pôle inférieur du reste du rein droit, un nodule mesurant 28 x 30 mm est identifié, montrant un halo de faible signal et un contenu hétérogène, qui semble avoir légèrement augmenté en taille par rapport à l'IRM précédente en 2013 (26x25mm) avec une croissance un peu plus évidente par rapport à la tomodensitométrie précédente en 2009 où il mesurait 21x18 mm.
+PET-CT juillet 2014 : nodule pulmonaire LII, nodule dans le pôle inférieur du rein droit, lésions osseuses dans la branche iliopubienne droite compatibles avec une métastase.
+MUGA août 2014 : FEVG au repos de 38%.
+
+Diagnostic
+Carcinome rénal mixte de stade IV (cellules claires et papillaires).
+Pronostic : intermédiaire.
+Charge tumorale : pôle rénal inférieur droit, poumon en LII, os dans la branche iliopubienne droite.
+
+Traitement
+Dans un premier temps, et étant donné que le seul symptôme de la patiente était une douleur à la hanche droite, une radiothérapie a été réalisée avec une intention antalgique sur la branche iliopubienne droite avec une dose totale de 30Gy.
+Par la suite, compte tenu de la faible FEVG (38%), le traitement par sunitinib a été rejeté et il a été proposé à la patiente une alternative par bevacizumab (10mg/kg IV tous les 15 jours) associé à l'interféron alfa-2a (3MUI SC L,X,V).
+
+Évolution
+La première étude après 2 mois de traitement a été un scanner sans contraste en raison de l'IRC du patient, qui a montré une diminution de plus de 50 % de la lésion pulmonaire et l'absence de lésion au niveau du pôle rénal inférieur.
+Cependant, comme prévu, le patient a dû réduire progressivement l'intensité de la dose à partir du troisième mois jusqu'à ce qu'il ne reçoive plus qu'une dose de bévacizumab de 5 mg/kg à partir du cinquième mois en raison d'une HTN de grade 2 et d'une protéinurie de 2+. Depuis lors, le patient a poursuivi le traitement sans effets toxiques significatifs, avec une tension artérielle inférieure à 150/90 mmHg.
+Après un an de traitement, un scanner PET-CT a été réalisé pour déterminer l'existence d'une maladie métaboliquement active :
+PET-CT août 2015 : nodule LII à très faible métabolisme glycémique (SUVmax= 2,4 g/ml), de signification pathologique douteuse. Aucun foyer hypermétabolique n'a été observé dans la cavité abdominale. Un métabolisme de faible intensité persistait dans la métastase osseuse connue de la branche iliopubienne droite (SUVmax= 3,28 g/ml).
+En octobre 2015, les symptômes cliniques de douleur à la hanche gauche sont réapparus, des bisphosphonates adaptés à la fonction rénale ont donc été commencés avec peu d'amélioration et une aggravation du débit de filtration glomérulaire (de 33 à 23ml/min), le traitement a donc été changé pour le denosumab 120mg SC tous les 28 jours.
+Le patient a montré une grande amélioration clinique et de la fonction rénale après le changement de médicament, ce qui a été confirmé par l'imagerie.
+PET-CT janvier 2016 : Nodule en LII avec un métabolisme glycémique très bas inchangé par rapport à l'étude précédente (SUVmax= 2,86g/ml). La lésion osseuse décrite dans la branche iliopubienne droite dans l'étude actuelle
+ne présente PAS d'avidité glycidique significative.
+Compte tenu de la détérioration progressive de la fonction rénale avec une élévation de la créatinine et une diminution du débit de filtration glomérulaire, et compte tenu de l'excellente réponse au traitement, nous avons arrêté en mars 2016 le traitement par bevacizumab et IFN et maintenu le dénosumab.
+PET-CT juin 2016 : pas de changement.
+Le patient reste asymptomatique et en repos thérapeutique après avoir obtenu une réponse quasi complète à sa maladie.

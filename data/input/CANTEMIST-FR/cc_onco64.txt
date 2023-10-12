@@ -1,0 +1,66 @@
+Anamnèse
+Suite aux manifestations cliniques d'un nodule auto-palpable dans le sein gauche en octobre 2014, un médecin de premier recours a entamé une investigation.
+
+Antécédents familiaux : la mère est décédée d'un cancer du pancréas.
+
+Antécédents personnels : pas d'allergies médicamenteuses ni d'habitudes toxiques. Hypertension artérielle sous traitement à l'énalapril 20 mg/jour avec un bon contrôle. Pas de diabète ni de dyslipidémie. Pas de maladie cardiaque ni de bronchopathie. Syndrome anxieux sous traitement par clorazepate dipotassique 5 mg/12 h. Ménarche à l'âge de 12 ans. Ménopause à 52 ans. G4A1P3. Allaitement à 3 enfants.
+
+Examen physique
+ECOG 0. Poids 74 kg. Taille 155 cm. WC 1,73 m2. Bon état général, bien hydraté et perfusé, conscient, orienté et coopératif. L'examen cardiorespiratoire et abdominal ne révèle aucune pathologie.
+Membres inférieurs sans œdème ni signe de thrombose veineuse. Pas d'adénopathies sus-claviculaires.
+Sein droit normal. Sein gauche avec un nodule de 2 cm à la jonction des quadrants internes.
+Plusieurs adénopathies axillaires palpables d'environ 2 cm chacune.
+
+Examens complémentaires
+" Sénographie bilatérale (22/10/2014) : deux images nodulaires à bords bien définis, de densité moyenne, mesurant environ 14 et 19 mm, ont été identifiées dans la région centrale du quadrant inférieur externe (CIE) du sein gauche. À côté, dans une situation plus profonde, on observe une densité pseudonodulaire de 19 mm, avec un bord postérieur légèrement spiculé, avec une accumulation de microcalcifications indéterminées adjacentes.
+
+" Echographie et biopsie bilatérale (22/10/2014) : les images nodulaires correspondent à des lésions kystiques. En profondeur, il existe un nodule solide à bords lobulés, avec une bonne transmission acoustique. L'examen axillaire gauche met en évidence des ganglions épais de morphologie arrondie, au nombre de 4 ou 5, dont un de plus de 5 cm de diamètre. Ils sont clairement pathologiques en raison de leur taille et de leur morphologie. Une biopsie à l'aiguille (biopsie à l'aiguille) du sein gauche et du plus gros des ganglions lymphatiques a été réalisée.
+
+"Pathologie de la BAG : carcinome canalaire infiltrant de type solide, principalement de grade histologique 3.
+
+"Immunohistochimie (IHC) : récepteurs hormonaux (HR) négatifs, Ki-67 40%, HER-2 3+.
+
+" Scanner avec contraste thoracique et abdominal (27/11/2014) : nodule dans le sein gauche en rapport avec un carcinome mammaire avec de multiples ganglions lymphatiques axillaires homolatéraux d'aspect métastatique. Pas de signe d'atteinte à distance. Cholélithiase.
+
+" Echocardiographie (28/11/2014) : fraction d'éjection normale de 70% sans altération segmentaire de la contraction. Chambres droite et gauche non dilatées. Pas d'épanchement péricardique.
+
+" NFS (16/12/2014) : normale sauf GGT 252 UI/L, le reste normal.
+
+" Sérologie hépatique (16/12/2014) : compatible avec une infection antérieure par le VHB.
+
+Diagnostic
+Carcinome canalaire infiltrant du sein gauche, 2 cm, grade 3, stade IIB (cT2cN1M0). HR négatif, Ki-67 40%, HER-2 positif.
+
+Traitement
+Compte tenu de la surexpression de HER-2 dans la tumeur, il est proposé à la patiente de participer à l'essai clinique BO28408/TRIO021 KRISTINE.
+
+Cette étude randomise les patientes pour qu'elles reçoivent un traitement néoadjuvant de trastuzumab emtansine (T-DM1) plus pertuzumab vs chimiothérapie + trastuzumab + pertuzumab. Après vérification du respect des critères d'inclusion et signature du formulaire de consentement éclairé, la patiente a été randomisée dans le bras T-DM1 avec pertuzumab.
+
+En décembre 2014, il a donc commencé un traitement néoadjuvant à base de T-DM1 (dose de 3,6 mg/kg) et de pertuzumab (dose de charge de 840 mg, suivie de 420 mg) tous les 21 jours.
+
+Évolution
+La patiente a reçu un total de 6 cycles de traitement, qui se sont terminés en avril 2015. Après le troisième cycle, l'examen a révélé l'absence de palpation du nodule mammaire et la palpation d'un seul ganglion lymphatique axillaire mesurant environ 2 cm.
+
+Cette lymphadénopathie n'est plus palpable après le quatrième cycle, et une réponse clinique complète est donc obtenue après le cycle 4.
+
+Une fois les 6 cycles de traitement terminés, la patiente est orientée vers l'unité de chirurgie mammaire pour y subir une intervention chirurgicale.
+
+Le 25 avril, la patiente consulte au service des urgences pour des symptômes de dyspnée qui durent depuis 2 semaines, jusqu'à devenir reposants depuis quelques jours. Elle a signalé une toux sans expectoration et un pic de fièvre isolé. Il a consulté un médecin traitant pour ce motif, qui lui a prescrit une antibiothérapie, mais devant l'absence d'amélioration, il a consulté à nouveau. L'examen révèle une tachypnée au repos, une saturation en oxygène de 82 % sans oxygénothérapie et des crépitants dans les deux champs pulmonaires.
+
+Une radiographie pulmonaire postéro-antérieure a été réalisée à l'arrivée au service des urgences, montrant des infiltrats pulmonaires bilatéraux, principalement dans les lobes supérieurs, et des nodules mal définis qui pourraient être en rapport avec la maladie, bien qu'un processus pneumonique actuel n'ait pas été exclu.
+
+La numération formule sanguine est normale, avec une CRP légèrement augmentée à 21,5 mg/l et un proBNP normal.
+
+Elle a été admise à l'hôpital pour recevoir un traitement antibiotique et des corticostéroïdes par voie intraveineuse. Au cours de son séjour à l'hôpital, les examens complémentaires suivants ont été réalisés :
+
+"Hémocultures : négatives.
+"Antigénurie pour le pneumocoque et la légionelle : négative.
+"Culture des expectorations : cellules épithéliales.
+"Scanner thoracique : lymphadénopathie axillaire gauche résiduelle. Cardiomégalie modérée avec signes d'hypertension précapillaire. Infiltrats inhomogènes, répartis de façon périphérique et diffuse dans les deux champs pulmonaires. Lésions cicatricielles dans les lobes supérieurs et nodules périphériques occupant les voies aériennes distales. Granulomes calcifiés dans le lobe moyen. Conclusion : altérations compatibles avec une pneumopathie d'hypersensibilité médicamenteuse. Évaluer le CNO. TB résiduelle. Une cause infectieuse ne peut être exclue.
+"Endoscopie respiratoire : les deux arbres bronchiques ne présentent pas de signes pathologiques. Un lavage est effectué et des échantillons sont envoyés à l'AP, à la microbiologie et à la biochimie.
+"Antigène galactomannane dans le LBA : négatif.
+"Cytologie bronchique : absence de cellules néoplasiques. Cellules épithéliales respiratoires avec modifications réactionnelles (macrophages abondants). Compte tenu de la négativité des différentes cultures réalisées, ainsi que de l'absence de signes infectieux, nous avons écarté une cause infectieuse comme origine probable des symptômes. De même, les examens semblaient exclure une origine néoplasique des symptômes respiratoires actuels. Par conséquent, et conformément aux tests effectués, tout semble indiquer qu'il s'agit d'une pneumopathie d'hypersensibilité médicamenteuse, dans ce cas très probablement secondaire au T-DM1.
+
+La patiente a reçu une corticothérapie iv à la dose de 1 mg/kg/jour, avec une nette amélioration clinique et radiologique, les infiltrats ont disparu et elle a finalement été autorisée à sortir de l'hôpital avec un réajustement du traitement ambulatoire.
+
+À l'heure actuelle, en mai 2015, la patiente est asymptomatique et attend une chirurgie mammaire et axillaire.

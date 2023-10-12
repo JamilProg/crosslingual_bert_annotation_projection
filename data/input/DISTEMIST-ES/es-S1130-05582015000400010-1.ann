@@ -1,0 +1,18 @@
+T1	pathologie 284 298	litiasis renal
+T2	pathologie 301 322	hipertensión arterial
+T3	pathologie 846 855	carcinoma
+T4	pathologie 1081 1124	infiltración de la musculatura suprahioidea
+T5	pathologie 1506 1530	proliferación neoplásica
+T6	pathologie 2193 2198	tumor
+T7	pathologie 2399 2444	carcinoma mioepitelial de glándula submaxilar
+T8	pathologie 2836 2852	recidiva tumoral
+T9	pathologie 2856 2866	metástasis
+#1	SNOMED T5	1495041000004108
+#2	SNOMED T8	25173007
+#3	SNOMED T9	128462008
+#4	SNOMED T1	95570007
+#5	SNOMED T2	38341003
+#6	SNOMED T3	722688002
+#7	SNOMED T7	254465004
+#8	SNOMED T4	94441008
+#9	SNOMED T6	55342001

@@ -1,0 +1,46 @@
+Anamnèse
+Femme de 74 ans, hypertendue et sans autres antécédents médicaux intéressants, qui a présenté, de façon soudaine, un tableau clinique composé d'altérations dépressives du comportement, d'une asthénie croissante et d'une insomnie persistante. Après avoir écarté toute étiologie organique au moyen d'examens complémentaires d'urgence, un traitement psychiatrique a été mis en place avec des benzodiazépines et des antidépresseurs, sans que la patiente ne montre la moindre amélioration. Progressivement, le patient a commencé à associer des hallucinations visuelles et auditives à des idées délirantes. Après 20 jours d'évolution catastrophique, la patiente a présenté une désorientation franche, une agitation psychomotrice floride et des vomissements, de sorte qu'il a été décidé de l'hospitaliser dans le service de neurologie pour exclure définitivement l'organicité des symptômes.
+
+Jusqu'à l'apparition du tableau décrit, le seul traitement régulier de la patiente était l'irbésartan. Indépendante pour les AVQ, elle avait été femme au foyer toute sa vie. Elle n'avait pas d'antécédents familiaux de cancer.
+
+Examen physique
+À l'admission, le patient était stable sur le plan hémodynamique et apyrétique.
+Couleur normale et hydratation normale. Eupnéique. L'auscultation cardiaque et pulmonaire ne présente aucune altération et l'abdomen est sans particularité. Les extrémités ne présentent aucune altération. Elle a présenté un début d'agitation psychomotrice avec peu de coopération. Elle est désorientée dans les trois sphères, bien qu'aucune altération formelle du langage n'ait été observée. Les pupilles sont isochores et réactives. Nerfs crâniens normaux. Mouvements spontanés des quatre membres, avec réflexe fléchisseur cutané-plantaire.
+Sensibilité non évaluable. Il n'y a pas de signe de méningisme.
+
+Examens complémentaires
+" Biochimie sanguine, sédiment urinaire et hémogramme (4/4/2014) sans altération. A noter l'augmentation de la CRP avec une valeur maximale de 122,4 mg/l le 29/4/2014.
+" Parmi les marqueurs tumoraux (15/4/2014), on note une légère augmentation de l'énolase spécifique des neurones (27 ng/ml). Les autres, y compris la pro-grp (36,3 pg/ml), avec des valeurs normales.
+" Protéinogramme (29/4/2014) sans altération. Étude de l'auto-immunité négative (ANA par IFA négatif à 1/80). Anticorps antithyroïdiens et antineuronaux (Yo, Hu et Ri) négatifs.
+" IRM crânienne (11/4/2014) : atrophie cérébrale marquée avec légère atteinte cérébelleuse. Présence de petits foyers d'altération de l'intensité du signal suggérant de petites lésions hypoxiques-ischémiques chroniques. Pas d'autres résultats significatifs. L'examen a été répété le 13/5/2014, sans qu'aucune autre altération n'ait été constatée.
+" L'électroencéphalogramme (4/4/2014) a montré des signes de souffrance cérébrale diffuse, plus marquée dans l'hémisphère droit.
+" Étude du LCR (4/4/2004) avec un aspect transparent. Les globules rouges (184 cellules/mm3) et les leucocytes (4 cellules/mm3 ; glycorrhachie (57 mg/dl) et protéinorrachie (34 mg/dl) étaient normaux. Microbiologie (Ziehl-Neelsen, BAAR et coloration de Gram) négative. PCR négative pour l'herpès.
+" Deuxième ponction lombaire pour l'étude de l'auto-immunité du LCR réalisée le 16/4/2014 : présence d'anticorps anti-NMDA confirmée le 14/5/2014. Là encore, aucune altération cytobiochimique n'a été observée.
+" Tomodensitométrie thoraco-abdominale pelvienne (28/4/2014) : masse formée de conglomérats nodulaires, disposée autour de la veine porte principale et s'étendant en arrière de la tête pancréatique. Elle se distingue par son caractère hypovasculaire et son rehaussement périphérique nodulaire. Cette observation, ainsi que sa disposition autour des vaisseaux et l'absence d'obstruction des voies biliaires, ont suggéré la possibilité d'un lymphome. Cependant, aucune adénopathie rétropéritonéale ou mésentérique significative ni aucune métastase dans d'autres organes n'ont été observées. Au niveau thoracique, un petit épanchement pleural bilatéral a été observé, sans lymphadénopathie supradiaphragmatique.
+" Le scanner a été complété par une IRM de l'abdomen et du bassin (29/4/2014), confirmant une masse pancréatique solide sans signe d'infiltration locale ou vasculaire, soulevant le diagnostic différentiel entre adénocarcinome et lymphome.
+"Le 6/5/2014, la première FNA transabdominale pancréatique a été réalisée et s'est révélée négative pour l'adénocarcinome, étant compatible avec un processus lymphoprolifératif, bien qu'elle n'ait pas été valide pour filtrer l'infiltrat lymphoïde. Une nouvelle FNA a été demandée.
+"Le 14/5/2014, une seconde FNA a été réalisée, qui a de nouveau montré un infiltrat lymphoïde, sans pouvoir exclure son origine inflammatoire. Il a été décidé de demander une biopsie tru-cut.
+" Le 28/5/2014, une troisième ponction transabdominale a été réalisée, cette fois-ci tru-cut, dont le résultat le 3/6/2014 était des débris hématiques non significatifs.
+" Enfin, le 17/6/2014, plusieurs biopsies ont été réalisées par échographie endoscopique linéaire, dont le résultat cytologique du 24/6/2014 était compatible avec un carcinome à petites cellules indifférencié, d'aspect neuroendocrine.
+
+Diagnostic
+Carcinome microcytaire du pancréas ; maladie limitée. Encéphalite auto-immune paranéoplasique due à des anticorps anti-NMDA.
+
+Traitement
+Compte tenu de la suspicion d'encéphalopathie auto-immune à la suite des résultats du scanner, des immunoglobulines polyvalentes ont été prescrites à raison de 0,4 g/kg pour un poids estimé à 80 kg. Par la suite, une mégadose de corticostéroïdes a été prescrite. Compte tenu de la faible réponse neurologique, une immunothérapie de seconde ligne a été décidée et la première dose de rituximab (1 g) a été administrée le 10/5/2014, une seconde dose étant administrée 2 semaines plus tard.
+
+Suite au diagnostic anatomopathologique, il a été décidé de prescrire une chimiothérapie à visée palliative. Le premier cycle de carboplatine (AUC 4) et d'étoposide à 75 % de la dose standard a été débuté le 25/6/2014.
+Elle a effectué six cycles sans retard jusqu'en octobre 2014.
+
+Il a été décidé d'administrer une radiothérapie de consolidation en janvier 2015 sur le lit pancréatique et les aires ganglionnaires adjacentes à une dose de 50,9 Gy.
+
+Suite à la progression de la tumeur en février 2015, elle a commencé le 9/2/2015 une deuxième ligne de chimiothérapie avec une monothérapie bihebdomadaire à l'irinotécan, dont la dose standard a été réduite à 75%, toujours en raison de son état fonctionnel. La patiente a terminé huit cycles à ce jour.
+
+Le patient n'a pas eu besoin d'un traitement de soutien concomitant important. L'inconfort abdominal a été contrôlé par une analgésie de première étape (paracétamol et métamizole).
+
+Évolution
+Lors de son hospitalisation, à partir de fin mars 2014, la patiente a continué à présenter une détérioration neurocognitive progressive qui a nécessité, entre autres, un traitement anti-cognitif et des mesures invasives de soutien nutritionnel.
+
+Le traitement empirique de l'encéphalite a permis d'obtenir, après l'administration de rituximab, une stabilisation neurologique comme meilleure réponse. L'amélioration neurocognitive s'est produite, contre tout pronostic, et instantanément, quelques jours après l'administration du premier cycle de chimiothérapie. Finalement, la patiente a été renvoyée chez elle après un long et tortueux séjour à l'hôpital, avec des signes cliniques résiduels de bradypsychie et d'asthénie G2, mais elle était indépendante en ABVD. Après deux cycles de chimiothérapie, le scanner d'évaluation a montré une maladie stable. Cependant, après quatre cycles, une réponse radiologique partielle était évidente, qui a été consolidée dans le scanner d'évaluation après la fin de la première ligne de chimiothérapie. Il convient de noter qu'il n'y a pas eu de toxicité significative, à l'exception d'une asthénie G1-2 présente tout au long de la maladie.
+
+Compte tenu de l'état général acceptable du patient, qui s'est révélé à nouveau oligoasymptomatique et sans comorbidités, avec une nette amélioration clinique et neurocognitive, il a été décidé d'administrer une radiothérapie de consolidation locale. Avec un intervalle sans progression d'environ un mois après la fin de la RT, la première progression tumorale a été observée. Une deuxième ligne de chimiothérapie a été envisagée, avec à nouveau une amélioration clinique progressive. Une réponse partielle a de nouveau été observée au scanner en avril 2015, après quatre cycles d'irinotécan bihebdomadaire. Compte tenu de la forte chimiosensibilité de la tumeur et de l'absence de toxicités significatives, la chimiothérapie de deuxième ligne est actuellement poursuivie.

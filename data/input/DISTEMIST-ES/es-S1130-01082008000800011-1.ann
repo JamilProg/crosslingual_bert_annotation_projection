@@ -1,0 +1,32 @@
+T1	pathologie 44 157	linfoma de Hodgkin clásico, variedad celularidad mixta, estadio IV-B con afectación medular, hepática y esplénica
+T2	pathologie 300 307	melenas
+T3	pathologie 417 449	insuficiencia respiratoria aguda
+T4	pathologie 481 506	hemorragia digestiva baja
+T5	pathologie 511 529	shock hipovolémico
+T6	pathologie 624 660	yeyuno proximal, una gran ulceración
+T7	pathologie 801 807	úlcera
+T8	pathologie 822 882	fragmentos de mucosa de intestino delgado, algunos ulcerados
+T9	pathologie 1085 1097	mucormicosis
+T10	pathologie 1206 1252	lesiones hipodensas en ambos lóbulos hepáticos
+T11	pathologie 1255 1319	afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar
+T12	pathologie 1485 1553	plastrón localizado en yeyuno con afectación de mesocolon transverso
+T13	pathologie 1565 1595	perforación cubierta de yeyuno
+T14	pathologie 1654 1823	yeyuno e íleon mostró ulceración e intensa inflamación aguda y crónica con doble perforación y adherencia de asas, secundarias a infección por Zigomicetos del tipo mucor
+T15	pathologie 1783 1823	infección por Zigomicetos del tipo mucor
+T16	pathologie 2254 2261	linfoma
+#1	SNOMED T1	93526001
+#2	SNOMED T12	278486006
+#3	SNOMED T13	282060009
+#4	SNOMED T2	2901004
+#5	SNOMED T14	361142004+235741002+31819001
+#6	SNOMED T3	65710008
+#7	SNOMED T15	76627001
+#8	SNOMED T4	87763006
+#9	SNOMED T5	39419009
+#10	SNOMED T6	54822007
+#11	SNOMED T16	118600007
+#12	SNOMED T9	76627001
+#13	SNOMED T10	235856003
+#14	SNOMED T11	94602001
+#15	SNOMED T7	429040005
+#16	SNOMED T8	235710003

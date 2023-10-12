@@ -1,0 +1,28 @@
+Anamnèse
+Une femme âgée de 23 ans au moment du diagnostic, sans antécédents médicaux ou chirurgicaux, s'est présentée au service des urgences de notre hôpital pour des douleurs lombaires à caractéristiques mécaniques évoluant depuis trois ans, en particulier dans la fesse droite, qui se sont partiellement atténuées avec l'utilisation d'anti-inflammatoires non stéroïdiens. Il n'y avait pas de déficit moteur ou sensoriel dans les membres inférieurs.
+
+Examen physique
+Tête et cou : pas d'adénopathies, pas d'ingurgitation jugulaire ni de réflexe hépatojugulaire.
+Auscultation cardio-pulmonaire : rythmée, pas de souffle.
+Bonne ventilation globale bilatérale. Abdomen : souple et dépressible. Aucune masse ou mégalithe n'est palpable. Les bruits intestinaux sont conservés. Extrémités : pas d'œdème.
+Locomoteur : douleur sélective au niveau de la fesse droite sans irradiation aux membres inférieurs exacerbée par la mobilisation active et passive. Signes de Lasegue et de Bragard négatifs. Force musculaire et sensitive conservée. Réflexes ostéotendineux normaux.
+
+Examens complémentaires
+- Numération sanguine, biochimie avec profil hépatique, coagulation et urine sans résultats significatifs. Calcium 10,2 mg/dL ; phosphore 4,3 mg/dL ; LDH 359 U/L ; ESR 17 mm (valeurs dans la fourchette normale).
+- Radiographie du thorax et de l'abdomen : aucun signe pathologique.
+- Radiographie antéro-postérieure et latérale du bassin : une lésion ostéolytique avec sclérose périphérique a été observée sur le bord externe de la lame iliaque droite, compatible avec un ostéome.
+- Tomodensitométrie thoracique-abdominale-pelvienne : aucun résultat dans le thorax. Dans le bassin, une lésion lytique de 5,5 cm est visualisée sur le bord externe de l'os iliaque droit, avec des bords internes sclérosés et des bords externes amincis, sans calcifications internes ni masses de tissus mous. Images évocatrices d'une lésion bénigne.
+- IRM pelvienne : lésion destructrice sur le bord externe de l'os iliaque droit, associée à une infiltration des tissus mous (grand fessier) et à un œdème. Image compatible avec une tumeur osseuse.
+- Ponction à l'aiguille fine de l'iliaque droite : cytologie d'une tumeur bénigne compatible avec un kyste osseux anévrismal.
+- Anatomie pathologique après curetage : tumeur bigarrée et solide, avec des travées osseuses irrégulières et une image ostéoïde prédominante entourée d'ostéoblastes avec des atypies focalement intenses mêlant des cellules géantes bénignes et d'autres correspondant à des ostéoclastes malins. Dans la zone périphérique, des travées immatures continuent d'infiltrer la couche corticale. Elle est compatible avec une entité appelée ostéoblastome agressif (Dorfman), ostéoblastome malin (Schajawicz) ou ostéosarcome simulant un ostéoblastome (Bertoni).
+
+Diagnostic
+Selon les auteurs, ostéoblastome iliaque droit agressif, ostéoblastome iliaque droit malin ou ostéosarcome simulant un ostéoblastome iliaque droit.
+
+Traitement
+Un curetage de la lésion iliaque droite a été effectué et trois cycles de chimiothérapie ont été administrés selon le schéma suivant : cisplatine 100 mg/m2 en perfusion continue pendant 24 heures et doxorubicine 25 mg/m2 pendant trois jours plus facteurs de stimulation des colonies pendant sept jours, avec une réduction de 20 % de la dose au cours du troisième cycle en raison d'une fièvre neutropénique de grade 4, d'une thrombopénie de grade 4, d'une anémie de grade 3 et d'une asthénie de grade 3 au cours du cycle précédent ; avec un soutien transfusionnel de deux concentrés érythrocytaires. Après la fin de la chimiothérapie, il a reçu une radiothérapie 3DC sur le lit tumoral avec une dose totale de 60 Gy en normofractionnement de 2 Gy sans incidences immédiates.
+
+Evolution
+Après avoir terminé le traitement de chimiothérapie et de radiothérapie, la patiente est asymptomatique et ne ressent aucune douleur dans la région fessière qui a donné lieu à l'étude.
+Comme séquelle secondaire au traitement, la patiente a présenté une aménorrhée pendant les 40 mois suivants, nécessitant un traitement hormonal substitutif pour mener une grossesse à terme ; après cela, elle a retrouvé un cycle menstruel normal sans avoir besoin de traitement, menant à bien une nouvelle grossesse deux ans plus tard.
+La patiente est actuellement suivie tous les six mois par le service d'oncologie médicale, sans aucun signe de maladie, après un suivi de douze ans.

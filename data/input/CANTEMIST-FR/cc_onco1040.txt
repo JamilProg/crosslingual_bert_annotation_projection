@@ -1,0 +1,36 @@
+Anamnèse
+Elle s'est présentée à une consultation d'oncologie médicale dans le cadre d'une tumeur mammaire bilatérale métachrone de stade IV, en raison d'une maladie métastatique osseuse, traitée par hormonothérapie. Elle signale des céphalées progressives et, à l'anamnèse, confirme une polydipsie et une polyurie avec nycturie (appétence pour les boissons froides et gazeuses), une asthénie intense, des nausées, des vomissements et une gêne abdominale.
+
+Examen physique
+ Adénopathies et seins : aucune adénopathie locorégionale n'est palpable. Lits de mastectomie sans signe de récidive locorégionale. Cicatrices sans signe de récidive ni de lésion suspecte.
+ Auscultation cardiaque : rythmée, sans souffle.
+ Auscultation pulmonaire : bruits respiratoires conservés.
+ Examen abdominal : bruits hydro-aériques conservés. Doux, indolore à la palpation profonde. Murphy et Blumberg négatifs. Pas de signe de péritonisme. Percussion bilatérale du poing rénal négative.
+ Membres inférieurs : pouls pédieux présents et symétriques. Pas d'œdème ni de signe de TVP.
+ Examen neurologique : pupilles isochoriques, normoréactives. Altérations du champ visuel avec réduction du champ nasal gauche. Légère proptose unilatérale. Reste des nerfs crâniens symétriques et préservés. Force et sensibilité préservées et symétriques. Réflexe cutané fléchisseur plantaire bilatéral. Aucun signe de focalité neurologique.
+
+Tests complémentaires
+L'étude a été complétée par les examens complémentaires suivants :
+ Analyse sanguine complète dans laquelle il convient de noter : T4 libre 0,60, TSH 0,455, cortisol basal < 1,00 μg/100 ml.
+ Tomodensitométrie cérébrale : pas d'altération significative.
+ IRM cérébrale : lésion au niveau hypophysaire ayant nécessité de compléter l'étude par une IRM hypophysaire.
+ IRM hypophysaire : nombreux nodules dans la musculature extraoculaire, épaississement au niveau de la dure-mère et lésion au niveau hypophysaire avec suspicion d'épaississement au niveau de la tige pituitaire.
+ Toutes ces observations sont évocatrices d'une maladie métastatique.
+ Le scanner thoraco-abdomino-pelvien et le GGO n'ont pas décrit de nouvelles lésions osseuses. Une maladie à d'autres niveaux a été exclue.
+ Biopsie de la moelle osseuse : étude anatomopathologique compatible avec une infiltration par un carcinome canalaire infiltrant du sein avec des récepteurs hormonaux positifs.
+
+Diagnostic
+Carcinome canalaire infiltrant bilatéral du sein, métachrone, stade IV, dû à des métastases multiples dans les os, l'hypophyse, la musculature orbitaire, la dure-mère et la moelle osseuse.
+
+Traitement
+Dans le cadre d'un carcinome canalaire infiltrant du sein gauche, récepteurs hormonaux positifs, Ki67 10 % et HER-2 négatif, stade cT3 cN1 M1 (en raison d'une maladie oligométastatique au niveau osseux) diagnostiqué en octobre 2010.
+Il a été décidé d'administrer de l'acide zolédronique et une chimiothérapie à base d'anthracycline, complétant 4 cycles, suivie par du docétaxel complétant 4 cycles, obtenant une réponse radiologique partielle. En juin 2011, il a été décidé de réaliser une mastectomie et une lymphadénectomie gauches avec une radiothérapie complémentaire (60 Gy) et une hormonothérapie à base de tamoxifène.
+Lors de la visite de suivi en janvier 2012, un nodule a été détecté dans le sein controlatéral et une biopsie a été réalisée, compatible avec un carcinome canalaire infiltrant du sein droit avec des récepteurs hormonaux positifs, Ki 67 12% et HER-2 négatif. Il a été décidé de procéder à une mastectomie droite et à une biopsie sélective du ganglion sentinelle, stade pT2 pN0.
+Elle a présenté des symptômes algiques au niveau lombo-sacré avec une scintigraphie osseuse présentant des lésions compatibles avec une progression, pour laquelle elle a reçu une radiothérapie locale antalgique sur la région dorsale inférieure, le sacrum et la lame iliaque droite.
+La progression osseuse étant évidente en décembre 2012, l'hormonothérapie est passée du tamoxifène au létrozole.
+Depuis octobre 2013, elle a commencé à souffrir de céphalées, de diabète insipide, d'hypothyroïdie et d'insuffisance surrénalienne secondaire, pour lesquels un traitement substitutif a été débuté avec de la desmopressine, de l'hormone thyroïdienne et de l'hydroaltesone avec un bon contrôle clinique et analytique. Il a reçu une radiothérapie holocrânienne, incluant la base du crâne et la zone postérieure des orbites avec une dose totale de 30 Gy.
+Après la radiothérapie, elle a présenté une pancytopénie aiguë de grade 3-4 compatible avec une possible infiltration de la moelle osseuse, de sorte qu'une biopsie a été effectuée, compatible avec une infiltration par un carcinome canalaire infiltrant du sein avec des récepteurs hormonaux positifs.
+Une chimiothérapie a été instaurée avec un schéma hebdomadaire de 80 % de paclitaxel avec une bonne tolérance clinique et analytique.
+
+L'évolution
+Lors du premier contrôle, il a présenté une réponse presque complète au niveau cérébral, hypophysaire et des muscles extraoculaires. Mais avant le deuxième contrôle, il a présenté une progression clinique avec une dyspnée et des symptômes neurologiques progressifs, un scanner a donc été réalisé qui a montré une progression au niveau osseux et cérébral, étant exitus letalis en novembre 2014.

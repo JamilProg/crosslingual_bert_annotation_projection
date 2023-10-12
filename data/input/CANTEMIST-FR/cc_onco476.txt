@@ -1,0 +1,38 @@
+Anamnèse
+Femme de 51 ans, allergique aux produits de contraste iodés, réceptionniste dans un atelier automobile, sans habitudes toxiques. Elle signale des coups de soleil depuis l'enfance.
+Antécédents personnels : vitiligo secondaire à une immunothérapie.
+Interventions chirurgicales : kyste bénin du foie. Pas de traitement à domicile.
+
+Examen physique
+Conscient, orienté et coopératif. Bien hydraté et perfusé. Auscultation cardio-pulmonaire avec des tons rythmiques, à une bonne fréquence sans murmure audible, murmure vésiculaire préservé sans bruits pathologiques. Diminution généralisée de la force dans les 4 membres, mais plus marquée dans les 3/5 membres inférieurs.
+
+Tests complémentaires
+En référence à la première admission
+" Tomodensitométrie thoracique, abdominale et pelvienne sans contraste (22/03/2019) : aucun nodule, condensation parenchymateuse, adénopathie ou épanchement pleural n'a été observé au niveau du thorax. Abdomen et bassin sans lésions significatives.
+" IRM crânienne avec contraste (20/03/2019) : dans la région cortico-sous-corticale frontale gauche, il y avait une lésion hyperintense en T2 avec de petites zones liquides à l'intérieur d'aspect résiduel qui ne présentait pas d'effet de masse, d'hémosidérine associée, de prise de contraste ou de restriction de diffusion, pouvant être interprétée comme des infarctus lacunaires chroniques.
+" IRM crânienne avec contraste (01/04/2019) : scanner sans modification significative par rapport au contrôle précédent du 20 mars, avec lequel il a été comparé.
+En ce qui concerne la deuxième admission
+Analyses sanguines veineuses périphériques : la biochimie avait des résultats significatifs avec la créatinine, les ions et le profil hépatique normal. Numération sanguine avec hémoglobine et paramètres érythrocytaires dans les limites normales, mettant en évidence une leucocytose (18,14 x 103/l) au détriment d'une neutrophilie (16,74 x 103). Légère thrombocytose (505 x 103/l). Coagulation dans les limites de la normale.
+IRM crânienne avec contraste (3/05/2019) : atteinte diffuse bilatérale des sillons corticaux, évaluant comme une possibilité diagnostique en premier lieu ; origine leptoméningée, soit infectieuse, soit carcinomateuse.
+PET-CT (5/05/2019) : pas de résultats significatifs.
+Analyse du liquide céphalo-rachidien :
+" Pression d'ouverture de 29 cm H2O. Aspect macroscopique cristallin et incolore.
+" Globules rouges 2/ml, leucocytes 80/ml. Cellules atypiques compatibles avec la progression du mélanome dans le LCR.
+"Polymorphonucléaires 1%, mononucléaires 99%.
+"Glucose 34 mg/dl 40-70, protéines totales 53,2 mg/dl 15-50, adénosine désaminase < 1,5 U/l 0-5, acide lactique 46,7 mg/dl.
+"Culture bactérienne et fongique négative.
+"Cytologie du LCR : cellules suspectes de malignité avec un phénotype SOX10+, MELANA+, HMB45+, S100-, CD68- compatible avec un mélanome malin.
+"Le statut mutationnel des gènes NRAS/BRAF a également été obtenu par le test Ldylla, qui a révélé une mutation au codon 600 de BRAF (V600E/D). Aucune mutation n'a été détectée dans les codons 12, 13, 59, 61, 117 et 146 du NRAS.
+IRM complète du rachis avec contraste (10/05/2019) : une prise en charge micronodulaire méningée a été observée au niveau cervical et dorsal au niveau D9, concluant à une infiltration méningée due à sa maladie sous-jacente.
+
+Diagnostic
+Mélanome pT1aN0, muté BRAF, initialement opéré, avec progression ganglionnaire inguinale 9 ans plus tard traitée par chirurgie et radiothérapie adjuvante.
+Progression ganglionnaire multiple en réponse complète après 2 ans de traitement dans un essai clinique avec pembrolizumab + epacadostat/placebo et apparition d'une carcinomatose méningée après 6 mois sans traitement.
+
+Traitement
+Dès l'admission, une corticothérapie a été mise en place. Après analyse des examens complémentaires décrits ci-dessus, la patiente a été informée du diagnostic, du pronostic et des options thérapeutiques, et a souhaité un traitement actif de sa maladie. La neurochirurgie de notre hôpital de référence a donc été contactée pour la mise en place du réservoir Ommaya afin d'initier un traitement intrathécal par méthotrexate. Ce traitement est actuellement en phase d'induction, à raison de deux fois par semaine pendant 4 semaines. En cas de bonne réponse, que nous analyserons à l'aide des manifestations cliniques du patient et des cytologies du LCR avant chaque administration, nous passerons au schéma suivant, à raison d'une fois par semaine.
+Après avoir obtenu le rapport anatomopathologique définitif avec mutation du gène BRAF, un traitement systémique par dabrafenib + trametinib a été mis en place car, bien qu'il n'y ait pas de preuve de la maladie systémique, ce doublet s'est avéré efficace au niveau central.
+
+Évolution
+La corticothérapie a amélioré la douleur le long de la moelle épinière et les céphalées, ainsi que l'appétit. Sa cécité bilatérale a persisté pendant l'admission. Après le début de la chimiothérapie intrathécale, la cytologie du LCR a montré de moins en moins de cellules malignes.
+À la date de référence, le patient est toujours hospitalisé et devrait sortir dans les prochains jours pour poursuivre son traitement dans un hôpital de jour.

@@ -1,0 +1,12 @@
+T1	pathologie 82 122	deformidad craneal frontoparietotemporal
+T2	pathologie 505 517	macrocefalia
+T3	pathologie 617 627	QA frontal
+T4	pathologie 1046 1096	QA de gran tamaño en la fosa craneal media derecha
+T5	pathologie 1587 1620	hipertensión intracraneal crónica
+T6	pathologie 1684 1686	QA
+#1	SNOMED T4	253162003
+#2	SNOMED T3	33595009
+#3	SNOMED T5	50490005
+#4	SNOMED T2	19410003
+#5	SNOMED T1	253979005
+#6	SNOMED T6	785284009

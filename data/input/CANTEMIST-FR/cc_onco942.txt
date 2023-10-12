@@ -1,0 +1,37 @@
+Anamnèse
+Patient de 64 ans, sans allergie médicamenteuse connue, avec des antécédents personnels d'hypertension artérielle et d'hyperthyroïdie : THA, hyperthyroïdie.
+Résumé des antécédents oncologiques :
+Diagnostiquée par le service de gynécologie en 2005 après avoir consulté le service des urgences pour une douleur dans la fosse iliaque droite, avec découverte exploratoire d'une tumeur annexielle droite.
+Elle a été opérée le 21/1/2005 par hystérectomie abdominale totale + double annexectomie + appendicectomie + lymphadénectomie para-aortique et pelvienne + résection du sigmoïde. Rapport pathologique : annexe droite avec métastase ovarienne d'un adénocarcinome du côlon (sigma) avec nécrose extensive et rupture de la capsule. Récepteurs d'œstrogènes négatifs. Récepteurs de progestérone négatifs, p-53 négatif, CEA : positif, Q 20 : positif. Q 7 : négatif. Trompe et annexe gauche normales. Endomètre avec léiomyomes, le plus grand de 8 cm. Segment du gros intestin et du mésum (sigma) avec : adénocarcinome intestinal ulcéro-végétatif modérément différencié infiltrant toute l'épaisseur de la paroi et infiltrant le mésum, avec invasion des vaisseaux capillaires et affectant la séreuse, sans atteindre les limites chirurgicales de la résection. 12 ganglions lymphatiques sans pathologie. Coupole diaphragmatique droite : cytologie suspecte, peu cellulaire et artéfactuelle. Coupole supradiaphragmatique gauche : cytologie maligne évoquant un adénocarcinome. Note : l'évaluation de la structure histologique dans les deux localisations et des caractéristiques immunohistochimiques suggère une métastase dans l'ovaire droit d'un adénocarcinome sigmoïdien. RAS/BRAF non muté.
+Avec le diagnostic d'adénocarcinome du côlon sigmoïde de stade IV (métastase ovarienne), elle a reçu un traitement adjuvant QT avec le schéma FOLFOX 6m x 12 cycles, qui s'est terminé en août 2015.
+En mai 2008, il y a eu une rechute dans les poumons et la résection des métastases pulmonaires a été proposée, ce que la patiente n'a pas accepté et elle a continué à faire des contrôles à la Clínica Universitaria de Navarra (CUN). Dans cette clinique, la résection de la métastase pulmonaire a été réalisée le 5/08/08, et elle a ensuite reçu un traitement adjuvant QT avec mitomycine C + irinotécan + bevacizumab. En novembre 2010, une rechute osseuse au niveau costal, une nouvelle ligne de traitement QT a été administrée avec gemcitabine + oxaliplatine + cetuximab. En juin 2011, une résection de la paroi thoracique et la pose d'un filet en titane ont été réalisées.
+En mars 2012, le patient est revenu dans notre centre pour une évaluation. Une nouvelle étude d'extension a été réalisée avec un scanner thoraco-abdominal, montrant de multiples métastases pulmonaires et osseuses, pour lesquelles elle a reçu un traitement par FOLFIRI + BVZ de mars 2012 à juillet, avec une stabilisation de la maladie. En janvier 2013, progression lente, il a donc repris le traitement par FOLFIRI + BVZ jusqu'en octobre 2013.
+En février 2014, nouvelle progression pulmonaire, elle a donc repris le traitement par FOLFIRI + BVZ jusqu'en juin 2014. En septembre 2014, nouvelle progression pulmonaire, elle reprend le traitement par FOLFIRI + BVZ jusqu'en mars 2015.
+En mars 2015, nouvelle ligne de traitement par irinotécan + cetuximab jusqu'en février 2016.
+En février 2016, elle a commencé un traitement par capécitabine + oxaliplatine en raison d'une progression pulmonaire, sous-scapulaire et sternale.
+Lors de l'administration du 4ème cycle de traitement à l'hôpital de jour d'oncologie, elle a présenté des douleurs lombaires et des arthralgies au niveau des genoux, accompagnées d'une hypertension artérielle et d'une hématurie, qui ne se sont pas améliorées malgré un traitement symptomatique par analgésiques et hypotenseurs, si bien que la patiente a été adressée au service des urgences pour compléter l'étude.
+
+Examen physique
+Tension artérielle : 179/87 mm Hg, fréquence cardiaque : 72 bpm.
+ECOG 0. Conscient, orienté, normohydraté, couleur normale. Auscultation cardiaque : rythmique sans souffle audible. Auscultation pulmonaire : rhonchi inspiratoire isolé. Abdomen : mou, dépressible, non douloureux, péristaltisme accru. La percussion du poing rénal bilatéral est négative. Membres inférieurs : pas d'œdème, pas de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+Analyses sanguines : glucose 156 mg/dl, urée 67 mg/dl, créatinine 1,64 mg/dl (normale antérieure), sodium 130 mEq/l, potassium normal, 10 300 leucocytes dont 9 800 neutrophiles, hémoglobine 10,7 g/dl. Plaquettes 107 000.
+Sédiment urinaire : hémoglobine +++, nitrites négatifs. 3-5 leucocytes, 10-25 globules rouges par champ.
+
+Diagnostic
+Suspicion de néphrite interstitielle.
+
+Traitement
+Admis pour hydratation et suivi.
+
+Évolution
+Compte tenu de la suspicion de néphrite interstitielle secondaire à des médicaments, le patient a été gardé en observation et de nouveaux tests de laboratoire et une échographie abdominale ont été demandés.
+Les résultats montrent un taux de glucose de 142 mg/dl, un taux d'urée de 114 mg/dl, un taux de créatinine de 3,37 mg/dl, un taux de sodium de 127 mEq/l, un taux de leucocytes de 11 900 avec 10 600 neutrophiles, un taux d'hémoglobine de 9,2 g/dl et un taux de plaquettes de 56 000. À l'échographie abdominale, les deux reins étaient de taille normale avec une augmentation diffuse de l'échogénicité du parenchyme suggérant une néphropathie.
+Elle a été examinée par le service de néphrologie, qui a estimé que l'insuffisance rénale aiguë était probablement liée à la chimiothérapie et à une possible néphropathie tubulo-interstitielle, de sorte qu'une thérapie liquidienne a été mise en place. Cependant, les tests de laboratoire de contrôle se sont aggravés avec les chiffres suivants : hémoglobine 9 g/dl, hématocrite 26,9%, MCV 92,7 fL, plaquettes 36 000, urée 140 mg/dl, créatinine 4,41 mg/dl, bilirubine totale 2,25 mg/dl (direct 0,41), sodium 129 mEq/l, potassium 5,3 mEq/l.
+Compte tenu de la diminution de l'hémoglobine et de l'élévation de la bilirubine et de la LDH, un diagnostic différentiel d'anémie hémolytique ou de microangiopathie thrombotique (MAT) a été envisagé, et des tests de Coombs et des frottis sanguins ont été demandés. L'anémie hémolytique est causée par des anticorps agissant sur les globules rouges, le test de Coombs est positif et des sphérocytes peuvent être observés dans le frottis sanguin. Dans la TMA, des agrégats de plaquettes sont produits et obstruent les petits vaisseaux, on trouve donc une thrombopénie, le test de Coombs est négatif et on observe des schistocytes dus à la fragmentation.
+Chez notre patient, le test de Coombs était positif et des sphérocytes ont été trouvés dans l'échantillon de sang, il s'agit donc d'une anémie hémolytique auto-immune.
+Un traitement par corticostéroïdes à la dose de 1 mg/kg de poids corporel a été instauré.
+Diagnostic
+Syndrome immunitaire induit par l'oxaliplatine (SIIO).
+Un an plus tard, la patiente a totalement récupéré sa fonction rénale et poursuit son traitement oncologique.

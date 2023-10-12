@@ -1,0 +1,23 @@
+Anamnèse
+Patient de 39 ans sans antécédents intéressants. Il n'a pas été en contact avec d'autres toxines liées à l'augmentation de l'incidence du cancer et nie avoir été en contact avec de l'amiante. Il travaillait dans l'industrie de la viande, était célibataire et n'avait pas d'enfant. Pas d'antécédents familiaux de néoplasmes.
+Le patient a été diagnostiqué en avril 2017 avec une MP suite à une distension abdominale et une augmentation des œdèmes dans les membres inférieurs (MMII). Parmi les marqueurs tumoraux, seul le Ca 19,9 (1 067) était positif. La tomodensitométrie (TDM) a montré une ascite et des masses péritonéales sans identifier la tumeur primaire. La tomographie par émission de positons (TEP) a montré une prise pathologique dans le péritoine, l'angle hépatique du côlon et le sigma. L'anatomopathologie (AP) a révélé un mésothéliome malin épithélioïde papillaire. Au moment du diagnostic, le patient présentait une thrombose veineuse de la veine poplitée et de l'artère lobaire supérieure droite, pour laquelle une anticoagulation par héparine de bas poids moléculaire (HBPM) à des doses anticoagulantes a été mise en place.
+Le diagnostic de MP épithélioïde papillaire de stade III a été discuté au sein du comité des tumeurs de la carcinomatose péritonéale et a été considéré comme non résécable. Un traitement par cisplatine (75 mg/m2) et pemetrexed (500 mg/m2) a été débuté et il a bénéficié de 2 cycles de chimiothérapie jusqu'en juillet 2017.
+
+Examen physique
+Échelle de l'Eastern Cooperative Oncology Group (ECOG) : 3. Échelle de Karnofsky : 50. Examen neurologique, cardiaque et respiratoire sans résultat. Examen abdominal : distendu mais non douloureux, terne à la percussion, signe de l'onde ascitique. MMII avec œdème avec fovéa jusqu'au tiers proximal. Lésions vésiculeuses douloureuses des 2e-4e orteils du pied gauche avec nécrose distale du 2e orteil, non exsudative. Les pouls du membre inférieur droit étaient préservés et absents à gauche.
+
+Examens complémentaires
+"Échographie urgente (E) du MMII : pas de thrombose artérielle et thrombose veineuse poplitée gauche inchangée.
+"TDM : ascite sévère multicompartimentale avec de multiples implants dans le grand épiploon. Lésions hépatiques bilobaires. Thrombose partielle de l'artère iliaque commune gauche (ART) vers l'extérieur. Thrombose partielle de l'artère fémorale gauche.
+"Angioplastie iliaque unilatérale (0 heure) : thrombectomie iliaque superficielle, fémorale superficielle et tibiale postérieure. Perfusion continue d'urokinase postérieure.
+"Angioplastie bilatérale des membres inférieurs (24 heures) : thrombectomie iliaque superficielle RA inchangée. Re-thrombose de l'artère fémorale superficielle. Nouveau thrombus dans l'artère poplitée et dans la partie distale des deux artères tibiales. Des endoprothèses ont été placées dans l'artère iliaque et l'artère fémorale superficielle. Une thrombolyse locale a été réalisée avec 250 000 unités internationales (UI) d'urokinase dans le secteur infrapoplité. La perfusion d'urokinase est ensuite laissée en place.
+"Angioplastie bilatérale des membres inférieurs (48 heures) : amélioration au niveau poplité. Aggravation de la thrombose du tronc tibiopéronier et de l'artère tibiale antérieure. Artère tibiale postérieure vascularisée par des branches collatérales.
+
+Diagnostic
+Coagulation intravasculaire disséminée chronique associée à un syndrome de Trousseau chez un patient atteint d'un mésothéliome péritonéal malin.
+
+Traitement
+Le traitement par HBPM a d'abord été modifié au service des urgences en raison de l'absence de nouveaux thrombus, mais la patiente a été admise pour un examen plus approfondi. Compte tenu de la mauvaise évolution du membre inférieur, un scanner des artères du membre inférieur a été demandé, montrant une thrombose artérielle à différents niveaux. Une angioplastie artérielle du membre atteint a été réalisée avec thrombectomie des thrombi vasculaires accessibles, laissant ensuite une perfusion d'urokinase à 100 000 UI/heure. Malgré le traitement, le patient a continué à présenter une aggravation progressive des lésions trophiques distales, nécessitant deux angioplasties ultérieures sur des jours consécutifs. Des stents ont été placés dans les thrombi de la branche principale et une fibrinolyse avec des bolus d'urokinase n'a pas apporté d'amélioration.
+
+Évolution
+Le patient a présenté une aggravation clinique avec augmentation des ascites, asthénie et détérioration de l'état général. En raison du statut oncologique, de l'état de santé du patient et de son état vasculaire, il a été décidé d'opter pour un traitement symptomatique exclusif, en accord avec le patient et ses proches. Le patient est décédé 4 jours plus tard.

@@ -1,0 +1,31 @@
+Anamnèse
+Un homme de 29 ans a consulté en mars 2010 pour des douleurs abdominales sévères depuis 48 heures, concentrées dans le quadrant inférieur externe, accompagnées de vomissements bilieux. Il présentait également une constipation, sans expulsion de gaz, et un péristaltisme abdominal accru avec des bruits métalliques. Ses seuls antécédents étaient des épigastralgies et une anémie microcytaire datant d'un an.
+La suspicion d'occlusion intestinale a été confirmée par une simple radiographie abdominale. Un scanner abdominopelvien a également révélé une masse jéjunale de 51 mm avec invagination intestinale secondaire à la tumeur. Sur la base de ces résultats, le patient a été opéré en urgence, avec une résection segmentaire du jéjunum et une lymphadénectomie locorégionale.
+Le rapport anatomopathologique a montré une infiltration par des cellules indifférenciées de taille moyenne qui, par immunohistochimie, étaient positives pour le lysozyme, la vimentine et la myéloperoxydase focale, mais négatives pour les autres marqueurs. Les bords libres de la résection et l'un des 33 ganglions lymphatiques étaient infiltrés par la tumeur.
+Nous avons réalisé une étude d'extension avec une biopsie de la moelle osseuse (normale) et une tomodensitométrie thoraco-abdominale-pelvienne sans aucun signe de la maladie.
+Sur la base de ces données, un diagnostic de sarcome granulocytaire primaire (chlorome) a été posé et il a été décidé de commencer une chimiothérapie intensive selon le protocole pour la leucémie myéloïde AML-PETHEMA 2007, avec des cycles d'induction et une première phase de consolidation administrés entre mai et août 2010.
+Cependant, en septembre 2010, elle a présenté des douleurs abdominales diffuses, une augmentation du périmètre abdominal, une asthénie et une détérioration de son état général.
+
+Examen physique
+L'état général est moyen. Abdomen globuleux, distendu, douloureux de façon diffuse à la palpation profonde, avec impaction au niveau mésogastrique. Ascite presque sous tension. Auscultation pulmonaire : hypoventilation bibasale. Membres inférieurs oedémateux.
+
+Tests complémentaires
+- Paracentèse diagnostique/évacuative. Cytologie du liquide ascitique : présence de cellules malignes compatibles avec une tumeur maligne indifférenciée. Techniques immunocytochimiques non concluantes.
+- Biopsie hépatique (26 octobre 2011) : cellules tumorales en cordons solides avec un large cytoplasme éosinophile et des noyaux pléomorphes, hyperchromatiques avec atypies et mitoses. En immunohistochimie : expression diffuse de vimentine, CD99 et EMA. Les marqueurs des lignées B et T, CD138, myéloperoxydase, lysozyme, CD117, techniques musculaires et neurales sont négatifs. L'indice de prolifération est supérieur à 30 %.
+Tumeur maligne des tissus mous de l'enfant et de l'adulte jeune, similaire à la tumeur rhabdoïde rénale. Le diagnostic différentiel comprend : les adénocarcinomes à phénotype rhabdoïde, les tumeurs stromales gastro-intestinales à phénotype rhabdoïde, les sarcomes à phénotype rhabdoïde et les tumeurs rhabdoïdes malignes primaires pures.
+- Tomodensitométrie thoraco-abdominale-pelvienne (30 septembre 2010) : masse mésentérique de taille importante, avec des zones hypodenses à l'intérieur, avec infiltration des anses jéjunales proximales et des troisième et quatrième portions duodénales, principalement de l'anse suturée lors d'une intervention chirurgicale antérieure. Infiltration péritonéale étendue avec une grande quantité de liquide abdominal. Le foie présente de multiples lésions tumorales, la plus importante se situant dans les segments 5 et 6.
+
+Diagnostic
+Le diagnostic définitif est celui d'une tumeur à phénotype rhabdoïde suggérant un sarcome indifférencié à phénotype rhabdoïde plutôt qu'une tumeur rhabdoïde extrarénale primaire.
+
+Traitement
+Il a été décidé de commencer la chimiothérapie d'induction avec notre schéma de soins combinés pour les sarcomes des tissus mous, basé sur une dose élevée de doxorubicine-ifosfamide, avec un soutien de facteur granulocytaire et une hyperhydratation avec MESNA.
+
+Évolution
+Initialement, elle présentait une excellente tolérance au traitement et une résolution des symptômes associés (ascites et syndrome constitutionnel). Lors de l'évaluation après trois cycles de chimiothérapie, on a constaté une nette amélioration clinique et une réponse partielle plus importante au scanner thoraco-abdominal-pelvien.
+Malheureusement, après six cycles de traitement, le scanner thoraco-abdomino-pelvien a mis en évidence une progression de la maladie péritonéale et osseuse.
+Compte tenu de cette progression, une chimiothérapie de deuxième ligne à base de gemcitabine et de docétaxel a été prescrite, sans grande réponse clinique. Après le deuxième cycle, elle a été hospitalisée en raison d'une détérioration de son état général, d'un mauvais contrôle de la douleur, d'une toxicité gastro-intestinale (vomissements de grade 3, diarrhée de grade 2) et d'une toxicité hématologique (anémie et thrombopénie de grade 2).
+Au cours de l'hospitalisation, un autre scanner thoraco-abdomino-pelvien a été réalisé pour évaluation, montrant une progression de la maladie due à l'élargissement des lésions hépatiques et de la lésion mésentérique dans la zone de l'anastomose chirurgicale.
+Compte tenu de la nouvelle progression et de la mauvaise tolérance, une chimiothérapie de troisième ligne à base de trabectédine a été envisagée à la sortie de l'hôpital.
+Malheureusement, après l'administration du premier cycle, la patiente a présenté des symptômes de paresthésie et de perte de force dans le membre supérieur gauche. La tomodensitométrie crânienne a révélé une lésion dans le lobe pariétal droit.
+Elle a été admise pour des examens complémentaires et l'IRM cérébrale a montré de multiples foyers pseudonodulaires, suggérant des infarctus d'origine cardioembolique, dont le plus important se situait dans le territoire cérébral moyen droit. Il a progressivement présenté une détérioration clinique et neurologique et est finalement décédé.

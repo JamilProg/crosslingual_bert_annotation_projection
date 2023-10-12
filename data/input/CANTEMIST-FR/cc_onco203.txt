@@ -1,0 +1,23 @@
+Anamnèse
+Nous présentons le cas d'une femme de 70 ans présentant des symptômes cliniques de névralgie du trijumeau gauche depuis des mois. Pas d'antécédents d'allergies médicamenteuses connues. Fumeuse active. Elle a été traitée par I131 pour un nodule thyroïdien en 1992, avec une hypothyroïdie secondaire. Intervention pour un polype endocervical en 1995. Elle prenait de la lévothyroxine 50 mcg/jour et du métamizole comme traitement à domicile.
+Finalement, elle a été admise dans le service de médecine interne pour un épanchement pleural, un malaise général, une toux et des douleurs aux côtes qui ne disparaissaient pas après une antibiothérapie empirique à domicile.
+
+Examen physique
+À l'admission, le patient était en mauvais état général. L'indice de Karnofsky est de 50 %. L'auscultation cardio-pulmonaire a montré une diminution généralisée du murmure vésiculaire, avec abolition de celui-ci dans le tiers inférieur gauche. L'examen neurologique est marqué par la présence d'une douleur intense dans la partie gauche de la cavité buccale. Elle s'accompagnait d'une hypoesthésie-dysesthésie dans les trois branches de la paire V gauche et dans la troisième branche de la même paire à droite. En outre, il présentait une instabilité de la démarche, avec des signes d'atteinte cérébelleuse et de Romberg +. Le reste de l'examen était normal.
+
+Tests complémentaires
+"Les examens de laboratoire ont révélé une hyponatrémie marquée (120 mmol/l) et des signes de laboratoire compatibles avec une SIADH [hypoosmolarité (343 mOsm/kg), osmolarité urinaire normale (369 mOsm/kg) et Na urinaire normal (60 mmol/l)]. Les autres analyses sanguines étaient normales, y compris plusieurs sérologies virales, qui étaient négatives.
+"La radiographie du thorax a montré un épanchement pleural et une perte de volume dans le lobe inférieur gauche. Il y avait également une image de densité arrondie périhilaire gauche.
+"La tomodensitométrie thoracique a montré une masse pulmonaire centrale entraînant l'amputation de la bronche du lobe inférieur gauche. Elle était en contact avec l'oreillette gauche et présentait des signes d'invasion du médiastin postérieur. Des adénopathies hilaires, sous-carénaires et médiastinales antérieures gauches étaient également associées.
+"La bronchoscopie a montré une sténose concentrique de la bronche du lobe inférieur gauche. Le résultat du brossage, de la BAS et de la biopsie de la LII a été rapporté comme un carcinome à petites cellules peu différencié.
+"Soupçonnant une tumeur cérébrale, un scanner et une IRM du cerveau ont été demandés. Ces examens ont montré des signes de leucoencéphalopathie à petits vaisseaux et une image suggérant une névrite trigéminale bilatérale.
+"Après évaluation en neurologie, une ponction lombaire a été effectuée pour étudier le liquide céphalo-rachidien (LCR), avec le profil suivant : glucose 62 mg/dl, protéines 95 mg/dl, chlorure 116 mmol/dl, lactate 2,3 mmol/dl, globules rouges 120 cellules/microl, leucocytes 23 cellules/microl, mononucléaires 90 %, polynucléaires 10 %. La cytologie n'a pas révélé de tumeur maligne.
+
+Diagnostic
+Un carcinome pulmonaire à petites cellules de stade IIIb (T4N2M0) a été diagnostiqué chez la patiente. Elle présentait une SIADH, un syndrome cérébelleux et une névralgie trigéminale bilatérale, probablement d'origine paranéoplasique.
+
+Traitement
+La patiente a été adressée au service d'oncologie. Elle a commencé un traitement par chimiothérapie selon le schéma suivant : carboplatine (4 x AUC) 650 mg x 1 jour + étoposide (100 mg/m2) 200 mg x 3 jours. Il a reçu de l'amitriptyline et de la dexaméthasone pour traiter les symptômes associés. Le tolvaptan n'a pas été nécessaire en raison de l'amélioration rapide de l'hyponatrémie.
+
+Évolution
+Après quatre cycles, la patiente a montré une amélioration radiologique significative, ainsi qu'une diminution des symptômes cérébelleux et de la névralgie du trijumeau. Par la suite, elle a reçu une radiothérapie thoracique pour consolider la réponse (50 Gy) sur le lit tumoral et le médiastin. En outre, une radiothérapie holocrânienne prophylactique (25 Gy) a été prescrite. Actuellement, deux ans après le diagnostic, la patiente ne présente aucun signe clinique ou radiologique de récidive. Elle a bénéficié d'une rééducation des séquelles neurologiques importantes et a réussi à se déplacer de manière autonome et à contrôler totalement la douleur.

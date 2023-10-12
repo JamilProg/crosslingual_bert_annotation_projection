@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 47 ans aux antécédents de thalassémie mineure, d'appendicectomie, sans autres antécédents dignes d'intérêt.
+En mai 2017, la patiente a présenté une compression de la moelle épinière cervicale secondaire à un carcinome canalaire infiltrant du sein gauche (ER+++, PR++, HER2-, MIB1 10%, grade II). Dans une étude d'extension, une atteinte des ganglions lymphatiques, des os et des poumons a été observée. Un traitement par paclitaxel hebdomadaire a été débuté en juin 2017, avec une réponse partielle. En juillet 2017, le résultat de la mutation BRCA-2 a été reçu. En septembre 2017, une nouvelle progression a été détectée dans le poumon. Elle a commencé un traitement au cisplatine tous les quinze jours, avec une réponse partielle. Elle a poursuivi le traitement jusqu'en septembre 2018, date à laquelle une progression pulmonaire et hépatique a été observée, initiant un traitement par talazoparib à titre compassionnel.
+25 jours après le début du traitement par talazoparib, la patiente est adressée aux urgences depuis le service ambulatoire d'oncologie pour avoir présenté une crise partielle autolimitée du membre inférieur gauche. La patiente nie avoir connu des épisodes antérieurs similaires. À l'interrogatoire, la seule manifestation clinique était une céphalée holocrânienne de plusieurs jours, sans focalisation neurologique. Les proches ont signalé des altérations comportementales au cours des semaines précédentes.
+
+Examen physique
+L'examen physique a révélé une démarche difficile mais conservée, les autres examens, y compris l'examen neurologique, étant normaux.
+
+Tests complémentaires
+Des examens urgents ont été effectués :
+"Hémogramme et biochimie sanguine, y compris ionogramme, fonction rénale et fonction hépatique : hémoglobine à 10,4, plaquettes à 37 000, profil hépatique : bil total à 1,35 aux dépens des déconjugués. AST 151, ALT 101, FA 564, GGT 493, LDH 726.
+"Tomodensitométrie cérébrale : pas de résultats pertinents.
+La patiente a été admise au service d'oncologie médicale après administration d'anticonvulsivants afin de surveiller l'apparition de nouvelles crises et de réaliser une IRM cérébrale. Un frottis sanguin a également été demandé en raison de la suspicion d'une hémorragie intraparenchymateuse qui n'a pas pu être détectée par la tomodensitométrie cérébrale et d'une possible infiltration de la moelle osseuse. Le frottis a montré une anisocytose et une anisotrombose, sans agrégat de plaquettes.
+Le patient a été réévalué dans les 48 heures. Hb 7,4. Plaquettes 24 000. Un nouveau frottis a été demandé : pancytopénie centrale sans altérations morphologiques. Pas de suggestion de syndrome leuco-érythroblastique.
+
+Diagnostic
+Une IRM cérébrale programmée a été réalisée, montrant de multiples lésions dans le calvarium évoquant une infiltration tumorale et d'innombrables lésions hypointense secondaires à des microbleeds disséminés dans le parenchyme. Nouveau frottis sanguin : évocateur d'une microangiopathie thrombotique, avec 4 % de schistocytes.
+
+Traitement
+Pendant l'hospitalisation, la patiente n'a pas présenté d'autres crises. Des transfusions de concentrés de globules rouges et de plaquettes ont été effectuées, avec une amélioration lente mais progressive des chiffres hématologiques. La patiente est finalement sortie de l'hôpital après 12 jours d'hospitalisation.
+
+Évolution
+Dix heures après sa sortie de l'hôpital, la patiente est ramenée aux urgences pour un épisode d'hémiparésie droite.
+De nouveaux examens complémentaires d'urgence ont été réalisés :
+"Hémogramme et biochimie sanguine : Hb 9,4. Plaquettes 120 000.
+"Scanner cérébral urgent : multiples zones hyperdenses avec œdème discret compatible avec des lésions hémorragiques.
+Admis en oncologie médicale pour contrôler de nouvelles crises. Des médicaments anticomitiaux ont été administrés. La patiente a évolué de façon torpide tout au long de son admission, présentant des épisodes d'agitation, une détérioration neurologique progressive et la nécessité d'une transfusion quasi quotidienne de globules rouges et de plaquettes. Elle a été examinée par le service d'hématologie afin d'exclure une origine auto-immune. Après des tests complémentaires appropriés (Coombs, ADAMTS13), il a été déterminé que l'origine probable était pharmacologique versus oncologique. La patiente est finalement décédée le 6 décembre 2018.

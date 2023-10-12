@@ -1,0 +1,32 @@
+Anamnèse
+Femme de 48 ans, préménopausée, avec des antécédents personnels de dyslipidémie sous traitement par statines, sans antécédents familiaux de cancer. Diagnostiquée en août 2008 avec un carcinome canalaire infiltrant (CDI) du sein droit, grade 3, stade IIIC (T2N3M0), récepteurs d'œstrogènes (ER) et de progestérone (PR) négatifs. HER2 +++ par immunohistochimie (IHQ) et Ki67 de 40%.
+Traitement néoadjuvant par doxorubicine (60 mg/m2) plus cyclophosphamide (600 mg/m2) tous les 21 jours, suivi de 4 cycles de docétaxel (100 mg/m2) plus trastuzumab (8 mg/kg pour la première dose et 6 mg/kg pour les doses suivantes) tous les 21 jours dans le cadre de l'essai clinique.
+Quatre semaines plus tard, elle a donc subi une mastectomie radicale droite et une lymphadénectomie axillaire. L'étude anatomopathologique de la pièce opératoire s'est révélée compatible avec un IDC de 1,2 mm (pT1cpN0), sans modification des facteurs pronostiques par rapport à l'étude diagnostique.
+Pendant le traitement par trastuzumab adjuvant, la patiente a présenté, cinq mois après l'intervention chirurgicale, une céphalée holocrânienne non contrôlée par l'analgésie conventionnelle, sans autre symptôme associé.
+
+Examen physique
+0 ECOG, thorax symétrique, extensible, cœur rythmé, pas de souffle. Cicatrice de mastectomie droite sans signe de récidive. Pas de tumeur palpable au sein gauche, pas d'adénopathies axillaires ou sus-claviculaires, examen abdominal et des extrémités sans particularité, examen neurologique : conscient, orienté dans le temps, l'espace et la personne, mouvements oculaires externes normaux, nerfs crâniens normaux. Pas de dysmétrie. Force musculaire et sensibilité préservées aux quatre extrémités, démarche normale.
+
+Examens complémentaires
+"Imagerie par résonance magnétique (IRM) du cerveau : 2 lésions cérébrales compatibles avec une métastase ont été identifiées (l'une pariétale gauche et l'autre cérébelleuse gauche).
+"Scanner PET-CT : les deux lésions cérébrales déjà identifiées à l'IRM cérébrale ont été décrites, sans lésions extracrâniennes suggérant une récidive de la tumeur.
+
+Diagnostic
+Il s'agit d'une récidive cérébrale au cours d'un traitement adjuvant au trastuzumab d'un carcinome canalaire infiltrant du sein droit, de grade 3, ER et PR négatif, HER2 positif (+++ par IHC) et Ki-67 de 40 %.
+
+Traitement
+Sur la base des résultats obtenus avec le Lapatinib en monothérapie et en association avec la Capecitabine chez des patientes atteintes d'un cancer du sein HER2 positif avec métastases cérébrales précédemment traitées par radiothérapie, il a été décidé de réaliser une radiothérapie holocrânienne (30 Gy, 10 fractions de 3Gy) et d'initier un traitement par Lapatinib (1250 mg/jour) associé à la Capecitabine (2 000 mg/m2, jours 1-14 c/21 jours).
+La patiente a suivi 7 cycles de traitement systémique, qui ont dû être interrompus en raison d'une toxicité gastro-intestinale g3.
+Deux mois après la radiothérapie holocrânienne, une IRM cérébrale a montré une réponse partielle des deux métastases.
+Afin de consolider la réponse obtenue avec la radiothérapie holocrânienne, une radiochirurgie des deux métastases cérébrales a été réalisée (20 Gy dans les deux lésions).
+Quatre mois après la radiochirurgie, l'IRM cérébrale de contrôle a montré des changements suggérant une réponse complète dans les deux lésions.
+Le patient a commencé les contrôles cliniques et radiologiques.
+
+Évolution
+Un an après la radiochirurgie, des signes de progression ont été observés dans la lésion cérébelleuse gauche résiduelle.
+
+Compte tenu du fait que le patient restait asymptomatique et que l'intervalle sans progression était d'un an, il a été décidé de procéder à une résection chirurgicale de la lésion. L'étude histopathologique de la lésion réséquée était compatible avec une radionécrose. Sur la base de ce résultat, le patient a continué à être surveillé.
+
+Sept mois après la résection chirurgicale, le patient a présenté une crise comique, une IRM a été réalisée qui a montré des changements suggérant une progression de la lésion pariétale gauche, résiduelle à la radiochirurgie. Compte tenu des antécédents de radionécrose de la lésion cérébelleuse gauche, une prise en charge expectative a été décidée et des contrôles radiologiques étroits de cette lésion ont été effectués.
+
+Malgré l'absence de progression cérébrale ou systémique, la patiente a développé des troubles cognitifs importants, associés à des troubles de la marche et à une incontinence sphinctérienne, et est actuellement dépendante pour la plupart des activités de base de la vie quotidienne, des symptômes qui limitent sa qualité de vie.

@@ -1,0 +1,18 @@
+T1	pathologie 75 109	leucemia linfoblástica aguda pre-B
+T2	pathologie 1613 1634	paraparesia bilateral
+T3	pathologie 1871 1918	hematoma ventral intradural extraparenquimatoso
+T4	pathologie 2074 2080	lesión
+T5	pathologie 2322 2353	coágulo sanguíneo subaracnoideo
+T6	pathologie 2464 2472	hematoma
+T7	pathologie 2828 2836	lesiones
+T8	pathologie 2882 2890	hematoma
+T9	pathologie 3493 3514	fracaso multiorgánico
+#1	SNOMED T1	277572006
+#2	SNOMED T3	428268007
+#3	SNOMED T5	21454007
+#4	SNOMED T6	385494008
+#5	SNOMED T9	57653000
+#6	SNOMED T8	385494008
+#7	SNOMED T7	157670007
+#8	SNOMED T4	417163006
+#9	SNOMED T2	1845001

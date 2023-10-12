@@ -1,0 +1,36 @@
+ANAMNESIS
+Homme de 27 ans. Cryptorchidie droite opérée à l'âge de 4 ans. Ex-fumeur d'un paquet de cigarettes par jour. En juin 2012, il consulte pour des symptômes d'inconfort dans la région génitale (démangeaisons et élargissement du teste gauche). Après plusieurs cures d'antibiotiques pour suspicion d'orchi-épididymite et sans amélioration, il a été adressé au service d'urologie de son centre de référence pour investigation ; une orchidectomie gauche a été réalisée, confirmant le diagnostic de GCT testiculaire avancée. Il a ensuite été adressé au service d'oncologie médicale pour évaluation.
+
+Examen physique
+Inspection générale : normale. Examen neurologique normal. Bruits cardiaques rythmés sans souffle, murmure vésiculaire conservé. Abdomen : palpation d'un effet de masse important occupant la quasi-totalité de l'abdomen. Morosité généralisée. Pas de signes évidents d'ascite.
+
+Examens complémentaires
+" Échographie (décembre 2012) : révélatrice d'une tumeur testiculaire gauche.
+" NFS 1er marqueurs tumoraux (MT) (décembre 2012) : AFP 1 000 ; BHGC 704. LDH 721.
+" Tomodensitométrie thoraco-abdominale-pelvienne préopératoire (décembre 2012) : masse pelvienne et hypogastrique mesurant 16 x 15,3 x 10,8 cm et multiples adénopathies rétropéritonéales autour des gros vaisseaux, la plus grande mesurant 47 mm, nodule pulmonaire parahilaire non spécifique de 5 mm.
+"Orchidectomie gauche (janvier 2013). Anatomie pathologique : GCT mixte, 70% de tumeur du sinus endodermique et 30% de séminome classique, atteinte de la moelle (T3).
+"MT post-chirurgie (janvier 2013) : LDH 867, AFP 30571, BHGC inconnu.
+" CT scan post-chirurgical demandé par l'oncologie médicale : description.
+
+Diagnostic
+Tumeur germinale testiculaire de stade III due à une maladie rétropéritonéale, péritonéale et pulmonaire massive. Maladie de mauvais pronostic selon l'IGCCCG.
+
+Traitement
+Le traitement de première intention a débuté le 25 janvier 2013 avec le BEP5 (bléomycine, étoposide et cisplatine), à raison de quatre cycles.
+
+Evolution
+Les MT inappropriées diminuent en fonction des demi-vies (dernières valeurs après le quatrième cycle : LDH 353, AFP 2 326, beta-HGC 2).
+
+La tomodensitométrie post-chimiothérapie montre une diminution minime de la masse, de sorte que la patiente est adressée à notre centre.
+
+Compte tenu des marqueurs positifs et de l'étendue de l'atteinte pelvienne, une TPI d'induction (paclitaxel, ifosfamide et cisplatine) suivie d'une chimiothérapie à haute dose (HDCT) avec soutien hématopoïétique est envisagée.
+
+Le patient a effectué quatre cycles de TPI sans mobiliser de cellules progénitrices, ce qui a empêché le traitement par HDCT. La réévaluation après ce traitement (septembre 2013) a montré une diminution de la MT jusqu'à un plateau, mais sans normalisation, et une réponse radiologique plus faible.
+
+En mars 2014, les MT ont commencé une courbe ascendante et il a été référé à nouveau à notre centre. En avril 2014, il a commencé une chimiothérapie par oxaliplatine-gemcitabine-taxol, dont il a reçu quatre cycles, avec une réponse notable par les marqueurs et une réponse discrète par l'imagerie. Une deuxième tentative de HDCT a été envisagée, qui a été couronnée de succès à cette occasion. Le patient a subi une autogreffe de cellules souches hématopoïétiques (TAPH) (les 22 et 23/7/2014) après conditionnement selon le schéma carboplatine et étoposide. Après le TAPH, les marqueurs ont à nouveau diminué, sans toutefois atteindre une normalisation complète, et l'imagerie radiologique a montré un bénéfice radiologique. Tomodensitométrie du thorax et de l'abdomen (17/9/2014).
+
+Peu après, les marqueurs ont amorcé une courbe ascendante, de sorte qu'un nouveau TAPH a été rejeté et qu'un traitement par VP-16 oral (50 mg/jour) a été instauré. En raison de l'absence de réponse au niveau des marqueurs, le patient est passé au cyclophosphamide oral (50 mg/jour).
+
+Un éventuel sauvetage chirurgical conjoint entre la chirurgie générale et l'urologie a été discuté, compte tenu de l'atteinte abdominale de nature apparemment chimiorésistante (tératome +/- tumeur viable). Finalement, la chirurgie a été réalisée le 19 janvier 2015 sans complication (l'anatomie pathologique a montré une tumeur germinale maligne de type tumeur du sinus endodermique, qui persiste dans plus de 50% de la localisation juxtarénale et dans moins de 30% des autres localisations).
+
+Lors du scanner post-chirurgical de mars 2015, il n'y a pas eu d'images concluantes de récidive tumorale, mais une progression sérologique a été observée (augmentation soutenue du BHGC) et l'apparition de métastases pulmonaires. La chimiothérapie a été débutée selon le schéma BOP, avec des fluctuations du marqueur et une toxicité hématologique qui a retardé le troisième cycle à ce jour .

@@ -1,0 +1,54 @@
+Anamnèse
+Un homme de 54 ans a débuté en novembre 2013 par une lombalgie qui ne cédait pas malgré une analgésie de première intention, pour laquelle il a été évalué par un spécialiste en traumatologie dans un centre privé. Une IRM de la colonne lombaire a été réalisée, qui a révélé un bombement postérieur de L5 réduisant l'espace arachnoïdien antérieur. Une scintigraphie osseuse a également été réalisée, montrant une prise en charge ostéoblastique pathologique étendue à l'ensemble du squelette axial, aux côtes, au crâne et aux deux fémurs. Compte tenu de la difficulté à se déplacer en raison de l'aggravation de la douleur, la patiente a été admise dans notre centre en janvier 2014 pour terminer l'étude.
+
+Examen physique
+Généralités : ECOG 2 pour lombalgie sévère. Pâleur cutanée, alerte, eupnéique, bien hydraté, bien perfusé. Tête et cou : pas d'adénopathies, pas d'engorgement veineux jugulaire, muqueuse buccale sans lésions. Auscultation cardio-pulmonaire : pas de résultats pertinents. Abdomen : bruits hydro-aériques positifs, doux et dépressibles, pas de douleur à la palpation, pas de masse ou d'organomégalie palpable. Appareil locomoteur : symétrie des quatre membres, eutrophie. Douleur à la spinopression du rachis lombaire, surtout au niveau du rachis lombaire inférieur. Pulsations préservées, pas de signes de TVP. Neurologique : conscient et orienté dans les trois sphères, nerfs crâniens non altérés, sensibilité non altérée, force préservée aux quatre membres (5/5), réflexes ostéotendineux préservés, à l'exception d'une légère hyporéflexie rotulienne droite, démarche difficile à explorer en raison de la douleur, pas de dysdiadochokinésie.
+
+Tests complémentaires
+"Examens sanguins initiaux. Hémogramme : Hb 13,8 g/dl. Réticulocytes absolus 124 000 (valeur normale 20 000-75 000). Plaquettes 139 000. Leucocytes 10 200 (neutrophiles 7 400). Biochimie : AST 27 UI/l, ALT 30 UI/l, bilirubine 1,5 UI/l, GGT 24 UI/l, phosphatase alcaline 1 752 UI/l, LDH 232 UI/l, créatinine 0,95 mg/dl, urée 26 mg/dl, sodium 142 mEq/l, potassium 4,2 mEq/l.
+"Marqueurs tumoraux : alpha-fœtoprotéine 6,9. CEA 37,6. CA-125 5. CA 15-3 11. CA-19-9 26. CYFRA 21-1 11,9. PSA 0,77.
+"Evolution analytique au début de l'admission :
+- Hémoglobine 13,8 -> 13,8 -> 12,7 -> 9,8 -> 10,5.
+- Plaquettes 139.000 -> 84.000 -> 70.000 -> 50.000 -> 46.000.
+- Leucocytes 10.200 -> 17.800 -> 23.000 -> 15.000 -> 18.600.
+"Frottis sanguin périphérique : anémie avec légère anisocytose normocytaire, globules rouges macrocytaires, sphérocytes (quelques microsphérocytes) et schistocytes à environ 2 %, leucocytose avec neutrophilie, thrombopénie. Diagnostic : anémie régénérative évoquant une microangiopathie.
+"Coombs direct : négatif.
+"Tomodensitométrie du corps : la lésion métastatique connue à L5 associée à une composante de tissu mou avec empreinte dans le canal rachidien et implication de la racine L5-S1. Une atteinte ostéolytique diffuse est évidente. Il n'y a pas de lésions suggérant une tumeur primaire dans le reste du corps.
+"IRM de la colonne vertébrale (réalisée en dehors de notre centre) : une atteinte osseuse diffuse avec une composante de tissu mou au niveau de L5 qui s'imprime dans le canal rachidien est confirmée.
+"Tomodensitométrie crânienne : pas d'altérations dignes d'intérêt.
+"Biopsie de la moelle osseuse : infiltration multifocale par un adénocarcinome peu différencié avec des cellules en anneau de signet. Le profil immunohistochimique suggère une origine digestive (positif pour les cytokératines CEA, AE1/AE3, CK7, CK19, CK20/CDX2/CA19.9 (minoritaire) ; négatif pour CD45/CA125/TTF1). Her-2/Neu négatif.
+"Endoscopie supérieure : gastrite nodulaire. Aucune lésion néoplasique n'a été observée.
+"Coloscopie : polype dans le rectum, qui est réséqué. Anatomie pathologique : hyperplasie.
+"Scanner PET-CT : forte probabilité de malignité dans de multiples lésions osseuses suggérant une atteinte métastatique. Asymétrie de la captation dans le cavum gauche. Aucune captation évocatrice de malignité n'est observée dans le reste du corps.
+"Aspiration à l'aiguille fine de la thyroïde : goitre multinodulaire.
+"Biopsie du cavum : pas d'infiltration néoplasique.
+"Examens de laboratoire au début du premier cycle de chimiothérapie :
+- Hémoglobine 9,5 -> 9,2 -> 8,8 -> 9,1.
+- Plaquettes 84 000 -> 62 000 -> 47 000 -> 23 000.
+- Leucocytes 15 600 -> 12 100 -> 7 500 -> 5 800.
+- Bilirubine 4,1 -> 3,8 -> 4,1 -> 4,1 -> 4,1.
+- LDH 313 -> 294 -> 491 -> 688.
+"Evolution analytique après le deuxième cycle de chimiothérapie :
+- Hémoglobine 8,9 -> 10,2 -> 9,0 -> 8,8.
+- Plaquettes 36 000 -> 34 000 -> 54 000 -> 80 000.
+- Leucocytes 2300 -> 4000 -> 3800 -> 3100.
+- Bilirubine 1,3 -> 1,1 -> 0,8 -> 0,9.
+- LDH 472 -> 476 -> 398 -> 398 -> 371.
+
+Diagnostic
+Métastases osseuses diffuses avec infiltration de la moelle osseuse par des cellules en anneau de signet d'origine probablement digestive. Pas de tumeur primaire connue.
+Anémie hémolytique microangiopathique paranéoplasique.
+
+Traitement
+Etant donné le diagnostic de métastases osseuses diffuses sans tumeur primaire connue, le comité des tumeurs a décidé de commencer le traitement par chimiothérapie malgré des facteurs limitants tels qu'une thrombopénie de grade 4 avec des besoins transfusionnels quotidiens pour maintenir les plaquettes à un niveau > 50 000. Il a été décidé de traiter la suspicion d'origine digestive par mFOLFOX4 avec une réduction initiale de 20 % de la dose (oxaliplatine 85 mg/m2 jour 1 + leucovorine 400 mg/m2 jour 1 + 5-fluorouracile 400 mg/m2 bolus jour 1 + 5-fluorouracile 600 mg/m2/jour en perfusion continue de 24 heures jours 1 et 2), à partir de février 2014. Par la suite, après le deuxième cycle, le mFOLFOX6 (oxaliplatine 85 mg/m2 le jour 1 + leucovorine 400 mg/m2 le jour 1 + 5-fluorouracile 400 mg/m2 en bolus le jour 1 + 5-fluorouracile 2 400 mg/m2/jour en perfusion continue pendant 48 heures) a été poursuivi pour des raisons de commodité d'administration en ambulatoire et pour réduire le risque de myélotoxicité. Le traitement par l'acide zolédronique a été commencé avant la chimiothérapie.
+
+Évolution
+En raison de l'atteinte osseuse importante, la patiente a présenté deux complications principales : 1) un mauvais contrôle de la douleur dû à l'écrasement de L5, sans compression médullaire associée en raison du niveau atteint ; 2) une anémie hémolytique microangiopathique associée à une thrombopénie de grade 4 de nature paranéoplasique.
+Depuis son admission, le patient a présenté une anémie multifactorielle importante : anémie hémolytique microangiopathique et diathèse hémorragique secondaire à la thrombopénie (hémorragie gastro-intestinale après résection d'un polype rectal et hémorragie après biopsie du cavum) ; par conséquent, le patient a eu besoin d'un soutien transfusionnel quotidien de globules rouges, de plaquettes et de fibrinogène, avec un faible rendement.
+Il a été décidé de commencer un traitement par chimiothérapie en urgence malgré la cytopénie importante et le risque de diathèse hémorragique, car il s'agissait d'une infiltration tumorale secondaire à une MAHA paranéoplasique, la chimiothérapie étant la seule option thérapeutique dans cette situation.
+Après le premier cycle, la patiente présentait toujours une thrombopénie < 30 000, nécessitant une transfusion quotidienne de plaquettes, ainsi que de concentrés de globules rouges pour maintenir l'hémoglobine à un niveau > 9 g/dl.
+Une augmentation de la bilirubine et de la LDH a également été observée, probablement liée à une hémolyse soutenue. Après le deuxième cycle, le patient a atteint des niveaux de plaquettes stables d'environ 40 000 sans nécessiter de transfusions, et après le troisième cycle, il a commencé à montrer une augmentation exponentielle des niveaux de plaquettes et d'hémoglobine, ainsi qu'une diminution progressive des marqueurs d'hémolyse (LDH et bilirubine), jusqu'à ce que toutes les valeurs soient normalisées. En général, la chimiothérapie a été très bien tolérée par la patiente, qui a présenté au début une asthénie de grade 1 comme toxicité pertinente ; l'oxaliplatine a ensuite été suspendu après le 15e cycle en raison d'une neuropathie persistante de grade 2.
+En ce qui concerne la douleur, la patiente a d'abord eu besoin de fortes doses de fentanyl transdermique, avec de fréquents recours au fentanyl transmuqueux en cas de crises douloureuses. Elle a obtenu une amélioration progressive de la douleur après l'administration d'une radiothérapie analgésique, avec une diminution du besoin d'opioïdes et la capacité de la patiente à se déplacer.
+
+À ce jour, elle continue de recevoir un traitement de chimiothérapie active, avec une très bonne tolérance et en bon état général (ECOG 1), pouvant se déplacer sans aide et ne nécessitant pas d'opioïdes. Elle a poursuivi son suivi avec des tomographies, des scintigraphies osseuses et des tests analytiques, sans aucun signe de progression tumorale à ce jour.
+Lors de la dernière tomodensitométrie (février 2015), les lésions osseuses connues persistaient, mais sans signe de progression de la maladie.

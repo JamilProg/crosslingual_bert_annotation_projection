@@ -1,0 +1,33 @@
+Anamnèse
+Patient âgé de 51 ans, fumeur de 40 paquets/an, avec des critères cliniques de bronchite chronique et d'hyperactivité bronchique et d'énolisme modéré. Il a été examiné en septembre 2009 pour une expectoration hémoptotique pendant 4 mois, et on a diagnostiqué un carcinome épidermoïde du poumon droit, stade III-B (T4N2M0), traité par chimioradiothérapie radicale.
+Tomodensitométrie (CT) (septembre 2009) : perte de volume du lobe supérieur droit (LSD) avec augmentation de taille et de densité pouvant correspondre à des tracts cicatriciels fibreux et à la présence de bronchectasies. Augmentation de la taille et de la densité dans la partie gauche du hile en raison d'une probable pathologie tumorale superposée.
+Bronchoscopie : infiltration muqueuse de l'arbre bronchique droit avec une sténose de 60 % et une occlusion complète du lobe supérieur droit avec un aspect néoplasique. Une biopsie bronchique et une aspiration bronchique ont été réalisées. -Biopsie bronchique : carcinome épidermoïde.
+Après discussion du cas au sein du comité multidisciplinaire pour les tumeurs pulmonaires, un traitement concomitant par Cisplatine-Vinorelbine et Radiothérapie (RT) a été recommandé. Il a reçu 4 cycles de chimiothérapie entre novembre 2009 et janvier 2010 (2ème et 3ème cycles concomitants avec la RT). Au jour +22 du 4ème cycle, il a été admis pour pneumonie +/- pneumopathie post-RT, montrant au scanner une réponse notable de la masse médiastinale et hilaire droite, ainsi qu'une thromboembolie pulmonaire (TEP) bilatérale. Après la réponse partielle, le patient a subi des contrôles périodiques.
+Le premier scanner de contrôle a été réalisé en mai 2010, montrant une amélioration radiologique significative de la masse LSD et de la masse ganglionnaire hilaire et médiastinale. La pneumopathie post-RT s'améliore. Aucun signe de PTE. Lors des révisions ultérieures, le patient reste cliniquement stable avec un ECOG:0-1, des marqueurs tumoraux dans la plage normale et une tomodensitométrie stable.
+Lors du scanner de décembre 2010, une lésion hypodense mesurant 3x3cm est apparue dans le corps du pancréas et a été considérée comme une pseudo-kystose ou une tumeur (sans progression locale).
+Le patient est cliniquement asymptomatique.
+
+Examen physique
+Poids 79 kg, taille 1,67 cm. ECOG 0. Bien nourri. Couleur normale. Bon état général. Pas d'adénopathies ni d'ingurgitation jugulaire. Auscultation cardiaque : rythmée, pas de souffle. Auscultation pulmonaire : légère hypophonie généralisée.
+Abdomen : souple, sans masse ni mégalithes. Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse.
+
+Examens complémentaires
+IRM (30-03-2011) : une tumeur de 9,6 x 8,1 x 6,2 cm a été trouvée dans le corps de la queue du pancréas, sous la chambre gastrique, compatible avec un pseudokyste pancréatique, mais moins susceptible d'être un néoplasme mucineux d'origine pancréatique.
+Une écho-endoscopie et une FNA ont été décidées pour confirmation histologique.
+Echo-endoscopie (avril 2011) : un néoplasme kystique solide avec une trabéculation interne, avec des parois bien définies, mesurant 9 x 6,5 cm, a été observé dans le corps vers la queue du pancréas. Aucune adénopathie périlésionnelle n'a été observée.
+Une ponction-aspiration à l'aiguille fine (AAF) a été réalisée (avec un taux élevé d'amylase dans le liquide et une AAF positive pour les cellules tumorales), suggérant une métastase d'un carcinome épidermoïde, cavité.
+
+Diagnostic
+T4N2M1 carcinome épidermoïde du poumon droit (stade IV en raison d'une métastase pancréatique unique).
+
+Traitement
+Étant donné que la tumeur était encapsulée et n'affectait pas les structures vasculaires, chez un jeune patient en bon état général, le Comité des tumeurs du pancréas de novembre 2012 a décidé d'envisager une résection.
+
+Evolution
+Compte tenu de la métastase d'un carcinome épidermoïde sensible à la chimiothérapie de deuxième ligne, il a été décidé de mettre à jour le scanner (le précédent datait de décembre 2010) et de commencer une chimiothérapie par taxotère 75 mg/m2 entre avril et juillet 2011 (x 4 cycles ; avec une réaction d'hypersensibilité significative au taxotère).
+La tomodensitométrie de mai 2011 (référence à QT) a montré une croissance significative de la masse pancréatique (7,5 x 11,2 cm) ; et cliniquement, il a commencé à ressentir un inconfort abdominal. La réévaluation par tomodensitométrie après le 4e cycle (juillet 2011) a montré que la masse hilaire droite était restée inchangée, mais que la taille de la masse pancréatique avait augmenté (10 x 14 cm).
+Compte tenu de la progression radiologique, un traitement de 3ème ligne par erlotinib a été décidé (le résultat de la mutation n'était pas disponible). Après quatre mois de traitement, avec un bénéfice clinique (amélioration des douleurs abdominales), un nouveau scanner a été réalisé en novembre 2011, montrant une légère croissance de la masse, mais la maladie a été considérée comme stable.
+Etant donné que la tumeur était encapsulée et n'affectait pas les structures vasculaires, chez un jeune patient en bon état général, le Comité des tumeurs pancréatiques de novembre 2012 a envisagé une résection.
+Lors de l'intervention chirurgicale, une masse pancréatique de 15 cm a été observée, avec un contenu liquidien, infiltrant l'estomac au tiers moyen et supérieur, la racine du jéjunum près de l'angle de Treitz et la racine du mésocôlon transverse, et une résection multiviscérale a été réalisée (gastrectomie totale, résection spléno-pancréatique corporo-caudale et résection de la partie gauche du côlon transverse et résection de la première anse jéjunale).
+Le résultat anatomopathologique confirme la métastase d'un carcinome épidermoïde modérément différencié (20 x 15 x 7 cm) d'origine pulmonaire, qui infiltre le pancréas, la muscularis propria de l'estomac, la sous-muqueuse duodonale et péricolique, avec 7/27 ganglions lymphatiques atteints, et l'infiltration de la glande surrénale gauche.
+Deux mois après l'opération, la tomodensitométrie de la réévaluation de mars 2012 a été rapportée comme des collections post-chirurgicales et l'étude thoracique était inchangée, donc, comme il n'y avait pas de preuve de la maladie, aucun traitement oncologique n'a été proposé. Il a suivi des révisions sans progression, la dernière en février 2013 avec un scanner sans changement par rapport aux précédents au niveau thoracique et avec des changements secondaires à la chirurgie abdominale. Le patient conserve un ECOG 0 et mène une vie normale. Il n'est traité qu'avec de la vitamine B12 et fait l'objet d'un suivi nutritionnel (ayant perdu du poids depuis la réfection gastrique prolongée).

@@ -1,0 +1,19 @@
+T1	pathologie 60 68	asmática
+T2	pathologie 342 350	diplopia
+T3	pathologie 447 481	oftalmoplejia internuclear derecha
+T4	pathologie 635 641	lesión
+T5	pathologie 981 1030	meningitis química por ruptura de quiste dermoide
+T6	pathologie 1015 1030	quiste dermoide
+T7	pathologie 1256 1310	quiste en la región medial del polo temporal izquierdo
+T8	pathologie 1395 1444	diseminación de grasa en el espacio subaracnoideo
+T9	pathologie 1671 1688	infarto isquémico
+T10	pathologie 1822 1881	partículas de grasa diseminadas en el espacio subaracnoideo
+T11	pathologie 1904 1948	acúmulo graso en la cisterna interpeduncular
+T12	pathologie 2376 2381	ictus
+T13	pathologie 2727 2736	arritmias
+T14	pathologie 2906 2920	oftalmoparesia
+T15	pathologie 3019 3061	infarto aislado anteromedial mesencefálico
+T16	pathologie 3088 3150	vasoespamo de arterias perforantes paramedianas mesencefálicas
+T17	pathologie 3170 3252	diseminación subaracnoidea del contenido graso de un quiste dermoide temporal roto
+T18	pathologie 3223 3252	quiste dermoide temporal roto
+T19	pathologie 3452 3470	compresión tumoral

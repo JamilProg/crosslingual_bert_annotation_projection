@@ -1,0 +1,16 @@
+T1	pathologie 118 155	adenopatías dolorosas submandibulares
+T2	pathologie 551 602	conglomerado submandibular izquierdo de adenopatías
+T3	pathologie 676 687	adenopatías
+T4	pathologie 1446 1456	adenopatía
+T5	pathologie 1575 1614	linfadenitis granulomatosa necrotizante
+T6	pathologie 1674 1694	adenitis tuberculosa
+T7	pathologie 1850 1884	cultivo fue positivo para M. bovis
+T8	pathologie 2429 2447	proceso infeccioso
+#1	SNOMED T2	127084003
+#2	SNOMED T6	10893003
+#3	SNOMED T1	127084003
+#4	SNOMED T3	30746006
+#5	SNOMED T5	426121003
+#6	SNOMED T7	373437006
+#7	SNOMED T8	40733004
+#8	SNOMED T4	30746006

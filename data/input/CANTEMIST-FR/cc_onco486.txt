@@ -1,0 +1,30 @@
+Anamnèse
+Le patient signale des douleurs abdominales depuis trois mois, accompagnées d'un syndrome constitutionnel et d'une perte de poids d'environ 10 kg pendant cette période. En outre, il signale une oligurie et des œdèmes dans les deux membres inférieurs, ainsi qu'une augmentation progressive de la taille du testicule droit au cours des derniers mois.
+Ses antécédents personnels indiquent qu'il est fumeur et qu'il ne présente aucun autre facteur de risque cardiovasculaire. Il souffre d'une maladie de Crohn iléale traitée par azathioprine. Il a des antécédents d'orchite droite il y a 4 ans, traitée de façon satisfaisante par antibiothérapie.
+
+Examen physique
+"Vitales : Tª 36,2 ºC, tension artérielle 135/98 mm Hg. Fréquence cardiaque 83 bpm. Saturation basale 98%.
+"État général détérioré. Normohydraté et normoperfusé.
+"Auscultation cardiaque : rythmique sans souffle audible.
+"Auscultation pulmonaire : souffle vésiculaire diminué dans les deux bases, sans autre bruit pathologique.
+"Abdomen : douleur à la palpation dans l'hémiabdomen droit, avec une hépatomégalie d'environ 8 cm. Bruits hydro-aériens conservés. Pas de signes d'irritation péritonéale. Adénopathie inguinale bilatérale et hypertrophie visible du testicule droit.
+"Membres inférieurs : œdème des deux jambes, avec pouls distaux palpables.
+
+Tests complémentaires
+"L'analyse des urgences a révélé une détérioration aiguë de la fonction rénale avec une créatinine de 1,95, une hypercalcémie (13,5) et une augmentation des LDH jusqu'à 5 510.
+"Une échographie abdominale urgente a été demandée, rapportant de multiples adénopathies pathologiques occupant toute la cavité abdominale, ainsi qu'une altération structurelle des deux reins et leur emprisonnement par une masse rétropéritonéale, entraînant une dilatation bilatérale de l'uretère et du canal lacrymal.
+"Au vu de ces résultats, le patient a été admis en médecine interne, où les examens ont été poursuivis.
+"Le scanner thoraco-abdomino-pelvien réalisé à l'admission a révélé une masse abdominale rétropéritonéale géante et hétérogène (28 x 18 x 30 cm), comprimant et affaissant la veine cave, les veines iliaques et les veines fémorales. Il y avait également une hydronéphrose bilatérale de grade III et une infiltration du segment hépatique VI/VII, ainsi que des lésions lytiques de la première vertèbre lombaire à L4.
+"Parmi les tests analytiques effectués à l'admission, on note une valeur de B-HCG de 583.
+"Une échographie scrotale régulière a également été demandée, avec des résultats compatibles avec une néoplasie testiculaire germinale mixte de grande taille.
+
+Diagnostic
+Au vu des résultats obtenus lors des examens précédents, le patient a subi une orchidectomie droite radicale régulière, le résultat de l'étude anatomopathologique de la pièce opératoire étant un diagnostic de séminome de type classique.
+Diagnostic après étude d'extension : séminome testiculaire droit de stade IIIC (métastases ganglionnaires, hépatiques, surrénaliennes et osseuses).
+
+Traitement
+Le patient est traité dans le service de médecine interne par sérothérapie et diurétiques, en plus d'une dose d'acide zolédronique (4 mg) et de vitamine D.
+Transfert dans le service d'oncologie pour le début du traitement de chimiothérapie par bléomycine, étoposide et carboplatine.
+
+Évolution
+Avant le transfert en oncologie, une nouvelle détérioration de la fonction rénale a été observée, si bien qu'il a été décidé de transférer le patient dans l'unité de soins intensifs du même centre. Dans l'unité de soins intensifs, le traitement a été intensifié avec des diurétiques et une sérothérapie, et la rasburicase a été mise en place à une dose de 0,15 mg/kg. Grâce à ces mesures, la fonction rénale du patient s'est améliorée, maintenant une diurèse optimale d'environ 5 l/jour, sans nécessiter de thérapie de remplacement rénal. Le traitement de chimiothérapie a commencé sans complications, avec une amélioration progressive de la calcémie et de l'acide urique, de sorte que, compte tenu de la stabilité hémodynamique, il a été décidé de transférer le patient au service d'oncologie.

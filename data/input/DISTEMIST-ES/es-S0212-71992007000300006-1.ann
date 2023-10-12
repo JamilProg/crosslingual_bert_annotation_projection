@@ -1,0 +1,26 @@
+T1	pathologie 72 96	enolismo moderado-severo
+T2	pathologie 98 119	hipertensión arterial
+T3	pathologie 122 143	cardiopatía isquémica
+T4	pathologie 239 320	post-ingesta de un OP (Metasystox®: oxidemetón-metilo) en un intento de autolisis
+T5	pathologie 509 518	hipotenso
+T6	pathologie 2282 2303	intoxicaciones por OP
+T7	pathologie 2309 2333	mioclonías generalizadas
+T8	pathologie 2530 2549	mioclonías faciales
+T9	pathologie 2846 2848	SI
+T10	pathologie 2998 3015	intoxicado por OP
+T11	pathologie 3041 3067	insuficiencia respiratoria
+T12	pathologie 3184 3196	intoxicación
+T13	pathologie 3408 3457	traqueobronquiolitis nosocomial por H. influenzae
+#1	SNOMED T1	713862009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	194828000
+#4	SNOMED T6	8260003
+#5	SNOMED T4	304594002
+#6	SNOMED T11	409623005
+#7	SNOMED T12	75478009
+#8	SNOMED T13	73414003
+#9	SNOMED T9	432991000
+#10	SNOMED T10	77721001
+#11	SNOMED T5	45007003
+#12	SNOMED T7	17450006
+#13	SNOMED T8	17450006

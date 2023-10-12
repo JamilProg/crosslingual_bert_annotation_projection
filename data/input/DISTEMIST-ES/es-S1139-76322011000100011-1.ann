@@ -1,0 +1,14 @@
+T1	pathologie 253 261	alergias
+T2	pathologie 323 351	adenopatías laterocervicales
+T3	pathologie 973 982	fracturas
+T4	pathologie 1522 1555	infección por Parainfuenzavirus 3
+T5	pathologie 1558 1575	hiperfosfatasemia
+T6	pathologie 1982 2034	hiperfosfatasemia benigna transitoria de la infancia
+T7	pathologie 2036 2040	HTBI
+#1	SNOMED T4	30270006
+#2	SNOMED T5	166627004
+#3	SNOMED T3	125605004
+#4	SNOMED T6	166627004
+#5	SNOMED T2	127087005
+#6	SNOMED T7	274770006
+#7	SNOMED T1	106190000

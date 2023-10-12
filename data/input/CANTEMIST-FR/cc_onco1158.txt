@@ -1,0 +1,24 @@
+Anamnèse
+Une femme de 44 ans, préménopausée, sans antécédents personnels ou familiaux. Elle consulte pour un nodule du sein gauche d'apparition récente.
+
+Examen physique
+L'examen physique a révélé la présence d'un nodule, situé dans le quadrant supéro-interne (CSI) du sein gauche, sans atteinte de la peau ou du complexe mamelon-aréole. L'examen axillaire était sans particularité.
+
+Examens complémentaires
+Une mammographie, une échographie mammaire et une imagerie par résonance magnétique (IRM) ultérieure ont révélé un nodule prolifératif sur le sein gauche ICS d'un diamètre maximal de 26 mm. BIRADS 4c.
+
+Diagnostic
+Une biopsie à l'aiguille a été réalisée et les résultats pathologiques ont été les suivants : carcinome canalaire infiltrant (CDI), grade III, Ki 67 > 90 %. Immunohistochimie : ER-, PR-, HER2 -. Stade IIA (cT2N0).
+
+Traitement
+Le traitement a débuté par une chimiothérapie néoadjuvante à base de FEC (5-fluorouracile, épirubicine, cilophosphamide) pendant 4 cycles, suivie de docétaxel pendant 4 cycles. Malgré une réponse clinique initiale apparente, après la fin de la chimiothérapie d'induction, la réévaluation de l'IRM mammaire a montré la persistance d'une lésion de 22 x 22 x 24 mm dans le CSI, pratiquement inchangée. Elle a subi une tumorectomie élargie et une lymphadénectomie axillaire de niveau I, II.
+
+Diagnostic pathologique final
+Compte tenu de la faible réponse clinique et des résultats pathologiques inhabituels de la pièce de tumorectomie, une étude immunohistochimique plus approfondie a été réalisée sur la pièce. L'anatomie pathologique finale de la pièce opératoire était la suivante : mélanome amélanotique non cutané, taille 3 cm. Immunohistochimie : HMB45, melan-A, S-100 et vimentine positifs. ER, PR et HER2 négatifs. p53 < 50 %. Marges sans tumeur (> 2 cm). Ganglions lymphatiques isolés, exempts de tumeur.
+
+Évolution
+Un bilan dermatologique exhaustif a été réalisé à la recherche de la tumeur primaire, et aucune lésion suspecte n'a été trouvée sur la peau ou les muqueuses. L'étude d'extension a exclu une maladie à distance. Par conséquent, sur la base des résultats cliniques et du résultat de l'examen anatomopathologique, le diagnostic définitif a été celui d'un mélanome malin amélanotique non cutané du sein.
+Une RT adjuvante a été administrée avec 50 Gy sur le sein gauche avec des photons de 6 Mv, à raison de 2 Gy/fraction, 5 jours/semaine, et une surpression ultérieure au lit jusqu'à 60 Gy, avec des électrons de 18 Mev, selon le même schéma.
+Vingt-huit mois plus tard, elle a présenté une récidive locale dans l'ICS et une mastectomie gauche a été réalisée avec une anatomie pathologique confirmant la présence d'un mélanome amélanotique avec infiltration du derme, pléomorphisme nucléaire sévère, > 50 mitoses/10 HPF et des marges de résection libres.
+Après avoir exclu la présence de métastases à distance, il a été décidé d'administrer une immunothérapie adjuvante avec de fortes doses d'interféron alfa-2b pendant un an.
+La patiente est actuellement exempte de maladie clinique et radiologique, avec une survie globale de 4,2 ans depuis le diagnostic initial et un intervalle sans maladie après récidive de 23 mois.

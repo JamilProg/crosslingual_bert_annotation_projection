@@ -1,0 +1,26 @@
+Anamnèse
+Nous présentons une patiente de 50 ans, résidant à Castellón. Elle est pédiatre de profession.
+Ses antécédents personnels comprennent une intervention chirurgicale pour des varices dans les deux membres inférieurs en 2004. Ses antécédents gynéco-obstétriques comprennent la ménarche à l'âge de 10 ans, 3 grossesses, 3 accouchements (1 par césarienne), l'allaitement pendant 27 mois et la dernière menstruation le 28 juin 2016. Ses antécédents familiaux incluent une sœur de son grand-père maternel chez qui un carcinome mammaire a été diagnostiqué et qui est décédée de la maladie à l'âge de 42 ans.
+ANTÉCÉDENTS ONCOLOGIQUES
+En mars 2016, la patiente a présenté un eczéma sur le mamelon du sein droit avec une mammographie qui a identifié des microcalcifications mammaires rétroaréolaires droites et une échographie mammaire qui a montré une lésion solide de 2,6 cm dans le sein droit et une lymphadénopathie axillaire homolatérale de 8 mm avec des caractéristiques BIRADS-4. Sur le sein gauche, deux lésions solides de 6 mm et 8 mm dans le quadrant supérieur externe et à la jonction des quadrants internes se sont révélées bénignes. La biopsie cutanée de la lésion du sein droit étant compatible avec un carcinome canalaire infiltrant, une mastectomie droite avec biopsie sélective du ganglion lymphatique sentinelle a été réalisée le 3 juin 2016. Le résultat anatomopathologique était un carcinome canalaire infiltrant de grade 2 de 4,7 cm avec invasion vasculo-lymphatique et marges libres, associé à une maladie de Paget du mamelon. En outre, des foyers de carcinome canalaire infiltrant du sein, de type solide et de comédocarcinome ont été observés. Les biopsies de trois ganglions sentinelles ont montré que deux d'entre eux étaient atteints de macrométastases et, d'un point de vue immunohistochimique, la tumeur exprimait 100 % de récepteurs d'œstrogènes, moins de 1 % de récepteurs de progestérone, HER-2 sans amplification et un ki67 de 25 %. En raison de l'atteinte axillaire, le 20 juin 2016, une lymphadénectomie a été réalisée, réséquant 6 ganglions axillaires et trouvant des micrométastases dans l'un d'entre eux.
+Compte tenu du diagnostic de carcinome mammaire canalaire infiltrant de stade IIB (pT2 pN1 Mx) compatible avec le profil immunohistochimique luminal B, un traitement de chimiothérapie adjuvante a été mis en place avec de l'adriamycine (60 mg/m2) et du cyclophosphamide (600 mg/m2), à partir de juillet 2016. Après le premier cycle de chimiothérapie, des études d'extension ont été réalisées, montrant des métastases en D5 à la scintigraphie et des métastases pulmonaires bilatérales. Une biopsie du pédicule vertébral en D5 a été réalisée et était compatible avec des métastases de carcinome mammaire. Six cycles d'anthracycline ont été administrés, avec une stabilisation observée sur les examens d'imagerie, et le traitement s'est achevé en novembre 2016. Le traitement a été complété par trois fractions de radiothérapie externe sur D5.
+Par la suite, une annexectomie bilatérale a été réalisée en septembre 2016 et en décembre 2016, elle a commencé un traitement par fulvestrant 500 mg par mois et dénosumab mensuel, qui a débuté en mars 2017.
+Elle s'est présentée à un rendez-vous de suivi en juin 2017. La dernière dose de fulvestrant a été reçue le 31 mai 2017. Elle est en bon état général. L'anamnèse par appareils est anodine. Elle mène une vie active.
+Elle est actuellement dans une situation de stabilisation de la maladie.
+
+Examen physique
+À l'examen physique, le patient était en bon état fonctionnel (ECOG 0) et ne présentait aucun signe particulier.
+
+Tests complémentaires
+Lors d'une prise de sang réalisée en mai 2017, des taux d'œstradiol élevés persistaient (45 pg/ml), s'agissant d'une patiente ayant subi une double annexectomie. Une prise de sang complète a été demandée un mois plus tard, et le taux d'œstradiol était alors de 92 pg/ml.
+
+Diagnostic
+"Carcinome canalaire infiltrant du sein, sous-type luminal B, stade IV avec atteinte osseuse.
+Actuellement en traitement d'entretien avec fulvestrant et denosumab. Stabilisation de la maladie.
+"Taux d'œstradiol élevé chez une patiente ayant subi une double annexectomie, compatible avec un test immunologique faussement positif dû à une réactivité croisée avec le fulvestrant.
+
+Traitement
+Il est actuellement traité avec 500 mg de diosmine, un comprimé par jour, 1 ampoule de calcifédiol à boire par mois et 500 mg de fulvestrant, une injection par mois.
+
+Evolution
+Une nouvelle mesure de l'œstradiol par chromatographie de masse est demandée et le résultat est en attente d'être communiqué au moment de la rédaction de ce cas clinique.

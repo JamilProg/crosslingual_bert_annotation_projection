@@ -1,0 +1,4 @@
+T1	pathologie 600 656	tumor mesenquimático benigno o de bajo potencial maligno
+T2	pathologie 1945 1991	leiomiosarcoma de muy bajo grado de malignidad
+#1	SNOMED T1	55342001
+#2	SNOMED T2	443719001

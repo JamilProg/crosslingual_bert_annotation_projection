@@ -1,0 +1,30 @@
+T1	pathologie 110 131	ictericia obstructiva
+T2	pathologie 153 169	coledocolitiasis
+T3	pathologie 288 300	colelitiasis
+T4	pathologie 371 387	coledocolitiasis
+T5	pathologie 578 587	hipotensa
+T6	pathologie 963 972	infección
+T7	pathologie 1012 1049	Aerobilia en vía biliar extrahepática
+T8	pathologie 1071 1085	neumoperitoneo
+T9	pathologie 1221 1248	absceso adyacente al hígado
+T10	pathologie 1274 1283	infección
+T11	pathologie 1311 1331	perforación duodenal
+T12	pathologie 1399 1449	hematoma subcapsular en el lóbulo hepático derecho
+T13	pathologie 1645 1652	absceso
+T14	pathologie 1866 1877	anemización
+T15	pathologie 2011 2019	hematoma
+#1	SNOMED T12	262797004
+#2	SNOMED T4	307132003
+#3	SNOMED T14	271737000
+#4	SNOMED T9	75100008
+#5	SNOMED T2	307132003
+#6	SNOMED T11	270909006
+#7	SNOMED T3	266474003
+#8	SNOMED T6	40733004
+#9	SNOMED T8	17204006
+#10	SNOMED T15	385494008
+#11	SNOMED T1	59848001
+#12	SNOMED T10	40733004
+#13	SNOMED T5	45007003
+#14	SNOMED T7	300339003
+#15	SNOMED T13	128477000

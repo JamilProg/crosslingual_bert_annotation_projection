@@ -1,0 +1,27 @@
+Anamnèse
+La patiente est une femme de 29 ans sans allergies connues et sans antécédents personnels intéressants.
+Antécédents gynéco-obstétricaux : préménopause avec ménarche à 14 ans, pas de grossesse.
+Antécédents familiaux : la grand-mère maternelle est décédée d'un cancer du sein et la cousine paternelle d'un mélanome.
+
+La patiente a été diagnostiquée en août 2009 avec un carcinome canalaire infiltrant (CDI) du sein gauche mesurant 2,4 x 1,5 cm. Une tumorectomie a été réalisée avec une biopsie du ganglion sentinelle (BGS), qui s'est révélée négative pour les cellules malignes. Il n'y avait aucune preuve de maladie tumorale à distance, et le diagnostic final était donc un CBI du sein gauche de sous-type luminal A en raison de ses caractéristiques immunohistochimiques (récepteurs des œstrogènes et de la progestérone positifs à 100 %, Ki-6710 % et Her2 négatifs), un stade IIA (pT2N0M0). La patiente a reçu un traitement de chimiothérapie adjuvante (QT) selon le schéma CAF (cyclophosphamide 500 mg/m2, adriamycine 50 mg/m2 et 5-fluorouracile 500 mg/m2) pendant 6 cycles, avec une bonne tolérance et qui s'est terminé en février 2010 ; elle n'a présenté qu'un retard d'une semaine en raison d'une neutropénie de grade 2. Par la suite, elle a reçu un traitement de radiothérapie en raison d'une intervention chirurgicale conservatrice. En outre, elle a subi un blocage hormonal avec un analogue de la LH-RH (goséréline) et du tamoxifène pendant 2 ans (de mars 2010 à mars 2012), poursuivant le tamoxifène pendant 5 ans. En mars 2015, alors qu'elle est toujours sous traitement hormonal, elle consulte pour signaler l'apparition d'une adénopathie (ADP) dans la région sus-claviculaire droite.
+
+Examen physique
+Bon état général. ECOG 0. Hémodynamiquement stable.
+Tête et cou : palpation d'une adénopathie supraclaviculaire droite de 0,5 cm de consistance molle et arrondie.
+Le reste de l'examen physique est inchangé.
+
+Examens complémentaires
+"Ponction à l'aiguille fine (FNA) de l'ADP supraclaviculaire droite : métastase d'un IDC mammaire à récepteurs hormonaux positifs.
+"Examens de laboratoire : CEA 10,23 ng/ml (valeurs normales 0-4,7 ng/ml).
+"Imagerie par résonance magnétique (IRM) du sein, tomodensitométrie thoraco-abdomino-pelvienne (TAP-CT) et scintigraphie osseuse : pas d'altérations.
+"La patiente a consulté pour connaître les résultats des examens et, lors de l'examen physique, l'ADP sus-claviculaire n'était plus palpable, de sorte qu'une tomographie par positrons du corps entier au fluorodéoxyglucose-F18 (PET-CT) a été demandée pour confirmer la présence d'une maladie à distance et exclure un résultat faussement positif. La TEP-TDM n'a montré qu'une prise pathologique avec un SUVmax de 4,8, compatible avec une métastase dans l'apophyse épineuse de la vertèbre cervicale C4. Devant ce constat, une IRM cervicale a été demandée pour une meilleure caractérisation de la lésion, avec pour résultat une lésion osseuse de 28 x 25 x 15 mm dans l'apophyse épineuse de C4 avec une masse de tissus mous associée en contact avec la musculature paravertébrale adjacente et n'entraînant pas d'atteinte de la moelle épinière.
+" Au vu de cette situation, une biopsie osseuse a été demandée au service de traumatologie et, en avril 2015, une excision complète de la tumeur située dans l'arc postérieur de C4 a été réalisée avec décompression et laminectomie de C3-C4 et instrumentation ultérieure au niveau de C3-C6. Le résultat anatomopathologique de la lésion osseuse était une métastase d'IDC du sein avec récepteurs hormonaux positifs et Her2 négatif.
+
+Diagnostic
+Femme de 35 ans présentant une récidive oligométastatique d'un IDC mammaire, sous-type luminal A, au cours d'un traitement adjuvant.
+
+Traitement
+Le cas a été discuté lors d'une séance clinique d'oncologie et il a été décidé d'administrer un traitement QT avec du paclitaxel 80 mg/m2 par semaine pendant 12 semaines, suivi d'une thérapie hormonale.
+
+Évolution
+La patiente n'a pas présenté de complications post-chirurgicales. Quatre semaines après l'opération, elle a donc commencé un traitement QT avec du paclitaxel hebdomadaire. Elle a actuellement reçu 4 cycles, avec une très bonne tolérance.

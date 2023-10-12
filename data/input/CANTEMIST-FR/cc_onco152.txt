@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 51 ans sans antécédents médicaux pertinents, mais avec des antécédents familiaux : la mère est décédée à 47 ans d'un cancer de l'endomètre ; du côté maternel, deux oncles sont décédés d'un cancer du côlon à 45 et 80 ans, une tante d'un cancer gastro-intestinal, un cousin est décédé d'un cancer des voies biliaires à 38 ans, une autre cousine d'un cancer des ovaires diagnostiqué à 46 ans, un autre cousin est décédé à 60 ans d'un cancer du côlon.
+
+Elle a consulté le service de gynécologie en décembre 2002 pour une aménorrhée de longue date avec quelques épisodes de métrorragies légères.
+
+Examen physique
+Auscultation cardiaque et pulmonaire sans altération. Seins normaux. Abdomen souple, non douloureux, sans masse ni organomégalie palpable. Organes génitaux externes normaux, exploration bimanuelle normale de l'utérus et des annexes.
+
+Examens complémentaires
+"Échographie gynécologique : endomètre irrégulier de 13 mm d'épaisseur, hétérogène (zones éconégatives alternant avec des zones hyper-réfringentes).
+"Hystéroscopie : formation exophytique, papillaire, avec des vaisseaux atypiques, occupant toute la surface utérine postérieure à partir de l'isthme. Des biopsies sont réalisées.
+
+Diagnostic
+Adénocarcinome endométrial de type endométrioïde.
+
+Traitement
+En mars 2003, une hystérectomie vaginale laparoscopique avec double annexectomie et lymphadénectomie pelvienne et para-aortique (jusqu'au-dessus de l'artère mésentérique inférieure) a été pratiquée. Rapport anatomopathologique : adénocarcinome endométrial bien différencié, de type endométrioïde, limité à l'endomètre avec présence d'images très isolées de perméation vasculaire, col utérin, trompes et ovaires sans infiltration tumorale. Pas d'atteinte ganglionnaire (0/32 ganglions prélevés) et lavage péritonéal négatif. Stade FIGO PT1A PN0 M0 : IA.
+
+Évolution
+Après examen des antécédents familiaux, la patiente a été orientée vers un conseil génétique. Dans un premier temps, une étude de l'instabilité des microsatellites a été demandée, qui s'est révélée négative. Néanmoins, compte tenu des antécédents familiaux, l'étude génétique germinale a été poursuivie en utilisant la méthode MLP (multiplex ligation-dependent probe amplification), identifiant des délétions dans les exons 3 à 6 du gène MSH2. Cela a confirmé le diagnostic de syndrome de Lynch, et nous avons donc étudié ses descendants, qui sont également porteurs. Depuis lors, elle fait l'objet d'un suivi annuel avec des marqueurs tumoraux (CEA et Ca125), une coloscopie, une échographie abdominale et un examen gynécologique. Lors du dernier suivi, une coloscopie biannuelle a été envisagée, en alternance avec une recherche de sang occulte dans les selles.

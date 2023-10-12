@@ -1,0 +1,24 @@
+Anamnèse
+Un homme de 38 ans, récemment opéré d'une néoplasie testiculaire par orchidectomie gauche, présente des signes compatibles avec une néoplasie germinale intratubulaire avec extension extratubulaire. L'étude d'extension a mis en évidence l'existence d'une image de relâchement du ballonnet et d'une atteinte étendue des ganglions lymphatiques rétropéritonéaux ; des marqueurs tumoraux élevés ; α-fœtoprotéine, gonadotrophine humaine (ß-HCG) et lactate déshydrogénase (LDH) : tous ces éléments sont compatibles avec une tumeur testiculaire non séminomateuse de stade III.
+Après évaluation par l'oncologie médicale, il a été proposé de commencer le traitement par une chimiothérapie de première ligne (QT) selon le schéma BEP x 4 cycles (bléomycine, étoposide et cisplatine). Le traitement devait commencer après la cryoconservation du sperme.
+Le patient, 5 jours après avoir été évalué, la veille du début prévu du traitement, s'est rendu aux urgences pour une insuffisance respiratoire soudaine et de la fièvre.
+
+Examen physique
+Mauvais état général avec transpiration abondante. Tachypnée au repos avec une saturation basale en oxygène de 88%. Température de 38,5 ºC.
+
+Examens complémentaires
+Une tomodensitométrie thoracique a été demandée en urgence pour exclure une thromboembolie pulmonaire. La tomodensitométrie a révélé de multiples images nodulaires allant jusqu'à 3 cm, largement réparties dans le parenchyme pulmonaire des deux poumons (métastases connues). Les images nodulaires sont entrecoupées de zones en verre dépoli, avec des caractéristiques non spécifiques, afin d'évaluer leur origine (inflammatoire, infectieuse, etc.). L'analyse a montré une élévation de la protéine C-réactive (CRP) et une leucocytose avec neutrophilie. Une nouvelle détermination des marqueurs tumoraux a été effectuée : LDH 810 U/l (plage normale 135-250), α-fœtoprotéine 42,73 ng/ml (plage normale 0-10) et ß-HCG 140-471 mIU/ml (plage normale 0-5). Avant l'instauration d'une antibiothérapie empirique, des hémocultures périphériques ont été réalisées.
+
+Diagnostic
+Insuffisance respiratoire secondaire à une maladie oncologique et à une infection respiratoire.
+
+Traitement
+Une antibiothérapie empirique à base de pipéracilline-tazobactam, une corticothérapie et une fluidothérapie sont mises en place, ainsi qu'une assistance respiratoire par ventilation mécanique non invasive.
+
+Évolution
+Compte tenu de la gravité du patient, qui présentait une maladie oncologique potentiellement curable, il a été décidé de l'hospitaliser en unité de soins intensifs, où un traitement par QT avec étoposide et cisplatine a été mis en place ; la bléomycine n'a pas été prescrite afin de ne pas interférer avec la ventilation.
+Après l'administration du premier cycle de QT, l'évolution du point de vue respiratoire a été torpide avec des sécrétions bronchiques qui ont été mises en culture et deux bactéries ont été isolées : Enterobacter aerogenes et Proteus mirabilis ; toutes deux sensibles aux carbapénèmes, ajoutant des complications telles qu'une pancytopénie secondaire au traitement par QT. Une antibiothérapie ciblée a été mise en place avec 2 g de méropénem toutes les 8 heures, un traitement de soutien avec du facteur de stimulation des colonies (G-CSF), une transfusion de deux concentrés de globules rouges et une intubation orotrachéale.
+Le patient a progressivement, bien que lentement, commencé à s'améliorer en termes de respiration, ce qui a permis l'extubation après 10 jours. Une diminution des taux de marqueurs tumoraux a également été observée. Compte tenu de la stabilité de la situation clinique, le patient a été transféré de l'unité de soins intensifs au service d'oncologie, où le deuxième cycle de QT a été administré.
+Enfin, en raison d'une amélioration clinique significative, sans besoin d'assistance respiratoire par oxygénothérapie, il a été renvoyé chez lui pour poursuivre le traitement en ambulatoire.
+Par la suite, il a reçu quatre cycles supplémentaires de QT selon le schéma BEP avec une réponse partielle élevée des nodules pulmonaires et de la masse rétropéritonéale (CT de réévaluation). Il a donc subi une intervention chirurgicale de sauvetage de la masse rétropéritonéale résiduelle, avec une réponse partielle complète selon les critères RECIST (critères d'évaluation de la réponse dans les tumeurs solides).
+Actuellement, après trois ans de suivi, le patient ne présente aucun signe de maladie.

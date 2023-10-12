@@ -1,0 +1,25 @@
+Anamnèse
+59 ans, ex-fumeuse de 20 cigarettes/jour et ex-buveuse de 2 bières/jour depuis 10 ans. VIH avec charge virale indétectable sous traitement antirétroviral. Les antécédents familiaux comprennent 2 sœurs et 2 cousines chez qui un cancer du sein a été diagnostiqué avant l'âge de 50 ans.
+Indépendante dans les activités de la vie quotidienne avec une vie active. ECOG 0.
+Elle a consulté le service de soins primaires pour une lésion de la cavité buccale datant de deux semaines qui s'était rapidement développée, devenant de plus en plus gênante et saignant occasionnellement. Elle ne se souvenait pas d'avoir subi un traumatisme ou une morsure dans cette zone. Il n'y a pas de syndrome constitutionnel. Elle ne présentait pas de troubles gastro-intestinaux et ses selles étaient normales.
+
+Examen physique
+Couleur normale. Non hydraté. Il y avait une lésion de 2,5 cm d'aspect inflammatoire et ulcéré, attachée à la dernière molaire supérieure. Elle était douloureuse au toucher avec l'abaisseur. Il n'y a pas d'autres lésions buccales. L'auscultation cardio-pulmonaire et l'examen abdominal étaient normaux. Poids 67 kg. Taille 169 cm.
+
+Tests complémentaires
+Analyses sanguines avec pour seul résultat une anémie ferriprive.
+Le diagnostic pathologique de la biopsie de la lésion buccale était un adénocarcinome avec un profil compatible avec des métastases d'origine gastro-intestinale ou des cellules de Meckel selon l'étude immunohistochimique, avec cytokératine 20 positive et cytokératine 7 négative.
+Un examen TEP CT-FDG18 du corps a alors été demandé, montrant un dépôt focal dans la région alvéolaire du deuxième quadrant du maxillaire gauche avec extension gingivale, une captation intense au niveau du corps gastrique et de l'antre avec épaississement de 20 mm de la muqueuse et deux nodules de 20 mm également hyperintenses au niveau de la surrénale gauche. L'estomac a été examiné par endoscopie gastro-intestinale supérieure pour des biopsies, qui ont été rapportées comme un adénocarcinome gastrique diffus avec des cellules en anneau de signet. Les tests de la fonction surrénalienne se sont révélés négatifs, ce qui laisse supposer qu'il s'agit de lésions métastatiques.
+Les marqueurs tumoraux étaient curieusement normaux.
+Une étude génétique a également été réalisée compte tenu des antécédents familiaux pour les gènes BRCA-1 et 2, qui s'est révélée négative.
+
+Diagnostic
+Adénocarcinome gastrique diffus de stade IV avec cellules en anneau de signet (métastases dans la cavité buccale et présumées surrénales).
+
+Traitement
+La chimiothérapie a commencé selon le schéma cisplatine-5-FU. Nous avons ensuite obtenu le résultat de l'étude HER-2, qui s'est avéré négatif. Des conseils nutritionnels ont également été proposés par le service d'endocrinologie, ainsi qu'un traitement à base de fer oral pour l'anémie ferriprive.
+
+Évolution
+Après trois cycles de chimiothérapie, nous avons réévalué la maladie à l'aide d'un PET-CT, qui a révélé une réponse partielle possible sans répondre aux critères RECIST. La tumeur était stable au niveau gastrique et il y avait une tendance à la diminution des lésions dans la cavité buccale (de 3 à 2 cm) et dans les glandes surrénales.
+En raison d'une toxicité hématologique élevée, principalement une thrombopénie, malgré une réduction de la dose, le traitement a dû être retardé à plusieurs reprises. Le patient était asymptomatique, conservait son poids et son bon état général. Finalement, après avoir vérifié l'absence d'interactions avec son traitement antirétroviral, il a été décidé de passer au schéma XELOX avec une réduction de 20 % de la dose en raison de la myélotoxicité antérieure.
+La lésion de la cavité buccale a diminué jusqu'à devenir pratiquement indétectable à l'examen. Cependant, la patiente a présenté une asthénie croissante et un inconfort digestif, et le deuxième cycle de la nouvelle chimiothérapie a été retardé en raison d'une mauvaise tolérance. Après trois cycles, un scanner de réévaluation a été réalisé, montrant une stabilité tumorale au niveau de la masse gastrique, et des ascites dans les espaces péri-hépatiques, péri-spléniques, goutteux, inter-gastriques et pelviens. Aucun implant macroscopique n'a été observé.

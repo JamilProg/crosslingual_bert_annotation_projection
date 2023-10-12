@@ -1,0 +1,39 @@
+Anamnèse
+Homme de 40 ans, sans antécédents particuliers, diagnostiqué en août 2011 avec une tumeur germinale primaire médiastinale non séminomateuse, avec un mauvais pronostic selon la classification IGCCCG (International Germ Cell Cancer Collaborative Group), principalement en raison de facteurs radiologiques. Il a reçu six cycles de chimiothérapie de première ligne selon le schéma BEP (bléomycine, étoposide et cisplatine), sans toxicité significative.
+Ensuite, la masse tumorale étant restée viable, elle a subi deux cycles de TIP (cisplatine, placitaxel et ifosfamide). En l'absence de réponse, il a commencé une troisième ligne avec de la gemcitabine et de l'oxaliplatine pendant trois cycles. Ensuite, en l'absence de réponse, il a reçu six cycles de doxorubicine, en continuant pendant les quatre mois suivants avec de l'étoposide par voie orale et une radiothérapie palliative. Après une nouvelle progression de la maladie et une élévation des marqueurs tumoraux, une chimiothérapie palliative à base de bléomycine et de méthotrexate hebdomadaire a été envisagée, avec seulement deux doses de ce dernier.
+Elle a été admise dans le service d'oncologie médicale en mars 2012 pour un mauvais contrôle de la douleur, une détérioration de l'état général et une dyspnée au repos, saturant à 60 % sans oxygène supplémentaire. Elle a déclaré que la dyspnée avait commencé progressivement 15 jours plus tôt, coïncidant avec l'apparition d'une douleur dans la région lombaire droite.
+
+Examen physique
+ECOG 3, tension artérielle 120/60 mm Hg. Température de 36 ºC. Saturation en oxygène à 90 % avec masque à réservoir. Diurèse préservée.
+Auscultation cardio-pulmonaire : cœur rythmé à bonne fréquence (90 bpm). Murmure vésiculaire diminué bilatéralement, sans ajout de bruits pathologiques.
+Abdomen : souple et dépressible, sans masse ni mégalithes. Pas de douleur à la palpation. Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde. Masse claviculaire gauche, mobile, correspondant à une possible fracture. Examen neurologique sans particularité.
+
+Tests complémentaires
+- Examens de laboratoire à l'admission : glucose 163 mg/dL ; urée 61 mg/dL ; potassium 5,1 mg/dL ; sodium 132 mg/dL ; CRP 175,1 mg/dL ; NT-ProBNP 1 640. Leucocytes 15 590 avec 85 % de polymorphonucléaires ; lymphocytes 600 ; hémoglobine 9,9 g/dL ; plaquettes normales ; INR 1,39 ; fibrinogène 4,8 mg/dL.
+- Radiographie du thorax à l'admission : infiltrat alvéolo-interstitiel bilatéral, plus dense dans le lobe supérieur droit. Hypertrophie médiastinale.
+- Scintigraphie osseuse : diminution de l'activité ostéoblastique dans l'hémicorps vertébral droit à J10.
+- Antigénuries pneumococcique et légionnelle négatives.
+- Marqueurs tumoraux : LDH 863 U/L ; FA 74 U/L ; alpha-fœtoprotéine 30 751 ng/mL.
+- IRM dorsolombaire : multiples métastases vertébrales dorsolombaires, les plus importantes en D9 (fracture pathologique sans bombement de la paroi ni masse épidurale), D10, cette dernière avec une masse épidurale de tissu mou comprimant significativement le sac thécal et le bord postérosupérieur gauche de D12 avec une composante tumorale épidurale minime. Les autres métastases sont circonscrites au corps vertébral.
+- Tomodensitométrie thoracique : image de pavé (opacité alvéolaire en "verre dépoli" et épaississement des septa interlobulaires) occupant la totalité du poumon droit et une vaste zone périhilaire du lobe supérieur gauche. Il s'agit d'une observation non spécifique qui peut indiquer une infection, une hémorragie alvéolaire, une lésion toxique, etc. à évaluer en fonction des résultats cliniques. Trois nodules pulmonaires gauches compatibles avec des métastases. Importante masse médiastinale antérieure, déjà diagnostiquée comme une tumeur germinale non séminomateuse.
+Lésions osseuses compatibles avec des métastases dans la colonne vertébrale.
+- Échocardiographie transthoracique : léger épanchement péricardique et fraction d'éjection préservée.
+- PCR pour le cytomégalovirus < 150 copies.
+- Radiographie du thorax trois semaines après l'admission : poumon droit sans signe de condensation actuelle. Une nouvelle densité a été observée dans le lobe supérieur gauche, qui pourrait correspondre à une hémorragie, à une progression ou à une pneumonie.
+
+Évolution et diagnostic
+Dès l'admission du patient, un diagnostic différentiel a été posé entre les pathologies suivantes :
+- Insuffisance respiratoire d'origine infectieuse.
+- Insuffisance respiratoire due à la progression de la maladie.
+- Insuffisance respiratoire due à une toxicité pharmacologique.
+- Insuffisance cardiaque récemment diagnostiquée associée à une pathologie tumorale.
+Le patient a reçu un traitement antibiotique et antifongique intraveineux à large spectre, sans amélioration clinique ou radiologique. Les résultats négatifs des examens complémentaires, l'absence de fièvre et d'autres signes d'infection ont exclu l'option d'une insuffisance respiratoire d'origine infectieuse. De même, l'absence de signes cliniques de défaillance de la pompe et les résultats normaux de l'échocardiographie ont également permis d'exclure la cause cardiaque du processus décrit.
+Par conséquent, l'étiologie probable de l'affection était centrée sur la progression de la maladie ou la toxicité due à la chimiothérapie1. Le médicament le plus susceptible d'avoir provoqué les symptômes était la bléomycine, à la fois en raison des caractéristiques du médicament lui-même et de sa proximité dans le temps2-4. 2-4 Il a donc été décidé de commencer un traitement symptomatique avec des stéroïdes à haute dose. Parallèlement, le patient a reçu deux doses massives de radiothérapie médiastinale de 4 Gy par séance, qui ont été interrompues en raison de l'intolérance et de l'aggravation des symptômes cliniques.
+Après deux semaines de corticothérapie intensive, l'évolution des symptômes du patient a été torpide et des crises paroxystiques de dyspnée et des épisodes d'anxiété ont persisté pendant les deux semaines suivantes. En l'absence de bénéfice symptomatique, le patient a été transféré dans l'unité de soins palliatifs, en maintenant le même traitement et avec une nette amélioration de ses symptômes respiratoires, avec une saturation de 95% sans oxygénothérapie supplémentaire. Une radiographie du thorax a été réalisée et a montré une amélioration incroyable de l'infiltrat pulmonaire droit.
+
+Traitement
+Le diagnostic étant inconnu, le patient a d'abord été traité comme une insuffisance respiratoire de cause incertaine, avec un traitement associé d'oxygénothérapie, de corticothérapie intraveineuse, de diurétiques, d'aérosolthérapie et d'antibiothérapie empirique.
+En outre, un bolus de morphine intraveineuse à faible dose a été administré pour soulager la dyspnée et la douleur osseuse associée.
+Compte tenu de l'approche de l'alvéolite fibrosante secondaire à la bléomycine et du fait qu'il avait déjà été traité avec des corticostéroïdes à faible dose, il a été traité avec de fortes doses de corticostéroïdes, avec trois bolus : un initial de 1 g de méthylprednisone et deux de 500 mg dans les jours suivants.
+Après l'amélioration, le patient a de nouveau présenté un épisode de dyspnée, cette fois d'apparition subaiguë, accompagné d'hémoptysies intenses sans fièvre associée. Cet épisode a été classé comme une hémorragie pulmonaire due à une probable progression tumorale. Ces épisodes hémoptotiques se sont multipliés.
+Compte tenu du caractère réfractaire des symptômes, il a été décidé, avec la famille, d'administrer une sédation terminale à la patiente, qui est décédée quelques heures après le début de la sédation.

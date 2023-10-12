@@ -1,0 +1,30 @@
+Anamnèse
+Une femme de 59 ans sans antécédents médicaux intéressants. En juin 1989, on lui a diagnostiqué un carcinome lobulaire infiltrant du sein gauche, T2N1M0. Elle a subi une mastectomie radicale et a reçu une chimiothérapie adjuvante à base de cyclophosphamide, de méthotrexate et de 5-fluorouracile pendant 12 cycles, suivie de tamoxifène.
+
+En 1992, une récidive a été détectée au niveau de la cicatrice de mastectomie qui a fait l'objet d'une résection chirurgicale, suivie d'une radiothérapie (50 Gy sur la paroi thoracique gauche, l'aisselle et la chaîne mammaire interne gauche, 45 Gy dans la région sus-claviculaire et une surimpression sur la cicatrice) et d'une hormonothérapie à base d'acétate de mégestrol pendant 2 ans. Elle a continué à subir des examens périodiques, sans aucun signe de la maladie jusqu'en novembre 2004, date à laquelle une nouvelle récidive locale a été détectée lors d'une biopsie CLI, HER-2 positive et ER/RP négative, et elle a été adressée à notre clinique.
+
+Examen physique
+Bon état général. IK 100. Induration au niveau de la cicatrice de mastectomie gauche. Le reste est sans particularité.
+
+Tests complémentaires
+"Hémogramme : leucocytes 4 100 (formule normale) ; hémoglobine 13 g/dl ; plaquettes 150 000.
+"Biochimie : paramètres dans les limites de la normale.
+"CEA 2,5 ng/mL ; CA-15.3 31,7 U/mL.
+"Mammographie droite (mars 2004) : aucun résultat intéressant.
+"Tomodensitométrie thoraco-abdominale (novembre 2004) : épanchement pleural gauche encapsulé ; lymphadénopathie paratrachéale droite, nodule de 1,5 cm de diamètre dans le lobe hépatique droit et lymphadénopathie rétropéritonéale.
+
+Diagnostic
+Rechute locale, ganglions lymphatiques paratrachéaux, rétropéritonéaux et hépatiques douteux pour un carcinome lobulaire du sein gauche HER-2 positif et ER/RP négatif.
+Douleur lombaire invalidante résistante aux AINS (diagnostic différentiel entre maladie osseuse métastatique et pathologie lombaire bénigne).
+
+Traitement
+Avec le diagnostic de rechute locale, de ganglions lymphatiques paratrachéaux, rétropéritonéaux et hépatiques douteux dus à une CLI mammaire HER-2 positive et ER/RP négative, le traitement a été commencé en décembre 2004 avec 30 mg/m2 de vinorelbine les jours 1 et 8 en association avec 6 mg/kg de trastuzumab tous les 21 jours, avec une tolérance adéquate et une réponse partielle dans la tomodensitométrie de réévaluation.
+
+Évolution
+En novembre 2006, elle a commencé à souffrir d'une lombosciatique gauche dont l'intensité a progressivement augmenté et qui a persisté malgré un traitement aux anti-inflammatoires. Compte tenu de la suspicion d'une atteinte osseuse secondaire à une maladie oncologique, une radiographie du rachis lombaire a d'abord été demandée, qui a montré des signes de spondylodiscite L5-S1. En outre, une IRM de la colonne lombaire a été réalisée, montrant une hypointensité marquée des corps vertébraux L5 et S1 en T2 et T1, avec une hyperintensité du disque en T2 et T1, avec un rehaussement significatif après administration de contraste, suggérant une spondylodiscite, et la décision a été prise d'hospitaliser la patiente.
+
+Lors de son admission, elle est restée afébrile, sans signe de leucocytose, avec seulement une CRP de 5,8 mg/j. Des hémocultures, des sérologies de Brucella et de Salmonella ont été demandées. Des hémocultures, des sérologies Brucella et Salmonella ont été demandées, qui se sont révélées négatives, et il a finalement été décidé de procéder à une FNA guidée par CT du disque intervertébral. La culture de ces échantillons a révélé la présence de staphylocoques à coagulase négative, ce qui a permis de suspecter une entrée cutanée probable par acupuncture. Un traitement antibiotique a été instauré avec de la teicoplanine et de la ceftazidime pendant 10 jours, puis de la ciprofloxacine et de la clindamycine pendant 3 mois en ambulatoire.
+
+Après sa sortie de l'hôpital, le patient a poursuivi son traitement oncologique selon le schéma précédent avec une bonne réponse, mais la douleur persistait principalement dans la région sacro-iliaque avec une EVA de 6/10 malgré un traitement analgésique avec un opioïde majeur et de la prégabaline, ainsi que des infiltrations L5-S1, de sorte qu'il a été décidé de réaliser une arthrodèse L4-S1 avec une large libération postéro-latérale, ce qui a conduit à une amélioration clinique marquée.
+
+Actuellement, le patient poursuit le même traitement et conserve une réponse partielle.

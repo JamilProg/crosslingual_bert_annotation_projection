@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 19 ans ayant des antécédents de mégacôlon aganglionnaire compatible avec une maladie de pseudohirschprung, qui a été opérée à l'âge de trois ans. La patiente a débuté en septembre 2008 par des douleurs cervicales et un stridor en décubitus pour lesquels elle a été adressée au service de rééducation.
+
+Examen physique
+L'examen physique a révélé, outre un habitus marfanoïde et une scoliose évidente, la présence d'un nodule granuleux dur et irrégulier au niveau du lobe thyroïdien droit, et de multiples adénopathies cervicales de tailles diverses, constantes et bilatérales, pouvant atteindre 1 cm. L'auscultation cardio-pulmonaire était normale et l'abdomen, qui présentait des cicatrices chirurgicales antérieures, ne montrait aucun signe pathologique.
+Les signes vitaux étaient normaux.
+
+Examens complémentaires
+- Échographie thyroïdienne cervicale : hyperplasie thyroïdienne bilatérale avec motif multinodulaire hétérogène, calcifications pléomorphes et multiples adénomégalies bilatérales, cervicales et dans les fosses supraclaviculaires jusqu'à 13 mm.
+- CT cervical-thoracoabdominopelvien : thyroïde hypertrophiée avec plusieurs lésions affectant les deux lobes, de densité hétérogène et avec de petites calcifications, jusqu'à 2,6 cm de diamètre.
+Au niveau thoracique, on observe des masses de tissus mous avec de multiples calcifications, provoquant une diminution du calibre trachéal, s'étendant même à la région parapharyngée droite. Adénopathies médiastinales importantes jusqu'à 1,5 cm, paratrachéales droites, prétrachéales, sous-carénales et hilaires bilatérales. Multiples petites lésions, certaines calcifiées et d'autres de densité hétérogène, évoquant des métastases hépatiques et pulmonaires. Adénopathies pathologiques dans le hile hépatique.
+- IRM abdominale : lésions hépatiques calcifiées peu évidentes à l'IRM. Zone antérieure du LHI évocatrice de métastases. Surrénale gauche, nodule de 16 mm, avec faible prise de contraste, compatible avec un phéochromocytome.
+- FNA de l'adénopathie cervicale : frottis suggérant une métastase d'un carcinome thyroïdien, très probablement d'origine médullaire.
+- Biochimie et hémogramme général : pas d'altération.
+- Calcitonine : >15 100 pg/mL ; CEA 126 ng/mL ; chromogranine A 52 nmol/L.
+- Catécholamines : plasma : A 185, NA 740 pg/ml.
+Dans les urines de 24 heures : A 49 ; NA 82 mg.
+- Étude génétique : porteur de la mutation c.2753T>Cp.M918T dans l'exon 16 du proto-oncogène RET.
+
+Diagnostic
+Syndrome de néoplasie endocrinienne multiple 2B, présentant : carcinome médullaire de la thyroïde IV (mutation M918T dans RET), phéochromocytome non fonctionnel, mégacôlon aganglionnaire compatible avec un pseudohirschprung et une dysmorphie (scoliose et habitus marfanoïde).
+
+Traitement et évolution
+Initialement, il a été décidé de débuter un traitement systémique par sunitinib 50 mg, avec une stabilité de la maladie après trois mois et une tolérance clinique acceptable, présentant une hypertension artérielle de grade 1, un syndrome main-pied de grade 2, une diarrhée de grade 1 et une dermatofolliculite faciale et thoracique de grade 2.
+Devant la persistance du stridor, une thyroïdectomie totale et une lymphadénectomie ont été envisagées, après une surrénalectomie gauche par laparoscopie, avec un diagnostic de carcinome médullaire de la thyroïde pT4a pN1 M1.
+Neuf mois plus tard, la maladie avait progressé jusqu'au niveau osseux, sans détérioration clinique ou analytique, avec des images de faible activité métabolique au PET-CT scan. Il a alors été décidé de poursuivre le traitement par sunitinib en association avec octréotide LAR + acide zolédronique. Un an et demi plus tard, une progression ganglionnaire cervicale a été observée et une ré-intervention a été décidée, ce qui a conduit à l'apparition de diverses complications post-chirurgicales locales. Dans les mois suivants, malgré le maintien d'une maladie radiologiquement stable, dans le contexte d'une élévation progressive des marqueurs tumoraux, il a été décidé de changer le traitement systémique par vandetanib 300 mg, avec lequel elle est actuellement traitée, présentant une excellente réponse biochimique dans l'attente des résultats des examens d'imagerie de réévaluation.

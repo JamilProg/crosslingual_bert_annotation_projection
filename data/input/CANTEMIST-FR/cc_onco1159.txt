@@ -1,0 +1,23 @@
+Anamnèse
+Une femme de 34 ans, sans autre antécédent, s'est présentée en 2008 avec un naevus dans la région scapulaire gauche. L'anatomie pathologique a montré un naevus de Spitz et il lui a été conseillé d'étendre les marges chirurgicales, ce qui n'a pas été fait, et elle n'a pas été suivie par la suite.
+En septembre 2013, elle s'est présentée au service des urgences avec une douleur dans l'hémithorax droit, et une angiographie par tomodensitométrie a été réalisée pour exclure une thromboembolie pulmonaire, ce qui n'était pas le cas. Ce scanner a révélé de multiples adénopathies médiastinales et il a été adressé au service de médecine interne pour des examens complémentaires.
+Un mois plus tard, toujours sans diagnostic, la patiente a ressenti une grosseur sus-claviculaire gauche associée à une asthénie, une anorexie et une perte de poids non quantifiée, et a été admise en médecine interne.
+
+Examen physique
+L'état de performance (ECOG) est de 1. Il convient de noter la présence d'adénopathies latérocervicales infra et supraclaviculaires palpables à gauche, la plus grande mesurant environ 3 x 2 cm, mobiles et de consistance élastique. Le reste de l'examen était normal.
+
+Examens complémentaires
+- Une biopsie a été réalisée (25/10/2013) du ganglion supraclaviculaire gauche avec un mélanome malin.
+- TDM cou-thorax-abdomen-pelvis (4/11/2013) : multiples adénopathies latérocervicales gauches à la jonction des niveaux III-IV de 2 cm et conglomérat adénopathique aux niveaux IV et V de 2,5 cm. Adénopathies multiples dans le médiastin antérieur et supérieur, paratrachéal droit et dans la région axillaire supérieure gauche de 3 cm.
+- Après une biopsie positive pour un mélanome malin, la patiente a été adressée au service d'oncologie.
+
+Diagnostic
+Femme de 34 ans atteinte d'un mélanome malin de stade IV (en raison d'une atteinte des ganglions lymphatiques, TxNxM1a).
+
+Traitement
+Après évaluation de l'état général du patient, du stade et de l'atteinte ganglionnaire exclusive, un traitement par IL-2 à forte dose a été proposé4.
+
+Évolution
+Un traitement par IL-2 a été débuté le 11 novembre 2013, sans avoir terminé le premier cycle d'induction en raison d'une mauvaise tolérance et d'un œdème aigu du poumon secondaire au traitement.
+Un nouveau scanner a été réalisé (2/12/2013), qui a montré une progression de la maladie (apparition d'un épanchement pleural bilatéral, d'un épanchement péricardique et persistance de multiples adénopathies cervicales et thoraciques). Une mutation BRAF a été demandée, avec un résultat positif en novembre 2013. Ce résultat a coïncidé temporairement avec la possibilité d'entrer dans l'usage compassionnel du dabrafenib et du trametinib.
+Le 9 janvier 2014, elle a débuté ce traitement à pleine dose (dabrafenib 150 mg/deux fois par jour et trametinib 2 mg une fois par jour, en continu), avec une bonne tolérance et en obtenant une nette amélioration symptomatique, avec une réduction de la taille des adénopathies sus- et infraclaviculaires et une réponse partielle au scanner de réévaluation à 2 mois. Actuellement, 4 mois après le début du traitement, elle est suivie par la clinique d'oncologie, où elle continue le traitement avec l'inhibiteur de BRAF associé à l'inhibiteur de MEK, sans réduction de dose.

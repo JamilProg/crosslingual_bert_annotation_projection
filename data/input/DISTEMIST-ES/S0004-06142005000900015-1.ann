@@ -1,0 +1,11 @@
+T1	pathologie 588 608	tumor paratesticular
+#1	SNOMED T1	281591005
+T2	pathologie 735 759	proliferación neoplásica
+#2	SNOMED T2	1495041000004108
+T3	pathologie 896 946	rabdomiosarcoma pleomórfico del cordón espermático
+#3	SNOMED T3	721574009
+T4	pathologie 1214 1233	recidivas tumorales
+#4	SNOMED T4	25173007
+T5	pathologie 538 564	afectación retroperitoneal
+#5	SNOMED T5	127154008
+

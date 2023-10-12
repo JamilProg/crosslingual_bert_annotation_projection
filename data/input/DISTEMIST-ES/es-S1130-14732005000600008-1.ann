@@ -1,0 +1,24 @@
+T1	pathologie 60 81	hemiparesia izquierda
+T2	pathologie 116 126	tabaquismo
+T3	pathologie 128 149	hipertensión arterial
+T4	pathologie 151 170	hipercolesterolemia
+T5	pathologie 172 183	peritonitis
+T6	pathologie 200 220	infarto de miocardio
+T7	pathologie 309 356	oclusión de la arteria carótida interna derecha
+T8	pathologie 324 443	arteria carótida interna derecha y estenosis del 60% asociada a pseudoaneurisma en el trayecto cervical de la izquierda
+T9	pathologie 689 819	estenosis que se extendía también sobre la zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
+T10	pathologie 732 819	zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
+T11	pathologie 1108 1123	pseudoaneurisma
+T12	pathologie 1514 1529	pseudoaneurisma
+#1	SNOMED T2	365982000
+#2	SNOMED T3	38341003
+#3	SNOMED T11	443089001
+#4	SNOMED T12	443089001
+#5	SNOMED T4	13644009
+#6	SNOMED T5	48661000
+#7	SNOMED T6	22298006
+#8	SNOMED T8	233964008
+#9	SNOMED T10	22036004+86117002
+#10	SNOMED T1	278287000
+#11	SNOMED T9	233964008
+#12	SNOMED T7	233964008

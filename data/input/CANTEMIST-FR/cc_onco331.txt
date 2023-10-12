@@ -1,0 +1,35 @@
+Anamnèse
+Patient de 79 ans sans antécédents médicaux pertinents. Aucune réaction indésirable aux médicaments.
+Pas d'antécédents familiaux de cancer.
+Elle a consulté aux urgences en septembre 2015 pour des manifestations cliniques subaiguës d'environ un mois d'évolution de lésions maculopapuleuses sur le visage, le tronc, les phalanges et les paupières associées à une faiblesse musculaire généralisée, à prédominance proximale. Elle ne présentait pas de syndrome constitutionnel. Les examens complémentaires réalisés au service des urgences ont révélé un taux de CPK (créatine phosphokinase) de 4 482 U/L et de LDH (lactate déshydrogénase) de 892 U/L, le reste de la biochimie et de l'hémogramme montrant des chiffres normaux.
+
+Examen physique
+Le patient avait un niveau de performance de 1, des lésions maculaires sur les paupières, les pommettes et la paroi thoracique antérieure avec une ulcération de la peau dans la région axillaire gauche et une zone indurée à la queue du sein gauche, mais aucun nodule précis n'a pu être palpé. Sur le plan neurologique, la force des membres supérieurs et inférieurs était de 2/5 au niveau proximal et de 4/5 au niveau distal. Le reste de l'examen physique était normal.
+
+Tests complémentaires
+Le diagnostic de dermatomyosite étant suspecté, il a été admis en médecine interne pour un examen plus approfondi :
+"Les analyses de laboratoire ont montré : CPK 4 482 U/L, GOT (aspartate amino transférase) 159, GPT (alanine amino transférase) 77 et LDH 892 U/L ; l'hémogramme, la coagulation, la sérologie virale hépatique, le complément, les marqueurs tumoraux (CA15.3, CEA, CA125, CA19.9) et l'auto-immunité se situent dans les limites normales.
+"Radiologiquement, la tomodensitométrie (CT) a montré de multiples adénopathies gauches, la plus grande de 10 mm, et un œdème dans le tissu cellulaire sous-cutané au niveau du sein gauche (IM), alors que la mammographie et l'échographie mammaire ont montré un nodule solide irrégulier mesurant 8x10 mm avec de multiples adénopathies gauches significatives allant jusqu'à 7 mm d'épaisseur corticale, ainsi qu'un épaississement cutané dans l'extension axillaire de l'IM. Au niveau du sein droit (MD) dans le quadrant supéro-externe (CSE), il y a un groupe de microcalcifications suspectes.
+"Compte tenu de la suspicion de malignité des lésions observées à l'échographie, une biopsie à l'aiguille a été réalisée avec les résultats anatomopathologiques suivants
+o IM : carcinome canalaire infiltrant, grade histologique (GH) II, récepteurs d'œstrogènes négatifs, récepteurs de progestérone négatifs, protéine Her2 négative et ki67 25%.
+o MD : carcinome canalaire in situ de grade nucléaire 2-3, solide et cribriforme.
+o Adénopathie gauche : positive pour une métastase due à un carcinome d'origine mammaire.
+"Une biopsie cutanée a également été réalisée au niveau de la paroi thoracique antérieure avec une anatomie pathologique compatible avec une dermatomyosite.
+
+Le diagnostic
+Après la réalisation de tous les examens complémentaires, le diagnostic de dermatomyosite est posé si au moins 3 des 5 critères suivants sont remplis, l'apparition des lésions cutanées caractéristiques étant essentielle.
+1 - Faiblesse musculaire proximale et symétrique.
+2. élévation des enzymes musculaires : CPK, LDH, GOT et GPT.
+3.- Altérations électromyographiques compatibles.
+Biopsie musculaire compatible.
+Manifestations cutanées pathognomoniques (papules de Gottron et érythème héliotrope).
+Il s'agit donc d'une dermatomyosite paranéoplasique associée à un carcinome canalaire infiltrant du sein gauche cT4 (en raison de lésions ulcérées) cN+ phénotype triple négatif, stade IIIB et à un carcinome in situ du sein droit.
+
+Traitement
+Compte tenu du diagnostic de dermatomyosite, un traitement par prednisone orale 60 mg/jour a été instauré, avec une amélioration des manifestations cliniques de faiblesse musculaire et une disparition progressive des lésions cutanées, ce qui a permis à la patiente de quitter l'hôpital après 4 jours de traitement et d'être adressée au service ambulatoire d'oncologie pour une évaluation oncologique.
+Lors de la première visite au service d'oncologie, il a été demandé une étude de la fraction d'éjection du ventricule gauche, qui était de 56 %, et une scintigraphie osseuse négative pour une maladie à distance, le tout avant le début du traitement de chimiothérapie néoadjuvante par Paclitaxel-Albumine 125 mg/m2 (nab-Paclitaxel) toutes les semaines aux jours +1, +8, +15, tous les 28 jours.
+
+Evolution
+Après l'administration du premier cycle de chimiothérapie aux jours 1 et 8, il a été admis en médecine interne en raison d'une aggravation clinique consistant en une faiblesse des membres inférieurs l'empêchant de marcher et un trouble de la déglutition, nécessitant l'administration d'immunoglobuline intraveineuse 400mg/kg/jour x 5 doses avec une amélioration objective des symptômes, et il a ensuite été décidé de reprendre le traitement de chimiothérapie et de poursuivre la prednisone orale selon un schéma décroissant.
+Sept jours après avoir recommencé le deuxième cycle de traitement, il a été réadmis dans l'unité d'oncologie en raison de l'aggravation des symptômes de dermatomyosite au niveau des muscles de la déglutition et des muscles respiratoires, en commençant un traitement avec des mégadoses de méthylprednisolone 1g/jour pendant 5 jours avec une évolution lente et torpide, bien qu'avec une légère amélioration, de sorte qu'il a été décidé de recommencer le traitement avec Paclitaxel-Albumine à une dose réduite à 25 % avec un total de 90mg/m2.
+Par la suite, il y a eu une nette aggravation et détérioration de l'état général, plus marquée au niveau respiratoire, avec une augmentation des sécrétions respiratoires qui a conduit à une insuffisance respiratoire, nécessitant une oxygénothérapie à haut débit, une antibiothérapie intraveineuse et des agents antisécrétoires sans aucune réponse. Finalement, une sédation superficielle a été mise en place pour un contrôle adéquat des symptômes et il est décédé 24 heures plus tard.

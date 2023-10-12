@@ -1,0 +1,29 @@
+Anamnèse
+En octobre 2001, on a diagnostiqué chez un homme de 50 ans sans antécédents un mélanome épithélioïde de niveau III de Clark sur l'avant-bras droit (1,5 mm Breslow), avec ulcération et sans satellisation. Un élargissement des marges a été nécessaire et, après avoir reçu le diagnostic de mélanome malin pT2b N0 M0 (stade IIA), il a reçu un traitement adjuvant par interféron (IFN) avec une tolérance régulière (pas de toxicité ≥ grade 3), bien qu'il ait terminé le traitement. Depuis, il est suivi par l'oncologie médicale.
+En décembre 2010, une grosseur a été détectée dans l'aisselle droite. Une lymphadénectomie axillaire a été pratiquée, et 3 ganglions lymphatiques sur 5 présentaient des métastases de mélanome. En février 2011, une TEP-TDM a été réalisée et n'a révélé aucun signe de maladie à distance. À cette époque, elle a signalé une nouvelle douleur mécanique au niveau de l'omoplate et de l'épaule gauche.
+Une scintigraphie osseuse a été demandée, qui s'est révélée négative, ainsi qu'une tomodensitométrie thoracique, qui a révélé un nodule millimétrique non spécifique dans le lobe moyen (LM). Il s'est présenté à un rendez-vous de suivi en septembre 2011.
+
+Examen physique
+Bon état général, ECOG 1. Cicatrice de tumorectomie sur l'avant-bras droit, d'aspect satisfaisant et sans signe de suspicion. Auscultation cardio-respiratoire avec des bruits cardiaques rythmés et une hypoventilation dans l'hémithorax gauche. Abdomen souple et dépressible, non douloureux à la palpation, et membres inférieurs sans œdème.
+
+Examens complémentaires
+" Tomodensitométrie thoracique (9/2011) : plusieurs nodules dans le poumon gauche et un dans le LID d'apparition nouvelle, évoquant une métastase, le nodule du LM restant inchangé.
+"Tomodensitométrie abdominale (9/2011) : nouvelle lésion kystique de 1 cm occupant l'espace hépatique.
+
+Diagnostic
+Mélanome métastatique (T2N2M1).
+
+Traitement
+Vémurafénib 960 mg toutes les 12 heures.
+
+Évolution
+Compte tenu des signes radiologiques de progression de la maladie, une étude mutationnelle a été réalisée sur un échantillon de ganglions lymphatiques, avec un résultat positif pour la mutation BRAFV600E, et un traitement par vemurafenib a été instauré en octobre 2011.
+La maladie a été très bien tolérée et, en avril 2013, elle a obtenu une réponse radiologique complète.
+En février 2014, après plus de deux ans de traitement, un scanner de contrôle a montré une lésion pulmonaire de 13 mm dans le LII qui a été pathologiquement détectée dans le scanner PET-CT (SUVmax 4,4). L'option d'un traitement local a été envisagée par le comité d'oncologie, mais a été écartée.
+Après avoir observé une aggravation au scanner de mai 2014, avec une atteinte adénopathique médiastinale, une augmentation du nodule pulmonaire connu (25 x 18 mm), plus deux nouveaux nodules et de multiples plaques pleurales, il a débuté un traitement par ipilimumab en juin 2014.
+Deux semaines plus tard, il a consulté pour une dyspnée à l'effort minime depuis plusieurs jours. Une radiographie thoracique a été demandée, qui a montré un épanchement pleural gauche massif nécessitant une thoracentèse et une pleurodèse ultérieure.
+La cytologie du liquide pleural s'est révélée négative pour les cellules néoplasiques et il a été décidé de poursuivre le traitement par ipilimumab. Cependant, le patient a connu une détérioration clinique (ECOG 2), nécessitant une augmentation de l'analgésie de troisième stade avec des doses de 100 mcg de fentanyl dans des patchs et un sauvetage avec 200 mcg de fentanyl sublingual.
+En septembre 2014, il signale une nouvelle aggravation de sa dyspnée malgré la stabilité de l'épanchement sur les radiographies, si bien qu'un nouveau scanner de contrôle est demandé, qui montre une nouvelle progression tumorale avec apparition de nouvelles masses pleurales, d'une seule métastase surrénalienne gauche de novo, d'adénopathies médiastinales, hilaires et abdominales. LDH : 720 UI/l.
+Compte tenu de ces résultats, un usage compassionnel du pembrolizumab a été demandé et a débuté en novembre 2014.
+Après trois cycles, il était asymptomatique, ECOG 0, et ne nécessitait pas d'analgésie de base, seulement des AINS à la demande.
+De plus, des améliorations analytiques (4/2015 : LDH 146 UI/l) et radiologiques ont été notées, avec une diminution de l'épanchement. Il est actuellement en vie, asymptomatique, LDH normales, réponse tumorale maintenue et sous traitement actif par pembrolizumab.

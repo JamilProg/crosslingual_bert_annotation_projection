@@ -1,0 +1,45 @@
+Anamnèse
+Femme de 48 ans, sans allergie médicamenteuse connue, bouchère de profession, fumeuse de 5 paquets/an, avec des antécédents médicaux de rhinite allergique et de migraine avec aura visuelle. Elle a été opérée d'une fistule sacrée. Sous traitement médical quotidien par lévonorgestrel/éthinylestradiol.
+Diagnostiquée en décembre 2017 d'un adénocarcinome du col utérin avec croissance exophytique de stade IIB en raison d'un épisode de métrorragies. Les examens complémentaires suivants ont été réalisés :
+" Échographie transvaginale : utérus en antéflexion avec endomètre linéaire. Une masse d'environ 50 x 32 mm a été visualisée dans le col de l'utérus.
+"Biopsie cervicale : fragments d'adénocarcinome modérément différencié, probablement d'origine endocervicale. Pas d'invasion lymphovasculaire ou périneurale. Etude immunohistochimique : ER : négatif, RP : négatif, P 16 : intensément positif et diffus, vimentine : négatif.
+"IRM du bassin : adénopathies d'aspect pathologique, dont la plus importante se situait dans l'axe iliaque gauche et mesurait jusqu'à 20 mm.
+Le cas a été présenté au comité multidisciplinaire des tumeurs et un traitement concomitant par cisplatine et radiothérapie a été décidé.
+
+Maladie actuelle
+Dans l'attente d'un traitement, la patiente s'est présentée au service des urgences avec des céphalées pulsatiles intenses, des nausées et une photophobie qui duraient depuis trois jours et qui ont été ultérieurement associées à une photopsie, ainsi qu'à une douleur VAS 9/10 et à une quadrantanopsie temporale inférieure gauche.
+
+Examen physique
+ECOG-PS1, auscultation cardio-pulmonaire sans signe pathologique. Examen abdominal et pelvien : pas de masses ou de mégalithes palpables, légère douleur à la palpation dans la fosse iliaque gauche sans signe d'irritation péritonéale, présence de bruits péristaltiques. Examen neurologique : conscient, orienté dans les trois sphères. Les pupilles sont isochores et normoréactives. Altération de la campimétrie par confrontation : quadrantanopsie temporale inférieure gauche. Légère pronation de la main droite en Marré. Pas d'autres signes de focalité neurologique. Pas de dysmétrie ni de dysdiadochokinésie. Romberg négatif.
+Démarche en tandem sans altération.
+
+Examens complémentaires
+Examens complémentaires réalisés au service des urgences :
+" Scanner cérébral de référence à l'admission (23/1/2018) : aucune image compatible avec une hémorragie intra ou extra-axiale ou une lésion ischémique aiguë n'est mise en évidence. Aucune image compatible avec un processus expansif n'a été identifiée.
+"Examens de laboratoire : biochimie et hémogramme sans altération. Coagulation normale à l'exception d'un fibrinogène élevé de 657 mg/dl (200-400 mg/dl).
+"Radiographie du thorax : pas d'anomalies pleuroparenchymateuses aiguës. ECG : rythme sinusal à 84 bpm, pas d'anomalie de repolarisation.
+
+Diagnostic
+Altération visuelle à l'étude/adénocarcinome du col de l'utérus au stade IIB.
+
+Traitement
+Une fois le patient admis dans le service de neurologie, le diagnostic étiologique a été posé au moyen d'examens complémentaires : lésions cérébrales multiples compatibles avec un accident vasculaire cérébral ischémique d'origine veineuse dû à une thrombose à plusieurs niveaux, secondaire à un syndrome d'hypercoagulabilité paranéoplasique : le syndrome de Trousseau.
+Pour cette raison, un traitement par anticoagulation indéfinie à l'héparine de bas poids moléculaire a été décidé.
+
+Évolution
+Au vu des résultats décrits ci-dessus, il a été décidé d'hospitaliser le patient en neurologie pour compléter l'étude. En ce qui concerne les résultats analytiques, on retiendra ce qui suit :
+" Profil cardioembolique dans les limites de la normale sauf : lipoprotéine A ↑69,7, LDL ↑ 107,4.
+" NFS dans les limites de la normale sauf : albumine ↓ 2,93, ESR ↑30, leucocytose jusqu'à 20 300, avec neutrophilie. LDH ↑565, GOT↑50, GPT↑48, CRP initiale ↑15,42, puis 31,48, D-dimère ↑↑36,449 qui après anticoagulation passe à 14,398.
+"Marqueurs tumoraux : CEA, alpha-fœtoprotéine, Ca 15,3 normal, Ca 125 ↑85,7.
+" Tomodensitométrie cérébrale de contrôle : zones hypodenses localisées au niveau pariétal et occipital droit, évoquant des infarctus veineux multiples.
+" IRM cérébrale + angio-IRM : zone hyperintense à la fois en T2 et en Flair située au niveau cortico-pariétoccipital droit, montrant une restriction de la diffusion de l'eau, liée à un processus ischémique aigu. Multiples zones d'hypersignal en T2 et Flair au niveau cortical bilatéral, liées à des processus vasculaires aigus.
+"TEP-TDM : lésion hypermétabolique du col de l'utérus s'étendant au fond du sac vaginal droit, avec contact avec la paroi postérieure de la vessie, du rectum et infiltration du mésorectum. Multiples adénopathies hypermétaboliques rétrocrurales, rétropéritonéales et supraclaviculaires droites.
+"Artériographie cérébrale : défauts de remplissage des sinus veineux transverse et sigmoïde à différents niveaux et également dans la presse d'Hérophile.
+Après trois jours, il a soudainement souffert d'une augmentation des maux de tête accompagnée d'une absence totale de vision. Le tableau clinique est compatible avec une cécité corticale. Il a également développé une héminégligence sensorielle de l'hémisphère gauche. Au cours de son séjour dans le service de neurologie, il a développé une série de complications :
+"Douleur précordiale intense, pour laquelle un possible syndrome coronarien a été étudié. Elle a présenté une élévation des enzymes cardiaques (troponines) et a été évaluée par un cardiologue qui a réalisé un électrocardiogramme. Le tableau étant plus évocateur d'une thromboembolie pulmonaire, une angio-TDM a été réalisée, dont le résultat n'était pas compatible avec ce diagnostic.
+"Douleur abdominale généralisée, avec signes d'irritation péritonéale, vomissements du contenu alimentaire et fièvre jusqu'à 38º. Un nouveau scanner abdominal a été demandé, montrant une zone hypodense dans le parenchyme splénique, en relation avec la zone d'infarctus, ainsi que des collections péripancréatiques compatibles avec une pancréatite aiguë. Un traitement empirique au carbapénème a été instauré et la patiente a été examinée par le service de chirurgie générale et digestive. Le premier diagnostic suspecté était une pancréatite ischémique, qui a été traitée par fluidothérapie, régime alimentaire et antibiothérapie compte tenu du pic de fièvre.
+"Un syndrome paroxystique de dépersonnalisation et de désorientation transitoire a été étudié et considéré comme une possible crise focale dans le contexte des lésions cérébrales et de l'utilisation d'un traitement antibiotique qui a réduit le seuil épileptogène.
+"Enfin, une collaboration avec le service d'oncologie médicale a été demandée : au vu des derniers résultats du PET-CT, un diagnostic de carcinome cervical de stade IV (adénopathies sus-claviculaires gauches et infiltration mésorectale) a été posé, pour lequel un traitement par chimiothérapie palliative et administration d'héparine de bas poids moléculaire a été décidé.
+Etude étiologique : lésions cérébrales multiples compatibles avec un accident vasculaire cérébral ischémique d'origine veineuse par thrombose multi-niveaux, secondaire à un syndrome d'hypercoagulabilité paranéoplasique : syndrome de Trousseau.
+Dans le service d'oncologie médicale
+Lors de son admission dans le service, elle a commencé un traitement par radiothérapie à visée hémostatique sur le bassin, obtenant une rémission des hémorragies. Pendant son séjour, des épisodes fréquents de céphalées et de déconnexion ont été interprétés comme une cause vasculaire probable. Progressivement, elle a présenté une détérioration clinique et l'apparition de symptômes réfractaires au traitement médical (douleur, agitation, agitation, etc.), de sorte que finalement et en accord avec la famille, compte tenu de la gravité de la situation clinique et du mauvais pronostic, une sédoanalgésie palliative et un traitement de confort et de contrôle des symptômes ont été mis en place. Elle est finalement décédée.

@@ -1,0 +1,20 @@
+T1	pathologie 39 48	chalazión
+T2	pathologie 51 61	blefaritis
+T3	pathologie 385 394	madarosis
+T4	pathologie 529 552	adenopatía preauricular
+T5	pathologie 606 612	lesión
+T6	pathologie 641 668	carcinoma sebáceo palpebral
+T7	pathologie 821 838	infiltración ósea
+T8	pathologie 945 955	metástasis
+T9	pathologie 1015 1026	adenopatías
+T10	pathologie 1208 1230	insuficiencia cardíaca
+#1	SNOMED T1	1482004
+#2	SNOMED T2	41446000
+#3	SNOMED T8	128462008
+#4	SNOMED T9	30746006
+#5	SNOMED T4	127078001
+#6	SNOMED T10	84114007
+#7	SNOMED T6	1145245004
+#8	SNOMED T3	34887006
+#9	SNOMED T5	417163006
+#10	SNOMED T7	94222008

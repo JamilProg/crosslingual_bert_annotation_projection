@@ -1,0 +1,32 @@
+Anamnèse
+Femme de 72 ans sans antécédents médicaux ou chirurgicaux intéressants à l'exception d'un diabète sucré de type 2, d'une dyslipidémie et d'une hypertension sous traitement médical.
+En octobre 2016, elle consulte son médecin généraliste pour l'apparition de lésions érythémateuses sur des zones photoexposées (les deux bras, les mains et progressivement l'hémithorax supérieur, le visage et le cuir chevelu). Il a commencé un traitement à la prednisone 10 mg/24 h avec peu d'amélioration. En raison de la persistance et de l'aggravation des symptômes, elle a été évaluée par la dermatologie en décembre 2016, en augmentant la prednisone à 30 mg/24 h et en effectuant une biopsie cutanée à l'emporte-pièce du bras, qui était compatible avec une dermatite d'interface de type dégénérescence vacuolaire et un infiltrat inflammatoire lymphocytaire, avec une immunofluorescence négative, et un lupus érythémateux subaigu n'a pas pu être exclu. L'analyse rhumatologique a également révélé la présence d'un ANAS+ avec une spécificité anti-Ro.
+Après avoir augmenté la dose de corticostéroïdes, les symptômes cutanés initiaux se sont améliorés, mais après avoir diminué la dose, le patient a commencé à souffrir d'une hypoparésie franche des deux membres inférieurs, d'une dysphagie progressive, d'une régurgitation nasale et d'une altération de la voix. C'est pourquoi il a été décidé d'hospitaliser le patient pour étude et traitement.
+
+Examen physique
+ECOG 1, conscient et orienté. Bonne coloration cutanéo-muqueuse. Tension artérielle 162/91 mm Hg. Poids 63,700 kg. Tête et cou : voix nasillarde. Adénopathies supraclaviculaires centimétriques. Pas d'adénopathie latéro-cervicale ou axillaire. Éruption érythémateuse étendue sur le cuir chevelu, les paupières, la région malaire, l'espace latérocervical V, le décolleté, les avant-bras, le dos et la paume des mains, avec des papules de Gottron sur les articulations interphalangiennes proximales. Lésions périunguéales et plaque érythémateuse sur la cuisse droite. Livedo reticularis sur l'abdomen. Auscultation cardiaque : rythmique à 95 bpm. Auscultation pulmonaire : bonne ventilation globale. Abdomen souple et dépressible, non douloureux, non tympanique, bruits hydro-aériques normaux, pas de mégalithes. Membres inférieurs sans œdème ni arthrite. Force : 4/5 au niveau proximal de la jambe droite, 3+/5 au niveau proximal de la jambe gauche. Force distale normale.
+
+Examens complémentaires
+Examens de laboratoire : biochimie : GOT 88, CPK 945, LDH 514, le reste normal. ENA positif. Anticorps antimyosite : Tif1gamma positif, Ro52 positif. Sérologie négative. MT : CA 125 67,5.
+Mammographie bilatérale et examen gynécologique : aucun résultat significatif.
+Échographie transvaginale et abdominale : utérus myomateux. Dans la zone annexielle gauche, lésion solide irrégulière mesurant 79 x 51 x 68 mm. Quantité minime de liquide libre.
+CT CTAP : adénopathies supraclaviculaires gauches de 3 cm, supradiaphragmatiques de 3 cm, cœliaque péritronchique et dans le ligament hépatoduodénal. Épanchement pleural bilatéral minime. Adénopathie rétropéritonéale gauche interaortocave et para-aortique. Masse solide de 10 cm dans l'annexe gauche.
+IRM pelvienne : masse pelvienne solide hétérogène dans le tube ovarien gauche mesurant 43 x 90 x 75 mm, avec des zones nécrotiques internes et une infiltration du corps utérin. Lymphadénopathie pelvienne iliaque gauche pathologique. Nodule adjacent au fascia mésorectal droit. Petite quantité de liquide libre.
+Biopsie de l'adénopathie sus-claviculaire gauche : carcinome peu différencié, avec immunohistochimie compatible avec une origine ovarienne (positive pour : AE1/AE3, CK7, CA-125, WT-1, œstrogènes, progestérone ; négatif pour : TTF1, CK20, GCPDF15, CDX2, P40, CEA, synaptophysine).
+Cytologie : atrophie épithéliale. Négatif pour les cellules malignes.
+Échocardiographie transthoracique : légère hypertrophie concentrique avec fonction systolique préservée. FE 69,5 %. IM et TR minimes.
+
+Diagnostic
+Sur la base de l'évolution clinique et des résultats analytiques, radiologiques et pathologiques, le tableau est interprété comme une dermatomyosite paranéoplasique, avec atteinte cutanée et musculaire, dans le contexte d'une maladie carcinomateuse ovarienne disséminée.
+
+Traitement
+Un traitement immunosuppresseur a été instauré avec des impulsions de méthylprednisolone intraveineuse à la dose de 250 mg pendant 3 jours, suivies d'immunoglobulines intraveineuses pendant 4 jours, puis de tacrolimus, avec une amélioration progressive des symptômes cutanés, de la déglutition, de la phonation et également de la faiblesse musculaire. Elle est sortie de l'hôpital avec 5 mg/24h de tacrolimus et 10 mg/24h de prednisone.
+Elle a également été évaluée dans le service d'oncologie médicale, avec un ECOG 1, et une chimiothérapie palliative a été proposée pour le néoplasme sous-jacent à l'origine des symptômes paranéoplasiques.
+Avec une surface corporelle de 1,51 et une clairance rénale de 90 ml/min (formule de Cockcroft et Gault), elle a commencé le 1-03-2017 un traitement de chimiothérapie selon le carboplatine 6-AUC (637 mg intraveineux) et le paclitaxel 175 mg/m2 (264 mg intraveineux) tous les 21 jours.
+
+Evolution
+Entre le 1-03-2017 et le 30-05-2017 (à ce jour), la patiente a reçu un total de cinq cycles de chimiothérapie, avec une bonne tolérance, sans nécessiter de retard ou de réduction de dose.
+Du point de vue clinique, elle a connu une nette amélioration, avec récupération progressive de l'équilibre musculaire global, résolution de la dysphagie-odynophagie, du timbre de voix, de l'œdème des paupières et des lésions cutanées, avec seulement des restes de papules de Gottron et quelques plaques sur les bras et le décolleté.
+D'un point de vue analytique, une normalisation des marqueurs tumoraux a été observée à partir du 3ème cycle, ainsi qu'une diminution des enzymes musculaires.
+Du point de vue radiologique, après le 3e cycle en mai 2017, la CTAP a montré une réponse partielle de 45% du nombre total de lésions cibles, avec une diminution de la taille de la masse dans l'ovaire gauche (à 39 mm) et de l'atteinte ganglionnaire (diminution des ganglions supraclaviculaires gauches, désormais millimétriques, et des ganglions péritronchocéliaques, du hile hépatique et para-aortiques rétropéritonéaux gauches).
+Il a également été possible de réduire la dose de prednisone (à 5 mg/24 h) et de tacrolimus (à 3 mg/24 h).

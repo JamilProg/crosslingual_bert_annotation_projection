@@ -1,0 +1,18 @@
+T1	pathologie 328 345	obesidad moderada
+T2	pathologie 913 946	tumoración en el área suprarrenal
+T3	pathologie 997 1017	metástasis hepáticas
+T4	pathologie 1211 1248	afectación ganglionar retroperitoneal
+T5	pathologie 1252 1262	metástasis
+T6	pathologie 1315 1332	trombosis tumoral
+T7	pathologie 1719 1780	suprarrenal derecha, evidenciándose una voluminosa tumoración
+T8	pathologie 2770 2800	invasión de tejido suprarrenal
+T9	pathologie 2862 2884	LEIOMIOSARCOMA DE CAVA
+#1	SNOMED T9	443719001
+#2	SNOMED T2	127021009
+#3	SNOMED T1	414916001
+#4	SNOMED T3	94381002
+#5	SNOMED T7	237783006
+#6	SNOMED T4	127154008
+#7	SNOMED T5	128462008
+#8	SNOMED T8	94161006
+#9	SNOMED T6	442078001

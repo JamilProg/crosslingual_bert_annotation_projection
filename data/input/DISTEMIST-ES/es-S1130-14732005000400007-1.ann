@@ -1,0 +1,20 @@
+T1	pathologie 138 157	cefalea hemicraneal
+T2	pathologie 421 435	visión borrosa
+T3	pathologie 484 492	diplopia
+T4	pathologie 533 549	ptosis palpebral
+T5	pathologie 604 628	defecto pupilar aferente
+T6	pathologie 930 945	lesión quística
+T7	pathologie 1250 1256	lesión
+T8	pathologie 1567 1598	esclerosis del hueso esfenoidal
+T9	pathologie 2013 2038	quiste óseo aneurismático
+T10	pathologie 2136 2199	lesión residual en ambas regiones laterales y celdas etmoidales
+#1	SNOMED T9	203468000
+#2	SNOMED T4	11934000
+#3	SNOMED T8	118945008
+#4	SNOMED T6	441457006
+#5	SNOMED T3	24982008
+#6	SNOMED T1	37796009
+#7	SNOMED T2	246636008
+#8	SNOMED T5	232121005
+#9	SNOMED T7	417163006
+#10	SNOMED T10	105974005

@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 60 ans, ex-fumeuse de 40 paquets/an, présentant une athérosclérose asymptomatique de l'artère iliaque gauche et une hypothyroïdie résiduelle après ablation d'un nodule thyroïdien. Elle n'a pas signalé de diabète sucré ni de traitement limitant la motilité gastro-intestinale.
+Suivi en gastro-entérologie depuis 3 mois pour épigastralgie, dysphagie progressive pour les liquides et les solides, exacerbation de la constipation chronique malgré le traitement habituel et perte de 15 kg de poids. Il a signalé des régurgitations d'aliments et des douleurs abdominales occasionnelles.
+
+Examen physique
+ECOG 1, indice de masse corporelle (IMC) 17,6. Abdomen : bruits hydro-aériques diminués, abdomen à peine distendu, tympanique à la percussion, inconfortable à la palpation profonde du flanc gauche. Aucune masse ou mégalithe n'est palpable. L'examen neurologique est normal.
+
+Examens complémentaires
+Examens de laboratoire : légère hypoprotéinémie.
+Manométrie œsophagienne : sphincter œsophagien inférieur normotendu, asymétrique, avec des relaxations courtes ou absentes.
+Apéristaltisme du corps de l'œsophage, sphincter supérieur de l'œsophage normal. Transit gastro-intestinal : suggère un transit lent avec prédominance distale.
+Étude endoscopique : œsophagite peptique de grade B, rétention gastrique et polype plat dans l'angle hépatique (adénome tubulaire).
+Tomodensitométrie : adénopathies au niveau du hile droit et du lobaire inférieur droit et adénopathies sous-carénaires non spécifiques. Estomac distendu, pas d'épaississement de la paroi gastrique. Cadre colique avec selles abondantes.
+Tomodensitométrie crânienne : normale.
+Compte tenu des résultats des examens d'imagerie et des manifestations cliniques sous-jacentes, une implication paranéoplasique est suspectée à ce stade. Une ponction-aspiration à l'aiguille fine (AAF) de l'adénopathie sous-carénale a été demandée, qui a montré une cytologie de carcinome à petites cellules. Les marqueurs tumoraux étaient normaux, à l'exception de l'énolase 17,5 et de la chromogranine A 122,6. L'étude des anticorps onconeuronaux est positive (Anti-Hu positif). La TEP/TDM confirme la prise anormale dans le hile droit et l'adénopathie sous-carcinale, sans maladie à d'autres niveaux. Compte tenu de la nature atypique du cas, les résultats cytologiques ont été confirmés par médiastinoscopie.
+
+Diagnostic
+Carcinome pulmonaire à petites cellules, cTxN2M0, avec pseudo-obstruction intestinale chronique due à une atteinte du tractus gastro-intestinal d'origine paranéoplasique.
+
+Traitement
+Schéma carboplatine AUC 5 jour 1 et étoposide (VP16) 100 mg/m2 1-3 tous les 21 jours pendant 4 cycles avec radiothérapie externe thoracique séquentielle (recevant une dose totale de 60 Gy) et irradiation crânienne prophylactique.
+
+Évolution
+À la fin du traitement séquentiel, il a présenté des symptômes compatibles avec le syndrome de Guillain-Barré, confirmés par une ponction lombaire et un électromyogramme (EMG). Il a été traité par immunoglobuline iv avec une bonne évolution. Actuellement, en réponse complète, il marche sans aide et persiste avec une tendance à la constipation.

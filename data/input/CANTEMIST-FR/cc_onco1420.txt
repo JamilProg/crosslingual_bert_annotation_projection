@@ -1,0 +1,28 @@
+Anamnèse
+Le patient était un homme de 63 ans, sans allergies ni antécédents médicaux ou chirurgicaux.
+Le 08/03/13, un adénocarcinome de la jonction gastro-œsophagienne uT3uN2 cM1 (1 lésion costale à la tomographie par émission de positons [TEP-CT]) a été diagnostiqué, et le comité des tumeurs a décidé de commencer une chimioradiothérapie, cisplatine 75 mg/m2 jour 1 + 5-fluorouracile en perfusion continue 750 mg/m2 jours 1-5, via un réservoir veineux central. Les complications du traitement comprenaient une mucosite de grade 2 et une candidose oropharyngée traitée par nystatine. Deuxième et dernier cycle le 12/04/13. En attente d'une radiothérapie sur la lésion costale et d'une réévaluation en vue d'un sauvetage chirurgical.
+Elle s'est présentée aux urgences pour une fièvre > 38,5, sans prédominance de fièvre dans la journée et de frissons depuis 5 jours, des selles molles sans mucus ni sang depuis 4 jours, et s'est vue prescrire de la ciprofloxacine orale en ambulatoire, mais en raison de la persistance de la fièvre, elle est retournée aux urgences et a été admise pour une neutropénie de grade 3 (800 polynucléaires neutrophiles).
+
+Examen physique
+TA 114/67, T 39,5, FC 97, SO 97 %. État général moyen. Hydraté. Frissons. ORL : pas d'œdème ni de suppuration ni de muguet. Pas de gingivite. Pas de signes d'infection du réservoir veineux. Cardio-pulmonaire : rythmé, pas de souffle.
+Murmure vésiculaire conservé, pas de surajout. Abdomen : bruits hydro-aériques présents, doux, dépressibles, non douloureux. Pas de masses ou de mégalithes palpables. Pas de péritonisme. Pouls palpables. Remplissage capillaire < 3 sec. Glasgow 15, orienté. Pas de signes de méningisme. Nerfs crâniens préservés. Pas de focalité sensori-motrice.
+Démarche normale.
+
+Examens complémentaires
+Radiographie thoracique et abdominale : aucun résultat.
+Hb 10,8 mg/dl neutrophiles 800. Frottis sanguin sans altération morphologique. Biochimie normale. PCR 20,4. Sédiment et culture d'urine négatifs (-). Hémocultures périphériques et cathéter central (-). Culture de selles (aérobie, parasites et clostridium) x 3 (-). Extrémité du cathéter central (-).
+Galactomannane, IFN Gamma, BAAR, sérologie pour cytomégalovirus, Brucella, Mycoplasma, Ricketssia, Coxiella (-).
+Tomodensitométrie thorax/abdomen/pelvis : foyer d'infection (-).
+Liquide céphalo-rachidien (LCR) : (-).
+Aspiration de moelle : normocellulaire. Biopsie : granulomatose des beignets (fièvre Q) confirmée par PCR.
+
+Diagnostic
+Adénocarcinome de la jonction gastro-œsophagienne.
+Neutropénie fébrile d'origine inconnue.
+Indice MASCC (Multinational Association For Supportive Care in Cancer) de 18.
+
+Traitement
+Séquentiellement : pipéracilline/tazobactam ; méropénème et amikacine ; méropénème, linézolide et fluconazole ; scellé avec de la vancomycine ; tigécycline, métronidazole etilafungine ; et paracétamol, métamizole et naproxène.
+
+Evolution
+Vu la persistance de la fièvre malgré l'antibiothérapie et une étude systématique négative, le cathéter a été scellé avec de la vancomycine et, vu l'absence de réponse, il a été décidé de le retirer. Lorsque la fièvre est réapparue après 48 heures, du naproxène a été prescrit et la patiente a été adressée au service des maladies infectieuses pour un examen plus approfondi. Compte tenu de la persistance de la fièvre et des tests négatifs, l'antibiothérapie a été interrompue et une biopsie de la moelle osseuse a été demandée.

@@ -1,0 +1,38 @@
+Anamnèse
+L'épouse du patient a indiqué qu'une tomodensitométrie (TDM) avec contraste avait été réalisée le même jour que l'analyse et qu'elle souffrait d'une diminution de l'appétit et de la consommation d'eau depuis 5 jours, avec une diminution de la diurèse dans les jours précédant l'admission. Aucun cas de diarrhée, de vomissement, de toux, d'expectoration, de fièvre ou de syndrome mictionnel n'a été signalé.
+
+Examen physique
+Les signes vitaux sont normaux (tension artérielle de 126/69 mm Hg, fréquence cardiaque de 81 bpm, afebrile, Sat 94 % avec une fraction d'oxygène inspirée de 21 %), l'auscultation cardio-pulmonaire ne révèle aucun signe pathologique, et du reste de l'examen physique du patient, seuls la sécheresse des muqueuses et le signe du pli positif doivent être notés.
+
+Tests complémentaires
+L'analyse de sang ordinaire a révélé un taux de créatinine de 4,42 mg/dl et un taux d'urée de 199 mg/dl.
+Une nouvelle prise de sang a été effectuée au service des urgences, confirmant la détérioration de la fonction rénale, et des analyses d'urine et de gaz du sang ont été effectuées.
+Tomographie axiale informatisée du thorax et de l'abdomen :
+Rapport
+Le thorax
+"Augmentation du volume de la masse pulmonaire connue située dans le segment I/II gauche et s'étendant jusqu'au hile, avec des diamètres d'environ 6,4 x 5 x 3,2 cm (sagittal, dc et transverse).
+"Occupation de l'espace alvéolaire avec bronchogramme aérien dans le segment VI droit sans changements pertinents.
+" Opacité parenchymateuse pseudonodulaire en verre dépoli de localisation sous-pleurale dans le segment postérieur du DSL, de 6 mm de plus grand diamètre, persistant sans modification significative de taille.
+"Aucun nouveau nodule pulmonaire n'a été observé.
+"Adénopathies médiastinales, ainsi que densité des tissus mous situés dans la fenêtre aorto-pulmonaire, sans changements pertinents.
+"Diminution de l'épanchement péricardique.
+"Pas d'épanchement pleural.
+"Gynécomastie bilatérale.
+Partie supérieure de l'abdomen
+"Kystes hépatiques connus dans la LHD et la LHI inchangés. Pas de nouvelles lésions hépatiques focales. Granulome calcifié dans le segment hépatique VI.
+"Épaississement surrénalien bilatéral de morphologie pseudonodulaire du côté gauche de 15 mm, inchangé.
+"Vésicule biliaire, voies biliaires, pancréas, rate, rein gauche et surrénale droite inchangés.
+"Calculs intrarénaux droits non obstructifs inchangés. Kyste parapelvien droit.
+"Pas d'hydronéphrose. Pas d'adénopathie rétropéritonéale.
+"Modifications dégénératives du squelette axial sans autres altérations évaluables par tomodensitométrie.
+"Impression diagnostique : progression de la maladie pulmonaire. Amélioration discrète de l'épanchement péricardique. Reste de l'étude sans changement pertinent par rapport à l'étude précédente avec laquelle elle est comparée.
+
+Diagnostic
+Nous avons affaire à un patient ayant des antécédents de cardiopathie ischémique chronique et d'infarctus, traité par immunothérapie pour la progression d'un cancer du poumon localement avancé, chez qui on diagnostique une insuffisance rénale aiguë de grade III1, avec une hyperkaliémie de grade III1, une augmentation de la créatinine de grade III1 et une acidose métabolique de grade III1.
+Chez un patient traité par immunothérapie (anti-PD-1 dans ce cas) et présentant une insuffisance rénale aiguë, nous devrions suspecter qu'il s'agit d'un effet secondaire et commencer un traitement par corticostéroïdes le plus tôt possible. Dans notre cas, nous avons des antécédents de déshydratation, le diagnostic différentiel serait donc entre une insuffisance rénale aiguë pré-rénale évoluant vers une nécrose tubulaire aiguë et une néphrite interstitielle aiguë due au pembrolizumab.
+
+Traitement
+Le traitement débute par une fluidothérapie (3 000 cc de sérum physiologique), des diurétiques (furosémide 20 mg/8 h par voie intraveineuse), de l'insuline, du gluconate de calcium, du bicarbonate, une corticothérapie à la dose de 1 mg/kg/jour de méthylprednisolone.
+
+Évolution
+L'évolution est favorable après le début du traitement par corticoïdes (créatinine 1,64 mg/dl le dernier jour de l'admission, 1,21 mg/dl lors du dernier contrôle ambulatoire), de sorte qu'il a été autorisé à quitter l'hôpital avec de la prednisone par voie orale selon un schéma décroissant pendant un mois. Il est actuellement traité par paclitaxel, dans l'attente d'un examen d'imagerie pour évaluer la maladie.

@@ -1,0 +1,28 @@
+Anamnèse
+Le patient était un homme de 54 ans, fumeur actif (AI > 35 paquets-années), buveur modéré, souffrant d'hypertension artérielle et d'hypercholestérolémie sous traitement pharmacologique, avec un diagnostic récent de diabète sucré de type 2 comme antécédents personnels pertinents.
+Le patient s'est présenté au service des urgences avec un tableau clinique évoluant depuis trois mois, consistant en un syndrome général avec perte de poids non quantifiée, accompagné d'une polyurie et d'une polydipsie de 8 à 10 l/jour.
+
+Examen physique
+À l'examen physique, aucun ganglion lymphatique périphérique, masse ou nodule mammaire n'était palpable. L'auscultation respiratoire a révélé une diminution du murmure vésiculaire bilatéral, sans autres bruits. Le reste de l'examen physique par appareil, y compris l'examen neurologique, n'a révélé aucune altération.
+
+Tests complémentaires
+Résultats des examens effectués au service des urgences :
+"Radiographie du thorax : densité accrue mal définie dans le LSI.
+"Les tests de laboratoire ont montré une hypokaliémie sévère avec un taux de potassium de 2,06 mEq/l.
+Le patient a été admis pour terminer l'étude et les examens complémentaires suivants ont été réalisés :
+"CT TAP : masse pulmonaire en LSI d'environ 6 cm de plus grand diamètre, avec des limites imprécises infiltrant la bifurcation de l'artère pulmonaire gauche et la plèvre médiastinale. Adénopathies médiastinales bilatérales et supraclaviculaires jusqu'à 23 mm de diamètre. Nodule de 31 mm dans la surrénale droite correspondant à une métastase.
+"FNA échoguidée de l'adénopathie supraclaviculaire droite avec résultat anatomopathologique de métastase d'un carcinome à petites cellules peu différencié (carcinome à petites cellules).
+"CT scan crânien : lésion nodulaire au niveau de la tige pituitaire mesurant 8 mm, se rehaussant de façon homogène après VSD.
+"IRM de la selle turcique et de l'hypophyse : lésion nodulaire au niveau de la tige pituitaire mesurant 5,5 x 7 x 5 mm qui, après administration de gadolinium, se rehausse avec une morphologie en anneau. Dans le lobe cérébelleux postérieur gauche, on observe trois images extraxes de rehaussement nodulaire, l'une d'elles mesurant 8 x 9,5 x 9,5 mm et les deux autres punctiformes, en relation avec des implants leptoméningés. Multiples lésions hypertensives focales en séquences T2 et FLAIR distribuées de façon diffuse dans la substance blanche sous-corticale et hyperintensité de la substance blanche périventriculaire, en relation avec des changements d'origine ischémique chronique probable.
+"Étude hormonale : cortisolurie (dans les urines de 24 h : 16 505 ug/24 h), cortisol plasmatique (96,60 mcg/dl) et ACTH élevée (à 8 h : 153 pmol/l) avec T4 libre (7,4 ng/dl), TSH (0,01 ml U/l), FSH, LH et testostérone en dessous des limites normales.
+
+Diagnostic
+Carcinome pulmonaire à petites cellules de stade IV en raison de l'atteinte des surrénales et du système nerveux central (SNC). Hypopituitarisme et diabète insipide dus à l'atteinte de l'adénohypophyse et de la neurohypophyse respectivement par M1 dans la tige pituitaire. Syndrome de Cushing ectopique dépendant de l'ACTH.
+
+Traitement
+D'une part, avec le diagnostic d'hypopituitarisme et de diabète insipide associé à un syndrome de Cushing ectopique sévère dépendant de l'ACTH, le patient a commencé un traitement au kétoconazole comme inhibiteur de la stéroïdogenèse, à la desmopressine pour le diabète insipide, à la thyroxine et à l'insuline à la demande avec une amélioration clinique et une stabilisation de la production de stéroïdes (cortisol basal de 40 à 20 ug/dl et CLU de 77 ug/24 h 16 jours après le début du traitement au kétoconazole).
+De même, étant donné le diagnostic de carcinome pulmonaire à petites cellules de stade IV dû à une atteinte surrénalienne et du SNC très symptomatique, le patient a commencé un traitement palliatif de première ligne selon le CBDCA 5 AUC d1 - VP 16 100 mg/m2 d1-3 tous les 21 jours. Une réponse partielle a été obtenue après 3 cycles, qui s'est maintenue après le 6ème cycle, avec une amélioration clinique et analytique, en particulier du syndrome de Cushing, qui est un trouble paranéoplasique.
+Après avoir terminé le traitement systémique, le patient a reçu, après simulation, une radiothérapie holocrânienne avec des photons de 6Mv, à raison de 2Gy/séance, jusqu'à atteindre une dose totale de 30Gy.
+
+Évolution
+Après un intervalle sans progression de 4 mois, le patient a présenté un scanner de contrôle de la progression de la maladie au niveau cérébral et suprarénal avec une détérioration physique significative et peu de soutien social, pour lequel il a été décidé de l'admettre dans une unité de court-moyen séjour, et des soins palliatifs symptomatiques ont été menés jusqu'à son décès.

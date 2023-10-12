@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 51 ans, pas d'allergies médicamenteuses connues. Pas d'antécédents médicaux intéressants.
+Intervenue pour une lésion bénigne du sein droit et une cystectomie des trompes de Fallope. Fumeuse d'un paquet de cigarettes par jour. Pas de grossesse. Ménarche à 10 ans et ménopause à 46 ans.
+
+Elle consulte son médecin généraliste pour une lésion érythémateuse et inflammatoire du sein gauche, diagnostiquée comme une mastite, pour laquelle un traitement antibiotique est prescrit.
+
+Examen physique
+Hémodynamiquement stable. ECOG 0. ACP : dans les limites de la normalité. Tumeur inflammatoire occupant les quatre quadrants du sein gauche, avec une atteinte inflammatoire plus importante dans les deux quadrants inférieurs. Pas d'adénopathie axillaire ou sus-claviculaire palpable.
+
+Tests complémentaires
+Une étude ambulatoire a été lancée et les examens complémentaires suivants ont été réalisés :
+"Mammographie (27/6/14) : épaississement diffus de la peau du sein gauche. Augmentation marquée de la réticulation du tissu adipeux sous-cutané. BIRADS 0.
+"Imagerie par résonance magnétique (IRM) (3/7/14) : asymétrie marquée. Sein gauche avec épaississement de la peau, du mamelon et de l'aréole. Présence d'un ganglion lymphatique de 14 mm dans l'aisselle gauche.
+" Biopsie guidée par échographie avec résultat anatomopathologique : carcinome intraductal de haut grade avec nécrose et microcalcifications. Récepteurs hormonaux (HR) négatifs, HER2 positif, Ki-67 27%.
+"FNA axillaire : compatible avec une métastase d'acénocarcinome.
+"Une tomodensitométrie thoraco-abdominale (TA CT) et une scintigraphie osseuse (GGO) ont été demandées, ce qui a permis d'exclure la présence de métastases.
+"Une ventriculographie isotopique est demandée pour évaluer la fonction cardiaque avant le traitement à l'anthracycline (VEMS 62%).
+
+Diagnostic
+Carcinome intraductal du sein gauche, cT4dNxM0 (stade III), HR-, HER2+, Ki-67 27%.
+
+Traitement
+Patient candidat à une chimiothérapie néoadjuvante ; début du traitement en août 2014 avec anthracycline + taxanes + trastuzumab + pertuzumab.
+
+Évolution
+La patiente a subi quatre cycles de chimiothérapie avec le schéma susmentionné, présentant comme complication durant cette période une neutropénie de grade 3. Le 28 octobre 2014, elle a consulté pour la suite du traitement. Cliniquement, elle a présenté une asthénie de grade 3, avec apparition d'un érythème dans le sillon intermammaire. Un punch de la lésion a été demandé, avec des résultats positifs pour un carcinome d'origine mammaire, RH-, HER2+, il s'agissait donc d'une progression locale au cours du traitement néoadjuvant. La patiente a fait l'objet d'une évaluation chirurgicale, qui a écarté la possibilité d'une chirurgie de sauvetage en raison de l'étendue de l'atteinte cutanée, et une nouvelle étude de stadification a été réalisée par tomodensitométrie et GGO, qui n'a révélé aucune lésion métastatique. Le comité du sein a évalué le cas et a décidé de passer en deuxième ligne avec la capécitabine + lapatinib. Actuellement, la patiente a subi six cycles, avec une disparition totale de la lésion inflammatoire dans le sein, et avec une IRM sans prise nodulaire focale pathologique ou adénopathies de taille pathologique au niveau axillaire ou dans les chaînes mammaires internes. Elle est actuellement en attente d'une mastectomie radicale et d'un traitement ultérieur par radiothérapie locale.

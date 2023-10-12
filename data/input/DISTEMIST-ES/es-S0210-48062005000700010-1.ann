@@ -1,0 +1,8 @@
+T1	pathologie 28 38	varicocele
+T2	pathologie 99 134	infecciones urinarias de repetición
+T3	pathologie 139 155	patología sexual
+T4	pathologie 272 301	duplicidad uretral incompleta
+#1	SNOMED T1	51070004
+#2	SNOMED T2	197927001
+#3	SNOMED T3	231532002
+#4	SNOMED T4	717757004

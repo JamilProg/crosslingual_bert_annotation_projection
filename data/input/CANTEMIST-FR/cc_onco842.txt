@@ -1,0 +1,34 @@
+Anamnèse
+Un patient diabétique de 81 ans, fumeur actif et ayant des antécédents de thromboembolie pulmonaire, a commencé à ressentir des douleurs et des œdèmes au niveau du membre inférieur gauche. Il s'est rendu aux urgences, où un écho-Doppler a été réalisé et un diagnostic de thrombose veineuse profonde (TVP) gauche a été posé, et un traitement par rivaroxaban a été mis en place.
+Quelques jours plus tard, elle est revenue à la clinique pour une dyspnée de plusieurs jours, associée à une toux sans expectoration et sans douleur thoracique. Une angiographie par tomodensitométrie a été réalisée au service des urgences pour une suspicion de PTE, qui a été confirmée, montrant un défaut de remplissage de l'artère lingulaire compatible avec une PTE. En outre, l'angio-TDM a révélé des adénopathies axillaires/rétropectorales gauches de taille significative (18 et 20 mm) suspectes de malignité, une adénomégalie prévasculaire dans la fenêtre aortopulmonaire et hilaire avec un axe court de moins de 10 mm, non significative, ainsi qu'un micronodule de 4 mm dans le segment médian du lobe moyen (LM).
+En raison de ces résultats, il a été admis en médecine interne pour un examen plus approfondi.
+Pendant l'hospitalisation, l'évolution a été favorable, le patient restant asymptomatique du point de vue respiratoire. Une batterie d'examens complémentaires a été réalisée pour identifier les adénopathies observées au scanner, notamment une analyse générale avec des marqueurs tumoraux, sans altération pertinente à l'exception d'un CEA (carcinoembryonic antigen) à 327 et d'un PET-CT scan montrant un foyer hypermétabolique hilaire pulmonaire gauche (SUVmax 11,4) qui semble correspondre à la lymphadénopathie dans la fenêtre aorto-pulmonaire, mentionnée dans l'angio-CT scan, plusieurs foyers hypermétaboliques axillaires gauches (SUVmax 14,11), coïncidant avec une lymphadénopathie de taille significative dans l'angio-CT scan. Un petit foyer hypermétabolique rétroparotidien gauche (SUVmax 3,9) pourrait correspondre à une autre lymphadénopathie subcentimétrique.
+Au vu de ces résultats TEP/TDM, il a été décidé de consulter la chirurgie générale pour réaliser une biopsie de l'adénopathie axillaire.
+Les résultats anatomo-pathologiques de la biopsie axillaire correspondent à une métastase ganglionnaire d'un carcinome peu différencié avec comédonécrose. L'étude immunohistochimique des cellules tumorales a montré une négativité pour CK20, TTF1, PSA, GATA3, S100 et p40, et l'origine de la tumeur primaire n'a pas pu être établie.
+Au vu de ces résultats, la patiente a été adressée au service d'oncologie pour évaluation.
+
+Examen physique
+Patient avec un statut de performance (PS) de 1, avec une auscultation cardiorespiratoire normale, des tonalités rythmiques sans murmure audible, un murmure vésiculaire préservé sans bruits additionnels ; abdomen doux, dépressible, non douloureux à la palpation, sans masses ni mégalithes. Aucun ganglion lymphatique sus-claviculaire ou axillaire n'a été palpé. À l'inspection, des signes de TVP ont été observés dans le membre inférieur gauche.
+
+Tests complémentaires
+Marqueurs tumoraux : alpha-fœtoprotéine, CA 15.3, CA 19.9, CA 72.4, énolase neuronale spécifique et PSA. Tous ces marqueurs ne présentent pas d'altérations pertinentes, à l'exception de l'ACE qui montre une nette diminution depuis le diagnostic.
+" CEA : 327,5 (réalisé le 5/06/2017) >> 132,8 (réalisé le 7/08/2017) >> 59,7 (réalisé le 19/02/2018).
+TEP-TDM réalisée au cours du suivi.
+" PET-CT initial, réalisé en juin 2017, déjà décrit dans l'anamnèse.
+" PET-CT en novembre 2017 : métastases lymphatiques stables, sauf cytoréduction dans l'aisselle gauche. Aucun autre foyer n'est identifié.
+" PET-CT en février 2018 : adénopathies évocatrices de métastases lymphatiques en rémission. Aucun nouveau foyer suspect d'activité tumorale n'a été identifié.
+Immunodiagnostic infectieux
+" Sérologie réalisée en août/2017 : virus de l'hépatite négatif sauf IgG et IgM pour le virus de l'hépatite A positives.
+" Sérologie réalisée en février 2018 : négative pour les virus des hépatites sauf IgG et IgM pour les virus des hépatites A et E positives.
+
+Diagnostic
+Métastases ganglionnaires (rétroparotidiennes gauches, médiastinales gauches et axillaires gauches) d'un carcinome peu différencié d'origine inconnue.
+
+Le traitement
+Au vu de ces résultats, il est proposé à la patiente de commencer un traitement de chimiothérapie avec le schéma carbo-paclitaxel, la première ligne pour les tumeurs d'origine inconnue, mais la patiente refuse le traitement et souhaite seulement un suivi.
+
+Évolution
+Au cours du suivi, le patient reste asymptomatique. Il nie toute modification de son mode de vie ou de son alimentation.
+Les examens complémentaires effectués ont montré une nette régression spontanée de la tumeur. Ceci est visible sur les images PET-CT et dans la diminution marquée des marqueurs tumoraux.
+Une séroconversion des virus de l'hépatite A et E a été observée de manière fortuite, sans répercussion clinique (pas de syndrome fébrile ni de symptômes associés) ni test de laboratoire (pas d'augmentation des réactifs de phase aiguë ni d'élévation des transaminases).
+Compte tenu des résultats des examens et de l'état clinique du patient, il est proposé de poursuivre le suivi. Une visite est prévue dans deux mois avec une analyse de contrôle et des marqueurs tumoraux.

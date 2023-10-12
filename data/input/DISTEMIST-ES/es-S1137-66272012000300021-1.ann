@@ -1,0 +1,14 @@
+T1	pathologie 259 285	adenocarcinoma de próstata
+T2	pathologie 756 771	íleo paralítico
+T3	pathologie 1231 1298	colección líquida con abundante gas de localización retroperitoneal
+T4	pathologie 1378 1392	neumoperitoneo
+T5	pathologie 1403 1417	diverticulosis
+T6	pathologie 1509 1529	perforación duodenal
+T7	pathologie 1559 1576	cuadro infeccioso
+#1	SNOMED T6	270909006
+#2	SNOMED T2	55525008
+#3	SNOMED T3	734045002
+#4	SNOMED T1	399490008
+#5	SNOMED T4	17204006
+#6	SNOMED T5	397881000
+#7	SNOMED T7	40733004

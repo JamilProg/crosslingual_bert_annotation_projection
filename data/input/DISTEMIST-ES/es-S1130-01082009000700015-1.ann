@@ -1,0 +1,8 @@
+T1	pathologie 569 581	endometrioma
+T2	pathologie 1045 1072	tumor de células granulares
+T3	pathologie 1077 1140	lesión se extiende por el tejido adiposo subseroso del apéndice
+T4	pathologie 1532 1540	lesiones
+#1	SNOMED T1	237116001
+#2	SNOMED T2	404035005
+#3	SNOMED T4	157670007
+#4	SNOMED T3	235771005

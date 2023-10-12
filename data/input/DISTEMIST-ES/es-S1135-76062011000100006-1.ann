@@ -1,0 +1,18 @@
+T1	pathologie 65 102	disparo de arma de fuego en el cráneo
+T2	pathologie 184 202	agravio encefálico
+T3	pathologie 252 300	orificios en cuero cabelludo (frontal y parietal
+T4	pathologie 322 364	orificio de entrada óseo en hueso parietal
+T5	pathologie 405 432	orificio de entrada cutáneo
+T6	pathologie 707 715	fractura
+T7	pathologie 732 775	fragmento del proyectil en región occipital
+T8	pathologie 904 949	orificio de salida cutáneo en región parietal
+T9	pathologie 1057 1075	orificios cutáneos
+#1	SNOMED T1	38354005
+#2	SNOMED T2	81308009
+#3	SNOMED T3	210323002
+#4	SNOMED T4	83385002
+#5	SNOMED T5	425055008
+#6	SNOMED T6	72704001
+#7	SNOMED T7	262598006
+#8	SNOMED T8	424867003
+#9	SNOMED T9	262526004

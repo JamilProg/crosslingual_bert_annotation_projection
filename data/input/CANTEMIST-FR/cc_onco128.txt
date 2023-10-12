@@ -1,0 +1,32 @@
+Anamnèse
+Une femme mariée de 54 ans sans enfant. Ses antécédents familiaux comprennent un père décédé de complications du diabète et un neveu décédé d'un lymphome.
+
+La patiente est une femme sans allergie médicamenteuse connue, fumeuse d'un paquet par jour, consommatrice modérée de vin et hypertendue sous traitement. Elle souffre d'asthme bronchique traité par inhalateur. Hépatite A à l'âge de 13 ans. Interventions : hystérectomie pour fibromes.
+
+Examen physique
+Indice de Karnofsky : 90%. Tête et cou : pas de ganglions lymphatiques palpables. Masse cervicale postérieure compatible avec un lipome. Bouche en bon état. Auscultation cardiaque : bruits du cœur rythmés. Auscultation pulmonaire : souffle vésiculaire conservé. Seins sans nodules. Abdomen : pas de masses ni de mégalithes. Péristaltisme conservé. Membres inférieurs : pas d'œdème, de varices ou de phlébites. Pas de focalité neurologique.
+
+Tests complémentaires
+"Biochimie, numération sanguine et coagulation : normales.
+"Marqueurs : CEA, CA 19.9, normaux. Chromogranine 1 432 ng/ml.
+"Tomodensitométrie abdominale : masse de 4,5 cm dans la tête du pancréas, pas de dilatation des voies biliaires, métastases hépatiques multiples, lymphadénopathie rétropéritonéale d'environ 1 cm et 1,8 cm dans le genou duodénal.
+"Ventriculographie isotopique (Multi Unit Gated Analysis [MUGA]) : fraction d'éjection du ventricule gauche (FEVG) de 57 %.
+"Octréoscan : pas de prise.
+
+Diagnostic
+Une biopsie des métastases hépatiques a été réalisée avec une immunohistochimie fortement positive pour la chromogranine et la synaptophysine. Ki67 >20% et plus de 20 mitoses par 10 champs à fort grossissement.
+Après toutes les études et sur la base des données histologiques, on a diagnostiqué chez elle une tumeur neuroendocrine pancréatique (PNET) non résécable de stade IV, grade 3, en raison de la présence de multiples métastases hépatiques et ganglionnaires.
+
+Traitement
+Attaché à l'évolution dans la section suivante.
+
+Évolution
+Étant donné qu'il s'agissait d'un PNET avec un Ki-67 > 20 %, le traitement a commencé en août de la même année (2011) avec une chimiothérapie, cisplatine 75 mg/m2 jour 1 et étoposide 100 mg/m2 jours 1, 2 et 3 toutes les trois semaines, sans toxicité, à l'exception de l'alopécie.
+Au total, il a reçu six cycles et après six mois, en janvier 2012, il a commencé une deuxième ligne avec du temozolamide 150 mg/m2 jour 10 à 14 et de la capecitabine 1000 mg/m2 toutes les 12 heures jour 1 à 14 tous les 28 jours en raison d'une progression hépatique minime dans le scanner de contrôle. La présence d'une méthylation de la O6-méthylguanine-ADN-méthyltransférase (MGMT) a été confirmée par une biopsie du foie.
+Après avoir reçu six cycles avec une très bonne tolérance, ne présentant qu'une mucosite de grade 1, un scanner de contrôle a été réalisé montrant une réponse presque complète au niveau de la tumeur primaire et une croissance minimale selon les critères RECIST (Response Evaluation Criteria In Solid Tumors) du bloc adénopathique au niveau du genou duodénal. Il a été décidé de poursuivre le même traitement et de répéter l'examen d'imagerie dans trois mois.
+Après avoir reçu deux cycles supplémentaires, elle a été hospitalisée en raison d'un ulcère duodénal FOREST 3. Un scanner a confirmé la progression du bloc adénopathique à ce niveau, de sorte qu'une troisième ligne de traitement a été entamée en août 2012 avec 1 000 mg/m2 de streptozotocine et 50 mg/m2 de doxorubicine toutes les trois semaines, ce qui a permis d'obtenir une stabilisation de la maladie comme meilleure réponse.
+En juillet 2013, la doxorubicine a été remplacée par une anthracycline liposomale (caelyx) car la dose de risque cumulé de toxicité cardiaque (450 mg/m2) a été dépassée après 10 cycles de traitement (dose reçue 500 mg/m2).
+Après cinq cycles avec ce nouveau schéma, soit 15 cycles au total d'anthracycline et de streptozotocine, un scanner a été demandé (mars 2014), qui a montré une progression minime au niveau des lésions hépatiques avec une stabilisation de la maladie dans les autres localisations. C'est à ce moment que nous avons commencé à soupçonner que le Ki-67 était plus bas, car la patiente avait un indice de Karnofsky >80% depuis trois ans et aucune progression significative n'avait été observée à quelque niveau que ce soit. Une réévaluation de la biopsie a donc été demandée et il a été confirmé qu'il s'agissait bien d'une PNET avec un Ki-67 de 11 %.
+Il a été informé de la possibilité de participer à l'étude SALSUN-2011-01, acceptant et signant le formulaire de consentement éclairé, après s'être assuré qu'il répondait à tous les critères d'inclusion.
+En mai 2014, il a commencé à recevoir du sunitinib à raison de 37,5 mg/jour qui, après deux cycles, a dû être réduit à 25 mg en raison d'une toxicité cutanée, de diarrhées, d'une mucosite et d'une hypertension de grade 2. En septembre 2014, le scanner a montré une maladie stable selon les critères RECIST et une réponse selon les critères CHOI.
+Il a continué avec le sunitinib jusqu'en février 2015, date à laquelle une progression a été observée dans le foie, à la fois selon les critères RECIST et CHOI, de sorte qu'une cinquième ligne de traitement a été lancée avec l'évérolimus 10 mg/jour, avec lequel il est actuellement maintenu, ayant obtenu une meilleure réponse d'une réduction de 17%, c'est-à-dire qu'il n'y a pas de changements selon les critères RECIST.

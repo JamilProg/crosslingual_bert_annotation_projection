@@ -1,0 +1,27 @@
+Anamnèse
+Antécédents oncologiques
+17/11/2016 : élargissement + ganglion sentinelle : ganglion préservé. MelanA neg, HMB45 neg. pT3a N0 M0 E II A, début du suivi.
+Il a été référé à notre service de consultation externe trois mois après l'opération pour évaluer la suspicion de récidive du mélanome au niveau des ganglions lymphatiques intrathoraciques, et pour évaluer l'attitude face aux résultats des études d'extension réalisées où de multiples adénopathies ont été trouvées pour les fenêtres trachéale supérieure et inférieure, souscarinale, hilaire bilatérale et aortopulmonaire de taille significative, avec une tendance à la conglomération. Il n'y avait aucun signe de nodules ou d'infiltrats dans le parenchyme pulmonaire.
+Compte tenu de ces données et de la suspicion d'une récidive de mélanome, une détermination du statut mutationnel BRAF, une TEP-TDM, des analyses avec détermination des taux de S-100, d'enzyme de conversion de l'angiotensine et de calcium ont été demandées, ainsi qu'une confirmation par l'obtention d'un nouvel échantillon au moyen d'une échographie endoscopique (EUS).
+"Un PET-CT a été réalisé et a montré des adénopathies hypermétaboliques dans le médiastin et les deux hilaires pulmonaires. Le reste de l'étude n'a révélé aucun autre foyer d'activité anormal.
+"L'EUS a montré un conglomérat adénopathique de 44 x 14 mm dans l'espace sous-carénaire et d'autres adénopathies plus petites dans la fenêtre aorto-pulmonaire. Une FNA avec une aiguille de 19 g a été réalisée sur la grande adénopathie dans l'espace subcarinal.
+Le rapport d'anatomopathologie de la FNA était négatif pour les cellules tumorales, sans autre précision.
+Mars 2017 : le cas a été discuté avec les résultats des examens complémentaires au sein du comité des tumeurs thoraciques, où la possibilité d'une médiastinoscopie a été évoquée, afin d'identifier le tableau adénopathique, compte tenu du résultat négatif de l'anatomie pathologique.
+Avril 2017 : médiastinoscopie adénopathie groupe 4R : lymphadénite granulomateuse chronique non caséeuse CD 68 + avec cellules isolées CD 163 + et pas de positivité pour Melan-A. Diagnostic de sarcoïdose.
+
+Examen physique
+À l'examen physique, le patient est asymptomatique ; il n'y a pas de ganglions lymphatiques palpables ni de lésions dans les territoires ganglionnaires régionaux.
+
+Examens complémentaires
+"Scanner PET-CT montrant des adénopathies hypermétaboliques dans le médiastin et les deux hilaires pulmonaires. Le reste de l'étude n'a montré aucun autre foyer d'activité anormal.
+"L'EUS a montré un conglomérat d'adénopathies de 44 x 14 mm dans l'espace sous-carénaire et d'autres adénopathies plus petites dans la fenêtre aorto-pulmonaire. Une FNA avec une aiguille de 19 g a été réalisée sur la grande adénopathie dans l'espace subcarinal.
+"Le rapport anatomopathologique de la FNA était négatif pour les cellules tumorales, sans autre précision.
+
+Diagnostic
+Mélanome cutané E IIA associé à une sarcoïdose.
+
+Traitement
+Il est actuellement suivi par les services d'oncologie médicale et de pneumologie, car ses taux sériques d'enzyme de conversion de l'angiotensine (ECA) sont dans les limites des paramètres normaux, sa calcémie et sa calciurie sont dans les limites des paramètres normaux, il est asymptomatique, ne tousse pas, ne souffre pas de dyspnée et ses tests de fonction respiratoire sont dans les limites des paramètres normaux, et son examen ophtalmologique est normal. Il a donc été décidé de suivre le mélanome et de s'abstenir de tout traitement pour la sarcoïdose.
+
+Evolution
+Suivi trimestriel par les services d'oncologie médicale et de pneumologie : dernier bilan en avril 2018, où il est asymptomatique et stable en imagerie.

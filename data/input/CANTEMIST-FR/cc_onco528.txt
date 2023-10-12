@@ -1,0 +1,27 @@
+Anamnèse
+Femme colombienne de 51 ans, n'ayant jamais fumé et préménopausée. Ses antécédents gynécologiques comprennent 3 grossesses, 2 césariennes et 1 accouchement par voie basse, sans complications. Elle n'a pas d'autres antécédents médicaux pertinents. Elle nie avoir des symptômes respiratoires infectieux récurrents.
+En décembre 2016, elle a consulté son centre de soins primaires pour une dorsalgie de plusieurs mois sans autre symptôme associé. Une radiographie du rachis dorsal a été réalisée montrant un nodule pulmonaire situé dans le lobe supérieur droit (LSD) de signification incertaine. Une radiographie pulmonaire a été demandée et une analgésie de première intention a été mise en place, avec une amélioration clinique.
+En mars 2017, la radiographie pulmonaire a montré une lésion kystique située dans le LSD. L'étude a été complétée par un scanner thoracique qui a confirmé la présence d'une lésion multikystique de 56 mm de diamètre avec un kyste dominant de 33 mm, compatible avec une MCVAP de type I. Un scanner de suivi a été réalisé en décembre 2017, qui n'a pas montré de changement. Les épreuves fonctionnelles respiratoires et la bronchoscopie n'ont révélé aucune anomalie.
+En décembre 2018, elle a consulté aux urgences pour des douleurs abdominales dans l'hypogastre, des nausées et des métrorragies depuis un mois. Elle a évoqué des altérations menstruelles de 2 ans d'évolution qui avaient été évaluées comme périménopause. Les examens de laboratoire ont révélé une anémie microcytaire avec un taux de b-HCG de 3487 UI/l, qui est passé à 3536 UI/l après 48 heures. Une échographie transvaginale a été réalisée et a permis d'exclure des images utérines intracavitaires. Compte tenu de la suspicion de grossesse extra-utérine, des contrôles en série ont été effectués. À deux semaines, le taux de b-HCG était de 3 781 UI/l, ce qui a conduit à l'administration de 50 mg/m2 de méthotrexate par voie intramusculaire. Les contrôles ultérieurs ont montré une augmentation persistante du taux de b-HCG jusqu'à un niveau maximum de 7 553 UI/l, suivi d'une lente diminution jusqu'à 3 010 UI/l. Les saignements vaginaux ont diminué, mais les douleurs abdominales ont persisté, ce qui a conduit à la décision de prolonger l'étude par une tomodensitométrie du thorax, de l'abdomen et du bassin (CT-PAT).
+
+Examen physique
+Anthropométrie : taille 160 et poids 55 kg. Examen cardio-pulmonaire, abdominal et neurologique sans altération. Pas de ganglions lymphatiques palpables.
+
+Examens complémentaires
+La tomodensitométrie (20/12/2018) retrouve de multiples lésions solides périphériques évocatrices de malignité, atteignant un diamètre total de 80 mm avec un kyste prédominant de 55 mm sur la LSD de type I MCVAP ; lésion en contact intime avec la plèvre et avec des branches segmentaires de l'artère pulmonaire.
+Absence d'adénopathie et autres structures thoraciques préservées. Tomodensitométrie de l'abdomen et du bassin sans signe de dissémination néoplasique.
+La bronchoscopie (28/12/2018) montre une masse obstruant la branche sous-segmentaire antérieure de la DSL et une biopsie positive pour un carcinome épidermoïde non kératinisant, peu différencié (p40+ ; TTF-1-) avec une forte expression de PD-L1 (70 %).
+Test de la fonction respiratoire sans altération (VEMS : 108 % ; DLCO : 104 %).
+La TEP-TDM (03/01/2019) a montré une lésion pulmonaire multikystique en LSD avec hypermétabolisme de la composante solide (SUVmax = 7,4) compatible avec un processus néoprolifératif primaire car il n'y avait pas d'autres lésions similaires dans le reste de l'organisme. L'étude a été complétée par une IRM cérébrale (03/01/2019) qui s'est révélée négative.
+
+Diagnostic
+Femme de 51 ans, non fumeuse, atteinte d'un carcinome épidermoïde du poumon développé dans un MCVAP de type I, probable cT3N0M0, stade IIB associé à une sécrétion paranéoplasique de b-HCG.
+
+Traitement
+En mars 2019, une médiastinoscopie est d'abord réalisée pour exclure une atteinte des ganglions lymphatiques, suivie d'une double lobectomie (lobe supérieur droit et lobe moyen) par chirurgie thoracique vidéo-assistée (VATS) avec résection R0.
+
+L'évolution
+L'anatomie pathologique de la pièce opératoire décrit un carcinome épidermoïde non kératinisant, peu différencié (G3), avec un nodule principal de 9 cm et 2 nodules satellites (2 cm et 2,5 cm) englobant la région hilaire et s'étendant au lobe moyen (LM). Aucun signe d'invasion pleurale, lymphovasculaire ou périneurale. Marges de résection libres. En outre, les lésions kystiques restantes étaient tapissées de carcinome malpighien in situ. Les cellules tumorales exprimaient la kératine 7, la p40 et les kératines focales 5/6 avec une négativité pour TTF-1 et PAX8. L'étude moléculaire était négative pour EGFR (exons 18 à 21) et ALK.
+21) et ALK.
+Le taux de b-HCG postopératoire a diminué à 27 UI/L. En mai 2019, la patiente était en ECOG PS 1 pour asthénie et dyspnée à l'effort modérée. Le suivi postopératoire par TEP-TDM (02/05/2019) n'a montré aucun signe évocateur de malignité. Les analyses sanguines ont montré une anémie microcytaire légère (Hb 12,2 g/dL MCV 75 fl). En juin 2019, le taux de b-HCG était de 17,8 UI/l.
+La stadification finale est pT4N0M0, stade IIIA, de sorte qu'un traitement adjuvant par cisplatine 75 mg/m2 et vinorelbine 25 mg/m2 pendant 4 cycles est proposé.

@@ -1,0 +1,12 @@
+T1	pathologie 48 72	trombosis venosa en MMII
+T2	pathologie 108 150	lesión ulcerada a nivel de la mucosa yugal
+T3	pathologie 218 239	carcinoma epidermoide
+T4	pathologie 265 315	adenopatía de 2 cm de diámetro en nivel I cervical
+T5	pathologie 389 403	lesión tumoral
+T6	pathologie 905 922	defecto intraoral
+#1	SNOMED T1	309735004
+#2	SNOMED T2	697977007
+#3	SNOMED T3	402815007
+#4	SNOMED T4	127086001
+#5	SNOMED T5	55342001
+#6	SNOMED T6	116337000

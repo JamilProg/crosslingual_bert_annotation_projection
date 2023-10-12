@@ -1,0 +1,30 @@
+Anamnèse
+Un homme de 53 ans, sans antécédents personnels, s'est présenté au service de chirurgie maxillo-faciale pour une tumeur de la parotide droite datant de trois mois et demi, accompagnée de fibrillations dans la commissure labiale et d'une paresthésie locale.
+Une parathyroïdectomie totale conservatrice a été pratiquée avec pour résultat anatomopathologique un carcinome canalaire avec infiltration du nerf facial et atteinte métastatique des ganglions lymphatiques cervicaux. Par la suite, un curage ganglionnaire cervical droit radical modifié et une résection du tronc facial ont été réalisés, suivis d'une radiothérapie complémentaire.
+Dix mois plus tard, le patient a subi une résection cutanée étendue et une reconstruction avec un lambeau antérolatéral de cuisse en raison d'une récidive locale dans le tissu adjacent au pavillon de l'oreille, qui affectait l'épiderme jusqu'au tissu cellulaire sous-cutané avec une invasion lymphatique étendue, atteignant le conduit auditif externe et la musculature cervicale et entrant en contact avec le bord profond de la résection. Après évaluation dans le cadre d'une séance clinique multidisciplinaire, la ré-irradiation a été rejetée.
+
+Examen physique
+ECOG 0. Conscient, orienté et coopératif. Bien hydraté et perfusé. Eupnéique au repos. Auscultation de l'abdomen et des extrémités sans résultats pertinents. Progression locale au niveau du site chirurgical avec une saturnite cutanée.
+
+Tests complémentaires
+- Examens de laboratoire : dans les limites des paramètres normaux, y compris les marqueurs tumoraux (CEA 1.1).
+- Tomodensitométrie cervicale : modifications post-chirurgicales. Zones d'épaississement focal de la peau avec des zones de rehaussement de contraste compatibles avec des implants métastatiques. Léger épaississement avec prise de contraste dans le fascia temporal droit.
+Conclusion : récidive tumorale dans la peau et le tissu cellulaire sous-cutané.
+- IRM cervicale : épaississement marqué du derme et du tissu cellulaire sous-cutané d'environ 5 cm dans la zone de parotidectomie et la région préauriculaire droite, avec rehaussement homogène après administration de contraste. Pas d'invasion des structures de la base du crâne ou de l'artère carotide ; la veine jugulaire droite en contact avec la zone d'épaississement n'est pas touchée.
+- Tomodensitométrie thoracique : aucun résultat pathologique.
+- TEP-TDM du corps entier : captation dans la région parotidienne.
+
+Diagnostic
+Carcinome canalaire infiltrant de la glande parotide, pT2 pN2b M0, stade IVA avec invasion vasculaire et périneurale. EGFR et HER-2 négatifs. Récepteurs des androgènes : expression nucléaire intense dans 90 % des noyaux.
+
+Traitement
+Dans l'ordre séquentiel :
+- Schéma CAP (cisplatine 50 mg/m2, adriamycine 50 mg/m2, cyclophosphamide 500 mg/m2).
+- Vinorelbine orale en monothérapie 60 mg/m2/semaine.
+- Paclitaxel hebdomadaire 80 mg/m2.
+- Bicalutamide 50 mg/jour.
+- Goséréline 10,8 mg/s.c./trimestre.
+
+Évolution
+Compte tenu de la présence d'une satellitose et d'une progression locale, un traitement par chimiothérapie a été proposé selon le schéma CAP tous les 21 jours, dont elle n'a reçu que deux cycles en raison de la progression clinique. En raison de l'apparition de nouveaux nodules au niveau du lambeau, une excision a été réalisée par la chirurgie maxillo-faciale et la vinorelbine orale a été proposée. Quatre mois plus tard, elle a pris rendez-vous en raison d'un gonflement important du côté droit du visage, d'un œdème des lèvres et d'une douleur dans le membre supérieur droit. La tomodensitométrie a confirmé la progression cutanée et sous-cutanée avec une plus grande infiltration du masséter droit, l'apparition d'une lésion nodulaire antérolatérale au canal de Stenon et une infiltration de la musculature paraspinale droite. Il a été mis sous paclitaxel hebdomadaire, avec lequel il a obtenu une diminution notable de la tumeur et un contrôle acceptable de la douleur. Une réponse partielle a été observée au scanner de contrôle mais, compte tenu de l'apparition d'une paresthésie de grade 1, il a été nécessaire de réduire la dose. La détermination des récepteurs androgéniques a alors été demandée à l'anatomopathologie, avec le résultat d'une expression intense dans 90 % des noyaux, de sorte que le bicalutamide a été ajouté quotidiennement. Cinq mois plus tard, une réponse clinique complète a été observée : le paclitaxel a été arrêté en raison de paresthésies persistantes.
+Cinq mois plus tard, le rendez-vous a de nouveau été avancé en raison de fortes douleurs à l'épaule et au membre supérieur droit, ainsi que de céphalées hémicrâniennes et d'une légère augmentation des lésions cutanées, ce qui a conduit à l'ajout de goséréline trimestrielle. Actuellement, le patient maintient une réponse clinique complète avec le bicalutamide et la goséréline.

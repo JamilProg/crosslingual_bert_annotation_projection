@@ -1,0 +1,14 @@
+T1	pathologie 164 187	epilepsia postraumática
+T2	pathologie 215 236	hipertensión arterial
+T3	pathologie 239 264	diabetes mellitus tipo II
+T4	pathologie 364 375	traumatismo
+T5	pathologie 558 594	membrana epirretiniana macular en OD
+T6	pathologie 886 915	neuropatía óptica hereditaria
+T7	pathologie 1100 1131	retinotoxicidad por vigabatrina
+#1	SNOMED T7	290964009
+#2	SNOMED T1	75023009
+#3	SNOMED T5	333971000119101
+#4	SNOMED T6	312942003
+#5	SNOMED T2	38341003
+#6	SNOMED T3	44054006
+#7	SNOMED T4	417746004

@@ -1,0 +1,22 @@
+Anamnèse
+Homme âgé d'environ 70 ans qui s'est présenté à l'hôpital de jour en avril 2018 pour commencer le traitement, diagnostiqué avec un mélanome cutané sur le cuir chevelu, réséqué à plusieurs reprises et avec des preuves de la maladie au niveau loco-régional et de la maladie métastatique au niveau pulmonaire et osseux. Il a un statut BRAF natif, analysé dans l'échantillon de la tumeur primaire.
+Il souffre d'hypertension artérielle et d'une dyslipidémie de longue date. Il nie toute consommation d'alcool et est ex-fumeur depuis plus de 20 ans. Il a également des antécédents de coxarthrose gauche. La transplantation du rein droit en octobre 2010, secondaire à une insuffisance rénale chronique sévère probablement liée à une pyélonéphrite chronique, après des années de dialyse, sans présenter de complications post-transplantation majeures, est particulièrement pertinente pour notre cas.
+Son traitement chronique consistait en tapentadol 100 mg deux fois par jour, amlodipine 5 mg un comprimé par jour, furosémide 20 mg par jour, atorvastatine 20 mg le soir et comme traitement immunosuppresseur avant de commencer un traitement oncospécifique : tacrolimus 1 mg deux comprimés le matin, mycophénolate 500 mg deux comprimés par jour et prednisone 30 mg tous les deux jours.
+
+Antécédents oncologiques
+Un mélanome desmoplastique ulcéré à cellules fusiformes, avec une marge basale de 0,45 mm et une marge latérale proche de 1,4 mm, lui a été diagnostiqué à partir d'une lésion cutanée sur le cuir chevelu en septembre 2017, sans aucun signe de maladie métastatique à ce moment-là. Par la suite, deux nouvelles interventions ont été réalisées en raison de la récurrence des lésions autour de la première chirurgie, et une excision a été réalisée en février et mars 2018. L'anatomie pathologique de la résection de février 2018 était compatible avec un mélanome non desmoplastique, avec des marges libres, un indice de Breslow de 1,2 cm, et la possibilité de métastases cutanées n'a pas été envisagée. L'anatomie pathologique en mars 2018 était similaire à la précédente. L'étude de la mutation BRAF dans cette pièce était négative (type sauvage).
+
+Examen physique
+L'examen physique a révélé des nodules compatibles avec une rechute sur le cuir chevelu, sans autre résultat à l'auscultation ou à l'examen musculo-squelettique.
+
+Examens complémentaires
+Une étude d'extension avec tomographie par émission de positons avec tomographie assistée par ordinateur (TEP-TDM) a été réalisée en mai 2018, décrivant une prise pathologique dans le cuir chevelu, le poumon et l'os iliaque gauche.
+
+Diagnostic
+Mélanome avec métastases dans les poumons et l'os iliaque M1c (0) chez un patient ayant subi une transplantation rénale.
+
+Traitement
+Après avoir discuté du cas avec son néphrologue et revu la littérature, le traitement immunosuppresseur a été ajusté à 3 mg de tacrolimus par jour quatre jours par semaine et 2 mg les trois jours restants, 2 mg d'évérolimus par jour et une corticothérapie à la dose de 10 mg toutes les 48 heures. Lors de la consultation, il a donc été proposé au patient de commencer un traitement par nivolumab, un inhibiteur du récepteur 1 de la mort programmée (PD-1) en monothérapie, en lui expliquant les objectifs et les effets secondaires possibles (y compris la perte du greffon rénal, le cas échéant), après quoi le patient a accepté le début du traitement.
+
+Évolution
+Après six doses d'immunothérapie, une réponse complète a été observée au PET-CT d'août 2018 au niveau des lésions cutanées et pulmonaires, et une réponse partielle au niveau de l'os iliaque gauche, qui est ensuite devenue une réponse complète au PET-CT de février 2019, par rapport à celui de mai 2018, après 18 doses de nivolumab. Jusqu'à présent, il n'a pas eu de toxicité immuno-reliée de grade III, seulement une asthénie de grade II, en maintenant ses taux de créatinine avant le début du traitement.

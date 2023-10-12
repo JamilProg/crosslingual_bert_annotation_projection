@@ -1,0 +1,28 @@
+Anamnèse
+Patient de 37 ans sans antécédents pathologiques ou chirurgicaux pertinents.
+En décembre 2012, il consulte aux urgences pour des céphalées aiguës et une hyposthésie du côté gauche du corps depuis 15 jours, réfractaires au traitement. Examen neurologique sans focalité ; fond d'œil : œdème papillaire unilatéral. Un scanner du SNC a été demandé, qui a montré un LOE frontal droit avec une atteinte apparente du corps calleux, et une IRM du SNC, qui a montré un processus expansif étendu intraparenchymateux frontal droit infiltrant le genou du corps calleux, mal délimité et sans composante nécrotique. Après administration de produit de contraste, différents rehaussements parcellaires ont été observés dans la lésion, mais sans définir une capsule avec une augmentation du flux sanguin dans la lésion, caractéristiques compatibles avec un lymphome ou un astrocytome anaplasique.
+Le 3 janvier 2013, une biopsie peropératoire a été réalisée, avec un diagnostic histologique d'astrocytome anaplasique GIII.
+Ce diagnostic a été évalué par le Tumor Board Neuroncology, qui a exclu tout traitement chirurgical en raison de l'infiltration du corps calleux. Le patient a été traité par RDT et QT séquentiel : 54 Gy (2 Gy/fr) du 19/3/2013 au 3/5/2013. Pendant le traitement radiothérapeutique, le patient a eu besoin de dexaméthasone 1 mg c/8 h, progressivement réduit à 1 mg c/24 h à la fin du traitement.
+Le 30/5/2013, le témozolamide (150 mg/m2 x 5 jours c/28 jours) a été débuté et les corticostéroïdes ont été progressivement réduits jusqu'à leur élimination. Les cycles 2, 3 et 4 à la même dose (150 mg/m2) ont été prescrits en raison d'une neutropénie G3 après le premier cycle.
+En septembre 2013, après l'administration du quatrième cycle, la patiente a présenté des douleurs abdominales aiguës pendant 48 heures, accompagnées de selles diarrhéiques avec du sang en abondance. Compte tenu de la suspicion d'abdomen aigu, une évaluation chirurgicale et une tomodensitométrie abdominale urgente ont été demandées.
+
+Examen physique
+L'état général de la patiente est conservé. Abdomen distendu, douloureux à la palpation dans l'hémiabdomen gauche, péristaltisme conservé et absence de signes d'irritation péritonéale. Pas de signes d'ascite. Le reste de l'examen est sans particularité.
+
+Tests complémentaires
+- Examens de laboratoire : leucocytose avec neutrophilie sans lymphopénie (leucocytes 14 000, neutrophiles 10 900, lymphocytes 1 100). Fonctions rénale et hépatique dans les limites de la normale. CRP À 8.
+- Radiographie abdominale et thoracique sans signe de pneumopéritoine.
+- Tomodensitométrie abdominale : montre un processus inflammatoire/infectieux du côlon descendant et transverse, sans collection intra-abdominale ni pneumopéritoine.
+- Culture de selles négative.
+- Coloscopie : colite gauche suggérant un processus ischémique. Biopsie : tissu de granulation et présence dans l'étude immunohistochimique de cellules isolées positives pour le cytomégalovirus.
+
+Diagnostic
+Colite à cytomégalovirus (CMV).
+
+Traitement
+Lors de l'admission, et compte tenu du diagnostic suggéré en premier lieu par la coloscopie, le cas a été classé comme colite ischémique, et un traitement symptomatique a été mis en place avec repos digestif et sérothérapie jusqu'à amélioration clinique ; le patient a évolué de façon satisfaisante, tolérant la voie orale et avec un rythme de selles rétabli sans produits pathologiques.
+
+Évolution
+Trois semaines après sa sortie de l'hôpital, le patient est resté asymptomatique. C'est alors que le résultat définitif de la biopsie a été reçu : positif pour le CMV. Le cas a été réévalué en tant que colite à CMV. Après consultation du service des maladies infectieuses, il a été décidé de ne pas commencer le traitement au valganciclovir en l'absence de signes d'infection active. Le traitement a été repris avec du témozolomide avec une bonne tolérance jusqu'à la fin des 6 cycles prévus, se terminant le 14 novembre 2013.
+Un mois après l'admission, une coloscopie de contrôle a été réalisée, avec résolution des symptômes.
+Elle subit actuellement des examens bimensuels. La dernière IRM du SNC montre une stabilité de sa maladie oncologique.

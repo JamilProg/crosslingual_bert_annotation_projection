@@ -1,0 +1,14 @@
+T1	pathologie 223 259	lesiones óseas líticas generalizadas
+T2	pathologie 318 344	neoplasia a nivel visceral
+T3	pathologie 627 636	neoplasia
+T4	pathologie 1451 1499	metástasis ósea de Carcinoma Medular de Tiroides
+T5	pathologie 1989 2007	patología tiroidea
+T6	pathologie 2340 2363	metástasis a nivel óseo
+T7	pathologie 2379 2398	metástasis pulmonar
+#1	SNOMED T5	14304000
+#2	SNOMED T2	372287009
+#3	SNOMED T6	94222008
+#4	SNOMED T7	94391008
+#5	SNOMED T4	424887002
+#6	SNOMED T3	55342001
+#7	SNOMED T1	203522001

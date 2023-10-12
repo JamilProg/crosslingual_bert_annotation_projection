@@ -1,0 +1,26 @@
+Anamnèse
+Un homme de 67 ans, ayant des antécédents d'hypertension artérielle et de fibrillation auriculaire, s'est présenté aux urgences et a été admis au service de l'appareil digestif en décembre 2011 pour des symptômes d'ictère, de cholurie, d'acholie, de prurit généralisé, de nausées et d'inconfort abdominal au niveau de l'épigastre. Elle n'a pas signalé de fièvre, de sueurs nocturnes ou de syndrome constitutionnel.
+
+Examen physique
+ECOG 1, conscient, orienté, eupnéique basal, normohydraté et ictère franc. Pas d'adénopathies périphériques palpables. Auscultation cardio-pulmonaire normale. L'abdomen n'est pas douloureux à la palpation, sans masse ou mégalithe palpable et sans signe d'irritation péritonéale. Les extrémités ne présentent aucune altération.
+
+Tests complémentaires
+Biochimie : bilirubine totale 19,6 mg/dl, bilirubine directe 18,8 mg/dl, AST 125 U/l, ALT 291 U/l, GGT 153 U/l, FA 392 U/l, LDH 180 U/l, amylase 68 U/l, CEA 1,63 U/ml et Ca 19,9 25 U/ml.
+Échographie de l'abdomen : masse solide dans la tête du pancréas mesurant 5,2 x 4,5 cm avec dilatation des voies biliaires extra- et intrahépatiques.
+Cholangiopancréatographie rétrograde endoscopique : infructueuse en raison de la protrusion d'une tumeur muqueuse dure dans la voie biliaire commune.
+Tomodensitométrie thoraco-abdominale : dans la partie postérieure de la tête du pancréas, une masse excentrique rétropancréatique de 3,9 x 4,8 x 5,5 cm et des adénopathies rétropancréatiques de 1,4 cm ont été visualisées.
+Laparotomie exploratrice : tumeur non résécable de la tête du pancréas avec extension vers le hile hépatique et nombreuses adénopathies.
+Anatomie pathologique : prélèvement pancréatique et adénopathies compatibles avec un lymphome B diffus à grandes cellules non hodgkinien, avec immunophénotype positif CD20, CD10, bcl 2, bcl 6 et MUM1 ; CD3 et CD5 négatifs et Ki67 très élevé.
+Biopsie de la moelle osseuse : aucun signe d'infiltration de lymphome.
+Tomographie par émission de positons (TEP) : captation dans la tête du pancréas (SUVmax : 4,8) et hypermétabolisme splénique diffus.
+
+Diagnostic
+Lymphome B non hodgkinien diffus à grandes cellules du pancréas de stade IIAE. Indice pronostique international 1 (faible risque).
+
+Traitement
+La patiente a commencé un traitement en mars 2012 par rituximab-cyclophosphamide, doxorubicine, vincristine et prednisone (R-CHOP) pendant 6 cycles.
+(R-CHOP) pendant 6 cycles.
+
+Évolution
+La réponse a été réévaluée en juillet 2012 à l'aide d'une tomographie par émission de positons (TEP), avec un résultat de captation dans la tête du pancréas (SUVmax 3,6) et une tomodensitométrie montrant une diminution de la masse du pancréas à 2,7 x 0,7 cm. Il a été conclu qu'il s'agissait d'une réponse partielle et il a été décidé d'administrer une radiothérapie de consolidation (40 Gy). Par la suite, un PET scan et un CT scan de réévaluation ont été réalisés et ont montré une réponse complète.
+Le patient est actuellement en rémission complète 18 mois après le diagnostic.

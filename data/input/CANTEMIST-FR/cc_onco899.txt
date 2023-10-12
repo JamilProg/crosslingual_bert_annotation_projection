@@ -1,0 +1,29 @@
+Anamnèse
+Patient de 60 ans, pas d'allergies médicamenteuses connues. Retraité depuis 10 ans. Aucun facteur de risque cardiovasculaire ni traitement habituel. Il a subi une appendicectomie et une opération de la fissure anale.
+Antécédents oncologiques : en 1998, on lui a diagnostiqué un carcinome adénoïde kystique du poumon, traité chirurgicalement par pneumonectomie droite, sans traitement ultérieur, en commençant les examens de contrôle.
+En avril 2006, le lobe caudé du foie a été retiré en raison de métastases d'un carcinome adénoïde kystique pulmonaire. En novembre 2007, de multiples métastases hépatiques ont été détectées et traitées par radiofréquence.
+Le patient a été adressé au service d'oncologie médicale en septembre 2008 après l'apparition de nouvelles lésions hépatiques. Le patient a présenté une légère douleur dans l'hypochondre droit pendant des mois.
+
+Examen physique
+Patient avec ECOG 0. Lors de l'examen physique, il n'y avait qu'une hypoventilation dans l'hémithorax droit. Le reste du patient ne présente aucune altération.
+
+Tests complémentaires
+Les tests analytiques étaient normaux.
+Il a été décidé d'effectuer une étude d'extension au moyen d'un scanner thoracique et d'une IRM du foie :
+"Le scanner thoracique a montré une pneumonectomie droite sans nouvelles lésions.
+"L'IRM du foie montre des modifications secondaires à la chirurgie hépatique et des lésions focales situées dans les segments 4 (1 cm), 5 (1 cm), 7 (1,7 cm) et 8 (1,5 cm) d'origine métastatique.
+
+Diagnostic
+Métastases hépatiques d'un carcinome adénoïde kystique du poumon.
+
+Traitement
+Voir sous Evolution.
+
+Évolution
+Compte tenu de la présentation d'une tumeur à croissance lente et de la possibilité d'un traitement local, il a été décidé de procéder à une chimio-embolisation avec CPT 11 en deux étapes, en février et en mai 2009.
+En décembre 2009, il a souffert d'une nouvelle progression hépatique multiple et a donc commencé un traitement au cisplatine et à la vinorelbine pendant 6 cycles, ce qui a permis de stabiliser la maladie.
+En janvier 2012, un scanner de contrôle a montré une progression des lésions hépatiques. Compte tenu de cette situation clinique, il a été décidé d'entamer une deuxième ligne de traitement avec de l'adriamycine et du cyclophosphamide pendant 6 cycles, ce qui a permis de stabiliser la maladie.
+Près d'un an plus tard, en avril 2013, il a présenté une nouvelle progression hépatique. Afin de prendre une décision thérapeutique et compte tenu des données des études avec l'imatinib, une détermination de c-kit a été demandée à ce moment-là, qui s'est révélée négative. Une troisième ligne de traitement à base de cisplatine et de 5-fluorouracile a été mise en place avec une bonne tolérance pendant 6 cycles, ce qui a permis de stabiliser à nouveau la maladie.
+Après un an de suivi, en décembre 2014, la patiente a commencé à présenter un ictère, une cholurie, une acholie et une augmentation des transaminases (GOT 106,9, GGT 1 483, bilirubine totale 4,73). Compte tenu des manifestations cliniques, une échographie abdominale a été demandée, qui a montré une progression hépatique sans signe d'obstruction biliaire. Après évaluation des options, et en accord avec la patiente, une quatrième ligne de traitement a été mise en place avec du carboplatine et de la vinorelbine ajustés à la fonction hépatique, pour 6 cycles, jusqu'en mai 2015. Le patient a montré un bénéfice clinique avec une normalisation des tests de la fonction hépatique (GOT 73,3, GGT 65, bilirubine totale 0,92) et une stabilisation radiologique.
+Quatre mois plus tard, il a présenté une nouvelle aggravation clinique et analytique, de sorte qu'une cinquième ligne de traitement, carboplatine et vinorelbine (6 cycles), a été mise en place jusqu'en mars 2016, avec une nouvelle stabilisation.
+Enfin, à la fin de l'année 2016, il a subi une progression hépatique et pulmonaire avec une nette détérioration de son état général, qui s'est terminée par son décès en janvier 2017.

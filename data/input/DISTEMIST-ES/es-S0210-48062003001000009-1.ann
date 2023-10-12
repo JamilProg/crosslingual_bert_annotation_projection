@@ -1,0 +1,62 @@
+T1	pathologie 85 120	infecciones urinarias de repetición
+T2	pathologie 221 240	divertículo uretral
+T3	pathologie 360 392	incontinencia urinaria de estrés
+T4	pathologie 659 680	cáncer genitourinario
+T5	pathologie 881 902	Hipertensión arterial
+T6	pathologie 904 908	Asma
+T7	pathologie 1111 1119	alergias
+T8	pathologie 1134 1142	diabetes
+T9	pathologie 1147 1151	fuma
+T10	pathologie 1155 1159	bebe
+T11	pathologie 1181 1197	Obesidad mórbida
+T12	pathologie 1347 1352	obeso
+T13	pathologie 1370 1390	hepatoesplenomegalia
+T14	pathologie 1440 1478	Introito vaginal relativamente angosto
+T15	pathologie 1630 1649	divertículo uretral
+T16	pathologie 1698 1721	incontinencia de estrés
+T17	pathologie 2297 2316	divertículo uretral
+T18	pathologie 2416 2450	quiste de la glándula de Bartolino
+T19	pathologie 2521 2540	divertículo uretral
+T20	pathologie 2686 2715	dos ostium en la uretra media
+T21	pathologie 3107 3126	divertículo uretral
+T22	pathologie 3140 3202	dos ostium a las 7 del horario cistoscópico en la uretra media
+T23	pathologie 3329 3350	fístula uretrovaginal
+T24	pathologie 3352 3369	estenosis uretral
+T25	pathologie 4394 4413	divertículo uretral
+T26	pathologie 4466 4477	divertículo
+T27	pathologie 4518 4529	divertículo
+T28	pathologie 5016 5027	divertículo
+T29	pathologie 5281 5292	divertículo
+T30	pathologie 5413 5424	divertículo
+T31	pathologie 5549 5602	divertículo uretral complejo, con inflamación crónica
+#1	SNOMED T11	238136002
+#2	SNOMED T5	38341003
+#3	SNOMED T6	195967001
+#4	SNOMED T19	90531003
+#5	SNOMED T1	197927001
+#6	SNOMED T23	50477003
+#7	SNOMED T24	236647003
+#8	SNOMED T13	36760000
+#9	SNOMED T2	90531003
+#10	SNOMED T8	73211009
+#11	SNOMED T15	90531003
+#12	SNOMED T21	90531003
+#13	SNOMED T17	90531003
+#14	SNOMED T4	271468000
+#15	SNOMED T18	299692008
+#16	SNOMED T25	90531003
+#17	SNOMED T31	90531003
+#18	SNOMED T12	414916001
+#19	SNOMED T7	106190000
+#20	SNOMED T16	22220005
+#21	SNOMED T3	22220005
+#22	SNOMED T9	77176002
+#23	SNOMED T10	288855004
+#24	SNOMED T14	248874006
+#25	SNOMED T20	4985009
+#26	SNOMED T22	4985009
+#27	SNOMED T26	397881000
+#28	SNOMED T27	397881000
+#29	SNOMED T28	397881000
+#30	SNOMED T29	397881000
+#31	SNOMED T30	397881000

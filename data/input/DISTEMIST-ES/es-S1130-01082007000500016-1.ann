@@ -1,0 +1,20 @@
+T1	pathologie 73 97	diabetes mellitus tipo 2
+T2	pathologie 100 119	hipercolesterolemia
+T3	pathologie 474 485	rectorragia
+T4	pathologie 649 664	visceromegalias
+T5	pathologie 1133 1178	lesión ocupante de espacio en lóbulo hepático
+T6	pathologie 1457 1473	absceso hepático
+T7	pathologie 2129 2176	lesión exofítica próxima a la válvula ileocecal
+T8	pathologie 2260 2283	adenocarcinoma de ciego
+T9	pathologie 2319 2343	diseminación metastásica
+T10	pathologie 2353 2378	lesiones a nivel hepático
+#1	SNOMED T1	44054006
+#2	SNOMED T2	13644009
+#3	SNOMED T3	12063002
+#4	SNOMED T4	28543008
+#5	SNOMED T5	235856003
+#6	SNOMED T6	27916005
+#7	SNOMED T7	18526009
+#8	SNOMED T8	413446001
+#9	SNOMED T9	128462008
+#10	SNOMED T10	235856003

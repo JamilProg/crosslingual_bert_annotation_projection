@@ -1,0 +1,28 @@
+Anamnèse
+Une femme de 36 ans originaire de Guinée. Elle a été traitée par doxycycline à l'âge de 20 ans. Pas d'antécédents familiaux de cancer.
+Maladie actuelle : trois jours après son arrivée en Espagne, elle s'est présentée au service des urgences avec une tumeur indolore dans le nez, présente depuis trois mois et qui a progressivement augmenté pour mesurer 4 x 5 cm. Elle a perdu environ 10 kg en deux mois. Elle présente en outre une dyspnée à l'effort modérée. Elle évoque une activité sexuelle à risque.
+
+Examen physique
+Température 37,9 ºC, TA 100/50 mm Hg, FC 104 bpm, Sat 97 %. Pharynx avec présence de tumeurs rouges-violacées sur tout le palais mou, adénopathies cervicales et submandibulaires. Grande tumeur nasale lobulée, exophytique, rouge-violacée. CA : rythmique. AP : murmure vésiculaire conservé. ABD : souple sans masse ni mégalithes. Au niveau du membre inférieur gauche, il y avait un œdème ligneux jusqu'au genou. Lésions hypopigmentées dans la région prétibiale, lésions verruqueuses rougeâtres sur la plante du pied. Lésions maculaires hypervascularisées sur le genou droit.
+
+Tests complémentaires
+"NFS : anodine sauf PCR : 56,80 mg/l (moins de 5). RPR-, IgG toxo+, IgG CMV+, anti-HCV-, anti-HBc+, anti-HBs+, HBsAg-, anti-HAV+. En outre, la brucellose, la rickettsie, le Treponema pallidum, la Bartonella et le Plasmodium falciparum ont été exclus.
+"Il était séropositif avec 375 CD4 et une charge virale de 41 000. Il n'avait pas de mutations dans les inhibiteurs de la transcriptase.
+"Radiographie thoracique : infiltrats interstitiels prédominant dans les lobes supérieurs et postérieurs, principalement dans les LSI sous forme d'atélectasie.
+"Echo Doppler du membre inférieur gauche montrant un thrombus important dans la veine fémorale commune, la veine fémorale superficielle et la veine poplitée gauche.
+"Etude complète de la coagulation sans résultats pertinents.
+"Expectorations x 3 : Mycobacterium tuberculosis a été isolé.
+"Tomodensitométrie : poumon avec de multiples foyers diffus de consolidations pseudonodulaires bilatérales, cavitaires ou avec une tendance à la cavitation, prédominant dans les lobes supérieurs et les segments supérieurs des lobes inférieurs. Adénopathies réactives hilaires bilatérales multiples et dans l'espace sous-carénaire.
+"Biopsie cutanée du genou et du nez : une prolifération de cellules fusiformes avec atypies et mitoses, ainsi que des fentes vasculaires et une extravasation hématique peuvent être observées dans le derme. Elles présentent une immunoexpression pour le HHV-8. Diagnostic du sarcome de Kaposi.
+
+Diagnostic
+"Maladie à VIH, stade C2. (375 CD4 et 41000 CV) ; MAR HLA B5701 négatif. RPR-, IgG toxo+, IgG CMV+, anti-HCV-, anti-HBc+, anti-HBs+, HBsAg-, anti-HAV+. raltegravir (RAL), tenofovir (TDF), emtricitabine (FTC).
+"Tuberculose pulmonaire.
+"Sarcome de Kaposi stade IV.
+"Thrombose veineuse profonde fémorale commune, superficielle et poplitée inférieure.
+
+Traitement
+Le patient, en isolement respiratoire, a commencé un traitement à base d'éthambutol, de rifampicine et de pyrazinamide. Après deux semaines de traitement antituberculeux, une thérapie antirétrovirale a été mise en place avec du ténofovir, de l'emtricitabine et du raltégravir (ce dernier en double dose en raison de son interaction avec la rifampicine, qui induit l'enzyme qui métabolise les médicaments du cytochrome P450). En raison des interactions possibles et en prévision du début du traitement oncologique, l'anticoagulation par héparine de bas poids moléculaire a été interrompue et, le 7/10/16, elle a commencé un traitement oncologique palliatif avec le schéma Adria (Caelyx®) pégylé (sic), dont elle a reçu 7 cycles jusqu'au 30/5/2017. La dose a dû être retardée à plusieurs reprises en raison d'une neutropénie G3.
+
+Évolution
+La patiente, après 7 cycles de traitement, a montré une réponse presque complète dans toutes les lésions : l'amélioration significative de la lésion nasale malgré les retards est particulièrement remarquable. Elle est actuellement en attente d'une évaluation par la dermatologie en vue d'une chirurgie esthétique de la lésion nasale. En outre, la patiente a présenté une neutropénie G:3 et sa dose a dû être retardée à plusieurs reprises, ce qui a nécessité un soutien par filgrastim. Elle suit bien le traitement antirétroviral.

@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 59 ans, allergique à la pénicilline et à la procaïne. Fumeuse active (IPA : 43).
+Antécédents familiaux : diagnostic de carcinome du colon chez le grand-père maternel à l'âge de 70 ans ; diagnostic de carcinome bilatéral du sein chez la mère à l'âge de 50 ans ; décès du père d'un carcinome gastrique à l'âge de 47 ans ; diagnostic de carcinome du sein chez trois tantes maternelles à l'âge de 55, 56 et 57 ans respectivement ; et trois cousines atteintes d'un carcinome du sein.
+Antécédents personnels : bronchite chronique, polypose colique, carcinome canalaire infiltrant classique du sein pT2pN0M0 G2 tumeur luminale sous-type a (HR : +, HER-2 : négatif) opéré en août 2013 par tumorectomie du sein gauche (round block pattern) + biopsie sélective du ganglion lymphatique sentinelle (négative) et QT adjuvant ultérieur avec schéma CT (paclitaxel-cyclophosphamide) x 4 cycles.
+Elle a participé à une visite de suivi en novembre 2013 après avoir terminé le traitement adjuvant. Asymptomatique.
+
+Examen physique
+Température axillaire 36,5°C, tension artérielle 130/83 mm Hg, fréquence cardiaque 90 bpm et saturation basale en oxygène 98%.
+Conscient, orienté dans les trois sphères, eupnéique au repos. Bon état général. Examen des seins : pas de signes d'inflammation, d'ulcération et/ou d'asymétrie. Pas d'écoulement ni de rétraction du mamelon. Aucun nodule, masse ou adénopathie régionale n'est palpable. AC : tonalités rythmiques, pas de souffle. AP : hypoventilation dans l'hémithorax gauche. Abdomen : sans particularité. Pas d'œdème ni de signes de TVP au niveau du LES.
+
+Examens complémentaires
+TDM avec contraste : nodules pulmonaires de 10 mm dans le lobe supérieur droit (LSD), qui a un contact important avec la plèvre et une spéculation marginale discrète (aspect atypique correspondant à une maladie secondaire) et deux dans le lobe moyen (LM) avec des bords bien définis, le plus grand de 16 mm.
+Examens généraux de laboratoire : biochimie et hémogramme sans altérations pertinentes. Marqueurs tumoraux : Ca 15.3 : 23.3 U/ml (0-30). CEA : 18,27 ng/ml (0-4,6).
+
+Diagnostic
+- Nodules pulmonaires à l'étude.
+- Carcinome canalaire infiltrant pT2pN0M0 luminal A.
+
+Traitement
+Aucun traitement spécifique n'est nécessaire pour le moment.
+
+Évolution
+Un PET/CT scan a été demandé et a confirmé l'existence d'un nodule de 1,3 mm dans le LSD avec un SUVmax de 6,6 et d'un nodule de 10 mm dans le LM avec un SUVmax de 3 ; pas d'autres résultats.
+CT crânio-encéphalique avec contraste : pas d'images suggérant une maladie secondaire au niveau encéphalique. Les espaces sous-arachnoïdiens convexes et le système ventriculaire sont dans les limites de la normale.
+Après avoir présenté le cas au Comité des tumeurs thoraciques, une intervention chirurgicale a été envisagée. Le 26/2/2014, une résection atypique des deux nodules pulmonaires (16 mm LSD et 12 mm LM) a été réalisée, avec pour résultat anatomopathologique un adénocarcinome acineux d'origine pulmonaire G2 focalement mucosécrétante (profil immunohistochimique, IHQ : TTF1:+). Détermination : mutation EGFR (RT-PCR Cobas®) : négative. Translocation ALK (IHC Novocastra®) : négative.
+Après la chirurgie, une TEP/TDM a été demandée, qui a détecté un hyperenhancement dans les adénopathies 4R, 7, 10R avec SUVmax jusqu'à 4. Après avoir présenté le cas au comité multidisciplinaire, il a été décidé de demander une tomodensitométrie, qui n'a pas montré de résultats notables, et une écho-bronchoscopie (EBUS). Une ponction-biopsie a été réalisée sur les ganglions lymphatiques 4R et 7, qui se sont révélés négatifs pour une tumeur maligne avec des résultats inflammatoires.
+Le suivi étroit s'est poursuivi et, en avril 2015, une tomodensitométrie a révélé un nodule pulmonaire de 0,6 cm dans le LSD et une augmentation de l'ACE (8). Un examen TEP/TDM a montré un micronodule de 0,5 cm dans le LSD avec un SUVmax de 1,6 suspect de malignité, sans autre preuve de maladie régionale et/ou à distance. Des tests fonctionnels respiratoires et une bronchoscopie ont également été demandés, mais les résultats étaient sans particularité.
+En cas de suspicion de récidive locale, la patiente a été présentée à nouveau au Comité des tumeurs thoraciques et une intervention chirurgicale a été envisagée. La patiente a été opérée sous anesthésie générale le 25 juin 2015, avec une résection cunéiforme sous-lobaire atypique du LSD, localisant un nodule dans le segment postérieur du LSD. Le résultat anatomopathologique a confirmé un adénocarcinome modérément différencié d'origine pulmonaire pT1aN0M0 (profil IHC : TTF1:+, RH : - ; Ki 67 : 75 %). Il a ensuite reçu un traitement adjuvant QT avec cisplatine 75 mg/m2 IV j1 + VNR oral 60 mg/m2 d1y8 c/21d, x 4 cycles, avec une bonne tolérance et une réponse radiologique complète.
+Examens périodiques ultérieurs sans signe de maladie jusqu'en mai/2017 où un scanner a montré une progression de la maladie avec apparition d'une masse pulmonaire gauche, de nodules pulmonaires métastatiques bilatéraux, d'une atteinte métastatique des ganglions lymphatiques médiastinaux et hilaires gauches avec dissémination osseuse. Adénopathies médiastinales multiples et conglomérats, lésion blastique dans le corps vertébral T5.
+Lors de l'examen physique, la palpation d'un conglomérat adénopathique dans la région sus-claviculaire gauche a été douloureuse.
+Un profilage génomique a été demandé avec le matériel provenant de la biopsie de l'échantillon chirurgical précédent en utilisant la plateforme FoundationOne® de séquençage de nouvelle génération (NGS), qui a identifié une amplification ERBB2, une mutation BRCA-1 (variante D1692fs*10), une amplification MYC, une mutation TP53 (épissage 920-1G>T), ainsi qu'une charge mutationnelle élevée (TMB-High ; 42Muts/Mb).
+La détermination immunohistochimique de PD-L1 a également été demandée et a révélé une expression de PD-L1 dans moins de 1 % des cas (pas d'expression).
+La scintigraphie osseuse a confirmé la présence de multiples métastases osseuses réparties dans la calotte, la cage thoracique, la colonne vertébrale, le sternum, les deux humérus, le bassin et le fémur droit.
+Compte tenu de tous les résultats clinico-radiologiques, du profil génomique et du QI de la tumeur, il a été décidé, après évaluation des différentes options thérapeutiques, d'entreprendre un traitement palliatif de première ligne par carboplatine AUC-5+ pemetrexed 500 mg/m2 IV d1 c/21d + acide zolédronique 4 mg IV.
+Actuellement, elle a terminé 2 cycles avec une bonne tolérance et une radiothérapie antalgique palliative sur les lésions osseuses pelviennes a été demandée, en raison d'un mauvais contrôle de la douleur malgré une analgésie de troisième niveau.

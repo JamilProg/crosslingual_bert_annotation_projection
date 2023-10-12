@@ -1,0 +1,63 @@
+Anamnèse
+Femme de 70 ans, sans allergies médicamenteuses ni habitudes toxiques connues. Antécédents personnels de dépression sous traitement pharmacologique.
+
+ANTÉCÉDENTS ONCOLOGIQUES
+
+Diagnostiquée en mars 2014 d'un cancer du sein droit inflammatoire RH -, Her 2 ++, avec dissémination ganglionnaire dans le territoire cervical droit et osseuse simple M1 dans la crête iliaque droite.
+Elle a subi une chimiothérapie AC (anthracyclines) x 4 cycles + TH (taxanes-Herceptine) x 12 cycles avec Herceptine ultérieure (fin octobre 2014). Effectué radiothérapie locorégionale et sur la crête iliaque droite.
+Mastectomie ultérieure avec réponse pathologique complète, et vide ganglionnaire 0/0. Elle a commencé des examens de contrôle sans aucun signe de récidive.
+Elle s'est rendue à la clinique externe en janvier 2016 pour une faiblesse généralisée, une asthénie et une douleur sous-scapulaire gauche irradiant vers la cage thoracique. Une scintigraphie osseuse (GGO) a été réalisée, montrant des dépôts diffus compatibles avec l'arthrose et un dépôt spécifique de légère activité dans le gril costal droit, ainsi qu'un scanner cérébral normal.
+Reconsultation le 10/02/2016 en raison d'une faiblesse accrue des membres inférieurs et d'une dysesthésie, l'empêchant de marcher ou de réaliser ses activités habituelles. Compte tenu de l'aggravation de l'état clinique, une hospitalisation a été décidée pour étude et traitement.
+
+Examen physique
+Normal, afébrile.
+
+Aspect général : conscient, orienté dans les trois sphères, normalement coloré et normohydraté.
+
+Eupnéique au repos.
+
+IK 80% IK 80% IK 80% IK 80% IK 80% IK 80% IK 80% IK 80% IK
+
+Labilité émotionnelle
+
+AC : rythmé, pas de bouffées ni de frottements
+
+AP : mvc, pas de sons ajoutés.
+
+Poitrine : douleur à la palpation dans la région sous-scapulaire gauche, aucune masse ou déformation n'est palpable. Pas de craquements osseux.
+ Abdomen : mou, dépressible, non douloureux à la palpation, péristaltisme conservé.
+
+Neurologique : Glasgow 15, pas d'altération du langage. Nerfs crâniens préservés et symétriques. Force EID 3/5 avec hypoesthésie de la face externe, force EII 4/5. Hypoesthésie dans l'hémiabdomen droit. Pas de méningisme.
+
+Pas d'œdème des membres inférieurs ni de signes de thrombose veineuse.
+
+Examens complémentaires
+- Radiographie pulmonaire : ITC<0,5, condensation douteuse dans la LID non présente dans les études précédentes.
+- NFS : Hb 12,5 g/dL, leucocytes 5120/mm3, (N 58,5%), plaquettes 135000/mm3. Créatine 0,42 mg/dL, urée 33 mg/dL, Na 136 mmol/L, K 3,8 mmol/L, Cl 99 mmol/L, calcium normal, AST 20 U/L, ALT 18 U/L, Bil 0,68 mg/dL, Alb 4 g/dL, CRP 0,5 mg/dL.
+- CT thoraco-abdominal : lymphadénectomie axillaire droite avec collection de liquide à l'intérieur de 74 mm, dans le cadre d'une mastectomie ipsilatérale avec reconstruction TRAM. Hernie hiatale glissée. Aucune adénopathie médiastinale de taille significative n'a été observée. Le reste des structures médiastinales est normal. Parenchyme pulmonaire sans signe de condensation ou de pathologie interstitielle. Espaces pleuraux libres. Adénome surrénalien gauche de 26 mm inchangé par rapport à l'étude précédente. Adénome surrénalien droit normal. Spondylarthrose modérée. Fracture ancienne de l'arc antérieur de la 5e côte droite. Discrète stéatose hépatique avec granulome calcifié dans le lobe hépatique droit.
+- IRM cérébrale : pas de signes de lésions aiguës ou de lésions occupant l'espace. Léger degré d'atrophie sous-corticale. Colpocéphalie. Lésions de haut signal en Flair et T2, peu nombreuses, sans restriction de diffusion, touchant la substance blanche sous-corticale des lobes frontal et pariétal, compatibles avec une ischémie chronique des petits vaisseaux. Structure médiane centrée. Charnière cervico-occipitale sans altération.
+- IRM cervicale : masse intrathécale entre les nerfs T1, T2 et T3, de localisation extramédullaire, mais avec une composante intrathécale et extrathécale, qui comprime la moelle épinière, la déplaçant clairement vers la gauche et modifiant sa morphologie, et qui s'étend également à travers les foramina T2-T3 droits, où elle affecterait la racine T2 droite, présentant un faible signal en T1, un léger hypersignal en T2 et un rehaussement homogène après l'administration de produit de contraste. Bien que la patiente ait des antécédents de tumeur mammaire primaire, les caractéristiques de la lésion et son extension à travers le foramen conjonctif soulèvent la possibilité d'une tumeur neurogène comme première possibilité diagnostique. Aucun autre changement n'a pu être évalué.
+
+Diagnostic
+"Masse extramédullaire avec composante intrathécale et extrathécale T1-T3, suspicion de tumeur neurogène.
+"Faiblesse au niveau de l'EEII
+"Paresthésie de l'hémicorps droit
+"Cancer inflammatoire du sein droit RH-, Her2 positif, traité par ACx4 + TH x 12 + radiothérapie locorégionale et mastectomie + lymphectomie ultérieures.
+"Métastase osseuse unique dans la crête iliaque droite irradiée.
+"Spondylarthrose modérée.
+"Adénome surrénalien gauche
+"Stéatose hépatique
+"Dépression en cours de traitement
+
+Traitement
+Sur le plan clinique, la patiente a présenté une aggravation progressive, avec une perte de force EID 2/4, EII 4/5 et EESS 5/5 ; des hypoesthésies et des paresthésies au niveau sensoriel D1-D3, et une perte du contrôle sphinctérien.
+Le 25.02.2016, elle a été opérée pour une compression de la moelle épinière, en réalisant une laminectomie et une décompression vertébrale, en retirant principalement la composante intradurale de la session.
+L'anatomie pathologique était la suivante Métastase d'un carcinome canalaire du sein
+- récepteurs d'œstrogènes positifs à 80
+- récepteurs de la porgestérone positifs dans 60 % des cas.
+- Son 2-neu est positif (+3).
+Par la suite, le 10.03.2016, une radiothérapie palliative a été réalisée sur le territoire D1-D4 avec DT de 27 Gy, divisée en 6 séances.
+
+Evolution
+La patiente est actuellement admise dans un centre médico-social (CSS) en raison d'une perte d'autonomie. Elle présente une impotence fonctionnelle des membres inférieurs, nécessitant un fauteuil roulant pour se déplacer et une incontinence vésicale. Elle a également présenté une exacerbation de son trouble dépressif qui a nécessité l'intervention de l'équipe de psychiatrie.
+Lors de son admission au CSS, elle a été évaluée par le service d'oncologie, qui a demandé un échocardiogramme compte tenu du traitement antérieur par anthracyclines et herceptine. Après avoir exclu toute toxicité cardiaque, un traitement par Letrozole-Herceptin a été mis en place, actuellement en attente d'une évaluation de la réponse.

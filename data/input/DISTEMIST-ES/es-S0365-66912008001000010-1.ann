@@ -1,0 +1,12 @@
+T1	pathologie 276 279	HII
+T2	pathologie 367 377	papiledema
+T3	pathologie 718 738	papiledema bilateral
+T4	pathologie 1621 1649	trombosis de senos craneales
+T5	pathologie 1669 1715	estenosis segmentaria del seno lateral derecho
+T6	pathologie 1882 1925	estenosis larga del seno transverso derecho
+#1	SNOMED T3	15930381000119104
+#2	SNOMED T1	50490005
+#3	SNOMED T4	192759008
+#4	SNOMED T2	423341008
+#5	SNOMED T5	62914000
+#6	SNOMED T6	62914000

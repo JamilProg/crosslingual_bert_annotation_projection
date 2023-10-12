@@ -1,0 +1,18 @@
+Anamnèse
+Nous présentons le cas d'un infirmier de 60 ans, fumeur actif de 80 paquets-années et souffrant d'une obésité de grade 2, qui a présenté des antécédents de flutter auriculaire (2010) pour lesquels une ablation de l'isthme cavotricuspide a été réalisée, avec des épisodes ultérieurs autolimités. En outre, il a été opéré d'une hernie discale au niveau L4-L5 (2013). Le traitement habituel consiste en 2,5 mg de bisoprololol par jour.
+En janvier 2018, il a été admis en médecine interne pour une fibrillation auriculaire avec insuffisance cardiaque et hypokaliémie modérée.
+
+Examen physique
+L'examen physique a révélé un indice de Karnofsky de 70, une pression veineuse jugulaire à la limite supérieure, une auscultation cardiaque arythmique, sans souffle, à 140 bpm, une auscultation pulmonaire avec une respiration sifflante expiratoire dispersée et un œdème avec fovéa bilatéral jusqu'aux genoux.
+
+Examens complémentaires
+La radiographie du thorax montre une masse hilaire gauche fortuite. Un scanner cervicothoracique a été demandé, montrant un conglomérat adénopathique hilaire gauche mesurant 9 x 4 x 8 cm, qui diminue la veine pulmonaire gauche et envahit le médiastin jusqu'à la région pré-aortique, ce qui est compatible avec une néoformation pulmonaire. En outre, de multiples lésions hétérogènes hypodenses ont été observées dans le foie et des glandes surrénales hyperplasiques. L'étude a été prolongée par un PET scan qui a confirmé les résultats précédemment décrits, en plus de multiples atteintes osseuses métastatiques. Une biopsie pulmonaire a été effectuée et a révélé un carcinome à petites cellules.
+
+Le diagnostic
+Il s'agit donc d'un patient atteint d'un carcinome microcytaire du poumon et d'une maladie étendue (foie, os).
+
+Traitement
+Au vu de ces résultats et de l'hypokaliémie sévère, il a été décidé de commencer une chimiothérapie, en admettant la patiente avec du cisplatine et de l'étoposide avec un contrôle de la diurèse et un ajustement de l'hydratation.
+
+Évolution
+Au cours de l'admission, les taux de potassium ont progressivement diminué, ce qui a été initialement attribué au traitement diurétique par le furosémide. Pour cette raison, la dose a été réduite et la spironolactone a été mise en place, ainsi qu'une supplémentation orale en potassium et une surcharge intraveineuse, tout en maintenant la fonction rénale à tout moment. Malgré ces mesures, la kaliémie a continué à baisser jusqu'à un minimum de 1,9 mEq/l, associée à des crises hypertensives difficilement contrôlables, ce qui a conduit à une extension de l'étude analytique avec cortisol et ACTH (valeurs anormalement élevées), gaz du sang veineux et cortisol urinaire. Compte tenu de la réfractarité des symptômes et du diagnostic confirmé de syndrome de Cushing ectopique dû à la production d'ACTH en relation avec un syndrome paranéoplasique dû à un cancer du poumon microcytaire métastatique, le service d'endocrinologie a été consulté et a commencé à administrer du kétoconazole, ce qui a permis de normaliser les taux de potassium à la sortie et de bien contrôler la pression artérielle, permettant ainsi de poursuivre le traitement par chimiothérapie.

@@ -1,0 +1,24 @@
+T1	pathologie 107 129	hematuria macroscópica
+T2	pathologie 217 264	hemihipertrofia facial por tortícolis congénito
+T3	pathologie 266 274	varicela
+T4	pathologie 276 300	mononucleosis infecciosa
+T5	pathologie 338 346	neumonía
+T6	pathologie 363 384	traumatismo en cóccix
+T7	pathologie 680 702	hematuria macroscópica
+T8	pathologie 1227 1275	adenomegalias inter-cavoaórticas ni periaórticas
+T9	pathologie 1303 1317	tumor de Wilms
+T10	pathologie 1320 1335	adeno-carcinoma
+T11	pathologie 1459 1489	nefroma meso-blástico quístico
+T12	pathologie 1491 1516	quiste renal multilocular
+#1	SNOMED T7	197941005
+#2	SNOMED T9	302849000
+#3	SNOMED T11	307604008
+#4	SNOMED T10	443961001
+#5	SNOMED T12	86463003
+#6	SNOMED T2	205838004+268240006
+#7	SNOMED T3	38907003
+#8	SNOMED T4	271558008
+#9	SNOMED T5	233604007
+#10	SNOMED T6	282764008
+#11	SNOMED T8	127140000
+#12	SNOMED T1	197941005

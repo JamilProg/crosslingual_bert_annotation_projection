@@ -1,0 +1,22 @@
+T1	pathologie 620 626	lesión
+T2	pathologie 781 787	lesión
+T3	pathologie 872 899	edema óseo en el escafoides
+T4	pathologie 931 940	sinovitis
+T5	pathologie 990 996	lesión
+T6	pathologie 1006 1016	encondroma
+T7	pathologie 1018 1036	ganglión intraóseo
+T8	pathologie 1081 1087	lesión
+T9	pathologie 1469 1475	lesión
+T10	pathologie 2197 2219	quistes aneurismáticos
+T11	pathologie 2258 2295	condroblastoma de escafoides carpiano
+#1	SNOMED T4	416209007
+#2	SNOMED T6	443496006
+#3	SNOMED T7	445008009
+#4	SNOMED T10	203468000
+#5	SNOMED T11	188944001
+#6	SNOMED T1	417163006
+#7	SNOMED T2	417163006
+#8	SNOMED T5	417163006
+#9	SNOMED T8	417163006
+#10	SNOMED T9	417163006
+#11	SNOMED T3	102563003

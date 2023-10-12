@@ -1,0 +1,24 @@
+T1	pathologie 34 37	LAM
+T2	pathologie 56 89	hemoneumotórax derecho espontáneo
+T3	pathologie 129 138	hemotórax
+T4	pathologie 154 171	distrofia bullosa
+T5	pathologie 251 266	ascitis quilosa
+T6	pathologie 288 325	linfangioma quístico retro-peritoneal
+T7	pathologie 442 457	derrame pleural
+T8	pathologie 524 534	quilotórax
+T9	pathologie 1443 1487	derrame pleural aumentó haciéndose bilateral
+T10	pathologie 1767 1782	hipoalbuminemia
+T11	pathologie 1862 1891	infección asociada al catéter
+T12	pathologie 2559 2584	derrame pleural bilateral
+#1	SNOMED T9	425802001
+#2	SNOMED T1	91861009
+#3	SNOMED T11	440653007
+#4	SNOMED T2	16632002
+#5	SNOMED T7	60046008
+#6	SNOMED T10	119247004
+#7	SNOMED T8	83035003
+#8	SNOMED T4	823996003
+#9	SNOMED T12	425802001
+#10	SNOMED T5	52985009
+#11	SNOMED T6	400178008
+#12	SNOMED T3	31892009

@@ -1,0 +1,14 @@
+T1	pathologie 242 266	hiperfunción suprarrenal
+T2	pathologie 599 609	metástasis
+T3	pathologie 910 933	infiltración del hígado
+T4	pathologie 1158 1163	tumor
+T5	pathologie 1228 1248	adenopatías hiliares
+T6	pathologie 1428 1539	tumor infiltraba la cápsula y la grasa perirrenal de todo el polo superior del riñón izquierdo así como el bazo
+T7	pathologie 1599 1635	carcinoma de la glándula suprarrenal
+#1	SNOMED T2	128462008
+#2	SNOMED T6	363518003+94603006
+#3	SNOMED T1	237744009
+#4	SNOMED T7	127021009
+#5	SNOMED T5	87500009
+#6	SNOMED T3	94381002
+#7	SNOMED T4	55342001

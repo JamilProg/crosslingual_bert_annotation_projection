@@ -1,0 +1,20 @@
+T1	pathologie 37 58	hipertensión arterial
+T2	pathologie 134 141	melenas
+T3	pathologie 188 196	disfagia
+T4	pathologie 301 316	visceromegalias
+T5	pathologie 351 363	desnutrición
+T6	pathologie 407 435	anemia microcítica hipocroma
+T7	pathologie 673 727	erosiones sobre una mucosa edematosa en bulbo duodenal
+T8	pathologie 806 823	gastritis crónica
+T9	pathologie 1001 1049	hemorragia digestiva alta por duodenitis erosiva
+T10	pathologie 1052 1091	anemia secundaria a perdidas digestivas
+T11	pathologie 1232 1239	melenas
+T12	pathologie 1512 1562	yeyuno proximal una tumoración, friable y ulcerada
+T13	pathologie 1699 1704	tumor
+T14	pathologie 1787 1816	yeyuno proximal una estenosis
+T15	pathologie 2017 2064	adenopatías locoregionales ni retroperitoneales
+T16	pathologie 2107 2133	lesiones focales hepáticas
+T17	pathologie 2148 2158	metástasis
+T18	pathologie 2229 2278	leiomiosarcoma de bajo grado de intestino delgado
+T19	pathologie 2296 2325	extensión tumoral a distancia
+T20	pathologie 2421 2426	tumor

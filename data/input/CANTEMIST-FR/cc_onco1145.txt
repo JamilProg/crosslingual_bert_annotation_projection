@@ -1,0 +1,33 @@
+Anamnèse
+Une femme de 68 ans est adressée par son médecin traitant pour un tableau d'altération des habitudes intestinales, avec asthénie, hyporexie et perte de 3 kg en un mois, avec des taux élevés d'antigène carcinoembryonnaire (ACE) à l'analyse. À la suite d'une étude réalisée par la médecine interne en avril 2008, un adénocarcinome du sigma a été diagnostiqué, et lors de l'étude d'extension par tomodensitométrie thoraco-abdominale, des lésions hépatiques compatibles avec des métastases et une lésion du sein gauche compatible avec une néoplasie mammaire ont été détectées.
+
+Examen physique
+État général acceptable, conscient, orienté et coopératif. Eupnéique au repos. Hémodynamiquement stable.
+Thyroïde normale. Augmentation de la consistance dans le quadrant supérieur externe du sein gauche.
+Auscultation cardio-pulmonaire sans altérations pertinentes.
+Abdomen souple et dépressible sans masse ni mégalithes.
+
+Examens complémentaires
+- Analyses sanguines : glycémie, fonction rénale, ions, biochimie hépatique, protéines totales, Igs, hormones thyroïdiennes, étude de la coagulation et hémogramme normaux. CEA 27,4 ng/ml. CA 15,3 normal.
+- Sérologie du virus hépatotrope : hépatite C IgG ELISA.
+- Mammographie : nodule dans le quadrant supéro-externe du sein gauche présentant des caractéristiques malignes. Biopsie : carcinome canalaire infiltrant G1 RE et RP+ 80% Ki 67 : 5% HER2 : négatif.
+- Tomodensitométrie thoraco-abdominale : lésion dans le quadrant supéro-externe du sein gauche. Compatible avec une néoplasie mammaire. Néoplasie du côlon sigmoïde, avec croissance circonférentielle et diminution marquée de la lumière. Lésions hépatiques focales dans les segments VI et VII de moins de 2 cm, hypodenses.
+- Coloscopie : lésion sténosante du sigmoïde à 20 cm de la marge anale. Biopsie : adénocarcinome.
+
+Diagnostic
+Adénocarcinome sténosant du sigma cT3cN2M1 (hépatique synchrone M1).
+Carcinome canalaire infiltrant du sein cT1N0M0 RE+ ; HER2 - Ki 67 : 5%.
+
+Traitement
+Une sigmoïdectomie avec anastomose de bout en bout a été réalisée en mai 2008 avec le diagnostic anatomopathologique (AP) : adénocarcinome du sigma pT3pN2 et séquentiellement mastectomie + vide axillaire avec le résultat AP : carcinome canalaire infiltrant de 1,2 cm G1 N0/12.
+Elle a commencé un traitement QT par XELOX (oxaliplatine et capecitabine) en intention périopératoire et a reçu 3 cycles, avec une stabilité de la maladie.
+En janvier 2009, une métastasectomie des lésions hépatiques a été réalisée, avec une anatomie pathologique (AP) d'hépatocarcinome multicentrique modérément différencié, sur nodule irrégulier post-hépatique cirrhose du foie, qui contacte les plans de résection.
+La patiente, qui ne présente aucun signe de maladie, poursuit ses examens réguliers avec de l'anastrozole pour le traitement adjuvant de son carcinome mammaire.
+
+Évolution
+En janvier 2011, une lésion hépatique compatible avec une récidive d'hépatocarcinome a été détectée et traitée par radiofréquence.
+En avril 2012, une nouvelle progression hépatique a été détectée, ne nécessitant pas de traitement par radiofréquence en raison de la localisation de la lésion, qui a été traitée par chimioembolisation artérielle.
+En mars 2013, le foie a progressé sans que l'on puisse envisager un traitement local. Elle a été mise sous sorafénib 400 mg/12 h, qui a nécessité une réduction de dose en raison d'une toxicité dermatologique et digestive, et a été arrêtée en juillet 2013 en raison de l'absence de bénéfice clinique.
+En mars 2014, de nouvelles lésions focales sont apparues dans le foie, compatibles avec un hépatocarcinome au scanner triphasique.
+Un traitement par adriamycine en monothérapie a alors été proposé, mais en raison de la détérioration clinique, il a été décidé d'orienter la patiente vers une hospitalisation à domicile pour le contrôle des symptômes.
+En juin 2014, la patiente a été admise à l'unité de soins palliatifs en état d'agonie et est décédée en raison d'une défaillance multi-organique.

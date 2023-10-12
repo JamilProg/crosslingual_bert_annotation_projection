@@ -1,0 +1,20 @@
+T1	pathologie 436 442	lesión
+T2	pathologie 949 958	neoplasia
+T3	pathologie 1168 1189	osteo y condrosarcoma
+T4	pathologie 1655 1692	tumor contactaba con la cápsula renal
+T5	pathologie 1711 1787	invadiendo estructuras vasculares del hilio y el tejido adiposo de la pelvis
+T6	pathologie 1900 1927	carcinoma de células claras
+T7	pathologie 1965 1974	neoplasia
+T8	pathologie 2191 2219	carcinoma sarcomatoide renal
+T9	pathologie 2283 2304	osteo y condrosarcoma
+T10	pathologie 2354 2431	carcinoma con patrón de células claras y de áreas con diferenciación escamosa
+#1	SNOMED T2	55342001
+#2	SNOMED T3	21708004
+#3	SNOMED T4	126880001
+#4	SNOMED T6	254915003
+#5	SNOMED T7	55342001
+#6	SNOMED T8	128668003
+#7	SNOMED T9	21708004
+#8	SNOMED T10	722688002
+#9	SNOMED T1	417163006
+#10	SNOMED T5	94480000

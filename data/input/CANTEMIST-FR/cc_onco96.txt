@@ -1,0 +1,30 @@
+Anamnèse
+Le rhabdomyosarcome est une tumeur très rare chez l'adulte, dont la littérature est peu abondante. La conclusion générale est que les données disponibles pour la population pédiatrique peuvent être extrapolées aux adultes, bien que des essais appropriés pour les patients adultes soient très souhaitables.
+
+Dans notre cas, le patient est un homme de 35 ans qui est un ancien fumeur depuis un an (consommation cumulée antérieure de 8 ans/pack). Marié et père d'un fils de 2 ans, il travaillait dans une entreprise d'informatique. Dans ses antécédents personnels, il a présenté une péricardite en octobre 2014, traitée par acide acétylsalicylique, sans autre pathologie d'intérêt. Ses antécédents familiaux comprennent le décès de son père à l'âge de 63 ans en raison d'un cancer du poumon.
+
+Elle s'est présentée aux urgences le 14 décembre 2014 avec une dyspnée d'effort modérée d'une durée d'environ 2 semaines, qui s'était aggravée pour devenir une dyspnée d'effort minime. Initialement classée comme un deuxième épisode de péricardite, il a été décidé de l'hospitaliser pour des examens complémentaires.
+
+Examen physique
+L'état général est satisfaisant. Conscient et orienté. Tachypnée au repos. TA : 100/59 mmHg, 110 bpm, Sat. O2 : 89%. Auscultation cardiaque : frottement péricardique ; souffle au foyer aortique II/IV. Auscultation pulmonaire : hypophonie généralisée, avec crépitants secs bilatéraux. Les pouls périphériques sont préservés.
+
+Examens complémentaires
+"Echocardiographie : FEVG 45% et léger épanchement péricardique.
+"NFS : proBNP 2 274 pg/ml (normal <125 pg/ml), autres valeurs dans les limites de la normale.
+"Angio-CT scan : thrombus dans l'artère pulmonaire droite. Masse dans le médiastin évoquant un lymphome, difficile à mesurer compte tenu des caractéristiques.
+"Tomodensitométrie cervicothoracoabdominale-pelvienne : masse importante de tissus mous entourant les gros vaisseaux médiastinaux, les comprimant et les amincissant, s'étendant autour du cœur. Compatible avec un lymphome. Adénopathies médiastinales et para-aortiques gauches.
+"Ponction de la masse : cellules immatures disposées en nids. RCT et réarrangement polyclonal du gène IgH. Non concluant en cas de lymphome.
+"Echobronchoscopie : FNA 7R et 12R territoires. FNA AP : cellules sans cytoplasme ou avec un cytoplasme vacuolisé, avec des noyaux arrondis et même multiples et dans une plus petite proportion des cellules avec un cytoplasme latéralisé en " comète ". Vimentine, desmine, actine, myogénine, MyoD1 et CD99 positifs, autres marqueurs négatifs. Images cytologiques compatibles avec une métastase ganglionnaire d'une tumeur à cellules rondes avec immunophénotype musculaire (compatible avec un rhabdomyosarcome cardiaque).
+
+Diagnostic
+Compte tenu des résultats anatomopathologiques et immunohistochimiques, compatibles avec le diagnostic de rhabdomyosarcome cardiaque, après avoir écarté d'autres possibilités telles que le myxome auriculaire ou le lymphome, la patiente a été orientée vers le service d'oncologie pour y être traitée.
+
+Traitement
+Le 2 février 2015, après une échocardiographie montrant une FEVG de 82 % et une cryoconservation des spermatozoïdes, le patient a été considéré comme nécessitant un traitement, et une chimiothérapie a été entamée selon le schéma IVA (vincristine 1,5 mg/m2, actinomycine D 1,5 mg/m2 et ifosfamide 3 g/m2) tous les 21 jours. Trois cycles et une réévaluation ultérieure en vue d'un sauvetage chirurgical ont été proposés.
+
+Évolution
+Après le deuxième cycle, une réévaluation précoce de la réponse a été effectuée, avec une imagerie par résonance magnétique cardiaque montrant une masse médiastinale avec infiltration épicardique des quatre cavités, sans masse intracavitaire, compatible avec une origine cardiaque (oreillette droite), avec des critères de réponse radiologique. Compression de l'aorte thoracique, des artères et veines pulmonaires. FEVG DE 47 %. Compte tenu de ces résultats, il a été décidé de poursuivre le traitement par chimiothérapie et de procéder à une évaluation ultérieure par chirurgie.
+
+Résécabilité des tumeurs thoraciques.
+
+Avant le quatrième cycle, le patient a été admis pour des symptômes compatibles avec une insuffisance cardiaque qui, malgré un traitement déplétif, ne s'est pas améliorée, avec l'apparition d'hémoptysies, de sorte qu'un scanner thoracique urgent a été demandé, qui a montré une progression de la compression médiastinale, avec une atteinte des cavités cardiaques, de l'aorte, des veines et des artères pulmonaires (droite d'un diamètre de 1 mm). Un traitement au furosémide, une corticothérapie à forte dose à la dexaméthasone et une oxygénothérapie à haut débit ont été mis en place et un contrôle symptomatique a été obtenu. Après avoir atteint une stabilité hémodynamique, compte tenu de la progression et en accord avec le patient, une deuxième ligne de traitement par chimiothérapie au carboplatine et à l'étoposide a été entamée, à ce jour deux cycles, avec un bénéfice clinique, actuellement en attente d'une réévaluation radiologique.

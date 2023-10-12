@@ -1,0 +1,16 @@
+T1	pathologie 156 174	inclusión dentaria
+T2	pathologie 206 234	inclusión de canino inferior
+T3	pathologie 363 379	quiste folicular
+T4	pathologie 455 471	quiste folicular
+T5	pathologie 521 536	canino incluido
+T6	pathologie 1890 1939	tumor odontogénico adenomatoide de tipo folicular
+T7	pathologie 1951 1988	retención de estructura dental canina
+T8	pathologie 2586 2600	lesión tumoral
+#1	SNOMED T3	103614000
+#2	SNOMED T6	60599006
+#3	SNOMED T7	196419009
+#4	SNOMED T8	55342001
+#5	SNOMED T4	103614000
+#6	SNOMED T1	700080009
+#7	SNOMED T2	196413005
+#8	SNOMED T5	196419009

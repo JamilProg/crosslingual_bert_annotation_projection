@@ -1,0 +1,20 @@
+T1	pathologie 48 68	síndrome de Asperger
+T2	pathologie 70 119	trastorno de déficit de atención e hiperactividad
+T3	pathologie 122 136	hipotiroidismo
+T4	pathologie 260 289	lesión en el miembro inferior
+T5	pathologie 718 735	lesiones cutáneas
+T6	pathologie 1191 1197	morfea
+T7	pathologie 1208 1221	morfea lineal
+T8	pathologie 1241 1261	afectación articular
+T9	pathologie 1265 1275	deformidad
+T10	pathologie 1505 1513	lesiones
+#1	SNOMED T7	201049004
+#2	SNOMED T1	23560001
+#3	SNOMED T2	192596002
+#4	SNOMED T3	40930008
+#5	SNOMED T4	118937003
+#6	SNOMED T6	201049004
+#7	SNOMED T5	95324001
+#8	SNOMED T8	118952005
+#9	SNOMED T9	417893002
+#10	SNOMED T10	157670007

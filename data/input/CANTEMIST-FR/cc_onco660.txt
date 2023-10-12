@@ -1,0 +1,64 @@
+Anamnèse
+"Le patient est une femme de 42 ans.
+"Maladies antérieures : schizophrénie indifférenciée. Hyperthyroïdie. Basedow de Graves. Syndrome dépressif. Polymyalgie rhumatismale.
+" Antécédents oncologiques : tumeur neuroendocrine endobronchique du lobe inférieur droit fonctionnant au stade IV de bas grade en raison de métastases hépatiques.
+" En novembre 2012, une cytoréduction par hépatectomie gauche et segmentectomie du segment VII a été réalisée.
+" En février 2013, un traitement par un analogue de la somatostatine (lanréotide LAR) à 120 mg par voie sous-cutanée a été instauré.
+"En août 2014, il a présenté un début diabétique, apparemment un diabète sucré de type 2.
+"Une tomodensitométrie réalisée le 27 avril 2015 a montré une progression pulmonaire, avec une atélectasie post-obstructive du lobe inférieur droit.
+"En avril 2015, un traitement par octréotide LAR a été instauré.
+"La tomodensitométrie du 27 août 2015 a montré la disparition de l'atélectasie.
+"En janvier 2016, en raison d'une augmentation du syndrome carcinoïde se manifestant par des diarrhées, l'octréotide LAR a été prescrit toutes les 3 semaines au lieu de toutes les 4 semaines.
+"En février 2016, progression de la tumeur.
+"Le 26 mai 2016, un traitement de seconde intention par évérolimus à 10 mg/jour a été débuté.
+"La tomodensitométrie du 8 août 2016 a montré une progression.
+"La tomodensitométrie du 1er décembre 2016 a montré une maladie stable.
+" La tomodensitométrie du 7 juin 2016 a montré une progression dans les régions connues.
+" L'Octreoscan® du 11 juillet 2017 a montré une légère augmentation des métastases hépatiques.
+" Le 20 septembre 2017, il a débuté un double traitement d'immunothérapie dans le cadre d'un essai clinique.
+" Motif de la consultation aux urgences de son hôpital : le patient s'est présenté aux urgences de l'hôpital Álvarez-Buylla pour 6 jours de douleurs abdominales diffuses, de malaise général, d'asthénie et de fatigue. Il a déclaré avoir souffert de vomissements occasionnels le vendredi. L'appétit est resté intact, avec une perte d'environ 4 à 5 kg au cours des derniers jours.
+"Pas de symptômes cardiaques, respiratoires ou urinaires.
+"Se plaint d'une gêne dans la région antérieure du cou.
+Pas de fièvre. Pas de diminution de l'état de conscience.
+
+Examen physique
+"Examen physique : température 36,8 ºC, TA 141/78 mm Hg, FC 130 bpm.
+"Conscient, orienté, coopératif. Eupnéique au repos, légère pâleur cutanée, normohydraté.
+"Auscultation cardiaque : RsCsRs, tachycardie à 130 bpm.
+"Auscultation pulmonaire : VCM sans bruits surajoutés.
+" Abdomen : bruits hydro-aériques normaux présents, mous, dépressibles, douloureux au niveau de l'épigastre et de l'hypochondre droit, sans défense ni péritonisme.
+" Membres inférieurs : pas d'œdème ni de signes de TVP.
+"Le 20 septembre 2017, il a débuté un double traitement d'immunothérapie dans le cadre d'un essai clinique.
+" Motif de consultation aux urgences de son hôpital : 6 jours de douleurs abdominales diffuses, de malaise général, d'asthénie et de fatigue. Elle signale avoir souffert de vomissements occasionnels le vendredi. Appétit conservé avec une perte d'environ 4-5 kg ces derniers jours.
+"Pas de symptômes cardiaques, respiratoires ou urinaires.
+"Se plaint d'une gêne dans la région antérieure du cou.
+"Pas de fièvre. Pas de diminution de l'état de conscience.
+
+Tests complémentaires
+Résumé des examens complémentaires : analytiques :
+"Biochimie : sodium 127, potassium 4,7, glucose 475, urée 40, créatinine 1,16, Brb total 0,2, AST/GOT 26, ALT/GPT 41, amylase 21, CRP 3,29. Lactate 1,2. Numération sanguine : Hb 14,4. Leucocytes 18 200, granulocytes absolus 14 900. Coagulation : PT 91 %, INR 1,05, fibrinogène dérivé 718, rapport TTPA 1,25.
+"Gaz du sang veineux : pH 7,057. Bicarbonate du sang veineux 5,60. Excès de bases -24,50.
+"Urine : SyS : pH 5,5. Glucose 1000 mg/dl, corps cétoniques 150 mg/dl.
+ECG : tachycardie sinusale. Intervalle QT prolongé à la limite, anomalies des ondes T à la limite. Radiographie thoracique PA : pas de pathologie cardio-pulmonaire aiguë. Radiographie abdominale simple : image gazeuse non spécifique. Clips métalliques post-chirurgicaux dans le mésogastre.
+
+Diagnostic
+Le processus actuel semble indiquer une acidocétose diabétique dans le cadre d'un traitement par immunothérapie.
+
+Le traitement
+"Le traitement a consisté en une thérapie sérique, en ajustant les besoins en insuline, en bicarbonate et en potassium en fonction des résultats des tests de contrôle.
+"Par la suite, une insulinothérapie sous-cutanée a été mise en place.
+
+Évolution
+La patiente a été transférée dans notre hôpital. Elle était consciente, orientée et coopérative, et ne présentait pratiquement aucune douleur abdominale, bien qu'une certaine gêne persiste à la palpation. Elle n'avait pas de vertiges.
+Les gaz veineux ont été répétés et ont montré une légère amélioration. La cétonémie a été mesurée à 5,6.
+Différents sérums ont été administrés, en ajustant les besoins en glucose, insuline, potassium et bicarbonate, tout au long de la nuit avec un contrôle analytique toutes les 2 heures, montrant une amélioration progressive des gaz veineux.
+Parmi les médicaments pris par le patient à domicile, la lévomépromazine provoque une hyperglycémie, de même que la palipéridone de façon moins fréquente. Comme il s'agit d'un médicament pour le traitement psychiatrique du patient, il est décidé de le poursuivre.
+Contrôle analytique à 18 heures le lendemain :
+"PH 7,33, pCO2 41, pO2 31, bicarbonate 20 (18 auparavant). EB -4,6 (précédent -7).
+Quantité d'insuline intraveineuse administrée au cours des dernières 24 heures 123 unités, permettant un contrôle acceptable. Passage à l'insuline sous-cutanée, le traitement à l'insuline mixte a été choisi à la demande du patient pour minimiser autant que possible le nombre d'injections. Les sérums sont prélevés 1 à 2 heures après l'administration d'insuline.
+Culture d'urine positive pour Enterococcus faecalis, sensible à la ciprofloxacine. Elle se réfère à la diarrhée et à la vaginite avec de l'amoxicilline et de l'amoxicilline/acide clavulanique.
+L'échographie thyroïdienne suggère une thyroïdite d'Hashimoto, mais est finalement interprétée comme une décompensation de la maladie de Basedow sous-jacente.
+Les tests de laboratoire effectués lors de l'admission ont montré des taux d'antiglutamique décarboxylase > 2 000 U OMS/ml, avec des taux négatifs d'anti-IA-2 (tyrosine phosphatase) et de transporteurs de 8-zinc. Les taux d'anti-insuline étaient indétectables.
+La patiente est sortie de l'hôpital avec un mélange de thiamazole et d'insuline.
+Par la suite, elle a développé une hypothyroïdie nécessitant un traitement à la lévothyroxine et un tableau clinique de diabète insipide évoquant une hypophysite.
+La patiente ne reçoit actuellement aucun traitement systémique et est suivie par le service d'endocrinologie.

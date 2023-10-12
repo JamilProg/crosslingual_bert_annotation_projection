@@ -1,0 +1,27 @@
+Anamnèse
+La patiente était une femme ménopausée de 52 ans, sans habitudes toxiques, avec des antécédents de dyslipidémie, sans traitement pharmacologique habituel et sans antécédents familiaux pertinents.
+
+Premier néoplasme
+À l'âge de 36 ans, on lui a diagnostiqué un carcinome canalaire infiltrant (CDI) du sein droit, grade 2, cT4N1M0, traité par mastectomie radicale modifiée (MRM) droite et lymphadénectomie axillaire, stade pT4N1, avec 10/10 adénopathies infiltrantes et une atteinte profonde des marges, avec des récepteurs hormonaux positifs. Elle a reçu une chimiothérapie adjuvante avec 6 cycles de FEC (5-fluorouracile, épirubicine et cyclophosphamide) suivie d'une chimiothérapie à haute dose avec autotransplantation de progéniteurs hématopoïétiques en septembre 1996. Il a ensuite subi une radiothérapie adjuvante (dose totale de 50Gy + boost de 16Gy) qui s'est achevée en janvier 1997. Elle a également reçu du tamoxifène adjuvant pendant 5 ans (d'octobre 1996 à novembre 2001). Elle a suivi des contrôles sans aucun signe de maladie.
+
+Deuxième néoplasme
+En mai 2012, elle a présenté un CEA élevé (5,45 μg/l -normal < 5- ) et un Ca 15,3 (42,7 KUI/l0 -normal < 30- ) lors d'une analyse de sang demandée par son médecin traitant car la patiente souffrait d'une asthénie sévère depuis des mois.
+
+Examen physique
+ECOG 1, pas d'altérations notables à l'examen physique.
+
+Examens complémentaires
+Une biopsie du nodule pulmonaire guidée par tomodensitométrie a été réalisée, avec une pathologie compatible avec un adénocarcinome d'origine pulmonaire (CK-7 et TTF-1 positifs ; p63 positif focal ; récepteurs des œstrogènes [ER], récepteurs de la progestérone [PR], GCFGP-15 et HER-2 négatifs), l'EGFR n'ayant pas subi de mutation.
+
+Diagnostic
+Il s'agit d'un deuxième cancer primaire d'origine pulmonaire cT1bN0M1b (7e classification TNM), stade IV, EGFR non muté.
+
+Traitement
+Le 13/08/2012, la patiente a commencé un traitement par chimiothérapie de première ligne avec cisplatine 75 mg/m2 et pemetrexed 500 mg/m2 tous les 21 jours. Après 4 cycles, la maladie étant stable, elle a commencé le 06/11/2012 un traitement d'entretien au pemetrexed, qui a été interrompu après 4 cycles en raison d'une progression osseuse avec apparition de nouvelles métastases au niveau L5 (intervalle sans progression [ISP] de 6 mois).
+
+Évolution
+Le 27/02/2013, il a commencé un traitement de 2ème ligne par erlotinib dans le cadre de l'essai clinique A7471009. Meilleure réponse, stabilisation de la maladie obtenue. Le traitement a été maintenu jusqu'au 24/04/2015 (ILP 26 mois), date à laquelle une progression a été observée au niveau des lésions osseuses connues.
+Une nouvelle biopsie de la tumeur du lobe supérieur droit a été réalisée, montrant un adénocarcinome pulmonaire (CK-7 et TTF-1 positifs ; ER, PR et HER-2 négatifs), un EGFR non muté et un ALK non transloqué.
+Le 12/06/2015, elle a commencé une 3e ligne avec du nivolumab. Après 6 cycles, elle a présenté une réponse partielle. Après 6 mois de traitement, elle a présenté une progression lente osseuse, surrénalienne et adénopathique, maintenant la réponse du primitif pulmonaire, et il a été décidé de poursuivre le traitement par nivolumab étant donné qu'il maintenait le bénéfice clinique.
+En mai 2018, deux léthes sont apparues sur le cuir chevelu. Une biopsie a été réalisée qui était positive pour une métastase de carcinome mammaire (GATA-3 positif, TTF-1 négatif) avec un score ER 7/8, un score RP 8/8, HER-2 négatif, Ki-67 20 %. Des biopsies d'adénopathies médiastinales ont également été réalisées, qui se sont également révélées positives pour les métastases d'un carcinome mammaire connu. Face à ce constat, le traitement par nivolumab a été maintenu et le létrozole a été ajouté (débuté le 20/07/2018), après quoi elle a présenté un net bénéfice clinique sous la forme d'une amélioration de l'état général.
+En octobre 2018, le traitement par nivolumab a été interrompu en raison de la présence d'une pneumopathie à médiation immunitaire de grade 2, et le traitement a été poursuivi avec le létrozole seul, avec lequel il reste en maladie stable jusqu'à présent.

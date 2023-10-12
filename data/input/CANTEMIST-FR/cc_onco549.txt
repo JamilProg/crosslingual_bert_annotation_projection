@@ -1,0 +1,35 @@
+Anamnèse
+Une femme de 50 ans s'est présentée au service des urgences de l'hôpital en raison d'une perte de vision de l'œil gauche. Soupçonnant un décollement de la rétine, elle a été adressée à un hôpital de référence pour un examen ophtalmologique. Ses antécédents personnels comprenaient un hémangioblastome cérébelleux, opéré à l'âge de 14 ans, et une amaurose de l'œil droit. En ce qui concerne les habitudes toxiques, la patiente était fumeuse et buveuse. Elle est allergique aux pénicillines. Elle n'a pas d'antécédents familiaux de cancer.
+À la clinique ophtalmologique, la patiente a été examinée et l'examen du fond d'œil a révélé une lésion dans le quadrant inféronasal de l'œil gauche, accompagnée d'un décollement de la rétine, ce qui a été confirmé par l'échographie oculaire.
+
+Examen physique
+"Bon état général. Normohydraté et normoperfusé. Eupnéique au repos.
+"Conscient, orienté et coopératif. Auscultation cardiorespiratoire : tons rythmiques sans souffle à l'auscultation. Murmure vésical conservé.
+"Abdomen souple et dépressible. Non douloureux. Pas de masses ni de mégalithes. Pas de signes de défense ou de péritonisme. Bruits hydro-aériens normaux et conservés.
+"Membres inférieurs sans œdème et pouls conservés.
+
+Examen neurologique
+"Amaurose droite. Mouvements oculaires extrinsèques conservés. Nerfs crâniens préservés. Pas de perte de force et de sensibilité dans les quatre membres. Réflexes ostéotendineux normaux et symétriques. Pas de dysmétrie ni de dysdiadochokinésie. Romberg négatif.
+
+Examen ophtalmologique
+"Acuité visuelle : œil droit 0,15/œil gauche 0,5.
+"Fond d'œil : l'œil gauche présente un décollement de rétine inféronasal avec une masse sous-rétinienne.
+"Pression intraoculaire : œil droit 12 mm Hg/œil gauche 19 mm Hg.
+
+Examens complémentaires
+Au vu des résultats de l'examen ophtalmologique, une IRM de l'orbite et un PET-CT du corps entier ont été réalisés.
+IRM de l'orbite : une lésion focale mesurant environ 10,9 x 9,5 x 6,4 cm a été observée dans le plancher antérieur du globe oculaire gauche avec un signal intermédiaire en T1 et une légère hyperintensité en T2 avec un foyer central de cavitation/nécrose possible, et associée à un décollement rétinien de la paroi postérieure du globe oculaire. Elle présente un rehaussement périphérique intense avec le contraste IV. Elle est compatible avec une lésion tumorale solide d'origine inconnue. Elle ne semble pas compatible avec un hémangiome.
+TEP-TDM corps entier : plusieurs foyers hypermétaboliques évocateurs d'une activité tumorale ont été observés au niveau du globe oculaire gauche, de la surrénale gauche, du rein gauche et de multiples micronodules pulmonaires ne captant pas le FDG.
+Compte tenu des résultats de ces examens, nous avons procédé à l'identification du processus néoplasique en réalisant des biopsies de trois des micronodules pulmonaires par vidéo-thoracoscopie.
+Le résultat anatomopathologique a été le suivant : métastase d'un carcinome rénal à cellules claires.
+
+Diagnostic
+Carcinome rénal à cellules claires métastatique.
+
+Traitement
+Après le diagnostic anatomopathologique des lésions pulmonaires et compte tenu des doutes soulevés par l'étude TEP (primitif rénal avec métastase surrénalienne vs primitif surrénalien), il a été décidé de procéder à une néphrectomie gauche radicale, une surrénalectomie gauche et une lymphadénectomie gauche. L'anatomie pathologique de la lésion rénale et surrénalienne a confirmé le diagnostic de carcinome rénal à cellules claires, qui présentait également une composante rhabdoïde et sarcomatoïde.
+Compte tenu de la présence d'une maladie à distance (lésion tumorale choroïdienne symptomatique d'origine douteuse et présence de micronodules pulmonaires), un comité multidisciplinaire a décidé d'instaurer un traitement par sunitinib à raison de 50 mg toutes les 24 heures en 4/2 cycles. La tolérance au sunitinib a été bonne pendant les premiers cycles, avec une diminution des symptômes de douleur rétrooculaire associée à la tumeur choroïdienne solide, ce qui a conduit à suspecter qu'il s'agissait d'une métastase choroïdienne de son cancer du rein. L'énucléation n'a pas été décidée car il s'agissait du seul œil encore fonctionnel de la patiente.
+
+Évolution
+La patiente a poursuivi son traitement par le sunitinib, présentant après quelques cycles une hypertension et des nausées, qui ont été correctement contrôlées par les médicaments correspondants. Un PET scan de suivi réalisé après 4 mois de traitement au sunitinib a montré une réponse complète de la maladie, tant au niveau des micronodules pulmonaires que de la tumeur choroïdienne. Cette régression de la tumeur choroïdienne a été confirmée par un examen ophtalmologique. Compte tenu des antécédents d'hémangioblastome cérébelleux et de l'existence d'une tumeur rénale récemment diagnostiquée, des études génétiques à la recherche d'un syndrome de Von-Hippel-Lindau ont été réalisées, qui se sont révélées négatives, tant dans la détection des mutations habituelles que dans le séquençage de l'exome du syndrome. Malgré cela, la patiente répondait aux critères cliniques du syndrome de Von-Hippel-Lindau.
+Notre patiente a poursuivi son traitement pendant un an avec le sunitinib jusqu'à ce qu'elle soit admise aux urgences pour hématémèse, méléna et coagulopathie de consommation dans le contexte d'une septicémie bactérienne. Un scanner abdominal a été réalisé en urgence et a révélé une péritonite dans le contexte d'une perforation gastrique. Compte tenu du risque chirurgical très élevé et des faibles chances de succès que la chirurgie et l'anesthésie voyaient dans cette situation, des directives anticipées du patient et des souhaits de la famille, des mesures de confort ont finalement été mises en place.

@@ -1,0 +1,31 @@
+Anamnèse
+La patiente est une agricultrice de 64 ans qui n'a pas d'habitudes toxiques ni d'antécédents personnels dignes d'intérêt.
+Elle a cependant des antécédents familiaux, avec 4 parents décédés d'un cancer : sa mère d'une tumeur inconnue à l'âge de 76 ans et 3 parents au second degré atteints d'un cancer gastrique (2 du côté de sa mère âgés de 66 et 76 ans, et 1 du côté de son père âgé de 59 ans).
+La patiente a consulté en avril 2018 pour une toux et une perte de poids de 5 kg sur 6 mois d'évolution.
+
+Examen physique
+Elle est en bon état général, avec un ECOG 0 au moment du diagnostic. Elle est eupnéique et n'est pas affectée au repos. Il n'y a pas de goitre, de lymphadénopathie ou d'engorgement jugulaire. Les pouls carotidiens sont présents. L'auscultation cardiaque est rythmée et aucun souffle n'est détecté.
+L'auscultation pulmonaire montre un murmure vésiculaire préservé et aucun bruit supplémentaire.
+L'abdomen est mou, dépressible, sans masse ni mégalithes, avec des bruits hydro-aériques.
+Les membres inférieurs sont exempts d'œdème et de thrombose veineuse profonde. Les pouls pédieux sont présents et symétriques.
+
+Examens complémentaires
+En mai 2018, une tomodensitométrie axiale (TDM) a été réalisée et a permis de détecter une tumeur pulmonaire avec atélectasie complète du lobe moyen et de nombreuses métastases pulmonaires bilatérales (cT2N2M1a), de stade clinique IVa selon la 8e classification UICC.
+La biopsie bronchoscopique a permis de poser le diagnostic définitif d'adénocarcinome pulmonaire avec mutation BRAF V600E.
+
+Diagnostic
+Il s'agit d'un adénocarcinome pulmonaire porteur de la mutation BRAF V600E, stade clinique IVa (cT2N2M1a).
+
+Traitement
+Compte tenu de ces résultats et de l'état fonctionnel initial de la patiente (ECOG 0), un traitement a été initié en juillet 2018 avec 150 mg de dabrafenib toutes les 12 heures et 2 mg de trametinib toutes les 24 heures.
+
+Évolution
+Bonne réponse clinique (aucun symptôme secondaire à sa maladie oncologique) et radiologique (réponse partielle dans le premier scanner du 21/8/2018).
+Le 11 septembre, la patiente a débuté avec une hyperthermie (39º) qui n'a pas disparu avec une antibiothérapie empirique et des antipyrétiques, de sorte que le traitement oncologique a été suspendu le 24 septembre, avec résolution de l'état clinique.
+La toxicité médicamenteuse de grade 1 (CTCAE V5.0) s'étant résorbée, le traitement a été réintroduit à la même dose le 5 octobre.
+Le 2 novembre, le patient a de nouveau présenté une hyperthermie et des nodules sous-cutanés légèrement douloureux et érythémateux, principalement brachiocruraux (toxicité médicamenteuse de grade 3). Dans ce contexte, les ITK ont dû être retirés pour la deuxième fois et une corticothérapie orale a été mise en place.
+Dans le même temps, les lésions cutanées ont été biopsiées et un diagnostic de panniculite lobulaire évocatrice d'une vascularite nodulaire indurée érythémateuse a été posé.
+Compte tenu de la résolution des manifestations cliniques, le médicament a été réintroduit avec une réduction de dose le 4 décembre 2018 (dabrafenib 100 mg toutes les 12 heures et trametinib 15 mg toutes les 24 heures), avec une réapparition de la fièvre et des lésions cutanées le lendemain.
+La toxicité s'est résolue à l'arrêt des ITK pour la troisième fois, et les corticoïdes oraux ont été maintenus à des doses décroissantes jusqu'à la disparition complète des symptômes quelques semaines plus tard.
+Le 14 janvier 2019, une progression pulmonaire a été détectée lors de la tomodensitométrie d'évaluation, de sorte qu'un traitement de 2e ligne a été mis en place avec 75 mg/m2 de cisplatine et 500 mg/m2 de pemetrexed toutes les 3 semaines.
+Le patient reçoit actuellement un traitement au pemetrexed comme thérapie d'entretien, avec une réponse clinique complète et une réponse radiologique partielle, sans toxicité pertinente.

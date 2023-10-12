@@ -1,0 +1,32 @@
+Anamnèse
+Homme de 71 ans, sans antécédents familiaux de cancer. Il nie toute réaction allergique aux médicaments. Ex-fumeur. Hypertension et dyslipidémie. Infarctus aigu du myocarde en avril 2014. Traitement chronique par énalapril, bisoprolol, clopidogrel et AAS.
+
+Diagnostiqué en 2000 avec un mélanome T1N0M0 de la cuisse droite avec un indice de Breslow de 3 mm, réséqué sans traitement complémentaire. En 2003, il a présenté une récidive locale, traitée à nouveau par excision avec greffe dans la même zone.
+
+En avril 2011, il a commencé à ressentir une gêne abdominale et a été admis dans le service de chirurgie générale avec un diagnostic présumé d'invagination par tomodensitométrie (CT) et échographie abdominale. Une résection intestinale avec anastomose latéro-latérale a été réalisée, constatant une invagination complète à 40 cm de l'angle de Treiz causée par deux lésions de l'intestin grêle, l'une mesurant 4 cm et l'autre 3 cm, avec une anatomie pathologique compatible avec une métastase de mélanome, pour laquelle une consultation en oncologie médicale a été demandée pour l'évaluation du traitement.
+
+Examen physique
+Indice de Karnofsky 90%. Poids 78 kg. Taille 170 cm. Vitiligo dans la région dorso-lombaire et le cou. Pas d'adénopathies périphériques palpables. Auscultation cardiaque : bruits cardiaques rythmés sans souffle audible. Auscultation pulmonaire : normale. Abdomen avec cicatrices de laparotomie, pas d'organomégalie ni de masse palpable. Membres inférieurs avec cicatrice de greffe sur la cuisse droite sans signe de récidive locale.
+
+Examens complémentaires
+Anatomie pathologique de la résection cutanée (15/6/2000) : tumeur mélanocytaire atypique, principalement fusiforme avec un index mitotique modéré. Dans la zone centrale, la lésion est principalement nodulaire, avec une infiltration périphérique radiale dans la jonction dermoépidermique, n'atteignant pas les bords chirurgicaux. Stade IV de Clark. Épaisseur de Breslow de 3 mm.
+
+CT thoraco-abdominal (28/4/2011) : dans le jéjunum proximal, à 20 cm du Treiz, il y a une image dans la cible compatible avec une invagination intestinale qui provoque une obstruction et une dilatation du jéjunum et du duodénum proximal. Ganglions lymphatiques inférieurs à 1 cm dans la graisse mésentérique. Le reste de l'étude n'a rien révélé.
+
+Analyses sanguines en juin 2011 : hémoglobine 10 g/dL ; leucocytes 4 500 avec formule normale ; plaquettes 150 000. LDH 186. Biochimie avec fonction rénale, ions et fonction hépatique normales.
+
+Diagnostic
+Récidive péritonéale d'un mélanome de la cuisse droite sans mutation BRAF.
+
+Traitement
+Dans un premier temps, une intervention chirurgicale a été pratiquée en raison de la suspicion d'invagination intestinale visualisée au scanner et à l'échographie abdominale, et au cours de l'opération, les deux implants tumoraux ont été découverts. Ils ont été réséqués et l'anatomie pathologique a confirmé la présence de métastases de mélanome et de quatre ganglions lymphatiques mésentériques sans métastases. Indice mitotique élevé (ki67 > 20 %), c-kit faiblement positif et mutation BRAF négative.
+La tomographie par émission de positons (TEP) a révélé, après la résection de la récidive intestinale, un seul nodule mésentérique de 3 cm avec une prise pathologique compatible avec une atteinte métastatique, et un traitement de première intention à la fotémustine a été instauré pendant trois mois, avec pour seule toxicité une leucopénie.
+
+L'évolution
+Après une réponse partielle à la fotémustine, il a été décidé de tenter une nouvelle résection chirurgicale de la lésion en octobre 2011. Pendant l'opération, un bloc adénopathique a également été observé dans l'angle de Treiz, qui n'était pas résécable, de sorte qu'en novembre 2011, une deuxième ligne de traitement a été lancée avec l'ipilimumab 3 mg/kg tous les 21 jours pendant quatre cycles, présentant un syndrome pseudo-grippal léger et une toxicité hépatique de grade 2. Au scanner, après quatre cycles d'induction, on observe une réponse partielle de l'implant péritonéal. La réponse s'est maintenue jusqu'en novembre 2012, date à laquelle on a constaté une augmentation de 2 cm des métastases péritonéales et l'apparition d'une lymphadénopathie péritumorale, ce qui a conduit à une réinduction avec l'ipilimumab, qui a progressé au cours de la même période.
+
+En mars 2013, le patient a été envoyé dans un centre de référence pour un sauvetage chirurgical de la lésion par résection du jéjunum proximal sans signe de tumeur résiduelle et avec une anatomie pathologique compatible avec une métastase de mélanome, sans recevoir de traitement adjuvant à ce moment-là.
+
+En novembre 2013, il a commencé à présenter des symptômes cliniques de sinusite et d'épistaxis, pour lesquels il a été évalué dans le service ORL et une formation polypoïde a été détectée dans la muqueuse nasale, qui a été enlevée et était compatible avec une métastase de mélanome c-KIT et BRAF-négatif. En juin 2014, il a souffert d'une nouvelle récidive dans la narine droite et a reçu un traitement par radiothérapie avec modulation d'intensité (IMRT) dans cette zone.
+
+Au cours du suivi, un scanner de contrôle réalisé en janvier 2015 a montré une progression bilatérale de la tumeur pulmonaire sans autre résultat à d'autres niveaux, de sorte qu'une nouvelle ligne de traitement a été mise en place avec le pembrolizumab à raison de 10 mg/kg toutes les 3 semaines, avec une réponse partielle des nodules pulmonaires dans le scanner de contrôle en mai 2015.

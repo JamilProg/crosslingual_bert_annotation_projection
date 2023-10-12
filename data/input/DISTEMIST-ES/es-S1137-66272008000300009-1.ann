@@ -1,0 +1,20 @@
+T1	pathologie 36 65	bocio difuso normofuncionante
+T2	pathologie 67 92	mioma uterino calcificado
+T3	pathologie 567 577	cicatrices
+T4	pathologie 755 770	visceromegalias
+T5	pathologie 1199 1243	calcificaciones uterinas sugestivas de mioma
+T6	pathologie 1673 1708	útero miomatoso con calcificaciones
+T7	pathologie 2231 2255	adenopatías mesentéricas
+T8	pathologie 2291 2306	útero miomatoso
+T9	pathologie 2898 2904	lesión
+T10	pathologie 2949 2972	endometriosis ileocecal
+#1	SNOMED T1	237494009
+#2	SNOMED T2	95315005
+#3	SNOMED T7	127144009
+#4	SNOMED T8	95315005
+#5	SNOMED T5	95315005+425556003
+#6	SNOMED T10	8421002
+#7	SNOMED T6	95315005+425556003
+#8	SNOMED T4	28543008
+#9	SNOMED T3	275322007
+#10	SNOMED T9	417163006

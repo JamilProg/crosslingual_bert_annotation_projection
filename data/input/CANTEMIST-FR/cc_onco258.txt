@@ -1,0 +1,64 @@
+Anamnèse
+Homme, 17 ans.
+
+Antécédents personnels
+"Pas d'allergies médicamenteuses connues.
+"Pas d'habitudes toxiques.
+"Pas de pathologies antérieures.
+"Pas d'interventions chirurgicales.
+
+Antécédents familiaux
+"Mère atteinte de diabète gestationnel sans diabète sucré actuel.
+"Père atteint de polypes coliques.
+"Grand-père paternel décédé d'un IAM.
+"Grand-mère paternelle décédée (cause inconnue).
+"Grand-mère maternelle souffrant d'hypertension et de diverticulose.
+"Grand-père maternel atteint de diabète de type 2 décédé après un accident vasculaire cérébral.
+"Un frère ou une sœur en bonne santé.
+Début en août 2015 avec un tableau persistant de polyurie intense, de nycturie une fois par nuit et de polydipsie avec une consommation d'environ 4 litres d'eau par jour en raison d'une sensation de soif intense et de sécheresse buccale. Le tout accompagné d'une perte de poids de 10 kilos en un an, ainsi que d'une perte d'appétit due à une satiété précoce et à des douleurs abdominales consécutives. Compte tenu de ces symptômes, il a été adressé à l'endocrinologie par le service de soins primaires de l'hôpital.
+Soins primaires, qui a demandé un test de déshydratation nocturne et des hormones.
+
+Examen physique
+ERW, C,O,C, légère déshydratation cutanéo-muqueuse. Pâleur de la peau.
+Poids : 46,8 kg, taille : 168 cm.
+Cou : pas de goitre palpable, adénopathie cervicale droite.
+CCA : bruits cardiorespiratoires rythmés, pas de souffle audible.
+CVM : pas de bruits superposés.
+Abdomen : souple, dépressible, non douloureux, pas de masse ni de mégalithes, RHA+.
+EEII : pas d'œdème, pas de signes de TVP.
+NRL : PCC préservée. Pupilles isochoriques normoréactives. Pas d'autre focalité neurologique.
+
+Tests complémentaires
+Test de déshydratation pathologique avec Osm urinaire 108, Na 145, Osm plasmatique 297 et cortisol 1,6. Cortisol basal 2,81 ; ACTH 10. IRM août 2015 : Masse dans la région pinéale avec prise de contraste abondante et zones kystiques à l'intérieur qui comprime l'aqueduc de Sylvius et la paroi postérieure du IIIe ventricule, provoquant une dilatation triventriculaire. Il y avait également une zone de prise de contraste dans le plancher du quatrième ventricule suggérant une infiltration tumorale due à la dissémination de la lésion. Une IRM crânienne et spinale a été réalisée, confirmant les lésions déjà décrites et excluant une dissémination leptoméningée au reste du neuroaxe. Marqueurs tumoraux négatifs dans le sang périphérique.
+Alpha fœtoprotéine et b-HCG normales.
+
+Diagnostic
+Séminome pinéal avec atteinte locale du neuroaxe, sans autre atteinte à distance. Alpha fœtoprotéine, bHCG dans les paramètres normaux.
+Les tumeurs des cellules germinales sont classées comme extragonadales s'il n'y a pas de preuve de tumeur primaire dans le testicule ou l'ovaire. Elles ont généralement un tropisme pour les structures de l'axe si elles se trouvent dans le système nerveux central. Bien que les adultes et les enfants soient traités de la même manière, la littérature est principalement basée sur des patients de moins de 15 ans, ce qui permet d'extrapoler les résultats aux jeunes adultes. D'un point de vue épidémiologique, les tumeurs germinales représentent 0,5 à 3 % des tumeurs du SNC en Europe, avec un pic d'âge dans la deuxième décennie de la vie, entre 10 et 12 ans (prédominance masculine de 2:1 à 3:1, en particulier pour les tumeurs de la région pinéale).
+D'un point de vue histologique, ces tumeurs sont classées selon l'OMS : tumeurs des cellules germinales (TCG), germinomes -65%- ou TCG non germinomateuses (TCNG, composées de carcinome embryonnaire, de tumeur du sinus endodermique, de choriocarcinome, de tératome mature et immature et de tumeurs mixtes).
+Dans notre cas, il s'agit d'un séminome, d'un germinome pur (tant qu'il y a une augmentation de la b-HCG, de l'alpha-fœtoprotéine, il s'agit d'un NGGCT). Cependant, les séminomes, bien que plus souvent associés à une absence d'élévation des marqueurs, peuvent les élever).
+L'évaluation initiale des GCT consiste en :
+"IRM du cerveau et de la colonne vertébrale (en raison de la prédisposition à la dissémination leptoméningée et neuraxiale).
+"Quantification de l'alpha-fœtoprotéine (AFP) et de la b-HCG dans le sérum et le liquide céphalo-rachidien.
+"Cytologie du liquide céphalo-rachidien (en cas de résultat positif, une radiothérapie spinale serait indiquée même si aucune lésion n'est visible à l'IRM).
+"Biopsie de la lésion primaire en vue d'un diagnostic histopathologique.
+
+Facteurs pronostiques : en 1997, une classification pronostique de grande envergure a été élaborée pour les germinomes testiculaires. Elle est toujours en vigueur aujourd'hui et est essentielle pour déterminer le traitement le plus approprié pour chaque patient : la classification pronostique de l'International Germ Cell Cancer Collaborative Group (IGCCG).
+Bien qu'il n'y ait pas de consensus, il existe une classification des tumeurs germinales extragonadiques couramment utilisée au Japon, qui les classe de manière égale en groupes de "bon pronostic" (séminome et tératome mature, survie globale supérieure à 90 %), de "mauvais pronostic" (choriocarcinome, tumeur du sac vitellin, carcinome embryonnaire et tumeur germinomateuse mixte. OS : 40%) et "pronostic intermédiaire" (autres. OS : 70%).
+
+Traitement
+Le 14 septembre 2015, une excision chirurgicale a été réalisée, laissant d'éventuels restes tumoraux vers la région supérieure attachée à la veine de Galien, vers les deux côtés englobant les deux veines basales de Rosenthal et vers la partie inférieure, dans la citerne quadrigéminale.
+Une fois que le patient a récupéré sa situation basale, il a été transféré au service d'oncologie médicale.
+Résumé : séminome pinéal pur avec atteinte locale du neuroaxe, excluant une infiltration leptoméningée.
+Le consensus dans les tumeurs germinales intracrâniennes non germinomateuses (TGCN) est une thérapie néoadjuvante suivie d'une radiothérapie crânio-spinale, de préférence à la chimiothérapie ou à la radiothérapie seule. Pour les tumeurs germinomateuses localisées, le traitement standard est la radiothérapie holocrânienne, avec un renforcement de la tumeur primaire (grade 1B).
+"Radiothérapie pour le traitement de la maladie localisée : 21-24 Gy dans les ventricules, suivis d'une stimulation de la tumeur primaire de 40-45 Gy.
+"Plusieurs séries de patients ont montré qu'une réduction de la dose de radiothérapie pouvait être effectuée chez les patients ayant obtenu une réponse complète après la chimiothérapie, sans compromettre la SSP. L'étude prospective menée par le Children's Oncology Group (COG) déterminera si la chimiothérapie néoadjuvante permet ou non de réduire la dose de radiothérapie sans influencer la réponse au traitement.
+"Bien que la plupart des germinomes soient sensibles à la chimiothérapie, le taux de réponse à la chimiothérapie seule est inacceptable.
+"La radiothérapie craniospinale est indiquée chez les patients atteints de germinomes multifocaux ou métastatiques dont l'IRM ou la cytologie du LCR est positive. Elle est également indiquée pour les tumeurs qui n'ont pas répondu ou n'ont répondu que partiellement à la chimiothérapie.
+Après une excision chirurgicale, le patient a commencé un traitement par BEP (bléomycine, étoposide, cisplatine), le traitement le plus utilisé, d'octobre 2015 à janvier 2016. Il a complété le traitement par une radiothérapie holocrânienne (21 Gy) et un boost de 42 (Gy) sur le lit chirurgical, terminant le traitement en février 2016. Elle a toléré le traitement sans complications, n'ayant souffert que de neutropénie digestive, de nausées GII, de diarrhées digestives.
+
+Évolution
+Au titre des complications post-chirurgicales, la patiente a présenté en septembre 2015 un hématome épidural aigu avec arrêt cardio-respiratoire associé, nécessitant une admission ultérieure en unité de soins intensifs. L'évolution du patient a été favorable. Après l'intervention, il a présenté un examen physique généralisé normal, à l'exception de l'examen neurologique. Une paralysie du regard vertical vers le haut, une mydriase bilatérale, un nystagmus de convergence-rétraction, une rétraction des paupières et un regard conjugué vers le bas ("signe du soleil couchant") ont été observés. Cet ensemble de symptômes est connu sous le nom de syndrome de Parinaud, qui résulte d'une lésion ou d'une compression directe du mésencéphale, très fréquente chez les jeunes patients atteints de tumeurs de la glande pinéale. De manière synchrone, en octobre 2015, la patiente a commencé à souffrir de violents maux de tête et on lui a diagnostiqué une hydrocéphalie secondaire, qui a nécessité une dérivation ventriculo-péritonéale.
+Le 22 janvier 2016, une fois le traitement de chimiothérapie terminé, il a été admis pour fièvre. L'examen physique a révélé une éruption maculopapuleuse généralisée sur le visage et la région occipitale, s'étendant au tronc et aux extrémités. Elle était également accompagnée de lésions à différents stades : vasicules, macules et pustules, affectant le cuir chevelu.
+Compte tenu de la suspicion clinique, une culture a été prélevée sur la lésion et une sérologie a été demandée. L'acyclovir a été mis en place de manière empirique, le traitement de choix une fois la suspicion clinique confirmée (IgM positive pour le virus Varizella Zoster). L'évolution clinique de la maladie a été bonne, avec disparition de la fièvre et des lésions cutanées.
+Actuellement, le patient continue d'avoir une réponse complète. Il se soumet à des examens médicaux oncologiques avec IRM et analyses des marqueurs tumoraux tous les 4 mois. Il continue d'être traité pour un panhypopituitarisme et sa seule symptomatologie est une limitation verticale du regard.

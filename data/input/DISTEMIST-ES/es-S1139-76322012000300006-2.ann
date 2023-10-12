@@ -1,0 +1,8 @@
+T1	pathologie 393 414	hipertrofia amigdalar
+T2	pathologie 1199 1210	adenopatías
+T3	pathologie 1214 1234	hepatoesplenomegalia
+T4	pathologie 1429 1452	síndrome mononucleósico
+#1	SNOMED T1	46689006
+#2	SNOMED T2	30746006
+#3	SNOMED T3	36760000
+#4	SNOMED T4	271558008

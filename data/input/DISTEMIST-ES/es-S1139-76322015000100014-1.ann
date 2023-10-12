@@ -1,0 +1,24 @@
+T1	pathologie 80 108	crisis compleja generalizada
+T2	pathologie 683 700	trastorno bipolar
+T3	pathologie 1253 1271	convulsión afebril
+T4	pathologie 1469 1488	parada respiratoria
+T5	pathologie 2200 2218	meningoencefalitis
+T6	pathologie 2405 2412	rubeola
+T7	pathologie 2414 2418	lúes
+T8	pathologie 2447 2455	varicela
+T9	pathologie 2488 2499	parotiditis
+T10	pathologie 2513 2522	sarampión
+T11	pathologie 2702 2737	episodios convulsivos generalizados
+T12	pathologie 3004 3024	lesiones de sangrado
+#1	SNOMED T3	444229001
+#2	SNOMED T1	4619009
+#3	SNOMED T11	128613002
+#4	SNOMED T4	87317003
+#5	SNOMED T2	13746004
+#6	SNOMED T12	131148009
+#7	SNOMED T5	7125002
+#8	SNOMED T7	76272004
+#9	SNOMED T9	36989005
+#10	SNOMED T6	36653000
+#11	SNOMED T10	14189004
+#12	SNOMED T8	38907003

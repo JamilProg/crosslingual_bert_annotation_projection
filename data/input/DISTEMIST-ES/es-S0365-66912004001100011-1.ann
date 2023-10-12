@@ -1,0 +1,28 @@
+T1	pathologie 38 62	diabetes mellitus tipo 2
+T2	pathologie 77 95	ulceración corneal
+T3	pathologie 240 288	inflamación ocular asociada a dermatitis frontal
+T4	pathologie 305 318	herpes zoster
+T5	pathologie 458 481	catarata leve bilateral
+T6	pathologie 598 616	ulceración corneal
+T7	pathologie 1027 1045	queratitis fúngica
+T8	pathologie 1151 1161	queratitis
+T9	pathologie 1191 1210	perforación corneal
+T10	pathologie 1392 1400	hipopion
+T11	pathologie 1403 1422	hipertensión ocular
+T12	pathologie 2189 2203	visión borrosa
+T13	pathologie 2455 2476	cicatrización corneal
+T14	pathologie 2487 2504	leucoma adherente
+#1	SNOMED T1	44054006
+#2	SNOMED T2	193759000
+#3	SNOMED T4	4740000
+#4	SNOMED T5	95722004
+#5	SNOMED T11	4210003
+#6	SNOMED T14	30337003
+#7	SNOMED T9	74895004
+#8	SNOMED T7	314558005
+#9	SNOMED T8	5888003
+#10	SNOMED T10	87807004
+#11	SNOMED T6	193759000
+#12	SNOMED T13	95726001
+#13	SNOMED T3	128473001+703938007
+#14	SNOMED T12	246636008

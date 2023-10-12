@@ -1,0 +1,18 @@
+T1	pathologie 122 138	proceso catarral
+T2	pathologie 191 201	coprolalia
+T3	pathologie 203 236	trastorno selectivo de la memoria
+T4	pathologie 490 511	alteración conductual
+T5	pathologie 844 853	exantemas
+T6	pathologie 974 989	visceromegalias
+T7	pathologie 2026 2042	proceso catarral
+T8	pathologie 2121 2132	amigdalitis
+T9	pathologie 2235 2255	procesos infecciosos
+#1	SNOMED T9	40733004
+#2	SNOMED T1	82272006
+#3	SNOMED T2	13446000
+#4	SNOMED T3	106136008
+#5	SNOMED T7	82272006
+#6	SNOMED T8	90176007
+#7	SNOMED T4	25786006
+#8	SNOMED T6	28543008
+#9	SNOMED T5	112625008

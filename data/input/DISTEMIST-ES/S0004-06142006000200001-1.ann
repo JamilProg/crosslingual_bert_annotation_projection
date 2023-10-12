@@ -1,0 +1,14 @@
+T1	pathologie 29 44	hernia de hiato
+T2	pathologie 937 950	endometriosis
+T3	pathologie 1148 1178	focos endometriósicos pélvicos
+T4	pathologie 1188 1261	cuadro adherencial a paredes pélvicas y vejiga solidaria a cuerpo uterino
+T5	pathologie 1480 1520	patología a nivel de órganos abdominales
+T6	pathologie 1691 1704	endometriosis
+T7	pathologie 2348 2361	endometriosis
+#1	SNOMED T1	84089009
+#2	SNOMED T2	129103003
+#3	SNOMED T4	62394006
+#4	SNOMED T5	118948005
+#5	SNOMED T6	129103003
+#6	SNOMED T7	129103003
+#7	SNOMED T3	26681001

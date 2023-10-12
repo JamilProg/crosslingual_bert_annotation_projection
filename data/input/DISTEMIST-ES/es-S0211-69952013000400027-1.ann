@@ -1,0 +1,8 @@
+T1	pathologie 60 80	crisis hipertensivas
+T2	pathologie 1268 1307	paraganglioma del órgano de Zuckerkandl
+T3	pathologie 1524 1539	tumor intracava
+T4	pathologie 1761 1774	paraganglioma
+#1	SNOMED T1	706882009
+#2	SNOMED T2	302833002
+#3	SNOMED T4	302833002
+#4	SNOMED T3	126736007

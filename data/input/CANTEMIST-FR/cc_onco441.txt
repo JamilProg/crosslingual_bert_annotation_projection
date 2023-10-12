@@ -1,0 +1,20 @@
+Anamnèse
+Homme de 17 ans, sans fratrie ni antécédents médicaux intéressants. Antécédents familiaux de cancer du sein du côté de sa mère à l'âge de 30 ans (grandes tantes maternelles) et de cancer gastrique à l'âge de 40 ans (grand-oncle maternel).
+En août 2016, il a présenté un choc cardiogénique-hypovolémique de cause incertaine qui a nécessité une admission à l'unité de soins intensifs (USI) avec un soutien hémodynamique et une oxygénation par membrane extracorporelle (ECMO). Une fois le patient stabilisé, une étude diagnostique a été entamée, au cours de laquelle des métanéphrines urinaires élevées et un scanner de l'abdomen ont révélé une masse rétropéritonéale à côté de la tête du pancréas (21,1 x 18,2 x 43,3 mm) avec une captation PET-CT-FDG et MIBG. Compte tenu de la suspicion d'une TNE fonctionnelle de type paragangliome, après blocage adrénergique, une ponction guidée de la masse rétropéritonéale a été réalisée, dont la pathologie était compatible avec un paragangliome (Ki67 20 % et positivité diffuse pour crA, synaptophysine et S-100). En septembre 2016, une excision de la masse abdominale, une lymphadénectomie interaortocave et une excision de la lymphadénopathie périlésionnelle et mésentérique ont été réalisées. Le résultat de l'AP a confirmé le diagnostic de paragangliome abdominal (masse rétrocave mesurant 4,2 x 2,7 cm et masse rétropancréatique mesurant 0,8 x 0,9 et 6,6 x 4,5 cm) sans atteinte ganglionnaire sur les 6 ganglions étudiés et sans métastase à distance. Une étude génétique a été réalisée et a détecté une mutation ponctuelle avec changement de direction dans la SDH-B, consistant en un changement de guanine à adénine dans le nucléotide de l'ADNc c.642G > A, une variante de signification incertaine.
+Après la chirurgie, il a été suivi avec un intervalle sans maladie de 2 ans et 5 mois. En janvier 2019, alors que le patient était asymptomatique, une augmentation des métanéphrines urinaires a été observée (noradrénaline 105,28 mcg/24 h, limite 0-80). Une IRM abdominale et une TEP-CT-FDG ont été réalisées, confirmant la récidive de la maladie au niveau de l'abdomen (lymphadénopathie rétropéritonéale sur le psoas gauche [12 mm]) et des os (vertèbres C4, D1, D11, L1, L2, bassin et 5e côte droite).
+La patiente a été adressée au service d'oncologie médicale pour évaluation du traitement.
+
+Examen physique
+Asymptomatique, douleur contrôlée, sans épisodes de crise adrénergique. Signes vitaux dans les limites de la normale, bon état général et aucun signe pathologique à l'examen physique.
+
+Tests complémentaires
+Les examens de laboratoire ont montré une CrA plasmatique de 317 ng/ml (normale <100), des métanéphrines urinaires normales. L'octréoscan® et la scintigraphie à la MIBG ont montré un dépôt pathologique du traceur dans la partie supérieure de l'hémiabdomen, au niveau paramédian droit et gauche, dans le thorax et le bassin, en accord avec certaines des lésions décrites dans la scintigraphie FDG-PET-CT.
+
+Diagnostic
+Rechute d'un paragangliome extra-surrénalien de localisation abdominale, fonctionnel, de stade IV (métastases osseuses), avec mutation de signification incertaine dans le gène SDH-B.
+
+Traitement
+Après confirmation de l'expression du R-SS sur l'Octreoscan®, un traitement par PRRT (117-Lu-Dotatate) est proposé, avec une première dose en mai 2019.
+
+Évolution
+Le patient a reçu une première dose de PRRT en mai 2019, bien tolérée, sans toxicité pertinente immédiate et avec une captation intense en suivi gammagraphique 24 heures après l'administration.

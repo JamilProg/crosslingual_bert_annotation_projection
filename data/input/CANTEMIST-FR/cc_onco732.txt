@@ -1,0 +1,26 @@
+Anamnèse
+Antécédents personnels
+Femme de 56 ans, ménopausée, sans habitudes toxiques, avec des antécédents personnels de sensibilisation au pollen non documentée et d'asthme extrinsèque léger sous traitement par salbutamol inhalé à la demande.
+
+Antécédents oncologiques
+Diagnostiqué en mai 2005, à l'âge de 49 ans, en préménopause, d'un IDC multifocal du sein gauche, grade 1 (G1), récepteurs d'œstrogènes positifs (100 %) et récepteurs de progestatifs positifs (2 %), HER-2-neu négatif, Ki67 < 14 %, stade II-B (pT2pN1aM0, 6e édition du manuel de stadification du cancer de l'AJJCC, 2002). Intervenue par mastectomie radicale gauche modifiée, suivie d'une chimiothérapie adjuvante selon le schéma CT pour 6 cycles (docétaxel 75 mg/m2 iv jour 1, adriamycine 50 mg/m2 iv jour 1, cyclophosphamide 500 mg/m2 iv jour 1) de juin à septembre 2005, radiothérapie adjuvante sur le lit de mastectomie et la fosse supraclaviculaire gauche (dose totale : 50 Gy) et hormonothérapie avec tamoxifène 20 mg/jour pendant 5 ans. Depuis décembre 2010, aucun signe de rechute locale ou à distance n'a été observé.
+
+Antécédents actuels
+Depuis juin 2014, une élévation asymptomatique de l'antigène carcinoembryonnaire (ACE) à 5,5 ng/ml (0-5 ng/ml) a été constatée.
+
+Examen physique
+Aucune donnée suggérant une récidive à l'examen physique.
+
+Tests complémentaires
+Une étude d'extension complète comprenant un examen gynécologique, des analyses générales avec l'antigène glucidique 15-3 (CA 15-3), du sang occulte dans les selles, une mammographie, une radiographie du thorax, une échographie abdominale, une scintigraphie osseuse et, enfin, une TEP-TDM a permis d'exclure une rechute et un second néoplasme. Compte tenu des résultats négatifs des études précédentes, en décembre 2014, en même temps qu'un nouveau PET-CT scan, sans résultats intéressants, une coloscopie a été réalisée, qui n'a révélé qu'un polype sessile de 5 mm qui a été retiré par anse endoscopique, histologiquement compatible avec un adénome tubulaire avec dysplasie de bas grade.
+En mai 2015, une nouvelle augmentation des valeurs de l'ACE à 15 ng/ml et un CA 15-3 positif à 54 UI/ml (0-32 UI/ml) ont été enregistrés. À cette époque, une nouvelle TEP/TDM a été réalisée, qui n'a montré qu'une captation anormale dans l'intestin grêle avec un SUVmax de 5,80 (0-2,50). Suivant les recommandations de l'unité digestive de notre centre, l'étude a été étendue au moyen d'une entéro-TDM et d'une endoscopie par capsule, qui ont montré une seule lésion jéjunale de 10 mm compatible avec un angiome à faible potentiel hémorragique et peu pertinent sur le plan clinique. A ce stade, d'autres causes bénignes potentielles d'élévation des marqueurs tumoraux, telles que des pathologies gynécologiques, thyroïdiennes et hépatiques, ont été exclues. Depuis lors, un suivi clinique et sérologique étroit tous les 3 à 6 mois a été choisi.
+Lors de l'examen de mars 2017, coïncidant avec une élévation plus importante des marqueurs tumoraux, le patient a signalé des écoulements diarrhéiques occasionnels, sans modification pertinente de l'examen physique. Une nouvelle coloscopie a été réalisée, au cours de laquelle deux polypes sessiles ont été observés dans le côlon droit, qui ont été retirés par endoscopie. L'analyse de la biopsie a montré une infiltration de la muqueuse et de la sous-muqueuse par un adénocarcinome diffus, peu différencié, avec des cellules en anneau de signet. L'immunophénotype de ces cellules était positif pour la kératine 7, les récepteurs aux œstrogènes (90 %), les récepteurs à la progestérone (< 10 %) et la E-Cadhérine, et négatif pour la kératine 20 et HER2-neu. Les études histologiques et immunohistochimiques étaient compatibles avec des métastases coliques de récepteurs hormonaux positifs, HER-2-neu négatifs, Ki67 < 14 %. L'étude d'extension PET/CT a révélé une augmentation hétérogène de l'activité métabolique dans l'ensemble du côlon, avec des lésions focales hyper-renforcées dans les régions iléo-colique, du côlon droit et du sigmoïde (SUVmax 6,7), ainsi qu'au niveau des ganglions lymphatiques, supra-claviculaires bilatéraux et axillaires droits, où la récidive a également été confirmée par l'anatomopathologie.
+
+Diagnostic
+Rechute métastatique colique et ganglionnaire d'une femme ménopausée à récepteurs hormonaux positifs, HER-2-neu négatif, Ki67 < 14%, après un intervalle de 10 ans sans maladie.
+
+Traitement
+En juin 2017, la première ligne de traitement hormonal par létrozole a été débutée. Lors de la réévaluation à 6 mois, le CA 15-3 était élevé à 606 UI/ml et la progression osseuse avec l'apparition de lésions lytiques au niveau du sacrum et du rachis dorsal (J3, J10 et J12). Compte tenu des preuves de résistance hormonale primaire, une deuxième ligne de traitement par capécitabine 1 000 mg/12 heures x 14 jours tous les 21 jours a été envisagée et un soutien osseux par dénosumab 120 mg sous-cutané tous les 28 jours a été mis en place.
+
+Évolution
+Des réévaluations ont été effectuées tous les 3 mois par TEP/TDM. A ce jour, la patiente a reçu 8 cycles de chimiothérapie sans complications pertinentes et la maladie est stable, avec une diminution du CA 15-3 à 124 IU/ml (diminution de 75% depuis le début du traitement).

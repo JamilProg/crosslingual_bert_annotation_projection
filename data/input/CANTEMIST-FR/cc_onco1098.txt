@@ -1,0 +1,39 @@
+Anamnèse
+Une femme de 44 ans sans antécédents médicaux particuliers, à l'exception de fibromes utérins suivis par un gynécologue.
+Elle s'est présentée aux urgences en novembre 2013 rapportant une gêne buccale depuis une semaine avec une tumeur de la région madibulaire gauche qui saignait à la manipulation. Elle s'accompagnait d'une acorticulation hémimandibulaire et de la lèvre inférieure gauche.
+
+Examen physique
+Au niveau buccal, une tumeur ovale d'environ 3 cm de diamètre, mobile, ferme et non douloureuse, pédiculée sur la muqueuse gingivale de la zone molaire a été identifiée.
+
+Examens complémentaires
+- Orthopantographie (5/11/2013) : ostéolyse mandibulaire dans le quatrième quadrant avec extension au ramus mandibulaire gauche.
+- Biopsie de la lésion buccale (5/11/2013) : léiomyosarcome de grade 2 (système de grade FNCLCC).
+- Tomodensitométrie cervico-faciale (7/11/2013) : lésion ostéolytique dans l'hémimandibule gauche, située dans la région rétromolaire et l'angle mandibulaire, avec atteinte du canal du nerf dentaire inférieur, qui élargit et rompt les corticales osseuses et associe un rehaussement des tissus mous adjacents, compatible avec un néoplasme malin (diagnostic anatomopathologique de léiomyosarcome de grade 2). Aucune adénopathie radiologiquement significative n'a été observée. Nodule hypodense en LTD à corréler avec l'échographie.
+- Scanner thoraco-abdominal (20/11/2013) : sur le scanner thoracique, une petite image nodulaire (entre 5 et 6 mm) est identifiée dans le segment postérieur du lobe inférieur droit, sans calcification évidente, dont la nature ne peut être déterminée, ce qui ne permet pas d'exclure la possibilité d'une métastase. Conclusion : petite image nodulaire indéterminée dans la base pulmonaire droite, la possibilité de métastases ne peut être exclue.
+- Intervention chirurgicale (26/11/2013) : résection de la lésion mandibulaire par abord intrabuccal et cervicotomie, en respectant les marges chirurgicales. Le lambeau microchirurgical du péroné a été obtenu de façon régulière.
+
+Diagnostic
+Leiomyosarcome ulcéré, d'un diamètre maximal de 3,5 cm, dans la branche horizontale de la mandibule gauche avec rupture de la corticale et atteinte de la gencive. Résection chirurgicale des bords (muqueuse, tissus mous et os) sans infiltration tumorale.
+
+Traitement
+Le patient a reçu une radiothérapie postopératoire du 27/1/2014 au 24/2/2014, avec une dose totale de 42 Gy (2 Gy/jour) administrée sur un volume cible clinique comprenant la mandibule gauche et la cicatrice cervicale.
+
+Evolution
+Compte tenu de l'histologie, il a été décidé, en même temps que le début de la RT, de discuter du cas avec le service de gynécologie.
+Lors de l'étude gynécologique, deux myomes se sont avérés plus grands que ceux connus précédemment.
+Une hystérectomie totale simple a été décidée comme traitement, réalisée le 14/1/2014, avec des résultats anatomopathologiques de :
+- Description macroscopique : le corps et la cavité endométriale apparaissent déformés en raison de la présence d'un nodule intramural d'un axe maximal de 11 cm. Le nodule n'est pas bien délimité, avec de petits nodules satellites autour de lui dans certaines zones. Au voisinage du col, la séreuse utérine est rompue et certains nodules coïncident avec la marge de résection.
+- Description microscopique : les coupes correspondant au col de l'utérus ne montrent aucune altération significative des composants exo ou endocervicaux. La muqueuse endométriale présente un aspect prolifératif. Le nodule myométrial est constitué d'une prolifération de cellules très atypiques de morphologie très variable. En périphérie, la lésion est densément cellulaire et est composée de cellules fusiformes prédominantes avec de grands noyaux ovales, modérément variables entre eux, et des figures de mitose fréquentes. Dans le reste de la tumeur, ces cellules alternent avec de grandes cellules au noyau très volumineux et hyperchromatique, parfois multinucléé et présentant de nombreuses mitoses atypiques. On observe également de larges zones de nécrose et des zones plus oedémateuses. Nombreuses images de perméabilité vasculaire. La lésion se développe de façon multinodulaire et certains de ces nodules coïncident avec la marge de résection dans la zone de rupture de la paroi utérine.
+- Immunohistochimie : CD31 positif, facteur VIII positif, actine positive, caldesmon positif, calponine positive, CD10 négatif.
+Cytokératine 19 négative, desmine positive, EGFR patchy positif, Ki 67 positivité variable, zones jusqu'à 40%, p16 faiblement positif, p53 négatif, vimentine positive.
+Diagnostic anatomopathologique hystérectomie totale simple : léiomyosarcome avec images fréquentes de perméation vasculaire.
+Après l'opération, la patiente a souffert de douleurs lombo-sacrées, initialement attribuées à une iatrogénie chirurgicale, mais compte tenu de sa réfractarité à l'analgésie après 2 semaines, une IRM pelvienne a été demandée, avec les résultats suivants.
+- IRM lombosacrée (2/6/2014) : métastase osseuse touchant toute l'aile sacrée et l'hémicorps droit des S2 et S3 avec rupture de la corticale antérieure et masse de tissu mou entourant les racines S2 et S3 droites. Métastases osseuses dans l'aileron sacré gauche et dans la région postéro-supérieure et le pédicule droit de L5. Image compatible avec une calcification ou un artefact dans le canal rachidien au niveau de L4-L5.
+L'étude d'extension a également été mise à jour avec un scanner cervico-thoracique-abdominal et une scintigraphie osseuse.
+- Tomodensitométrie cervico-thoracique-abdominale (19/2/2014) : métastases pulmonaires et hépatiques. Adénopathie iliaque gauche suspecte de malignité. Métastases osseuses dans l'aile sacrée droite sans modification majeure par rapport à l'IRM précédente. Nouvelle lésion lytique dans le corps vertébral D10, pour exclure une métastase. Lésion mixte au niveau de la septième côte droite.
+- Scintigraphie osseuse (25/2/2014) : des foyers d'hyperenhancement ont été observés au niveau de la mâchoire inférieure, de la huitième côte droite dans son arc latéral, de l'apophyse épineuse de D-11 et de l'aile droite, compatibles avec une dissémination métastatique.
+Compte tenu de ces résultats, une perfusion mensuelle d'acide zolédronique a été mise en place, et un deuxième volume a été irradié, y compris le sacrum, en administrant une dose totale de 30 Gy (3 Gy/jour) entre le 11 et le 24 février 2014.
+Par la suite, la patiente a commencé un traitement par QT selon un schéma docétaxel 75 mg/m2 (jour 8) + gemcitabine 900 mg/m2 (jours 1 et 8), ayant reçu un total de 5 cycles à ce jour entre le 26/2/2014 et le 28/5/2014.
+Le dernier examen d'imagerie réalisé le 19/5/2014 a montré une légère diminution de la taille des lésions hépatiques hypervasculaires métastatiques, avec une stabilité des lésions kystiques restantes, probablement bénignes. Des métastases rénales gauches et des changements de densité de la métastase sacrée ont également été observés, sans changement dans les lésions costales ou dans la lésion en D10.
+Les métastases pulmonaires ont un comportement variable, certaines d'entre elles étant en croissance.
+La patiente continue d'être suivie en consultation à l'hôpital de jour de l'hôpital universitaire de La Princesa, et deux cycles supplémentaires du traitement susmentionné sont prévus.

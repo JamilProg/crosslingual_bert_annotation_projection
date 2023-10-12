@@ -1,0 +1,22 @@
+T1	pathologie 18 32	fumador activo
+T2	pathologie 79 98	enfermedad ulcerosa
+T3	pathologie 101 128	hepatopatía crónica por VHC
+T4	pathologie 177 217	hemorragia digestiva en forma de melenas
+T5	pathologie 510 523	hepatomegalia
+T6	pathologie 635 646	anemización
+T7	pathologie 826 829	CHC
+T8	pathologie 1176 1200	lesión en cuello femoral
+T9	pathologie 1228 1245	metástasis de CHC
+T10	pathologie 1287 1301	tumor primario
+T11	pathologie 1477 1511	fractura patológica subtrocantérea
+#1	SNOMED T1	77176002
+#2	SNOMED T2	429040005
+#3	SNOMED T3	128302006
+#4	SNOMED T4	414663001
+#5	SNOMED T5	80515008
+#6	SNOMED T6	271737000
+#7	SNOMED T7	109841003
+#8	SNOMED T9	315000005
+#9	SNOMED T10	372087000
+#10	SNOMED T11	409667007
+#11	SNOMED T8	94300004

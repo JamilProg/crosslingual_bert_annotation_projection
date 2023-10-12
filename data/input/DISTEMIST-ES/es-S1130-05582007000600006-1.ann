@@ -1,0 +1,12 @@
+T1	pathologie 1082 1092	adenopatía
+T2	pathologie 1220 1246	proceso linfoproliferativo
+T3	pathologie 1248 1263	tumor neurógeno
+T4	pathologie 1266 1283	tumor mesenquimal
+T5	pathologie 2656 2691	hiperplasia angiofolicular linfoide
+T6	pathologie 2694 2744	Enfermedad de Castleman, variante hialino-vascular
+#1	SNOMED T5	207036003
+#2	SNOMED T6	127213008
+#3	SNOMED T1	30746006
+#4	SNOMED T2	277466009
+#5	SNOMED T3	55342001
+#6	SNOMED T4	55342001

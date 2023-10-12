@@ -1,0 +1,28 @@
+Anamnèse
+Le patient est un homme de 58 ans, ex-fumeur depuis 18 ans avec un indice pack-année de 44. Ses antécédents personnels comprennent une hypertension artérielle traitée par valsartan-hydrochlorothiazide et manidipine, un diabète sucré contrôlé par metformine, un syndrome d'apnée-hypopnée du sommeil traité par CPAP et une hyperuricémie contrôlée par allopurinol. En ce qui concerne les interventions chirurgicales, nous soulignons un myofibroblastome du sein gauche enlevé en 2016.
+Antécédents oncologiques
+En mars 2018, il a été diagnostiqué un adénocarcinome bronchique droit cT4 (masse de 9 cm avec infiltration œsophagienne, vasculaire et possiblement trachéale) cN3 (adénopathie para-aortique de 10 mm et paratrachéale gauche de 20 mm) M0, stade IIIC selon la 8e classification TNM du cancer du poumon suite à des examens complémentaires (tomodensitométrie abdomino-pelvienne et cérébrale, et fibrobronchoscopie avec biopsies où une tumeur étendue a été observée dans la zone la plus distale de la trachée provenant de la bronche principale droite, envahissant la carène et provoquant une compression extrinsèque dans le lobe moyen et le lobe inférieur droit.
+Au niveau moléculaire, le patient présentait une expression positive de PD-L1 (100 %), un EGFR négatif, un ROS-1 négatif et aucune translocation ALK.
+Après discussion du cas au sein du comité des tumeurs thoraciques, la stratégie thérapeutique suivante a été définie : chimiothérapie par cisplatine et vinorelbine par voie orale, évaluation ultérieure par un nouveau scanner et évaluation d'une chimioradiothérapie concomitante à partir du troisième cycle.
+Au jour +10 du premier cycle, elle s'est présentée aux urgences pour une hémoptysie sévère avec caillots et une détérioration aiguë de la fonction rénale associée à un malaise général avec diminution de l'ingestion et vomissements, et il a été décidé de l'hospitaliser en oncologie avec une thérapie liquidienne et des mesures de soutien pour l'hémoptysie.
+Compte tenu de la gravité de l'hémoptysie, il a été décidé de commencer le traitement par radiothérapie hémostatique. Le lendemain du début du traitement, il a présenté une détérioration soudaine de son état général avec une insuffisance respiratoire aiguë (oxygénothérapie avec un masque à réservoir de 100 % avec des saturations en O2 comprises entre 70 et 85 %).
+
+Examen physique
+L'examen physique révèle une TA de 3 et une hypophonie marquée dans les 2/3 de l'hémithorax droit.
+Le patient est dyspnéique au repos avec des saturations de l'ordre de 70-85% avec un masque à réservoir de 100%. Il maintient un contrôle adéquat de sa tension artérielle.
+
+Examens complémentaires
+Suite à l'apparition soudaine de la dyspnée, une analyse des gaz du sang artériel a été demandée, montrant une hypoxémie avec une pression partielle d'oxygène de 58,2 mm Hg. La suspicion d'un épanchement pleural droit a conduit à une échographie transthoracique et à une radiographie du thorax montrant une importante masse hilaire droite obstruant la bronche principale droite avec atteinte de la carène et une pneumopathie obstructive avec une large composante d'atélectasie.
+Les analyses sanguines ont révélé une diminution du taux de filtration glomérulaire de 26 (contre 67 auparavant) et une élévation de la créatinine à 2,55 mg/dl (contre 0,9 mg/dl auparavant).
+
+Diagnostic
+Insuffisance respiratoire partielle secondaire à une atélectasie due à l'invasion tumorale de la bronche principale droite et insuffisance rénale aiguë liée à la néphrotoxicité du cisplatine, avec une composante principalement pré-rénale due à une diminution de l'ingestion et à des vomissements.
+
+Traitement
+Initialement, une ventilation mécanique non invasive a été mise en place avec FIO2 100 % IPAP 26, EPAP 11, FR 18 rpm, permettant d'obtenir des saturations en oxygène d'environ 90 %. Par la suite, en raison d'une mauvaise tolérance à la VNI due à des vomissements, un masque avec un réservoir de 100 % a été mis en place. Des glucocorticoïdes ont été ajoutés en raison de la suspicion d'un certain degré de composante inflammatoire.
+La possibilité de réaliser une bronchoscopie a été envisagée afin d'évaluer s'il existait des options de traitement local de l'obstruction, mais cette option a finalement été rejetée par les services correspondants.
+
+Évolution
+L'état respiratoire du patient étant clairement altéré, il a produit une expectoration hémoptotique accompagnée d'un matériel tumoral solide de 5 cm. Presque immédiatement, une amélioration respiratoire s'est produite, le patient n'ayant plus besoin du masque avec un réservoir de 100 % et maintenant des saturations en oxygène de 92-93 avec des lunettes nasales à oxygène à 2 bpm. Une nouvelle radiographie du thorax a été réalisée, montrant une nette amélioration de la pneumopathie obstructive et de l'atélectasie.
+Cette amélioration s'est poursuivie au cours des jours suivants, ce qui a permis au patient de quitter l'hôpital après sept jours d'hospitalisation. À sa sortie, le patient était eupnéique et ne nécessitait plus d'oxygénothérapie, et la fonction rénale avait été corrigée après une hydratation intraveineuse. La radiothérapie hémostatique a été poursuivie compte tenu de la persistance de l'hémoptysie, mais dans une bien moindre mesure.
+Elle s'est présentée à l'hôpital de jour à la date prévue et le deuxième cycle a été administré avec une réduction de dose de 80%, compte tenu de la toxicité observée.

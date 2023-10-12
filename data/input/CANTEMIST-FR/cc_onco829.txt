@@ -1,0 +1,25 @@
+Anamnèse
+Femme, âgée de 38 ans lors de la première consultation (2011), sans facteur de risque cardiovasculaire et sans antécédents médicaux pertinents. Ex-fumeuse depuis 1998 (IPA 20) et sans autres habitudes toxiques. Pas de traitement habituel ni d'antécédents médicaux ou oncologiques familiaux dignes d'intérêt.
+Elle a commencé l'étude en novembre 2011 en raison d'une anémie ferriprive avec une hémoglobine de 10 g/dL, sans signe de saignement. Aucun symptôme B ou autre symptôme associé.
+
+Examen physique
+Lors de l'examen, elle était en parfait état général, consciente et orientée, eupnéique. Afébrile, avec des signes vitaux normaux. Adénopathies cervicales bilatérales palpables et adénopathies axillaires gauches palpables, auscultation cardiaque et pulmonaire sans résultat. De même, l'examen abdominal ne révèle rien, ni masse palpable, ni viscéro-mégalie.
+
+Examens complémentaires
+Une radiographie du thorax a été effectuée et une masse médiastinale a été détectée, et le patient a commencé une étude.
+Le PET-CT réalisé début décembre a montré de multiples conglomérats adénopathiques supradiaphragmatiques (cervicaux bilatéraux jusqu'à 30 mm, rétropectoraux, paratrachéaux, chaîne mammaire interne bilatérale, hilaires et parahilaires bilatéraux, sous-carénaux et para-œsophagiens). En outre, une masse médiastinale mesurant 68 x 52 mm et des adénopathies hypermétaboliques dans le creux pleuropéricardique antérieur bilatéral. Au niveau infradiaphragmatique, une rate hypermétabolique (12 cm), un conglomérat d'adénopathies gastro-hépatiques et un hile splénique, rétrocave, interaortocave, rétropéritonéal et une masse dans le hile rénal mesurant 70 x 20 mm, jusqu'à la bifurcation aorto-iliaque et jusqu'à l'anneau crural gauche.
+Au vu des résultats, une excision de l'adénopathie axillaire gauche a été réalisée, révélant une adénopathie avec un fond réactif polymorphe composé de lymphocytes, de plasmocytes et d'éosinophiles, de pseudo-abcès de neutrophiles, ainsi que de nombreuses cellules atypiques de morphologie RS et de cellules lacunaires. L'immunohistochimie a montré un phénotype classique : CD20-, CD30+, CD15+, BCL2+, p53+, avec un index prolifératif élevé, le tout cohérent avec un lymphome de Hodgkin, sclérose nodulaire.
+La biopsie de la moelle osseuse a été réalisée sans infiltration.
+
+Diagnostic
+Tous les examens complémentaires et l'examen physique effectués ont permis de diagnostiquer un lymphome de Hodgkin à sclérose nodulaire de stade III2S, avec IPI 3, risque élevé.
+
+Traitement
+Il a commencé un traitement de première intention par ABVD de décembre 2011 à mai 2012, recevant un total de six cycles, avec une bonne tolérance clinique et hématologique.
+
+Évolution
+Après la fin du traitement, un PET scan de réévaluation a été réalisé, montrant une progression significative (à la fois métabolique et dans le nombre et la taille des adénopathies suprainfradiaphragmatiques avec atteinte splénique et grandes masses médiastinales, masses axillaires gauches et dans le hile hépatique). La confirmation histologique d'un nodule sous-occipital a été obtenue. Considéré comme un lymphome réfractaire au traitement de première ligne, un traitement a été débuté par ESHAP et mobilisation, confirmant une réponse complète en TEP avant la transplantation, de sorte qu'une transplantation autologue a été réalisée en octobre 2012, sans incident.
+Cependant, lors de la première réévaluation post-transplantation, il a été mis en évidence une progression supra et infradiaphragmatique avec atteinte splénique, qui a été à nouveau confirmée histologiquement après ablation d'une adénopathie cervicale. Il a ensuite débuté un traitement par brentuximab vedotin de février à août 2013 avec une nouvelle progression (à la fois supra et infradiaphragmatique).
+En septembre 2013, elle a été mise sous bendamustine, qu'elle a maintenue jusqu'en janvier 2014, recevant 5 cycles avec une nouvelle progression, asymptomatique, si bien qu'au vu du faible bénéfice de la chimiothérapie, une mise en observation a été décidée. Cependant, en juillet 2014, une progression pulmonaire et splénique a été observée, avec une pancytopénie sévère, de sorte qu'une biopsie de la moelle osseuse a été réalisée, excluant une infiltration de la moelle osseuse. Étant donné le besoin continu de transfusion, il a été décidé d'administrer deux cycles de vincristine, de bléomycine et de dexaméthasone, sans amélioration, et la pancytopénie sévère a persisté.
+Après évaluation par le service de radio-oncologie, il a été décidé d'effectuer une radiothérapie splénique palliative, recevant une dose totale de 1,4 Gy entre janvier et février 2015. Suite à cela, l'hémogramme s'est complètement normalisé.
+Une nouvelle réévaluation TEP a été réalisée en avril 2015, avec une progression évidente supra- et infradiaphragmatique, initiant un traitement par nivolumab, médicament dont elle a reçu 47 cycles jusqu'en février 2017. Comme toxicité secondaire, une hypothyroïdie symptomatique est survenue, contrôlée sans incident par la lévothyroxine. Actuellement, elle est en réponse complète, sans traitement depuis 12 mois et mène une vie active.

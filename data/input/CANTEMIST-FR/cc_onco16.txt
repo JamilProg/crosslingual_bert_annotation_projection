@@ -1,0 +1,47 @@
+Anamnèse
+Homme, 47 ans, originaire du Mali, résidant en Espagne de 2005 à 2007 et de 2011 à la date de la consultation. Il n'a pas résidé ni visité d'autres pays. Fumeur actif avec un taux cumulé de 15 paquets-années. Consommation sporadique de marijuana. Infection par le VIH-1 diagnostiquée en juillet 2006, initialement sous traitement par lopinavir, ritonavir, emtricitabine et ténofovir, puis arrêt du traitement en 2007.
+
+Diagnostiqué avec une schizophrénie indifférenciée en février 2014, il était suivi en psychiatrie. Il a dû être admis pour une exacerbation des symptômes psychotiques en juin 2014. Il est sorti de l'hôpital avec un traitement à base d'olanzapine, de lormétazépaM et de décanoate de zuclopenthixol. Il vivait dans une situation d'exclusion sociale sévère, résidait dans un centre d'hébergement et fréquentait une soupe populaire ; il n'avait pas de famille en Espagne. Le patient s'est présenté aux urgences en décembre 2014 en raison de tremblements prédominant dans les membres supérieurs et d'une instabilité de la marche, qui entraînait des chutes fréquentes, sur un mois d'évolution. Les symptômes ont été initialement attribués à un extrapyramidalisme pharmacologique, raison pour laquelle il a été interrompu sous traitement antipsychotique dépôt, sans amélioration des symptômes.
+
+Examen physique
+Lors de son admission au service des urgences, elle était stable sur le plan hémodynamique et afébrile. L'examen neurologique a révélé des mouvements saccadés lents, des tremblements de la tête et de la langue, des tremblements au repos des quatre membres (principalement à gauche) et des tremblements posturaux ; une rigidité des membres supérieurs, une légère bradykinésie prédominant dans le membre supérieur gauche, un Babinsky gauche douteux, une démarche avec une base d'appui accrue, un freinage préservé avec une tendance à l'antéropulsion, une claudication du membre inférieur droit et une altération des réflexes posturaux.
+
+L'examen physique ne révèle rien d'autre.
+
+Examens complémentaires
+"Électrocardiogramme et radiographie pulmonaire : normaux.
+"Analyses sanguines : biochimie générale normale. Protéinogramme avec augmentation des bêta-2 et gamma-globulines (bêta-2-globuline 6,4 % [0,60 g/dl] ; gamma-globuline 36,3 % [3,38 g/dl]). Complément C3 et C4 normaux. Marqueurs tumoraux (AFP, CEA, CA 19.9 et PSA total) normaux. Anémie et leucopénie (hémoglobine 12,1 g/dl, leucocytes 2 900/μl ; neutrophiles 900/μl ; lymphocytes 1 700/μl).
+Coagulation normale. ESR 64 mm 1 h. Lymphocytes T CD4 174/μl ; rapport T4/T8 0,1 ; charge virale VIH-1 2 120 000 copies/ml. IgG pour Herpes simplex 1 et 2, cytomégalovirus (CMV), varicelle-zona (VZZ) et Toxoplasma gondii positives. IgM CMV faiblement positives. IgM entérovirus, virus d'Epstein-Barr (EBV), Paul-Bunnell et IgG T. pallidum négatifs. IgM Toxoplasma gondii négatifs. Sérologies de l'hépatite B et de l'hépatite C négatives.
+"CT cérébral avec contraste : des lésions hyperdenses ont été observées dans le genou et le splénium du corps calleux, qui se sont rehaussées après l'introduction de l'agent de contraste. Zones de rehaussement mal définies dans la substance blanche sous-corticale des deux lobes frontaux avec un discret œdème périlésionnel. Lésion hypodense frontobasale gauche d'aspect résiduel.
+" Analyse du liquide céphalo-rachidien (LCR) : glucose 44 mg/dl ; protéines totales 201,3 mg/dl ; ADA 8,1 UI/l ; globules rouges 47/μl ; leucocytes 77/μl (polynucléaires neutrophiles 0 %, mononucléaires 100 %) ; colorations gram, mycobactériennes et fongiques négatives. Cultures aérobies et mycobactériennes négatives. Antigène cryptococcique négatif ; l'ADN du CMV, l'ADN de l'EBV et T. gondii n'ont pas été détectés par PCR. L'ADN du virus JC a été détecté par PCR (PCR).
+
+Le patient a été admis au service des maladies infectieuses pour terminer l'étude :
+
+"IRM cérébrale avec gadolinium : lésions occupant l'espace (LOE) avec rehaussement de contraste affectant le corps calleux, la surface des deux ventricules latéraux et la région sous-corticale des deux hémisphères cérébraux, principalement frontale et pariétale, avec œdème périlésionnel sur les séquences T2-FLAIR. Les lésions les plus importantes étaient situées dans le genou (19 mm) et le splénium (27 mm) du corps calleux. Toutes les lésions présentaient un rehaussement homogène, à l'exception de la lésion frontale gauche (1 cm), qui présentait un rehaussement en anneau. Elles n'ont pas eu d'impact clair sur la diffusion, ont montré de faibles niveaux de rCBV et une augmentation de la choline dans l'étude spectroscopique avec la présence de lipides et de lactate.
+"Tomodensitométrie corporelle totale : ganglions lymphatiques axillaires gauches et chaînes iliaques externes bilatérales, mesurant 10-12 mm.
+"Cytométrie du LCR : 89% de la cytologie était constituée de lymphocytes T CD8+, sans perte ou diminution de l'expression des antigènes pan-B, CD2, CD3, CD5 et CD7.
+
+Diagnostic
+"LOE dans le SNC, à étudier.
+"Probable lymphome cérébral primaire.
+"Leucoencéphalopathie multifocale progressive (LMP).
+"Infection par le VIH au stade C-3.
+"Schizophrénie indifférenciée ou troubles du comportement secondaires à une atteinte du SNC.
+"Dystocie sociale.
+
+Traitement
+Dès le diagnostic de l'infection par le VIH, un traitement antirétroviral est réintroduit avec du ritonavir 100 mg v.o./jour, du darunavir 800 mg v.o./jour, de l'emtricitabine 200 mg-ténofovir 245 mg v.o./jour, du raltegravir 400 mg v.o./12 heures et une prophylaxie antibiotique de la toxoplasmose avec du cotrimoxazole 400/80 mg v.o. c/12 heures, deux fois par semaine.
+
+Le traitement antipsychotique est ajusté avec du zuclopenthixol 200 mg i.m./2 semaines et du lormétazépam 2 mg v.o./jour.
+
+L'évolution
+Sans être sous corticothérapie, une biopsie cérébrale stéréotaxique de la lésion frontale gauche a été réalisée :
+"Histologie et immunohistochimie (IHC) : amas lymphocytaires denses périvasculaires et multifocaux avec de petits lymphocytes, avec perméabilité des petites parois vasculaires et formation granulomateuse occasionnelle non nécrosante. L'IHC était négative pour le CD-15 au niveau de la composante lymphocytaire, avec une positivité étendue et marquée pour le CD-3 et une positivité colorée minime pour le CD-20. Aucun micro-organisme n'a été identifié avec les colorations habituelles ou le CMV avec les techniques d'immunohistochimie.
+"Hybridation in situ pour la détection de l'EBV : négative.
+"Réarrangement de l'IgH : pas de représentation lymphoïde B.
+"Réarrangement du gène TcRgamma dans l'échantillon de biopsie cérébrale : faible représentation lymphoïde T clonale.
+
+Le patient a été transféré au service d'hématologie et un traitement a été mis en place avec de la dexaméthasone par voie orale à la dose de 4 mg toutes les 12 heures. L'étude a été complétée par une biopsie de la moelle osseuse, qui n'a montré aucune infiltration par le lymphome et aucune population clonale B ou T pathologique n'a été détectée.
+
+En l'espace de 3 semaines, le patient a montré une nette amélioration des symptômes neurologiques, avec une disparition presque complète des tremblements et de la raideur des membres et une amélioration remarquable de la démarche, et a été libéré en janvier 2015 avec un traitement antirétroviral et l'ajustement de la corticothérapie (dexaméthasone 1 mg v.o./12 heures). L'IRM cérébrale de contrôle avec gadolinium a montré une diminution significative du nombre et de la taille des lésions cérébrales, ne persistant que de petits foyers de rehaussement sous-cortical dans la région frontale gauche de 5 mm et dans la région frontale droite dans le gyrus précentral de 3 mm et des rehaussements linéaires dans le corps calleux ainsi qu'un léger épaississement de la tige pituitaire et des zones d'encéphalomalacie frontobasale gauche d'aspect résiduel.
+En février 2015, il a été réadmis pour une nouvelle aggravation de ses symptômes neurologiques malgré le traitement correct prescrit, au point d'être incapable de marcher sans soutien en raison d'une ataxie marquée. Une nouvelle IRM a été demandée, dans laquelle les lésions étaient stables. Étant donné la difficulté posée par la détection du réarrangement génétique TcRgamma avec une faible représentation lymphoïde T clonale pour poser le diagnostic de lymphome T cérébral primaire, une nouvelle étude du LCR a été demandée, obtenant une nouvelle cytométrie avec des lymphocytes CD8 positifs avec un profil antigénique normal, un réarrangement TcR positif, une PCR positive pour la détection de l'EBV et du virus JC. En raison des conditions cliniques à ce moment-là, avec un PS 3, le traitement par chimiothérapie a été exclu, de sorte que la radiothérapie holocrânienne a été envisagée avec une intention palliative, mais cela n'a pas été possible en raison du décès du patient en mars 2015.

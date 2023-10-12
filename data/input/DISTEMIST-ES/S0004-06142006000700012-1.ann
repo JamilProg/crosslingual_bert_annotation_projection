@@ -1,0 +1,24 @@
+T1	pathologie 65 86	hipertensión arterial
+T2	pathologie 89 103	angor pectoris
+T3	pathologie 366 377	eosinofilia
+T4	pathologie 785 814	nefroma quístico multilocular
+T5	pathologie 828 839	adenopatías
+T6	pathologie 1038 1055	quiste hidatídico
+T7	pathologie 1439 1462	quiste hidatídico renal
+T8	pathologie 1465 1494	nefroma quístico multilocular
+T9	pathologie 1656 1667	hidatidosis
+T10	pathologie 1820 1843	quiste hidatídico renal
+T11	pathologie 2186 2207	hipertensión arterial
+T12	pathologie 2327 2338	eosinofilia
+#1	SNOMED T1	38341003
+#2	SNOMED T2	194828000
+#3	SNOMED T3	386789004
+#4	SNOMED T4	92165001
+#5	SNOMED T5	30746006
+#6	SNOMED T6	74942003
+#7	SNOMED T7	187144000
+#8	SNOMED T8	92165001
+#9	SNOMED T9	74942003
+#10	SNOMED T10	187144000
+#11	SNOMED T11	38341003
+#12	SNOMED T12	386789004

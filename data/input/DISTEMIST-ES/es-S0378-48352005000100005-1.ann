@@ -1,0 +1,12 @@
+T1	pathologie 543 563	adenopatías axilares
+T2	pathologie 543 583	adenopatías axilares y supraclaviculares
+T3	pathologie 651 666	derrame pleural
+T4	pathologie 682 707	linfangitis carcinomatosa
+T5	pathologie 897 925	carcinoma ductal infiltrante
+T6	pathologie 1424 1435	adenopatías
+#1	SNOMED T1	127189005
+#2	SNOMED T2	127088000+127189005
+#3	SNOMED T3	60046008
+#4	SNOMED T4	255119002
+#5	SNOMED T5	408643008
+#6	SNOMED T6	30746006

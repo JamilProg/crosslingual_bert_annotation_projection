@@ -1,0 +1,37 @@
+MOTIF DE LA CONSULTATION
+Un homme de 80 ans s'est présenté aux urgences de l'hôpital en février 2016 après une chute occasionnelle à son domicile, sans traumatisme cranio-cérébral, présentant des vertiges persistants avec instabilité de la marche depuis deux mois, une perte de poids de 8 kg depuis 3 mois et des paresthésies au niveau des mains et des pieds.
+
+Une numération sanguine complète, une biochimie et une coagulation, une radiographie du thorax et une tomodensitométrie du cerveau n'ont révélé aucune anomalie.
+
+ANTÉCÉDENTS PERSONNELS
+Ethylisme chronique, ancien fumeur de 70 paquets/an.
+
+EXAMEN PHYSIQUE
+- Bon état général. État de performance 1.
+- Auscultation cardio-pulmonaire : aucun résultat pertinent.
+- Examen neurologique : conscient et orienté. Pas de troubles du langage. Ataxie sévère avec altération de la sensibilité (vibratoire/positionnelle). Romberg (+). Aréflexie universelle. Pas de déficit moteur ni de troubles de la mémoire.
+- Ophtalmologie (fond d'œil) : Œdème papillaire bilatéral.
+
+EXPLORATIONS COMPLÉMENTAIRES
+- NFS : Hb 12g/dl, Leucocytes 14 000, Neutrophiles 13 000, ESR 106 mm/h, CRP 11 mg/dl, ANA faiblement positifs, ANCA négatifs, IgM 340 mg/dl.
+- Électromyogramme : polyneuropathie périphérique sensori-motrice (à prédominance sensorielle) et caractéristiques mixtes affectant principalement les membres inférieurs à un degré légèrement modéré.
+- Potentiels évoqués visuels : paramètres neurophysiologiques préservés.
+- IRM cérébrale 24/02/16 : Absence de lésions occupant l'espace, leucoaraïose de grade 3, pas de prise anormale après administration de produit de contraste, étude angiographique normale.
+- Ponction lombaire : Hyperprotéinorragie 109 mg/dL, pléiocytose (cellules nucléées 45).
+- TDM thoraco-abdomino-pelvienne avec contraste 26/02/16 : nodule spiculé dans le segment postérieur du LSD mesurant 17 x 13 mm, multiples adénopathies médiastinales, paratrachéales, sous-carénaires, en rapport avec une néoplasie pulmonaire. Le parenchyme hépatique ne présente pas de lésions focales. Glandes surrénales de taille normale.
+- Fibrobronschoscopie : cordes vocales avec zones d'hyperchertinisation. Pas de lésions endobronchiques. Cytologie du lavage broncho-alvéolaire, négative pour les cellules malignes.
+- Echobronchoscopie (EBUS) 30/03/16 : anatomie pathologique d'une des adénopathies médiastinales compatible avec une métastase ganglionnaire d'un carcinome microcytaire.
+- Anticorps onconeuraux : Anti-CV2/CRMP-5 positifs.
+- CT scan thoraco-abdominal avec contraste 28/07/16 : Le nodule pulmonaire connu en LSD a pratiquement disparu, ne laissant qu'une opacité résiduelle et un épaississement pleural adjacent minime. Aucun autre nodule pulmonaire n'est observé.
+Diminution significative des adénopathies médiastinales, sans taille significative actuellement. Le foie ne présente aucune lésion focale évoquant une atteinte métastatique. Il n'y a pas de lésions osseuses suggérant une atteinte métastatique.
+- IRM rachidienne 12/05/16 : Hyperintensité du signal en T2 et STIR de toute la moelle, atteinte des cordons postérieurs, contexte de démyélinisation d'origine probablement paranéoplasique.
+
+JUGEMENT DIAGNOSTIQUE
+Neuromyélite optique paranéoplasique secondaire à un carcinome pulmonaire à petites cellules.
+
+TRAITEMENT ET ÉVOLUTION
+En février 2016, le patient a été admis dans le service de neurologie avec une hypoesthésie quadristale à l'examen, une ataxie à prédominance gauche, une aréflexie globale et une hypopalesthésie distale prédominant dans les membres supérieurs. Il a été examiné par le service d'ophtalmologie et l'OCT a montré un œdème papillaire bilatéral sans symptômes congestifs et une réduction concentrique du champ visuel dans les deux yeux. Une IRM cérébrale a été demandée, qui n'a pas montré d'altérations pertinentes. L'électromyogramme a montré une polyneuropathie périphérique avec une prédominance sensorielle principalement dans les membres inférieurs. Compte tenu des antécédents de consommation d'alcool, de l'ataxie sensorielle et des altérations oculaires, un traitement à la vitamine B1 (thiamine) a été instauré sans amélioration du tableau clinique. La ponction lombaire a révélé une hyperprotéinurie de 109 mg/dl et une pléiocytose avec un total de 45 cellules nucléées. Le patient étant fumeur et répondant mal à la vitamine B1, après avoir éliminé une encéphalopathie de Wernicke, un scanner thoraco-abdominal a été demandé qui a révélé la présence d'un nodule spiculé dans le segment postérieur du LSD mesurant 17 x 13 mm, de multiples adénopathies médiastinales, paratrachéales et subcarinales, la biopsie des adénopathies médiastinales étant compatible avec une métastase d'un carcinome microcytaire du poumon. Parmi les derniers tests diagnostiques, les anticorps onconeuronaux ont été analysés et les résultats étaient positifs pour Anti-CV2/CRMP-5 dans le sérum et le LCR.
+
+En février 2016, le patient a reçu un traitement immunosuppresseur, complétant deux doses de Rituximab avec de la méthylprednisolone 1 gramme pendant 5 jours. Il a été transféré au service d'oncologie où le premier cycle de Carboplatine et d'Etoposide a été administré avec une bonne tolérance. À sa sortie du service d'oncologie, il a montré une amélioration clinique et a été capable de se déplacer avec une assistance, bien que l'ataxie sensorielle ait persisté dans les membres inférieurs. En mai 2016, le patient a subi une aggravation clinique, avec une incapacité à marcher, une aréflexie globale, une ataxie sensorielle complète et des mouvements pseudo-athétosiques dans les membres supérieurs. Une IRM de la moelle épinière a montré une myélite longitudinale étendue touchant les cordons postérieurs. Un traitement immunosuppresseur a été instauré avec une plasmaphérèse et une dose unique de cyclophosphamide.
+
+Le patient a été référé à un hôpital de long séjour et a subi une rééducation avec une amélioration neurologique, étant capable de commencer à se tenir debout avec un soutien ; l'ataxie sensorielle a persisté et ophtalmologiquement, il a présenté un œdème papillaire bilatéral avec une réduction concentrique du champ visuel. Au total, 5 cycles de chimiothérapie ont été réalisés et une réponse complète a été observée en octobre 2016. Entre septembre et octobre 2016, il a commencé une RT thoracique avec une dose totale de 60 Gy et une RT holocrânienne prophylactique avec une dose totale de 30 Gy. Actuellement, le patient subit des examens neurologiques et oncologiques et reste cliniquement stable, avec une acuité visuelle de 0,4 bilatéralement, une force musculaire de 4/5, une aréflexie tendineuse et une ataxie sensorielle qui l'empêche de se tenir debout sans aide.

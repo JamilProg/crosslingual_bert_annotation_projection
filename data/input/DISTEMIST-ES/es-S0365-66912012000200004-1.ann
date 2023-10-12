@@ -1,0 +1,25 @@
+T1	pathologie 194 207	conjuntivitis
+T2	pathologie 360 377	diabetes mellitus
+T3	pathologie 379 400	hipertensión arterial
+T4	pathologie 402 410	obesidad
+T5	pathologie 412 431	esteatosis hepática
+T6	pathologie 433 448	hipertiroidismo
+T7	pathologie 450 471	cardiopatía isquémica
+T8	pathologie 495 522	insuficiencia renal crónica
+T9	pathologie 495 557	insuficiencia renal crónica secundaria a pielonefritis crónica
+T10	pathologie 536 557	pielonefritis crónica
+T11	pathologie 1133 1146	edema corneal
+T12	pathologie 1214 1222	lesiones
+T13	pathologie 1440 1457	obesidad moderada
+T14	pathologie 1501 1520	hipertensión ocular
+T15	pathologie 1680 1688	glaucoma
+T16	pathologie 1750 1782	síndrome de apnea-hipopnea grave
+T17	pathologie 1859 1877	edema corneal leve
+T18	pathologie 1879 1898	queratitis punctata
+T19	pathologie 2012 2025	edema corneal
+T20	pathologie 2074 2100	fístula carótido-cavernosa
+T21	pathologie 2106 2133	síndrome del ápex orbitario
+T22	pathologie 2681 2713	enfermedad orbitaria y/o craneal
+T23	pathologie 2744 2761	úlcera periférica
+T24	pathologie 3126 3150	lesión corneal cicatrizó
+T25	pathologie 3170 3177	leucoma

@@ -1,0 +1,19 @@
+Anamnèse
+La patiente était une femme de 72 ans, avec des antécédents de dyslipidémie, qui s'est présentée au service des urgences pour des douleurs abdominales datant de plusieurs mois, prédominant dans la fosse iliaque droite, qui s'étaient aggravées au cours des derniers jours. Elle présentait également une asthénie, une hyporexie et une intolérance alimentaire.
+
+Examen physique
+Le patient a un niveau de performance de 2. L'examen révèle une distension et une douleur abdominales, avec un léger empâtement diffus, mais pas de masse à la palpation. Les bruits hydro-aériques sont normaux. L'auscultation cardio-pulmonaire ne montre pas non plus d'altération et il n'y a pas d'œdème dans les membres inférieurs.
+
+Examens complémentaires
+Une échographie abdominale a été réalisée aux urgences et, au vu des résultats, l'étude a été complétée par une tomodensitométrie (TDM) : on observe un abondant matériel liquidien intrapéritonéal, à contenu dense et septal, probablement mucineux, avec une nodularité péritonéale. En outre, la topographie théorique de l'appendice montre une lésion tubulaire de 2 cm avec un contenu mucineux (apparenté à une mucocèle) et une lésion kystique dans l'ovaire gauche mesurant 10 x 13 cm. Il n'y a pas d'autres anomalies abdominales.
+Une endoscopie du tractus gastro-intestinal inférieur a été réalisée, et dans le fond du cæcum, à côté de l'orifice appendiculaire, une zone de 3-4 mm d'aspect villositaire a été visualisée et biopsiée, avec le résultat anatomopathologique d'un cystadénocarcinome mucineux de l'appendice. Les examens de laboratoire n'ont révélé aucune anomalie de l'hémogramme, de la biochimie ou de la coagulation, et l'antigène carcino-embryonnaire (ACE) était de 8,3 ng/ml et le CA 12,5, de 31,5 ng/ml.
+
+Diagnostic
+Avec toutes ces données, le diagnostic de pseudomyxome péritonéal secondaire à une néoplasie mucineuse appendiculaire avec métastases ovariennes (stade IV) a été posé et, après évaluation du risque, une intervention chirurgicale a été indiquée. Dans ce cas, la chirurgie et l'HIPEC subséquente ont été considérées comme indiquées en raison d'un faible indice de cancer péritonéal (ICP). L'ICP est utilisé pour déterminer l'étendue de l'atteinte péritonéale par la tumeur et consiste à diviser la cavité abdominale en 9 quadrants et à attribuer différents scores en fonction de la taille des implants péritonéaux présents.
+
+Traitement
+Par conséquent, chez ce patient, une chirurgie cytoréductive est programmée, consistant en une hémicolectomie droite, une péritonectomie, une splénectomie, une cholécystectomie, une hystérectomie et une double annexectomie. Au cours du même acte chirurgical, une chimiothérapie hyperthermique intrapéritonéale (HIPEC) à l'oxaliplatine (760 mg) et une chimiothérapie intraveineuse subséquente au 5-fluorouracile (660 mg)/lévofolinate ont été administrées.
+Le diagnostic définitif est un cystadénocarcinome mucineux de l'appendice avec perforation et infiltration de la séreuse, ainsi que des métastases ovariennes bilatérales probables, un implant solide dans le péritoine et une atteinte multiple due à l'infiltration de matériel mucoïde acellulaire (dans l'épiploon, la capsule de Glison, la vésicule biliaire, l'utérus, les trompes de Fallope, la capsule splénique et le péritoine). Le stade final est pT4a pN0 M1. Les tests KRAS, NRAS et BRAF sont négatifs.
+
+Évolution
+Après son rétablissement, la patiente présentait un état de performance de 1 et l'examen physique n'a révélé aucune anomalie notable. Sa seule symptomatologie était la constipation, qu'elle contrôlait par un régime alimentaire et des laxatifs. Elle n'a pas présenté de toxicité immédiate à la chimiothérapie intrapéritonéale ou à la chimiothérapie intraveineuse. Un suivi est ensuite mis en place. Après 24 mois de suivi, la patiente est toujours indemne de la maladie.

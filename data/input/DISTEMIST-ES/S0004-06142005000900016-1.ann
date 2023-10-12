@@ -1,0 +1,20 @@
+T1	pathologie 37 51	ulcus duodenal
+T2	pathologie 54 67	estreñimiento
+T3	pathologie 128 147	crisis renoureteral
+T4	pathologie 168 181	nefrolitiasis
+T5	pathologie 185 194	hematuria
+T6	pathologie 198 229	infecciones del tracto urinario
+T7	pathologie 326 353	ectasia pielocalicial renal
+T8	pathologie 540 575	estenosis en la unión pieloureteral
+T9	pathologie 955 983	estenosis de la vía urinaria
+T10	pathologie 971 1016	vía urinaria descubre un hemangioma cavernoso
+#1	SNOMED T1	51868009
+#2	SNOMED T2	14760008
+#3	SNOMED T3	7093002
+#4	SNOMED T4	95570007
+#5	SNOMED T5	34436003
+#6	SNOMED T6	68566005
+#7	SNOMED T7	197820003
+#8	SNOMED T8	36388008
+#9	SNOMED T9	41368006
+#10	SNOMED T10	416824008

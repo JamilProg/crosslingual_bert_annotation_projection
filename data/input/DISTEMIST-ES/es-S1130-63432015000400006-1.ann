@@ -1,0 +1,27 @@
+T1	pathologie 163 184	hipertensión arterial
+T2	pathologie 186 203	diabetes mellitus
+T3	pathologie 205 238	fibrilación auricular paroxística
+T4	pathologie 240 262	síndrome Guillen-Barré
+T5	pathologie 265 298	carcinoma epidermoide orofaríngeo
+T6	pathologie 310 390	Síndrome de Secreción Inadecuada de Hormona Antidiurética (SIADH) paraneoplásico
+T7	pathologie 369 374	SIADH
+T8	pathologie 677 715	neumonía bilo-bar por broncoaspiración
+T9	pathologie 699 715	broncoaspiración
+T10	pathologie 727 751	hiponatremia hipoosmolar
+T11	pathologie 868 876	disfagia
+T12	pathologie 887 926	sangrado asociado a tumoración faríngea
+T13	pathologie 1382 1402	SIADH paraneoplásico
+T14	pathologie 1999 2022	bacteriemia por catéter
+T15	pathologie 2091 2103	endocarditis
+T16	pathologie 2924 2957	diarrea por Clostridium difficile
+T17	pathologie 3065 3097	fallo pre-renal con hiponatremia
+T18	pathologie 3327 3344	fallo renal agudo
+T19	pathologie 4121 4154	diarrea por Clostridium difficile
+T20	pathologie 4237 4249	hipertensión
+T21	pathologie 4329 4342	hipernatremia
+T22	pathologie 4478 4497	acidosis metabólica
+T23	pathologie 4532 4554	alcalosis respiratoria
+T24	pathologie 4605 4620	derrame pleural
+T25	pathologie 4711 4724	hipernatremia
+T26	pathologie 4815 4884	bacteriemia asociada a Streptococcus epidermidis meticilin-resistente
+T27	pathologie 4946 4974	intoxicación por vancomicina

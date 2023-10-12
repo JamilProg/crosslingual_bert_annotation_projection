@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 69 ans, sans allergie médicamenteuse connue, ex-fumeuse de 3 paquets par jour, non-buveuse. Antécédents personnels : hypertension et diabète de type 2 de longue date ; BPCO modérée avec dyspnée de base I/IV, syndrome anxio-dépressif et chirurgie pour prothèse du genou gauche, fistule périanale et goitre intrathoracique.
+En décembre 2015, elle est admise en médecine interne dans notre centre pour l'étude d'un syndrome pseudo-grippal associé à des nausées, vomissements, diarrhées, céphalées occipitales et des données analytiques d'hyponatrémie sévère (Na 110 mEq/L), diagnostiquée par un scanner cérébral (sans résultats significatifs), une radiographie thoracique, une échographie abdomino-pelvienne, un examen gynécologique, un scanner cervico-thoracique abdomino-pelvien et une biopsie de l'adénopathie sus-claviculaire droite ont permis de diagnostiquer une tumeur neuroendocrine (TNE) indifférenciée de type "cellule d'avoine", associée à un syndrome paranéoplasique de sécrétion inadéquate d'hormone antidiurétique (SIADH). La première a confirmé l'atteinte pulmonaire et ganglionnaire (médiastinale dans les chaînes 1R, 4R, 10R, 5 et 7) et l'atrophie cortico-sous-corticale avec des lésions gliotiques-résiduelles dans la substance blanche supratentorielle dans la seconde. Une restriction hydrique stricte permet d'obtenir une normalisation complète de la natrémie.
+Avec un diagnostic de TNE de haut grade, le 8-02-16, le premier cycle de chimiothérapie a été commencé avec Cisplatine 80 mg/m2 jour 1 et Etoposide 100 mg/m2 jours 1, 2 et 3, sans toxicité aiguë, et le patient a été référé à la RT pour l'évaluation du traitement concomitant.
+Le patient a consulté le service des urgences à la fin du mois de février 2016 en raison d'une crise tonico-clonique, d'une période post-critique et d'une amnésie. Des tests de laboratoire, un ECG, une radiographie thoracique et une tomodensitométrie cérébrale urgente ont été effectués, qui se sont avérés normaux, et elle a été admise pour un examen plus approfondi.
+
+Examen physique
+À l'examen physique, le patient ne présente aucune focalité neurologique actuelle (à l'exception de l'amnésie de l'épisode), ni aucune autre altération cardio-respiratoire-digestive. Cependant, lors de son admission, le patient a de nouveau présenté plusieurs épisodes de crises partielles complexes et généralisées et d'état de mal épileptique, avec plusieurs crises répétées sans reprise de conscience, nécessitant des doses maximales de traitement par Levetiracetam et Lacosamide. Apparition progressive d'une désorientation temporo-spatiale, d'une amnésie des événements récents, d'une bradypsychie, d'une bradylalie, d'une dysphorie et d'une désinhibition occasionnelle.
+
+Tests complémentaires
+>>Analyse de sang en laboratoire 26-02-16 : gaz du sang veineux normaux, sodium 136, magnésium 1.47, hémoglobine 12, plaquettes 265000, leucocytes 2600 (neutrophiles 1500), coagulation et hormones thyroïdiennes normales.
+>>ECG 25-02-16 : normal.
+>>EEG 1-03-16 : activité de fond diffuse et ralentie ; pas d'activité épileptiforme ni d'événement ictal.
+>>IRM cérébrale 26-02-16 et 3-03-16 et IRM de la colonne vertébrale : petits foyers lacunaires d'apparence ischémique chronique avec quelques petites microhémorragies résiduelles dans la substance blanche au niveau des ganglions de la base.
+>>CTAP 9-03-16 : réponse significative de la masse hilaire droite et du conglomérat 4R.
+Diminution de la taille de l'adénopathie pré-vasculaire. Légère diminution de l'adénopathie sus-claviculaire droite.
+>>NFS 29-02-16 (et 3-03-16) : protéines 59, glucose 112, globules rouges 0, autres cellules 65 (96% lymphocytes, 4% monocytes). HSV, VZV et Enterovirus PCR indétectables.
+>>Cytologie du FCS 29-02-16 (3,5 cc) et 3-03-16 (2 cc) : pas de cellules malignes.
+>>Auto-anticorps dans le sérum et le LCR 3-03-16 : anti-Yo, anti-Hu, anti-Ri (ANNA-2), anti-CV2 (CRMP5), anti-Ma2 (Ta), anti-amphiphysine Négatif.
+
+Diagnostic
+Compte tenu de la négativité des examens complémentaires (scanner cérébral, IRM cérébrale et craniospinale, EEG, cytologie du LCR et microbiologie), des données de la méningite lymphocytaire dans le LCR et du tableau clinique dans le contexte d'une tumeur neuroendocrine pulmonaire de haut grade, le diagnostic clinique d'encéphalite limbique paranéoplasique a été établi.
+
+Traitement
+Le 3-03-16, il a commencé un traitement à la méthylprednisolone à 1 mg/kg, avec une nette diminution du nombre de crises, une amélioration du comportement et de l'orientation. Du 8 au 11-03-16, il a reçu un traitement à la méthylprednisolone à raison de 250 mg/24h, et du 11 au 15-03-16, des immunoglobulines intraveineuses à raison de 0,4 g/kg/24h. Etant donné la réponse significative de la maladie néoplasique au niveau pulmonaire et médiastinal, il a été décidé d'administrer le deuxième cycle de chimiothérapie avec CDDP-VP 16 dans le service, entre le 16 et le 18-03-16, sans toxicité aiguë pertinente.
+
+Évolution
+Depuis le début du traitement immunosuppresseur, la patiente a montré une amélioration clinique lente mais progressive, sans nouvelles crises d'épilepsie depuis le 13-03-16, récupérant l'orientation temporo-spatiale et la capacité de calculer, bien qu'un léger état confusionnel non limitatif et une amnésie des événements récents aient persisté.
+Une fois sortie de l'hôpital, elle a reçu une troisième cure de chimiothérapie le 5-04-16, et un scanner CTAP et une IRM crânio-spinale ont été demandés à des fins de contrôle. La concomitance avec la radiothérapie n'a pas été envisagée compte tenu de l'âge de la patiente et de l'ECOG secondaire au déficit neurologique après le long séjour à l'hôpital.

@@ -1,0 +1,28 @@
+T1	pathologie 37 47	paraplejia
+T2	pathologie 37 121	paraplejia secundaria a herida por proyectil de arma de fuego a nivel de vértebra T1
+T3	pathologie 61 121	herida por proyectil de arma de fuego a nivel de vértebra T1
+T4	pathologie 235 269	atrofia de las cuatro extremidades
+T5	pathologie 272 295	anquilosis de las manos
+T6	pathologie 297 367	úlceras de decúbito con tejido necrótico a nivel bitrocantéreo y sacro
+T7	pathologie 596 610	edema cerebral
+T8	pathologie 699 772	dilatación de cavidades cardiacas derechas y presencia de trombos murales
+T9	pathologie 774 812	Adherencias pleurales e interlobulares
+T10	pathologie 824 892	tromboembolismo pulmonar en la rama izquierda de la arteria pulmonar
+T11	pathologie 1050 1066	infarto pulmonar
+T12	pathologie 1701 1725	tromboembolismo pulmonar
+T13	pathologie 1766 1793	infección de vías urinarias
+T14	pathologie 1821 1831	paraplejia
+#1	SNOMED T4	128605003
+#2	SNOMED T1	60389000
+#3	SNOMED T12	59282003
+#4	SNOMED T5	56923001
+#5	SNOMED T3	283545005
+#6	SNOMED T7	2032001
+#7	SNOMED T6	399912005
+#8	SNOMED T13	68566005
+#9	SNOMED T14	60389000
+#10	SNOMED T8	253350005+253522006+91335003
+#11	SNOMED T9	34038005
+#12	SNOMED T10	233935004
+#13	SNOMED T11	64662007
+#14	SNOMED T2	60389000+721428008

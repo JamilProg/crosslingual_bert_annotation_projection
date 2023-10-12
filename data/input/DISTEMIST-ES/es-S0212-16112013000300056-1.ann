@@ -1,0 +1,28 @@
+T1	pathologie 21 51	enfermedad de Crohn ileocólica
+T2	pathologie 983 996	shock séptico
+T3	pathologie 1241 1270	vegetaciones sobre el catéter
+T4	pathologie 1343 1369	endocarditis sobre catéter
+T5	pathologie 1612 1636	disfunción multiorgánica
+T6	pathologie 1653 1667	cuadro séptico
+T7	pathologie 1776 1785	infección
+T8	pathologie 1816 1840	hemorragia subaracnoidea
+T9	pathologie 1895 1914	infartos esplénicos
+T10	pathologie 1936 1962	émbolos sépticos múltiples
+T11	pathologie 2101 2126	catéter con la vegetación
+T12	pathologie 2452 2466	cuadro séptico
+T13	pathologie 2572 2640	neumonía asociada a ventilación mecánica por Acinetobacter baumannii
+T14	pathologie 2643 2678	polineuropatía del paciente crítico
+#1	SNOMED T1	38106008+50440006
+#2	SNOMED T5	57653000
+#3	SNOMED T6	238150007
+#4	SNOMED T13	1010634002
+#5	SNOMED T2	76571007
+#6	SNOMED T14	230594005
+#7	SNOMED T8	21454007
+#8	SNOMED T4	56819008
+#9	SNOMED T9	22996003
+#10	SNOMED T10	414086009
+#11	SNOMED T12	238150007
+#12	SNOMED T7	40733004
+#13	SNOMED T3	459055004+429268001
+#14	SNOMED T11	86100009+440653007

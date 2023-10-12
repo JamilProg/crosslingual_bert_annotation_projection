@@ -1,0 +1,4 @@
+T1	pathologie 277 303	rinoconjuntivitis alérgica
+T2	pathologie 401 419	alergia estacional
+#1	SNOMED T1	473460002
+#2	SNOMED T2	444316004

@@ -1,0 +1,29 @@
+Anamnèse
+Patient âgé de 44 ans, sans antécédents pathologiques ni familiaux intéressants. Fumeur depuis l'âge de 22 ans (taux de paquets/année : 10).
+Il a débuté une étude en juin 2015 suite à des épisodes d'hématurie récurrente avec élimination des caillots, des douleurs importantes dans la région pelvienne et la fosse iliaque droite et un syndrome constitutionnel avec une perte de poids de 10 kg au cours des 6 derniers mois. L'échographie des voies urinaires a montré une hydronéphrose bilatérale.
+La cystoscopie a révélé une occupation de la face antérieure, de la face latérale gauche et du trigone de la vessie par une lésion solide et infiltrante (7 x 6 cm), qui ne permettait pas de voir le méat. Des biopsies ont été réalisées et la lésion a été réséquée en profondeur par résection transurétrale (RTU), sans parvenir à une résection complète.
+Une étude d'extension a été demandée et la patiente a été adressée au service d'oncologie médicale pour évaluation.
+
+Examen physique
+"L'état général est satisfaisant. Bien hydraté et perfusé. Pâleur cutanéo-muqueuse. Cachexie tumorale.
+"Cavité buccale : muqueuse buccale très sèche. Pas de lésions notables.
+"Auscultation cardio-pulmonaire : battements cardiaques rythmés, pas de souffle audible. Murmure vésiculaire conservé, sans bruit additionnel.
+"Abdomen : bruits hydro-aériens conservés, caractéristiques normales. Doux, dépressible, non douloureux à la palpation. Pas de masse ni d'organomégalie, pas de signe de péritonisme.
+"Extrémités inférieures : aucun signe de thrombose veineuse profonde. Pas d'œdème.
+"Peau : deux lésions cutanées sur le tronc (1 x 1,5 cm et 1 x 1 cm) et une lésion sur le flanc gauche (1 x 1 cm), de consistance pierreuse et d'aspect érythémateux. Elles ne sont pas douloureuses à la palpation.
+
+Tests complémentaires
+"NFS : Cr 0,9.
+"La tomodensitométrie thoraco-abdominale-pelvienne confirme l'épaississement de la vessie et décrit la présence de multiples adénopathies pelviennes et rétropéritonéales.
+
+Diagnostic
+Les résultats pathologiques de la TUR sont compatibles avec un carcinome urothélial de haut grade (pT2G3) infiltrant toute la couche musculaire et présentant des foyers d'invasion vasculaire.
+
+Traitement
+Lorsqu'un carcinome urothélial de haut grade de stade IV est diagnostiqué dans la vessie, la participation à un essai clinique est proposée, dans lequel le patient reçoit une combinaison de médicaments dirigés contre PD-L1 et CTLA-4.
+
+Évolution
+Après les deux premiers cycles de traitement, le patient a présenté une détérioration marquée de son état de base (ECOG performance status 2) et une cachexie extrême. L'examen physique a révélé une progression significative des lésions cutanées. En raison de la progression radiologique et clinique, il a été décidé d'entamer une deuxième ligne de traitement par carboplatine AUC 4,5 + gemcitabine 1 000 mg/m2 d1,8/21.
+Après l'administration de la première dose de traitement, la patiente s'est présentée à la clinique en signalant une augmentation de la circonférence du membre inférieur gauche (LLL), associée à un érythème, une augmentation de la température locale, une douleur et une difficulté à se déplacer. L'échographie Doppler a confirmé la suspicion clinique de thrombose veineuse profonde aiguë dans la veine iliaque externe et la veine fémorale commune gauche. Compte tenu de ce résultat, une anticoagulation a été mise en place à des doses thérapeutiques de tinzaparine 10 000 UI sc/24 h (ajustées au poids du patient).
+A la fin du premier cycle, la patiente a rapporté une amélioration clinique avec une diminution des nodules sous-cutanés. Après 3 cycles de chimiothérapie, le scanner de réévaluation a montré une réponse partielle (RP) selon les critères d'évaluation de la réponse dans les tumeurs solides (RECIST) 1.1. De plus, l'examen physique a montré une amélioration significative des lésions cutanées, avec seulement une hyperpigmentation résiduelle persistant dans toutes les zones précédemment affectées.
+Actuellement, après 6 cycles de traitement, le patient présente une résolution complète des lésions cutanées, une réponse partielle plus importante des adénopathies et une nette amélioration de sa situation clinique, menant une vie active.

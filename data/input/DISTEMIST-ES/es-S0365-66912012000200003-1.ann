@@ -1,0 +1,26 @@
+T1	pathologie 68 75	uveítis
+T2	pathologie 182 194	miodesopsias
+T3	pathologie 199 213	metamorfopsias
+T4	pathologie 286 309	hemorragia intracraneal
+T5	pathologie 680 713	membrana epimacular en ambos ojos
+T6	pathologie 743 763	vasculitis retiniana
+T7	pathologie 863 882	membrana epimacular
+T8	pathologie 906 924	uveítis intermedia
+T9	pathologie 1132 1140	vitritis
+T10	pathologie 1342 1349	uveítis
+T11	pathologie 1352 1399	mielopatía idiopática con hiperreflexia patelar
+T12	pathologie 1794 1824	paraparesia espástica tropical
+T13	pathologie 1827 1856	uveítis intermedia por VLHT-1
+#1	SNOMED T1	128473001
+#2	SNOMED T10	128473001
+#3	SNOMED T11	48522003
+#4	SNOMED T9	95802009
+#5	SNOMED T3	42134006
+#6	SNOMED T5	367649002
+#7	SNOMED T4	1386000
+#8	SNOMED T6	77628002
+#9	SNOMED T7	367649002
+#10	SNOMED T8	314429009
+#11	SNOMED T12	714279000
+#12	SNOMED T13	314429009
+#13	SNOMED T2	15013002

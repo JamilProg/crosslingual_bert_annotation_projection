@@ -1,0 +1,22 @@
+T1	pathologie 79 134	luxación de un cuadrante de cristalino a cavidad vítrea
+T2	pathologie 139 152	edema macular
+T3	pathologie 295 308	edema macular
+T4	pathologie 573 598	pérdida de agudeza visual
+T5	pathologie 693 701	hipopión
+T6	pathologie 996 1028	endoftalmitis infecciosa, tóxica
+T7	pathologie 1031 1050	pseudoendoftalmitis
+T8	pathologie 1131 1145	pseudohipopión
+T9	pathologie 1320 1339	pseudoendoftalmitis
+T10	pathologie 1598 1627	bullas en el epitelio corneal
+T11	pathologie 1633 1641	hipopión
+#1	SNOMED T1	65814009
+#2	SNOMED T2	37231002
+#3	SNOMED T3	37231002
+#4	SNOMED T5	87807004
+#5	SNOMED T6	414491002
+#6	SNOMED T7	11131000119108
+#7	SNOMED T9	11131000119108
+#8	SNOMED T11	87807004
+#9	SNOMED T10	421059009
+#10	SNOMED T8	246995007
+#11	SNOMED T4	170728008

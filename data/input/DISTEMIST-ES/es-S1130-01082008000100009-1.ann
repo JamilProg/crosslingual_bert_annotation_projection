@@ -1,0 +1,20 @@
+T1	pathologie 60 81	enfermedad de Hodgkin
+T2	pathologie 170 190	hemorragia digestiva
+T3	pathologie 192 199	melenas
+T4	pathologie 414 442	insuficiencia hepática aguda
+T5	pathologie 458 471	encefalopatía
+T6	pathologie 474 501	hemorragia digestiva masiva
+T7	pathologie 533 546	daño hepático
+T8	pathologie 569 619	lesiones focales en el tercio inferior del esófago
+T9	pathologie 676 682	lesión
+T10	pathologie 768 787	infección herpética
+#1	SNOMED T7	243978007
+#2	SNOMED T1	118599009
+#3	SNOMED T8	37657006
+#4	SNOMED T2	74474003
+#5	SNOMED T3	2901004
+#6	SNOMED T10	23513009
+#7	SNOMED T4	197270009
+#8	SNOMED T5	81308009
+#9	SNOMED T6	74474003
+#10	SNOMED T9	417163006

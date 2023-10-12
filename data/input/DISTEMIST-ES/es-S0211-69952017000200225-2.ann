@@ -1,0 +1,14 @@
+T1	pathologie 48 51	HPN
+T2	pathologie 196 220	anemia hemolítica severa
+T3	pathologie 625 653	crisis hemolíticas repetidas
+T4	pathologie 890 898	lesiones
+T5	pathologie 891 922	esiones lacunares subcorticales
+T6	pathologie 970 973	HPN
+T7	pathologie 1096 1102	anemia
+#1	SNOMED T3	59828008
+#2	SNOMED T1	1963002
+#3	SNOMED T7	271737000
+#4	SNOMED T2	61261009
+#5	SNOMED T5	127294003
+#6	SNOMED T6	1963002
+#7	SNOMED T4	157670007

@@ -1,0 +1,34 @@
+T1	pathologie 69 107	hemorragia digestiva por ulcus péptico
+T2	pathologie 149 161	osteoporosis
+T3	pathologie 163 184	artrosis dorso-lumbar
+T4	pathologie 186 196	dislipemia
+T5	pathologie 492 510	síndrome depresivo
+T6	pathologie 1547 1563	arteriosclerosis
+T7	pathologie 1587 1608	polimialgia reumática
+T8	pathologie 3101 3116	hepatitis B y C
+T9	pathologie 3422 3435	cardiomegalia
+T10	pathologie 3485 3509	esclerosis a nivel de L4
+T11	pathologie 3553 3571	infarto óseo en L4
+T12	pathologie 3684 3703	derrame pericárdico
+T13	pathologie 3767 3779	divertículos
+T14	pathologie 3783 3803	hemorroides internas
+T15	pathologie 3944 3987	derrame pericárdico severo antero-posterior
+T16	pathologie 4711 4741	isquemia o necrosis miocardica
+T17	pathologie 5080 5099	derrame pericárdico
+#1	SNOMED T1	15902003
+#2	SNOMED T2	64859006
+#3	SNOMED T3	321341000119107
+#4	SNOMED T4	370992007
+#5	SNOMED T5	35489007
+#6	SNOMED T7	65323003
+#7	SNOMED T9	8186001
+#8	SNOMED T11	262524001
+#9	SNOMED T12	373945007
+#10	SNOMED T14	90458007
+#11	SNOMED T15	373945007
+#12	SNOMED T16	414795007
+#13	SNOMED T17	373945007
+#14	SNOMED T6	72092001
+#15	SNOMED T13	31113003
+#16	SNOMED T8	442374005
+#17	SNOMED T10	239880009

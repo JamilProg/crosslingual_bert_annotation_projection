@@ -1,0 +1,21 @@
+Anamnèse
+La patiente est âgée de 68 ans et présente des antécédents personnels d'hypertension et de dyslipidémie, qui sont bien contrôlés par des médicaments. Son seul antécédent familial de cancer est un diagnostic de cancer du sein chez sa sœur.
+L'état de base de la patiente est bon et elle est indépendante dans toutes les activités de la vie quotidienne. Elle ne reçoit aucun traitement à domicile.
+En ce qui concerne les antécédents oncologiques de la patiente, un carcinome lobulaire infiltrant du sein gauche a été diagnostiqué en 2014. Après une segmentectomie et une lymphadénectomie axillaire, le département de pathologie a classé le carcinome au stade pT2pN2M0 (IIIA) avec une étude immunohistochimique (IHQ) positive pour les récepteurs des œstrogènes et de la progestérone et négative pour HER2. Après le diagnostic, elle a été traitée par fluorouracil, épirubicine et cyclophosphamide (FEC) pendant quatre cycles avec administration hebdomadaire ultérieure de paclitaxel et radiothérapie complémentaire sur le lit de la tumeur. Après l'achèvement du traitement adjuvant, la patiente a commencé un traitement au létrozole (mars 2015), poursuivant les contrôles semestriels sans aucun signe de rechute de la maladie.
+En novembre 2018, la patiente a été admise à son hôpital de référence avec des douleurs abdominales et des symptômes compatibles avec des symptômes subocclusifs, étant diagnostiquée avec une iléite non spécifique après des tests d'imagerie et l'anatomie pathologique de la biopsie colique prélevée par coloscopie. Elle a commencé un traitement à base de mésalazine et de prednisone sans amélioration nette de son état clinique, qui a finalement été interrompu. En février 2019, elle a commencé à présenter des symptômes cliniques subocclusifs avec des douleurs et une distension abdominales, ainsi qu'une constipation persistante et des vomissements incoercibles, et a de nouveau été admise dans son hôpital de référence.
+
+Examen physique
+Lors de l'examen physique, l'état général de la patiente était bon, avec un abdomen globuleux et une légère gêne à la palpation diffuse comme seul élément intéressant.
+
+Tests complémentaires
+Un scanner de l'abdomen a montré une carcinomatose péritonéale diffuse étendue avec infiltration des boucles intestinales, une sténose de l'iléon préterminal avec dilatation rétrograde et une lésion kystique annexielle gauche d'un diamètre maximal de 6 cm, avec pour seul résultat un CA 15.3 de 92,6 U/ml.
+Après son transfert dans notre centre, un diagnostic différentiel a été envisagé parmi les origines possibles de la carcinomatose, le carcinome colorectal primaire, le carcinome ovarien ou le carcinome mammaire se détachant. Une coloscopie a donc été réalisée, au cours de laquelle des implants néoplasiques ont été trouvés dans le sigma, avec fixation des boucles pour cette raison, et des échantillons ont été prélevés pour étude. En attendant les résultats de l'anatomie pathologique, une échographie vaginale a été réalisée pour visualiser la formation annexielle gauche, avec des preuves de caractéristiques à faible risque de malignité ancienne, qui n'était probablement pas l'origine de la carcinomatose péritonéale.
+
+Diagnostic
+Les biopsies coliques ont été diagnostiquées comme une infiltration par un carcinome peu différencié avec des récepteurs à la mammoglobine, aux œstrogènes et à la progestérone positifs et une IHC HER2 négative, compatible avec une rechute de la maladie au niveau péritonéal, avec transformation histologique. Il s'agit donc d'une patiente atteinte d'un cancer du sein de stade IV avec métastases péritonéales.
+
+Traitement
+Une iléostomie a été pratiquée dans l'iléon préterminal pour traiter les symptômes et une chimiothérapie à base de paclitaxel hebdomadaire a été mise en place.
+
+L'évolution
+Actuellement, le patient fait état d'un bon état général, pouvant mener ses activités quotidiennes sans incident et sans symptômes cliniques associés au processus.

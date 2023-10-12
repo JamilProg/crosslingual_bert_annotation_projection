@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 56 ans, fumeuse depuis plus de 40 ans (indice paquet-année : 12) et sous traitement de lisinopril pour hypertension artérielle. Ménarche à 16 ans et ménopause à 50 ans, deux grossesses menées à terme sans allaitement et aucun suivi gynécologique de routine.
+En août 2016, elle consulte son médecin traitant pour des douleurs lombaires bilatérales qualifiées de lombosciatiques, traitées par paracétamol et métamizole.
+En décembre 2016, elle a consulté à nouveau pour une asthénie sans perte de poids et on lui a diagnostiqué une anémie ferriprive ; elle a donc commencé un traitement au fer par voie orale et a subi une gastroscopie qui a révélé une légère gastrite antrale. En outre, une radiographie pulmonaire a été demandée, montrant de multiples nodules pulmonaires disséminés, pour lesquels elle a été admise en médecine interne.
+
+Examen physique
+Il existe une lésion d'environ 3 cm non fixée à la peau ou aux plans profonds dans le quadrant supéro-externe du sein gauche, ainsi qu'une adénopathie de 1,5 cm dans le creux sus-claviculaire droit. Pas d'adénopathie axillaire ou cervicale ni de mégalithes palpables. L'auscultation cardio-pulmonaire était normale.
+Lors de l'examen neurologique, les nerfs crâniens étaient intacts. Pas de perte de force ni de déficits sensoriels. Pas de paraparésie ni d'hypertonie. Pas de troubles sphinctériens ni de claudication. Réflexes musculo-squelettiques bicipitaux, rotuliens et achilléens normaux, réflexe cutané fléchisseur plantaire bilatéral.
+
+Examens complémentaires
+Compte tenu des résultats de l'examen physique, une mammographie a été réalisée et a montré une image dans le quadrant supéro-externe gauche qui a fait l'objet d'une biopsie (carcinome infiltrant NOS, grade II, T2. Récepteurs hormonaux (HR) 90%, HER-2, Ki67 10%). La fonction rénale, la fonction hépatique, la biochimie et la numération cellulaire étaient normales.
+Une étude d'extension a été réalisée avec un scanner PET-CT montrant des adénopathies axillaires et médiastinales locorégionales, une dissémination pulmonaire et osseuse et une occupation du canal rachidien entre D12 et L3, aux dépens d'une lésion apparemment extra-axiale.
+L'étude a été complétée par une imagerie par résonance magnétique qui a confirmé la présence d'une masse intrathécale extramédullaire évocatrice d'implants méningés (D12-L2) à l'origine d'une sténose sévère du canal au niveau de L1. Une ponction lombaire a été effectuée avec une cytologie négative pour la malignité, excluant une carcinomatose méningée.
+
+Diagnostic
+"Carcinome mammaire infiltrant luminal de stade IV A (HR 90 %, HER-2, Ki67 10 %) avec atteinte des os, des poumons et des ganglions lymphatiques.
+"Douleur viscérale nociceptive et neuropathique liée à l'atteinte osseuse.
+
+Traitement
+"Radiothérapie antalgique en D12-L3 (30 Gy) pour le contrôle initial de la lésion intrathécale.
+"Hormonothérapie : entrée dans l'essai clinique fulvestrant+ palbociclib/placebo (FLIPPER).
+
+L'évolution
+Elle a commencé le traitement selon l'essai clinique FLIPPER sans aucun effet indésirable. ECOG 0 à ce jour. Le scanner PET-CT réalisé après la radiothérapie (demandé dans le cadre de l'évaluation initiale de l'essai clinique) montre une diminution de la lésion intrathécale.

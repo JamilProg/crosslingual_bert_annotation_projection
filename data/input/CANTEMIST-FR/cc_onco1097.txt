@@ -1,0 +1,32 @@
+Anamnèse
+Un homme de 65 ans a consulté en août 2013 pour des douleurs cervicales et s'est rendu chez le médecin de premier recours, qui a débuté un traitement d'anti-inflammatoires. Il a présenté une mauvaise évolution clinique malgré l'analgésie, débutant en décembre par une paresthésie des membres supérieurs et une altération des sensations des membres inférieurs, pour lesquelles une étude a été initiée.
+Antécédents personnels : hypertension contrôlée par des inhibiteurs de l'ECA, hypercholestérolémie sous traitement par statines et hyperuricémie avec épisodes de goutte sous traitement par allopurinol. Elle a déclaré une méningite bactérienne à l'âge de 17 ans avec une paralysie faciale résiduelle.
+Les antécédents chirurgicaux comprennent une opération pour un lipome du flanc gauche en 2000, et une polypectomie à l'anse diathermique pour un adénome tubulaire du côlon et du rectum en octobre 2013, actuellement sous contrôle endoscopique.
+Pas d'antécédents familiaux oncologiques dignes d'intérêt.
+
+Examen physique
+Indice de Karfnosky 100, couleur et profondeur normales. Pas d'adénopathies palpables. Eupnéique au repos.
+Conjonctives normochromes et sclérotiques anictériques. Auscultation cardio-pulmonaire normale. Douleur à la percussion du poing au niveau des apophyses épineuses cervicales. Abdomen indolore, sans masse palpable ni mégalithes à l'examen.
+L'examen neurologique a révélé une paralysie faciale gauche résiduelle, les autres nerfs crâniens étant dans les limites de la normale. Pas d'altération de la compréhension ou de la construction du langage, ainsi qu'une orientation temporo-spatiale correcte. Force préservée dans les quatre membres, avec des réflexes ostéotendineux présents et symétriques.
+Réflexe bilatéral cutanéo-fléchisseur plantaire. Altération minimale de la sensibilité avec paresthésie distale dans le membre supérieur gauche et démarche stable sans augmentation de la base d'appui.
+
+Examens complémentaires
+- Radiographie simple du rachis cervical (15/12/2013) : destruction des corps vertébraux cervicaux (C6 et C7).
+- Scanner thoraco-abdomino-pelvien (17/12/2013) : lésion lytique, multiloculée en C6 et C7. Le reste de l'étude n'a rien révélé.
+- IRM du rachis cervical (18/12/2013) : lésion lytique expansive au niveau des corps vertébraux C6 et C7, entraînant une sténose du canal et une compression de la moelle épinière cervicale.
+- EMG (21/2/2014) : électromyogramme et électroneurogramme compatibles avec les données d'une affectation neurogène de caractéristiques chroniques dans la musculature dépendant du niveau C6-C7 bilatéral, plus marquée et évidente en C7 gauche.
+- Potentiels évoqués (21/2/2014) : potentiels évoqués moteurs pathologiques avec stimulus cervical bilatéral avec réponses retardées dans les deux membres supérieurs et avec stimulus cortical central, avec réponses retardées dans les deux membres inférieurs, avec morphologie désintégrée et polyphasique.
+
+Diagnostic
+Le 14/2/2014, il a subi une intervention chirurgicale par une approche antérieure de la colonne cervicale et l'extraction d'un échantillon d'une tumeur expansive pour le diagnostic (anatomie pathologique peropératoire : tumeur cartilagineuse). Le diagnostic d'atteinte tumorale par un chondrosarcome a été posé et une intervention chirurgicale a été décidée.
+Chondrosarcome du corps vertébral C6-C7.
+
+Traitement
+Le 2/4/2014, une corpectomie des corps vertébraux C6 et C7 et une décompression du canal rachidien ont été réalisées, avec mise en place d'un implant et d'une plaque cervicale antérieure. Anatomie pathologique : infiltration osseuse par un chondrosarcome de bas grade.
+En peropératoire, les potentiels évoqués somesthésiques étaient à la limite supérieure de la normalité pendant toute l'opération et à la fin de celle-ci, et les potentiels évoqués moteurs avec des latences et des amplitudes maintenues depuis le début de l'opération, sans changement à la fin de celle-ci.
+
+Evolution
+En postopératoire immédiat, le patient présentait une dysphonie due à la lésion récurrente laryngée et une dysphagie pour les solides due à la manipulation de l'œsophage, avec une amélioration lente malgré la rééducation par la phoniatrie. Il a présenté une amélioration clinique, avec disparition de la focalisation neurologique sensorielle et une douleur cervicale contrôlée par l'analgésie prescrite dans la période postopératoire.
+Après évaluation par le service d'oncologie médicale, une chimiothérapie adjuvante a été exclue compte tenu des caractéristiques anatomopathologiques de la tumeur, ainsi que de l'intervention chirurgicale appropriée réalisée avec excision en bloc de la lésion tumorale (R0).
+Les complications intercurrentes comprenaient l'extrusion du matériau de substitution du corps vertébral et de la plaque cervicale antérieure, et il a été réopéré avec succès le 19/5/2014.
+Après avoir récupéré de la période postopératoire, il a été évalué par le service de radio-oncologie, qui n'a pas indiqué de traitement adjuvant étant donné le peu de preuves de réponse dans un chondrosarcome de bas grade.

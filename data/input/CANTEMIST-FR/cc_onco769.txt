@@ -1,0 +1,37 @@
+Anamnèse
+Le cas présenté est celui d'une femme caucasienne de 64 ans lors de sa première visite à la clinique d'oncologie médicale.
+Ses antécédents médicaux ne font état d'aucune allergie médicamenteuse ni d'habitudes toxiques connues. Elle a été examinée pour anosmie par des neurologues et des ORL avec des examens d'imagerie, un EMG et une étude du liquide céphalo-rachidien qui n'ont pas révélé d'altérations pathologiques pertinentes.
+Elle avait été opérée d'un fibroadénome au sein droit en 1988.
+En ce qui concerne ses antécédents oncologiques personnels, elle mentionne l'ablation d'un épithélioma basocellulaire multicentrique superficiel dans la région scapulaire droite en mars 1998. Elle n'a pas eu besoin de traitement adjuvant par la suite. Le suivi dermatologique n'a révélé aucun signe de rechute.
+Pas d'antécédents oncologiques familiaux intéressants. Elle ne prend pas de médicaments régulièrement.
+
+Examen physique
+Poids : 80 kg. Taille : 160 cm. Surface corporelle : 1,89 m2. Indice de masse corporelle : 31 kg/m2. État général : 0 (ECOG).
+Conscient et orienté. Pas d'adénopathie palpable latérocervicale, supraclaviculaire, axillaire ou inguinale. Légère augmentation du diamètre du membre supérieur droit (TMS) sans augmentation de la température. Examen neurovasculaire distal sans altération. Auscultation cardio-pulmonaire sans altération. Pas d'organomégalie ni de masse abdominale. Pas d'ascite ni d'œdème malléolaire. Le reste est sans intérêt.
+
+Examens complémentaires
+Le patient a été diagnostiqué suite à des douleurs abdominales accompagnées de fièvre qui ont été évaluées par la chirurgie générale au service des urgences le 22/04/2017, demandant une échographie abdominale puis un scanner abdominopelvien qui a confirmé la présence d'un épaississement pariétal mamelonné de densité solide, jusqu'à 1,7 cm d'épaisseur, d'un segment de 6 cm du côlon ascendant ; ainsi que des ganglions lymphatiques régionaux d'aspect et de taille pathologiques (2,1 cm).
+Compte tenu de la forte suspicion de néoplasme du côlon, une coloscopie a été demandée, au cours de laquelle une masse concentrique mamelonnée sténosant la lumière du côlon a été décrite à environ 65 cm de la marge anale.
+Au cours de la procédure, la masse a été biopsiée et diagnostiquée pathologiquement comme un adénocarcinome du côlon.
+Une fois le diagnostic d'adénocarcinome du côlon droit posé, avec suspicion d'atteinte ganglionnaire régionale sans atteinte à distance, le cas a été présenté au comité multidisciplinaire des tumeurs et une intervention chirurgicale a été décidée.
+Le patient a subi une hémicolectomie droite par laparoscopie le 17 mai 2017 sans complications associées. La pièce tumorale a été examinée par étude anatomopathologique avec le résultat d'un adénocarcinome colorectal bien différencié, avec instabilité des microsatellites qui a infiltré toute la couche musculaire et a envahi le tissu adipeux péricolique sans infiltrer la séreuse ; avec une invasion lymphovasculaire, mais sans invasion périneurale et avec des bords chirurgicaux libres. Au total, 60 ganglions lymphatiques ont été prélevés, dont un seul était métastatique.
+
+Diagnostic
+Adénocarcinome du côlon droit opéré par hémicolectomie droite laparoscopique en mai/2017. Stadification chirurgicale pT3N1aM0 (stade IIIA).
+
+Traitement
+Après une nouvelle évaluation par le comité des tumeurs digestives, il a été décidé d'ajouter une chimiothérapie en intention adjuvante, compte tenu du stade tumoral post-chirurgical.
+Le traitement a été proposé selon le schéma XELOX (oxaliplatine 130 mg/m2 et capécitabine 1 000 mg/m2 /12 h) toutes les 3 semaines pendant 6 mois ; en commençant le premier cycle le 26 juin 2017 avec une dose de 246 mg d'oxaliplatine le jour 1 du cycle et 4 comprimés de 500 mg au petit déjeuner et 3 comprimés de 500 mg au dîner de capécitabine entre les jours 2 et 15 du cycle.
+Cependant, après le premier cycle de XELOX, la patiente a présenté une mauvaise tolérance au schéma en raison d'une toxicité digestive durable de grade 2. Pour cette raison, il a été décidé de passer au schéma FOLFOX (oxaliplatine 85 mg/m2, leucovorine 200 mg/m2 et 5-FU 400 mg/m2 en bolus et 5-FU 2 400 mg/m2 en perfusion de 46 heures) tous les 14 jours ; elle a reçu le premier cycle le 26 juillet 2017.
+La patiente a présenté une tolérance régulière au schéma FOLFOX, présentant un retard dû à une neutropénie de grade 3 et plusieurs ajustements du protocole antiémétique en raison de nausées. Concernant la toxicité émétique, elle a nécessité une admission de 7 jours en raison de vomissements retardés et de diarrhées avec une intolérance orale secondaire et une hypokaliémie associée, qui s'est résolue à la sortie de l'hôpital.
+Après sa sortie, il a été décidé d'interrompre le traitement adjuvant, la patiente ayant reçu au total un cycle de XELOX et trois cycles de FOLFOX.
+
+Évolution
+Après arrêt de l'adjuvant en raison d'une mauvaise tolérance, un suivi a été initié et un scanner thoraco-abdomino-pelvien de contrôle a été demandé. Ce scanner (20/10/2017) rapportait la présence de multiples adénopathies/implants médians et caudaux à la suture de l'hémicolectomie droite, suspects de récidive tumorale. Au vu de ces résultats, il a été décidé de demander une TEP-TDM pour compléter l'étude.
+La TEP-TDM réalisée le 13 novembre 2017 a détecté les adénopathies évoquées dans le scanner, mais sans métabolisme associé, et n'a donc pas suggéré de malignité ; elle a cependant décrit une adénopathie axillaire droite de 10 mm aux contours spiculés et à la captation modérée (SULpeak 3,1).
+Compte tenu de cette découverte pathologique au niveau de l'aisselle droite, l'histoire clinique de la patiente a été réexaminée et un épisode de médecine interne a été revu dans lequel la patiente a été étudiée en relation avec une augmentation du diamètre de la TMS en 2016 avec une échographie axillaire sans preuve de lésions occupant l'espace ou d'altérations vasculaires artérielles ou veineuses.
+Suite à la détection d'une adénopathie axillaire droite pathologique au PET-CT, le cas a été discuté au sein du comité des tumeurs et il a été décidé de demander une IRM mammaire et une échographie axillaire avec biopsie.
+L'IRM n'a révélé aucune anomalie pathologique ; cependant, le résultat de la biopsie à l'aiguille centrale (CNB) effectuée le 30 novembre 2017 au niveau axillaire était un tissu fibroadipose infiltré par un carcinome à différenciation neuroendocrine.
+Au vu de ces résultats, le cas a été présenté à nouveau au comité des tumeurs, qui a décidé de retirer le tissu adipeux lymphoïde axillaire droit. L'intervention a été réalisée le 7/2/2018, donnant comme résultat anatomopathologique la présence d'un tissu fibro-adipeux infiltré par un carcinome à morphologie basaloïde et à différenciation malpighienne et neuroendocrine focale.
+Une étude immunohistochimique de l'échantillon actuel a été réalisée par le service de pathologie et comparée aux autres échantillons tumoraux du patient, excluant la possibilité qu'il s'agisse d'un adénocarcinome secondaire du côlon et confirmant qu'il s'agit d'une récidive avec différenciation neuroendocrine de l'épithélioma basocellulaire antérieur, car ils étaient positifs pour CK7, CK5/6, CK34ßE12 et p63 et négatifs pour CK20, chromogranine et CD56.
+Suite à ces résultats, le cas a été discuté au sein du comité des tumeurs dermatologiques et il a été décidé d'ajouter une radiothérapie adjuvante axillaire droite.

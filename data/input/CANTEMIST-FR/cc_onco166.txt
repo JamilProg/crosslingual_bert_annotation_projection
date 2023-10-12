@@ -1,0 +1,51 @@
+Anamnèse
+Femme de 56 ans, allergique au métamizole, sans habitudes toxiques. Antécédents de tachycardie rentrante du nœud AV, traitée par ablation en juin 2007. Suivie en ophtalmologie pour une dégénérescence maculaire liée à l'âge (DMLA).
+
+En février 2011, on lui a diagnostiqué un carcinome à cellules claires de grade 2 du rein droit (Fuhrman). Elle a commencé par présenter une métastase osseuse unique au niveau du fémur droit et a consulté pour des douleurs. Une ostéosynthèse prophylactique et une radiothérapie subséquente ont été réalisées. L'analyse anatomopathologique de la pièce osseuse correspond à un carcinome compatible avec une origine rénale. Immunohistochimie : CKAE1-, AE3+, CD10+, mammoglobine négative, CDX2 négative, TTF-1 négative.
+
+En mars 2011, une néphrectomie droite a été pratiquée et le diagnostic a été confirmé : carcinome à cellules claires de stade IV, grade 2 (Fuhrman), avec bords chirurgicaux libres.
+
+Elle a été évaluée par le service d'oncologie médicale en mars 2011 et un suivi a été décidé car il n'y avait pas d'autres lésions mesurables non traitées. Elle a également continué à être suivie par le service de néphrologie car elle présentait une créatinine limite chez une patiente monorénale.
+
+Sans progression jusqu'en décembre 2012, le scanner de contrôle a montré une progression ganglionnaire médiastinale, un nodule pulmonaire dans le lobe supérieur gauche (LSI) et un nodule rénal gauche de 8 mm en relation probable avec un second néoplasme rénal. Il a été décidé de commencer un traitement systémique avec un inhibiteur de tyrosine kinase (ITK) de première ligne, le pazopanib, avec une bonne tolérance et une réponse après 4 mois de traitement, avec une amélioration radiologique des ganglions lymphatiques médiastinaux et une stabilité des nodules dans le LSI et le rein gauche.
+
+En septembre 2013, après un intervalle sans progression de 9 mois, un scanner de contrôle a montré une progression des ganglions lymphatiques médiastinaux et une nouvelle lésion osseuse dans le tiers proximal du fémur droit, dont la scintigraphie osseuse a montré une captation dans la région sous-trochantérienne.
+
+Compte tenu de la progression osseuse, des métastases lytiques et de la croissance des adénopathies médiastinales, il a été décidé de passer à un traitement de deuxième intention avec l'évérolimus 10 mg, le dénosumab et le calcium avec la vitamine D.
+
+Il a développé des toxicités : mucosite de grade 2 et éruption cutanée après 7 jours de traitement. L'évérolimus a donc été interrompu pendant une semaine, puis repris à la dose de 5 mg par jour, avec une bonne tolérance et une escalade jusqu'à la dose de 10 mg par jour sur une base soutenue.
+
+Trois mois après le début du traitement à l'évérolimus, il s'est présenté au service des urgences avec une douleur pleurétique dans l'hémithorax gauche, une dyspnée à l'effort modéré, de la fièvre, surtout la nuit, et une toux avec une expectoration blanchâtre et peu abondante.
+
+Examen physique
+ECOG 1, normohydraté, conscient, orienté et coopératif, tachypnéique à l'élocution et à l'ambulation. Saturation basale en oxygène : 98%. Auscultation : bruits cardiaques rythmiques, pas de souffle ni de bruit de frottement. Souffle vésical préservé avec crépitants à la base gauche. Abdomen souple et dépressible, pas de masses ou de mégalithes palpables, pas de douleur à la palpation ni de signes d'irritation péritonéale. Extrémités avec force, tonus et sensibilité préservés, pas d'œdème, pouls distaux présents.
+
+Tests complémentaires
+"Numération sanguine : hémoglobine 10,8 g/dl, leucocytes 4 730/ul, plaquettes 190 000/ul.
+"Coagulation : temps de prothrombine, temps de thromboplastine partielle et fibrinogène dans les limites normales.
+"Biochimie : glucose 86 mg/dl, urée 43 mg/dl, créatinine 1,10 mg/ul, LDH 341 mg/dl, CRP 49, sodium, potassium, chlorure et enzymes hépatiques dans les limites normales.
+"Radiographie thoracique antéropostérieure : index cardiothoracique normal, infiltrat dans le LII et empiètement du sinus costophrénique gauche non présent dans les contrôles radiographiques antérieurs.
+
+Diagnostic
+La patiente a été admise avec un diagnostic de pneumonie basale gauche probable. Un traitement antibiotique à base d'imipénème a été instauré et l'évérolimus a été suspendu, avec une bonne évolution clinique. La toux sèche et la douleur pleurétique se sont améliorées, mais la patiente est restée afébrile.
+
+Le scanner thoraco-abdominal de contrôle réalisé lors de l'admission, en décembre 2013, a révélé des altérations du verre dépoli principalement péribronchiques et périhilaires affectant tous les lobes pulmonaires de façon bilatérale, ainsi qu'une condensation postérobasale dans le LII, en corrélation avec une bronchopneumonie ou une pneumopathie due à un certain type de traitement, qui constituent les premières options diagnostiques.
+
+Compte tenu de la bonne évolution clinique, il a été décidé de le faire sortir de l'hôpital avec des corticostéroïdes oraux, 30 mg de prednisone en doses décroissantes, et de suspendre le traitement à l'évérolimus jusqu'à nouvel ordre.
+
+Vu en consultation en janvier 2014, 3 semaines après l'arrêt de l'évérolimus, la radiographie thoracique de contrôle a montré une diminution de la condensation basale gauche et le patient est resté asymptomatique, il a donc été décidé de poursuivre les corticoïdes oraux de façon descendante et de réintroduire l'évérolimus à une dose réduite de 5 mg par jour.
+
+Elle a consulté en février 2014 pour un contrôle de toxicité, présentant à nouveau une dyspnée à l'effort, pas au repos, ni une douleur thoracique ou une toux. Compte tenu de l'aggravation subjective après la réintroduction de l'évérolimus, il a été décidé d'arrêter, au moins jusqu'à la prochaine dose de dénosumab, et de poursuivre la diminution de la prednisone avec un rendez-vous de contrôle dans un avenir proche.
+
+En mars 2014, elle s'est rendue à la clinique pour un contrôle clinique et s'est révélée asymptomatique ; elle a nié toute dyspnée à l'effort ou autre symptôme respiratoire, avait repris une activité physique ; il a donc été décidé de ne pas reprendre l'évérolimus en raison de la toxicité pulmonaire et de mettre à jour le scanner de contrôle avant le début de la troisième ligne. Une sixième dose de denosumab avec du calcium et de la vitamine D a été prescrite.
+
+La tomodensitométrie thoraco-abdominale-pelvienne de mars 2014 a montré une amélioration significative des zones bilatérales en verre dépoli. Les adénopathies médiastinales et le nodule de 8 mm dans le LSI n'ont pas subi de modifications significatives par rapport aux études précédentes.
+
+En l'absence de progression radiologique, et compte tenu de la toxicité enregistrée avec l'évérolimus, une surveillance rapprochée sans traitement par ITK a été décidée, et le début d'un traitement de troisième ligne a été envisagé dans le futur en cas de progression de la maladie.
+Suite aux contrôles, la patiente est restée asymptomatique et sans progression en l'absence de thérapie ciblée jusqu'en mars 2015, date à laquelle le scanner de contrôle a montré une augmentation de la taille des nodules pulmonaires dans le LSI.
+
+Traitement
+Voir la section Diagnostic.
+
+Développements
+Voir la section Diagnostic.

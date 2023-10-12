@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 68 ans ayant des antécédents de diabète sucré et de dyslipidémie. Il n'a jamais fumé.
+Il a consulté un centre privé en janvier 2014 pour 20-25 jours de céphalées et d'oublis fréquents. Il y a subi, entre autres, une IRM cérébrale qui a révélé une volumineuse lésion kystique frontale gauche avec un léger effet de masse sur les structures intracrâniennes, évocateur d'un dépôt secondaire.
+
+Examen physique
+Patient stable.
+Conscient et orienté dans les trois sphères. Nerfs crâniens préservés. Légère instabilité qui conditionne l'utilisation d'un fauteuil roulant. Force et sensibilité préservées et symétriques. Pas de dysmétrie ni de dysdiadochokinésie.
+Le reste de l'examen est sans intérêt.
+
+Tests complémentaires
+Dans ce contexte, il est venu dans notre centre pour compléter ses études. Un scanner du corps entier a été réalisé, montrant une lésion nodulaire exophytique au pôle inférieur du rein droit (caractérisée à l'échographie comme un simple kyste) et une sclérose de C7 (évaluée par IRM et compatible avec une origine dégénérative).
+
+Diagnostic
+Le 21 février, le patient a subi une intervention neurochirurgicale pour une biopsie de la lésion frontale, avec un diagnostic pathologique d'adénocarcinome. Fragments de tissu cérébral infiltrés par un adénocarcinome, avec des résultats morphologiques et immunohistochimiques compatibles avec une métastase d'origine pulmonaire.
+Le profil immunohistochimique des cellules néoplasiques est le suivant : CKAE1-AE3 positif diffus et intense, GFAP négatif, EMA négatif, CK7 négatif, CK20 négatif, CDX2 négatif, PSA négatif, TTF1 positif diffus et intense, compatible avec une métastase d'adénocarcinome.
+EGFR : non muté
+ALK : pas de translocation.
+Diagnostic initial : métastase cérébrale d'origine inconnue.
+Un PET scan a été réalisé pour compléter la stadification, car bien qu'il s'agisse d'une lésion suggérant une origine pulmonaire, il n'y avait pas de preuve de lésions dans les poumons sur le CT scan. La TEP n'a pas révélé de prise pulmonaire ou médiastinale. En revanche, la prostate et une adénopathie iliaque externe gauche étaient suspectes de malignité d'un point de vue métabolique.
+Après consultation du service d'urologie, une biopsie de la prostate a été effectuée et a révélé, dans 5 des 9 cylindres obtenus, un adénocarcinome acineux de Gleason 8. Le panel immunohistochimique mis au point pour caractériser ce néoplasme prostatique a montré, entre autres, une forte coloration positive pour le PSA. Le taux sérique de PSA était de 6,5 ng/ml.
+
+Traitement
+Le patient a été adressé au service de radiothérapie fin mars 2014, où il a effectué un traitement sur le lit de la tumeur cérébrale, soit un total de 40 Gy.
+Lors de son arrivée dans notre clinique, il a été décidé, en accord avec le service de radiothérapie, de traiter le cancer de la prostate par radiothérapie radicale, en effectuant au préalable un blocage androgénique complet en tant que thérapie néoadjuvante.
+
+Évolution
+Il est actuellement en attente d'un traitement néoadjuvant par blocage androgénique.
+Après la RT sur la lésion cérébrale, il est totalement asymptomatique. Les symptômes neurologiques d'instabilité se sont complètement améliorés.

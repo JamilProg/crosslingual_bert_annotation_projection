@@ -1,0 +1,28 @@
+Anamnèse
+Une jeune femme de 15 ans sans antécédents médicaux ou chirurgicaux intéressants a consulté en mai 2014 pour des douleurs abdominales d'une durée de 15 jours. La douleur était colique dans la région périombilicale et également associée à une distension abdominale.
+
+Examen physique
+ECOG 2. Affecté par la douleur. Auscultation cardio-pulmonaire : normale. Abdomen : distendu, avec défense abdominale et palpation d'une tumeur mobile allant de l'hypogastre à la région sus-ombilicale. Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+" Tomodensitométrie abdominopelvienne (6/5/2014) : grosse masse abdominale mesurant 18,6 x 12 x 25 cm avec des foyers de calcification et de la graisse macroscopique évoquant un tératome. La lésion s'étend vers le bas jusqu'au bassin, où elle s'étend jusqu'à la région annexielle droite, où elle a une composante de 62 x 28 mm. Il y a du liquide libre dans la région périhépatique et périsplénique et dans la gouttière paracolique gauche.
+Adénopathie de 12 mm dans la graisse paracardiaque droite et de 10 mm dans la graisse paracardiaque gauche.
+" Échographie gynécologique (6/5/2014) : tumeur géante dont la taille est impossible à délimiter par échographie, à contenu hétérogène, kystique-solide. L'ovaire droit et l'utérus sont normaux. Aucune ascite n'est observée.
+"Examens de laboratoire (6/5/2014) : biochimie et hémogramme avec des paramètres normaux.
+Marqueurs tumoraux bêta-HCG < 0,6 ng/m, alpha-fœtoprotéine 679 ng/ml (valeurs normales : 0-10), Ca 125 338 UI/ml (0-35), CA 19,9 352 UI/ml (0-37).
+
+Diagnostic
+Tératome immature de stade IV.
+
+Traitement
+Le 6 mai 2014, le service de gynécologie a procédé à l'ablation et à la résection des implants péritonéaux avec omentectomie et appendicectomie. Le résultat anatomopathologique était un tératome ovarien immature de grade 3 avec des implants dans l'épiploon et la présence de tissu glial bien différencié.
+
+Le scanner post-chirurgical a montré une maladie résiduelle avec des implants péri-hépatiques, péritonéaux et du sac de Douglas, ainsi qu'une lymphadénopathie dans les sinus cardiophréniques et la présence d'un taux élevé d'alpha-fœtoprotéine de 300 mg/ml, Par conséquent, un traitement de chimiothérapie complémentaire (QT) a été débuté selon le schéma BEP (cisplatine 20 mg/m2 jours 1-5, étoposide 100 mg/m2 jours 1-5 et bléomycine 30 mg jours 1,8 et 15 de tous les 21 jours) le 26 mai 2014.
+Après le premier cycle, une augmentation progressive des taux d'alpha-protéine a été observée, atteignant 946 ng/mL, et un scanner de suivi a été demandé, confirmant l'augmentation de la taille des implants et les adénopathies décrites ci-dessus. Avec ces résultats, le traitement QT a été modifié, initiant une deuxième ligne de traitement selon le schéma TIP (placlitaxel 250 mg/m2 jour 1, cisplatine 25 mg/m2 jours 2-5 et ifosfamide 1 500 mg/m2 jours 2-5) recevant cinq cycles, qui se sont terminés le 8 septembre 2014, avec une normalisation des marqueurs tumoraux.
+
+Un scanner PET-CT ultérieur a été réalisé avec des métastases périhépatiques de 12 x 8 cm, qui ont montré une absorption hétérogène, des ganglions lymphatiques diaphragmatiques allant jusqu'à 2 cm avec un SUVmax de 4,03 et un implant tumoral dans la poche de Douglas de 7 x 3 cm SUVmax 7,3, de sorte que le 14 octobre 2014, une chirurgie cytoréductive complète a été réalisée par les services de gynécologie et de chirurgie générale.
+
+Une pelvipéritonectomie a été pratiquée avec ablation de l'utérus, de l'annexe droite et implantation dans la poche de Douglas avec dissection de la face antérieure du rectum, ainsi qu'une lymphadénectomie pelvienne et aortocave bilatérale et l'ablation des adénopathies cardiophréniques et diaphragmatiques. Le résultat anatomopathologique était un tissu adipeux métastasé par un tissu tératomateux entièrement mature ("tératomes immatures de grade 0"). Par la suite, la patiente a commencé un traitement hormonal substitutif en raison d'une ménopause chirurgicale précoce.
+
+Évolution
+La tomodensitométrie post-chirurgicale réalisée en novembre 2014 n'a pas montré de maladie résiduelle et l'alpha-fœtoprotéine est restée négative. Actuellement, la patiente poursuit les contrôles, sans données analytiques ou radiologiques de récidive lors de la dernière consultation en mai 2015.

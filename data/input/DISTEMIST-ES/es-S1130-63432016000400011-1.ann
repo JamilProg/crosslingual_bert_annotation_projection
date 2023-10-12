@@ -1,0 +1,28 @@
+T1	pathologie 60 137	adenocarcinoma gástrico subcardial con afectación de la unión esofagogástrica
+T2	pathologie 171 187	líquido ascítico
+T3	pathologie 651 666	quiste hepático
+T4	pathologie 731 742	fuga biliar
+T5	pathologie 814 849	colección en el hipocondrio derecho
+T6	pathologie 1782 1793	rectorragia
+T7	pathologie 1896 1912	rotura esplénica
+T8	pathologie 1915 1954	fístula perianastomótica esofagoyeyunal
+T9	pathologie 2097 2125	colecciones intraabdominales
+T10	pathologie 2139 2164	derrame pleural bilateral
+T11	pathologie 2309 2343	tromboembolismo pulmonar bilateral
+T12	pathologie 2346 2368	infección respiratoria
+T13	pathologie 2565 2587	obstrucción intestinal
+T14	pathologie 2601 2626	carcinomatosis peritoneal
+#1	SNOMED T1	187734007
+#2	SNOMED T12	275498002
+#3	SNOMED T3	85057007
+#4	SNOMED T7	234506007
+#5	SNOMED T8	405567008
+#6	SNOMED T13	81060008
+#7	SNOMED T4	235932003
+#8	SNOMED T14	255121007
+#9	SNOMED T5	235993005
+#10	SNOMED T9	235993005
+#11	SNOMED T10	425802001
+#12	SNOMED T6	12063002
+#13	SNOMED T2	13124004
+#14	SNOMED T11	233935004

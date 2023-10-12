@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 27 ans sans antécédents personnels intéressants, non-fumeur et militaire de profession, dont les antécédents familiaux comprenaient un père atteint de leucémie chronique, une mère atteinte d'un cancer du sein, un oncle maternel atteint d'un cancer du rein, une grand-tante maternelle décédée d'un cancer du sein, un grand-oncle maternel décédé d'une tumeur cérébrale et un grand-père maternel décédé d'un cancer de la tête et du cou.
+Elle s'est présentée au service des urgences en mai 2011 pour une dyspnée de plusieurs semaines, qui s'est progressivement intensifiée, sans fièvre ni autre symptôme.
+
+Examen physique
+Auscultation pulmonaire : diminution du murmure vésiculaire à la base du poumon droit, sans autres bruits pathologiques, le reste de l'examen étant normal, y compris l'examen neurologique.
+
+Tests complémentaires
+"Examens de laboratoire : aucune anomalie.
+"Tomodensitométrie thoraco-abdominale-pelvienne : masse dans le lobe moyen associée à un épanchement pleural droit et à de multiples implants pleuraux, le plus grand mesurant 16 mm, dans l'hémothorax droit. Le reste de l'examen n'a rien révélé.
+"Bronchoscopie : normale, aucune lésion endobronchique n'a été observée.
+"Biopsie à l'aiguille de la masse pulmonaire guidée par tomodensitométrie : adénocarcinome. Etude immunohistochimique montrant une positivité pour TTF-1 et CK-7, avec une négativité pour CK-20.
+"Cytologie du liquide pleural : positive pour les cellules malignes.
+
+Diagnostic
+Adénocarcinome pulmonaire de stade IV (PL).
+
+Traitement
+Diagnostiquée d'un adénocarcinome pulmonaire de stade IV, elle a commencé un traitement de première intention par carboplatine + paclitaxel + bevacizumab en mai 2011, avec une réponse partielle après trois cycles, qui s'est maintenue après le sixième, de sorte qu'elle a continué avec le bevacizumab d'entretien jusqu'en septembre 2011.
+
+Évolution
+En septembre 2011, la maladie a progressé aux niveaux péritonéal, pleural et cérébral. Une pleurectomie droite a été réalisée en novembre 2011 et il a ensuite reçu une radiothérapie holocrânienne à une dose de 300 cGy pendant 10 séances, recevant un total de 30 Gy.
+
+En décembre 2011, il a commencé une deuxième ligne de traitement avec le pemetrexed en monothérapie, présentant à nouveau une progression pleurale, péritonéale et cérébrale en mai 2012. À cette époque, le patient a été transféré dans notre centre, où nous avons envisagé la possibilité de réaliser une étude mutationnelle des gènes ALK et EGFR, montrant des images de translocation ALK dans 55 % des cellules avec FISH.
+
+Compte tenu de la présence de réarrangements ALK, elle a commencé un traitement au crizotinib et, après trois mois de traitement, une réponse partielle plus importante a été observée, qui s'est maintenue lors des contrôles ultérieurs. Un scanner réalisé en janvier 2015 a montré une image nodulaire dans la grande fissure droite, dont la taille avait légèrement augmenté par rapport à l'étude précédente. En raison de la suspicion d'oligoprogression, il a été décidé de poursuivre le traitement par crizotinib et d'effectuer un contrôle précoce avec des examens d'imagerie. La dernière tomodensitométrie de contrôle n'a montré aucun changement.
+
+Compte tenu des antécédents familiaux susmentionnés, le patient a été adressé à l'unité de conseil génétique pour l'étude de la mutation BRCA, qui s'est révélée négative, mais une mutation a été trouvée dans le gène BRCA chez son frère en bonne santé et chez la mère du patient. Son oncle maternel s'est également révélé porteur de la mutation et a développé par la suite un carcinome rénal à cellules claires.

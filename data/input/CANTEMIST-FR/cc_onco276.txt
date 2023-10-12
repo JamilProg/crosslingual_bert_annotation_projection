@@ -1,0 +1,34 @@
+Anamnèse
+Le patient était un homme de 19 ans sans allergies médicamenteuses connues et sans antécédents pathologiques ou chirurgicaux pertinents.
+Il a consulté le service des urgences pour des diarrhées et des vomissements après une transgression alimentaire. L'examen physique a révélé un souffle à l'auscultation abdominale comme seul résultat pertinent. L'auscultation cardiaque a révélé un souffle systolique pan-focal. Le patient a été transféré du service des urgences au service de cardiologie.
+Il a été adressé au service de cardiologie pour une échocardiographie transthoracique, qui a révélé une masse dans le ventricule droit qui faisait saillie dans la voie de sortie du ventricule droit et produisait une sténose pulmonaire sévère. Le patient a été envoyé à l'hôpital pour une étude de la masse cardiaque.
+Le patient, qui était asymptomatique, a été admis dans le service de cardiologie de notre hôpital.
+
+Examen physique
+L'examen physique a révélé un souffle à l'auscultation abdominale comme seul résultat pertinent.
+L'auscultation cardiaque a révélé un souffle systolique IV/VI pan-focal, plus intense dans le foyer pulmonaire. Le reste de l'examen n'a rien révélé de pertinent.
+
+Tests complémentaires
+Dans les explorations complémentaires, les plus importantes sont les suivantes :
+- ECG : RS à 85lpm. PR normal, QRS 110ms, axe BICRDHH 120º, T négatif en aVL.
+- Examens sanguins complets sans résultats notables.
+- Pas d'élévation des enzymes cardiaques.
+- Radiographie thoracique simple : silhouette cardiaque normale. Pas d'élargissement médiastinal ni d'infiltrat parenchymateux.
+- Échocardiographie transthoracique : masse obstructive de 7 x 3 cm au niveau de la voie de sortie du ventricule droit. Légère dilatation du ventricule droit avec une fonction systolique normale.
+- Marqueurs tumoraux : b2 microglobuline, CEA, Ca 19.9, CYFRA, Enolase, Ca 125, bHCG dans les limites normales.
+- IRM thoracique et tomodensitométrie thoracique : néoplasme intraventriculaire droit occupant la voie de sortie du ventricule gauche et s'étendant à l'artère pulmonaire avec obstruction dynamique. La masse infiltre la paroi antérieure de la voie d'écoulement du RV et forme une petite masse dans le médiastin antérieur droit. Métastases pulmonaires. Évaluer le sarcome cardiaque métastatique en première intention.
+
+Diagnostic
+Une tumeur cardiaque mésenchymateuse a été diagnostiquée comme première option diagnostique.
+Le patient a subi une sternotomie médiane et une chirurgie extracorporelle, avec résection circulaire des bords de la masse. Celle-ci infiltre légèrement le septum interventriculaire. La résection était apparemment complète et le spécimen a été envoyé au service de pathologie pour étude.
+La patiente a eu une très bonne évolution postopératoire.
+Le rapport d'anantomie pathologique a finalement révélé une immunohistochimie compatible avec un angiosarcome épithéloïde calcifié.
+Le patient a été évalué par le service d'oncologie et une étude d'extension a été réalisée avec un PET-CT et une tomodensitométrie thoracique à haute résolution, qui ont confirmé un modèle miliaire métastatique pulmonaire.
+
+Traitement
+Avec le diagnostic d'angiosarcome cardiaque de stade IV (métastases pulmonaires), un traitement systémique par chimiothérapie est proposé, selon le schéma Paclitaxel 80mg/m2 x 3 semaines, tous les 28 jours.
+
+L'évolution
+A ce jour, il a reçu 7 doses avec une excellente tolérance.
+Lors de la réévaluation après 3 cycles, il présentait une maladie pulmonaire stable.
+Il est toujours asymptomatique et a repris ses cours à l'université et ses activités de loisirs.

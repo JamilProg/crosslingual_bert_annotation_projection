@@ -1,0 +1,24 @@
+Anamnèse
+Un homme de 66 ans aux antécédents d'hypertension artérielle, de dyslipidémie et de fumeur actif avec un IPP de 60. Il consulte pour la première fois aux urgences en septembre 2018 pour avoir présenté une gêne rétrosternale non spécifique évoluant depuis plusieurs jours, sans autre symptôme d'accompagnement.
+
+Examen physique
+A l'examen, elle est stable sur le plan hémodynamique et afébrile. L'Eastern Cooperative Oncology Group (ECOG) 0. Aucune adénopathie cervicale ou sus-claviculaire n'a été palpée ; l'abdomen est souple et dépressible, légèrement douloureux dans l'hypogastre avec une hépatomégalie de 2 travers de doigt, les bruits hydro-aériques sont normaux et il n'y a pas de signes d'irritation péritonéale. Le reste de l'examen physique n'a révélé aucune altération significative.
+
+Examens complémentaires
+L'hémogramme, la biochimie et la coagulation ont été demandés dans les limites de la normale. Une radiographie du thorax a montré une masse médiastinale droite.
+La tomodensitométrie (TDM) du thorax a montré une masse médiastinale paracardiaque droite avec des bords lobulés et des calcifications intralésionnelles, d'un diamètre maximal d'environ 5,6 cm, ainsi qu'un nodule sous-pleural de 5 mm dans le lobe inférieur droit, d'aspect non spécifique.
+Le patient a été admis dans le service de médecine interne pour compléter l'étude, et un scanner abdominopelvien a été réalisé, montrant une hépatomégalie homogène sans lésions focales et une splénomégalie mesurant 19 x 14 x 9 x 9 x 7,8 cm en diamètre antéropostérieur, craniocaudal et transversal, respectivement, avec une zone hypodense au pôle supérieur liée à un infarctus splénique. Des ganglions lymphatiques mésentériques et rétropéritonéaux subcentimétriques ont été observés (le plus grand mesurait 7 mm).
+Le patient a été discuté au sein du comité des tumeurs thoraciques et il a été décidé d'exciser la lésion médiastinale. Le 15/10/2018 l'intervention chirurgicale a été programmée, réalisant une excision complète de la lésion, l'anatomie pathologique étant compatible avec un thymome de phénotype et immunophénotype de type B2 avec bords chirurgicaux libres, sans infiltration capsulaire. Immunophénotype : cytokératine A11/AE3+ ; CK19+ (focal) ; CK7+ focal ; p63+, CD56+ (focal), CD3+, CD5+ (principalement des cellules lymphoïdes) ; ALC+ ; CD30+ focal ; CD1a+(focal) ; TdT (lymphocytes immatures)+ ; Ki67 élevé (supérieur à 50 %).
+Après l'intervention chirurgicale, et sur la base des résultats décrits dans le scanner (hépatosplénomégalie), une TEP/TDM a été réalisée, montrant une augmentation diffuse du métabolisme du glucose dans la région thoracique supérieure droite avec SUVmax 6,05 de nature probablement post-chirurgicale, une splénomégalie de 18,50 cm de diamètre antéro-postérieur, une captation homogène dans le parenchyme hépatique sans foyers hypermétaboliques significatifs. Une augmentation diffuse de la captation du FDG est décrite dans pratiquement toute la moelle osseuse étudiée, ce qui semble être de nature secondaire/réactive.
+La cytomorphologie, la cytométrie de flux et la cytochimie ont démontré l'existence d'une leucémie myélomonocytaire chronique (LMCM) de type myélodysplasique (selon la FAB) et de type LMCM-1 selon l'OMS. La moelle osseuse était très évocatrice de l'affection par l'existence de mégacaryocytes hypoploïdes, de sidéroblastes en anneau et d'une hypercellularité.
+
+Diagnostic
+"Thymome de type B2 R0 (stade IIA) selon la classification de Masaoka.
+"Leucémie myélomonocytaire chronique (LMMC).
+
+Traitement
+S'agissant d'un thymome de stade IIA (résection complète de la tumeur, marges chirurgicales libres et sous-type histologique B2), il ne répond pas aux critères de radiothérapie adjuvante.
+En ce qui concerne le traitement de la leucémie myélomonocytaire chronique, il a été décidé de commencer un traitement cytoréducteur avec de l'hydroxycarbamide à raison de 2 g par jour.
+
+Évolution
+Le patient est actuellement asymptomatique et est suivi dans le service ambulatoire d'oncologie médicale et d'hématologie.

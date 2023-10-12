@@ -1,0 +1,20 @@
+T1	pathologie 34 90	artritis reumatoide (AR) seropositiva, erosiva y nodular
+T2	pathologie 55 57	AR
+T3	pathologie 615 718	artritis séptica de tobillo derecho con cultivo de líquido sinovial positivo para Staphylococcus aureus
+T4	pathologie 982 992	escleritis
+T5	pathologie 1055 1058	QUP
+T6	pathologie 1323 1341	perforación ocular
+T7	pathologie 1422 1432	escleritis
+T8	pathologie 1705 1720	leucoma corneal
+T9	pathologie 1745 1755	escleritis
+T10	pathologie 1821 1823	AR
+#1	SNOMED T3	111820003
+#2	SNOMED T1	308143008
+#3	SNOMED T2	69896004
+#4	SNOMED T4	78370002
+#5	SNOMED T5	416473005
+#6	SNOMED T6	231879009
+#7	SNOMED T7	78370002
+#8	SNOMED T8	704272003
+#9	SNOMED T9	78370002
+#10	SNOMED T10	69896004

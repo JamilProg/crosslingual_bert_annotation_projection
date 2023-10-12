@@ -1,0 +1,24 @@
+T1	pathologie 21 110	diabetes mellitus tipo 2 de larga evolución secundaria a pancreatitis crónica calcificada
+T2	pathologie 78 110	pancreatitis crónica calcificada
+T3	pathologie 127 140	hipoglucemias
+T4	pathologie 212 241	cuadros infecciosos urinarios
+T5	pathologie 365 377	malnutrición
+T6	pathologie 379 406	insuficiencia renal crónica
+T7	pathologie 408 430	cetoacidosis diabética
+T8	pathologie 437 449	úlcera sacra
+T9	pathologie 490 496	úlcera
+T10	pathologie 1051 1057	úlcera
+T11	pathologie 1205 1242	insuficiencia renal crónica agudizada
+T12	pathologie 1247 1262	sepsis urinaria
+#1	SNOMED T1	44054006+301009006
+#2	SNOMED T9	429040005
+#3	SNOMED T11	236433006
+#4	SNOMED T12	721104000
+#5	SNOMED T2	301009006
+#6	SNOMED T5	248325000
+#7	SNOMED T6	90688005
+#8	SNOMED T3	302866003
+#9	SNOMED T7	420422005
+#10	SNOMED T8	225562005
+#11	SNOMED T4	68566005
+#12	SNOMED T10	429040005

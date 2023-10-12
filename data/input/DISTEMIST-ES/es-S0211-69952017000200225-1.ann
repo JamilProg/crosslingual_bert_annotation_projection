@@ -1,0 +1,14 @@
+T1	pathologie 87 90	HPN
+T2	pathologie 106 123	anemia hemolítica
+T3	pathologie 475 483	disfagia
+T4	pathologie 810 813	DTP
+T5	pathologie 905 937	DTP por depósito de hemosiderina
+T6	pathologie 1230 1254	crisis hemolítica severa
+T7	pathologie 1259 1284	insuficiencia renal aguda
+#1	SNOMED T6	128086004
+#2	SNOMED T7	723189000
+#3	SNOMED T1	1963002
+#4	SNOMED T2	61261009
+#5	SNOMED T5	95568003
+#6	SNOMED T4	24790002
+#7	SNOMED T3	288939007

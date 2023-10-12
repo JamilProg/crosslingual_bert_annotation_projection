@@ -1,0 +1,8 @@
+T1	pathologie 56 72	hernia umbilical
+T2	pathologie 86 89	HTA
+T3	pathologie 587 593	lesión
+T4	pathologie 597 619	endometriosis de colon
+#1	SNOMED T1	396347007
+#2	SNOMED T2	38341003
+#3	SNOMED T4	44601009
+#4	SNOMED T3	417163006

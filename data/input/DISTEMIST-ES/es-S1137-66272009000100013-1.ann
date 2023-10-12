@@ -1,0 +1,24 @@
+T1	pathologie 29 37	alérgico
+T2	pathologie 39 48	exfumador
+T3	pathologie 81 122	miocardiopatía dilatada de origen enólico
+T4	pathologie 356 388	dilatación de aurícula izquierda
+T5	pathologie 391 411	bloqueo bifascicular
+T6	pathologie 416 439	bloqueo de rama derecha
+T7	pathologie 442 471	hemibloqueo de rama izquierda
+T8	pathologie 545 575	ateromatosis a nivel de cayado
+T9	pathologie 692 709	enfisema pulmonar
+T10	pathologie 1324 1343	isquemia miocárdica
+T11	pathologie 1404 1428	vasculopatía del injerto
+T12	pathologie 2485 2504	isquemia miocárdica
+#1	SNOMED T2	8517006
+#2	SNOMED T11	234190001
+#3	SNOMED T3	83521008
+#4	SNOMED T5	74021003
+#5	SNOMED T6	59118001
+#6	SNOMED T7	4973001
+#7	SNOMED T8	81817003
+#8	SNOMED T9	87433001
+#9	SNOMED T12	414795007
+#10	SNOMED T10	414795007
+#11	SNOMED T1	106190000
+#12	SNOMED T4	253361002

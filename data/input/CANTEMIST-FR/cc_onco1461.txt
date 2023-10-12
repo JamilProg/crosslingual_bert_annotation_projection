@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 42 ans, sans antécédents particuliers, a consulté le service des urgences à plusieurs reprises sur une période de trois mois en raison d'épisodes de douleurs lombaires et abdominales avec des caractéristiques de coliques irradiant vers la région génitale, avec une évolution médiocre sous traitement analgésique. Une échographie abdominale a montré une lithiase rénale bilatérale avec une légère dilatation des voies excrétrices.
+
+Examen physique
+Un testicule droit atrophié a été détecté, sans autre altération d'intérêt.
+
+Examens complémentaires
+- Échographie scrotale : tumeur du testicule gauche et atrophie du testicule droit avec échostructure hétérogène.
+- Tomodensitométrie thoraco-abdominopelvienne : grosse masse polylobée de 9 x 5 x 6 cm à disposition rétropéritonéale, partant de la surrénale gauche, englobant la veine et l'artère rénales principales, déplacement de la jonction urétéro-pelvienne entraînant une légère ectasie du bassinet rénal et de multiples nodules rétrocruraux et rétropéritonéaux à centre hypodense.
+
+Diagnostic
+Au vu de ces résultats, une orchidectomie inguinale a été pratiquée. L'anatomie pathologique a révélé une tumeur neuroendocrine primitive dans le contexte d'un néoplasme germinal mixte (séminome et tératome), avec présence d'une infiltration vasculaire de la PNET, de la tunique albuginée, de l'épididyme et du cordon spermatique exempts d'infiltration néoplasique. Stade pT2NxM1a (IIIA).
+
+Traitement
+L'affaire a été discutée lors d'une séance multidisciplinaire et intercentres et un traitement par chimiothérapie a été instauré selon le schéma Van Winkle1 modifié avec ifosfamide (9 mg/m2), étoposide (100 mg/m2) et cisplatine (20 mg/m2) du jour 1 au jour 5 tous les 21 jours, un schéma dont l'activité est reconnue dans les tumeurs neuroendocrines primitives et dont l'activité est attendue dans la tumeur germinale, compte tenu de la chimiosensibilité a priori de ces deux tumeurs.
+
+Évolution
+Il a présenté une réponse partielle après le deuxième cycle (plus de 50 %) et a reçu cinq cycles, persistant avec une masse rétropéritonéale gauche de 3 cm de grand axe et des adénopathies para-aortiques gauches de l'ordre de 1,6 cm.
+Il a subi une excision de la masse rétropéritonéale, une lymphadénectomie pré-aortique, latéro-aortique et rétro-aortique, une néphrectomie et une surrénalectomie gauche.
+L'anatomie pathologique a révélé la persistance d'une tumeur neuroendocrine primitive mesurant 6,5 x 5,5 x 2,5 cm, une invasion tumorale intravasculaire des veines hilaires, une extension à la paroi et au tissu adipeux adjacent, des métastases dans de nombreux ganglions lymphatiques englobés par la masse tumorale, une infiltration périneurale, l'absence d'atteinte tumorale rénale et surrénalienne, l'absence d'autres éléments tumoraux du néoplasme primitif (séminome ou tératome).
+Le scanner post-chirurgical a montré la persistance d'une petite lésion para-aortique gauche adjacente à la sortie de l'artère mésentérique supérieure mesurant 1,7 x 0,9 cm, compatible avec une lésion résiduelle. Masse rétropéritonéale déplaçant le duodénum sans plan de clivage avec sa paroi mesurant 3,6 x 3 x 5,2 cm.
+Un traitement complémentaire a été proposé selon le schéma VAIA modifié : 1er, 3e et 5e cycles : ifosfamide 3 mg/m2 jours 1 et 2, vincristine 2 mg bolus jour 1, doxorubicine 40 mg/m2 jours 1 et 2 tous les 21 jours.
+Cycles 2, 4 et 6 : ifosfamide 3 mg/m2 jours 1 et 2, vincristine 2 mg bolus jour 1 et actinomycine D 2 mg bolus jour 1. La vincristine est poursuivie à une dose hebdomadaire pendant des semaines consécutives (semaine 4 avec ifosfamide, vincristine, doxorubicine (2ème cycle) et semaine 7 avec ifosfamide, vincristine, actinomycine (3ème cycle) puis le jour 1 tous les 21 jours avec ifosfamide plus actinomycine, doxorubicine.
+La tolérance a été acceptable, à l'exception d'un épisode de neutropénie de grade 3 au cours du troisième cycle, pour lequel il a ensuite reçu une prophylaxie secondaire avec des facteurs de stimulation des colonies et une antibiothérapie à chaque cycle. Lors de la réévaluation par tomodensitométrie, elle a conservé une réponse complète, avec des adénopathies subcentimétriques dans la graisse mésentérique. Le traitement local a été complété par une radiothérapie totalisant 40 Gy dans la région pelvienne.
+Par la suite, elle a commencé des contrôles trimestriels sans qu'aucune récidive n'ait été signalée à ce jour.

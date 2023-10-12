@@ -1,0 +1,22 @@
+Anamnèse
+Homme de 62 ans sans allergies médicamenteuses connues ni antécédents familiaux. Fumeur jusqu'à il y a 20 ans, avec un taux cumulé de 20 paquets-années et buveur de 100 g d'éthanol par jour ; avec des antécédents personnels d'hypertension artérielle sous traitement par candésartan, de dyslipidémie sous traitement par atorvastatine, de diabète sucré de type 2 sous traitement par metformine, d'hyperuricémie sous traitement par allopurinol et porteur d'un stimulateur cardiaque depuis 2012 en raison d'un bloc auriculo-ventriculaire symptomatique du second degré de Mobitz 1.
+Il a consulté son médecin traitant en août 2016 en raison d'un ictère, d'une cholurie et d'une acholie. Il a été adressé par son centre de santé au service des urgences de l'hôpital où il a été constaté une altération des tests de la fonction hépatique, principalement cholestatique, ainsi qu'une élévation du CA 19.9 (86,3 U/ml). Dans ce contexte, il a été admis au service digestif pour examen.
+Devant la présence de signes morphologiques et endoscopiques compatibles avec une tumeur de Klatskin et malgré l'absence de confirmation histologique, il a bénéficié le 29/09/2016 d'une hépatectomie et d'une jéjunostomie hépatique Roux-en-Y. L'anatomie pathologique de la pièce opératoire a confirmé le diagnostic d'adénocarcinome bien différencié de la voie biliaire principale, pT2pN1 (métastase dans un des cinq ganglions isolés). Entre décembre 2016 et mai 2017, elle reçoit six cycles de gemcitabine à la dose de 1 000 mg/m2 les jours 1, 8 et 15, tous les 28 jours en intention adjuvante. Au cours du traitement, il a nécessité la suspension de plusieurs doses, ainsi qu'une réduction des doses en raison de symptômes compatibles avec une infection respiratoire, ce qui a conduit à une admission à l'hôpital à une occasion. Il a poursuivi les examens périodiques sans aucun signe de maladie jusqu'en octobre 2017.
+
+Examen physique
+Octobre 2017 : ECOG 1, afébrile et hémodynamiquement stable. L'auscultation pulmonaire montre une diminution minime des bruits respiratoires dans les deux bases pulmonaires. Le reste de l'examen physique est sans particularité.
+
+Examens complémentaires
+En octobre 2017, le patient s'est rendu au service d'oncologie médicale pour un bilan de santé. Il a fourni un hémogramme et une biochimie complète comprenant des tests de la fonction hépatique et des marqueurs tumoraux (CEA et CA 19,9), tous normaux.
+Cependant, une tomodensitométrie (TDM) réalisée le 31/10/2017 a révélé des adénopathies dans tous les compartiments médiastinaux et dans le hile pulmonaire, dont les plus grandes étaient situées au niveau souscarinal, où elles convergent pour former un conglomérat mesurant 29 x 31 mm de diamètre.
+Le 21/11/2017, l'étude a été complétée par une tomographie par émission de positons (TEP) qui a montré un hypermétabolisme des adénopathies médiastinales bilatérales, mettant en évidence le conglomérat adénopathique sous-carinal avec un SUVmax de 6,63. Enfin, une ponction transbronchique a été réalisée dans l'adénopathie, dont l'anatomie pathologique a décrit la présence de structures granulomateuses sans nécrose et a permis d'exclure une tumeur maligne. L'analyse moléculaire de Mycobacterium tuberculosis par PCR-ELISA a exclu sa présence dans l'échantillon cytologique.
+Une fois la récidive de la maladie oncologique exclue, la patiente a été adressée au service de pneumologie. Les examens complémentaires révèlent des taux sériques élevés d'enzyme de conversion de l'angiotensine (ECA) (112,7 U/l ; intervalle 13,3-63,9) et la spirométrie révèle un indice de Tiffenau de 59 %.
+
+Diagnostic
+Dans ce contexte, le diagnostic de réaction sarcoïdosique est posé chez un patient ayant des antécédents de cholangiocarcinome bien différencié pT2pN1M0 (tumeur de Klatskin) pT2pN1M0 ayant subi une résection chirurgicale et une chimiothérapie adjuvante.
+
+Traitement
+En l'absence de symptômes respiratoires et de signes radiologiques de pneumopathie interstitielle, il a été décidé de ne pas commencer de traitement aux corticostéroïdes et de poursuivre le suivi radiologique.
+
+Evolution
+A ce jour, le patient reste asymptomatique, sans signe de rechute tumorale et avec une stabilité morphologique des adénopathies médiastinales au dernier scanner (27/02/2018).

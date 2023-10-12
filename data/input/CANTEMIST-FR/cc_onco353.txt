@@ -1,0 +1,37 @@
+Anamnèse
+Homme de 68 ans, fumeur de 20 cigarettes/jour et alcoolique à raison d'un litre/jour depuis 25 ans, avec des antécédents familiaux de cancer bronchogénique (père décédé à 58 ans) et de tumeur cérébrale (mère décédée à 46 ans), diagnostiqué en février 2009 avec un carcinome épidermoïde de l'amygdale à la suite d'une dysphagie-odynophagie d'une durée de 4 semaines. Il a été traité par résection chirurgicale complète de la lésion et lymphadénectomie radicale avec curage ganglionnaire droit (Pathologie : carcinome épidermoïde de l'amygdale droite T2N1M0), en plus d'une chimio-radiothérapie adjuvante concomitante avec du cisplatine à une dose de 100 mg/m2 les jours 1, 21 et 42.
+Les toxicités comprennent une mucosite de grade IV, une odynophagie importante difficile à contrôler, un muguet buccal et une malnutrition calorique et protéique, avec une perte de poids de 24 kg depuis le début du traitement anticancéreux.
+Elle présente également des douleurs chroniques dans la région cervicale après vidange cervicale bilatérale dues à une possible lésion du nerf spinal droit, de nature mécanique et irradiant vers l'épaule, rendant son élévation difficile, nécessitant un traitement et un suivi par l'unité de la douleur et le service de rééducation.
+Elle a continué à subir des examens réguliers dans le service d'oncologie et de chirurgie maxillo-faciale, sans aucun signe de récidive de sa maladie néoplasique, jusqu'en mai 2015, date à laquelle un nodule pulmonaire dans le lobe supérieur droit (LSD) a été détecté lors d'une tomographie axiale informatisée (CAT) de contrôle, et une tomographie par émission de positons (TEP) a été demandée, qui a montré une lésion pseudo-nodulaire dans l'apex pulmonaire droit avec un SUV max. de 2,1 et une lésion œsophagienne avec un SUV max. de 3,2, de sorte que l'étude a été prolongée.
+
+Examen physique
+Conscient et orienté. Mince. Eupnéique au repos. Hydratation et coloration normales. ECOG 0-1.
+Tête et cou : pas d'adénopathies palpables. PVY normal.
+Poitrine : AC : rythmique sans souffle. AP : VCM avec crépitants bibasaux épais.
+L'abdomen, les membres inférieurs et l'examen neurologique ne révèlent rien.
+
+Tests complémentaires
+ANALYSE : Pas d'altérations hématologiques ou biochimiques pertinentes. Marqueurs tumoraux normaux.
+CAT scan THORACOABDOMINOPELVIC avec civ : Aucune adénopathie médiastinale, hilaire ou axillaire de taille pathologique n'a été observée. Dans le parenchyme pulmonaire, l'opacité de densité verre dépoli et la consolidation pseudonodulaire de 21x15mm dans le segment apical du LSD, associée à une bronchioloectasie de traction, ont persisté sans changements significatifs. Compte tenu de sa stabilité, la lésion semble résiduelle (fibrose post-RT ?). Le reste du parenchyme pulmonaire ne présente pas d'anomalie pathologique. Aucun épanchement pleural n'a été observé. Reste de l'étude thoraco-abdominale-pelvienne sans particularité pathologique.
+TEP/TDM : lésion pseudonodulaire dans l'apex du poumon droit avec une détectabilité métabolique discrète (SUV max 2,1) d'un diamètre d'environ 23,6x18,9x26 mm. Les observations dans l'apex droit pourraient être liées à un processus infectieux-inflammatoire en voie de résolution, bien que d'autres étiologies ne puissent être exclues. Une formation adénopathique d'environ 1 cm de diamètre est observée dans la région paratrachéale supérieure droite, avec un SUV maximal de 2, qui semble relever de la même étiologie. Il existe des preuves d'une augmentation focale de l'activité métabolique dans l'œsophage, dans la région médio-distale à D6-D7, avec un SUV maximum de 3,2. CONCLUSION : Les observations au niveau de l'apex pulmonaire droit et de l'adénopathie paratrachéale droite sont métaboliquement suspectes de malignité, bien qu'un processus infectieux-inflammatoire ne puisse être exclu. Observations dans l'œsophage pour lesquelles une évaluation clinique est recommandée.
+GASTROSCOPIE : Œsophage : à environ 30 cm, il y a une tumeur mamelonnée d'environ 4 cm, déprimée au centre, d'aspect malin, dont des biopsies sont effectuées. Hernie hiatale. Estomac : corps, gastrite érythémateuse. Antre, muqueuse érythémateuse avec épaississement du pli prépylorique.
+ANATOMIE PATHOLOGIQUE : Biopsie de l'œsophage : carcinome épidermoïde peu différencié.
+ECOENDOSCOPIE : Dans le tiers moyen de l'œsophage (30 cm de l'arcade dentaire), une lésion mamelonnée d'environ 4 cm est visualisée. En échographie, elle correspond à un épaississement pariétal hypoéchogène, avec perte de structure dans les couches 1 (7 mm), qui occupe un tiers de la circonférence de l'œsophage.
+Il présente un bord externe régulier sans signe d'atteinte de l'adventice (stade T2).
+Adénopathie arrondie immédiatement périlésionnelle mesurant 10x18mm avec un centre nécrotique, d'aspect malin. Il n'y a pas de liquide libre régional. Résumé diagnostique : néoplasie de l'œsophage moyen. Stade T2. Adénopathie périlésionnelle. Stade N1.
+
+Diagnostic
+- Carcinome épidermoïde peu différencié de l'œsophage T2N1Mx
+- Nodule pulmonaire dans un DSL non spécifique
+- Carcinome épidermoïde de l'amygdale droite, T2N1M0, opéré et traité par chimio-radiothérapie adjuvante en rémission complète
+
+Traitement
+Le cas a été discuté avec le service de radiologie et un examen des tomodensitométries précédentes a été effectué, montrant la présence du nodule depuis 2008. En raison de son apparence non spécifique et de sa stabilité dans le temps, un suivi radiologique étroit a été décidé. De nouveaux examens tomodensitométriques de contrôle ont été réalisés en juillet et en octobre 2015, sans modification de la lésion.
+Un traitement a été instauré en intention radicale avec une chimiothérapie (carboplatine AUC 2 et paclitaxel 60 mg/m2 par semaine) plus une radiothérapie concomitante (25 séances avec une dose totale de 5000 Gy, 200 cGy par séance), qui a été administrée entre novembre 2015 et janvier 2016.
+Les complications comprenaient des difficultés occasionnelles de déglutition et une septicémie d'origine respiratoire sans isolement microbiologique, nécessitant une admission à l'hôpital.
+
+Évolution
+Six à huit semaines après la fin du traitement anticancéreux, un scanner de réévaluation a été réalisé, montrant une consolidation pseudonodulaire accrue dans le LSD avec une opacité en verre dépoli persistante (images 3 et 4). Une aspiration à l'aiguille fine (AAF) de la lésion a été réalisée sous guidage tomodensitométrique et l'examen anatomopathologique s'est révélé positif pour les cellules malignes avec un matériel constitué de groupes tridimensionnels atypiques avec des nucléoles, compatibles avec un adénocarcinome. L'immunohistochimie a montré que les cellules étaient positives pour CK7 et négatives pour p63, suggérant une origine pulmonaire.
+Un PET/CT a été réalisé et a montré une réponse métabolique complète de la lésion œsophagienne connue, une stabilité métabolique de la lésion dans l'apex pulmonaire droit, sans changement de taille et d'adénopathie pré-vasculaire (SUV max. 2,0) et dans le médiastin supérieur.
+Au vu de ces résultats, l'étude a été complétée par une bronchoscopie et des épreuves fonctionnelles respiratoires et le patient a été adressé au service de chirurgie thoracique de l'hôpital Puerta de Hierro de Madrid pour une évaluation chirurgicale.
+Une décision thérapeutique définitive est actuellement en attente.

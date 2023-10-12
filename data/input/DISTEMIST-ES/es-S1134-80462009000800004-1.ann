@@ -1,0 +1,10 @@
+T1	pathologie 120 156	isquemia por arteriopatía periférica
+T2	pathologie 427 452	dolor en miembro fantasma
+T3	pathologie 1545 1553	lesiones
+T4	pathologie 2227 2253	dolor del miembro fantasma
+T5	pathologie 2571 2580	deprimido
+#1	SNOMED T4	5771000119106
+#2	SNOMED T1	233958001
+#3	SNOMED T2	59603003
+#4	SNOMED T5	35489007
+#5	SNOMED T3	157670007

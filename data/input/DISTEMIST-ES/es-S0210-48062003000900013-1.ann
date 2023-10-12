@@ -1,0 +1,16 @@
+T1	pathologie 26 33	fumador
+T2	pathologie 125 148	infección urinaria baja
+T3	pathologie 151 167	cólico nefrítico
+T4	pathologie 492 506	adenocarcinoma
+T5	pathologie 585 599	patología ósea
+T6	pathologie 984 1002	retención de orina
+T7	pathologie 1496 1570	uretra peneana repleta de formaciones mamelonadas de 0,5-1 cm, polipoideas
+T8	pathologie 2362 2376	adenocarcinoma
+#1	SNOMED T6	267064002
+#2	SNOMED T2	68566005
+#3	SNOMED T3	7093002
+#4	SNOMED T8	443961001
+#5	SNOMED T1	77176002
+#6	SNOMED T4	443961001
+#7	SNOMED T5	76069003
+#8	SNOMED T7	249300001

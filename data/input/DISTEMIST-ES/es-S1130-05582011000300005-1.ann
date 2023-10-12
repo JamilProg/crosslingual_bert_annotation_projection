@@ -1,0 +1,20 @@
+T1	pathologie 41 64	cáncer de borde lingual
+T2	pathologie 517 526	carcinoma
+T3	pathologie 565 572	Tumores
+T4	pathologie 612 659	infiltración del músculo esternocleidomastoideo
+T5	pathologie 932 944	masa tumoral
+T6	pathologie 1446 1524	metástasis de carcinoma escamoso pobremente diferenciado en 4 de 7 de ganglios
+T7	pathologie 1546 1574	infiltración extraganglionar
+T8	pathologie 2011 2028	toxicidad crónica
+T9	pathologie 2030 2054	fibrosis tejidos blandos
+T10	pathologie 2101 2107	Cáncer
+#1	SNOMED T1	371974006
+#2	SNOMED T8	75478009
+#3	SNOMED T9	263756000
+#4	SNOMED T2	722688002
+#5	SNOMED T4	94425007
+#6	SNOMED T6	1671000119100
+#7	SNOMED T7	2960001000004100
+#8	SNOMED T10	363346000
+#9	SNOMED T3	189542002
+#10	SNOMED T5	55342001

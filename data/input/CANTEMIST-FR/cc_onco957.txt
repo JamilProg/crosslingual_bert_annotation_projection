@@ -1,0 +1,27 @@
+Anamnèse
+Le patient est un homme de 44 ans, sans allergie connue, avec des antécédents de consommation de cocaïne, d'ecstasy, de haschich et d'alcool depuis 17 ans. Il a commencé un traitement au clométhiazole pour le sevrage alcoolique 4 mois avant le début de la maladie oncologique. Quelques semaines après le début du traitement, le patient a présenté une instabilité de la marche avec latéralisation gauche associée à une incontinence urinaire occasionnelle, symptômes qui ne se sont pas améliorés malgré l'arrêt du traitement. Un scanner sans contraste du crâne a été réalisé, qui n'a révélé aucune lésion expliquant les symptômes, et l'état a donc été attribué au sevrage alcoolique.
+En février 2016, le patient a présenté une crise tonico-clonique et une IRM cérébrale a été réalisée, qui a révélé un processus expansif frontal gauche compatible avec un glioblastome multiforme. Une résection complète de la lésion a alors été réalisée et l'anatomie pathologique a permis de diagnostiquer un glioblastome multiforme, sans preuve de mutation IDH1 R132H, ATRX ou BRAF.
+Après une résection complète, un traitement adjuvant a été mis en place avec du témozolamide et une radiothérapie selon le schéma STUPP, et la radiothérapie s'est achevée en mai 2016. Dans l'IRM de contrôle de juin 2016, une lésion suggérant une démyélinisation post-radicalaire ou une infiltration tumorale non capturante a été décrite, de sorte que le témozolamide adjuvant a été repris et terminé en décembre 2016, avec une maladie stable observée dans l'IRM de contrôle.
+La patiente a été admise en janvier 2017 pour l'étude de symptômes constitutionnels associés à de multiples adénopathies latérocervicales bilatérales d'une durée de 3 semaines.
+
+Examen physique
+Adénopathies cervicales multiples et bilatérales attachées à des plans profonds non mobiles. Déviation de la marche vers la gauche. Force et sensibilité préservées dans les 4 membres. Romberg négatif.
+
+Tests complémentaires
+" NFS février 2017 : pas d'altération pertinente de l'hémogramme ou de la biochimie.
+"VIH, CMV et HSV 1-2 négatifs.
+" IRM cérébrale février 2017 : progression de la tumeur à la fois dans le site chirurgical et dissémination leptoméningée étendue.
+" Cytologie du LCR février 2017 : négatif pour les cellules malignes.
+" PET CT février 2017 : mise en évidence de multiples lésions hypermétaboliques infiltrantes dans le tissu cellulaire sous-cutané au niveau de la calotte, IV ventricule. L'étude décrit également de multiples adénopathies latérocervicales bilatérales.
+" Scanner thoraco-abdominal de février 2017 : pas d'images évocatrices d'une néoplasie dans une autre région.
+" Biopsie de l'adénopathie latérocervicale gauche février/2017 : compatible avec une métastase de tumeur gliale de haut grade.
+
+Diagnostic
+Métastases ganglionnaires cervicales bilatérales d'un glioblastome multiforme.
+
+Traitement
+Voir l'évolution.
+
+Évolution
+Lors de l'admission, une IRM cérébrale a été réalisée et a montré une progression de la tumeur dans le site chirurgical, ainsi qu'une dissémination leptoméningée étendue à la fois au niveau intracrânien et dans la moelle épinière. Une ponction lombaire a été effectuée et la cytologie s'est révélée négative pour les cellules néoplasiques. Les sérologies du VIH, de la syphilis, de l'EBV et de l'HSV 1-2, qui pourraient expliquer les adénopathies, étaient négatives. Parallèlement, une tomodensitométrie cervicale a été réalisée et a mis en évidence une lymphadénopathie adénopathique.
+Un scanner cervical a été réalisé et a identifié des adénopathies latérocervicales bilatérales de plus de 1 cm évoquant une tumeur maligne. L'étude a donc été complétée par un scanner TEP qui a confirmé la présence de multiples adénopathies hypercapillaires au niveau latérocervical bilatéral. Sur la base de ces résultats, une adénopathie latérocervicale gauche a été biopsiée, compatible avec une métastase d'une tumeur gliale de haut grade avec une nécrose tumorale marquée. Après le diagnostic et compte tenu de la détérioration clinique importante, il a été décidé de donner la priorité au traitement symptomatique.

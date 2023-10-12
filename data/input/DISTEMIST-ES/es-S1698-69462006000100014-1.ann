@@ -1,0 +1,14 @@
+T1	pathologie 96 117	tercer molar incluido
+T2	pathologie 295 311	hábito tabáquico
+T3	pathologie 328 335	enólico
+T4	pathologie 428 443	cáncer de colon
+T5	pathologie 908 926	Carcinoma Escamoso
+T6	pathologie 1070 1169	lesión neoformativa destructiva en la tomografía computerizada afectando a cuerpo y rama mandibular
+T7	pathologie 1182 1204	adenopatías cervicales
+T8	pathologie 1277 1309	patología neoplásica a distancia
+T9	pathologie 1512 1514	M0
+T10	pathologie 1986 2019	Carcinoma Escamoso Queratinizante
+T11	pathologie 2049 2095	ganglios extirpados con invasión extracapsular
+T12	pathologie 2255 2303	tumoraciones cervicales compatibles con recidiva
+T13	pathologie 2333 2356	adenopatías bilaterales
+T14	pathologie 2690 2719	recidiva masiva loco-regional

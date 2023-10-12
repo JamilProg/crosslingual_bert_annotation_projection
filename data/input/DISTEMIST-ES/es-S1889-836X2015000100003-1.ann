@@ -1,0 +1,40 @@
+T1	pathologie 134 189	enfermedad ósea de Paget monostótica en radio izquierdo
+T2	pathologie 334 346	osteoporosis
+T3	pathologie 1200 1258	hematoma en dorso de la mano y tercio distal del antebrazo
+T4	pathologie 1423 1431	fractura
+T5	pathologie 1559 1568	contusión
+T6	pathologie 1588 1596	fractura
+T7	pathologie 1628 1648	lesión hiperostótica
+T8	pathologie 1792 1800	fractura
+T9	pathologie 1979 1999	lesión hiperostótica
+T10	pathologie 2027 2067	fractura en el hueso ganchoso y trapecio
+T11	pathologie 2208 2236	lesión radiológica del radio
+T12	pathologie 2338 2352	melorreostosis
+T13	pathologie 2523 2547	enfermedad ósea de Paget
+T14	pathologie 2648 2662	melorreostosis
+T15	pathologie 2940 2950	deformidad
+T16	pathologie 3029 3049	se fracturó el radio
+T17	pathologie 3088 3096	fractura
+T18	pathologie 3112 3122	deformidad
+T19	pathologie 3203 3215	hiperostosis
+T20	pathologie 3278 3363	hiperostosis en el interior de la extremidad distal del radio y en el tercio proximal
+#1	SNOMED T1	203335006
+#2	SNOMED T2	64859006
+#3	SNOMED T4	72704001
+#4	SNOMED T5	425359009
+#5	SNOMED T6	72704001
+#6	SNOMED T7	254120004
+#7	SNOMED T8	72704001
+#8	SNOMED T9	254120004
+#9	SNOMED T10	85922006+74465000
+#10	SNOMED T12	44697002
+#11	SNOMED T13	2089002
+#12	SNOMED T14	44697002
+#13	SNOMED T16	12676007
+#14	SNOMED T19	254120004
+#15	SNOMED T20	128132009
+#16	SNOMED T3	385494008
+#17	SNOMED T15	417893002
+#18	SNOMED T18	417893002
+#19	SNOMED T11	429353004
+#20	SNOMED T17	72704001

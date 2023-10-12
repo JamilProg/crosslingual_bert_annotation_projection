@@ -1,0 +1,8 @@
+T1	pathologie 363 377	polihidramnios
+T2	pathologie 1300 1319	acidosis metabólica
+T3	pathologie 1752 1767	nefrocalcinosis
+T4	pathologie 2298 2313	nefrocalcinosis
+#1	SNOMED T3	48638002
+#2	SNOMED T4	48638002
+#3	SNOMED T2	59455009
+#4	SNOMED T1	86203003

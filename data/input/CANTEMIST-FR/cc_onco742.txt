@@ -1,0 +1,28 @@
+Anamnèse
+Une femme de 41 ans sans antécédents personnels intéressants et avec des antécédents familiaux de cancer du sein (1 tante maternelle et 1 tante paternelle) a consulté en janvier 2013 pour un lumpome dans le sein droit. Un carcinome mammaire infiltrant de grade 2 cT2N+ multicentrique, luminal de sous-type histologique B/HER-2 négatif lui a été diagnostiqué. Elle a reçu un traitement de chimiothérapie néoadjuvante par docétaxel 100 mg/m2 tous les 21 jours pendant 4 cycles, suivi de fluorouracil 600 mg/m2 + épirubicine 90 mg/m² + cyclophosphamide 600 mg/m² tous les 21 jours pendant 4 cycles. Le traitement s'est terminé en août 2013 avec une bonne tolérance et, en août 2015, une mastectomie et une lymphadénectomie ont été réalisées (ypT1c pN2). Elle a débuté une hormonothérapie en septembre 2013 avec 20 mg de tamoxifène par jour et de la goséréline tous les trimestres.
+En août 2014, elle a consulté pour des douleurs osseuses et une IRM de la colonne vertébrale a montré une maladie osseuse métastatique multiple au niveau des vertèbres. Un traitement de première intention de la maladie métastatique a été mis en place avec du létrozole et de l'acide zolédronique. En octobre 2014, une fixation vertébrale a été réalisée de T5 à L3.
+En octobre 2015, suite à une dyspnée soudaine, un diagnostic de thromboembolie pulmonaire a été posé. Lors de l'admission, une étude des cytopénies a également été réalisée et une infiltration de la moelle osseuse due à un carcinome a été trouvée dans une biopsie de la moelle osseuse. Elle est sortie de l'hôpital anticoagulée avec de l'énoxaparine de bas poids moléculaire à la dose de 1,5 mg/kg/24 heures (pour un poids de 50 kg, elle a reçu 80 mg d'énoxaparine/24 heures).
+
+Examen physique
+Au moment de notre évaluation, elle avait un état de performance de 1 et était eupnéique à l'air ambiant, avec une pâleur cutanéo-muqueuse. Le reste de l'examen physique n'a révélé aucune altération.
+Elle a présenté un épisode de rectorragies isolées sans lésions externes.
+
+Examens complémentaires
+" Analyses sanguines à l'admission : hémoglobine 10,6 g/dl (12,2-16,1), plaquettes 51 000/mcl (138 000-381 000), leucocytes 5 550/mcl, neutrophiles 2.620/mcl, érythroblastes 9,0 sur 1 000 leucocytes (0,0-1,0), clés 25,0 % (0,0-7,0), métamyélocytes 2,0 % (0,0-1,0), myélocytes 2,0 % (0,0-1,0).
+"Test sanguin de contrôle : leucocytes 9,19 x 10e3/mcl, hémoglobine 11,7 g/dl (12,2-16,1), plaquettes 26,0 x 10e3/mcl (138,0-381,0), neutrophiles 5,37 x 10e3/mcl (1,7-7,33), érythroblastes 8,0 pour 100 leucocytes (0,0-1,0), globules rouges 9,0 % (0,0-7,0), métamyélocytes 3,0 % (0,0-1,0). "Br 27,29 : 179 U/ml (0,0-38,6).
+
+Diagnostic
+Carcinome mammaire luminal B/HER négatif stade IV en raison d'une atteinte osseuse et d'une infiltration de la moelle osseuse :
+"Thrombopénie de grade 3.
+"Anémie de grade 1.
+Thromboembolie pulmonaire.
+
+Traitement
+La patiente nécessite la transfusion d'un pool de plaquettes en raison d'une thrombopénie de 27 000 plaquettes avec saignement actif, et la dose d'énoxaparine est réduite de moitié (40 mg/24 heures). Après explication des risques et bénéfices individualisés, elle consent à commencer une chimiothérapie en novembre 2015 avec du paclitaxel à une dose de 55 mg/m² pour une thrombopénie G3.
+
+Évolution
+Au cours des quatre premières perfusions de chimiothérapie, le patient a été surveillé plus étroitement en raison de la pancytopénie. Les complications comprenaient une asthénie de grade 2, une neutropénie de grade 3 (850/mcl) et une anémie de grade 3 (Hb 7,9 g/dl) ainsi qu'une thrombopénie de grade 4 (13 000 plaquettes/mcl) associée à une épistaxis. Il a également présenté un épisode de neutropénie fébrile qui a été traité en ambulatoire.
+Comme traitement de soutien, il a nécessité la transfusion de 2 concentrés de globules rouges à deux reprises, du filgrastim 300 et une transfusion de plaquettes pour des épisodes de thrombopénie de grade 4 associés à des saignements.
+Après 5 perfusions, une anémie de grade 2 a persisté (Hb 10,3 g/dl) et le nombre de plaquettes et de neutrophiles s'est normalisé. Il a reçu du paclitaxel à une dose de 70 mg/m² et les marqueurs tumoraux ont diminué (Br 27,29 de 70,3 U/ml).
+Le traitement s'est poursuivi jusqu'en février à la même dose avec une bonne tolérance, mais lors de l'évaluation par tomodensitométrie, de nouvelles métastases hépatiques sont apparues et un traitement de seconde ligne a été commencé avec de la capécitabine à une dose de 1 000 mg/m²/12h. Il n'y a pas eu de nouveaux épisodes de pancytopénie.
+Finalement, après deux cycles de capécitabine, la patiente a présenté une détérioration clinique rapide secondaire à une infiltration hépatique massive et est décédée en mai 2016, 7 mois après le diagnostic d'infiltration de la moelle osseuse.

@@ -1,0 +1,14 @@
+T1	pathologie 37 56	pancolitis ulcerosa
+T2	pathologie 73 91	corticodependiente
+T3	pathologie 158 192	sobreinfección por citomegalovirus
+T4	pathologie 275 298	diarrea con sangre roja
+T5	pathologie 341 367	anemia ferropénica crónica
+T6	pathologie 433 452	pancolitis ulcerosa
+T7	pathologie 1058 1093	catéter central por infección MARSA
+#1	SNOMED T1	444548001
+#2	SNOMED T2	95919007
+#3	SNOMED T3	28944009
+#4	SNOMED T7	473027008+282028001
+#5	SNOMED T4	95545007
+#6	SNOMED T5	87522002
+#7	SNOMED T6	444548001

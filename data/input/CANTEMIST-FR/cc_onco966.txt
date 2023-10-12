@@ -1,0 +1,39 @@
+Anamnèse
+Patiente de 37 ans suivie dans le service ambulatoire d'oncologie médicale.
+En ce qui concerne les antécédents médicaux de la patiente, il convient de souligner ses antécédents oncologiques :
+"La patiente a été diagnostiquée avec un mélanocytome de grade intermédiaire en mars 2008. Elle a été opérée en avril et il a été décidé, étant donné qu'il s'agissait d'une tumeur de bas grade, de ne pas administrer de traitement adjuvant.
+"En octobre 2009, une récidive locale de la lésion a été découverte et il a alors été décidé de traiter par radiochirurgie (RDC) et de poursuivre le suivi, après avoir effectué des examens complémentaires qui ont permis d'exclure d'autres foyers de la maladie.
+"En avril 2010, une nouvelle récidive a été détectée et la RDC a de nouveau été choisie.
+"En novembre 2013, une progression radiologique minime a de nouveau été observée mais, étant donné que la patiente était asymptomatique, un suivi étroit et une approche attentiste ont été décidés.
+"La patiente n'a signalé aucun symptôme jusqu'en décembre 2014, date à laquelle elle a eu une crise d'épilepsie au cours du troisième trimestre de sa première grossesse. L'imagerie par résonance magnétique (IRM) du cerveau a montré une progression évidente de la masse au niveau suprasellaire ainsi que plusieurs foyers de captation dans la dure-mère, mais sans dissémination leptoméningée. Enfin, compte tenu des symptômes de la patiente, il a été décidé de procéder à une résection chirurgicale de la tumeur plus importante et, en mars 2015, une craniotomie supra-orbitaire a été pratiquée.
+"Étant donné qu'il s'agissait d'une récidive étendue au niveau crânien et compte tenu des antécédents de plusieurs lignes de traitement avec de multiples récidives de la maladie, les collègues neurochirurgiens ont décidé de référer la patiente pour une évaluation par l'oncologie médicale. La biopsie de la seconde pièce opératoire a confirmé le diagnostic de mélanocytome cérébral de grade intermédiaire.
+Un méningiome pigmenté (dont le diagnostic différentiel a été jugé important en raison de l'accélération de la maladie avec la grossesse) ou d'autres néoplasmes pigmentés ont été exclus, de même que l'existence d'une maladie à distance. Compte tenu de toutes ces données, il a été décidé de ré-irradier la patiente avec 25 séances de radiothérapie (RT) holocrânienne et un suivi rapproché.
+"En avril 2016, le patient a été admis en neurochirurgie pour des maux de tête et des vomissements, qui se sont résolus avec un traitement aux corticostéroïdes. Au cours de l'admission, une nouvelle progression de la maladie a été confirmée. Il a donc été décidé de commencer un traitement au témozolamide (TMZ), et le premier cycle a été administré en mai 2015. Elle n'a reçu que deux cycles.
+Il n'y avait aucune preuve de lésions mélanotiques sur la peau ou à tout autre endroit, ni aucun autre antécédent d'intérêt.
+Concentrons-nous maintenant sur la maladie actuelle : la patiente est venue à notre clinique en évoquant une douleur continue d'intensité progressive dans l'hypochondre droit, évoluant depuis plusieurs semaines, ainsi qu'une détérioration neurologique. Elle est venue pour une évaluation avant le troisième cycle de TMZ. Son seul traitement était une cure descendante de corticostéroïdes, qui avait augmenté en raison de céphalées et d'une asthénie intense. Dans ces conditions, nous avons demandé une nouvelle IRM confirmant une nouvelle progression de la maladie et une tomodensitométrie montrant plusieurs lésions irrégulières compatibles avec des métastases. Il a alors été décidé de réaliser une biopsie d'une des lésions hépatiques, qui a confirmé la nature mélanique des lésions et donc la transformation maligne du mélanocytome en mélanome cérébral malin.
+
+Examen physique
+"L'examen abdominal a révélé une hépatomégalie de deux largeurs de doigt, avec douleur à la palpation superficielle, sans distension abdominale ni signes d'irritation péritonéale.
+"L'examen neurologique est normal, à l'exception d'une légère tendance à l'instabilité de la marche.
+"Le reste est sans particularité.
+
+Examens complémentaires
+IRM du cerveau en juillet 2016 : croissance d'une masse cérébrale parasellaire connue, avec hémorragie intralésionnelle, œdème périlésionnel important et effet de masse avec hernie uncal minime.
+Tomodensitométrie en juillet 2016 : multiples lésions hépatiques diffuses, la plupart petites, à l'exception d'une grande avec nécrose centrale, toutes évocatrices de métastases. Les autres ne présentaient aucun autre signe.
+Biopsie du foie en juillet 2016 : infiltration maligne avec des cellules fusiformes avec un pigment de mélanine abondant dans leur cytoplasme, un indice mitotique élevé et des foyers de nécrose tumorale, tous évocateurs de métastases de mélanome malin. BRAF natif. Immunohistochimie : positive pour HMB45, MELAN A et S-100. KI 67 : 10-15 %. Négativité vis-à-vis de l'hépatocyte.
+TDM 26/05/2017 : progression des métastases hépatiques avec augmentation du nombre et de la taille, entraînant une hépatomégalie secondaire. Apparition d'une ascite à prédominance périhépatique. Apparition de lésions multiples au niveau pulmonaire bilatéral évoquant des métastases.
+Analyses sanguines : le taux de LDH était de 1354 U/l au moment du diagnostic de la transformation maligne (16/04/2015), diminuant jusqu'à une valeur minimale de 315 avec le traitement par pembrolizumab et remontant à un maximum de 7186 U/l au moment de la progression (26/05/2017).
+
+Diagnostic
+Sur la base de toutes les données disponibles, la transformation maligne d'un mélanocytome cérébral en mélanome malin est confirmée.
+
+Traitement
+Comme cela a déjà été mentionné tout au long de la présentation du cas, la patiente a été opérée par la neurochirurgie, a dû subir une RDC à deux reprises en raison d'une récidive de la tumeur et, enfin, une nouvelle intervention chirurgicale.
+Dès que nous avons eu connaissance du cas, l'oncologie médicale a prescrit une RT holocrânienne (25 séances) et du TMZ, dont elle n'a subi que 2 cycles.
+Une fois la transformation maligne confirmée, nous avons commencé un traitement au pembrolizumab, dont elle a reçu 12 doses. Après confirmation de la progression lors de l'évaluation, la patiente attend l'initiation de l'ipilimumab.
+
+Évolution
+La patiente a débuté le traitement par pembrolizumab le 14/09/2016. Depuis lors, l'amélioration clinique était évidente, avec un bon contrôle de la douleur dans l'hypochondre droit et aucun nouvel épisode de détérioration neurologique, permettant de retirer progressivement la corticothérapie, avec une amélioration de l'habitus cushingoïde secondaire.
+Lors de l'évaluation après 8 cycles, peu de réponse a été détectée au niveau hépatique, mais l'amélioration symptomatique du patient, la stabilité au niveau cérébral et la normalisation des LDH étaient remarquables, de sorte qu'il a été décidé de poursuivre avec 4 cycles supplémentaires.
+Lors de la dernière évaluation, en juin 2017, une progression des lésions hépatiques et de la lésion cérébrale a été observée, ainsi que l'apparition de nodules pulmonaires évocateurs de métastases. Par conséquent, le patient attend actuellement le début d'une nouvelle ligne de chimiothérapie (QT) avec ipilimumab.
+Néanmoins, le patient ayant été diagnostiqué en mars 2008, la survie a été prolongée de 9 ans grâce aux différentes options de prise en charge qui ont été envisagées. Nous devons souligner l'importance d'un traitement et d'un suivi conjoints, en collaborant avec des collègues d'autres spécialités et en discutant des cas au sein du comité des tumeurs pour assurer une prise en charge multidisciplinaire adéquate.

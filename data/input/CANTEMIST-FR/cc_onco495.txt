@@ -1,0 +1,35 @@
+Anamnèse
+Homme âgé de 36 ans au moment du diagnostic, hypertension diagnostiquée au cours du processus, profession de charpentier, fumeur actif de 30 paquets-années, pas de traitement médical régulier, pas d'autres expositions environnementales ou professionnelles.
+Le symptôme initial, une toux de fréquence modérée et d'intensité productive blanchâtre, était associé à des épisodes d'hémoptysie légère, d'une évolution de trois mois.
+En février 2014, il a présenté des symptômes de dyspnée au moindre effort, un œdème facial, une circulation collatérale et un œdème dans la région slaviculaire, et on a diagnostiqué un syndrome de la veine cave supérieure. Il a nécessité la mise en place d'un stent vasculaire et a commencé l'étude.
+
+Examen physique
+"Rougissement du visage, associé à un œdème orbital, pas de signe de ptose des paupières.
+"Palpation des ganglions lymphatiques cervicaux, principalement à droite, de consistance pierreuse.
+"Pas de palpation d'autres ganglions lymphatiques.
+
+Examens complémentaires
+"Fibrobronchoscopie (FBC) : oedématisation au niveau de la bronche gauche.
+"Biopsie : carcinome épidermoïde peu différencié : ALK -, EGFR -.
+"Scintigraphie osseuse : pas de preuve de lésions métastatiques au niveau osseux.
+
+Diagnostic
+Carcinome épidermoïde du poumon AJCC 7 E IV B (cT4N3M1 adénopathies axillaires bilatérales).
+
+Traitement
+L'inclusion dans l'essai clinique CA 184-04, une combinaison de carboplatine/paclitaxel/Ipilimumab, a été proposée comme la meilleure option thérapeutique, répondant à tous les critères d'inclusion et à aucun des critères d'exclusion, en mars 2014.
+Compte tenu de la charge tumorale, ainsi que d'un retard dans le début du traitement et des complications de la patiente, il a été décidé de débuter le traitement par une chimiothérapie conventionnelle, après signature du formulaire de consentement éclairé, le premier cycle de chimiothérapie par cisplatine/vinorelbine le 24 mars 2014, avec une tolérance acceptable.
+Après le premier cycle, on a constaté une diminution de la taille des adénopathies cervicales et axillaires, en maintenant une réponse partielle comme meilleure réponse après 6 cycles.
+
+Evolution
+Au cours du suivi, en juin 2015, la maladie a progressé au niveau pulmonaire et ganglionnaire, et une nouvelle biopsie a montré une hétérogénéité tumorale présente dans les tumeurs et la recherche d'une éventuelle cible thérapeutique ; après la biopsie, un carcinome indifférencié persistait.
+Compte tenu de la progression de la maladie, une deuxième ligne de traitement par immunothérapie (nivolumab) a été mise en place à titre compassionnel.
+Après 6 cycles de traitement, on a constaté une amélioration considérable de l'état général, ECOG 1, une diminution de la dose de morphine, une amélioration de la dyspnée, une tolérance adéquate au traitement : peu d'effets secondaires, à l'exception de la diarrhée, qui a été contrôlée avec du lopéramide.
+Après 30 cycles de traitement, réponse partielle et excellente tolérance au traitement. A 55 cycles, ECOG 0, reprise du travail.
+Compte tenu du maintien d'une bonne réponse cervicale, une approche radicale a été envisagée. Le cas a été discuté au sein du comité multidisciplinaire des tumeurs, où il a été décidé de réaliser un traitement chirurgical.
+Le 22 décembre 2017, une chirurgie a été réalisée par thoracotomie + lobectomie supérieure droite + prélèvement ganglionnaire avec rapport histopathologique de nécrose et foyers de calcification, bordures sans lésions, adénopathie de groupe VII sans lésion tumorale.
+Reprise du nivolumab en février 2018, présentant, depuis la chirurgie, une asthénie G2 et des douleurs généralisées.
+En juin 2018, elle est admise en oncologie médicale pour péricardite aiguë idiopathique, épanchement péricardique modéré en résolution, réalisant une étude immunitaire, positive pour les anticorps antinucléaires ANA 1/320 et les anticorps anti-SSa/Ro52, et négative pour le reste des composants de l'immunité tels que les anticorps anti-muscle lisse et les anticorps DsDNA (spécifiques du lupus érythémateux disséminé).
+À l'heure actuelle, aucun test ne satisfait à lui seul aux exigences d'une capacité de discrimination adéquate pour le LED, car l'augmentation de la spécificité se traduit par une diminution significative de la sensibilité.
+Après une amélioration clinique grâce à un traitement symptomatique au paracétamol, et compte tenu également de l'amélioration clinique de l'épanchement avec le traitement, elle est classée comme péricardite.
+Elle est actuellement en cours d'examen.

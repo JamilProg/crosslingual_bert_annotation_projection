@@ -1,0 +1,36 @@
+T1	pathologie 37 58	hipertensión arterial
+T2	pathologie 60 79	hipercolesterolemia
+T3	pathologie 82 102	hipertrigliceridemia
+T4	pathologie 129 168	tumor vesical infiltrante de alto grado
+T5	pathologie 170 205	Carcinoma de células transicionales
+T6	pathologie 218 235	Carcinoma in situ
+T7	pathologie 351 370	Carcinoma urotelial
+T8	pathologie 427 452	sepsis de origen urinario
+T9	pathologie 637 657	hipoacusia bilateral
+T10	pathologie 917 927	hipoacusia
+T11	pathologie 956 981	cofosis de oído izquierdo
+T12	pathologie 1035 1075	carácter neurosensorial de la hipoacusia
+T13	pathologie 1224 1247	enfermedades sistémicas
+T14	pathologie 1249 1275	infecciones intracraneales
+T15	pathologie 1278 1290	traumatismos
+T16	pathologie 1307 1317	hipoacusia
+T17	pathologie 1389 1402	shock séptico
+T18	pathologie 1544 1554	hipoacúsia
+#1	SNOMED T12	60700002
+#2	SNOMED T1	38341003
+#3	SNOMED T2	13644009
+#4	SNOMED T10	15188001
+#5	SNOMED T3	302870006
+#6	SNOMED T9	95820000
+#7	SNOMED T11	473422006
+#8	SNOMED T4	399326009
+#9	SNOMED T18	15188001
+#10	SNOMED T8	721104000
+#11	SNOMED T14	363166002
+#12	SNOMED T17	76571007
+#13	SNOMED T5	27090000
+#14	SNOMED T6	68956006
+#15	SNOMED T7	27090000
+#16	SNOMED T13	264578000
+#17	SNOMED T15	417746004
+#18	SNOMED T16	15188001

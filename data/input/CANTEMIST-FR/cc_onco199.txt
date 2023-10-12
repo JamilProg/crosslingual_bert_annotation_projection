@@ -1,0 +1,30 @@
+Anamnèse
+Homme âgé de 63 ans, ex-fumeur depuis 14 ans (60 paquets/an), hypertendu traité par hydrochlorothiazide/telmisartan une fois par jour.
+
+Antécédents oncologiques : opéré en août 2012 pour une néoplasie rénale gauche, une néphrectomie radicale a été réalisée, sans complication chirurgicale. L'anatomie pathologique (AP) a rapporté une lésion nodulaire bien définie de 2,7 cm de plus grand diamètre ; l'étude immunohistochimique (IHC) a montré une forte expression positive pour CK7 et CK Cam 5.2, le tout compatible avec un carcinome papillaire à cellules claires multifocal avec des zones étendues de nécrose, grade 2 de Fuhrman. Comme il s'agissait d'une tumeur indolente, il a été décidé d'effectuer des contrôles semestriels dans le service d'urologie, sans aucun signe de récidive jusqu'en décembre 2013 (tomodensitométrie abdominale).
+
+La maladie actuelle a débuté en mars 2014, lorsque le patient s'est présenté au service des urgences pour une toux avec expectoration hémoptotique limitée d'une durée d'une semaine et un syndrome constitutionnel d'un mois.
+
+Examen physique
+Bon état général, pâleur cutanéo-muqueuse, eupnéique au repos, hémodynamiquement stable. L'auscultation pulmonaire est conservée, sans bruits surajoutés ; à l'abdomen, cicatrice de lombotomie gauche, membres sans œdème. Le reste est normal.
+
+Tests complémentaires
+Le patient a été admis au service de pneumologie pour compléter l'étude :
+"NFS : hémoglobine 7,7 g/dl, leucocytes 6 300 (lymphocytes 1 000), le reste sans altération.
+"Scanner thoracique : masse solide à contours lobulés mesurant 70 x 70 mm dans le médiastin postérieur, centrée dans la région sous-carénale, pénétrant dans la bronche droite ; elle est également sténosée et oblitère la bronche intermédiaire. Adénomégalie hilaire droite jusqu'à 14 mm.
+"PET-CT scan : masse hypermétabolique bilobée et irrégulière de 7 cm au niveau subcarinal et hilaire droit, compatible avec une masse néoplasique, sans que l'on puisse discerner s'il s'agit d'un conglomérat adénopathique ou d'une lésion bronchique primitive.
+"Deux bronchofibroscopies ont été réalisées : la cytologie indiquait un carcinome, mais les biopsies n'étaient pas diagnostiques.
+"Le cas a été présenté à la réunion du comité multidisciplinaire de gestion des tumeurs thoraciques et il a été décidé de procéder à une médiastinoscopie diagnostique, compte tenu du dilemme suivant : la masse pouvait-elle être une deuxième tumeur primaire ou une métastase métachrone de la tumeur précédente ? Une médiastinoscopie a été réalisée avec biopsie de l'adénopathie sous-carénale. Les rapports du PA : métastase de carcinome, IHC avec positivité pour la vimentine, CD 10 et PAX 8 suggérant une origine rénale.
+
+Diagnostic
+Métastase médiastinale d'un carcinome rénal primaire.
+
+Traitement
+En juin 2013, elle a commencé une chimiothérapie dans le cadre d'un essai clinique, recevant 800 mg/jour de pazopanib, avec des évaluations mensuelles.
+
+Évolution
+En août 2013, il a été admis à l'hôpital pour une infection respiratoire non condensante, avec des cultures d'expectoration positives pour Stenotrophomonas maltophilia, recevant un traitement antibiotique spécifique selon l'antibiogramme (sensibilité à l'amoxicilline/acide clavulanique et au sulfaméthoxazole/triméthoprime), avec un suivi conjoint avec l'unité de pathologie infectieuse.
+Lors de l'admission, un scanner a été réalisé (selon le protocole de l'essai clinique) qui a montré une diminution de la taille de la masse médiastinale infracarinaire, avec présence de bulles à l'intérieur de celle-ci et une augmentation de la taille de l'adénopathie iliaque commune gauche et de l'adénopathie iliaque externe.
+Étant donné la persistance des symptômes respiratoires et le fait que le patient déclarait s'étouffer chaque fois qu'il ingérait un aliment, avec une crise de toux subséquente, une radiographie du thorax a été réalisée, montrant une condensation basale droite (non visualisée auparavant). Suspectant une fistule œsophagienne, une endoscopie gastro-intestinale supérieure a été demandée, qui a révélé une compression extrinsèque ulcérée de 5 cm de long dans le tiers moyen de l'œsophage, pour laquelle une prothèse œsophagienne a été mise en place en même temps. Après une amélioration progressive des symptômes, le patient est sorti de l'hôpital.
+Le pazopanib a été repris et reçu pendant 2 mois supplémentaires ; cependant, malgré la bonne réponse radiologique, l'état général du patient s'est progressivement dégradé (ECOG 4), raison pour laquelle il a été décidé d'arrêter le traitement fin novembre 2014.
+Finalement, la patiente est décédée en décembre 2014, 7 mois après le diagnostic de récidive.

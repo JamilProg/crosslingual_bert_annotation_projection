@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 49 ans, avec des antécédents personnels d'atrophie testiculaire gauche secondaire à une orchi-épididymite dans l'enfance. Fumeur depuis l'âge de 14 ans, 1 paquet par jour. Vasectomie en février 1999. Pas d'antécédents familiaux intéressants.
+Admise au service de médecine interne le 27/10/2013 pour syndrome constitutionnel, orchite et fièvre.
+Elle a rapporté une douleur lombaire sévère irradiant vers le membre inférieur droit qui n'a pas cédé avec l'analgésie de 3e étape. Après avoir réalisé les études et les examens complémentaires pertinents, un diagnostic de néoplasie testiculaire droite (tumeur non séminomateuse probable) a été posé, avec une atteinte étendue des ganglions lymphatiques rétropéritonéaux.
+
+Examen physique
+Impression de mauvais état général. ECOG 2-3. Pâleur cutanéo-muqueuse intense. Cachexie sévère.
+Tumeur d'environ 6 cm au niveau du testicule droit. Œdème associé du membre inférieur droit.
+
+Tests complémentaires
+" Marqueurs tumoraux 29/10/2013 : alpha-fœtoprotéine 21,58 UI/mL [0,00-10,00].
+"Tomodensitométrie thoraco-abdominale (07/11/2013) : masse hétérogène d'environ 6,5 cm de diamètre maximal remplaçant le testicule droit. Masse rétropéritonéale d'environ 13 x 8 cm allant des vaisseaux rénaux droits aux vaisseaux iliaques communs ipsilatéraux et avec sténose de la veine cave inférieure.
+La masse a déplacé la troisième portion duodénale et provoqué une hydronéphrose GII-III droite, avec infiltration du muscle psoas du même côté. Compte tenu de la suspicion d'une tumeur germinale non séminomateuse, une orchidectomie radicale droite a été pratiquée (11/11/13).
+"Résultats pathologiques : AP provisoire (11/11/2013) : tumeur germinale non séminomateuse, 6,5 cm de diamètre maximal avec invasion focale de la tunique vaginale et du rete testis.
+Présence d'une invasion vasculaire. Hydrocèle. Bord chirurgical du cordon spermatique respecté (pT2). L'échantillon a été envoyé à un autre hôpital pour un second avis. Rapport définitif le 18/12/13 : tumeur neuroectodermique primitive de type médulloépithéliome dans 95% de la tumeur associée à 5% de tumeur du sinus endodermique de type microkystique et de variété hépatoïde. Dans la composante neuroectodermique, des tubes neuraux primitifs, une différenciation des cellules gliales et ganglionnaires et une différenciation musculaire ont été identifiés. Aucun carcinome embryonnaire ou séminome n'a été observé. De petites zones de tumeurs des sinus endodermiques de type microkystique, les plus rares, et de type hépatoïde se sont entremêlées avec des PNET, ce qui justifierait la faible élévation de l'alpha-fœtoprotéine.
+
+Diagnostic
+Tumeur neuroectodermique primitive du médulloépithéliome d'origine testiculaire, stade IV, avec atteinte rétropéritonéale.
+
+Traitement
+Suite aux résultats du rapport anatomopathologique provisoire, il a été décidé de commencer un traitement par BEP (bléomycine 30 UI jour 1 et 8, étoposide 100 mg/m2 jour 1 à 5, cisplatine 20 mg/m2 jour 1 à 5), avec une tolérance clinique et hématologique médiocre, présentant une neutropénie fébrile de grade 4 et une thrombopénie de grade 4, nécessitant deux hospitalisations.
+Après confirmation histologique d'un PNET testiculaire de stade IV, le patient a reçu 5 cycles de chimiothérapie VAC/IE (vincristine 2 mg, doxorubicine 75 mg/m2, cyclophosphamide 1 200 mg/m2 en alternance avec ifosfamide 1 800 mg/m2 jour 1 à 5-étoposide 100 mg/m2 jour 1 à 5) avec une excellente tolérance clinique et analytique.
+
+Évolution
+Le scanner réalisé après le deuxième cycle a montré une réponse partielle avec une diminution de 50% de la masse rétropéritonéale (voir images). D'un point de vue clinique, la douleur a disparu sans nécessiter d'analgésie et l'œdème du membre inférieur droit a diminué. Après le 5e cycle, la maladie a été réévaluée par tomodensitométrie, montrant une maladie stable. Le cas a été discuté au sein du Comité de chirurgie générale et digestive, et la chirurgie a été rejetée et une radiothérapie a été envisagée, qu'elle a reçue avec une intention radicale entre le 22/7/2014 et le 3/9/2014 (60 Gy sur le volume de la tumeur).
+
+Le patient est resté stable avec une excellente qualité de vie jusqu'en décembre 2014, date à laquelle il a consulté pour des douleurs intenses dans la région lombaire droite, et les examens d'imagerie ont montré une abcédation de la masse rétropéritonéale avec une fistule duodénale secondaire au traitement reçu. L'admission dans le service de chirurgie générale et digestive a été décidée, et un pontage palliatif a été réalisé.
+Dernière tomodensitométrie en mars 2015, avec une maladie oncologique stable et une fistule non fonctionnelle.

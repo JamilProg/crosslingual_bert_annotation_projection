@@ -1,0 +1,23 @@
+Anamnèse
+
+Femme de 70 ans sans antécédents familiaux, fumeuse de 20 paquets-années, diagnostiquée avec un carcinome mammaire localisé en 2003 traité par chirurgie conservatrice et lymphadénectomie axillaire suivie d'une radiothérapie et de tamoxifène pendant 5 ans sans signe de récidive.
+En avril 2018, elle a présenté des métrorragies ; une hystéroscopie diagnostique a donc été réalisée et a révélé un carcinome papillaire séreux de grade 3 de l'endomètre ; les études d'extension ont montré une atteinte rétropéritonéale avec carcinomatose péritonéale. Après avoir évalué le cas lors d'une séance multidisciplinaire, il a été décidé de commencer un traitement par carboplatine 5-AUC + paclitaxel 175 mg/m2 pendant trois cycles et d'évaluer l'intervalle entre les interventions chirurgicales en fonction de la réponse.
+Après le premier cycle de traitement, la patiente s'est présentée aux urgences pour une semaine de vertiges, d'instabilité de la démarche et de vomissements répétés avec intolérance orale, et a été diagnostiquée comme souffrant de vertiges périphériques. Devant l'absence d'amélioration malgré le traitement au sulpiride, elle est retournée aux urgences et a été admise pour des examens complémentaires.
+Lors de l'admission, les analyses sanguines et la ponction lombaire ont permis d'exclure une origine métabolique/hydroélectrolytique et infectieuse, les examens d'imagerie n'ont montré aucune lésion à distance, et même un scanner a montré une réponse partielle après une première cure de traitement. Sur la base de ces résultats, un syndrome neurologique paranéoplasique a été suspecté et un échantillon de plasma a été envoyé au service d'immunologie, qui a détecté une positivité pour les anticorps anti-Yo par blotting et confirmée par immunofluorescence indirecte (coloration du cytoplasme des cellules de Purkinje). Au vu de ces résultats et des manifestations cliniques, le diagnostic de syndrome paranéoplasique de type dégénérescence cérébelleuse a été posé.
+
+Examen physique
+ECOG : 2. Langue courante et correcte. Pas de rigidité cervicale. Nerfs crâniens normaux. Motilité oculaire normale avec nystagmus vertical bilatéral. Pas de déficit sensoriel au niveau du visage. Force et sensibilité préservées dans les quatre extrémités. Dysmétrie gauche. Réflexe cutané plantaire indifférent. Ataxie du tronc.
+
+Tests complémentaires
+NFS sans altération. LCR avec pléiocytose et taux élevé d'IgG sans bandes oligoclonales. TDM et IRM du crâne sans altération ni signe de maladie métastatique encéphalique intra- ou extra-axiale. Tomodensitométrie thoraco-abdominale : réponse partielle avec diminution de la masse endométriale et des implants intrapéritonéaux.
+
+Diagnostic
+Adénocarcinome papillaire séreux de l'endomètre de stade IV dû à une carcinomatose péritonéale avec syndrome paranéoplasique de type dégénérescence cérébelleuse et anticorps anti-YO positifs.
+
+Traitement
+Un traitement à base de corticostéroïdes et d'immunoglobulines par voie intraveineuse a été instauré. Malgré le traitement, les symptômes du patient ne se sont guère améliorés, avec une ataxie persistante, une incapacité à se tenir debout et une diplopie lors de la dextroversion.
+
+Évolution
+Après sa sortie, elle est revenue à la clinique deux semaines plus tard avec une amélioration notable, récupérant de la force dans ses membres, marchant avec un déambulateur et capable de se lever seule de sa chaise. Compte tenu de l'apparition du syndrome paranéoplasique et du fait que la gynécologie n'allait pas pratiquer de chirurgie en attendant de voir l'évolution clinique de la patiente, nous avons décidé de modifier le schéma thérapeutique en carboplatine 4-AUC + doxorubicine liposomale pégylée 30 mg/m2.
+Après le deuxième cycle, la patiente a subi une nouvelle détérioration neurologique et s'est présentée à la clinique dans un fauteuil roulant, sans prendre de nourriture, avec un mode de vie au lit, un mauvais état général et une détérioration clinique avec des épisodes nocturnes d'agitation.
+Compte tenu de la situation de la patiente, possiblement liée au syndrome paranéoplasique comme la dégénérescence cérébelleuse, et de la détérioration clinique, nous n'avons pas recommandé de poursuivre le traitement par chimiothérapie et avons décidé de la suivre dans l'unité de soins palliatifs, et elle est décédée en octobre 2018.

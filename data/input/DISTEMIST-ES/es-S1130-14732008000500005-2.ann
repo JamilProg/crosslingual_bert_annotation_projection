@@ -1,0 +1,12 @@
+T1	pathologie 50 71	hipertensión arterial
+T2	pathologie 138 165	incontinencia de esfínteres
+T3	pathologie 168 201	trastorno de funciones superiores
+T4	pathologie 241 275	dilatación del sistema ventricular
+T5	pathologie 313 316	HCA
+T6	pathologie 585 631	hematoma en el hemisferio cerebeloso izquierdo
+#1	SNOMED T1	38341003
+#2	SNOMED T4	299718000
+#3	SNOMED T5	15139001
+#4	SNOMED T6	301765007
+#5	SNOMED T2	78459008
+#6	SNOMED T3	443265004

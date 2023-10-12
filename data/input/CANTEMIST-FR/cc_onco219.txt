@@ -1,0 +1,24 @@
+Anamnèse
+Une femme de 44 ans, jamais fumeuse et sans antécédents personnels ou familiaux intéressants.
+Ses antécédents oncologiques ont débuté en juin 2010 par des symptômes de toux qui ne se sont pas améliorés malgré un traitement symptomatique. Elle a été adressée à la médecine interne pour un examen, avec un diagnostic final de
+Adénocarcinome pulmonaire de stade IV en raison d'une atteinte pulmonaire bilatérale et d'une atteinte osseuse du corps vertébral D4, sans possibilité de déterminer le profil mutationnel en raison de l'absence d'échantillon malgré plusieurs tentatives infructueuses de biopsie non validée.
+
+Examen physique
+ECOG 1. Poids : 45 kg. Taille : 152 cm. Surface corporelle : 1,38 m2. Eupnéique au repos, saturation à 98% sans apport d'oxygène. Tachycardie sinusale à 110 bpm. Pas d'adénopathie périphérique palpable.
+Auscultation cardio-pulmonaire avec bon murmure vésiculaire. Abdomen et membres inférieurs sans anomalie. Examen neurologique normal.
+
+Tests complémentaires
+"Bilan sanguin complet (juin 2010) sans altération. CEA normal.
+"Tomodensitométrie axiale du crâne (juillet 2010) sans atteinte métastatique. Tomodensitométrie thoracique et abdominale au moment du diagnostic (juillet 2010) : masses coalescentes de morphologie irrégulière dans les deux lobes supérieurs et les bases pulmonaires, principalement à gauche. Multiples nodules pulmonaires de nature métastatique dans pratiquement toutes les localisations des différents lobes pulmonaires.
+Aucun signe d'adénomégalie ou d'atteinte pleurale. Lésions hépatiques hypodenses focales dans les segments IV et VIII présentant les caractéristiques d'hémangiomes. Lésion ostéoblastique vertébrale en D4 sans atteinte de la moelle épinière.
+"Fibrobronchoscopie (juillet 2010) sans résultat endobronchique.
+"Anatomie pathologique : étude cytologique compatible avec un adénocarcinome pulmonaire. Étude immunohistochimique : TTF1 positif, p63 négatif. EGFR/ALK non évaluable en raison de l'absence d'échantillon.
+
+Diagnostic
+Carcinome pulmonaire non à petites cellules (CPNPC) de stade IV (atteinte bilatérale des poumons et d'un seul os D4) EGFR/ALK inconnu.
+
+Traitement
+En l'absence de recherche de mutation au moment du diagnostic et face à la dégradation respiratoire, un traitement par chimiothérapie a été choisi dans le cadre d'un essai clinique dans son hôpital de référence selon le schéma Cisplatine + pemetrexed + bevacizumab x 4 cycles avec réponse partielle puis maintien du pemetrexed et du bevacuzimab x 2 cycles jusqu'en novembre 2010, date à laquelle une progression pulmonaire clinique et radiologique s'est produite. Une nouvelle tentative a alors été faite pour prélever un échantillon en vue d'une détermination mutationnelle, qui s'est avérée positive pour la mutation de l'EGFR (délétion 19), de sorte que le traitement a été commencé en décembre 2010 avec de l'erlotinib et de l'acide zolédronique avec une stabilisation de la maladie comme meilleure réponse, qui a été maintenue jusqu'en février 2015 sans toxicité pertinente et avec un intervalle sans progression de 50 mois. En mars 2015, compte tenu de l'apparition d'une toux et d'une dyspnée à l'effort modérée accompagnées d'une progression radiologique au niveau pulmonaire et osseux, elle a été adressée à notre hôpital pour l'évaluation d'un traitement dans le cadre d'un essai clinique en tant que nouvelle stratégie thérapeutique.
+
+L'évolution
+Compte tenu de l'histoire naturelle de la maladie, une nouvelle fibrobronchoscopie a été réalisée pour déterminer la mutation de résistance T790M, qui s'est révélée positive, et un traitement a été proposé dans le cadre d'un essai clinique avec un médicament anti-diana. En plus des atteintes pulmonaires et osseuses connues, les tests de dépistage ont révélé une atteinte cérébrale inconnue avec de multiples lésions focales hyperdenses dans pratiquement toutes les localisations des différents lobes, mais asymptomatiques, de sorte qu'une radiothérapie holocrânienne a été exclue et qu'un traitement par osimertinib 80 mg/jour en dose continue a été instauré dans le cadre de l'essai clinique. Dès le début du traitement, le patient a présenté une très bonne réponse clinique, avec une disparition complète des symptômes respiratoires 15 jours après le début du traitement (C1D15). Après avoir terminé 2 cycles de traitement, un CT scan de réévaluation a été demandé en juin 2015, qui a montré une réponse radiologique complète au niveau cérébral et une réponse partielle au niveau pulmonaire et osseux, qu'elle a maintenue à ce jour. À ce jour, la patiente a reçu un total de 16 cycles avec un intervalle sans progression de 14 mois, et est asymptomatique, avec une excellente tolérance au traitement (peau sèche de grade 1, mucosite nasale de grade 1, paronychie de grade 1 sur les mains et anorexie de grade 1 comme seuls effets indésirables) et vit une vie normale avec un ECOG 0.

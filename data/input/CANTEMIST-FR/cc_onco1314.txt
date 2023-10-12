@@ -1,0 +1,27 @@
+Anamnèse
+Homme de 52 ans, sans antécédents intéressants, diagnostiqué en août 2012 avec un adénocarcinome localement avancé du tiers distal de l'œsophage. Il a reçu un traitement néoadjuvant par chimiothérapie (QT) pendant deux cycles, selon un schéma de cisplatine (80 mg/m²) jour 1 et de 5-fluorouracile (1000 mg/m2) jours 1-4 en perfusion continue, simultanément à une radiothérapie (RT).
+Après le deuxième cycle de QT, elle a consulté le service ambulatoire d'oncologie médicale pour des vertiges, des diarrhées et une syncope.
+
+Examen physique
+ECOG 2 ; BP 95/60 mm Hg ; HR 107 bpm ; Sat. O2 95 % ; T.ª 37.8 ºC.
+Examen neurologique : aucun résultat notable. Examen cardiaque : tachycardie sinusale, pas de souffle. Auscultation pulmonaire : CVM, pas de bruits superposés. Abdomen : pas de signe de péritonisme. Membres inférieurs : pas d'œdème ni de signes de TVP.
+
+Examens complémentaires
+À l'admission, les analyses sanguines ont révélé des leucocytes de 1 400/mm3, des neutrophiles de 800/mm3 et des lymphocytes de 100/mm3. Le sédiment urinaire et les hémocultures étaient négatifs.
+La radiographie du thorax n'a révélé aucune anomalie pathologique.
+Tests de laboratoire de contrôle : leucopénie 1000/mm, neutrophiles 500/mm3, lymphocytes 100/mm3. Le reste était normal.
+Culture du PICC : négative.
+Echocardiogramme : négatif pour l'endocardite.
+Radiographie thoracique : densité cotonneuse bibasale accrue, compatible avec des foyers de consolidation pneumonique.
+Tomodensitométrie thoraco-abdominale : épaississement des septa interlobulaires et apparition d'un infiltrat en verre dépoli avec une distribution lobulaire confluente, prédominant dans les champs pulmonaires supérieurs. Au niveau abdominal, on observe un épaississement hypodense de la muqueuse de l'ensemble de l'œsophage, de l'estomac et du duodénum.
+PCR CMV : 63200 copies.
+
+Diagnostic
+À l'admission, un traitement antibiotique à large spectre a été instauré avec de la ceftacidime et de l'amikacine en raison d'une suspicion d'infection bactérienne et d'une récupération de la neutropénie. Par la suite, il a présenté une aggravation clinique et l'apparition d'une neutropénie fébrile sans foyer, de sorte qu'une antibiothérapie a été instaurée par pipéracilline-tazobactam, amikacine et vancomycine, suivie d'une couverture antifongique par caspofungine en raison de la persistance du syndrome fébrile.
+Compte tenu de l'évolution défavorable, des résultats analytiques (lymphopénie persistante) et de la tomodensitométrie, une infection virale à CMV a été suspectée et une PCR CMV a été demandée, qui s'est révélée positive.
+
+Traitement
+Compte tenu de ces résultats, un traitement par gamciclovir intraveineux a été instauré avec le début de la tolérance à l'alimentation orale et le retrait ultérieur de la nutrition parentérale. La sortie avec hospitalisation à domicile pour compléter le traitement intraveineux pendant 3 semaines a été décidée.
+
+Évolution
+Après le début du traitement, une diminution progressive de la charge virale a été observée, avec des résultats négatifs aux tests de contrôle après la fin du traitement.

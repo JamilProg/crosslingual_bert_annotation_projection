@@ -1,0 +1,17 @@
+T1	pathologie 182 192	hipoacusia
+T2	pathologie 195 209	angor repetido
+T3	pathologie 223 246	traumatismo costolumbar
+T4	pathologie 383 431	próstata es de características fibroadenomatosas
+T5	pathologie 938 974	Tumores retroperitoneales primitivos
+T6	pathologie 977 998	Tumores suprarrenales
+T7	pathologie 1001 1016	Tumores renales
+T8	pathologie 1019 1039	Tumores metastásicos
+T9	pathologie 1042 1062	Patología infecciosa
+T10	pathologie 1436 1461	tumor adrenal funcionante
+T11	pathologie 1627 1656	quiste hidatídico calcificado
+T12	pathologie 1714 1737	traumatismo costolumbar
+T13	pathologie 1921 1966	lesión sobresaliente en hipocondrio izquierdo
+T14	pathologie 2023 2072	lesiones difusas repartidas por todo el peritoneo
+T15	pathologie 2143 2188	grasa peritoneal infiltrada por tumor maligno
+T16	pathologie 2277 2303	proceso maligno diseminado
+T17	pathologie 2344 2367	liposarcoma pleomórfico

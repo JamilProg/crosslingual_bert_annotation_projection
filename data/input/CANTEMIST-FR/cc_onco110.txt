@@ -1,0 +1,36 @@
+Anamnèse
+Un homme de 71 ans a commencé une étude en raison d'une histoire de 3 mois de diarrhée avec mucus et rectorragie associée à des douleurs abdominales et à une perte de poids d'environ 6 kg.
+
+Antécédents personnels : hypertension artérielle. Aucun autre antécédent médical ou chirurgical intéressant.
+
+Examen physique
+À l'examen physique, l'abdomen de la patiente était mou et dépressible, non douloureux et sans signe d'irritation péritonéale. Un toucher rectal a été effectué et une tumeur mamelonnée avec écoulement de sang a été palpée. Il n'y a pas eu d'autres constatations pertinentes.
+
+Examens complémentaires
+"Coloscopie (3/7/2006) : tumeur de la marge anale jusqu'à 10 cm. Une biopsie a été réalisée avec un résultat anatomopathologique (AP) d'adénocarcinome colorectal.
+"Endoscopie basse (19/7/2006) : néoformation entre 1 et 8 cm de la marge anale infiltrant 75% de la paroi rectale, s'étendant en dehors de la muscularis propria. Deux adénopathies adjacentes sont observées. Sphincter anal interne et externe sans signe d'infiltration tumorale. Stadification écho-endoscopique : uT3N1.
+"Tomodensitométrie (CT) thoraco-abdomino-pelvienne (28/7/2006) : nodule spiculé périphérique non spécifique dans le lobe supérieur gauche. Aucune image intéressante n'est observée à d'autres niveaux.
+"Marqueurs tumoraux (8/8/2006) : CEA 4.4, CA 19-9 22.2.
+
+Diagnostic
+Adénocarcinome du rectum uT3 N1 Mx. Stade III.
+
+Traitement
+Une chimiothérapie (Qt) au 5-FU et une radiothérapie concomitante (Rt) à visée néoadjuvante ont été entamées d'août à septembre 2006 sur la tumeur primaire. Un scanner thoraco-abdominopelvien a été réalisé en octobre 2006, où la lésion pulmonaire décrite ci-dessus n'a pas été observée, bien que la graisse périrectale ait toujours été touchée.
+
+Évolution
+Par la suite, la patiente a été adressée au service de chirurgie générale et digestive, et l'opération a été réalisée en novembre 2006 par amputation abdominopérinéale du rectum. Le résultat anatomopathologique de l'échantillon a montré une réponse pathologique complète.
+
+Après l'opération, la patiente a commencé une chimiothérapie adjuvante avec 5-FU + leucovorine par semaine, administrant un total de cinq cycles jusqu'en mars 2007.
+
+Un scanner de réévaluation a été réalisé, montrant un nodule de 1 cm dans le lobe supérieur du poumon gauche, avec une cavitation à l'intérieur et des bords spiculés. Une biopsie à l'aiguille guidée par scanner a été demandée, mais elle n'a pas pu être réalisée en raison de la taille du nodule et de la difficulté d'accès. Une fibrobronchoscopie a été pratiquée, qui a révélé une inflammation généralisée avec une cytologie négative pour les cellules malignes. Le cas a été transmis au comité multidisciplinaire pour les tumeurs thoraciques et il a été décidé de suivre la lésion.
+
+En mars 2008, en raison de la croissance de la lésion pulmonaire, il a été décidé de procéder à une intervention chirurgicale. Résultat de l'AP : métastase d'un adénocarcinome d'origine colorectale. Analyse KRAS : native. Après cette intervention chirurgicale, un traitement adjuvant à base de capécitabine a été administré pendant 6 mois.
+
+La patiente a poursuivi les examens ultérieurs, sans aucun signe de la maladie jusqu'en juillet 2009, date à laquelle une progression au niveau pulmonaire s'est produite, de sorte qu'une nouvelle résection chirurgicale de deux nodules pulmonaires a été effectuée. Un traitement adjuvant par XELOX (capécitabine et oxaliplatine) a été proposé à la patiente, l'oxaliplatine ayant été retiré du cycle 2 en raison d'une neurotoxicité persistante de grade 3, pour un total de huit cycles sur 6 mois (se terminant en avril 2010).
+
+En avril 2011, il a consulté pour une hémoptysie et a subi une fibrobronchoscopie qui a révélé deux lésions polypoïdes qui ont été retirées par endoscopie.
+
+Résultat AP compatible avec une métastase d'adénocarcinome d'origine colorectale.
+
+Un PET-CT a ensuite été réalisé, mais aucune viabilité tumorale n'a été observée à un autre niveau. En septembre 2011, une récidive endobronchique est survenue avec l'apparition de nouveaux polypes, qui ont à nouveau été réséqués par fibrobronchoscopie. En janvier 2012, une troisième résection de métastases endobronchiques a été réalisée et un scanner thoraco-abdomino-pelvien ultérieur a été réalisé, montrant l'apparition de nodules pulmonaires bilatéraux, si bien qu'il a été décidé de débuter une chimiothérapie de première ligne par FOLFIRI (5-FU, irinotécan et leucovorine) associée à du cetuximab dans un autre hôpital. Depuis lors, nous avons perdu le suivi de la patiente.

@@ -1,0 +1,22 @@
+T1	pathologie 41 62	hipertensión arterial
+T2	pathologie 65 77	poliartrosis
+T3	pathologie 1696 1727	atelectasia del lóbulo inferior
+T4	pathologie 1757 1772	derrame pleural
+T5	pathologie 1816 1827	adenopatías
+T6	pathologie 1930 1945	derrame pleural
+T7	pathologie 1979 2034	cambios degenerativos a lo largo del raquis dorsolumbar
+T8	pathologie 2053 2128	erosiones en los platillos vertebrales adyacentes al espacio discal D10-D11
+T9	pathologie 2330 2366	espondilodiscitis infecciosa D10-D11
+T10	pathologie 3539 3554	derrame pleural
+T11	pathologie 3805 3829	bloque vertebral D10-D11
+#1	SNOMED T1	38341003
+#2	SNOMED T2	36186002
+#3	SNOMED T4	60046008
+#4	SNOMED T5	30746006
+#5	SNOMED T6	60046008
+#6	SNOMED T3	46621007
+#7	SNOMED T7	321341000119107
+#8	SNOMED T8	91240008
+#9	SNOMED T9	302935008
+#10	SNOMED T10	60046008
+#11	SNOMED T11	262523007

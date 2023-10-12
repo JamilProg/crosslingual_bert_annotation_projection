@@ -1,0 +1,6 @@
+T1	pathologie 521 532	infecciones
+T2	pathologie 1099 1132	inmunodeficiencia de tipo humoral
+T3	pathologie 1146 1166	enfermedad de Bruton
+#1	SNOMED T1	40733004
+#2	SNOMED T2	363265005
+#3	SNOMED T3	65880007

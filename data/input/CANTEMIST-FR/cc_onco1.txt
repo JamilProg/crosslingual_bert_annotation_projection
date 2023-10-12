@@ -1,0 +1,37 @@
+ANAMNÈSE
+Femme de 67 ans ayant des antécédents personnels d'hypothyroïdie sous traitement par lévothyroxine et fumeuse active de 12,5 paquets/an. Elle consulte aux urgences en raison d'une sensation progressive de "crampes et fourmillements" dans les membres supérieurs et inférieurs, ainsi que d'une difficulté progressive à marcher depuis 4 mois, associée également à une altération de la mémoire récente depuis le mois dernier.
+
+EXAMEN PHYSIQUE
+L'examen cardio-pulmonaire et abdominal est normal. L'examen neurologique a révélé un équilibre moteur préservé par groupes musculaires ; une aréflexie rotulienne et achilléenne et une hyporéflexie bicipitale ; une tétrahypoesthésie asymétrique (tactile, algique, vibratoire et positionnelle) selon un schéma "gants et chaussettes hautes", prédominant à gauche ; un test de Romberg positif et une démarche avec une légère augmentation de la base d'appui, ce qui suggère une ataxie sensorielle.
+
+EXAMENS COMPLÉMENTAIRES
+Dans les examens complémentaires, l'hémogramme, la biochimie et la coagulation n'ont montré aucune altération. Les sérologies des virus de l'hépatite B et C, du VIH, de la maladie de Lyme et de Treponema pallidum étaient négatives. Le bilan lipidique, vitaminique, protéique
+vitamines, le protéinogramme et les anticorps antinucléaires étaient normaux. La positivité pour l'amphiphysine, les anticorps onconeuronaux anti-Hu et anti-SOX-1 était positive.
+
+Une ponction lombaire a été effectuée. Les examens bactériologiques, mycobactériens, du virus de l'herpès 1 et 2, d'Ebstein Barr, du cytomégalovirus et du virus de la varicelle et du zona se sont révélés négatifs.
+
+L'étude électroneurographique-électromyographique (ENG-EMG) a montré une absence de potentiels sensoriels dans les membres inférieurs et dans certains nerfs des membres supérieurs ; les réponses présentes étaient d'amplitude très réduite, avec un allongement marqué des latences et une diminution sévère de la vitesse de conduction. L'étude de la conductivité motrice et de l'électromyographie n'a révélé aucune pathologie, ce qui est compatible avec une polyneuropathie sensorielle sévère à caractéristiques mixtes.
+
+La tomodensitométrie axiale du cerveau n'a pas montré d'altérations significatives. La tomodensitométrie thoraco-abdomino-pelvienne a révélé une adénopathie parahilaire droite de 2,5 cm et une adénopathie sous-carcinale présentant des caractéristiques pathologiques.
+
+La TEP-TDM a mis en évidence des dépôts pathologiques correspondant aux résultats de la tomodensitométrie.
+
+Une sonobronchoscopie linéaire avec biopsie de l'adénopathie sous-cardinale a été réalisée.
+
+L'imagerie par résonance magnétique (IRM) cervico-dorso-lombaire a montré de petites hernies discales dorsales et lombaires sans atteinte du canal rachidien ou de la cauda equina.
+L'IRM cérébrale a montré une hyperintensité T2 dans les deux lobes temporaux atteignant l'hippocampe et le cortex, suggérant une encéphalite limbique.
+
+ANATOMIE PATHOLOGIQUE
+Carcinome microcytaire du poumon. Immunohistochimie : positive pour TTF1, chromogranine et synaptophysine, négative pour CK7, CK20 et p40.
+
+JUGEMENT DIAGNOSTIQUE
+Encéphalite limbique paranéoplasique et polyneuropathie sensorielle secondaires à un carcinome pulmonaire microcytaire cTxN2 M0 (maladie limitée).
+
+TRAITEMENT ET ÉVOLUTION
+Compte tenu du diagnostic, et avec la collaboration du service de neurologie, un traitement symptomatique séquentiel a été entrepris avec des gammaglobulines intraveineuses (0,4 mg/kg/jour) et des corticostéroïdes (méthylprednisolone 1 g/jour) pendant 5 jours respectivement, avec peu d'amélioration du tableau clinique. En raison de l'inconfort causé par les paresthésies, un traitement oral par prégabaline à la dose de 50-0-75 mg a été mis en place.
+
+Il a été décidé de commencer le traitement par cisplatine-étoposide et radiothérapie concomitante (59,4 Gy en 30 séances) à partir du deuxième cycle. Cinq cycles au total ont été effectués et une réponse radiologique partielle a été observée selon les critères RECIST (Response Evaluation Criteria In Solid Tumors).
+
+Trois mois après la fin du traitement par chimiothérapie, la patiente a signalé une aggravation progressive de ses symptômes polyneuropathiques, présentant également des épisodes soudains de fortes réactions de peur, de pleurs et d'anxiété, correspondant à des crises d'épilepsie focale limbique, Il a donc été décidé d'administrer une nouvelle série de gammaglobulines IV (0,4 mg/kg/jour) et de commencer un traitement antiépileptique avec 500 mg de levetirazetam toutes les 12 heures et 100 mg de lacosamide toutes les 12 heures, ce qui a permis d'obtenir une amélioration cognitive symptomatique et un contrôle des crises. Par la suite, en raison de la progression des symptômes polyneuropathiques, un traitement de seconde ligne par rituximab iv (1000 mg tous les 14 jours) a été décidé, et le patient est resté cliniquement stable.
+
+Après neuf mois sans progression, un scanner de contrôle a montré une augmentation des tissus mous périhilaires droits et un nodule de 7 mm dans le lobe inférieur droit, absent du scanner précédent et hypermétabolique dans le scanner PET-CT. Par conséquent, compte tenu de la progression de la maladie, il a été décidé de reprendre la chimiothérapie avec du carboplatine et de l'étoposide, la patiente étant sensible au platine.

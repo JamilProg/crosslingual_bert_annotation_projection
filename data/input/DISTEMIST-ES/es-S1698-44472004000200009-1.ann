@@ -1,0 +1,6 @@
+T1	pathologie 63 70	fumador
+T2	pathologie 395 416	bolsa periimplantaria
+T3	pathologie 842 870	defecto óseo periimplantario
+#1	SNOMED T1	77176002
+#2	SNOMED T2	442437005
+#3	SNOMED T3	442437005

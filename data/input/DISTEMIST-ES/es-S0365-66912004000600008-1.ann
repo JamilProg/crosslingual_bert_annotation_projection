@@ -1,0 +1,10 @@
+T1	pathologie 34 69	glaucoma primario de ángulo abierto
+T2	pathologie 212 221	cataratas
+T3	pathologie 796 818	edema macular quístico
+T4	pathologie 1065 1083	espacios quísticos
+T5	pathologie 1614 1621	quistes
+#1	SNOMED T1	77075001
+#2	SNOMED T2	193570009
+#3	SNOMED T3	193387007
+#4	SNOMED T5	441457006
+#5	SNOMED T4	125291005

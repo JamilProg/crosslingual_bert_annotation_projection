@@ -1,0 +1,35 @@
+Anamnèse
+Homme de 19 ans, avec des antécédents médicaux de cardiomyopathie de non-compaction, de déficit en facteur VII de la coagulation et de céphalées depuis l'enfance. Il s'est présenté aux urgences en mai 2015 avec des céphalées holocrâniennes accompagnées d'une sono-photophobie et de deux épisodes de syncope sans épisodes de coma ou de relâchement sphinctérien.
+Au vu des symptômes, il a été décidé de l'hospitaliser dans le service de neurologie pour des examens complémentaires.
+
+Examen physique
+Le patient est conscient, orienté, sa coloration et son hydratation sont normales, il est afébrile et eupnéique au repos.
+Auscultation cardiaque : bruits cardiaques rythmiques sans souffle.
+Auscultation pulmonaire : normoventilation, pas de bruits pathologiques.
+Abdomen : mou, dépressible, non douloureux à la palpation, pas de masses ni de mégalithes. Péristaltisme présent, pas de signes d'irritation péritonéale.
+Examen neurologique : les nerfs crâniens sont préservés, pas de troubles de la marche ou de l'élocution. Pas de dysmétrie ni de diadochokinésie. Romberg négatif. Pas d'altération de la force ou de la sensibilité.
+
+Tests complémentaires
+- Bilan sanguin général : pas d'altération intéressante.
+- Tomographie axiale informatisée (TAO) du cerveau : deux lésions intraparenchymateuses focales à caractériser par imagerie par résonance magnétique nucléaire (RMN).
+- Ponction lombaire et analyse du LCR : normales.
+- Électroencéphalogramme : tracé pathologique dû à un ralentissement généralisé de l'activité cérébrale.
+- IRM cérébrale : augmentation de la taille de la glande pinéale, avec un processus expansif au niveau de celle-ci, modérément hyperintense par rapport à la substance grise, qui, après administration d'un contraste paramagnétique, montre une prise intense et homogène de celui-ci. Il existe une atteinte épendymaire intraventriculaire, avec une lésion occupant l'espace avec une atteinte intra- et extra-ventriculaire du côté droit dans le ventricule latéral ipsilatéral, avec une intensité de signal homogène et des zones de saignement, ce qui pourrait être lié à la dissémination de la tumeur. Ces observations pourraient être liées à un processus tumoral primaire de la pinéale (germinome, pinéaloblastome, etc.) ou à un épendymome.
+- IRM de la colonne vertébrale : pas d'altération.
+- Échographie testiculaire : normale.
+- Marqueurs tumoraux, y compris l'alpha-fœtoprotéine (AFP) et l'hormone gonadotrophine chorionique (B-HCG) : dans les limites de la normale.
+
+Diagnostic
+Compte tenu des résultats obtenus dans les examens complémentaires, le 2/7/2015 une approche neuroendoscopique a été réalisée pour effectuer une biopsie ventriculaire.
+Le résultat anatomopathologique était compatible avec un GERMINOMA PNEAL, avec un index prolifératif élevé (Ki 67 85%).
+
+Traitement
+Après avoir discuté du cas au sein du comité des tumeurs du système nerveux, il a été décidé de réaliser un traitement séquentiel de chimio-radiothérapie.
+La patiente a commencé le premier cycle de traitement par chimiothérapie le 21/7/2015 avec Cisplatine 20 mg/m2 + Etoposide 100 mg/m2 jours 1-5.
+Trois cycles ont été administrés, avec une bonne tolérance, et une IRM cérébrale de contrôle a été réalisée le 20/8/2015 dans laquelle aucune prise de contraste n'a été détectée dans la région pinéale ou dans le reste du parenchyme cérébral. Une asymétrie ventriculaire droite a été observée par rapport à la trajectoire de la biopsie, sans signe d'hémorragie ou d'autres complications.
+Après avoir observé une réponse complète du processus tumoral, il a été décidé d'administrer le quatrième cycle de traitement par chimiothérapie le 23/9/2015 et le patient a été référé au service de radiothérapie oncologique pour poursuivre le traitement séquentiel.
+Compte tenu de la bonne réponse obtenue après le traitement de chimiothérapie, le traitement de radiothérapie a été commencé, administrant 30,4 Gy aux ventricules et au lit de la tumeur primaire entre le 6/10/2015 et le 4/11/2015, les nausées apparaissant comme la seule toxicité, qui s'est atténuée avec l'administration d'un traitement antiémétique.
+
+Évolution
+Actuellement, le patient continue de présenter une réponse complète, avec une résolution des symptômes qui ont conduit à son admission et une très bonne qualité de vie en ambulatoire.
+Il est suivi par des IRM du cerveau tous les six mois par les départements d'oncologie médicale et de radiothérapie.

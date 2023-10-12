@@ -1,0 +1,25 @@
+Anamnèse
+La patiente est une femme de 48 ans, sans allergie médicamenteuse connue, ex-fumeuse depuis 9 ans (taux cumulé de 2 paquets/an), sans antécédents médicaux dignes d'intérêt. Antécédents familiaux : le père est décédé à l'âge de 66 ans d'une néoplasie du côlon, et l'oncle maternel est décédé à l'âge de 88 ans d'une néoplasie du poumon.
+
+En février 2009, le patient a été admis dans le service de pneumologie d'un hôpital privé en raison de l'apparition d'une adénopathie sus-claviculaire gauche et d'une masse pulmonaire dans le lobe inférieur gauche (LII), associées à des symptômes constitutionnels.
+
+Examen physique
+ECOG 0, eupnéique au repos. Pas de cyanose ni d'acropatie. Tête et cou : pas d'engorgement veineux jugulaire. Adénopathie sus-claviculaire gauche. Auscultation cardio-pulmonaire : rythmée, pas de souffle.
+Le souffle vésical a été préservé sans autre bruit superposé. Abdomen : mou et dépressible, non douloureux à la palpation profonde. Péristaltisme présent. Pas de masse ou de mégalithes à la palpation. MMII sans œdème ni signe de TVP. Pas d'adénopathies inguinales palpables.
+
+Tests complémentaires
+"FNA de l'adénopathie sus-claviculaire gauche : positif pour les cellules tumorales malignes.
+"Biopsie chirurgicale de l'adénopathie sus-claviculaire gauche : métastase d'un carcinome à grandes cellules, probablement d'origine pulmonaire, TTF-1 positif, intense.
+"Tomodensitométrie cervico-thoracique-abdomino-pelvienne, avec en point d'orgue une masse de 2 x 2,8 cm au niveau du LII, avec des bords spiculés, et des nodules millimétriques dans les deux champs pulmonaires, avec un conglomérat adénopathique pré-vasculaire de 1,4 cm entre la sortie des artères sous-clavière et carotide gauches.
+Adénopathies axillaires gauches.
+"TEP-TDM : forte probabilité de malignité au niveau du nodule de 26 x 23 mm dans le segment postérieur du LII, ainsi que dans les adénopathies médiastinales hypermétaboliques dans la région paratrachéale gauche, prévasculaire gauche, et les micronodules indéterminés à prédominance pulmonaire droite.
+
+Diagnostic
+Carcinome pulmonaire à grandes cellules, T1N3M0 (stade clinique III-B).
+
+Traitement
+Après avoir été diagnostiquée dans un centre privé, la patiente a été transférée dans notre hôpital pour y être traitée et suivie. Compte tenu du diagnostic susmentionné, un traitement de chimiothérapie a été entamé avec le schéma carboplatine-paclitaxel-bevacizumab, indiqué comme traitement de première ligne, de mars 2009 à juillet 2009, avec un total de six cycles, avec une bonne tolérance, sans toxicité pendant le traitement, avec une réponse radiologique partielle au scanner après six cycles, avec disparition des adénopathies médiastinales et réduction considérable de la masse dans le LII (mesurant 6 mm dans cette étude), réduction des adénopathies axillaires droites et réponse métabolique complète au PET-CT scan.
+
+Évolution
+Après la fin du traitement, le patient a entamé un suivi et, en juin 2010, avec un intervalle sans progression de 11 mois, la tomodensitométrie de contrôle a montré une augmentation de 6 mm de la taille du nodule LII par rapport à l'étude précédente (6 mm). Une étude mutationnelle de l'EGFR a été demandée, avec le résultat d'un EGFR positif/muté, mutation L858R-exon 21, mutation T790M-exon 20. Le cas a été présenté au comité des tumeurs thoraciques et, bien que la résection du nodule ait été techniquement possible, elle a été rejetée compte tenu de la stadification initiale du néoplasme, et un traitement de deuxième ligne par erlotinib a été décidé, indiqué pour le traitement des patients atteints de cancer du poumon non à petites cellules localement avancé ou métastatique après l'échec d'au moins un traitement de chimiothérapie antérieur. Le traitement a été initié à la dose de 150 mg/jour, qui a dû être réduite un an plus tard à 100 mg/jour en raison d'une éruption cutanée de grade 2, la toxicité ayant disparu.
+Quatre ans et 11 mois après le début de l'erlotinib, la patiente présente toujours une maladie stable, en très bon état général, sans toxicité au traitement. Le dernier scanner a été réalisé en octobre 2014, avec une maladie radiologique stable.

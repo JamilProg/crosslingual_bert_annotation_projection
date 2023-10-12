@@ -1,0 +1,21 @@
+Anamnèse
+Homme de 32 ans, suivi par le service de psychiatrie pour un diagnostic de schizophrénie paranoïde et de trouble de la personnalité. Il fumait 10 cigarettes par jour et buvait 1 à 2 bières par jour.
+Au cours de l'été 2009, il a commencé à ressentir des douleurs mécaniques à la hanche droite. Les examens d'imagerie ont révélé de multiples lésions ostéolytiques au niveau du col du fémur gauche, de la branche ischiopubienne gauche, de la région supra-acétabulaire droite, de la lame iliaque droite et de la colonne lombo-sacrée, avec un risque élevé de fracture au niveau de la lésion fémorale. La tomodensitométrie thoracique a montré de multiples nodules pulmonaires ponctués. Le diagnostic histologique des lésions osseuses a été établi par biopsie et a révélé une histiocytose X (granulome éosinophile). De même, la fibrobronchoscopie a confirmé l'atteinte pulmonaire.
+Il s'agit donc d'un patient de 32 ans chez qui on a diagnostiqué une histiocytose X avec atteinte osseuse et pulmonaire. En janvier 2010, il a commencé un traitement à la prednisone à la dose de 1 mg/kg/jour. Depuis lors, le patient a poursuivi des contrôles réguliers au département d'oncologie médicale, avec une diminution de la dose de prednisone un an après le début du traitement et une stabilisation de la maladie pulmonaire et osseuse.
+En octobre 2011, la patiente s'est présentée à un nouveau bilan de santé. Les examens complémentaires n'ont révélé aucun signe de progression radiologique de la maladie.
+Le patient a signalé une polyurie et une polydipsie d'environ 7 à 10 litres par jour. Il est resté asymptomatique, sans perte de poids ni autres symptômes d'accompagnement.
+
+Examen physique
+Bon état général, hémodynamiquement stable, afébrile. Auscultation cardiaque : rythmée, pas de souffle audible. Auscultation pulmonaire : murmure vésiculaire conservé, sans bruit additionnel. Abdomen : mou et dépressible, sans péritonisme. Membres inférieurs sans œdème. Pas de focalité neurologique.
+
+Examens complémentaires
+- Analyses sanguines : hémoglobine 16,7 g/dL ; 148 000/mL leucocytes ; 125 700/mL neutrophiles ; 279.000/mL plaquettes ; urée 18 mg/dL ; créatinine 1 mg/dL ; sodium plasmatique 147 mmol/L ; potassium plasmatique 5 mmol/L ; calcium total 11,2 mg/dL ; chlore 107 mmol/L ; urate 8,2 mg/dL ; phosphate 3,4 mg/dL ; osmolarité sérique 318 mOsm/kg ; GOT 16 UI/L ; GPT 21 UI/L ; GGT 73 UI/L ; bilirubine totale 0,55 mg/dL.
+- Analyse d'urine : urine recueillie en 24 heures 6,9 l ; osmolarité 70 mOsm/kg ; biochimie de l'urine : sodium 13 mEq/L ; potassium 9 mEq/L ; chlore 18 mEq/L.
+
+Diagnostic
+Compte tenu de l'hypernatrémie avec hyperosmolarité plasmatique et hypoosmolarité urinaire, le diagnostic de diabète insipide a été proposé. Une IRM cérébrale a été demandée pour compléter l'étude.
+L'IRM cérébrale a montré la disparition de l'hypersignal T1 dans la neurohypophyse avec un léger épaississement du pédoncule sellaire, évoquant un diabète insipide.
+Une nouvelle réévaluation a été effectuée avec un scanner, montrant une stabilisation de la maladie sous-jacente au niveau osseux et pulmonaire.
+
+Traitement et évolution
+Le patient a commencé un traitement à l'hormone antidiurétique, qu'il maintient toujours, et il est suivi par le service d'endocrinologie. Selon les critères établis dans les directives cliniques, la présence d'un diabète insipide a été considérée comme une progression de la maladie, et dans l'intention d'un meilleur contrôle symptomatique et d'essayer d'arrêter une évolution possible vers un panhypopituitarisme, un traitement a été commencé avec de la cytarabine en monothérapie à faibles doses (100 mg/m2 intraveineux par jour pendant cinq jours dans des cycles de 28 jours) avec une bonne tolérance.

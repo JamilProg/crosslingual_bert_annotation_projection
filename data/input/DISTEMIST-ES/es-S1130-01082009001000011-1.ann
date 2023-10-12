@@ -1,0 +1,10 @@
+T1	pathologie 132 216	lesión submucosa de 1 cm de diámetro, localizada en cara posterior de antro gástrico
+T2	pathologie 231 241	ulceración
+T3	pathologie 771 803	tumor del estroma tipo leiomioma
+T4	pathologie 794 803	leiomioma
+T5	pathologie 856 867	adenopatías
+#1	SNOMED T1	29384001
+#2	SNOMED T5	30746006
+#3	SNOMED T3	146801000119103
+#4	SNOMED T2	429040005
+#5	SNOMED T4	146801000119103

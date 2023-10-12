@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 67 ans. Antécédents oncologiques : 1er néoplasme (en 1990), carcinome canalaire infiltrant du sein gauche pT2 (2,5 cm) pN0 (0/11) M0, mastectomie radicale modifiée avec lymphadénectomie gauche (avril-1990) et chimiothérapie adjuvante et radiothérapie externe (50 Gy sur la paroi thoracique et 48 Gy sur les aires ganglionnaires) (début : 02-07-90) avec reconstruction ultérieure par lambeau myocutané (octobre-1992). 2ème néoplasme (en 2013), carcinome canalaire infiltrant peu différencié du sein droit pT1b (9mm) pN0 (0/10) M0, récepteurs d'œstrogènes négatifs, récepteurs de progestérone positifs, HER 2 négatif, traité par tumorectomie et lymphadénectomie droite (suspicion d'atteinte lors de la biopsie du ganglion sentinelle non confirmée par la suite) (22-03-13) avec radiothérapie externe adjuvante ultérieure sur le volume mammaire en régime d'hypofractionnement et surimpression dans le lit tumoral (53.3 Gy) (début : 26-06-13/fin : 24-07-13) et une hormonothérapie au Letrozole (début : avril-13).
+
+Antécédents familiaux :
+Appartenant à une famille présentant un syndrome CPRH connu en raison d'une mutation pathogène du gène MET (c.3906G>A/p.V1238I, dans l'exon 19) et d'une agrégation de cancers du sein.
+
+Examen physique
+Cicatrice de reconstruction du sein gauche et de tumorectomie du sein droit. Lymphoedème bilatéral. Le reste de l'examen est normal.
+
+Tests complémentaires
+Étude génétique germinale :
+- Mutation du gène MET (c.3906G>A/p.V1238I, dans l'exon 19 du gène MET).
+- Mutation délétère dans l'exon 5 du gène BRCA1, c.330A>G (HGVS:c.211A>G) (BIC1944)
+
+Diagnostic
+Porteuse du syndrome HRPC dû à une mutation du gène MET et du syndrome héréditaire du cancer du sein et de l'ovaire (HBCS) dû à une mutation du gène BRCA1.
+
+Traitement
+Mesures de contrôle des risques :
+Suivi par imagerie par résonance magnétique (IRM) rénale bilatérale biannuelle, et en cas d'apparition de tumeurs <3 cm, l'observation se poursuivra. Si les tumeurs mesurent plus de 3 cm, l'énucléation, la résection, l'ablation par radiofréquence ou l'ablation terminale de toutes les tumeurs à l'aide de techniques épargnant le néphron sont recommandées. Ces mêmes recommandations peuvent être étendues aux porteurs de la mutation du gène MET dans la famille à partir de la fin de l'adolescence ou du début de l'âge adulte (au moins 10 ans avant le diagnostic chez le plus jeune des membres de la famille).
+Discussion des avantages et des inconvénients des mesures de prophylaxie primaire et secondaire pour contrôler le risque de troisième néoplasie mammaire et de cancer de l'ovaire. Possibilité pour la patiente de procéder à un auto-examen mensuel des seins, à un examen des seins par un spécialiste tous les six mois et à une mammographie avec IRM mammaire synchrone annuelle. Option pour une salpingo-ovariectomie prophylactique bilatérale par laparoscopie, réalisée en janvier 15.
+
+Évolution
+Suivi du patient dans l'unité de conseil génétique avec les mesures de contrôle des risques décrites ci-dessus.

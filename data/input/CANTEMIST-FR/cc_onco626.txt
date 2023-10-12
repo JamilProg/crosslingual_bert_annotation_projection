@@ -1,0 +1,28 @@
+Anamnèse
+Patiente de 40 ans vue pour la première fois dans le service d'oncologie en mai 2018.
+Ses antécédents familiaux comprenaient une mère atteinte d'un cancer de l'ovaire à l'âge de 30 ans, sans antécédents personnels intéressants hormis une obésité et trois épisodes de coliques néphrétiques plusieurs années auparavant. Elle ne suivait aucun traitement régulier.
+Les antécédents de la patiente ont débuté en juin 2017 par des mastodynies, qu'elle mettait sur le compte de l'armature de son soutien-gorge. Depuis, elle a remarqué un petit nodule dans le quadrant supérieur externe (EOC) du sein droit, qui s'est développé progressivement, tout comme la douleur. Finalement, une mammographie et une échographie ont été réalisées en mars 2018 avec la découverte d'une lésion dans le CSE du sein droit mesurant 4,6 x 3,1 cm ainsi que des adénopathies d'apparence pathologique dans l'aisselle droite mesurant 19 mm pour la plus grande. Une biopsie de la lésion mammaire et de l'adénopathie axillaire a été réalisée avec un diagnostic anatomopathologique de carcinome canalaire infiltrant dans les deux échantillons.
+
+Examen physique
+Bon état général, conscient et orienté, bien hydraté, eupnéique, afébrile. Auscultation cardio-pulmonaire avec tonalités rythmiques sans souffle, murmure vésiculaire bilatéral préservé. L'examen de l'abdomen ne révèle aucun signe pathologique. Sein droit avec peau d'orange, infiltration cutanée avec rougeur et nodule cutané satellite dans le CSD, masse palpable dans le CSD du sein droit mesurant 8-9 cm attachée à la peau, lymphadénopathie axillaire droite mesurant 3-4 cm.
+
+Examens complémentaires
+" Examens de laboratoire (mai 2018) : biochimie avec fonctions rénale et hépatique normales, hémogramme normal.
+" Mammographie (mars 2018) : une masse hyperdense avec des marges irrégulières, fortement suspecte de malignité, a été identifiée dans le sein droit CSE. BIRADS 4.
+" Échographie du sein droit et de l'aisselle (mars 2018) : masse dans le CSE avec des marges irrégulières et spiculées, mesurant 4,6 par 3,1 cm. Dans l'aisselle ipsilatérale, il y a des adénopathies de taille et de caractéristiques pathologiques, de 19 mm de diamètre, d'aspect malin.
+" Biopsie (mars/2018) : biopsie à l'aiguille centrale avec étude anatomopathologique de carcinome canalaire infiltrant, étude immunohistochimique des récepteurs aux œstrogènes et à la progestérone négative, HER-2 positive, Ki67 80 %. Axe : carcinome canalaire infiltrant.
+" Tomographie par émission de positons/tomodensitométrie (TEP/TDM) (mai/2018) : lésion hypermétabolique dans le sein droit avec lésions satellites dans le sein droit, atteinte cutanée et axillaire ipsilatérale, ainsi que métastase hépatique unique chez une patiente chez qui un carcinome mammaire localement avancé a été diagnostiqué.
+
+Diagnostic
+Carcinome canalaire infiltrant du sein droit cT4 (infiltration cutanée), N2, M1 (hépatique simple), stade IV. Récepteurs hormonaux négatifs, HER-2 positif (3+), Ki67 80%.
+
+Traitement
+Le patient a commencé un traitement de chimiothérapie en mai 2018 avec du docétaxel 75 mg/m2 tous les 21 jours et un traitement anti-HER-2 avec du pertuzumab (840 mg en dose initiale puis 420 mg) et du trastuzumab (8 mg/kg en dose initiale puis 6 mg/kg) tous les 21 jours. Il a reçu un total de 6 cycles avec les trois médicaments et a obtenu une réponse complète. Il a continué avec un traitement d'entretien au pertuzumab et au trastuzumab tous les 21 jours, qu'il a maintenu jusqu'à ce jour (20 cycles au total).
+Après les huit premiers cycles, elle a subi une mastectomie bilatérale et une lymphadénectomie axillaire droite en janvier 2019.
+
+Évolution
+La patiente a été initialement adressée à notre service pour un traitement néoadjuvant à la suite d'un diagnostic de cancer du sein localement avancé. Après un PET/CT scan et le diagnostic d'une maladie métastatique, elle a commencé un traitement de chimiothérapie de première ligne pour un cancer du sein HER-2 positif avec du docétaxel, du trastuzumab et du pertuzumab avec une bonne tolérance.
+La principale toxicité a été une diarrhée de type G3 après le quatrième cycle, qui a nécessité une adaptation de la dose de docétaxel avec une réduction de 10 % au cours des deux derniers cycles. En prophylaxie de la neutropénie fébrile, la patiente a reçu un facteur de stimulation des colonies pendant les 6 premiers cycles de chimiothérapie.
+Compte tenu des antécédents familiaux d'une mère atteinte d'un cancer de l'ovaire à l'âge de 30 ans et de l'âge de notre patiente (40 ans), elle a été orientée vers un test génétique, qui a révélé une mutation germinale du gène p53 en hétérozygotie (c.542G > A), responsable du syndrome héréditaire connu sous le nom de syndrome de Li-Fraumeni.
+Lors des tests de réévaluation après le 6e cycle de traitement (IRM mammaire, TEP/TDM et scanner du thorax et de l'abdomen réalisés en novembre 2018), une réponse radiologique complète a été observée. Compte tenu de la réponse spectaculaire et de la découverte de la mutation p53, le cas a été présenté au comité multidisciplinaire et la décision a été prise de réaliser un sauvetage chirurgical du sein et de l'aisselle droite et une mastectomie gauche prophylactique, qui a été réalisée en janvier 2019 avec une réponse pathologique complète dans l'étude anatomopathologique.
+Actuellement, la patiente conserve une excellente qualité de vie, poursuit un double blocage anti-HER-2 (trastuzumab et pertuzumab) et attend un traitement par radiothérapie du sein droit et de l'aisselle. La patiente n'a pas de descendance, ses parents et ses frères et sœurs attendent les résultats de l'étude génétique.

@@ -1,0 +1,10 @@
+T1	pathologie 18 26	fumadora
+T2	pathologie 264 311	íleon terminal, se visualizan tres ulceraciones
+T3	pathologie 407 426	enfermedad de Crohn
+T4	pathologie 620 632	malnutrición
+T5	pathologie 817 820	PLE
+#1	SNOMED T1	77176002
+#2	SNOMED T2	50565005
+#3	SNOMED T3	34000006
+#4	SNOMED T4	248325000
+#5	SNOMED T5	66972006

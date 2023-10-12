@@ -1,0 +1,26 @@
+T1	pathologie 241 267	exantema generalizado leve
+T2	pathologie 372 380	alergias
+T3	pathologie 394 406	traumatismos
+T4	pathologie 471 479	varicela
+T5	pathologie 824 836	traumatismos
+T6	pathologie 969 1006	ataxia de características cerebelosas
+T7	pathologie 1555 1563	Varicela
+T8	pathologie 2168 2177	opsoclono
+T9	pathologie 2221 2226	tumor
+T10	pathologie 2485 2488	TCN
+T11	pathologie 2522 2542	ganglioneuroblastoma
+T12	pathologie 2675 2684	opsoclono
+T13	pathologie 3032 3048	recidiva tumoral
+#1	SNOMED T12	194177006
+#2	SNOMED T1	271807003
+#3	SNOMED T13	25173007
+#4	SNOMED T4	38907003
+#5	SNOMED T8	194177006
+#6	SNOMED T11	116381000119105
+#7	SNOMED T2	106190000
+#8	SNOMED T9	55342001
+#9	SNOMED T7	38907003
+#10	SNOMED T3	417746004
+#11	SNOMED T5	417746004
+#12	SNOMED T6	85102008
+#13	SNOMED T10	115241005

@@ -1,0 +1,12 @@
+T1	pathologie 23 38	diabetes tipo 2
+T2	pathologie 127 134	fumador
+T3	pathologie 144 160	bebedor habitual
+T4	pathologie 195 213	pancreatitis aguda
+T5	pathologie 267 282	cuadro sincopal
+T6	pathologie 566 577	hipotensión
+#1	SNOMED T1	44054006
+#2	SNOMED T2	77176002
+#3	SNOMED T3	228320001
+#4	SNOMED T4	197456007
+#5	SNOMED T5	271594007
+#6	SNOMED T6	45007003

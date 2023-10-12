@@ -1,0 +1,32 @@
+Anamnèse
+Femme ménopausée de 57 ans, fumeuse de 20 cigarettes/jour, sans autres antécédents personnels ou familiaux intéressants, diagnostiquée en février 2012 dans le cadre d'un programme de dépistage d'un carcinome canalaire infiltrant de 3,7 cm du sein droit, grade histologique II de Nottingham, ER +++, PR -, HER2 1+, Ki-67 17%. Dans l'étude d'extension, de multiples métastases hépatiques et osseuses ont été observées ; par conséquent, stade IV au début.
+
+Il a reçu une chimiothérapie de première ligne avec un schéma séquentiel de doxorubicine 60 mg/m2 + cyclophosphamide 600 mg/m2 x 4 cycles + acide zolédronique mensuel, avec une bonne tolérance et une réponse hépatique partielle, puis du docétaxel 75 mg/m2 x 8 cycles, avec une maladie stable, nécessitant une diminution de 20 % de la dose et un soutien avec des facteurs de croissance hématopoïétiques à partir du 3ème cycle en raison d'une neutropénie fébrile de grade 4.
+
+Une hormonothérapie d'entretien au létrozole a été administrée pendant 14 mois jusqu'à la progression hépatique en mars 2014.
+
+Une deuxième ligne de chimiothérapie à base de capécitabine 1 000 mg/m2 a alors été envisagée, avec une nouvelle progression osseuse, hépatique et cérébelleuse (lésion unique de 1 cm dans l'hémisphère gauche) après 6 mois de traitement. D'un point de vue clinique, il présentait une instabilité de la marche. Une corticothérapie à haute dose et une phénytoïne prophylactique à 300 mg/jour ont été indiquées, selon le protocole du service de radiothérapie.
+
+En octobre 2014, il a reçu une radiothérapie holocrânienne (RT) de 30 Gy en 10 fractions de 3 Gy + RT stéréotaxique de 18 G sur la lésion cérébelleuse, bien tolérée.
+
+En novembre 2014, il a commencé une troisième ligne de chimiothérapie avec de la vinorelbine orale à 60 mg/m2.
+
+Après deux cycles de dexaméthasone, selon un schéma décroissant, il s'est présenté au service des urgences avec une fièvre de 39 ºC depuis 48 heures, une dyspnée, des difficultés à avaler et un exanthème généralisé. Elle ne présentait pas de céphalées, de symptômes gastro-intestinaux, de toux, d'expectoration ou de syndrome mictionnel.
+
+Examen physique
+Mauvais état général, tachypnée à 20 tours/minute, TA 90/60, Tº 39,6 ºC. Saturation basale à 91%. Œdème des lèvres et de la langue, muqueuse friable. Exanthème érythémateux maculaire touchant la tête, le thorax et l'abdomen sous forme centripète, avec quelques lésions isolées sur les membres ; Nikolsky -. < 10 % de la surface corporelle touchée. PCA : tachycardie, crépitants de la base droite. Aucun autre résultat pertinent.
+
+Examens complémentaires
+Compte tenu des manifestations cliniques aiguës (fièvre, dyspnée et exanthème), des examens ont été demandés pour exclure des symptômes septiques d'origine respiratoire ou une réaction allergique (instauration récente de la vinorelbine et de la phénytoïne).
+"La NFS a montré une leucocytose modérée avec déplacement vers la gauche (15 000 leucocytes, 76 % de PMN), avec une CRP élevée (25, intervalle 0-5 mg/L) et une procalcitonine normale.
+"La radiographie du thorax montre un empiètement minime du sinus costophrénique droit. Aucun isolement microbiologique n'a été observé.
+"Après 48 heures, un scanner thoraco-abdominal et cérébral de réévaluation n'a montré aucune nouvelle lésion, avec une stabilité des lésions connues.
+
+Diagnostic
+Compte tenu de l'aggravation rapide des lésions et de l'apparition d'une desquamation cutanée (Nikolsky +), une évaluation dermatologique a été demandée, qui a permis d'établir le diagnostic de syndrome de Stevens-Johnson (SSJ) ; compte tenu des antécédents de radiothérapie holocrânienne récente et de la prise concomitante de phénytoïne, il y avait une forte suspicion de syndrome d'EMPACT.
+
+Traitement
+La phénytoïne est arrêtée en tant qu'agent causal probable et des mesures de soutien sont mises en place : mobilisation contrôlée, hydratation par voie intraveineuse, analgésie et antiseptiques topiques.
+
+Évolution
+Après l'arrêt de la phénytoïne, la patiente a évolué lentement mais favorablement et, après 19 jours d'hospitalisation, elle a pu rentrer chez elle sans séquelles cutanées ou muqueuses.

@@ -1,0 +1,21 @@
+Anamnèse
+Un homme de 61 ans avec des antécédents personnels de tabagisme, de diabète de type 2, de maladie rénale chronique secondaire à une néphropathie diabétique et de mélanome cutané opéré (stade Ib) en 1993, sans aucun signe de récidive au cours du suivi ultérieur. Elle a consulté le service des urgences pour des symptômes catarrhaux et une asthénie depuis un mois, sans autre symptôme.
+
+Examen physique
+Le patient était en bon état général et ses signes vitaux étaient normaux. L'examen physique a révélé une cicatrice chirurgicale d'un mélanome enlevé dans la région dorsale, ainsi qu'un murmure vésiculaire diminué dans la base gauche à l'auscultation pulmonaire. Il n'y avait pas de lésions dermiques suspectes de malignité ni d'autres résultats intéressants à l'examen.
+
+Examens complémentaires
+La radiographie du thorax révèle une masse rétrocardiaque aux contours bien définis. Le scanner thoracique a confirmé la présence d'une lésion pulmonaire de 7 cm au niveau du lobe inférieur gauche et d'un conglomérat adénopathique sous-carénaire de 3,5 x 2,5 cm.
+L'hémogramme a montré une légère anémie, avec une hémoglobine de 11,5, et une leucocytose de 17 100 avec déplacement vers la gauche. La coagulation n'a montré aucune altération, et la biochimie a révélé une créatinine de 1,49 et une CRP de 50,9, sans autres résultats notables. Des marqueurs tumoraux ont été demandés, qui se sont tous révélés normaux.
+Une bronchoscopie a été réalisée avec biopsie de la masse pulmonaire, sans qu'il soit possible d'obtenir un typage histologique en raison de la grande indifférenciation et de la nécrose tumorale étendue de la lésion. Une biopsie guidée par tomodensitométrie a été réalisée et a permis de diagnostiquer une tumeur maligne très indifférenciée, sans qu'il soit possible de déterminer l'origine primaire.
+
+Diagnostic
+Compte tenu du peu d'informations fournies par les biopsies successives de la masse, une biopsie ganglionnaire a été réalisée par EBUS du conglomérat adénopathique décrit dans le scanner. A cette occasion, l'anatomie pathologique a montré un résultat compatible avec un INFILTRATION DE MELANOMA, avec une forte expression positive de MELAN-A et HMB-45 et un réarrangement du gène BRAF V600E.
+L'étude d'extension PET-CT a montré une captation au niveau de la masse pulmonaire et du conglomérat adénopathique sous-carénaire, ainsi que des zones d'hypercapture d'origine métastatique au niveau de la glande surrénale gauche et de l'iléon.
+
+Traitement
+Un traitement par inhibiteurs BRAF et MEK (Dabrafenib et Trametinib) a été initié.
+
+Évolution
+Un mois après le diagnostic, le patient a été admis pour des douleurs et une distension abdominales ; on a diagnostiqué une occlusion intestinale et il a été opéré en urgence. L'anatomie pathologique de la pièce opératoire était compatible avec une métastase de mélanome, avec mutation du gène BRAF et perte des marqueurs mélanocytaires.
+Le patient est actuellement sous traitement après un intervalle sans progression de 9 mois, avec une réponse partielle morphologique majeure comme réponse maximale.

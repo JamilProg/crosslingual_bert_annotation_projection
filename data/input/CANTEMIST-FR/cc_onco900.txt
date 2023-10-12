@@ -1,0 +1,28 @@
+Anamnèse
+Une femme de 62 ans, sans réaction médicamenteuse connue, ancienne fumeuse et ayant des antécédents d'hypertension artérielle essentielle sous traitement par IECAS.
+Elle avait des antécédents d'oncologie qui avaient débuté dans un autre centre :
+"Carcinoïde rectal opéré en 1998, suivi de coloscopies.
+"Carcinome rénal à cellules claires E.II (pT2, G1) opéré en 2003 par néphrectomie radicale gauche et suivi depuis.
+"Mélanome malin d'extension superficielle Clark niveau II et indice de Breslow 0' 25 sur le membre inférieur droit opéré en 2008.
+En février 2010, devant un nodule thyroïdien suspect de tumeur, une hémithyroïdectomie droite a été réalisée, avec des résultats anatomopathologiques compatibles avec une métastase due à un carcinome à cellules claires. La tomodensitométrie de contrôle a également montré une augmentation de la taille de la lésion surrénalienne précédemment connue impliquant le rein. En mai 2010, une tumorectomie rénale controlatérale a donc été réalisée avec une marge de sécurité et une surrénalectomie droite avec un résultat positif pour le carcinome à cellules claires. Compte tenu de la présence d'un carcinome rénal bilatéral à cellules claires, de la résection de métastases surrénaliennes et thyroïdiennes et de l'absence de signes de la maladie, il a été décidé d'assurer un suivi.
+En novembre 2010, elle a présenté une rechute de la maladie dans le foie et le pancréas et l'apparition d'un nodule thyroïdien ; avec des biopsies positives pour le carcinome rénal à cellules claires, il a donc été décidé de commencer un traitement de première ligne pour la maladie métastatique avec le sunitinib à une dose de 50 mg/jour selon un calendrier 4/2.
+Après le premier cycle de traitement, le patient a demandé un second avis dans notre centre et a poursuivi le traitement avec nous.
+
+Examen physique
+Bon état général, PS 0, nodule thyroïdien palpable sans adénopathie cervicale. Le reste de l'examen n'a révélé aucun signe pathologique.
+
+Examens complémentaires
+Un scanner thoraco-abdomino-pelvien a été réalisé, montrant la présence de plusieurs formations nodulaires hypercapillaires dans le pancréas, situées dans la queue, le corps et l'isthme qui, compte tenu des antécédents du patient, suggèrent un diagnostic différentiel entre une lésion pancréatique primaire synchrone ou des lésions secondaires en relation avec sa néoplasie déjà traitée, sans autres résultats significatifs.
+L'étude a été complétée par une IRM hépatique, identifiant au moins 6 lésions nodulaires dans le pancréas (certaines déjà décrites au scanner), dispersées dans la glande, avec une prise de contraste intense dans la phase artérielle, avec une hyperprésence persistant plus faiblement dans les autres phases, certaines d'entre elles avec une nécrose centrale (prise de contraste annulaire). En outre, dans le parenchyme hépatique, un nodule solide de 11 mm a été observé dans le segment 2 de la LHI, qui s'est comporté de la même manière que les lésions pancréatiques.
+L'échographie de la thyroïde a montré un nodule solide mesurant 11 x 14 mm avec une FNA acellulaire. Les examens de laboratoire étaient normaux, sans anomalie de la fonction thyroïdienne, en particulier une cLDH de 434 mg/dl.
+
+Diagnostic
+Rechute métastatique d'un carcinome rénal à cellules claires de bon pronostic selon les critères du MSKCC.
+
+Traitement
+Le traitement par Sunitinib 50 mg par jour par voie orale s'est poursuivi pendant quatre semaines et deux semaines de repos, nécessitant une réduction de la dose à 37,5 mg/jour après deux cycles en raison de la toxicité (érythrodysplasie palmo-plantaire G2, hypertension mal contrôlée avec IECAS et asthénie G2).
+
+Évolution
+Après trois cycles complets de traitement, le patient a présenté une réponse radiologique complète de toutes les lésions à l'exception du nodule thyroïdien, et il a été décidé de poursuivre le traitement à une dose réduite en raison d'une mauvaise tolérance. Après 10 cycles de traitement, le patient continuant à présenter une réponse soutenue, il a été décidé de procéder à une thyroïdectomie avec des résultats anatomopathologiques compatibles avec une métastase due à un carcinome à cellules claires. Le contrôle radiologique postopératoire s'est révélé négatif pour la tumeur et, compte tenu de l'absence de preuve de la maladie (NED) selon l'IVUS, il a été décidé d'arrêter le traitement jusqu'à ce qu'une progression clinique ou radiologique de la maladie soit observée.
+Après un intervalle sans progression de 18 mois, le patient a présenté une rechute radiologique avec l'apparition de 4 lésions dans le pôle inférieur du rein droit, d'une lésion dans le segment 4 du foie suggérant une implantation tumorale et de 2 lésions dans la queue du pancréas. Le patient était asymptomatique, en bon état général et menait une vie active ; compte tenu de la réponse initialement obtenue avec le sunitinib, il a été décidé de reprendre le traitement à une dose de 50 mg par jour selon un schéma 4/2 ; après le premier cycle, le patient a présenté une hypertension artérielle difficile à contrôler et il a été décidé de maintenir la dose réduite à 37,5 mg avec une bonne tolérance.
+Le patient a été réévalué comme maladie stable après 4 cycles de traitement et comme réponse partielle après 8 cycles, avec persistance d'une lésion millimétrique dans le foie et d'une autre lésion millimétrique dans le pancréas, de sorte qu'un traitement local par SBRT a été proposé et le traitement a été interrompu jusqu'à la progression de la maladie. Une SBRT des lésions résiduelles a été réalisée, sans complication et avec une très bonne tolérance. Depuis, le patient est suivi, asymptomatique, avec un intervalle sans traitement de 24 mois sans progression de la maladie.

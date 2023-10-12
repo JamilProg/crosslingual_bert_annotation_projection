@@ -1,0 +1,31 @@
+Anamnèse
+Une femme de 74 ans, sans antécédents personnels ou familiaux intéressants, a consulté aux urgences en novembre 2011 pour des douleurs dans la fosse iliaque droite irradiant vers la région lombaire, sans syndrome mictionnel, ni fièvre, ni autres symptômes associés.
+
+Examen physique
+Tête et cou : pas d'adénopathies dans les chaînes accessibles. Auscultation cardio-pulmonaire : rythmique sans souffle, souffle vésiculaire conservé, pas de bruits supplémentaires. Abdomen : douleur à la palpation de la fosse iliaque droite avec une masse de 15 cm de diamètre palpable en profondeur. Membres inférieurs sans œdème ni signe de thrombose veineuse profonde et avec pouls présents.
+
+Examens complémentaires
+"L'échographie transvaginale et abdominale a révélé une masse pelvienne de 15 x 12 cm qui semblait dépendre de l'ovaire droit, d'apparence kystique avec un septum, un pôle postérieur solide et des papilles antérieures.
+"La tomodensitométrie du thorax, de l'abdomen et du bassin a décrit une lésion suspecte de malignité, en l'absence d'autres lésions.
+"Les marqueurs Ca 125 et Ca 19.9 étaient de 69 UI/ml (0,0-35) et 65 UI/ml (0,0-90).
+
+Diagnostic
+Lésion de l'ovaire droit évocatrice d'une tumeur maligne par les examens d'imagerie. Etude d'extension négative.
+
+Traitement
+En décembre 2011, après confirmation de la malignité par biopsie peropératoire, une chirurgie ovarienne a été réalisée avec ovariectomie bilatérale, hystérectomie, adénectomie para-aortique et iliaque, omentectomie, prélèvement de liquide ascitique, biopsies de la cavité péritonéale et appendicectomie.
+
+Le diagnostic définitif était un carcinome à cellules claires de type tubulokystique associé à des zones de type adénofibreux pT1aN0M0 sans zones d'invasion lymphovasculaire avec un profil immunophénotypique CD15, CK 7, vimentine positive ; CK 20 négative, WT1 positive dans les vaisseaux, négative dans la tumeur, avec des récepteurs d'œstrogènes positifs.
+
+En janvier 2012, avec un diagnostic de carcinome ovarien à cellules claires de stade IA (FIGO), le traitement a été commencé avec une intention adjuvante selon le carboplatine AUC 6-paclitaxel 175 mg/m2 toutes les 3 semaines, recevant quatre cycles avec une tolérance acceptable.
+
+Évolution
+La tomodensitométrie effectuée après le traitement n'a révélé aucun signe de la maladie. Les examens se sont poursuivis normalement jusqu'en octobre 2012, date à laquelle une lésion nodulaire est apparue dans le segment médian du lobe supérieur droit du poumon, confirmée par la tomographie par émission de positons (TEP) et évoquant une maladie métastatique. À ce moment-là, le marqueur Ca 125 était dans les limites de la normale.
+
+Après une approche multidisciplinaire du cas au sein du comité des tumeurs thoraciques, il a été décidé de réséquer la lésion avec une biopsie peropératoire, et une métastectomie a finalement été réalisée dans le lobe supérieur droit le 13 avril 2012, avec des résultats anatomopathologiques compatibles avec une métastase d'un carcinome à cellules claires d'origine ovarienne.
+
+En juin 2012, elle a été réévaluée dans le service d'oncologie médicale et de nouveaux marqueurs tumoraux ont été demandés, qui se sont révélés négatifs, et un PET scan post-chirurgical a été réalisé pour décider du meilleur plan d'action. Le PET scan a montré une lésion dans le sinus cardiophrénique gauche dont la taille et la captation avaient augmenté par rapport à l'étude précédente, et qui était suspecte de malignité. Le résultat anatomopathologique était un carcinome concordant avec une origine ovarienne métastatique et, après évaluation par la chirurgie thoracique, une métastectomie a été réalisée qui a confirmé l'origine ovarienne.
+
+En octobre 2012, il a commencé un traitement par carboplatine-gemcitabine, avec six cycles. Un scanner après trois cycles a montré un nodule non spécifique adjacent à la zone de résection mesurant 1,3 cm, qui a été réduit à 6 mm après la fin de la chimiothérapie en février 2013. Elle a poursuivi ses examens et est restée stable jusqu'en août 2013, date à laquelle un PET scan a montré que le nodule connu avait atteint un diamètre de 2,3 cm. Elle a été à nouveau évaluée par la chirurgie thoracique et la radio-oncologie, et il a été décidé d'administrer un traitement local par SBRT (radiothérapie corporelle stéréotaxique), atteignant une dose de 50 Gy. À la fin du traitement, un autre nodule a été découvert à côté du précédent dans le LSD en marge du champ de radiothérapie, et une observation avec des tests d'imagerie a été indiquée dans 3 mois.
+
+En avril 2014, le nodule était stable, mais un nodule de 7 mm est passé à 18 x 15 mm dans le LSD. Au PET scan de juillet puis d'octobre 2014, le nodule a encore augmenté de taille et a été considéré comme évocateur d'une progression de la tumeur. En novembre de la même année, une lobectomie supérieure droite et une lymphadénectomie ont été pratiquées, entraînant la métastase d'un carcinome ovarien à cellules claires précédemment diagnostiqué. Cinq ganglions lymphatiques n'ont pas été touchés et la marge chirurgicale n'a pas été affectée. La patiente a refusé de recevoir un traitement de chimiothérapie après l'opération, et un scanner a été demandé trois mois après l'opération (mai 2015) sans aucun signe de la maladie.

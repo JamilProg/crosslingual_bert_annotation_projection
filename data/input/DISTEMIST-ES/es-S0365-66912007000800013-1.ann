@@ -1,0 +1,6 @@
+T1	pathologie 21 71	hemorragia macular secundaria a traumatismo ocular
+T2	pathologie 735 753	hemorragia macular
+T3	pathologie 846 875	rotura coroidea yuxtafoveolar
+#1	SNOMED T1	247161000
+#2	SNOMED T2	247161000
+#3	SNOMED T3	2532009

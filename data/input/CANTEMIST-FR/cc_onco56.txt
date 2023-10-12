@@ -1,0 +1,36 @@
+Anamnèse
+Femme de 58 ans, asymptomatique. Elle s'est présentée à une consultation d'oncologie médicale référée par le service de dermatologie, avec un diagnostic d'angiosarcome du cuir chevelu pariétal droit, pour une évaluation du traitement.
+
+Pas d'allergies médicamenteuses. Hypothyroïdie subclinique. Indépendant pour les activités de base de la vie quotidienne. Pas d'autres antécédents d'intérêt ou de traitement habituel pour le moment.
+
+Antécédents oncologiques : depuis août 2014, elle présentait une macule vasculaire sur la tempe droite avec deux zones plus foncées sur le devant, blanchâtre à la pression, non palpable, non pulsatile. Elle a été adressée au service de dermatologie pour étudier la lésion.
+
+Examen physique
+PS 0. Examen physique sans altération. Macule rougeâtre, polychrome sur la tempe droite, blanchissant à la pression, non pulsatile et non palpable, d'environ 8 cm de diamètre.
+
+Examens complémentaires
+"Analyses sanguines : pas d'anomalies.
+"Pathologie : dans le derme profond, on observe une cellularité interstitielle vasculaire atypique avec présence de macules intracytoplasmiques. Dans le derme superficiel, au niveau sous-épithélial, on observe des structures vasculaires dilatées, irrégulières, à parois minces, tapissées de cellules endothéliales à gros noyaux hyperchromatiques et pléomorphes qui sont proéminents dans la lumière. Il y a une extravasation hématique et un infiltrat lymphoplasmocytaire périvasculaire : pas de nécrose et pas d'augmentation du nombre de mitoses.
+"Immunohistochimie : CD31 (+), CD34 (+), VHH8 (-), S-100 (-).
+"Infiltration cellulaire diffuse avec immunophénotype compatible avec un angiosarcome.
+" Tomodensitométrie cervico-thoracoabdominopelvienne (19/1/2015) : pas d'atteinte ganglionnaire locorégionale ou métastatique à distance.
+" IRM cérébrale (30/12/2014) : altérations de la peau et du tissu cellulaire sous-cutané de la région pariétale droite compatibles avec un œdème non spécifique, une inflammation, une hypervascularisation et une hypercellularité pouvant être une manifestation du processus prolifératif malin diagnostiqué anatomopathologiquement. Aucun signe de propagation locale ou intracrânienne de la tumeur.
+
+Diagnostic
+Angiosarcome du cuir chevelu pariétal droit, stade II.
+
+Traitement
+Avec le diagnostic anatomopathologique et la stadification, le cas a été discuté avec le centre de référence pour envisager une chirurgie radicale de Mohs, qui a été rejetée en raison de la grande étendue de la lésion. Après avoir écarté la chirurgie radicale, la bibliographie des séries de cas a été examinée et un traitement par QT-RT concomitante avec une intention radicale a été décidé.
+
+La patiente a commencé un traitement au paclitaxel à raison de 80 mg/m2 par semaine, concomitamment à la RT, du 28 janvier 2015 au 25 mars 2015, après avoir reçu sept cycles.
+
+Le traitement par radiothérapie a consisté en une curiethérapie de contact avec une source d'iridium-192 entre le 9 et le 19 février 2015, irradiant la lésion superficielle du cuir chevelu avec une marge latérale de 4 cm et calculée à une profondeur de 1 cm. La dose administrée était de 48 Gy administrée par fractions de 3 Gy par jour selon un régime d'hyperfractionnement.
+
+En outre, entre le 11/3/2015 et le 25/3/2015, une RT externe a été administrée sur un nouveau nodule avec un champ direct, y compris les marges latérales et la surface du nodule. La dose administrée était de 20 Gy en 10 fractions de 2 Gy.
+
+Evolution
+Pendant le traitement, la patiente a présenté une bonne tolérance à la chimiothérapie, sans aucune toxicité causée par celle-ci. Cependant, une semaine après la fin du programme de curiethérapie de contact, elle a développé une épithélite de grade III dans la région supraciliaire droite. En outre, elle a présenté une tuméfaction fibro-élastique qui a donné lieu à un examen échographique et a révélé la présence d'une image d'élargissement des tissus mous dans le tissu cellulaire sous-cutané, avec une lésion ovale hypoéchogène mesurant 32 x 8 x 17 mm, avec un renforcement significatif de son schéma vasculaire. En analysant cette zone avec la dosimétrie de la curiethérapie, on a observé que cette lésion dépendait d'une zone critique de gradient distributif qui n'atteignait que 60 % de la dose prescrite, de sorte qu'après une évaluation minutieuse de la situation, il a été décidé de compléter le traitement de curiethérapie par une composante de radiation externe.
+
+Après traitement par RT externe, la lésion traitée a disparu macroscopiquement. L'image de l'épithélium de grade III a persisté avec des zones d'épithélium IV qui ont nécessité des soins infirmiers spécifiques jusqu'à la résolution complète.
+
+Une fois que l'épithéliite développée pendant le traitement a disparu et avec des preuves cliniques de réponse complète, une biopsie de la zone traitée, une IRM crânienne et un scanner cervico-thoracoabdominopelvien ont été réalisés pour évaluer la réponse au traitement en avril 2015, avec des résultats de réponse complète pathologique et radiologique qui est actuellement maintenue.

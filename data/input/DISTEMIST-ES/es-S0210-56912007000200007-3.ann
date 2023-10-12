@@ -1,0 +1,20 @@
+T1	pathologie 19 29	faringitis
+T2	pathologie 305 316	hipotensión
+T3	pathologie 576 588	coagulopatía
+T4	pathologie 793 812	disfunción hepática
+T5	pathologie 947 966	acidosis metabólica
+T6	pathologie 1464 1483	insuficiencia renal
+T7	pathologie 1544 1565	fracaso multiorgánico
+T8	pathologie 1567 1570	FMO
+T9	pathologie 1599 1608	asistolia
+T10	pathologie 1611 1637	parada cardiorrespiratoria
+#1	SNOMED T1	405737000
+#2	SNOMED T9	397829000
+#3	SNOMED T10	410430005
+#4	SNOMED T4	75183008
+#5	SNOMED T3	64779008
+#6	SNOMED T7	57653000
+#7	SNOMED T6	723188008
+#8	SNOMED T8	238148004
+#9	SNOMED T5	59455009
+#10	SNOMED T2	45007003

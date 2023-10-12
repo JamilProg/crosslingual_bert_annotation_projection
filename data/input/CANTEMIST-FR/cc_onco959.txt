@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 56 ans, sans allergies médicamenteuses ni habitudes toxiques connues. Antécédents de dyslipidémie sans traitement pharmacologique actuel et ayant subi une hémorroïdectomie et une fistule périanale.
+
+Examen physique
+Bon état général, ECOG 0, abdomen mou, dépressible, non douloureux à la palpation. Hépatomégalie de 5 cm.
+
+Tests complémentaires
+En décembre 2013, suite à une perte de poids de 5 kg et à une altération du profil hépatique dans les tests de laboratoire demandés par son médecin de famille (GOT 58 UI/l, GPT 62 UI/l, GGT 418 UI/l et FA 188 UI/l) ainsi qu'un marqueur tumoral CEA élevé de 9,3 ng/l, une échographie abdominale a été demandée, montrant des lésions hépatiques compatibles avec des métastases.
+Un scanner thoraco-abdominal a ensuite été réalisé, confirmant de nombreuses lésions hypodenses réparties dans le parenchyme hépatique, évocatrices de métastases, et un épaississement pariétal du sigma suspect de tumeur primitive avec une trabéculation minimale de la graisse périphérique. Une fibrocoloscopie a été réalisée, décrivant une masse surélevée, mamelonnée et friable à environ 45 cm de la marge anale, affectant toute la circonférence de la paroi colique et sténosant modérément la lumière. La biopsie de la lésion de la muqueuse colique a révélé un adénocarcinome infiltrant, modérément différencié, muté RAS.
+
+Diagnostic
+Il s'agit d'un patient de 56 ans, ECOG 0, chez qui on a diagnostiqué un adénocarcinome sub-sténosant modérément différencié du côlon, muté K-ras, codon 12-13, de stade IV, avec atteinte hépatique bilatérale.
+
+Traitement
+Traitement par chimiothérapie palliative (QT) CAPOX-bevacizumab tous les 21 jours, capécitabine (CPC) 2 000 mg toutes les 12 heures et oxaliplatine 100 mg/m2, après mise en place d'un cathéter central inséré périphériquement (PICC).
+
+Évolution
+Au cours du deuxième cycle, le patient a signalé une dyspnée à l'effort pendant cinq jours et une tachycardie, ainsi qu'une augmentation du diamètre du bras où la ligne PICC a été placée. Une échographie Doppler veineuse a été demandée, qui a montré une thrombose de la veine céphalique péricathéter. L'angio-TDM a confirmé une thromboembolie pulmonaire bilatérale, principalement à droite, et une anticoagulation à l'héparine de bas poids moléculaire a été indiquée.
+Une fois rétabli, il a poursuivi trois cycles supplémentaires de traitement sans bevacizumab, avec une neutropénie afébrile de grade II comme toxicité pertinente. La tomodensitométrie d'évaluation de la réponse réalisée en mars 2014 a montré une réponse hépatique mineure et une réponse de la tumeur primaire, sans TEP. Le patient a poursuivi le traitement pendant huit cycles, avec une neurotoxicité de grade II et une neutropénie afébrile de grade II comme toxicités à noter. Il continue à présenter une réponse hépatique mineure et une stabilité de la tumeur primaire.
+En raison de la neurotoxicité accumulée, il a repris le traitement avec la capécitabine en monothérapie (juillet 2014).
+En raison de la seule atteinte hépatique (confirmée par PET/CT) et de la stabilité de la maladie depuis le début du traitement, le patient est proposé pour une chimioembolisation artérielle transcathéter (TACE) avec Drug Eluting-Beads Irinotecan (DEBIRI).
+Après le quinzième cycle de capécitabine, une embolisation des métastases hépatiques a été réalisée par artériographie hépatique suprasélective avec l'administration de 100 mg d'irinotécan (décembre 2014) et la deuxième séance 42 jours plus tard. La tomodensitométrie d'évaluation de la réponse a montré de multiples images pseudonodulaires mal délimitées, hypodenses, réparties dans les segments III, IV, VII et V, avec une diminution de taille par rapport à l'étude précédente. Après une excellente évolution, sans toxicité limitante et avec une maladie contrôlée, il a été proposé une intervention chirurgicale du néoplasme sigmoïdien primaire, qui a été réalisée en juin 2015, au moyen d'une sigmoïdectomie laparoscopique et avec un rapport pathologique d'adénocarcinome de bas grade pT2N0. Deux nouvelles séances de TACE avec DEBIRI ont été réalisées en février-mars 2016.
+Actuellement, le patient a terminé 26 cycles avec une maladie stable lors de la dernière évaluation, sans nouvelles lésions hépatiques occupant l'espace (LOES) ou croissance des lésions existantes, restant asymptomatique et en attente d'une nouvelle évaluation de la réponse. Trois ans et demi se sont écoulés depuis le diagnostic, sans échec du traitement de première intention.

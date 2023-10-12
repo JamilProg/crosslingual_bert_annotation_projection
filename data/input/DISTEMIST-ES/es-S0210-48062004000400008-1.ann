@@ -1,0 +1,32 @@
+T1	pathologie 29 39	ex-fumador
+T2	pathologie 77 104	pólipo adenomatoso en colon
+T3	pathologie 106 121	hernia inguinal
+T4	pathologie 124 142	varices esofágicas
+T5	pathologie 183 221	anemia crónica hipocrómica microcítica
+T6	pathologie 658 670	hipernefroma
+T7	pathologie 706 753	trombosis de la vena renal y vena cava inferior
+T8	pathologie 778 789	adenopatías
+T9	pathologie 844 854	metástasis
+T10	pathologie 878 890	hipernefroma
+T11	pathologie 1049 1175	carcinoma de células renales del tipo de células claras de 8 cm de diámetro con invasión tumoral del uréter y de la vena renal
+T12	pathologie 1379 1389	metástasis
+T13	pathologie 1935 1943	lesiones
+T14	pathologie 1991 2033	metástasis por carcinoma de células claras
+T15	pathologie 2107 2143	infiltraba la vértebra a nivel C7-D1
+T16	pathologie 2290 2320	síndrome de compresión medular
+#1	SNOMED T10	702391001
+#2	SNOMED T1	8517006
+#3	SNOMED T11	734015000+94659001
+#4	SNOMED T6	702391001
+#5	SNOMED T2	428054006
+#6	SNOMED T16	71286001
+#7	SNOMED T14	128462008
+#8	SNOMED T12	128462008
+#9	SNOMED T3	396232000
+#10	SNOMED T4	28670008
+#11	SNOMED T7	281595001+15842009
+#12	SNOMED T5	44666001
+#13	SNOMED T9	128462008
+#14	SNOMED T13	157670007
+#15	SNOMED T8	30746006
+#16	SNOMED T15	94602001

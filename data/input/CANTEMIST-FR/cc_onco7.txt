@@ -1,0 +1,38 @@
+ANAMNÉSIE
+Un homme de 67 ans a été adressé en novembre 2014 à la clinique ambulatoire de médecine interne depuis les soins primaires pour une étude de la lombalgie. Il rapportait une lombalgie irradiant dans les deux membres inférieurs (prédominant dans le membre inférieur gauche), d'évolution de 3 mois et d'intensité croissante, qui n'était pas contrôlée par l'analgésie habituelle. Elle était alors traitée par fentanyl transdermique (FTD) 25 mcg.
+Antécédents : dyslipidémie sous traitement par statines. Ancienne fumeuse d'un paquet par jour pendant 25 ans (IPA 25). Retraité depuis peu, bénéficiant d'un bon soutien familial, indice de Karnofsky de 100.
+
+EXAMEN PHYSIQUE
+Statut de performance (PS) ECOG 0.
+Auscultation cardiaque rythmée et sans souffle audible. Auscultation pulmonaire avec murmure vésiculaire préservé, sans bruits pathologiques. Le reste de l'examen est normal.
+
+EXAMENS COMPLÉMENTAIRES
+1. radiographie lombaire et sacrée : hyperlordose lombaire avec changements dégénératifs à L5-S1 et spondylose minime. Le sacrum et les os coxo-fémoraux sont dans les limites de la normale.
+2) IRM lombaire : alignement correct dans le plan sagittal des somas vertébraux, avec préservation de la lordose lombaire physiologique, sans listhésis des corps vertébraux.
+Déshydratation sévère et perte de hauteur du disque L5-S1, qui présente une volumineuse extrusion postérieure à base large qui réduit le diamètre du canal et le calibre des foramina, sans comprimer les racines émergentes ou descendantes. De manière généralisée, on identifie une altération du signal de la moelle osseuse des somas vertébraux, et de manière isolée des pédicules et des éléments postérieurs, avec un comportement infiltratif et qui pourrait être lié à la présence de métastases, à évaluer dans le contexte clinique.
+3. Radiographie thoracique : aucune lésion pulmonaire ou suspicion d'adénopathie hilaire ou médiastinale n'a été identifiée.
+4. Tomodensitométrie thoraco-abdominopelvienne :
+- Multiples nodules pulmonaires, pour la plupart subcentimétriques, à l'exception d'un nodule spiculé de 16 mm de diamètre avec siège pleural situé dans le segment inférieur de la lingula.
+- Croissance adénopathique médiastinale significative dans les segments para-œsophagiens médiastinaux supérieurs, paratrachéaux droit et gauche, pré-vasculaires, hilaires gauches et sous-carénaires.
+- Deux lésions focales, mal définies et hypodenses de 22 mm de diamètre dans les segments III et V, très évocatrices de métastases. Lésions millimétriques d'aspect kystique.
+- Lésions ostéoblastiques multiples liées à une altération étendue de la trabéculation osseuse, avec une prédominance marquée au niveau de la colonne vertébrale et du squelette périphérique visible, en relation avec une atteinte métastatique diffuse étendue.
+5. Biopsie du foie
+
+
+
+ANATOMIE PATHOLOGIQUE
+Carcinome indifférencié à grandes cellules d'origine pulmonaire probable (TTF-1 positif, napsine A positive, CK-7 positive, CK-20 négative, P63 positive.
+Étude immunohistochimique pour déterminer la neurosécrétion : chromogranine négative, CD-56 négative. Thyroglobuline négative.
+Analyse moléculaire : ALK -, EGFR -, BRAF-, KRAS-.
+
+JUGEMENT DIAGNOSTIQUE
+CBNPC de sous-type adénocarcinome stade IV B (cTx, cN3, cM1b, TNM 7e édition) avec atteinte pulmonaire, adénopathique médiastinale, hépatique et osseuse étendue.
+
+TRAITEMENT
+Le cas a été discuté au sein du Comité des tumeurs thoraciques où, compte tenu du stade avancé, l'option chirurgicale a été rejetée et un traitement systémique a été décidé. Entre décembre 2014 et février 2015, un traitement de première ligne a été administré avec QT à base de Platine + Pemetrexed (initialement Cisplatine, remplacé au 3ème cycle par Carboplatine en raison de l'ototoxicité), complétant 4 cycles et une réponse partielle a été observée après le 3ème cycle.
+
+ÉVOLUTION
+En mars 2015, elle a débuté une chimiothérapie d'entretien par Pemetrexed, dont elle a bénéficié de 14 cycles jusqu'à une nouvelle progression de la maladie en janvier 2016, avec l'apparition d'adénopathies rétropéritonéales.
+Compte tenu de la progression de la maladie en janvier 2016, un traitement de seconde ligne par Nivolumab a été demandé, avec une réponse complète à la progression ganglionnaire (disparition de la composante adénopathique rétropéritonéale) à partir du 5ème cycle en avril 2016. A cette époque, les seules manifestations cliniques de la patiente étaient une asthénie dans les premiers jours suivant le traitement. Diminution des douleurs lombaires, abandon du patch de 25μg de FTD.
+La patiente poursuit un traitement de seconde ligne par Nivolumab de février 2016 à aujourd'hui, maintenant une réponse complète après le 77e cycle de traitement, le diagnostic ayant été posé il y a 51 mois.
+Au titre de la toxicité immuno-reliée, après le 57e cycle de Nivolumab, il a développé une arthrite migratoire prédominant au niveau des poignets, des coudes et de la région cervicale, qui a été contrôlée par des corticoïdes à faible dose (prednisone 2,5mg). Le patient est en bon état général, sans limitation fonctionnelle et avec un PS/ECOG de 0.

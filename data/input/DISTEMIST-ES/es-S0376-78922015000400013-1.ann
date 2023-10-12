@@ -1,0 +1,8 @@
+T1	pathologie 47 63	obesidad mórbida
+T2	pathologie 343 360	linfedema crónico
+T3	pathologie 496 506	filariasis
+T4	pathologie 1106 1126	bridas cicatriciales
+#1	SNOMED T2	28590005
+#2	SNOMED T1	238136002
+#3	SNOMED T3	105706003
+#4	SNOMED T4	720349002

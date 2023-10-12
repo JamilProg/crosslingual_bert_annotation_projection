@@ -1,0 +1,10 @@
+T1	pathologie 56 71	politraumatismo
+T2	pathologie 256 300	seudoaneurisma de aorta torácica en el istmo
+T3	pathologie 303 323	hematoma periaórtico
+T4	pathologie 341 349	lesiones
+T5	pathologie 550 564	lesión aórtica
+#1	SNOMED T1	417746004
+#2	SNOMED T5	47040006
+#3	SNOMED T2	443089001
+#4	SNOMED T3	56494006+385494008
+#5	SNOMED T4	157670007

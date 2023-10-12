@@ -1,0 +1,43 @@
+Anamnèse
+Femme de 49 ans, originaire de Bulgarie, sans antécédents pathologiques connus. Antécédents gynéco-obstétricaux : ménarche à 13 ans et G4A2P2. Pas d'habitudes toxiques.
+
+En mai 2008, un carcinome infiltrant du col de l'utérus a été diagnostiqué en Bulgarie et traité par conisation cervicale. En juillet 2008, elle a subi une cytologie cervicovaginale et une biopsie, qui s'est révélée à nouveau positive pour un carcinome épidermoïde du col de l'utérus. La patiente était porteuse du VPH ; elle a subi une intervention chirurgicale, une hystérectomie radicale plus une lymphadénectomie de type Wertheim-Meig (Ib1N1M0-IIIB), suivie d'une radiothérapie externe avec QT hebdomadaire à base de cisplatine et d'une curiethérapie.
+
+La patiente a subi des examens normaux jusqu'en décembre 2011, date à laquelle, de retour en Espagne, une grosseur de 4 cm a été palpée dans le quadrant inférieur externe du sein gauche. Une mammographie a été réalisée, qui a montré une opacité avec des bords spiculés et des microcalcifications. BIRADS 5 (lésion de 2,6 cm dans la DCI du sein gauche). Une BAG a été réalisée sur la lésion, qui s'est révélée positive pour un carcinome canalaire infiltrant du sein (IHQ : ER et RP négatifs, Her-2 +++, Ki-67 +75%). Une FNA axillaire a également été réalisée, qui s'est révélée positive pour le carcinome canalaire infiltrant du sein.
+
+Une étude d'extension a été réalisée avec une radiographie du thorax, une échographie abdominale et une scintigraphie osseuse, qui se sont révélées normales, de sorte que la patiente a été classée comme cT2N1M0, stade IIB. Elle a été orientée vers un traitement systémique primaire (chimiothérapie néoadjuvante). Depuis janvier 2012, elle a reçu un traitement selon le schéma 5-fluorouracile-épirubicine-cyclophosphamide (FEC) pendant quatre cycles, suivi d'un paclitaxel hebdomadaire pendant 12 semaines associé à du trastuzumab, et en août 2012, une tumorectomie élargie du sein gauche accompagnée d'une lymphadénectomie a été réalisée. L'examen anatomopathologique a montré une réponse complète à la fois dans le sein et dans l'aisselle.
+
+La patiente a terminé son traitement au trastuzumab en mai 2013 et a ensuite commencé des examens normaux, le dernier en mars 2014.
+
+En novembre 2014, il s'est présenté aux urgences avec des symptômes compatibles avec une hypertension endocrânienne, et un scanner crânien a été réalisé en urgence, qui a révélé une lésion temporo-basale droite avec un œdème important, une déviation de la ligne médiane vers la gauche et une altération lytique de l'os temporal. Une IRM cérébrale a ensuite été réalisée, qui a révélé une lésion métastatique osseuse unique avec une importante masse de tissu mou associée dans l'os sphénoïde droit qui pénétrait dans la fosse crânienne moyenne.
+
+Compte tenu de l'atteinte clinique causée par la lésion, la patiente a été adressée au service de neurochirurgie, où elle a subi une intervention chirurgicale, avec excision totale de la lésion ainsi que de l'implant dural et de l'os sous-jacent affecté. Après l'opération, la patiente a quitté le service de neurochirurgie en attendant les résultats de l'anatomie pathologique. Cependant, quelques jours plus tard, toujours en janvier 2015, la patiente s'est présentée au service des urgences avec une apparition soudaine d'une paralysie du troisième nerf crânien (CP) accompagnée d'une cervicodorsalgie.
+
+Examen physique
+L'état général est satisfaisant. ECOG 2. Bien hydraté. Peau et muqueuses pâles. Eupnéique au repos.
+Hémodynamiquement stable. Tête et cou : plusieurs lésions cutanées sur le cuir chevelu, la région préauriculaire et la région cervicale. Auscultation cardio-pulmonaire : normale. Abdomen : aucun signe particulier.
+Examen neurologique : conscient et orienté. Ptose palpébrale droite avec abduction de l'œil et incapacité d'adduction compatible avec une paralysie du troisième nerf crânien droit. Faible réponse pupillaire droite. Diplopie binoculaire. Le reste de l'examen neurologique est inchangé.
+
+Examens complémentaires
+"Examens de laboratoire : anémie normocytaire normochrome (Hb 11,4 g/dl), le reste de la série étant normal.
+"Tomodensitométrie cérébrale avec contraste : épaississement et captation multinodulaire affectant la région frontale droite et la région parasagittale adjacente à la faucille droite, au temporal et au tentorium en relation avec une carcinomatose méningée.
+"IRM cérébrale : hyperenhancement méningé évoquant une carcinomatose méningée.
+Lésions osseuses multiples au niveau de la calotte crânienne, ainsi qu'au niveau de la vertèbre C2, avec masse des tissus mous associée.
+"IRM du neuroaxe : multiples métastases vertébrales au niveau cervical, dorsal et lombaire, sans atteinte du canal rachidien.
+"Tomodensitométrie abdominale : de multiples métastases hépatiques et des adénopathies métastatiques rétropéritonéales ont été observées.
+"Marqueurs tumoraux : CEA : 16,85, CA 15.3 : 19,37 (0-38 UI/ml).
+Compte tenu des résultats radiologiques décrits et de la situation clinique de la patiente, avec une détérioration neurologique évidente et progressive, et compte tenu des antécédents de cancer du sein Her-2 positif, et dans l'attente du résultat définitif de l'anatomie pathologique précédente, il a été décidé d'entamer un traitement par capécitabine + lapatinib.
+Cependant, au cours de son séjour à l'hôpital et après le début du traitement, les résultats de l'anatomie pathologique de l'opération de neurochirurgie ont été reçus : adénocarcinome métastatique avec des résultats immunohistochimiques suggérant une origine colique.
+Parallèlement, il a été décidé de réaliser une biopsie cutanée des lésions du cuir chevelu, de la région préauriculaire et de la région cervicale du patient, dont le résultat a été une métastase d'adénocarcinome, confirmant l'origine intestinale probable (HR négative, Her-2 négative, Ki-67 +70%, CEA +, CK 20+).
+Au vu de ces résultats, et malgré l'absence de symptômes digestifs, il a été décidé de demander une coloscopie.
+"Coloscopie : une lésion excroissante et ulcérée a été observée dans l'angle hépatique, évoquant une néoplasie colique avancée non sténosante.
+"Anatomie pathologique : résultats compatibles avec un adénocarcinome du côlon (CEA+, CK-20+).
+
+Diagnostic
+Adénocarcinome de novo du côlon avec métastases hépatiques, osseuses, cutanées, méningées et rétropéritonéales chez une patiente ayant des antécédents de cancer du col de l'utérus et du sein.
+
+Traitement
+Compte tenu des résultats, il a été décidé de modifier le traitement systémique, en commençant par l'irinotécan, la capécitabine et le bévacizumab (l'étude des mutations du gène Ras a montré la présence de mutations à la fois dans le gène K-RAS et le gène N-RAS).
+
+Évolution
+Après quatre cycles de traitement, la patiente a été réévaluée et une réponse radiologique partielle significative a été observée dans toutes les lésions par rapport à l'étude précédente, y compris une diminution de la captation méningée. Sur le plan neurologique, le patient a présenté une réponse clinique très significative et est resté asymptomatique.

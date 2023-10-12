@@ -1,0 +1,29 @@
+Anamnèse
+Homme de 64 ans, avec des antécédents de pneumothorax spontané à l'âge de 40 ans, ex-fumeur depuis. Aucune allergie médicamenteuse connue.
+En novembre 2011, on lui a diagnostiqué un mélanome nodulaire malin dans la région pectorale droite. Une excision complète et une lymphadénectomie axillaire droite ont été réalisées. Après une étude d'extension, le mélanome a été stadifié comme suit : pT4b pN2a cM0 (stade III) et il a reçu un traitement adjuvant à base d'interféron alfa-2b à haute dose pendant un an.
+En juillet 2013, une tomodensitométrie de suivi a détecté des nodules pulmonaires et une lésion nodulaire dépendant de la paroi de la vésicule biliaire, compatible avec une métastase. Une étude moléculaire a été demandée sur la pièce anatomopathologique et une mutation BRAF V600E a été détectée. Elle a commencé un traitement par vemurafenib à la dose de 960 mg c/12 heures. Au cours du premier mois de traitement, elle a présenté une photosensibilité de grade II et une asthénie de grade III, de sorte que le médicament a été temporairement suspendu et réintroduit à une dose de 720 mg c/12 heures, et la dose a dû être à nouveau réduite à 50 % en raison d'une hyperbilirubinémie de grade III.
+
+Après 9 mois de réponse partielle maintenue avec le vemurafenib, il a présenté en avril 2014 une progression au niveau de la métastase intravésiculaire. Le patient a été considéré comme candidat à un traitement par ipilimumab et a reçu les quatre cycles prévus à une dose de 3 mg/kg c/21 jours, sans développer de toxicité aiguë. Le scanner de réévaluation a montré une réponse partielle au niveau pulmonaire et une réponse complète de la lésion intravésiculaire.
+Un mois après la dernière dose d'ipilimumab, le patient s'est présenté aux urgences avec un tableau clinique évoluant depuis 4 jours et consistant en des céphalées frontales d'intensité légère (EVA 4). Il a également signalé une asthénie sévère et des nausées pendant environ 2 semaines.
+
+Examen physique
+ECOG 1, hémodynamiquement stable. L'examen physique général et l'examen neurologique complet n'ont révélé aucun point focal à quelque niveau que ce soit.
+
+Tests complémentaires
+Des examens urgents ont été réalisés :
+"Scanner cérébral avec contraste : pas de résultats pathologiques.
+"Hémogramme et biochimie sanguine, y compris ionogramme, tests de la fonction rénale et de la fonction hépatique, normaux.
+Il est sorti de l'hôpital avec une analgésie de première intention comme traitement. Dans un premier temps, l'état clinique s'est amélioré, mais une semaine plus tard, il s'est présenté pour un suivi ambulatoire, signalant des céphalées persistantes présentant les mêmes caractéristiques. Les examens de laboratoire de routine n'ont révélé qu'une hypothyroïdie secondaire d'apparition récente. Il a été décidé de compléter l'étude par une "imagerie par résonance magnétique" :
+"Imagerie par résonance magnétique (IRM) avec gadolinium : aucune prise pathologique n'a été observée. Hypophyse de taille, de morphologie et de situation normales.
+"Tests de la fonction des hormones hypophysaires.
+
+Diagnostic
+Panhypopituitarisme secondaire à une hypophysite auto-immune (HA) due à l'ipilimumab.
+
+Traitement
+En coordination avec le service d'endocrinologie, un traitement immédiat par prednisone à la dose initiale de 1 mg/kg/jour a été prescrit. Après un remplacement adéquat de l'axe corticotrope, la lévothyroxine à 50 µg/jour a été prescrite.
+
+Évolution
+Une anamnèse plus précise a été réalisée, au cours de laquelle le patient a également signalé une dysfonction érectile depuis deux mois et une augmentation subjective de la production quotidienne d'urine. La présence d'un panhypopituitarisme a été confirmée par des preuves biochimiques d'hypogonadisme hypogonadotrope secondaire, d'insuffisance surrénalienne et d'hypothyroïdie, et la surveillance de la diurèse et de l'osmolarité sanguine et urinaire a permis d'exclure un diabète insipide central (DIC).
+Une semaine après le début de la corticothérapie, le patient a montré une amélioration clinique significative de l'asthénie et une disparition des céphalées. Un traitement dégressif de corticoïdes a été administré pendant un mois et des doses de remplacement ont été prescrites pour les axes affectés (hydrocortisone 30 mg/jour, lévothyroxine 25 mcg/jour et testostérone trimestrielle).
+Huit mois plus tard, en février 2015, malgré la réponse initialement obtenue sous ipilimumab, une progression métastatique a de nouveau été observée et le patient est décédé des suites d'un hémopneumopéritoine secondaire à la perforation de la métastase dans la vésicule biliaire.

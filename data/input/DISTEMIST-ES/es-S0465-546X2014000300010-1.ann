@@ -1,0 +1,16 @@
+T1	pathologie 127 148	pinchazo con abbocath
+T2	pathologie 367 393	enfermedades transmisibles
+T3	pathologie 514 523	Hepatitis
+T4	pathologie 1016 1031	hepatitis A y B
+T5	pathologie 1204 1215	Hepatitis A
+T6	pathologie 1218 1229	Hepatitis B
+T7	pathologie 1762 1779	accidente laboral
+T8	pathologie 1782 1804	enfermedad profesional
+#1	SNOMED T7	65339005
+#2	SNOMED T8	115966001
+#3	SNOMED T3	128241005
+#4	SNOMED T1	10850741000119108
+#5	SNOMED T2	190563008
+#6	SNOMED T5	128241005
+#7	SNOMED T6	66071002
+#8	SNOMED T4	40468003+66071002

@@ -1,0 +1,20 @@
+T1	pathologie 86 120	enfermedad inflamatoria intestinal
+T2	pathologie 249 276	sepsis de origen intestinal
+T3	pathologie 281 302	fracaso multiorgánico
+T4	pathologie 412 441	nefropatía tubulointersticial
+T5	pathologie 483 618	lesiones cutáneas, eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
+T6	pathologie 710 719	celulitis
+T7	pathologie 780 790	ulceración
+T8	pathologie 841 854	criptococosis
+T9	pathologie 1730 1738	lesiones
+T10	pathologie 1774 1786	ulceraciones
+#1	SNOMED T1	24526004
+#2	SNOMED T2	128070006
+#3	SNOMED T3	57653000
+#4	SNOMED T4	28689008
+#5	SNOMED T5	95324001+118932009+128135006
+#6	SNOMED T6	128045006
+#7	SNOMED T8	42386007
+#8	SNOMED T10	429040005
+#9	SNOMED T7	429040005
+#10	SNOMED T9	157670007

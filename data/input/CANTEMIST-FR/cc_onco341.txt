@@ -1,0 +1,56 @@
+Anamnesis
+Femme de 52 ans
+Antécédents personnels :
+- Pas d'allergies médicamenteuses connues.
+- Pas d'habitudes toxiques.
+- Ménarche à 12 ans. G2P2A0. FUR : septembre 2015
+- Pas d'antécédents médicaux intéressants
+- Pas d'intervention chirurgicale
+Antécédents familiaux :
+- Mère Ca Sein à 58 ans
+- Père : cancer de la prostate à 60 ans
+- Cousin maternel atteint d'un cancer du sein à l'âge de 40 ans.
+- Cousin maternel avec Ca breast et Ca uterus à 42 et 45 ans respectivement.
+
+Elle consulte aux urgences en octobre 2015 pour une lombalgie évoluant depuis des mois, avec une douleur dans toute la colonne vertébrale, principalement dans la zone lombaire supérieure, sourde, continue, à caractéristiques mécaniques (EVA 6), avec des pics d'exacerbation (EVA 10) en lien avec les mouvements et sans amélioration avec le repos ou les AINS, interférant avec son activité quotidienne depuis quelques semaines. Il présente également une dyspnée à l'effort modérée et une douleur pleurétique du côté gauche.
+
+Examen physique
+L'examen physique a révélé une masse de 8 cm, d'environ 6 mois d'évolution, ulcérée, au niveau du CSD du sein gauche, sans signe d'infection, sans adénopathie axillaire palpable, ni dans d'autres chaînes ganglionnaires. En outre, il y avait une douleur à la palpation de l'apophyse épineuse à D12, L1 et L2 ; le reste de l'examen était inchangé.
+
+Examens complémentaires
+Les examens complémentaires suivants ont été réalisés au service des urgences :
+- Radiographie du thorax : nodule spiculé d'environ 1,5 cm en LII.
+- Radiographie de la colonne vertébrale : lésions blastiques à L1 et L2.
+- Examens de laboratoire : Hb 8,6 Hb 8,6 ; GPT 89 ; LDH 620 ; phosphatase alcaline 160. Autres paramètres dans la plage normale.
+
+Au vu de ces résultats, la patiente a été admise à l'hôpital et une IRM de la colonne vertébrale et une IRM du sein ont été demandées en urgence.
+L'IRM de la colonne vertébrale a montré une lésion infiltrante à un niveau postérieur du corps vertébral D12 avec extension au pédicule, aux deux apophyses transverses et à l'apophyse épineuse avec expansion osseuse. L'atteinte du corps vertébral L1 est plus importante, avec des signes d'expansion osseuse et une atteinte de tous les éléments postérieurs. Sténose du foramen conjonctival sévère en D12-L1, modérée en L1-L2 et légère-modérée en D11-D12, et atteinte radiculaire en D12 et L1. L'atteinte de l'apophyse épineuse de L2 et deux foyers nodulaires en D11 évoquent une métastase.
+L'IRM mammaire a montré une masse de 8x8x5 dans le sein gauche CSE, avec une croissance exophytique, des contours mal définis et des signes d'atteinte cutanée.
+
+Une BAG a été réalisée et s'est révélée positive pour un carcinome canalaire infiltrant de grade II de Nottingham, ER 100 %, RP 90 %, Her 2 +++, Ki 67 60 %. Luminal B Her 2+.
+Dans l'étude d'extension, la tomodensitométrie a également montré un conglomérat adénopathique paratrachéal droit de 3,5 cm et des nodules pulmonaires, le plus grand de 15 mm dans le segment apical du LII et dans le LSI de 5 mm.
+Le GGO a montré de multiples lésions à prédominance lytique dans la jonction chondro-sternale du 3ème arc costal droit, dans les segments postérieurs du 5ème arc costal droit et une fracture du 2ème arc costal gauche.
+
+Diagnostic
+Finalement, avec un diagnostic de carcinome canalaire infiltrant du sein cT4NxM1 luminal B Her 2 positif, elle est sortie de l'hôpital le 10/10/2015 et le cas a été évalué par le comité multidisciplinaire et un traitement systémique a été proposé.
+
+Traitement
+Après avoir été évaluée lors de consultations d'oncologie médicale, il a été décidé de commencer une RT antialgique sur la colonne vertébrale, en raison d'un mauvais contrôle des analgésiques.
+Par la suite, elle a commencé une chimiothérapie de première intention avec Pertuzumab-Trastuzumab-Docetaxel, sans toxicité notable.
+Lorsque la patiente s'est rendue à la clinique pour le deuxième cycle, elle continuait à souffrir de douleurs lombaires avec une limitation fonctionnelle malgré une analgésie de troisième niveau et a même signalé une plus grande faiblesse dans les membres inférieurs, bien qu'il n'y ait pas eu de perte de force à l'examen.
+
+Évolution
+Compte tenu de la suspicion de compression de la moelle épinière, une hospitalisation a été décidée, un traitement stéroïdien à forte dose a été instauré et une IRM rachidienne a été réalisée qui, par rapport à la précédente, a montré une atteinte de la moelle épinière au niveau du corps vertébral T12 et du plateau vertébral supérieur de L1 en relation avec une cyphose secondaire à une fracture/écrasement, sans mettre en évidence de myélopathie.
+Un repos relatif a été indiqué, en l'absence de symptômes neurologiques au moment de l'évaluation, et les options de soutien orthétique ont été évaluées et, après consultation du service de rééducation, une orthèse dorsolombaire a été mise en place.
+
+L'évolution initiale étant bonne, le 16/12/2915 un deuxième cycle de QMT Pertuzumab-Trastuzumab-Docetaxel a été prescrit avec l'ajout d'acide zolendronique. Quarante-huit heures après le cycle, elle a présenté une fièvre sans foyer apparent (à l'exception d'une lésion tumorale dans le sein), pour laquelle elle a commencé un traitement empirique avec Augmentine (plus tard, la culture s'est révélée positive pour Staphylococcus aureus sensible à l'amoxicilline). Aureus sensible à l'amoxicilline).
+Bonne évolution initiale, pour laquelle elle a reçu un 3e cycle de QMT le 7/1/2016. Cependant, elle a présenté des pics fébriles, aussi en l'absence de foyer clair, un scanner a été demandé pour réévaluer la tumeur et étudier le syndrome fébrile persistant.
+Le scanner a montré une réponse tumorale claire, mais une lésion abdominale suggérant un abcès secondaire à une perforation intestinale dissimulée au niveau du sigma a été observée.
+Elle a été opérée en urgence le 8/1/16 et a bénéficié d'une résection de type Hartmann avec une évolution torpide (iléus paralytique nécessitant un NGUS et symptômes fébriles dans un contexte de neutropénie post-chimiothérapie et de surinfection par E. coli, Eneterococcus faecalis et Klebsiella produisant des BLEA).
+L'étude anatomopathologique de la chirurgie abdominale a révélé la présence d'implants péritonéaux qui ne correspondaient pas à une tumeur mammaire primaire connue. Après une étude immunohistochimique approfondie (positivité cellulaire pour CK-AE1-AE3, récepteurs des œstrogènes, WT1 et PAX8, négativité pour GATA3, HER-2, GCDFP15 et progestérone), il a été conclu que l'origine la plus probable était un carcinome papillaire séreux d'origine ovarienne.
+L'examen rétrospectif du scanner a révélé une masse annexielle droite d'environ 6 cm et de multiples implants péritonéaux.
+Le cas a été réévalué lors de la session clinique et, avec le diagnostic de cancer de l'ovaire, le traitement par chimiothérapie a été modifié dans l'intention de maintenir la réponse obtenue pour le cancer du sein avec une couverture adéquate du second néoplasme ovarien.
+Une chimiothérapie à base de Carboplatine-Paclitaxel et le maintien du blocage de Her-2 ont donc été indiqués et, après résolution des complications post-chirurgicales et retrait de l'isolement, la patiente a été autorisée à quitter l'hôpital.
+
+Reçue le 11/2/2016, 1er cycle (à 80% de la dose), sans toxicité notable, a reçu les cycles suivants à 100% de la dose avec RP par tomodensitométrie après 4 cycles, en attente d'évaluation après 6 cycles.
+Elle a été adressée à l'unité de conseil génétique avec des résultats moléculaires 5382insC dans BRCA1, confirmant que la patiente est donc porteuse de cette mutation, indiquant un suivi pour elle et ses descendants dans cette unité de conseil génétique.

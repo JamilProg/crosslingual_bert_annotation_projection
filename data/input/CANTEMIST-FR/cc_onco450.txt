@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 68 ans, ex-fumeuse depuis plus de 30 ans. En 2007, elle a subi une chirurgie conservatrice pour un carcinome canalaire infiltrant du sein droit, stade IA (pT1cN0), triple négatif. Elle a bénéficié d'une chimiothérapie adjuvante (6 cycles de CMF) et d'une radiothérapie.
+En septembre 2018, elle a été adressée en médecine interne après auto-palpation d'un nodule dans la région sus-claviculaire droite. L'échographie mammaire et la mammographie ont révélé une lymphadénopathie axillaire droite et les analyses sanguines ont montré une élévation du CA 15.3. Après une biopsie axillaire confirmant un carcinome, un scanner a été réalisé, qui n'a montré qu'une lymphadénopathie axillaire droite et une scintigraphie osseuse (GGO), qui n'a décrit qu'une hypercaptation dans l'articulation sacro-iliaque gauche, qui n'était pas clairement pathologique.
+En janvier 2019, une lymphadénectomie axillaire droite a été réalisée, mettant en évidence des métastases de carcinome de haut grade avec prolifération capsulaire dans six ganglions (6/9). L'immunohistochimie a montré une positivité intense pour les récepteurs des œstrogènes et de la progestérone (80 % et 50 % respectivement), un indice prolifératif Ki 67 de 50 à 55 % et un HER-2 négatif.
+Avant d'être évaluée par le service d'oncologie, elle a été admise en février 2019 pour des céphalées holocrâniennes, une ptose des paupières et une diplopie ainsi qu'une polydipsie, une nycturie et une polyurie pendant une semaine.
+
+Examen physique
+Bon état général. L'examen neurologique a révélé un ptosis palpébral, une mydriase, une déviation oculaire externe et une abolition du réflexe photomoteur à l'œil gauche ; pour le reste, rien n'a été observé.
+
+Examens complémentaires
+L'IRM cérébrale montre une masse hypophysaire de 10 x 13 x 12 mm, qui s'étend et occupe légèrement la selle turcique avec croissance crânienne et épaississement de la tige hypophysaire, sans atteinte du chiasma optique, avec rehaussement homogène modéré après contraste.
+Étude hormonale : hyperprolactinémie, hypothyroïdie, hypercortisolisme et déficit en hormone antidiurétique.
+Un nouveau scanner a été demandé, qui a révélé une lésion scléreuse sur le bord iliaque de l'articulation sacro-iliaque gauche, suivi d'une IRM pelvienne pour étudier la lésion, qui a été définie comme une suspicion de métastase scléreuse.
+Compte tenu de la discordance entre le phénotype du carcinome opéré en 2007 et le phénotype des adénopathies axillaires, une IRM mammaire a été demandée à la recherche d'une tumeur métachrone, excluant un second néoplasme.
+
+Le diagnostic
+D'une part, le diagnostic de tumeur occulte luminale du sein (TxN2M1) ou de rechute de triple négatif avec un phénotype différent de celui présenté en 2007 avec des doutes sur une métastase osseuse unique.
+D'autre part, la patiente présentait un hypopituitarisme secondaire à la lésion de Selar, ce qui soulève le diagnostic différentiel d'une métastase de carcinome mammaire, d'une infundibulohypophysite ou d'un macroadénome hypophysaire provoquant un diabète insipide, une légère hyperprolactinémie et une paralysie du troisième nerf crânien.
+En vue d'un éventuel traitement local de la lésion cérébrale et d'une étude de confirmation de la lésion osseuse (puisqu'il s'agirait d'un seul foyer métastatique), il a été décidé de demander une TEP. Celui-ci a détecté une prise discrète dans l'hypophyse et une lésion osseuse sacro-iliaque gauche avec un faible taux de prolifération cellulaire. Il n'a donc pas permis de clarifier la nature des lésions.
+
+Traitement
+Il est décidé de consulter en neurochirurgie et, finalement, d'éviter un traitement local de la lésion hypophysaire, compte tenu des complications qu'il entraînerait, et un traitement systémique de deux pathologies est mis en place :
+" Compte tenu de l'évolution radiologique de la lésion osseuse et de l'augmentation des marqueurs tumoraux, elle débute en mars 2019 un traitement pour carcinome avancé par létrozole 2,5 mg/24 h et ribociclib 600 mg/24 h pendant 21/28 jours ".
+" Compte tenu de l'insuffisance hypophysaire, elle débute un traitement par dexaméthasone 4 mg/8 h, lévothyroxine 25 mg/24 h et desmopressine 120 mcg/12 h par voie sublinguale, selon les indications de l'Endocrinologie.
+
+Évolution
+Après le premier traitement, la patiente a été admise pour un épisode de mucosite G3 et de muguet buccal. Elle a présenté une évolution lente et torpide des lésions oropharyngées, avec des ulcères aphteux nécessitant un traitement antifongique local et systémique (fluconazole 200 mg intraveineux). L'endoscopie buccale a permis d'éliminer les complications.
+Il a présenté une toxicité hématologique : anémie G3 avec nécessité de transfusion, neutropénie G3 et thrombopénie G2. Les paramètres de la fonction hépatique étaient normaux.
+En outre, la patiente a souffert d'une bronchopneumonie pneumococcique bilatérale avec bronchoscopie sans isolement d'autres pathogènes, également corroborée par une sérologie et une cytologie normales.
+Simultanément, elle a développé une pneumonie sur le troisième doigt de la main gauche avec isolement de Streptococcus pyogenes sensibles à la pénicilline, avec une bonne réponse à la ceftriaxone intraveineuse, en ajoutant également du sulfaméthoxazole-triméthoprime prophylactique en raison de l'utilisation de corticostéroïdes.
+Par la suite, elle a présenté un gonflement, une rougeur et un œdème au niveau du membre inférieur droit, évoquant une cellulite. L'échographie Doppler veineuse a exclu la possibilité d'une thrombose. L'état clinique de la patiente s'est amélioré après une antibiothérapie intraveineuse à l'amoxicilline-acide clavulanique.
+Avant la sortie de l'hôpital, un nouveau GGO a été réalisé, qui continuait à montrer un foyer d'hypercaptation dans l'articulation sacro-iliaque gauche, dont la taille et l'intensité avaient augmenté par rapport à la scintigraphie précédente, ce qui laissait supposer une métastase osseuse.
+Après la sortie de l'hôpital, il a été décidé d'arrêter le ribociclib en raison des effets indésirables observés et de maintenir le létrozole.
+Trois mois après le traitement, l'IRM cérébrale a montré une adénohypophyse et une neurohypophyse de taille et de morphologie normales, sans signe de compression ou de déplacement de la tige pituitaire, avec un rehaussement normal après contraste.
+Sur le plan clinique, elle est asymptomatique (pas de déficit neurologique ni de symptômes endocriniens) et son taux d'ACE 15.3 diminue (100 U/ml au départ et 40 U/ml actuellement).

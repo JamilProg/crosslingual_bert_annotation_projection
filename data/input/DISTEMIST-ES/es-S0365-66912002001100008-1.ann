@@ -1,0 +1,16 @@
+T1	pathologie 99 113	metamorfopsias
+T2	pathologie 480 501	membrana subretiniana
+T3	pathologie 853 857	NVSR
+T4	pathologie 1105 1109	NVSR
+T5	pathologie 1301 1305	NVSR
+T6	pathologie 1656 1668	tuberculosis
+T7	pathologie 1696 1703	sífilis
+T8	pathologie 1706 1717	borreliosis
+#1	SNOMED T1	42134006
+#2	SNOMED T5	61267008
+#3	SNOMED T4	61267008
+#4	SNOMED T6	56717001
+#5	SNOMED T7	76272004
+#6	SNOMED T8	240668005
+#7	SNOMED T3	61267008
+#8	SNOMED T2	133854004

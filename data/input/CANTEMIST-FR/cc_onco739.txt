@@ -1,0 +1,54 @@
+Anamnèse
+Il s'agit d'un homme de 74 ans, évalué lors de la première consultation d'oncologie médicale le 3 mars 2017.
+En ce qui concerne ses antécédents d'intérêt :
+" Socio-familial : actuellement retraité, a travaillé dans la métallurgie. Célibataire, vit seul. Complètement autonome pour les activités de la vie quotidienne.
+" Pathologique : pas d'allergie médicamenteuse connue. Ex-fumeur depuis plus de 20 ans.
+Hypertension artérielle (HTA) sous traitement. Fibrillation auriculaire anticoagulée par acénocoumarol. Gastrite chronique. Polypose colique avec résection de plusieurs polypes. Hypertrophie bénigne de la prostate. Pyélonéphrite aiguë nécessitant une admission en février 2017. Opéré d'une hernie inguinale droite.
+Sous traitement par : bisoprolol, olmésartan/amlodipine, acénocoumarol.
+Résumé du processus oncologique actuel
+L'histoire oncologique commence en juin 2005, lorsque notre patiente a été opérée par laparotomie moyenne pour une tumeur pelvienne étendue mesurant plus de 12 cm d'après les examens d'imagerie. Le diagnostic était celui d'une tumeur fibreuse solitaire d'un diamètre maximal de 16 cm.
+L'étude anatomopathologique de la pièce d'exérèse a été la suivante :
+"Description macroscopique : tumeur grisâtre de 760 g de 16 x 15 x 12 cm, surface lisse avec des excroissances lobulées rouges-violacées.
+"Description microscopique : tumeur solide avec des zones de nécrose bien délimitées consistant en une prolifération d'éléments cellulaires fusiformes richement vascularisés avec de fréquentes images de thrombose vasculaire et des zones d'hémorragie. L'indice mitotique est modéré et le Ki67 est de I/III.
+Immunohistochimie :
+"Positivité pour CD34, CD68 et vimentine.
+"Négativité pour le CD117, la desmine et les pankératines.
+Par la suite, en mai 2012, le patient a été réopéré par le service de chirurgie générale, qui a pratiqué une lymphadénectomie iliaque droite et une segmentectomie hépatique (segment V). Ces deux examens ont révélé la présence de métastases d'une tumeur fibreuse solitaire (d'une taille de 9,5 cm dans le foie).
+Un an plus tard, en mai 2013, une récidive hépatique de la maladie a été observée, avec l'apparition de deux lésions : l'une dans le segment VIII mesurant 33 mm et l'autre dans le segment VI mesurant 14 mm, et une ablation par radiofréquence percutanée de ces lésions a été réalisée.
+Notre patient a ensuite nécessité une série d'ablations par radiofréquence :
+" A 3 reprises en 2013 de la lésion située dans le segment VIII.
+" En février 2014, lésion hépatique entre le segment VI-VII de 3,5 cm.
+"En février 2015, lésion entre les segments VII-VIII.
+" En février 2016, la dernière, lésions dans le segment VIII de 3,5 cm et dans le segment VI de 2,6 cm.
+Lors de l'admission en février 2017 pour une pyélonéphrite aiguë, suite à un épisode de dyspnée, un scanner thoracique a été réalisé montrant 3 nodules pulmonaires : 9 mm dans le lobe supérieur droit et deux d'environ 4 mm dans le lobe inférieur droit. Ces nodules n'étaient pas présents dans les études précédentes et suggèrent une métastase comme première possibilité. Par conséquent, après avoir discuté du cas au sein du comité respiratoire multidisciplinaire, il a été décidé d'adresser le patient au service d'oncologie médicale.
+
+Examen physique
+"À l'examen physique, notre patient avait un statut de performance ECOG (PS) de 1.
+1. conscient, orienté et coopératif. Bon état général. Bien perfusé. Bonne mécanique ventilatoire au repos.
+"Auscultation cardio-pulmonaire : arythmique, pas de souffle, bonne ventilation globale, pas de bruits superposés.
+"Abdomen : cicatrice d'une laparotomie antérieure de bonne apparence. Pas de douleur à la palpation. Pas de signes d'irritation péritonéale. Péristaltisme présent.
+"Membres inférieurs : œdème malléolaire minime sans fovéa. Pas de sémiologie de thrombose veineuse profonde.
+
+Tests complémentaires
+Prise de sang (09/03/2017) :
+" Biochimie : bilirubine totale 1,5 mg/dl (0,5-1,4). Bilirubine directe 0,5 mg/dl (0,2-1,2). Bilirubine indirecte 1,0 mg/dl. Gamma GT 139 U/l (8-64). Fonction rénale, fonction hépatique, ions, protéines et glucose dans les limites normales.
+" Hémogramme normal.
+TC-PET (10/03/2017) :
+Nodule pulmonaire sous-pleural dans le lobe supérieur droit de 9 mm, avec discrète augmentation du métabolisme (SUVmax 1,15). Augmentation du métabolisme de répartition hétérogène au niveau de la prostate avec SUVmax de 16,63 dans le lobe droit et SUVmax de 11,88 dans le lobe gauche.
+IRM hépatique (12/05/2017) :
+Croissance d'une lésion hypervasculaire sous-capsulaire du segment III compatible avec une métastase. Apparition d'une autre lésion au niveau du segment VIII évoquant une métastase.
+
+Diagnostic
+La biopsie de la prostate a permis de conclure à l'absence de malignité du tissu prostatique.
+Après discussion avec la chirurgie générale, une nouvelle ablation hépatique a été exclue, compte tenu de l'apparition de 3 métastases hépatiques simultanées et de la présence de nodules pulmonaires évocateurs de malignité dont la TEP-TDM n'a pas été concluante en raison de leur taille millimétrique.
+Nous sommes donc confrontés au diagnostic de :
+"Récidive hépatique et pulmonaire d'une tumeur fibreuse solitaire pelvienne opérée en 2005.
+
+Traitement
+Le 26 juin 2017, le patient a débuté un traitement par imatinib à la dose de 400 mg/jour (off-label). Ce traitement a été bien toléré, sans toxicité notable. En octobre de la même année, lorsqu'il s'est présenté pour l'évaluation de la réponse, le scanner thoraco-abdominal et pelvien ainsi que l'IRM hépatique ont montré une croissance millimétrique des lésions au niveau du nodule du lobe inférieur droit et des segments hépatiques II-III, VIII et VII. Le patient était alors asymptomatique et, en l'absence de nouvelles lésions, le résultat a été interprété comme une progression mineure, et il a été décidé de poursuivre le même traitement.
+En janvier 2018, la patiente s'est présentée pour un contrôle, présentant une douleur dans l'hémithorax droit qui s'améliorait avec le paracétamol et était aggravée par des quintes de toux occasionnelles. Le scanner a montré une croissance progressive des lésions précédemment décrites et, fait nouveau : une lésion hypervasculaire de 24 x 14 mm au niveau de la paroi costale entre les 8e et 9e arcs costaux droits, évocatrice de métastases. Par conséquent, compte tenu de la progression de la maladie, il a été décidé de commencer une chimiothérapie de deuxième ligne selon le schéma suivant : temozolamide 150 mg/m2 les jours 1-7 et 15-21, associé à une dose de bevacizumab de 5 mg/kg les jours 8 et 22, tous les 28 jours. La tolérance au traitement a été excellente, à l'exception d'une épistaxis de grade 1, sans autre toxicité notable sur le plan clinique ou analytique, avec un bon contrôle de la pression artérielle sans modification du traitement antihypertenseur habituel, et sans apparition de protéinurie lors des contrôles périodiques.
+
+Évolution
+Actuellement, notre patient persiste cliniquement avec une douleur costale droite à caractère pleurétique qui est contrôlée par la prise occasionnelle de paracétamol et de métamizole. Il continue à mener une vie active sans souffrir d'asthénie. Il conserve un statut ECOG de 0, sans altération de l'examen physique.
+Quant au traitement, il continue à le tolérer parfaitement, sans autre toxicité qu'une épistaxis de grade 1.
+A ce jour, elle vient de terminer le troisième cycle de temozolamide-bevacizumab et attend les tests d'évaluation de la réponse.

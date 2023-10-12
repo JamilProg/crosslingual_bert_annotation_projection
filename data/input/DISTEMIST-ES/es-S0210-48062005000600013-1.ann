@@ -1,0 +1,16 @@
+T1	pathologie 48 75	insuficiencia renal crónica
+T2	pathologie 77 80	IRC
+T3	pathologie 94 113	artritis reumatoide
+T4	pathologie 115 117	AR
+T5	pathologie 222 248	hematuria total anemizante
+T6	pathologie 503 518	coágulo vesical
+T7	pathologie 869 901	lesiones vesicales macroscópicas
+T8	pathologie 972 991	Amiloidosis vesical
+#1	SNOMED T1	90688005
+#2	SNOMED T2	723190009
+#3	SNOMED T3	69896004
+#4	SNOMED T4	69896004
+#5	SNOMED T5	34436003+271737000
+#6	SNOMED T7	42643001
+#7	SNOMED T8	17602002
+#8	SNOMED T6	42643001

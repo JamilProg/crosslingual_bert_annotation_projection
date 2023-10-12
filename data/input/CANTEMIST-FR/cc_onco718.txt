@@ -1,0 +1,31 @@
+Anamnèse
+" Homme, 60 ans, électricien et latino-américain.
+" Antécédents personnels : ex-fumeur de 3 cigarettes par jour pendant 5 ans, il présentait une stéatose hépatique et un syndrome d'apnée obstructive du sommeil. Son traitement habituel était l'oméprazole 20 mg/jour.
+" Antécédents familiaux de cancer : père atteint d'un lymphome à 66 ans, sœur atteinte d'un cancer du sein à 62 ans et grand-mère paternelle atteinte d'un cancer gastrique à 84 ans.
+" Consultation en juin 2017 en soins primaires pour des douleurs dans la partie supérieure de l'hémiabdomen, plus intenses dans l'épigastre, intermittentes depuis 3 semaines. Elle avait perdu 5 kg de poids au cours des 3 derniers mois. Elle ne présentait pas d'asthénie ni d'anorexie et les examens de laboratoire demandés montraient un tableau cholestatique. Le patient a été référé à l'hôpital et l'étude a été complétée.
+
+Examen physique
+L'examen physique de la patiente était normal et ne révélait aucune anomalie. L'abdomen était souple, non douloureux à la palpation et aucune masse ou viscéro-mégalie n'était palpable.
+
+Examens complémentaires
+Au vu de ce tableau clinique, un bilan sanguin est réalisé : hémogramme normal, biochimie avec une fonction rénale normale, des ions dans l'intervalle, une bilirubine et des transaminases élevées (bilirubine totale 5,4 mg/dl, AST 186 UI/l, ALT 387 UI/l, GGT 19 UI/l) et des LDH normales. Il avait des marqueurs tumoraux normaux : CEA : 4,9 ng/ml (0,0-3,0) et CA 19-9 10 U/ml (0,0-40,0).
+Devant l'élévation de la bilirubine et des transaminases, une échographie abdominale a été réalisée montrant une lésion de la tête pancréatique de 35 x 34 mm, avec dilatation des canaux hépato-cholédocien et biliaire intra-hépatique, distension de la vésicule biliaire et dilatation du canal de Wirsung.
+L'étude a été complétée par un scanner thoraco-abdomino-pelvien le 11/07/2017, qui a montré de multiples ganglions lymphatiques hiliomédiastinaux d'aspect réactif (le plus grand au niveau paratrachéal gauche mesurant 13 x 19 mm), sans autre résultat pertinent dans le thorax. L'abdomen montre une dilatation du canal biliaire intrahépatique, une distension de la vésicule biliaire et du canal biliaire commun, avec un changement brusque de calibre au niveau de la tête du pancréas. Canal pancréatique ectatique avec interruption au niveau de la tête du pancréas et de l'apophyse uncinée. Dans la tête du pancréas, on observe un effet de masse nodulaire, sans lésion clairement mesurable ou identifiable, qui touche la veine porte principale distale à la jonction avec la veine mésentérique supérieure à moins de 90°. Suspicion de processus néoformatif pancréatique primaire.
+Afin d'obtenir du matériel pour l'étude anatomopathologique, une échographie endoscopique supérieure a été réalisée, montrant une lésion hypoéchogène de 33 mm avec des limites mal définies, au niveau de la tête du pancréas, qui a contacté la zone du confluent spléno-portal sans signes clairs d'infiltration. Il n'y a pas d'invasion des vaisseaux artériels. Il n'y a pas d'adénopathies pathologiques. Une ponction-aspiration (PAAF) de la lésion du pancréas a été réalisée.
+L'anatomie pathologique de la FNA montre des cellules épithéliales d'habitus canalaire avec des noyaux volumineux de contour irrégulier, hyperchromatiques et pléomorphes. Ces cellules apparaissent en vrac et en groupes pseudo-papillaires trabéculaires et ramifiés avec une disposition périphérique alignée, une perte de polarité nucléaire, une tendance partielle à la tridimensionnalité et/ou à la différenciation des lumières secondaires. Des mitoses sont identifiées. On en conclut que la FNA est positive pour les cellules tumorales malignes : adénocarcinome. Les résultats entrent dans la catégorie VI ("positive/maligne") du système de consensus proposé par la Papanicolaou Cytopathology Society pour les lésions pancréaticobiliaires (Springer 2015).
+
+Diagnostic
+Adénocarcinome du pancréas résécable de stade uT2 N0 cM0.
+
+Traitement
+Compte tenu du diagnostic d'adénocarcinome pancréatique résécable de stade uT2 N0 cM0, le 19/07/2017 une duodénopancréatectomie céphalique a été réalisée avec montage de type Child.
+
+Evolution
+Dans la pièce opératoire de la duodénopancréatectomie céphalique, le canal hépatique commun dilaté est identifié. Le pancréas a une consistance fibreuse élargie et une coloration blanchâtre mesurant 3 x 2 x 1 cm, qui est en contact avec le bord chirurgical postérieur de la pièce.
+Au microscope, on observe une pancréatite périductale et lobulaire, une inflammation à prédominance lymphoplasmocytaire, avec sclérose et veinulite (avec nécrose fibrinoïde et oblitération) avec un composant plasmocytaire IgG4 abondant (jusqu'à 73/CGA). Aucune néoplasie n'est observée. Des changements réactifs (agrégats histiocytaires épithélioïdes) sont observés dans les ganglions lymphatiques : 10 péribiliaires et péripancréatiques et 15 périgastriques. Pancréas ectopique.
+Dans les canaux où l'atteinte inflammatoire est plus importante, on observe des atypies de nature réparatrice. Le tableau morphologique est compatible avec une pancréatite auto-immune de type 1 avec un schéma segmentaire/focal.
+Étant donné le diagnostic de pancréatite périductale et lobulaire, avec une composante plasmocytaire IgG4, une quantification des IgG4 dans le sang a été demandée : 216,0 mg/dl (4,0-86,0).
+Un PET scan a été réalisé, montrant des glandes salivaires, un ganglion lymphatique sous-maxillaire gauche et des adénopathies hiliomédiastinales, qui pourraient être secondaires à une maladie liée aux IgG4.
+Une corticothérapie a été mise en place (prednisone 40 mg/jour).
+La réévaluation du PET scan a montré une résolution de la captation dans la glande sous-maxillaire gauche et l'adénopathie submandibulaire, ainsi qu'une diminution de l'intensité de la captation et de la taille des multiples adénopathies médiastinales et hilaires bilatérales.
+Le patient continue d'être traité avec des corticostéroïdes selon un schéma décroissant et attend une nouvelle réévaluation.

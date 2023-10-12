@@ -1,0 +1,55 @@
+Anamnèse
+Une patiente de 40 ans évaluée en médecine interne en décembre/2016 pour avoir présenté des symptômes cliniques d'environ 6 semaines consistant en des douleurs abdominales dans l'hypochondre droit, qui s'aggravaient avec la prise d'aliments et ne s'amélioraient pas avec les médicaments ; elle s'était présentée aux urgences et avait subi une échographie de l'abdomen dans laquelle on observait de nombreuses adénopathies d'aspect pathologique, dont la plus importante était spatialement liée à la tête du pancréas et au hile hépatique. Il n'y avait pas d'asthénie, d'anorexie, de sueurs ou de fièvre associées.
+
+Antécédents familiaux
+"Aucun intérêt.
+
+Antécédents personnels
+"Aucune allergie médicamenteuse connue.
+"N'a jamais fumé ni bu.
+"Aucun facteur de risque cardiovasculaire.
+"Antécédents obstétricaux : 2 grossesses, 2 accouchements par voie basse.
+"Hypothyroïdie depuis la deuxième grossesse (2015).
+"Traitement habituel : lévothyroxine 25 mcg par jour et contraceptifs oraux.
+
+Examen physique
+"ECOG 0. Pas de ganglions lymphatiques périphériques palpables. Aucun signe au niveau des seins. Abdomen légèrement douloureux à la palpation dans l'hypochondre droit, sensation d'une masse mal définie dans l'épigastre. Membres inférieurs sans altération notable.
+"Examen gynécologique 17/02/2017 : macroscopiquement normal. Examen rectal et vaginal normal.
+
+Examens complémentaires
+" NFS 19/12/2016 : fonction rénale normale. Fonction hépatique normale. Ions dans l'intervalle. Protéine C-réactive 38,4. Hémogramme, coagulation et métabolisme du fer normaux.
+"Marqueurs tumoraux (MT) 19/12/2016 : alpha-fœtoprotéine (AFP) 4,626 {0-10}, bêta2-microglobuline 2,90 {1,5-2,5} ; CEA, CA 15,5, CA 72,4, CA 19,9 et CA 125 dans les limites de la normale. BHCG normale.
+" AFP évolutive : 4 626 (19/12/2016) --> 9 700 (17/02/2017) --> 10 875 (27/02/2017).
+" Core needle biopsy (CNB) 30/01/2017 : CNB d'un conglomérat adénopathique rétropéritonéal --> Pathologie (13/02/2018) : métastase de carcinome, sans différenciation neuroendocrine (CD56 négatif) --> immunohistochimie (IHQ) : CK7 -, CK20 -, glypican-3 +, p16 focalement +. Négativité pour Hep-Par1, RCC, calrétinine, CD30, CD117, CDX2, TTF1, p40 et CD10. Compte tenu de ce profil IHC et de cette morphologie, la métastase d'un carcinome hépatoïde est envisagée. Comme diagnostic différentiel histologique, l'hépatocarcinome et une variante hépatoïde de la tumeur germinale de type sinus endodermique doivent être envisagés. L'IHC pour SALL-4 a été réalisée, avec un résultat négatif, ce qui exclut une origine germinale.
+" Tomodensitométrie thorax-abdomen-pelvis le 20/12/2016 :
+" Thorax sans résultat, aucune adénopathie n'est observée.
+" Abdomen : foie avec lésion focale millimétrique évoquant un kyste. Importante atteinte adénopathique abdominale, rétropéritonéale et mésentérique. A noter le conglomérat interaortocave mesurant 50 x 38 mm.
+" Tomodensitométrie triphasique de l'abdomen 21/02/2017 : larges conglomérats adénopathiques. Lésion de type tumoral dans le corps du pancréas. Thrombose de la veine mésentérique supérieure et confluence avec la veine splénique et le tronc porte initial. Lésion millimétrique du foie d'aspect bénin. Petit tératome ovarien gauche.
+" Endoscopie buccale 20/02/2017 : compression extrinsèque au niveau du genou duodénal.
+" Coloscopie 20/02/2017 : aucun résultat.
+
+Diagnostic
+"Carcinome hépatoïde produisant de l'alpha-fœtoprotéine avec une probable métastase pancréatique primaire (multiples adénopathies dans la cavité abdominale).
+"Thrombose de la veine mésentérique supérieure et confluence avec la veine splénique et le tronc porte initial.
+Dans ce cas, l'IHC était essentielle, car elle a permis de faire le diagnostic différentiel entre le carcinome hépatoïde et la tumeur du sinus endodermique hépatoïde (négatif pour SALL-4).
+Nous avons conclu que la tumeur primaire se trouvait dans le pancréas en raison de la découverte au scanner d'une lésion hypodense dans le corps du pancréas évoquant une tumeur primaire (bien que nous n'en ayons pas la confirmation histologique).
+
+Traitement
+" La patiente débute un traitement par héparine de bas poids moléculaire (HBPM).
+" 02/03/2017 : il a été décidé de commencer un traitement pour une maladie disséminée selon un schéma de cisplatine 100 mg/m2 j1 + gemcitabine 1 000 mg/m2 j1,8 tous les 21 jours.
+
+Évolution
+1ère ligne : la patiente a débuté un traitement selon un schéma cisplatine-gemcitabine toutes les trois semaines en mars 2017.
+" Toxicités significatives : G2 alopécie, G2 asthénie, G3 neutropénie, G1 thrombopénie, G1 mucite, G1-2 paresthésie des gants et des chaussettes. Le traitement a dû être retardé en raison de la neutropénie. Une prophylaxie secondaire par G-CSF a été nécessaire. Il n'a jamais eu besoin d'être hospitalisé.
+"Il a reçu un total de 6 cycles complets de cisplatine-gemcitabine, continuant avec la gemcitabine en monothérapie à partir de C7 (en raison de la limitation de la neurotoxicité) jusqu'à ce qu'il reçoive un total de 12 cycles.
+" Tomodensitométrie thoraco-abdominale 08/05/2017 : réponse partielle au niveau de l'atteinte adénopathique infradiaphragmatique et de la lésion primitive du pancréas. Progression de la thrombose portomésentérique. Tératome mature au niveau de l'annexe gauche.
+" Tomodensitométrie thoraco-abdominale 14/08/2017 : RP maintenu. Poursuite de la thrombose portomésentérique avec transformation cavernomateuse de la porte et collatérales multiples.
+" CT scan thoraco-abdominal 13/11/2017 : nouvelle adénopathie interaortocave située entre l'artère rénale droite et la veine rénale gauche d'un diamètre d'environ 2 x 1 cm (PE peu claire selon RECIST 1.1).
+ Evolution de l'AFP : 10 875 (27/02/2017, avant le début du QT) --> 9 740 --> 5 724 --> 589 --> 158 56,3 (10/10/2017) --> 755 (28/11/2017).
+" " En résumé : réponse partielle par l'imagerie et les marqueurs tumoraux.
+2ème ligne : en décembre/2017, l'EP est considérée par CT (bien que ne répondant pas aux critères RECIST 1.1) et, surtout, par MT. Un nouveau traitement par docétaxel-gemcitabine est débuté.
+" Toxicités significatives : neutropénie G3, neurotoxicité résiduelle G1-2.
+"Reçoit un total de 3 cycles.
+" Tomodensitométrie thoraco-abdominale 06/03/2018 : EP due à des adénopathies volumineuses au niveau du ligament gastro-hépatique, du porto-cava et du rétropéritoine.
+" Evolution AFP : 755 (28/11/2017) --> 2 796 (13/03/2018).
+3ème ligne : en mars/2018 une PE a été détectée par imagerie et MT, il a donc été décidé de débuter une nouvelle ligne de traitement par adriamycine 25 mg/m2 j1,8 tous les 21 jours (en cours).

@@ -1,0 +1,18 @@
+T1	pathologie 41 83	alérgico a tetraciclinas y beta-lactámicos
+T2	pathologie 104 125	hipertensión arterial
+T3	pathologie 244 288	espondiloartrósico con componente miofascial
+T4	pathologie 870 886	ptosis palpebral
+T5	pathologie 947 953	ptosis
+T6	pathologie 1123 1139	ptosis palpebral
+T7	pathologie 1151 1159	diplopía
+T8	pathologie 1290 1306	miastenia gravis
+T9	pathologie 1308 1310	MG
+#1	SNOMED T1	294592000+419885006
+#2	SNOMED T2	38341003
+#3	SNOMED T3	53332000
+#4	SNOMED T4	11934000
+#5	SNOMED T5	11934000
+#6	SNOMED T6	11934000
+#7	SNOMED T8	91637004
+#8	SNOMED T7	24982008
+#9	SNOMED T9	91637004

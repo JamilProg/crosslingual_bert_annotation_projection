@@ -1,0 +1,18 @@
+T1	pathologie 37 78	enfermedad de Crohn de localización ileal
+T2	pathologie 155 174	crisis suboclusivas
+T3	pathologie 239 287	perforación abdominal con peritonitis fecaloidea
+T4	pathologie 422 449	síndrome de intestino corto
+T5	pathologie 452 490	fístula enteroentérica y enterocutánea
+T6	pathologie 568 614	infección de la herida con dehiscencia cutánea
+T7	pathologie 617 636	desnutrición severa
+T8	pathologie 1140 1150	colestasis
+T9	pathologie 1351 1372	fístula enterocutánea
+#1	SNOMED T1	38106008
+#2	SNOMED T4	26629001
+#3	SNOMED T5	197247001+3590007
+#4	SNOMED T9	197247001
+#5	SNOMED T2	235825006
+#6	SNOMED T6	76844004+410723003
+#7	SNOMED T3	235985005+56905009
+#8	SNOMED T7	29740003
+#9	SNOMED T8	33688009

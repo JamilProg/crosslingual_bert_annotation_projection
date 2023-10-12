@@ -1,0 +1,27 @@
+Anamnèse
+Une femme de 53 ans a consulté son médecin traitant pour une dyspnée. La patiente avait des antécédents de tabagisme jusqu'à 10 ans auparavant, avec un indice de paquet-année de 13. Elle n'avait pas d'antécédents familiaux pertinents.
+La patiente a fait état d'une dyspnée d'effort modérée depuis 4 à 5 mois, associée à une perte de poids de 7 kg au cours des 3 derniers mois. Elle n'a pas signalé d'asthénie, d'anorexie, de fièvre, de toux ou d'autres symptômes.
+
+Examen physique
+Il n'y a pas eu d'altérations pertinentes.
+
+Examens complémentaires
+La radiographie du thorax a montré une augmentation de la densité périhilaire et paravertébrale gauche suspecte de malignité.
+L'étude a été complétée par une tomographie axiale informatisée (CAT scan) confirmant la présence d'une masse hilaire dans le segment apical du lobe inférieur gauche (LII) mesurant 6 x 4 x 5 cm avec des bords irréguliers en contact avec la plèvre costale, la zone paravertébrale, l'artère pulmonaire gauche, l'artère lobaire inférieure gauche et l'aorte descendante à plus de 90 degrés de sa circonférence sans pouvoir exclure une infiltration de la paroi évocatrice d'un carcinome bronchogénique.
+La bronchoscopie a révélé une masse recouverte de fibrine et d'aspect nécrotique obstruant la LII et provenant de la bronche apicale de la LII. La biopsie de la lésion a confirmé la présence d'une tumeur maligne largement nécrosée avec des cellules isolées correspondant à un carcinome non à petites cellules qui, en raison de l'expression du TTF-1 et de la négativité de la p40, a été diagnostiquée comme compatible avec un adénocarcinome peu différencié du poumon.
+Une tomographie par émission de positons (PET-CT) a été réalisée pour compléter l'étude avec une augmentation de la captation au niveau de la masse connue dans le LII (SUVmax 20,8) s'étendant au hile pulmonaire gauche avec un contact avec la plèvre costale, la zone paravertébrale et l'aorte descendante.
+La prise pathologique du hile gauche est probablement liée à une atteinte secondaire. On observe également une augmentation diffuse de la captation dans le côlon transverse et une augmentation plus intense dans le côlon descendant et le côlon rectum-sigmoïde, qui semble être d'origine fonctionnelle ou inflammatoire.
+
+Diagnostic
+Avec le diagnostic d'adénocarcinome pulmonaire peu différencié cT4 cN1 cM0 (stade IIIA), le cas a été présenté au comité des tumeurs thoraciques et il a été décidé de commencer le traitement par une chimiothérapie à base de platine en intention néoadjuvante et d'évaluer ultérieurement la réponse et la résécabilité.
+
+Traitement
+Le patient a reçu 3 cycles de Cisplatine 75mg/m2 intraveineux jour 1 et Vinorelbine 25mg/m2 intraveineux jours 1 et 8 tous les 21 jours avec une tolérance acceptable à l'exception de vomissements de grade 1-2 et d'asthénie de grade 1.
+
+Évolution
+Le scanner PET-CT a été répété après la chimiothérapie néoadjuvante avec une très légère diminution de la taille de la masse à 4,6 x 5,1 cm et un SUVmax de 29, la captation hilaire gauche a également persisté. Il y a eu une nouvelle augmentation de la captation focale dans le côlon ascendant, ce qui a justifié une évaluation plus poussée.
+L'IRM thoracique a montré que la masse tumorale était en contact avec l'aspect latéral de l'aorte descendante sur une longueur de 5 cm mais à moins de 90º de la circonférence du vaisseau.
+Le cas a été présenté à nouveau au comité multidisciplinaire des tumeurs et il a été décidé de procéder à une lobectomie inférieure gauche, après confirmation de l'absence d'atteinte des ganglions lymphatiques médiastinaux par vidéomédiastinoscopie.
+Le résultat anatomopathologique de la pièce opératoire était un carcinome à cellules géantes de 5,3 cm infiltrant toute l'épaisseur de la paroi bronchique, une partie de la veine et s'étendant dans le parenchyme pulmonaire et la plèvre. La nécrose tumorale était présente dans moins de 90 % du volume. Il n'y avait aucun signe d'infiltration périneurale, vasculaire ou lymphatique, ni d'atteinte des ganglions lymphatiques. La tumeur était focalement immunopositive pour CK7, TTF-1, napsinA et p40, et négative pour la ß-HCG. Par conséquent, le stade pathologique après le traitement néoadjuvant était ypT2b pN0.
+En raison de la nouvelle captation TEP dans le côlon ascendant, une coloscopie a été demandée et a révélé un polype sessile de 3 mm dans le côlon ascendant, dont des biopsies ont été effectuées mais qui n'a pas été complètement réséqué en raison des restes de matières fécaloïdes, et un autre polype semi-pédonculé de 16 mm dans l'angle hépatique qui a été réséqué avec une anse de polypectomie après infiltration sous-muqueuse d'adrénaline. Le diagnostic a été celui d'un adénome tubulaire avec dysplasie de bas grade dans le côlon ascendant et la pièce de polypectomie dans l'angle hépatique a montré une métastase polypoïde d'un carcinome pulmonaire. Aucune mutation de l'EGFR ou translocation ALK n'a été détectée. La tumeur pulmonaire et la métastase présentaient le même immunophénotype.
+Par la suite, la coloscopie a été répétée et n'a montré que la cicatrice dans la zone de la polypectomie, les biopsies prélevées dans cette zone n'ayant révélé aucune tumeur maligne.

@@ -1,0 +1,10 @@
+T1	pathologie 744 769	lesión tumoral mandibular
+T2	pathologie 1058 1072	lesión mixoide
+T3	pathologie 1310 1340	mixoma odontogénico mandibular
+T4	pathologie 1433 1439	lesión
+T5	pathologie 2320 2350	mixoma odontogénico mandibular
+#1	SNOMED T1	126551000
+#2	SNOMED T2	92069005
+#3	SNOMED T3	92208007
+#4	SNOMED T5	92208007
+#5	SNOMED T4	417163006

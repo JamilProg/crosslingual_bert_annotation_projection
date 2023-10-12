@@ -1,0 +1,14 @@
+T1	pathologie 63 94	anemia normocítica-normocrómica
+T2	pathologie 115 133	neoplasia de colon
+T3	pathologie 209 211	MM
+T4	pathologie 370 375	nevus
+T5	pathologie 392 394	MM
+T6	pathologie 600 672	MM polipoide y ulcerado de 11 cm de diámetro a nivel de colon ascendente
+T7	pathologie 867 922	ganglios linfáticos resecados, 2 presentaban metástasis
+#1	SNOMED T1	46737006
+#2	SNOMED T6	2092003
+#3	SNOMED T2	126838000
+#4	SNOMED T3	372244006
+#5	SNOMED T7	94392001
+#6	SNOMED T4	239107007
+#7	SNOMED T5	372244006

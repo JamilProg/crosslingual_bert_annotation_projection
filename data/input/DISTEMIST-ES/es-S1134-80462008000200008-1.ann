@@ -1,0 +1,14 @@
+T1	pathologie 30 53	alergias medicamentosas
+T2	pathologie 100 109	exfumador
+T3	pathologie 136 160	diabetes mellitus tipo 2
+T4	pathologie 162 181	hipercolesterolemia
+T5	pathologie 199 236	anticuerpo antifosfolípido circulante
+T6	pathologie 261 288	trombosis venosas profundas
+T7	pathologie 1523 1552	microinfartos de pequeño vaso
+#1	SNOMED T2	8517006
+#2	SNOMED T3	44054006
+#3	SNOMED T4	13644009
+#4	SNOMED T5	259916004
+#5	SNOMED T6	128053003
+#6	SNOMED T7	27550009
+#7	SNOMED T1	416098002

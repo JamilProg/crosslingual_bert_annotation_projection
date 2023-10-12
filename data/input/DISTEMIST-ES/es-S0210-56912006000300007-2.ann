@@ -1,0 +1,16 @@
+T1	pathologie 185 224	aneurisma aórtico abdominal infrarrenal
+T2	pathologie 313 325	proctorragia
+T3	pathologie 366 394	descompensación hemodinámica
+T4	pathologie 675 678	FAE
+T5	pathologie 769 787	cicatriz umbilical
+T6	pathologie 926 950	hematoma retroperitoneal
+T7	pathologie 986 1000	FAE con yeyuno
+T8	pathologie 1050 1074	paro cardiorrespiratorio
+#1	SNOMED T2	12063002
+#2	SNOMED T1	444569004
+#3	SNOMED T8	410430005
+#4	SNOMED T4	59047005
+#5	SNOMED T7	307403007
+#6	SNOMED T6	236002003
+#7	SNOMED T5	60155008
+#8	SNOMED T3	422773005

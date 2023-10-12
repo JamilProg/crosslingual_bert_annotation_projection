@@ -1,0 +1,37 @@
+Anamnèse
+Un homme de 61 ans, fumeur, s'est présenté au service des urgences pour une crise tonico-clonique généralisée de plusieurs minutes, suivie d'un état post-critique.
+Il s'agissait d'un homme célibataire vivant seul dans un environnement rural. Il n'avait pas d'autres antécédents médicaux intéressants ni de contacts pertinents.
+Le patient et sa famille ont indiqué qu'il avait précédemment présenté des symptômes généraux de fièvre, de perte de poids et d'asthénie avec anorexie.
+
+Examen physique
+"Tension artérielle 120/70 mm Hg. TEMPÉRATURE 37,7 ºC. FC 80 bpm. Saturation en oxygène 95 % basale.
+"Eupnéique. Pas de ganglions lymphatiques palpables.
+"Auscultation pulmonaire avec rhonchi disséminé dans tous les champs.
+"Auscultation cardiaque rythmée sans souffle ni extratonos.
+"Abdomen souple et dépressible, avec des bruits hydro-aériques normaux.
+"Pas d'œdème ni de signes de thrombose veineuse.
+"L'examen de la peau n'a révélé aucune altération pertinente.
+
+Examens complémentaires
+Un hémogramme, une coagulation et une biochimie sanguine ont été effectués aux urgences et se sont révélés normaux.
+La radiographie du thorax a montré une masse pulmonaire d'environ 3 cm dans le lobe moyen en contact avec la plèvre pariétale, compatible avec une néoplasie pulmonaire primaire, et la tomodensitométrie cérébrale a montré un LOES frontal droit avec un œdème vasogénique associé suggérant une métastase cérébrale.
+Le patient a été admis en médecine interne où un scanner thoraco-abdomino-pelvien a montré une masse pulmonaire dans la lingula et un nodule dans le segment LSD avec des signes d'emphysème paraseptal et une probable fibrose pulmonaire. Il n'y avait aucun signe d'atteinte à d'autres niveaux.
+La masse de la lingula a fait l'objet d'une biopsie à l'aiguille guidée par tomodensitométrie, qui s'est révélée compatible avec un matériel constitué d'amas glandulaires tridimensionnels atypiques compatibles avec un adénocarcinome. Aucune mutation de l'EGFR ou translocation ALK n'a été détectée. Les sérologies du VIH et de l'hépatite étaient négatives.
+
+Diagnostic
+Le diagnostic d'adénocarcinome pulmonaire de stade IV avec atteinte cérébrale ayant été posé chez un patient dont l'ECOG était de 0, ce dernier a été orienté vers le service d'oncologie.
+
+Traitement
+Le traitement a commencé avec 4 mg de dexaméthasone par voie orale toutes les 8 heures, 500 mg de levetiracetam par voie orale toutes les 12 heures et 20 mg d'oméprazole par voie orale tous les jours. Il a reçu une radiothérapie holocrânienne et, par la suite, un premier cycle de chimiothérapie avec Carboplatin AUC-5-paclitaxel 175 mg /m2-bevacizumab 15 mg iv.
+
+Évolution
+Quinze jours après la fin de la radiothérapie holocrânienne, le patient s'est présenté aux urgences pour des symptômes respiratoires consistant en une dyspnée et une toux productive, une forte fièvre et une désorientation.
+Le patient a présenté une altération significative de l'état général avec tachypnée et tiraillements. Il était fébrile (39ºC) et tachycarde (FC 120 bpm) avec une tension artérielle de 130/70 mm Hg. L'auscultation pulmonaire a révélé des rhonchies bilatérales. Le reste de l'examen physique était sans particularité.
+Les analyses de laboratoire ont révélé une leucocytose avec des réactifs de phase aiguë élevés et les gaz du sang artériel ont montré une insuffisance respiratoire hypoxémique avec une PaO2 de 45 mm Hg. Des hémocultures et des cultures d'expectorations ont été réalisées.
+Une nouvelle radiographie du thorax a montré un infiltrat interstitiel bilatéral en plus de la lésion pulmonaire connue.
+Il a été admis dans le service d'oncologie avec une oxygénothérapie à 15 bpm, une corticothérapie intraveineuse, des bronchodilatateurs et une antibiothérapie à large spectre à base de méropénem 1 g toutes les 8 heures, le patient étant considéré comme immunodéprimé.
+L'évolution clinique n'a pas été satisfaisante au cours des deux premiers jours, il est resté fébrile et hypoxémique, il a donc été décidé d'ajouter au traitement du sulfaméthoxazole-triméthoprime (160 mg/32 mg toutes les 6 heures) pour couvrir une éventuelle infection opportuniste par Pneumocystis jirovecii, étant donné qu'il s'agissait d'un patient oncologique traité avec de fortes doses de corticostéroïdes.
+Après 24 heures, le patient est devenu afébrile et, par la suite, son oxygénation s'est améliorée, ce qui a permis de réduire l'apport d'oxygène et les doses de corticoïdes.
+Cinq jours après l'admission, le résultat de la culture des expectorations a été reçu et s'est avéré positif pour Nocardia spp.
+Compte tenu de ces données et de l'histoire naturelle de l'infection à Nocardia, nous avons décidé de consulter le service des maladies infectieuses et avons demandé une nouvelle tomodensitométrie cérébrale, qui a été réalisée 21 jours après le début du traitement au sulfaméthoxazole. Le scanner cérébral a montré une régression complète des lésions cérébrales. Le traitement antibiotique par voie intraveineuse a duré 4 semaines et le patient est sorti de l'hôpital avec un traitement antibiotique par voie orale et un suivi dans la clinique ambulatoire d'oncologie, recevant un total de 7 cycles du schéma thérapeutique susmentionné.
+Par la suite, il a présenté une progression de la maladie et est finalement décédé de sa tumeur 9 mois après le diagnostic.

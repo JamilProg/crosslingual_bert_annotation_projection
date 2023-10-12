@@ -1,0 +1,43 @@
+Anamnèse
+Nous présentons le cas d'une femme de 61 ans diagnostiquée avec un syndrome de Lynch (mutation du gène MSH 6) depuis 2015, dont les antécédents oncologiques comprennent un double néoplasme synchrone de l'utérus et de l'ovaire, traité par chirurgie et chimiothérapie complémentaire (2013) et un adénocarcinome du côlon traité chirurgicalement (2017).
+La patiente a participé à un bilan médical oncologique en octobre 2017, au cours duquel elle a signalé l'auto-palpation d'un lumpome dans le sein droit. La dernière tomodensitométrie T-A-P de suivi a été réalisée en septembre 2017, sans aucun signe de maladie néoplasique.
+
+Examen physique
+Patient en bon état général. Conscient et orienté. Couleur normale et bonne perfusion périphérique.
+Aucun résultat notable à l'auscultation cardio-pulmonaire.
+
+Examen des seins :
+"Sein droit : zone nodulaire bien délimitée mesurant 1 cm dans le quadrant supéro-externe.
+"Sein gauche : aucune tumeur n'est palpable.
+"Aucun ganglion lymphatique axillaire, latérocervical ou supraclaviculaire n'est palpable.
+
+Examens complémentaires
+La suspicion d'une possible néoplasie du sein droit a conduit à la mise en place d'une étude.
+" Mammographie initiale (06/10/2017) : la mammographie a montré des seins de densité hétérogène avec une distribution tissulaire symétrique, sans images nodulaires, distorsions parenchymateuses ou microcalcifications suggérant une malignité.
+" Échographie (06/10/2017) : dans le sein droit, au niveau de la jonction rétroaréolaire et du quadrant externe, une dilatation canalaire avec épaississement de la paroi est identifiée, si bien qu'il est décidé, après administration d'une anesthésie locale, de réaliser une biopsie à l'aiguille carottière sous contrôle échographique. Aucune altération n'a été observée dans le sein gauche ou dans les ganglions lymphatiques axillaires de taille pathologique.
+" Anatomie pathologique BAG sein droit (17/10/2017) : processus lymphoprolifératif B avec morphologie et phénotype de lymphome diffus à grandes cellules B avec phénotype de centre non germinal. Compte tenu du diagnostic de DLBCL du sein droit, une étude d'extension a été prolongée.
+" PET-CT scan for lymphoma staging " (09/11/2017) : l'étude n'a montré aucune altération du métabolisme du glucose. La masse du sein droit ne présente pas d'augmentation de l'activité métabolique et le reste de l'examen est compatible avec la normalité.
+" Biopsie de la moelle osseuse (14/11/2017) : moelle osseuse normocellulaire pour l'âge de la patiente, avec présence des trois lignées cellulaires hématopoïétiques, sans signe d'infiltration par un lymphome.
+Parallèlement à l'absence de métabolisme à la TEP, la patiente a signalé que le lumpome du sein droit n'était plus palpable. Compte tenu des doutes diagnostiques, il a été décidé de réévaluer la pathologie mammaire.
+" IRM mammaire bilatérale (21/11/2017) : aucune captation suspecte n'est observée dans le sein droit. Cependant, une prise de marges mal délimitées de 6 mm a été observée dans le CSE du sein gauche, dont l'évaluation par échographie et biopsie a été recommandée.
+" Échographie (22/11/2017) : les images IRM ont été revues et une échographie du sein gauche a été réalisée sans identifier de nodule compatible avec l'image de 6 mm située dans le CSE. Le sein droit est échographié, identifiant à nouveau plusieurs canaux qui convergent pour donner une image pseudonodulaire hypoéchogène de 10 mm, compatible avec l'image précédemment biopsiée (diagnostic de DLBCL), à partir de laquelle une rebiopsie est réalisée.
+" BAG guidée par IRM d'une lésion du sein gauche (23/11/2017) : une nouvelle IRM a été réalisée, où une prise en charge nodulaire suspecte persistait dans le CSE du sein gauche. Il a été décidé de procéder à une biopsie à l'aiguille centrale sous anesthésie locale.
+" Anatomie pathologique BAG sein gauche (29/11/2017) : carcinome infiltrant grade histologique I. Récepteurs aux œstrogènes 95 %. Récepteurs à la progestérone 85 %. ki67 14 %. HER-2 négatif.
+" Anatomie pathologique de la rebiopsie échographique de la lésion du sein droit (04/12/2017) : infiltrat lymphoïde B périductal minime. Pas de preuve du processus lymphoprolifératif observé dans l'échantillon précédent ; les manchettes cellulaires décrites représentent un contenu cellulaire minimal, sans les caractéristiques de l'échantillon précédent. Aucun signe de néoplasie épithéliale.
+
+Diagnostic
+Lésion du sein droit compatible avec un lymphome diffus à grandes cellules B à centre non germinal, qui a présenté une rémission spontanée (pas de preuve de métabolisme à la TEP et deuxième biopsie négative pour le processus lymphoprolifératif précédemment observé).
+Lésion découverte fortuitement dans le sein gauche : Ca infiltrant GI, cT1bN0.
+
+Traitement
+" Sein gauche : QI 29/12/2017 : chirurgie conservatrice avec ganglion sentinelle non détecté, donc lymphadénectomie axillaire décidée.
+=> AP. Carcinome infiltrant du sein gauche de stade IA (pT1b [1 cm] N0sn, stade IA-RE 95 %. PR 85 % ; ki67 14 % ; HER-2 négatif.
+"Sein droit : R-CHOP x 2-3 cycles. Il a été décidé de ne pas effectuer de traitement prophylactique du SNC car il s'agissait d'une maladie minime avec la possibilité d'une régression spontanée.
+=> Lymphome non hodgkinien diffus à grandes cellules B, centre non germinal, stade I-A.
+Traitement adjuvant proposé :
+"Radiothérapie des deux seins.
+"Hormonothérapie avec inhibiteur de l'aromatase.
+
+L'évolution
+La patiente est actuellement en cours de traitement, avec une bonne tolérance à la chimiothérapie hématologique, à l'hormonothérapie et à la radiothérapie.
+Dernière tomodensitométrie T-A-P de contrôle réalisée le 13/03/2018 sans signe de néoplasie.

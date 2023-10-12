@@ -1,0 +1,24 @@
+Anamnèse
+Un homme de 29 ans a été admis à l'hôpital pour des épigastralgies depuis deux mois, sans autre symptôme digestif. Il a signalé une perte de poids de 9 kg au cours des trois dernières semaines, sans asthénie, ni hyporexie, ni sueurs nocturnes. Le patient est originaire du Mali, mais il réside actuellement en Espagne et n'a pas voyagé dans son pays d'origine depuis 3 ans. Il ne présente aucune allergie médicamenteuse et ne signale aucun antécédent médical ou chirurgical intéressant.
+
+Examen physique
+L'examen physique a révélé de multiples adénopathies aux niveaux cervical tardif, supraclaviculaire et axillaire bilatéral. Le reste de l'examen n'a révélé aucune altération notable.
+
+Examens complémentaires
+- Électrocardiogramme et radiographie abdominale normaux.
+- La radiographie du thorax montre une proéminence du hile pulmonaire gauche.
+- Les examens de laboratoire ont montré la présence de dacryocytes dans le sang périphérique, une anémie normocytaire et normochrome avec une hémoblobine de 7,2 g/dl, une leucocytose de 21820 /mmc avec une augmentation des réactifs de phase aiguë (protéine C-réactive 251,5 mg/dl et fibrinogène 1088 mg/dl), avec des valeurs normales de lactate et de procalcitonine. Les autres paramètres analytiques étaient dans les limites normales.
+- Les cultures sanguines et urinaires étaient toutes négatives.
+- Une sérologie a été demandée pour les agents pathogènes les plus fréquemment impliqués dans l'étiologie des lymphadénopathies multiples, qui se sont tous révélés négatifs.
+- Une tomodensitométrie thoraco-abdomino-pelvienne et une TEP-TDM ont été réalisées, montrant une atteinte adénopathique supra- et infradiaphragmatique, principalement supraclaviculaire droite, axillaire gauche, hiliomédiastinale, rétropéritonéale, iliaque et inguinale bilatérale. De multiples lésions spléniques focales et de nombreuses lésions osseuses lytiques sont également évidentes.
+
+Le diagnostic
+Compte tenu du diagnostic de syndrome lymphoprolifératif, il a été décidé de réaliser une cervicotomie pour biopsier une des adénopathies. L'anatomopathologie a envoyé le rapport suivant : néoplasme malin d'habitus hématologique inclassable mais avec des caractéristiques morphologiques et immunophénotypiques évoquant un sarcome des cellules dendritiques folliculaires (CD23+). Une biopsie de la moelle osseuse a montré une myélofibrose secondaire à l'infiltration néoplasique.
+
+Traitement
+Compte tenu du diagnostic de sarcome à cellules dendritiques folliculaires de stade IV (en raison de l'infiltration de la MO et des lésions osseuses), une pathologie lymphoïde extrêmement rare, il est convenu d'enlever une deuxième adénopathie et d'adresser l'échantillon à deux pathologistes espagnols spécialisés dans les pathologies lymphoïdes.
+Il n'existe pas d'études prospectives dans la littérature concernant le traitement, les schémas de chimiothérapie couramment utilisés sont ceux du traitement du lymphome non hodgkinien. Par conséquent, le 31 juillet 2015, nous avons administré un premier cycle de chimiothérapie selon le schéma CHOP, en attendant la deuxième analyse anatomopathologique.
+
+L'évolution
+Les deux pathologistes partagent la même impression diagnostique : les caractéristiques morphologiques, cytochimiques, immunophénotypiques et immunohistochimiques suggèrent une maladie de Hodgkin. Sur le plan pathologique, le ganglion présente une architecture déformée, avec la présence de bandes de collagène et de follicules lymphoïdes avec des centres germinatifs dans le cortex et une expansion interfolliculaire aux dépens des cellules de Hodgkin et de Reed-Sternberg (RS) dans un environnement riche en histiocytes et en lymphocytes. L'échantillon présentait une positivité diffuse des cellules RS pour le CD20 et une positivité focale pour le CD30 et le CD15, exprimant de façon aberrante le CD23 et le CD68. Par conséquent, le diagnostic définitif de notre patient est un lymphome de Hodgkin classique de type sclérose nodulaire de stade IVB.
+Par la suite, une fois le diagnostic définitif établi, nous avons modifié le programme de traitement en adoptant le schéma ABVD. Le 27 août 2015, le premier cycle de chimiothérapie a été administré avec le nouveau schéma. Après ces deux cycles, nous avons demandé une réévaluation précoce par TEP-TDM, qui a montré une réponse complète selon les critères de Deauville. Au total, 6 cycles ont été administrés (1 CHOP et 5 ABVD), le dernier ayant eu lieu le 30 décembre 2015. La réponse complète obtenue après le deuxième cycle a persisté lors de la réévaluation post-traitement par TEP-TDM. À l'heure actuelle, en juin 2016, le patient a récemment été diagnostiqué avec une récidive de sa maladie. Il subit une chimiothérapie d'induction avec ESHAP avant une autogreffe.

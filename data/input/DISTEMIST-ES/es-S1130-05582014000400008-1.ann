@@ -1,0 +1,20 @@
+T1	pathologie 199 257	parálisis periférica de la rama cervical del nervio facial
+T2	pathologie 262 294	desviación de la comisura labial
+T3	pathologie 461 510	adenopatías palpables significativas en el cuello
+T4	pathologie 638 654	parálisis facial
+T5	pathologie 873 917	ganglios de rango adenomegálico en el cuello
+T6	pathologie 1324 1374	tumor laxo, color rojo vinoso, de aspecto vascular
+T7	pathologie 1550 1556	lesión
+T8	pathologie 1575 1597	tumor vascular benigno
+T9	pathologie 1794 1810	parálisis facial
+T10	pathologie 1943 1976	hemangioma capilar de la parótida
+#1	SNOMED T6	55342001
+#2	SNOMED T4	280816001
+#3	SNOMED T5	274744005
+#4	SNOMED T1	449916008
+#5	SNOMED T2	118940003
+#6	SNOMED T8	92017000
+#7	SNOMED T3	127086001
+#8	SNOMED T9	280816001
+#9	SNOMED T10	402867006
+#10	SNOMED T7	417163006

@@ -1,0 +1,47 @@
+Anamnèse
+ANTÉCÉDENTS DU PATIENT
+"Femme de 15 ans. Pas d'allergies médicamenteuses connues. Pas d'habitudes toxiques ni d'antécédents médicaux intéressants.
+"Traitement à domicile : contraceptifs oraux pour les saignements intermenstruels, métoclopramide sur demande.
+"Antécédents sociaux : vit avec ses parents. Etudie en 3ème année de l'enseignement supérieur obligatoire.
+"Antécédents gynécologiques : ménarche à l'âge de 14 ans. Dernières règles le 01/12/2016.
+ANTÉCÉDENTS FAMILIAUX INTÉRESSANTS
+"Grand-père paternel décédé d'un cancer du poumon (fumeur). Grand-mère maternelle atteinte d'un cancer du sein (vivante). Oncle paternel atteint d'un sarcome de la cuisse gauche (traité par chirurgie et radiothérapie adjuvante).
+MOTIF DE LA CONSULTATION
+ Elle s'est présentée aux urgences les 09 et 11 décembre 2016 en raison d'épigastralgies irradiant dans les deux hypocondres et d'une augmentation progressive du périmètre abdominal, associées à une hyporexie, des nausées et des vomissements répétés, avec un transit intestinal conservé et sans fièvre. Une échographie de l'abdomen a montré une masse abdominale volumineuse et un contenu ascitique, et la patiente a été adressée au service ambulatoire de médecine interne (MI) pour des examens complémentaires. Cependant, le 13 décembre 2016, elle est revenue aux urgences en raison de l'aggravation de ses symptômes malgré les médicaments prescrits à la sortie, avec l'apparition d'une intolérance orale. Il a été décidé de l'hospitaliser dans le service d'IM pour un examen plus approfondi.
+ La patiente a commencé le bilan diagnostique au MI mais, après plusieurs jours d'admission, elle a commencé à se détériorer cliniquement, avec une augmentation du périmètre abdominal entraînant une dyspnée et une tachypnée importantes. Elle a dû subir une paracentèse évacuatrice presque tous les jours, ainsi qu'une oxygénothérapie supplémentaire. Finalement (toujours sans diagnostic anatomopathologique [AP] définitif, seulement avec des marqueurs tumoraux [MT] élevés) et après discussion en comité multidisciplinaire, la patiente a été transférée dans le service d'oncologie médicale (OM) le 21 décembre 2016 pour le début d'une chimiothérapie urgente (QT).
+
+Examen physique
+EXAMEN À L'ARRIVÉE À L'OM
+ Poids 80 kg (auparavant à domicile, aujourd'hui œdématié), taille 1,75 m. WC 1,96 m2.
+ Niveau de performance (PS) 3, état général correct. Pression artérielle 124/76 mm Hg. Tachycardie sinusale à 130 bpm. Tachypnée et dyspnée à l'élocution. Sat à 90% avec l'oxygénothérapie en lunettes nasales à 2 litres. Travail respiratoire présent.
+ Auscultation cardio-respiratoire : tachycardie sinusale, pas de souffle ni d'extratonos. Murmure vésiculaire diminué aux deux bases. Abdomen distendu et globuleux, palpation en profondeur d'une grosse masse intra-abdominale d'environ 20 cm de diamètre maximum. Ascite sous tension. Membres inférieurs avec œdème malléolaire bilatéral avec piqûres, symétrique.
+
+Tests complémentaires
+TESTS ANALYTIQUES
+- Prise de sang 21/12/2017 (juste avant le début du traitement) : créatinine 2,32 mg/dl, urée 104 mg/dl, NA 121 mEq/l, k 6,4 mEq/l, CRP 241mg/dl. ClCr 38 ml/heure. D-dimères 1 300.
+- MT 14/12/2016 : alpha-fœtoprotéine (AFP) 29 441 ng/ml, B-HCG 21,3, LDH 2 048.
+TESTS D'IMAGERIE
+ Échographie abdominale 11/12/2016 : masse abdominale 13 x 10,7 cm avec liquide ascitique.
+ TOMODENSITOMÉTRIE 16/12/2016. Thorax : rehaussement des deux hémidiaphragmes en rapport avec une ascite importante. Pas de lésions parenchymateuses dans les poumons. Abdomen : ascite de tension, avec rejet des viscères centraux et des anses intestinales. Carcinomatose péritonéale étendue. Masses annexielles bilatérales évoquant une néoplasie ovarienne primaire --> 16 x 10 x 20 cm à droite, 6 x 5 x 10 cm à gauche. Adénopathies rétropéritonéales de taille et d'aspect pathologiques. Pas d'obstruction des systèmes d'excrétion intestinale ou rénale.
+ Echocardiographie transthoracique urgente 21/12/2016 : ventricule gauche hyperdynamique avec fonction systolique préservée, pas de signe d'hypertension pulmonaire ni d'épanchement péricardique.
+
+Diagnostic
+Sous-type TGNS sinus endodermique de l'ovaire primaire stade IIIC (carcinomatose péritonéale). Mauvais pronostic de l'IGCCCG.
+
+Traitement
+ QT d'induction selon le schéma baby-BOP le 21/12/2017 : cisplatine 50 mg/m2 (dans notre cas réduction à 30 mg/m2), vincristine 2 mg, bléomycine 30 000 U. Dose unique. La prophylaxie était associée à la rasburicase 12 mg en dose unique.
+ QT standard avec schéma BEP à partir du 27/12/2017 : bléomycine 30 000 U (j1, j8 et j15), étoposide 100 mg/m2 (j1-5), cisplatine 20 mg/m2 (j1-5) tous les 21 jours et pendant quatre cycles.
+ En attente d'une intervention chirurgicale pour une masse résiduelle.
+
+Evolution
+Lors du transfert à l'OM, et après une détérioration clinique significative avec tachycardie sinusale, tachypnée et travail respiratoire en relation avec des ascites de tension récurrentes, il a été décidé de commencer l'induction QT selon le schéma baby-BOP. Les analyses sanguines précédentes ont montré une détérioration de la fonction rénale, avec une ClCr de 38ml/min, ce qui était lié à un faible volume circulant effectif, de sorte que la dose de cisplatine a été réduite. Compte tenu du volume important de la masse et de la détérioration de la fonction rénale, une prophylaxie du syndrome de lyse tumorale a été effectuée avec de la rasburicase.
+Après 24 heures, les tests sanguins du patient se sont améliorés, avec une normalisation de la fonction rénale. Cependant, l'aggravation clinique s'accompagnant d'une instabilité respiratoire, elle a été transférée à l'unité de soins intensifs (USI). Pendant son séjour en USI, la patiente a eu une évolution torpide :
+ Elle a dû subir un drainage péritonéal permanent au cours de ses premiers jours à l'USI.
+ Elle a dû recevoir des transfusions de concentrés de globules rouges à plusieurs reprises.
+ Elle a commencé un QT standard selon le BEP sans ajustement de dose le 27/12/2016.
+ Le diagnostic d'AP nous a été communiqué le 30/12/2017. Cytologie du liquide ascitique : cellules néoplasiques avec expression de l'AFP et négativité pour l'inhibine, compatible avec une tumeur germinale non séminomateuse (NSGT), probable tumeur du sinus endodermique.
+ Neutropénie fébrile sans foyer initial qui est traitée par pipéracilline-tazobactam (début le 02/01/2017), avec aggravation hémodynamique et respiratoire ultérieure, conduisant à l'utilisation d'amines vasoactives, à l'escalade antibiotique (avec ajout de cotrimoxazole) et à l'intubation orotrachéale le 06/01/2017.
+Finalement, le diagnostic de pneumonie nosocomiale due à Enterobacter cloacae BLEE a été posé.
+Au vu de la situation, il a été décidé de ne pas administrer certaines doses de bléomycine, mais le reste du traitement QT a été maintenu aux soins intensifs. Bonne évolution progressive, avec extubation réussie le 15/01/2017 et transfert dans le service OM le 30/01/2017.
+Le 03/02/2017, maintenant pratiquement rétablie, une réponse clinique et MT a été observée, ainsi qu'une récupération respiratoire dans les tests fonctionnels, et elle a donc procédé à C3d1 de BEP complète. Elle est finalement sortie de l'hôpital le 08/02/2017.
+La patiente a terminé le traitement en ambulatoire (total de 4 cycles), terminant le traitement en mars 2017 avec une réponse clinique très notable et est actuellement asymptomatique et avec un PS de 0. Elle a également présenté une réponse MT et radiologique négative avec une diminution notable de la maladie pelvienne, bien qu'il reste une maladie résiduelle de plus de 1 cm qui est en attente d'une chirurgie pour la masse résiduelle par le service de gynécologie.

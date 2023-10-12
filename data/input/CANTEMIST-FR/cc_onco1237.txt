@@ -1,0 +1,37 @@
+Anamnèse
+Homme de 63 ans sans allergie médicamenteuse connue. Pas d'antécédents médicaux intéressants. Fumeur de 4 paquets de cigarettes depuis 50 ans (IPA 200 paquets/an). Buveur modéré. Ne prend pas de médicaments régulièrement.
+Il se présente aux urgences pour une odynophagie évoluant depuis 3 mois. Une nasofibrolaryngoscopie a été réalisée, montrant une lésion excroissante de la limite inférieure droite du rhinopharynx à l'oropharynx, une obstruction complète de la cavité nasale, une lésion tumorale du palais mou. Une biopsie a été effectuée. Anatomie pathologique : carcinome épidermoïde non kératinisant.
+
+Examen physique
+ECOG 1, cachexie. Normohydraté et de couleur normale. Eupnéique au repos. Dans l'oropharynx, une masse est observée dans le palais mou avec déviation de la luette. Aucun ganglion cervical n'est palpable. Auscultation cardiaque : tonalités rythmiques, pas de souffle audible. Auscultation pulmonaire : hypoventilation globale. Abdomen : mou, dépressible, non douloureux à la palpation, pas de masses ni de mégalithes. Le péristaltisme est conservé. Pas de signes d'irritation péritonéale. Hernie inguinale droite non compliquée. Membres inférieurs : pas d'œdème et pas de signes de TVP.
+
+Tests complémentaires
+Au moment du diagnostic :
+- TDM cervicale (8/10/2012) : résultats évocateurs d'une néoplasie centrée sur l'oropharynx s'étendant au nasopharynx, avec une adénopathie pathologique au niveau IIa droit et IIb gauche, et une adénopathie d'aspect douteux au niveau IIb droit.
+- Tomodensitométrie thoraco-abdominale (29/10/2012) : de multiples lésions nodulaires de plusieurs millimètres de diamètre ont été observées dans le parenchyme pulmonaire, préférentiellement dans la zone basale, dans les deux champs, avec une prédominance périphérique, compatible avec une dissémination métastatique hématogène. Lésions cicatricielles au niveau apical du lobe supérieur gauche avec de petites images de bulles. Image kystique hépatique avec des calcifications à l'intérieur, compatibles avec un kyste. Voie biliaire et vésicule biliaire normales. Rétropéritoine, pancréas surrénalien et grands vaisseaux normaux. Reins normaux. Boucles de l'intestin grêle de morphologie normale. Chaînes vasculaires iliaques normales. Vessie distendue aux contours nets. Hernie scrotale droite notable.
+- Anatomie pathologique : carcinome épidermoïde non kératinisant.
+Chez les témoins successifs :
+- TDM cervicothoracoabdominale (15/1/2013) : pas d'images évocatrices de tumeur laryngée. Trappe à air généralisée. Kyste hydatique hépatique de 30 mm.
+- Tomodensitométrie cervicothoracoabdominale (8/4/2013) : pas d'image évocatrice d'une maladie secondaire.
+- Tomodensitométrie cervicothoracoabdominale (28/6/2013) : pas de lésions évocatrices d'une maladie secondaire. Kyste hydatique hépatique. Hernie inguinale droite.
+- Tomodensitométrie cervicothoracoabdominale (10/9/2013) : pas d'altération significative de la lumière rhinopharyngée ou oropharyngée.
+Asymétrie modérée des plis aryépiglottiques, ainsi qu'une discrète asymétrie de la lumière laryngée, sans images de masse claires qui sont atypiquement rehaussées par le contraste. Les glandes parotides et les glandes sous-maxillaires ne présentent pas d'anomalie significative. Adénopathies latérocervicales bilatérales, d'un diamètre maximal d'environ 1 cm, dont la plus grande était située du côté droit. Le reste de l'examen n'a rien révélé de significatif.
+- TEP-TDM (7/11/2013) : persistance de la maladie dans la paroi latérale de l'oropharynx et la région amygdalienne du côté droit (SUV max. 6,7). Augmentation de la captation dans le palais mou et la luette qui soulève un diagnostic différentiel avec la captation physiologique et les restes tumoraux (SUV max. 7,9). Persistance d'une atteinte ganglionnaire aux niveaux IIA droit (SUV max 5,5) et IIB gauche (SUV max 2,1).
+- CT cervicothoracoabdominal (4/2/2014) : résultats similaires au contrôle précédent.
+- CT scan cervicothoracoabdominal (18/3/2014) : petit kyste de rétention dans le sinus maxillaire gauche. Glandes parotides, sous-maxillaires et thyroïde dans les limites de la normale. Voies respiratoires sans sténose notable. Espaces graisseux parapharyngés préservés. Pas d'adénopathies latérocervicales ou médiastinales de taille suffisante pour constituer une entité pathologique. Traces cicatricielles fibreuses apicales gauches, sans changement significatif par rapport à l'étude précédente.
+
+Diagnostic
+Carcinome malpighien de l'oropharynx au stade IVc (cT3cN2cM1).
+
+Traitement
+En novembre 2012, il a commencé un traitement de chimiothérapie selon le schéma EXTREME : cetuximab 250 mg/m2 + carboplatine (AUC-5) + 5-fluorouracile 1 000 mg/m2 pendant 4 jours, pendant 6 cycles tous les 21 jours et cetuximab hebdomadaire jusqu'en février 2013.
+Après ce traitement, le patient a reçu du cétuximab chaque semaine jusqu'en juin 2013.
+En raison de sa bonne évolution, il a été décidé d'administrer une radiothérapie radicale sur la tumeur et la région cervicale bilatérale de 66 Gy fractionnée en 220 cGy de novembre 2013 à janvier 2014.
+
+Évolution
+En janvier 2013, au cours du quatrième cycle de traitement, un scanner a été réalisé, montrant une réponse complète, avec disparition des lésions pulmonaires métastatiques.
+Un nouveau scanner a été réalisé en avril 2013 (un mois après la fin du traitement), où une réponse complète des lésions a été maintenue. Les tomodensitométries successives, réalisées en juin et septembre 2013, ont montré une réponse complète ; cependant, à la fibrolaryngoscopie, la lésion persistait dans le palais mou et dans la région amygdalienne droite, c'est pourquoi une nouvelle biopsie a été réalisée, avec des résultats anatomopathologiques négatifs pour la malignité.
+Le cas a été discuté au sein du comité ORL des tumeurs et il a été décidé de demander une TEP-TDM pour cette lésion, qui a été réalisée le 7/11/2013, montrant : la persistance de la maladie dans la paroi latérale de l'oropharynx et la région amygdalienne du côté droit (SUV max. 6,7). Augmentation de la captation dans le palais mou et la luette, ce qui a conduit à un diagnostic différentiel avec une captation physiologique et des restes de tumeur (SUV max. 7,9). Persistance de la maladie des ganglions lymphatiques aux niveaux IIA droit (SUV max. 5,5) et IIB gauche (SUV max. 2,1).
+En raison de la bonne réponse au traitement de chimiothérapie reçu, de la disparition des lésions pulmonaires métastatiques et de la seule maladie résiduelle au niveau cervical, il a été décidé d'administrer un traitement radical par radiothérapie, qui a été administré de novembre 2013 à janvier 2014.
+Suite au traitement radical, plusieurs tomodensitométries ont été réalisées en mars et avril 2014, montrant une réponse radiologique complète et une disparition de la lésion à la visualisation par fibrolaryngoscopie.
+Elle est actuellement suivie dans les cliniques ambulatoires d'oncologie médicale et d'oto-rhino-laryngologie avec une réponse clinique et radiologique complète.

@@ -1,0 +1,20 @@
+T1	pathologie 89 104	muerte cerebral
+T2	pathologie 142 205	herida por proyectil de arma de fuego a nivel occipital derecho
+T3	pathologie 308 322	malformaciones
+T4	pathologie 1265 1291	síndrome de realimentación
+T5	pathologie 2220 2237	sufrimiento fetal
+T6	pathologie 2398 2421	descontrol hipertensivo
+T7	pathologie 2446 2467	sangrado transvaginal
+T8	pathologie 2504 2531	desprendimiento placentario
+T9	pathologie 2534 2546	muerte fetal
+T10	pathologie 2900 2914	malformaciones
+#1	SNOMED T1	230802007
+#2	SNOMED T5	130955003
+#3	SNOMED T2	283545005
+#4	SNOMED T7	399131003
+#5	SNOMED T8	415105001
+#6	SNOMED T9	84122000
+#7	SNOMED T4	427698009
+#8	SNOMED T3	276655000
+#9	SNOMED T10	276655000
+#10	SNOMED T6	170578008

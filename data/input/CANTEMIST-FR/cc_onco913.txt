@@ -1,0 +1,29 @@
+Anamnèse
+Patient de 74 ans, sans effets indésirables médicamenteux connus, ni antécédents familiaux en rapport avec l'épisode actuel. Il est hypertendu, souffre d'insuffisance rénale chronique 3b et d'asthme bronchique.
+En avril 2014, une masse rénale gauche a été identifiée, pour laquelle il a subi une néphroureterectomie gauche, atteignant le diagnostic définitif de carcinome à cellules claires de Fürhmann 3 situé dans le bassin rénal. Suivi par l'urologie avec tomodensitométrie en septembre 2015, sans résultat pathologique.
+En janvier 2016, il s'est rendu aux urgences pour des douleurs cervicales qui augmentaient progressivement depuis 2 mois jusqu'à atteindre un VAS 10/10, l'empêchant de tourner le cou normalement, et l'ayant même cloué au lit pendant les deux dernières semaines.
+Il a été hospitalisé pour contrôler la douleur et terminer les études.
+
+Examen physique
+Aucune perte de force ou de sensibilité.
+Une tumeur douloureuse mesurant 4 x 6 cm était palpable dans la région latéro-cervicale postérieure. Le reste de l'examen physique est resté inchangé.
+
+Examens complémentaires
+IRM sans contraste crânien (15/1/16) : multiples métastases osseuses hypervasculaires, certaines avec une composante importante de tissu mou environnant, réparties principalement dans les vertèbres de la région cervicale et lombosacrée, sans invasion du canal.
+Tomodensitométrie avec contraste du thorax, de l'abdomen, du cou et du crâne (18/1/16) : deux lésions avec une destruction osseuse significative au niveau de C1 et de multiples lésions dans la colonne vertébrale, principalement au niveau de L4, S1, S2 et des deux lames iliaques. L'étude n'a révélé aucun résultat pathologique.
+
+Diagnostic
+BAG d'une lésion cervicale résultant d'une métastase d'un carcinome sarcomatoïde d'origine probablement rénale (immunoréactivité positive pour la CK et le CD10 et négative pour l'EMA, la desmine, le CD45, la p63, la S100, le CD34, le RCC, la CK20, l'AML, le TTF1). Comme il s'agissait d'un BAG, il n'a pas été possible de confirmer qu'il s'agissait d'une métastase d'un carcinome à cellules claires à différenciation sarcomatoïde.
+
+Traitement
+Un collier orthopédique a été mis en place et un traitement à la morphine a été instauré, ce qui a entraîné une amélioration partielle de la douleur.
+Le 24/2/16, il a été mis sous Sunitinib 37,5 mg par jour en continu ; la tolérance au traitement avec cette dose était adéquate, mais la douleur persistait, principalement lorsqu'il se levait du lit ; pour cette raison, il a été évalué par la radio-oncologie, qui a indiqué une radiothérapie palliative au C1, recevant 30 Gy en 10 séances à 3 Gy par fraction (SVA pré-radiothérapie : 9/10 et SVA post-radiothérapie : 5/10).
+L'amélioration a été progressive et le patient a commencé à se déplacer. Il a donc été autorisé à quitter l'hôpital pour un suivi ambulatoire. Les indications de sortie comprenaient un traitement à la morphine pour la douleur de base et la douleur de rupture, ainsi que de l'acétate de mégestrol pour l'hyporexie.
+
+Évolution
+Lors des consultations externes, le patient était asymptomatique, n'utilisant la minerve que lorsqu'il sortait de chez lui. Cependant, 2 mois après le début du traitement, il a présenté une asthénie de grade 2-3, une mucosite, une anémie et une thrombopénie de grade 2. La dose de sunitinib a donc été réduite à 25 mg/jour.
+Un scanner de contrôle a été réalisé le 6/7/16 et a permis de constater une diminution de la taille des lésions des tissus mous au niveau cervical et une stabilité des lésions situées au niveau lombosacré et des deux lames iliaques.
+Malgré la réduction de la dose, la patiente a continué à présenter une toxicité qui s'est aggravée jusqu'à devenir une thrombopénie de grade 3, de sorte que le 14 juillet 16, il a été décidé d'interrompre le traitement.
+Une semaine après la dernière consultation externe, le patient a été admis dans le service d'oncologie médicale pour une thrombose veineuse profonde de la veine fémorale commune, de la veine superficielle, de la veine profonde et de la veine poplitée droite. Il est sorti de l'hôpital avec 12 000 UI de tinzaparine sodique toutes les 24 heures et l'arrêt de l'acétate de mégestrol. Une nouvelle réévaluation par tomodensitométrie a été effectuée le 19/8/16 et la maladie est restée stable.
+En raison des toxicités développées, et une fois qu'elles ont disparu au grade 0-1, il a été décidé de changer le traitement par pazopanib 400 mg une fois par jour, à partir du 21/9/16.
+Le patient est actuellement en bon état général, dans l'attente d'une nouvelle réévaluation des examens d'imagerie.

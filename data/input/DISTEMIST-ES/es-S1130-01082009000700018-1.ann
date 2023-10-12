@@ -1,0 +1,10 @@
+T1	pathologie 355 364	hipotenso
+T2	pathologie 521 536	hepatocarcinoma
+T3	pathologie 663 676	hemoperitoneo
+T4	pathologie 696 726	lesión en segmento VI hepático
+T5	pathologie 742 757	hepatocarcinoma
+#1	SNOMED T2	109841003
+#2	SNOMED T3	45626005
+#3	SNOMED T4	126851005
+#4	SNOMED T5	109841003
+#5	SNOMED T1	45007003

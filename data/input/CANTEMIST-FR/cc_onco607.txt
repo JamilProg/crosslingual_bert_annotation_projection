@@ -1,0 +1,33 @@
+Anamnèse
+
+Histoire de la famille
+Père atteint d'un cancer du colon. Fille en bonne santé.
+
+Antécédents personnels
+Allergie aux produits de contraste iodés. Facteurs de risque cardiovasculaire : hypertension émotionnelle, pas de diabète sucré, dyslipidémie (hypertriglycéridémie). Habitudes toxiques : ex-fumeur, 2 à 3 cigarettes par jour depuis 10 ans. Pas d'alcool ni d'autres substances intoxicantes. Pas d'antécédents médicaux. Il n'a jamais subi d'intervention chirurgicale. Il ne prend pas de médicaments de façon régulière.
+
+Maladie actuelle
+Après le traumatisme : patient de sexe masculin qui, à l'âge de 34 ans, en juillet 2010, a présenté des changements de couleur et de taille dans une lésion dorsale sur le tronc, supposée être un lipome en raison de sa présence depuis l'enfance, et qui n'a pas présenté de changements au cours des années suivantes. Il n'y avait pas d'adénopathies palpables ni de perte de poids ou d'autres symptômes supplémentaires. Compte tenu de ces modifications de la lésion, une biopsie a été pratiquée, qui a révélé un dermatofibrosarcome protuberans.
+
+Examen physique
+Le patient était en bon état général, conscient, orienté et coopératif, de couleur normale et normohydraté. Aucun ganglion lymphatique axillaire ou inguinal n'était palpable. Auscultation cardio-pulmonaire : rythmique, pas de souffle. Murmure vésiculaire conservé.
+Abdomen : mou et dépressible, non douloureux à la palpation, pas de masses ou de mégalithes palpables, bruits hydro-aériques présents. Aucun signe d'irritation péritonéale. Cicatrice ovale d'environ 12-14 cm de diamètre transversal et d'environ 6-7 cm de diamètre vertical dans la région dorsolombaire droite avec défaut de peau et de tissu cellulaire sous-cutané corrigé par greffe. Bon état de cicatrisation.
+Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+Anatomie pathologique 13/09/2010 : lésion de morphologie nodulaire et de coloration blanchâtre-brunâtre, mesurant 8 x 5 x 3 cm. Les cellules tumorales présentent un fort immunomarquage positif pour la vimentine et le CD34, et faible pour le CD99 ; elles sont négatives pour l'actine musculaire spécifique, l'actine musculaire lisse, la calponine, la myogénine, la desmine, le CD 68, le CD57, le CD117, le S-100, le bcl2, l'EMA, le CD31, le FVIII, la CK à large spectre et le CAM 5.2. L'index prolifératif déterminé par Ki67 est élevé (environ 40 %) des cellules tumorales. Neuf mitoses pour 10 EGC sont observées. La tumeur est largement en contact avec le bord chirurgical.
+Classement du système FNCLCC :
+"Différenciation de la tumeur : score.
+"Nombre de mitoses : score 1 (0-9/10 CGA).
+"Nécrose tumorale : score 0 (pas de nécrose).
+"Grade histologique selon le score total : grade 1.
+
+Diagnostic
+Dermatofibrosarcome protuberans de grade 1.
+
+Traitement
+Après la première biopsie, les marges chirurgicales ont été élargies le 11/10/2010, avec une anatomopathologie (marges élargies) qui a confirmé à nouveau un dermatofibrosarcome protuberans qui s'étendait aux marges chirurgicales.
+La FISH a été réalisée avec des sondes COL1A1/PDGFB t (17 ; 22). 60 des 100 cellules présentaient une translocation. Les marges chirurgicales ont été à nouveau élargies le 16/11/2010, et une résection complète a été réalisée à une distance adéquate des marges de sécurité. Le patient a été évalué par le service de radio-oncologie le 29 décembre 2010 et un traitement adjuvant a été mis en place. Les prévisions étaient d'atteindre une dose de 60-66 GY sur le lit de la tumeur. Le traitement a commencé le 8/02/2011 et s'est terminé le 30/3/2011 avec une bonne tolérance, présentant une toxicité aiguë maximale de grade 1 avec une zone proximale de cicatrice de grade 2, qui a été traitée avec de la sulfadiazine argentique. Après avoir terminé le traitement par radiothérapie, elle a été suivie par imagerie par résonance magnétique (IRM) de la colonne dorsolombaire tous les 3-6 mois, et a été en rémission complète pendant plus de 2 ans (jusqu'en août 2013).
+
+Évolution
+L'IRM de suivi réalisée en janvier 2014 n'a révélé aucune récidive ni lésion résiduelle, mais de nouveaux résultats ont été observés, à savoir une image nodulaire dans le lobe inférieur droit du poumon. Au vu de ce dernier résultat, un scanner du thorax et de la partie supérieure de l'abdomen a été demandé, confirmant une maladie pulmonaire métastatique avec 3 lésions, 2 dans le poumon droit et 1 dans le poumon gauche. Avec ces résultats, la progression de la maladie a été confirmée et la patiente a été adressée au service d'oncologie médicale pour l'évaluation d'un traitement systémique, en commençant l'imatinib à une dose de 800 mg/24 h en intention néoadjuvante. À cette époque, le patient avait subi une résection d'un dermatofibrosarcome protubérantiel, sans récidive locale de la maladie, mais avec une progression dans les poumons. Un mois après le début du traitement systémique, le patient a développé une éruption maculopapulaire, probablement secondaire au traitement par imatinib, et a donc été arrêté. Un mois plus tard, les lésions ont été réévaluées et on a constaté qu'elles avaient pratiquement disparu dans leur totalité. Il a été décidé de reprendre l'imatinib à 600 mg/24 h (réduction de la dose) et d'administrer des antihistaminiques. Lors du premier scanner de réévaluation de la maladie, 3 mois après le début du traitement systémique, une diminution de la taille des lésions pulmonaires nodulaires a été observée, la lésion nodulaire du côté droit ayant pratiquement disparu. Suite à ces constatations, un PET-CT a été réalisé pour mieux confirmer la nature des lésions, révélant une lésion avec un très faible taux de prolifération cellulaire dans le poumon droit, pour laquelle une malignité n'a pas pu être exclue. Le patient a été présenté au comité des tumeurs thoraciques pour une résection en deux temps de lésions pulmonaires bilatérales évocatrices de métastases, la première en octobre 2014, et la seconde en décembre 2014, les lésions étant compatibles avec des métastases du primitif précité. Deux mois après l'intervention chirurgicale, il a repris l'imatinib à la dose de 600 mg/24h. L'inhibiteur de tyrosine kinase a été arrêté en avril 2019 au terme de 5 ans de traitement sans signe de récidive de la maladie.

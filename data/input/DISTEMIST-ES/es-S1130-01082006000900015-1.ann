@@ -1,0 +1,22 @@
+T1	pathologie 48 64	colitis ulcerosa
+T2	pathologie 269 275	lesión
+T3	pathologie 332 336	lues
+T4	pathologie 528 543	lesión ulcerada
+T5	pathologie 807 832	pólipo mixto hiperplásico
+T6	pathologie 833 857	adenoma tubular de recto
+T7	pathologie 982 988	lesión
+T8	pathologie 1171 1177	lesión
+T9	pathologie 1320 1335	adenoma velloso
+T10	pathologie 1342 1376	enfermedad inflamatoria intestinal
+T11	pathologie 1456 1469	cap poliposis
+#1	SNOMED T1	64766004
+#2	SNOMED T9	399432003
+#3	SNOMED T10	24526004
+#4	SNOMED T11	720604008
+#5	SNOMED T5	62047007
+#6	SNOMED T3	76272004
+#7	SNOMED T2	417163006
+#8	SNOMED T4	56208002
+#9	SNOMED T7	417163006
+#10	SNOMED T8	417163006
+#11	SNOMED T6	448428002

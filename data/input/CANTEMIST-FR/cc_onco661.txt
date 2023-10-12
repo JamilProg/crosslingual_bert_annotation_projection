@@ -1,0 +1,26 @@
+Anamnèse
+Un homme de 73 ans aux antécédents d'allergie au cotrimoxazole, hypertendu et fumeur actif avec un IPA 60. Il a consulté pour la première fois aux urgences en juillet 2015 en raison d'une distraction de plus en plus fréquente et d'épisodes de désorientation spatiale sur 3 jours d'évolution, sans autre symptôme neurologique ou syndrome constitutionnel. Lors de l'évaluation, il était conscient et orienté, sans aphasie ni dysarthrie, ni déficit moteur ou sensoriel.
+
+Examen physique
+À l'examen, le patient était stable sur le plan hémodynamique et afébrile. L'examen neurologique était sans particularité, sans altération des nerfs crâniens, de la sensibilité ou de la force musculaire. La seule observation notable était une légère diminution du réflexe rotulien du côté gauche et un réflexe cutané fléchisseur plantaire bilatéral. La démarche est normale et le signe de Romberg est négatif.
+
+
+Examens complémentaires
+Des analyses de sang, de coagulation et d'urine ont été demandées, ainsi qu'une étude radiologique avec radiographie du thorax, toutes normales. Cependant, compte tenu de la présentation clinique, un scanner crânien a été demandé, qui a révélé une masse dans le septum qui atteignait la paroi gauche du ventricule latéral, sans provoquer d'hydrocéphalie.
+Il a été décidé d'hospitaliser le patient dans le service de neurochirurgie pour compléter l'étude, et une IRM a été réalisée, qui a montré une tumeur centrée dans le fornix gauche et le toit du troisième ventricule, s'implantant dans les ventricules latéraux, en relation avec les foramina de Monro, le septum pellucidum et la ceinture optique gauche, un petit œdème parenchymateux minime et une composante extraventriculaire du côté gauche.
+Une craniotomie frontale droite a été réalisée avec corticotomie associée le 17/06/2015 avec excision incomplète de la lésion, diagnostic anatomopathologique de lymphome diffus à grandes cellules B, avec immunophénotype de centre germinal (CD10+, bcl6+, MUM1-, bcl2+). Il n'y avait pas d'immunoréactivité pour CD138 ou CD30, avec un Ki67 de 80%.
+La TEP/TDM a été réalisée sans aucun signe de maladie extracrânienne, confirmant le diagnostic de lymphome cérébral primaire. L'étude sérologique pour les virus (VIH, VHC, VHB) était négative, et les IgG EBNA étaient positives.
+
+Diagnostic
+Lymphome cérébral primaire : lymphome diffus à grandes cellules B dans le septum pellucidum, opéré le 18 juin 2015 avec résection partielle.
+
+Traitement
+Après l'intervention chirurgicale, il a présenté une crise partielle initialement traitée par levetiracetam ; en raison de l'absence d'amélioration, de nouveaux médicaments ont été progressivement introduits (phénytoïne, acide valproïque et augmentation de la dose de levetiracetam).
+Malgré l'optimisation des médicaments, le patient a présenté un état partiel complexe pendant 24 heures et a été admis aux soins intensifs sous sédoanalgésie et intubation orotrachéale, avec des corticostéroïdes, du lévétiracétam, de la phénytoïne et l'ajout de valproate, de lacosamide et de diazépam.
+Après une amélioration de l'état du patient et une tomodensitométrie sans changement par rapport aux résultats précédents, il a été transféré au service d'oncologie médicale et a commencé un traitement de première intention au méthotrexate (MTX) à la dose de 3,5 g/m2.
+
+Évolution
+Après 72 heures de perfusion de MTX, une éruption cutanée est apparue, évoluant rapidement malgré l'introduction de corticostéroïdes et d'antihistaminiques vers des lésions vésiculeuses associées à une dénudation palatine, et un diagnostic de nécrolyse épidermique toxique (NET) a été posé. Le patient a été évalué conjointement avec le service de dermatologie et, compte tenu de la présence de traitements multiples, notamment d'anticonvulsivants et de MTX en tant que déclencheurs possibles des symptômes, sans pouvoir en différencier la cause, il a été décidé d'interrompre le valproate, le lacosamide, la phénytoïne et l'allopurinol. Compte tenu de la gravité des symptômes, un traitement à la ciclosporine a été prescrit, avec une amélioration progressive jusqu'à la sortie de l'hôpital.
+Bien que le MTX soit considéré comme un facteur déclenchant possible de cette affection, il a été décidé conjointement de poursuivre le traitement, et le patient a reçu 6 cycles sans incident et avec une évolution favorable.
+Les tests de réévaluation ont montré une réponse partielle avec une diminution de 66% de la masse après le deuxième cycle de traitement, qui s'est terminé en novembre 2015.
+Une IRM réalisée en décembre a montré une légère augmentation de la tumeur, confirmant la progression en février 2016 dans les IRM successives, de sorte qu'il a été décidé, en collaboration avec le service de radio-oncologie, le patient et sa famille, d'adopter une approche attentiste jusqu'à la réalisation d'une IRM ultérieure, compte tenu de l'âge et de la stabilité clinique du patient. Lorsqu'une nouvelle croissance et une nette progression ont été observées en mai 2016, il a été décidé de réaliser une radiothérapie stéréotaxique à visée palliative avec une dose totale de 36 Gy en fractions de 1,8 Gy en 20 séances. Une IRM ultérieure en août 2016 a montré une rémission complète de la tumeur, qui s'est maintenue à ce jour.

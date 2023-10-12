@@ -1,0 +1,8 @@
+T1	pathologie 198 215	mácula pigmentada
+T2	pathologie 301 359	lesión se localizaba en la mucosa anterior de paladar duro
+T3	pathologie 739 750	candidiasis
+T4	pathologie 1514 1529	melanoacantosis
+#1	SNOMED T4	394727000
+#2	SNOMED T3	78048006
+#3	SNOMED T2	126806005
+#4	SNOMED T1	271756005

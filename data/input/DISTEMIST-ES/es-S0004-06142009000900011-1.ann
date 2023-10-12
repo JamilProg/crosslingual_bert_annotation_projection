@@ -1,0 +1,16 @@
+T1	pathologie 154 190	lesión en polo superior de testículo
+T2	pathologie 392 401	neoplasia
+T3	pathologie 468 484	tumor testicular
+T4	pathologie 972 978	lesión
+T5	pathologie 1345 1371	quiste dermoide testicular
+T6	pathologie 1345 1430	quiste dermoide testicular (teratoma maduro testicular), variante pseudopilomatrixoma
+T7	pathologie 1373 1399	teratoma maduro testicular
+T8	pathologie 1411 1430	pseudopilomatrixoma
+#1	SNOMED T2	55342001
+#2	SNOMED T3	236778008
+#3	SNOMED T6	767754009
+#4	SNOMED T7	36591000119102
+#5	SNOMED T8	419952004
+#6	SNOMED T1	300492006
+#7	SNOMED T4	417163006
+#8	SNOMED T5	767754009

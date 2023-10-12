@@ -1,0 +1,33 @@
+Anamnèse
+La patiente est une femme de 45 ans, technicienne de laboratoire (elle a travaillé en contact avec des acides minéraux et des solvants organiques).
+Dans sa famille, il y a eu plusieurs cas de tumeurs du système nerveux central, mais aussi des sarcomes, des tumeurs du sein et du colon.
+Antécédents personnels d'asthme, d'hypothyroïdie subclinique et d'hyperprolactinémie légère sans répercussion clinique.
+Antécédents oncologiques : en mars 2015, elle a commencé à souffrir de dyspnée à l'effort modérée et a finalement été diagnostiquée en novembre 2015 avec un adénocarcinome pulmonaire de stade IV en raison d'une atteinte pulmonaire bilatérale et d'une lésion pancréatique douteuse. L'étude mutationnelle a révélé une immunohistochimie positive pour ALK.
+Elle a débuté le traitement par crizotinib le 23/12/2015 avec une bonne tolérance et une amélioration des symptômes cliniques de dyspnée et de toux, présentant comme toxicités des œdèmes des membres inférieurs, une légère hypoalbuminémie et hypocalcémie, ainsi qu'une légère augmentation des myodésopsies, que la patiente avait déjà, au cours du premier mois.
+Une réponse partielle a été obtenue et maintenue jusqu'en avril 2017.
+Maladie actuelle : en avril 2017, le patient a commencé par présenter une légère céphalée occipitale et une sensation minime d'étourdissement avec rotation des objets, qui a été initialement attribuée à des symptômes vertigineux.
+
+Examen physique
+Bon état général. Indice de Karnofsky 100 %. Auscultation cardiaque rythmée sans souffle. Auscultation pulmonaire avec bruits respiratoires conservés sans bruits pathologiques ajoutés. Abdomen non douloureux, sans masse palpable. Œdème bimalléolaire.
+Examen neurologique : élocution normale, pupilles symétriques réactives, pas de nystagmus, nerfs crâniens normaux, force et tonus 5/5, pas de dysdiadochokinésie, pas d'altérations sensorielles, test de confrontation normal, test de Romberg négatif, pas d'altérations de la marche.
+
+Examens complémentaires
+" Tomodensitométrie (TDM) thoraco-abdomino-pelvienne (28/04/2017) : comparée à la précédente TDM du 12/12/2016. Résultats crâniens : il existe au moins trois lésions nodulaires supra et infratentorielles avec prise de contraste homogène, l'une dans l'hémisphère cérébelleux droit mesurant 3 mm, une autre dans la région temporo-pariétale droite mesurant 5 mm et la plus grande mesurant 6 mm dans le noyau lenticulaire droit, compatible avec une métastase. La morphologie des sillons et des ventricules est normale.
+"Constatations thoraciques : masse hilaire gauche de densité hétérogène infiltrant le médiastin et englobant l'artère pulmonaire gauche en l'infiltrant. Cette masse obstrue la bronche lobaire supérieure, provoquant une atélectasie post-obstructive, sans changement significatif par rapport au témoin. De petits infiltrats pseudonodulaires dans la région apicale du poumon gauche restent inchangés.
+"De petits ganglions lymphatiques dans le médiastin supérieur restent inchangés. Pas d'adénopathie axillaire ou hilaire. Lésion kystique de 4 cm et autre lésion inférieure de 1,7 cm dans le sein gauche, inchangées.
+"Résultats abdominaux : lésions hypodenses évoquant des kystes hépatiques simples, inchangés. Il existe toujours une petite zone d'hypodensité adjacente au ligament falciforme, inchangée et probablement liée à un trouble de la perfusion. La rate, le pancréas, les reins et les deux glandes surrénales sont normaux. Le reste de l'étude abdominale ne présente pas d'altérations significatives.
+"Pas de maladie métastatique osseuse.
+" Imagerie par résonance magnétique (IRM) du cerveau (12/05/2017) : micrométastases cérébrales diffuses. Au moins deux lésions infratentorielles touchant les deux hémisphères cérébelleux avec un œdème associé minime. Au niveau supratentoriel, au moins 10 petites lésions sont observées, la plupart à prédominance corticale, dont une au niveau du putamen droit d'environ 8 mm. Les autres lésions sont plus petites, avec un diamètre moyen d'environ 3-6 mm, et il n'y a pratiquement pas d'œdème vasogénique associé. Il n'y a pas de rehaussement leptoméningé suggérant la présence d'une carcinomatose associée.
+"Conclusions : changements compatibles avec des micrométastases cérébrales supra- et infratentorielles.
+
+Diagnostic
+Progression exclusive de la tumeur du système nerveux central (SNC) avec une maladie périphérique stable d'un adénocarcinome pulmonaire ALK-positif de stade IV.
+
+Traitement
+Étant donné que la maladie au niveau périphérique s'est poursuivie avec une réponse partielle maintenue et qu'il s'agissait d'une progression exclusive du SNC, il a été décidé de réaliser conjointement un traitement de radiothérapie holocrânienne et de poursuivre le traitement par crizotinib.
+La patiente a reçu un traitement de 10 x 300 cGy entre le 14/06/2017 et le 27/06/2017 dans un accélérateur linéaire avec la technique RT3D, en utilisant 2 champs opposés OAD et OAI avec des photons de 6 MV d'énergie. Pendant cette période, le traitement par crizotinib a été suspendu en raison de la possibilité d'une toxicité accrue, et a été repris une semaine après la fin du traitement par radiothérapie.
+
+Évolution
+La patiente continue d'être traitée par crizotinib à ce jour, sans signe de progression de la tumeur à d'autres niveaux (dernier scanner réalisé le 11/04/2018).
+Lors de l'IRM de contrôle réalisée le 03/11/2017, une réduction de la taille des métastases intraparenchymateuses a également été observée.
+Comme effets secondaires du traitement administré, elle a présenté des vertiges et des céphalées, qui ont été contrôlés avec de faibles doses de corticostéroïdes (4 mg de dexaméthasone, en établissant par la suite un schéma descendant de ceux-ci étant donné que la patiente a développé un syndrome de Cushing malgré les faibles doses), actuellement suspendus sans récurrence des symptômes.

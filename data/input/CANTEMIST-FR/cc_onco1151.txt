@@ -1,0 +1,33 @@
+Anamnèse
+Femme de 55 ans.
+- Antécédents familiaux : mère atteinte d'un adénocarcinome du côlon à l'âge de 80 ans (antécédents familiaux négatifs).
+- Antécédents personnels : pas d'allergies médicamenteuses connues. Ex-fumeuse de 15 paquets/an jusqu'en 2006, pas d'autres facteurs de risque cardiovasculaire. Prothèse de hanche gauche après un traumatisme en 1982.
+- Antécédents oncologiques : adénocarcinome modérément différencié et infiltrant du rectum pT3pN+ (4/8)M0, opéré en août 2008 par résection abdominopérinéale. Elle a ensuite reçu une chimiothérapie par oxaliplatine + 5-FU + acide folinique (selon le schéma FOLFOX 4) pendant 4 mois sur les 6 prévus, suspendue en raison d'une neurotoxicité, et une radiothérapie séquentielle (50 Gy).
+En 2010, elle a commencé un suivi dans notre centre, où un scanner a été réalisé montrant une fibrose pelvienne avec une atteinte urétérale bilatérale, principalement à droite.
+- Motif de la consultation : en janvier 2012, elle a été admise dans un autre centre pour un syndrome fébrile accompagné de frissons, et on a diagnostiqué une pyélonéphrite, qui s'est résolue avec un traitement antibiotique. Elle a commencé par présenter un exsudat vaginal ressemblant à de l'eau pour laver de la viande. Lors de l'examen gynécologique, la face postérieure du vagin s'est révélée indurée avec un ulcère dans le tiers interne, d'où semblait provenir un exsudat sanguinolent (aucune biopsie n'a été effectuée). Elle a été adressée au service d'oncologie de notre centre pour suspicion de récidive locorégionale avec infiltration vaginale.
+
+Examen physique
+ECOG 0. Bon état général. Eupnéique en resposo. Auscultation cardio-pulmonaire normale. L'abdomen est normal.
+Membres sans anomalie. Asymptomatique au moment de la consultation.
+
+Tests complémentaires
+- CEA, Ca 125 et Ca 19.9 : dans les limites de la normale.
+- Tomodensitométrie abdominale (1/2012) : masse dans l'espace présacré évoquant une récidive locale de sa maladie avec hydronéphrose bilatérale due au piégeage des deux uretères. Images suggérant une infiltration de la voûte vaginale, de l'utérus et des boucles de l'iléon distal.
+- IRM (1/2012) : hydronéphrose marquée du rein droit avec dilatation modérée de l'uretère sur tout le trajet visible.
+Myome sous-muqueux de 1 cm dans la cavité utérine. Rétraction des tissus mous et des organes pelviens compatible avec une fibrose.
+- TEP (2/2012) : dans la région présacrée, prise hétérogène en forme de "C" de 3,6 x 7,4 cm, SUV 6,1. Dans l'étude tardive, cette image anormale persistait avec un SUV de 7,9, suggérant une tumeur maligne, à moins qu'un processus inflammatoire très marqué ne puisse la justifier.
+- Echographie vaginale (2/2012) : une masse adhérente est observée sur la face postérieure. Toucher et palpation de la tumeur, avec un vagin induré, fixe et rétracté. Utérus fixé et adhérent au plan postérieur.
+- Coloscopie (3/2012) : stomie en vide gauche normale. Colon descendant et cæcum sans lésions, il n'y a qu'un diverticule dans le côlon proximal.
+- Cytologie vaginale (7/2012) : négatif pour une lésion intra-épithéliale ou une tumeur maligne.
+- Biopsie de l'endomètre (7/2012) : biopsie non représentative. Épithélium exocervical présentant des modifications atrophiques.
+
+Diagnostic
+- Adénocarcinome du rectum. Stade C de Dukes, stade C1 d'Astler-Coller.
+- Masse présacrée avec piégeage urétéral bilatéral compatible avec une récidive locorégionale ou une fibrose post-radiothérapie.
+
+Traitement
+Le cas a été discuté au sein du comité de coloproctologie.
+S'il s'agissait d'une récidive locorégionale, elle serait non résécable ; même dans ce cas, il y avait de sérieux doutes quant au diagnostic, car la patiente était asymptomatique. C'est pourquoi un suivi clinique et radiologique étroit a été décidé, tant par l'oncologie que par la gynécologie.
+
+Évolution
+Un suivi clinique et radiologique rapproché (CT, PET et contrôles gynécologiques) a été effectué. La patiente est restée asymptomatique tout au long du processus, avec une lésion stable selon les techniques d'imagerie, et a finalement été diagnostiquée avec une fibrose rétropéritonéale post-radiothérapie. Elle continue d'être suivie tous les 6 mois en consultation d'oncologie.

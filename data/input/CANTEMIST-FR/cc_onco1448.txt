@@ -1,0 +1,28 @@
+Anamnèse
+Un homme de 73 ans avec des antécédents de thalassémie mineure, d'accident vasculaire cérébral ischémique sans séquelles en 1998 et d'adénocarcinome de la prostate (Gleason 4+3), opéré par prostatectomie radicale en 2007. En juillet 2009, il a commencé à souffrir de constipation sans rectorragie ni syndrome constitutionnel. Il a donc été évalué en septembre 2009 dans le service digestif ambulatoire, où il a subi un examen sanguin sans anémie, avec des globules blancs et des plaquettes normaux, un CEA de 4,0 ng/mL, un ECG et une radiographie du thorax sans altérations pertinentes. Une coloscopie a également été pratiquée, qui a révélé une sténose à 50 cm de la marge anale avec un résultat de biopsie positif pour un adénocarcinome modérément différencié.
+Le bilan d'extension (tomodensitométrie abdominale et coloscopie) n'a révélé aucun signe de maladie métastatique. Le 3 décembre 2009, une sigmoïdectomie laparoscopique et une anastomose colorectale ont été réalisées, avec pour résultat un adénocarcinome colorectal modérément différencié de 3,7 x 2,8 cm infiltrant la couche muscularis propria et atteignant de manière focale et superficielle la graisse péri-intestinale, avec des marges de résection distales, proximales et circonférentielles exemptes d'implication néoplasique, mais avec des métastases d'adénocarcinome dans deux des neuf ganglions lymphatiques isolés dans la graisse périsigmoïdienne, sans preuve d'invasion vasculaire.
+Avec le diagnostic d'adénocarcinome du côlon de stade pathologique pT3 N1 MO (stade III), il a été adressé à la clinique ambulatoire d'oncologie, où il a été décidé de commencer un traitement de chimiothérapie adjuvante selon le schéma MOSAIC pour six cycles (oxaliplatine 85 mg/m2 153 mg, acide folinique 200 mg/m2 362 mg ; 5-FU bolus 400 mg/m2 724 mg, 5-FU perfusion continue 46 heures 2,172 mg), qui a commencé le 17 janvier 2010. Le 2 février 2010, elle a été réadmise pour le cycle 1B, présentant jusqu'alors des nausées et vomissements liés au traitement pendant trois jours, et une neurotoxicité de grade 1 pendant deux jours (paresthésies dans les mains et les pieds), qui est réapparue avec les cycles suivants. Au moment de la consultation pour le début du cycle 4B (mai 2010), la patiente a signalé l'apparition récente d'épisodes de vision floue et de diplopie verticale d'une durée de deux ans. Elle n'avait pas de douleur lors des mouvements oculaires ni de dyschromatopsie.
+Aucun autre symptôme ne l'accompagnait.
+
+Exploration physique
+Conscient, orienté dans la personne, l'espace et le temps. Normoconstitué, coloration normale des muqueuses et de la peau.
+Eupnéique. Hémodynamiquement stable.
+Auscultation cardio-pulmonaire normale. Abdomen avec cicatrice médiane infra-ombilicale, souple, non douloureux, sans masse ni hépatomégalie ou splénomégalie palpable.
+Examen neurologique normal. Pas d'altération des nerfs oculomoteurs.
+
+Examens complémentaires
+- NFS : plaquettes 89 000 mm3 ; le reste est normal.
+- Acuité visuelle : 0,1 œil gauche ; 0,2 œil droit.
+- Fond d'œil : normal.
+- IRM cérébrale : système ventriculaire de taille, morphologie et position normales. Zones d'allongement du signal de résonance dans la substance blanche périventriculaire et profonde, secondaires à une démyélinisation-gliose d'origine vasculaire ischémique chronique.
+Pas de prise de contraste pathologique. Aucune altération des nerfs optiques n'a été mise en évidence.
+- Potentiels évoqués visuels : la latence de l'onde P100 a augmenté dans les deux yeux. L'amplitude à l'état stable a diminué dans les deux yeux. Signes compatibles avec une névrite optique bilatérale sévère.
+
+Diagnostic
+Névrite optique bilatérale sévère associée à la neurotoxicité de l'oxaliplatine.
+
+Traitement
+À cette époque (mai 2011), la patiente avait déjà reçu quatre cycles de chimiothérapie. Il a donc été décidé de demander un scanner de contrôle (sans altération) et, compte tenu de la persistance des symptômes visuels, d'interrompre le traitement adjuvant.
+
+Évolution
+L'état clinique de la patiente s'est amélioré après l'arrêt du traitement, avec une résolution progressive des symptômes sur plusieurs mois. Lors de la dernière consultation en janvier 2012, la patiente était asymptomatique, avec un examen et des tests de laboratoire normaux et un scanner sans signe de récidive.

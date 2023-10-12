@@ -1,0 +1,14 @@
+T1	pathologie 120 222	lesión expansiva bien delimitada, osteolítica, multiloculada, localizada en rama horizontal mandibular
+T2	pathologie 267 319	lesión expansiva con destrucción de la cortical ósea
+T3	pathologie 364 377	ameloblastoma
+T4	pathologie 419 425	lesión
+T5	pathologie 2750 2753	PIN
+T6	pathologie 3395 3445	delección del brazo largo del cromosoma 22 (22q11)
+T7	pathologie 3503 3541	pérdida de centrómero del cromosoma 22
+#1	SNOMED T6	726399005
+#2	SNOMED T7	70452003
+#3	SNOMED T3	285311001
+#4	SNOMED T5	768934004
+#5	SNOMED T1	94403001
+#6	SNOMED T2	94222008
+#7	SNOMED T4	417163006

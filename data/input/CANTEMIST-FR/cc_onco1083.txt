@@ -1,0 +1,59 @@
+Anamnèse
+Nous décrivons le cas d'une femme de 57 ans, d'un niveau socioculturel élevé, sans antécédents médicaux intéressants.
+Diagnostiquée en 1999 avec un carcinome canalaire infiltrant du sein gauche, modérément différencié, ER+, RP-, Ki67 élevé et HER2-, stade IIA. Après une mastectomie radicale gauche modifiée, on lui a prescrit une chimiothérapie adjuvante avec CMF (cyclophosphamide, méthotrexate, 5-FU) pendant 6 cycles, une radiothérapie locale et une hormonothérapie avec tamoxifène, qui s'est achevée en 2004.
+En février 2009, on lui a diagnostiqué une leucémie myéloïde chronique. Après trois mois de traitement à l'imatinib, une réponse cytogénétique a été observée et la patiente a continué à prendre le médicament à raison de 400 mg par jour.
+En ce qui concerne le cancer du sein, elle a suivi des examens réguliers sans incident jusqu'en mai 2010, date à laquelle une rechute osseuse a été observée au niveau de l'humérus droit. Un traitement à l'exemestane a été prescrit en intention palliative et une radiothérapie locale antalgique, parvenant à stabiliser la maladie jusqu'en février 2013, date à laquelle, après avoir observé une nouvelle progression exclusivement osseuse, une deuxième ligne de traitement hormonal au fulvestrant a été indiquée.
+Le 7 avril 2014, après avoir présenté un tableau neurologique de myélopathie compressive, la présence de multiples lésions osseuses vertébrales avec atteinte de la moelle épinière au niveau dorsal a été confirmée par IRM. Selon le protocole habituel, la dexaméthasone 20 mg par jour en trois prises (8-8-4 mg) et une radiothérapie urgente ont été prescrites.
+Le 24/4/2014, elle s'est présentée à un rendez-vous de suivi en Oncologie accompagnée de son parent direct, qui a rapporté une asthénie et une faiblesse de la patiente depuis les jours précédents, une désorientation temporo-spatiale, une dysphagie et une odynophagie progressives avec refus de s'alimenter, avec une conversation obsessionnelle s'attribuant des négligences domestiques graves inexistantes, une réfractarité au raisonnement et aux preuves objectives des événements rapportés.
+Il a été jugé que le degré d'affectation globale justifiait une admission à l'hôpital et, après les examens pertinents et les tests complémentaires, il a été diagnostiqué une mucosite/œsophagite due à la radiothérapie, une myopathie proximale modérée au cortisol et une psychose stéroïdienne. Elle a été traitée par une diminution brutale de la dexaméthasone à des doses supraphysiologiques de 4 mg par jour ; le traitement a été maintenu avec sa benzodiazépine habituelle (zolpidem 10 mg) et un antipsychotique (halopéridol, dose initiale de 5 mg, suivie de 15 mg en perfusion de 24 heures) a été prescrit.
+Quarante heures après l'admission, le matin du 26/4/2014, le médecin de garde a été requis en raison de la diminution du niveau de conscience du patient, de sa réponse non cohérente aux stimuli verbaux, de sa bradypsychie et de sa tendance à la somnolence, sans focalité neurologique. Ces symptômes ont été attribués à un dosage excessif d'antipsychotiques, qui ont été interrompus, et l'évolution a été suivie.
+Quelques 12 heures plus tard, avec un sensorium plus clair et un patient plus cohérent, au cours de la visite médicale, le patient a fini par évoquer comme un acte dont il se souvenait mais qui n'était pas considéré comme sa propre volonté consciente, l'ingestion subreptice la nuit précédente (25/4/2014) de quelque 10 ou 12 comprimés de zolpidem 10 mg, et d'au moins 13 comprimés d'imatinib 400 mg (dose totale, 5.200 mg), tous des médicaments qu'il avait apportés de chez lui parmi ses effets personnels, avec une intention suicidaire dans le contexte d'un sentiment d'extrême culpabilité pour la négligence domestique décrite ci-dessus.
+
+Examen physique
+Sphère cognitive à l'admission :
+- Désorientation temporelle. Orientation dans l'espace et dans la personne.
+- Idées obsessionnelles et récurrentes sur l'ordre, la propreté, les tâches ménagères et les soins familiaux, sans réponse cohérente aux raisonnements objectifs du médecin et d'un proche direct.
+- Réticence à être admise à l'hôpital pour les raisons invoquées, avec insistance sur la nécessité urgente de résoudre une prétendue situation catastrophique à son domicile, dont l'existence a été niée à plusieurs reprises par son conjoint.
+Signes physiques à l'admission (24/4/2014) :
+- Faciès de pleine lune.
+- Signes de mucosite buccale avec surinfection fongique.
+- Auscultation cardio-pulmonaire sans altération.
+- L'examen abdominal est sans particularité.
+- Pas de focalité neurologique, avec une mobilité et un port de poids limités en raison d'une atrophie musculaire, principalement proximale.
+Sphère cognitive le matin du 26/4/2014 :
+- Diminution du niveau de conscience, réponse vague aux stimuli verbaux, somnolence, bradypsychie, sans focalité neurologique. Très évocateur d'une encéphalopathie métabolique non spécifique.
+Sphère cognitive dans la nuit du 26/4/2014 :
+- Amélioration de l'état de conscience et amélioration lente mais progressive de la bradypsychie. Collaborateur, mieux orienté, sans exprimer les mêmes inquiétudes que les jours précédents.
+Evolution de la sphère cognitive :
+- Récupération progressive jusqu'à la ligne de base ; capable de se souvenir de la prise massive de médicaments mais décrite comme un acte dépersonnalisé ; avec un souvenir flou de ses obsessions domestiques à l'admission.
+L'évaluation psychiatrique des jours suivants et avant la sortie de l'hôpital n'a révélé qu'un syndrome dépressif réactionnel léger à modéré.
+
+Tests complémentaires
+- Analyses sanguines en série : paramètres hématologiques et fonction hépatique indiqués dans le tableau 1.
+- Radiographie du thorax : aucun signe de pathologie parenchymateuse pulmonaire ou pleurale aiguë.
+- ECG : rythme sinusal à environ 90 bpm. Complexes QRS étroits. Pas d'altération de la repolarisation.
+
+Diagnostic
+- Carcinome canalaire infiltrant du sein de stade IV dû à une maladie métastatique multiple au niveau des os.
+- Psychose aux stéroïdes. CIM-10 : F06.8 : "Autre trouble mental spécifié dû à une lésion ou à un dysfonctionnement cérébral ou à une maladie somatique". Altération de l'humeur survenant au cours d'un traitement par stéroïdes ou antidépresseurs.
+- Ingestion furtive de médicaments dans un but autolytique dans le contexte de ce qui précède.
+- Toxicité du surdosage en imatinib : grade hépatique 2, grade hématologique 4 et clinique musculo-squelettique.
+
+Traitement
+- Mesures de soutien.
+- Corticothérapie dégressive jusqu'à l'arrêt complet.
+- Antipsychotiques à fortes doses et, par la suite, régime dégressif.
+- Arrêt de l'imatinib.
+- Après la tentative d'autolyse, ajout de 50 mg par jour de chloracépate dipotassique et de 10 mg par jour d'escitalopram.
+
+Évolution
+a) Mucite et œsophagite à l'admission : grade 2 du Common Terminology Criteria for Adverse Events (CTCAE, Version 4.0) qui a atteint le grade 3 au sixième jour d'admission, et s'est lentement améliorée pour atteindre le grade 2 à la sortie au jour +12.
+b) L'asthénie présente à l'admission a été exacerbée par la prédominance des myalgies, des arthralgies et de l'alitement qui, associée à la myopathie secondaire aux corticoïdes, a rendu la déambulation difficile, grade 3 (CTCAE, Version 4.0).
+c) Symptomatologie typique de la psychose stéroïdienne : superposée à celle correspondant à l'encéphalopathie toxique, avec syndrome confusionnel, elle s'est progressivement éclaircie à partir du troisième jour d'admission. Tous les symptômes ont disparu et la patiente a reconnu son état avant le septième jour, bien qu'elle ait conservé un sentiment d'étrangeté parce qu'elle avait l'impression que les actes qu'elle avait accomplis échappaient à son contrôle conscient.
+Une évaluation a été demandée au service de psychiatrie, qui a évalué la patiente au jour 1 et au cours de l'évolution ultérieure, et avant la sortie, n'a noté qu'un tableau dépressif réagissant au processus oncologique et à la tentative d'automutilation.
+Globalement, le trouble psychiatrique doit être classé comme "Psychose de grade 4" (selon CTCAE, version 4.0) secondaire au traitement à la dexaméthasone, avec une récupération complète avant la sortie.
+d) Encéphalopathie métabolique : secondaire à l'ingestion de benzodiazépines (environ 100 mg de zolpidem en une seule dose) chez un patient traité par halopéridol avec une perfusion de 15 mg par jour. Amélioration progressive à partir de 24 heures après l'épisode, complètement inversée au jour +3.
+e) Toxicité hématologique due à l'imatinib : avant le surdosage, elle présentait une thrombopénie de grade 1 qui s'est progressivement aggravée (tableau I) jusqu'à atteindre son nadir de grade 3 (CTCAE, version 4.0) au jour +6.
+Il a présenté une leucopénie et une neutropénie progressives, atteignant le grade 4 le sixième jour après l'intoxication, avec une récupération complète au jour +12 et le maintien de chiffres normaux lors des contrôles ambulatoires successifs.
+f) D'autres toxicités secondaires à de fortes doses d'imatinib ont été l'apparition d'un œdème bilatéral des paupières avec augmentation du larmoiement, une altération progressive de la fonction hépatique (tableau I) atteignant un maximum de grade 2 (CTCAE, version 4.0) au jour +4 après l'intoxication. Amélioration progressive par la suite, avec normalisation au jour 6.
+Le patient n'a pas présenté de symptômes gastro-intestinaux (pas de douleurs abdominales ni de vomissements) malgré les doses ingérées, bien qu'il soit possible que le traitement concomitant par l'halopéridol, les analgésiques et les corticostéroïdes ait masqué les symptômes.

@@ -1,0 +1,30 @@
+Anamnèse
+Nous présentons une femme de 72 ans de Barcelone, mariée. Mère de trois enfants indépendants, elle bénéficie d'un bon soutien familial. Elle est à la retraite depuis l'âge de 65 ans et est enseignante de profession.
+
+Elle n'a pas d'antécédents familiaux de cancer. Elle n'a pas signalé d'habitudes toxiques et avait des antécédents personnels d'hypertension sous traitement médical à l'énalapril. Sur le plan gynécologique, elle a eu 3 grossesses, 3 accouchements euthecologiques et 3 enfants en bonne santé. Elle a eu son premier cycle menstruel à l'âge de 9 ans et la ménopause à l'âge de 40 ans.
+
+Son histoire oncologique commence début septembre par un tableau clinique caractérisé par des douleurs abdominales irradiant vers la taille, accompagnées d'une plénitude précoce, d'une anorexie avec une perte quantifiée de 5 kg en un mois et d'une asthénie modérée.
+
+Examen physique
+L'examen physique révèle une détérioration marquée de l'état général, avec un niveau de performance de 2 et une distension abdominale aux dépens d'une hépatomégalie de quatre largeurs de doigt, sans signe d'ascite.
+Il existe également un ictère cutanéo-muqueux important. Il n'y a pas d'altérations cardiaques ou respiratoires.
+
+Tests complémentaires
+" Au service des urgences, une échographie abdominale a montré une hépatomégalie due à de multiples lésions occupant l'espace, et il a été admis au service de médecine interne pour des examens complémentaires.
+" Lors de l'admission, les premiers examens de laboratoire ont montré un doublement des taux normaux de transaminases et une cholestase non dissociée (AST 1,02 μkat/l, ALT 1,21 μkat/l, albumine 31 g/l, BB 14 μmol/l, gamma-GT 10,61 μkat/l, FA 5,05 μkat/l). Plusieurs marqueurs tumoraux étaient élevés, notamment l'antigène Ca-19-9 618 kint.u./l, l'antigène carcinoembryogène 992,2 ug/l et l'alpha-fœtoprotéine (AFP) 14 968 ug/l. Une sérologie a été effectuée, excluant une hépatite.
+"Un scanner abdominal a été réalisé, qui a montré une hépatomégalie tumorale aux dépens de multiples lésions bilobaires hypervasculaires focales, montrant également des masses tumorales endovésiculaires avec des caractéristiques hypervasculaires compatibles avec des métastases. Aucune lésion tumorale n'a été observée dans le bassin. La sémiologie décrite et la radiologie suggèrent un diagnostic différentiel entre un hépatocarcinome multifocal sur foie sain, une tumeur germinale hépatique extragonadique et des métastases endovésiculaires, et des métastases hépatiques et endovésiculaires évoquant un mélanome en raison de l'hypervascularisation.
+"Au vu de ces résultats, un PET-CT a été réalisé pour la stadification et la recherche d'une tumeur primaire, mettant en évidence la lésion tumorale solide hypermétabolique endovésiculaire, s'étendant au hile hépatique et au sillon pancréaticoduodénal, ainsi que de multiples lésions hépatiques hypermétaboliques, Il est difficile d'évaluer la tumeur primaire, bien qu'étant donné l'absence de dilatation des canaux biliaires et pancréatiques, une origine vésiculaire probable est la première option (moins susceptible d'être un cholangiocarcinome ou duodénal) et des métastases hépatiques probables.
+"Une biopsie hépatique échoguidée a été réalisée sans incident. L'anatomie pathologique est décrite comme une infiltration par un néoplasme qui adopte un modèle de croissance infiltrative papillaire et tubulaire. La prolifération des noyaux et la présence de vacuoles sous-nucléaires ont été exclues. Au niveau des papilles, qui présentent un axe fibrovasculaire, les vacuoles sont adjacentes à l'axe fibrovasculaire et dans la composante tubulaire infiltrante, elles sont adjacentes au stroma environnant.
+Les cellules présentent un pléomorphisme nucléaire et des mitoses sont identifiées. Aucune nécrose n'est observée.
+Immunohistochimie avec positivité focale pour l'alpha-fœtoprotéine. Négativité pour la CK7, la CK20 et les récepteurs d'œstrogènes. Au vu de ces résultats, l'orientation diagnostique est celle d'une tumeur endométrioïde de la vésicule vitelline.
+
+Diagnostic
+Il s'agit donc d'une tumeur germinale du sinus endodermique extragonadique (tumeur du sac vitellin) dans le foie et la vésicule biliaire, sans preuve d'une tumeur primaire gonadique.
+
+Traitement
+Comme il s'agit d'une tumeur chimiosensible selon la littérature médicale, mais compte tenu de la fragilité et de la grande détérioration de notre patiente, il a été décidé de commencer une chimiothérapie selon le schéma carboplatine-étoposide (80 % d'étoposide en raison de l'altération de la fonction hépatique). La patiente n'a reçu qu'un seul cycle, qui a été bien toléré.
+
+Evolution
+Malgré le traitement, la patiente a présenté une détérioration clinique rapide, si bien qu'en décembre 2013, les marqueurs tumoraux ont été redéterminés, qui paradoxalement étaient légèrement plus bas, et un scanner de l'abdomen a été réalisé, qui a montré une légère amélioration de la taille des lésions hépatiques. Cependant, elle présentait une ascite franche, une PTE bilatérale et une nouvelle thrombose portale. La patiente a dû être hospitalisée en décembre en raison d'une détérioration générale, présentant de multiples complications, notamment une infection respiratoire à Haemophilus influenzae et une ascite maligne liée à une maladie néoplasique.
+
+Compte tenu des complications survenues au cours du traitement, qui ont entraîné un état de performance de 2-3, et de la faible réponse clinique au traitement, elle a été considérée comme n'étant pas candidate à un traitement oncospécifique supplémentaire et a été orientée vers l'unité de soins palliatifs de notre centre, où elle est décédée un mois plus tard en raison de la progression de la maladie.

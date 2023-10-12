@@ -1,0 +1,17 @@
+T1	pathologie 33 42	diabética
+T2	pathologie 65 116	hepatitis por virus C de etiología postransfusional
+T3	pathologie 293 310	carcinoma vesical
+T4	pathologie 448 489	múltiples focos de carcinoma en la vejiga
+T5	pathologie 525 573	carcinoma urotelial que invadía la capa muscular
+T6	pathologie 745 808	carcinoma urotelial de alto grado con invasión de capa muscular
+T7	pathologie 815 859	afectación de uno de los ganglios linfáticos
+T8	pathologie 914 924	metástasis
+T9	pathologie 1068 1095	infección de vías urinarias
+T10	pathologie 1555 1587	hidronefrosis bilateral moderada
+T11	pathologie 2095 2099	coma
+T12	pathologie 2179 2201	moderada hiperglucemia
+T13	pathologie 2390 2414	encefalopatía metabólica
+T14	pathologie 2998 3007	infección
+T15	pathologie 3333 3365	mielotoxicidad postquimioterapia
+T16	pathologie 3826 3845	acidosis metabólica
+T17	pathologie 3997 4025	encefalopatía hiperamonémica

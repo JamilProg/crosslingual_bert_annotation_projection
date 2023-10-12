@@ -1,0 +1,42 @@
+Anamnèse
+Il s'agit d'une patiente de 65 ans, sans allergie médicamenteuse connue, hypertendue bien contrôlée, chez qui a été diagnostiqué un adénocarcinome canalaire de la tête du pancréas opéré en août 2015 par duodéno-pancréatectomie céphalique (pT3 pN1 1/30, cM0). R0. Aucun traitement adjuvant n'a été réalisé.
+Diabète comme séquelle de la chirurgie pancréatique.
+En novembre 2016, une récidive locale a été suspectée (lésion adjacente à l'artère mésentérique supérieure), mais avec des marqueurs tumoraux négatifs et sans confirmation par TEP, un suivi a donc été décidé. En mars 2017, une augmentation du volume et de la densité de la lésion a été observée, mais après discussion avec le comité des tumeurs, une réintervention a été exclue. Compte tenu de la poursuite de la progression locale (sans maladie à distance), une chimiothérapie par gemcitabine + nab-paclitaxel a été débutée en mai 2017.
+Après avoir terminé 5 cycles de traitement, en septembre 2017, il a été décidé d'arrêter le nab-paclitaxel en raison de la détérioration progressive de la fonction rénale (créatinine jusqu'à 1,88 mg/dl) ainsi que de l'anémie et de la thrombopénie, avec l'idée de continuer avec la gemcitabine en monothérapie. En outre, la patiente a commencé à signaler un mauvais contrôle de sa tension artérielle et une augmentation des œdèmes malgré l'intensification du traitement. Cependant, le patient n'a pas reçu d'autres cycles de traitement, car sa fonction rénale (jusqu'à 3,3 mg/dl de créatinine) et son hémogramme ont continué à se dégrader, et il a donc été décidé de l'hospitaliser pour des études complémentaires.
+Lors de son admission dans notre service, il a été évalué conjointement avec le service d'interconsultation en néphrologie, en raison d'une suspicion de microangiopathie thrombotique (détérioration progressive de la fonction rénale qui ne s'est pas améliorée après l'arrêt de la chimiothérapie, anémie et thrombopénie, hypertension et œdèmes incontrôlés).
+
+Examen physique
+État général normal. Conscient, orienté et coopératif. Eupnéique au repos avec une saturation en O2 de 96% sans apport d'O2. A l'auscultation, le cœur est rythmé sans souffle audible, le murmure vésiculaire est préservé et la respiration est sifflante. Oedème minime des membres inférieurs avec fovéa.
+
+Examens complémentaires
+Échographie rénale 15/09/2017 : reins de taille et de morphologie normales, avec une différenciation cortico-médullaire adéquate et une épaisseur corticale préservée. Aucune dilatation des voies excrétrices, aucune image de néphrolithiase ou de collection intra- ou périnéale n'a été identifiée. Vessie urinaire partiellement distendue, sans altération significative de sa paroi ou de son contenu. Il n'y a pas eu d'autres résultats échographiques d'intérêt dans le reste de l'examen.
+Echocardiographie 21/09/2017 : VG à la limite supérieure de la normalité (54 mm), septum 12,6 mm et pp non hypertrophique. FE préservée sans hypokinésie (60%). MV fine avec un profil de remplissage normal. VAO trivalve avec débits normaux. Chambres droites de taille et de fonction normales. RT légère avec un gradient de pointe de 41 mm Hg (PAP 55 mm Hg). Pas de DP.
+NFS à l'admission le 28/09/2017 : créatinine 3,39 mg/dl. Hb 9 g/dl. Le reste de l'hémogramme et de la biochimie sans données pertinentes.
+Analyses en série durant son séjour dans le service :
+" Créatinine (mg/dl) : 3,39 > 3,41 > 3,04 > 3,34 > 3,16 > 3,31 > 3,45 > 3,26 > 3,10 > 3,28 > 3,33.
+"Hb (g/l) : 90 > 78 > 91 > 91 > 89 > 85 > 84 > 84 > 78 > 80 > 80
+"LDH (IU/l) : 861 > 845 > 768 > 772 > 772 > 766 > 683 > 617
+Autres résultats analytiques à noter
+"Haptoglobine (mg/dl) : 1 > 0
+"Homocystéine (umol/l) : 53,7 > 49,9
+"Schistocytes 2,5 % > 2,4 %.
+"Réticulocytes 4,2 %.
+"Activité ADAMTS 13 : 40 %.
+Analyse d'urine
+Densité 1,011, pH 6, protéines négatives, glucose négatif, corps cétoniques négatifs, bilirubine normale, sang 7 hème/ul, nitrites négatifs, urobilinogène négatif, leucocytes 3 leu/ul.
+Antigénurie, pneumocoque et légionelle : négatifs.
+Sérologie virale : hépatite C IgG négative, HBsAg négative, anti-HB IgG 1000, anti-HBc IgG positive, anti-HBc IgM négative, HIV 1 + 2 négative.
+Fond d'œil : papilles bien définies, légèrement pâles, pas d'hémorragies ni d'exsudats dans la rétine. Pas d'œdème papillaire. Veines dilatées et légèrement tortueuses avec atténuation artériolaire et augmentation du réflexe pariétal des artérioles. Signes de croisement. JV : vasculopathie artériosclérotique-hypertensive, sans hypertension maligne ni rétinopathie hypertensive.
+PET-CT 09/10/2017 : faible probabilité de malignité. Épanchement pleural bilatéral avec faible taux de prolifération cellulaire.
+
+Diagnostic
+Atteinte rénale aiguë avec signes d'anémie hémolytique microangiopathique et de thrombocytopénie secondaire à une microangiopathie thrombotique associée à la gemcitabine (probablement due à un mécanisme toxique dose-dépendant, étant donné que le patient avait déjà reçu cinq cycles de traitement) ; moins probablement associée au néoplasme lui-même.
+
+Traitement
+Dans un premier temps, un traitement conservateur à base de furosémide et de doxazosine a été administré, ainsi qu'un soutien transfusionnel, et la gemcitabine a été interrompue en raison de la suspicion d'une microangiopathie thrombotique induite par le médicament.
+
+Evolution
+Après avoir effectué les examens complémentaires susmentionnés, l'existence d'une microangiopathie thrombotique a été confirmée et, pendant l'admission, la fonction rénale s'est stabilisée avec une créatinine autour de 3 mg/dl, un contrôle acceptable de la pression artérielle avec deux médicaments et une LDH en baisse. Cependant, l'anémie et l'opacité plaquettaire ont persisté avec des schistocytes et de l'haptoglobine consommée, bien que les besoins transfusionnels aient été moindres. Un scanner PET-CT a été réalisé qui, malgré l'absence de traitement, a montré une faible probabilité de malignité. En conséquence, le patient est sorti de l'hôpital avec un rendez-vous de suivi dans les cliniques ambulatoires d'oncologie et de néphrologie.
+Après sa sortie, le cas a été discuté lors d'une séance clinique en néphrologie et il a été décidé, compte tenu de la stabilisation et de l'amélioration progressive des taux de créatinine, de ne pas traiter avec l'éculizumab.
+Le 27/10/2017, il a été évalué en consultation d'oncologie, avec une Hb analytique de 80 g/l et une thrombopénie de 87 x 10 e9/l toujours persistante, bien que la fonction rénale se soit partiellement améliorée (créatinine 2,7 mg/dl). Initialement, il a été suggéré que si l'amélioration de la créatinine persistait, il pourrait être traité par 5-FU en monothérapie. Cependant, en janvier 2018, une nouvelle TEP-TDM de contrôle a été réalisée, qui a de nouveau montré une faible probabilité de malignité et les marqueurs tumoraux sont restés négatifs, de sorte qu'il a été décidé de maintenir un suivi clinique étroit et de ne pas commencer d'autre chimiothérapie pour le moment.
+Les derniers examens effectués par les services de néphrologie et d'oncologie en mars 2018 n'ont montré aucun signe de récidive de la maladie. Sur le plan clinique, le contrôle de la pression artérielle s'est amélioré. Les analyses sanguines ont montré une créatinine à 2,27 mg/dl, une Hb à 121 g/l, des plaquettes à 211 x 10 e9/l, une haptoglobine à 14 mg/dl. La bonne évolution de l'état a été confirmée par un traitement conservateur.

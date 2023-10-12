@@ -1,0 +1,20 @@
+T1	pathologie 42 59	enfermedad de VHL
+T2	pathologie 121 156	hemangiomas capilares en ambos ojos
+T3	pathologie 311 326	quistes renales
+T4	pathologie 402 427	desprendimiento de retina
+T5	pathologie 429 431	DR
+T6	pathologie 516 550	hemangiomas fotocoagulados nasales
+T7	pathologie 598 638	membrana epirretiniana en polo posterior
+T8	pathologie 885 902	hemorragia vítrea
+T9	pathologie 918 920	DR
+T10	pathologie 976 993	hemorragia vítrea
+#1	SNOMED T1	46659004
+#2	SNOMED T2	402867006
+#3	SNOMED T3	253883006
+#4	SNOMED T4	42059000
+#5	SNOMED T6	449175004
+#6	SNOMED T7	367649002
+#7	SNOMED T8	31341008
+#8	SNOMED T10	31341008
+#9	SNOMED T5	42059000
+#10	SNOMED T9	42059000

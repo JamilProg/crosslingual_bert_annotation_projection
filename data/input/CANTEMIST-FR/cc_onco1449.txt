@@ -1,0 +1,20 @@
+Anamnèse
+Homme de 76 ans, allergique à la pénicilline.
+Ses antécédents pathologiques comprennent un ex-fumeur depuis six ans (40 paquets/an), de l'hypertension, un diabète sucré sous traitement antidiabétique oral et une dyslipidémie sous traitement médical. En 2005, on lui a diagnostiqué un carcinome de la glotte, traité par chirurgie dans un autre centre et actuellement en rémission complète.
+En janvier 2011, après avoir commencé une étude en raison d'une asthénie associée à une anémie, on a diagnostiqué chez le patient un adénocarcinome du cæcum avec dissémination hépatique synchrone (deux lésions de 2 cm, segments V et VIII), et il a donc été décidé de procéder à une chirurgie de la maladie primaire et de la maladie hépatique.
+En mai 2011, une hémicolectomie droite et une métastectomie des segments V et VIII du foie ont été réalisées ; l'examen anatomopathologique a révélé un adénocarcinome de bas grade de 9 cm infiltrant toutes les couches de la paroi, avec 1 ganglion atteint sur 13 (pT3pN1a), et les deux lésions hépatiques ont révélé un adénocarcinome compatible avec des métastases à partir du primitif connu. En juillet 2011, il a commencé une chimiothérapie adjuvante selon le schéma FOLFOX-6.
+Le deuxième jour du cinquième cycle, il a présenté des selles diarrhéiques (jusqu'à huit par jour) sans produits pathologiques, et des douleurs coliques dans tout l'abdomen associées à des nausées et des vomissements.
+
+Examen physique
+Conscient et orienté, normohydraté et de couleur normale.
+Hémodynamiquement stable, afébrile.
+Abdomen souple et dépressible, gêne à la palpation de la fosse iliaque droite, pas d'irritation péritonéale avec maintien du péristaltisme et pas de masses ou de mégalithes palpables.
+
+Examens complémentaires
+- Examens de laboratoire : Hb 116 g/dL (grade I) ; leucocytes 5,34 x 10 E9/L ; neutrophiles 2,62 x 10 E9/L ; urée 10,6 mmol/L ; créatinine 206 μmol/L.
+- Cultures de selles (4) : négatives.
+- Radiographie abdominale simple : distension du gros intestin sans complication.
+- Tomodensitométrie abdominale : présence d'une pancolite avec œdème de paroi évoquant principalement une entérocolite neutropénique.
+
+Évolution
+L'affection a été diagnostiquée comme une entérocolite chez un patient sous chimiothérapie présentant une insuffisance rénale aiguë d'origine prérénale et une nécrose tubulaire aiguë secondaire. Le traitement a débuté par une thérapie sérique avec une résolution complète de l'altération rénale. Le patient n'a jamais présenté de neutropénie. La diarrhée s'est progressivement résorbée, et un scanner de contrôle a alors été réalisé, qui a montré une amélioration des changements inflammatoires dans le contexte colique, avec la persistance d'un épaississement modéré dans le rectum-sigmoïde. Quatre mois après la résolution du tableau digestif, une coloscopie de contrôle a été réalisée et l'étude anatomopathologique a montré des ulcères superficiels avec de la fibrine avec des signes d'inflammation aiguë et chronique sans autres altérations.

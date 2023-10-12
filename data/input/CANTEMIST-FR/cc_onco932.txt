@@ -1,0 +1,25 @@
+Anamnèse
+Patient de 50 ans ayant des antécédents d'hypertension artérielle traitée par hydrochlorothiazide, cardiopathie ischémique à l'âge de 18 ans, non revascularisée à l'époque, AIT répété sans séquelles, actuellement traité par simvastatine, obésité de grade III. Diagnostic de maladie de Crohn sténosante, avec atteinte du duodénum et de l'iléon terminal (A2, L1, B1) sur 18 ans d'évolution, suivi par le service digestif, traité par azathioprine 200 mg/24h en entretien avec un bon contrôle jusqu'en septembre 2016, date à laquelle il a présenté des symptômes subocclusifs, raison pour laquelle il a débuté un traitement par prednisone orale 50 mg/2 4h en décroissance. Ex-fumeur d'un paquet de cigarettes par jour.
+Il a consulté aux urgences en novembre 2016 en raison de douleurs abdominales au flanc gauche depuis 3 semaines, sans modification du rythme intestinal, avec des selles de consistance normale et sans produits pathologiques. Elle ne présentait pas de fièvre ni de rectorragies. Devant la suspicion d'une nouvelle poussée de maladie de Crohn, elle a été admise dans le service digestif pour réajustement du traitement.
+
+Examen physique
+À l'examen, on note une douleur abdominale diffuse, plus importante dans le mésogastre, sans signe de péritonisme.
+Examens complémentaires
+Les examens de laboratoire ont montré une légère leucocytose aux dépens des neutrophiles et une protéine C-réactive (CRP) de 24,5. Une radiographie abdominale simple a été réalisée et s'est révélée normale.
+Un scanner abdominal a montré une sténose pariétale au niveau de l'iléon avec dilatation rétrograde des anses intestinales, en relation avec des symptômes inflammatoires liés à la maladie de Crohn (ces résultats ont été confirmés par l'entéro-IRM).
+
+Diagnostic
+Sténose intestinale chez un patient atteint de la maladie de Crohn.
+
+Traitement
+Sur la base de ces données, le patient subit une intervention chirurgicale programmée consistant en une résection de l'intestin moyen et une anastomose termino-terminale.
+
+Évolution
+Deux semaines après sa sortie, il a été admis pour des symptômes de subocclusion intestinale accompagnés d'une leucopénie et d'une légère neutropénie dans les tests de laboratoire. La tomodensitométrie abdominale a révélé une masse sténosante de tissus mous au niveau de la 3e-4e portion duodénale, suspecte de malignité, ainsi que des implants péritonéaux. Un scanner CT-PET a été réalisé, montrant une activité métabolique avec des caractéristiques néoplasiques à ces endroits.
+L'étude anatomopathologique de la pièce opératoire a révélé une sténose de l'intestin grêle secondaire à une tumeur stromale gastro-intestinale (GIST) de l'iléon avec un indice mitotique élevé (> 5 mitoses x 50 CGA). Le stade histologique est pT2pN0, stade IIIB.
+Une étude immunohistochimique a été réalisée : elle a montré une positivité dans la cellularité décrite pour CD117 (C-Kit) et CD34. Elle est négative pour DOG-1, S100, AML, desmine, Melan A, Mitf, CD56 et synaptophysine.
+Après résolution des symptômes occlusifs postopératoires par des mesures de soutien et sans réintervention, avec le diagnostic initial d'une tumeur GIST non résécable (persistance d'une masse résiduelle et d'une atteinte péritonéale diffuse), il a été adressé au service d'oncologie médicale pour évaluation du traitement.
+Il a été évalué à la clinique externe et a présenté des symptômes constitutionnels importants, bien qu'il ait déjà toléré un régime alimentaire oral. L'hémogramme a montré une nette leucocytose de 79 000 cellules/mm3, avec une légère neutrophilie et une monocytose de 3 900/mm3 et une thrombopénie de 52 000 plaquettes/mm3.
+Un frottis de sang périphérique a été réalisé à ce moment-là, mettant en évidence la présence de 87 % de blastes, de sorte que le service d'hématologie a été contacté pour effectuer une biopsie de la moelle osseuse. Compte tenu de ce diagnostic, le service de pathologie a été contacté pour revoir la biopsie initiale, et l'étude immunohistochimique a été étendue avec la détermination de CD 45 (antigène leucocytaire commun) CD43, CD117 (C-Kit), CD34, CD123, et Tdt qui étaient positifs bien que sans immunoexpression de myéloperoxydase, étant négatifs CD68, CD3, CD20, CD5, CD4, CD10, CD15, CD30, CD61, cytokératine AE1/AE3. L'étude de la moelle osseuse a permis de diagnostiquer une probable leucémie myélomonocytaire aiguë.
+Au vu de ces résultats, le cas clinique a été réévalué et le diagnostic définitif a été celui d'un sarcome myéloïde avec atteinte des anses/mésentères et du péritoine, en tant que manifestation extramédullaire d'une leucémie myélomonocytaire aiguë.
+Le patient a été admis dans le service d'hématologie et a commencé une chimiothérapie à base d'idarubicine et de cytarabine.

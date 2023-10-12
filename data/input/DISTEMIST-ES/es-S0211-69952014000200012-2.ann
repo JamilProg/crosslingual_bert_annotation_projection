@@ -1,0 +1,16 @@
+T1	pathologie 45 81	IRC secundaria a poliquistosis renal
+T2	pathologie 62 81	poliquistosis renal
+T3	pathologie 183 238	complicaciones del trasplante presentó un rechazo agudo
+T4	pathologie 394 442	pérdida del injerto renal por nefropatía crónica
+T5	pathologie 424 442	nefropatía crónica
+T6	pathologie 463 485	hepatitis «no-A, no-B»
+T7	pathologie 1005 1030	rechazo agudo del injerto
+T8	pathologie 1173 1201	eritema exudativo multiforme
+#1	SNOMED T1	723190009+253883006
+#2	SNOMED T2	253883006
+#3	SNOMED T3	213148006
+#4	SNOMED T4	236578006
+#5	SNOMED T5	709044004
+#6	SNOMED T6	50711007
+#7	SNOMED T8	36715001
+#8	SNOMED T7	26522000

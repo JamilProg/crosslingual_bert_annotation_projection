@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 79 ans, allergique aux pénicillines, avec des antécédents d'hypertension, de rétinopathie hypertensive et de dyslipidémie. Pas d'habitudes toxiques dignes d'intérêt.
+Elle consulte en médecine interne en juillet 2015 pour un tableau clinique d'évolution de 5 mois caractérisé par une perte d'environ 3 kg de poids, une douleur au niveau de l'omoplate droite et une masse des tissus mous de l'avant-bras droit de croissance progressive, de manière douloureuse.
+
+Examen physique
+"Statut de performance de l'Eastern Cooperative Oncology Group (ECOG PS) : 2.
+"Cou : adénopathie sous-mandibulaire gauche (1,5 cm). Dure. Indolore. Adhère aux plans profonds.
+"Axe gauche : adénopathie dure. Adhère aux plans profonds. Non mobile. Indolore.
+"Membre supérieur droit : douleur à la palpation de l'articulation acromio-claviculaire.
+"Limitation fonctionnelle marquée.
+"Avant-bras gauche : tumeur mesurant 6 x 6 cm. Mobile. Ulcérée en surface. Dépendante du TCS.
+
+Examens complémentaires
+"Tomodensitométrie thoracique-abdominale-pelvienne : nodule axillaire gauche et multiples métastases hépatiques et osseuses, ainsi que des métastases surrénaliennes.
+"Tomodensitométrie du membre supérieur gauche : confirme une lésion des tissus mous dans le SCT du dorsum du tiers distal de l'avant-bras gauche mesurant 38 x 33 x 25 cm, avec un plan de clivage vers les structures musculaires.
+"Échographie axillaire + biopsie à l'aiguille de l'adénopathie axillaire : lymphome folliculaire de grade 2.
+"Le service de dermatologie a réalisé une ponction d'une lésion tumorale sur l'avant-bras gauche : carcinome neuroendocrine anaplasique compatible avec un carcinome à cellules de Merkel.
+
+Diagnostic
+Carcinome à cellules de Merkel de stade IV en raison d'une atteinte hépatique, osseuse et surrénalienne et d'un lymphome folliculaire associé.
+
+Traitement
+Comme il s'agissait d'un MBC métastatique, le traitement de première ligne par chimiothérapie (QT) a été décidé selon le schéma carboplatine AUC 5 + étoposide 100 mg/m2, qui a débuté en novembre 2015.
+
+Évolution
+Après l'administration de deux cycles de traitement QT, on a constaté une amélioration clinique marquée avec ECOG 1, une réduction partielle de la douleur dans la zone de la lésion dermique, bien que la nécessité d'une analgésie au troisième stade et une involution significative de la tumeur aient persisté.
+Après l'administration du troisième traitement, le patient s'est présenté à la clinique avec une aggravation clinique due à une augmentation de la douleur locale, nécessitant l'administration de fentanyl à action rapide plusieurs fois dans la journée, et une légère augmentation de la taille de la lésion tumorale a également été observée. Compte tenu de l'état clinique du patient et des résultats de l'examen physique, il a été décidé de compléter le traitement par QT par une RT locale palliative.
+Après le traitement par RT locale, une réduction significative de la lésion tumorale a été observée, sans signes inflammatoires et avec une fermeture totale de l'ulcération précédente. En outre, elle signale qu'elle a cessé d'utiliser le fentanyl de secours à action rapide et qu'elle a présenté des vertiges et des épisodes de confusion qui s'améliorent avec la suspension des opioïdes basaux et qu'elle passe à une analgésie de deuxième étape avec un bon contrôle de la douleur.
+En février 2016 (à la fin du quatrième cycle QT), un scanner thoraco-abdomino-pelvien a été réalisé, montrant une réponse partielle plus importante au niveau des ganglions lymphatiques et du foie, avec une stabilité au niveau des os et des surrénales. En outre, le contrôle local de la maladie a persisté, sans aucun signe de récidive à ce niveau et avec un bon contrôle analgésique.
+Après le huitième cycle de traitement par QT, une nouvelle évaluation a été réalisée, où une stabilisation de la maladie a été observée à tous les niveaux, maintenant la réponse susmentionnée.
+En septembre 2016, après un intervalle sans progression de 11 mois, le patient a consulté pour une détérioration de l'état général, un mauvais contrôle analgésique au niveau de la lésion cutanée, avec une croissance marquée de la lésion. Un scanner de réévaluation a montré une progression de la tumeur à tous les niveaux, et il a donc été décidé de commencer un traitement par avelumab.

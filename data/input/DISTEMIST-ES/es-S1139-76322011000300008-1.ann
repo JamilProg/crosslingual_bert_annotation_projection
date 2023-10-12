@@ -1,0 +1,4 @@
+T1	pathologie 1357 1380	hipertrofia ventricular
+T2	pathologie 1478 1496	pericarditis aguda
+#1	SNOMED T1	266249003
+#2	SNOMED T2	15555002

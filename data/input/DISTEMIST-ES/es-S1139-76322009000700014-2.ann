@@ -1,0 +1,18 @@
+T1	pathologie 447 470	alergias medicamentosas
+T2	pathologie 587 607	enfermedad de Berger
+T3	pathologie 832 849	lesiones cutáneas
+T4	pathologie 851 878	Adenopatías submandibulares
+T5	pathologie 1008 1023	visceromegalias
+T6	pathologie 1682 1701	insuficiencia renal
+T7	pathologie 1987 2022	insuficiencia renal leve a moderada
+T8	pathologie 2085 2135	nefritis tubulointersticial con daño tubular agudo
+T9	pathologie 2164 2182	proceso infeccioso
+#1	SNOMED T7	723188008
+#2	SNOMED T6	723188008
+#3	SNOMED T8	428255004+35455006
+#4	SNOMED T3	95324001
+#5	SNOMED T4	127084003
+#6	SNOMED T2	68779003
+#7	SNOMED T1	416098002
+#8	SNOMED T5	28543008
+#9	SNOMED T9	40733004

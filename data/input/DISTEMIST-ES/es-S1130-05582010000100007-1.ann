@@ -1,0 +1,15 @@
+T1	pathologie 93 100	fumador
+T2	pathologie 286 365	tumor se ubicaba en el borde libre derecho, extendiéndose hacia la base lingual
+T3	pathologie 382 388	úlcera
+T4	pathologie 408 431	trauma crónico dentario
+T5	pathologie 469 482	zona ulcerada
+T6	pathologie 540 567	carcinoma pseudosarcomatoso
+T7	pathologie 570 601	sarcoma epitelioide-fusocelular
+T8	pathologie 626 647	metástasis pulmonares
+T9	pathologie 685 721	osteolíticas en columna dorso-lumbar
+T10	pathologie 728 756	nódulos subcutáneos en dorso
+T11	pathologie 775 788	nódulo dorsal
+T12	pathologie 995 1068	proliferación neoplásica epitelioide y fusocelular infiltrante y ulcerada
+T13	pathologie 1137 1164	carcinoma pseudosarcomatoso
+T14	pathologie 1167 1200	sarcoma epitelioide y fusocelular
+T15	pathologie 1479 1515	leiomiosarcoma infiltrante en lengua

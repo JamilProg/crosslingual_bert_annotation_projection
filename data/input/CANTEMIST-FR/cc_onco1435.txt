@@ -1,0 +1,26 @@
+Anamnèse
+Homme de 43 ans, diagnostiqué avec une neurofibromatose de type 1 (NF-1) en 1996. Depuis lors, il a été suivi par des examens ophtalmologiques et dermatologiques réguliers et une imagerie par résonance magnétique (IRM) du cerveau sans incident. Lors d'un contrôle de routine, une échographie abdominale a été demandée et les résultats ont été pris en compte lors de l'initiation de l'étude.
+
+Examen physique
+Aucun symptôme constitutionnel, syndrome anémique ou symptôme lié à une hypersécrétion hormonale n'a été constaté.
+
+Examens complémentaires
+Échographie abdominale : masse de 70 x 68 mm, située au-dessus de la vessie, avec un flux Doppler abondant, une échogénicité hétérogène et des limites bien définies.
+IRM de l'abdomen et du bassin : masse supravésicale d'origine probablement vésicale évoquant un paragangliome extra-surrénalien. Neurofibromes multiples.
+Scintigraphie à la métaiodobenzylguanidine (MIBG) : léger dépôt de radiotraceur au niveau supravésical.
+Métanéphrines urinaires : normales.
+Octréoscan : tumeur supravésicale avec faible expression des récepteurs de la somatostatine, sans signe de maladie métastatique.
+
+Diagnostic
+GIST intestinale multiple associée à une neurofibromatose de type 1.
+Résection intestinale avec exérèse complète.
+
+Traitement
+Excision de la tumeur après traitement par alpha-bloquants malgré des taux de catécholamines dans les limites de la normale. Lors de l'intervention chirurgicale, une double tumeur a été observée : la première dépend de l'anse du jéjunum moyen avec un pédicule provenant du méso-jéjunum et de sa paroi d'environ 6-7 cm de diamètre et la seconde est située dans le jéjunum le plus proximal à environ 15-20 cm de la sortie de l'angle de Treitz. Il n'y a pas de preuve macroscopique de la maladie.
+Pathologie du jéjunum moyen : multiples tumeurs stromales gastro-intestinales. La plus grande mesure 8 x 7 x 6 cm et ne présente pas de mitose (risque modéré). Dépendantes de la séreuse. Peu d'atypies. Pas de nécrose. Ki67+ dans 2% des cellules. Absence de mutation des gènes KIT et PDGFRA. Taille proche de 2,3 cm de grand axe et absence de mitose (faible risque). Localisation intramurale. Sous-type de cellules fusiformes. Peu d'atypies. Pas de nécrose.
+Ki67+ dans 3% des cellules.
+Caractéristiques immunohistochimiques : CD117 +, CD34+, actine -, desmine -, énolase -, S 100 -, chromogranine -, CKAE1/AE3 - et CAM5.2 -.
+
+Evolution
+Compte tenu des critères de risque anatomopathologiques (localisation de la tumeur, taille, index mitotique et présence ou absence de rupture tumorale), de l'absence de mutations de KIT et PDGFRA et des caractéristiques intrinsèques des GIST associées à la neurofibromatose de type 1, nous avons décidé de ne pas administrer de traitement adjuvant à l'imatinib.
+La patiente continue d'être surveillée et subit des examens cliniques et radiologiques sans aucun signe ou symptôme de progression de la maladie à ce jour.

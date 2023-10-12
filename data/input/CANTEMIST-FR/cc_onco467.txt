@@ -1,0 +1,63 @@
+CONTEXTE ET ANTÉCÉDENTS
+Nous présentons le cas d'un homme de 67 ans sans antécédents personnels intéressants, indépendant pour les activités de base de la vie quotidienne et de la vie active, qui a été diagnostiqué en mars 2012 avec un mélanome dans la région lombaire dorsale gauche (indice de Breslow de 4 mm et niveau 4 de Clark, avec un diamètre de 12 mm) avec une biopsie du ganglion lymphatique sentinelle positive. La lésion a été excisée et une lymphadénectomie inguinale gauche radicale a été pratiquée, avec pour résultat une adénopathie positive pour une métastase de mélanome dans la région obturatrice. Un traitement adjuvant à l'interféron a été débuté en septembre 2012 et s'est achevé en septembre 2013 sans incident.
+En mars 2014, une tomodensitométrie (TDM) de contrôle a montré des adénopathies de plus d'un centimètre dans la région inguinofémorale droite, si bien qu'en juin 2014, une lymphadénectomie a été réalisée avec pour résultat une récidive ganglionnaire du mélanome. Une étude de la mutation BRAF a été réalisée et elle n'était pas mutée.
+En septembre 2016, deux hypertrophies ganglionnaires de 1 et 1,6 cm de diamètre ont été observées dans le mésentère, et il a été décidé de faire un suivi avec des examens d'imagerie. Un scanner de contrôle réalisé en juin 2017 a montré un épaississement de l'intestin grêle avec une stabilité des adénopathies mésentériques précédemment décrites, raison pour laquelle le patient a été présenté au comité des tumeurs et le segment intestinal a été excisé. L'anatomie pathologique qui en a résulté a montré une récidive intestinale du mélanome.
+Compte tenu de l'évolution du patient et de son bon état général, un traitement adjuvant par nivolumab a été proposé pour une durée d'un an. Le patient a accepté et a débuté le traitement le 05/12/2017.
+
+Anamnèse
+Il a suivi 44 semaines de traitement jusqu'en octobre 2018 sans incident ou toxicité notable à l'exception d'une asthénie de grade 2. Lors d'une visite de suivi le 09/10/2018 en oncologie médicale pour le traitement de la semaine 45, le patient a rapporté une perte de vision d'une semaine d'évolution avec un début rapide mais progressif sur 1 à 2 jours. Il a également mentionné qu'il avait besoin d'une canne depuis un mois et qu'il avait commencé à prendre de la tamsulosine une semaine plus tôt sur prescription du service d'urologie en raison d'un syndrome prostatique. Le traitement a été prescrit pour la semaine 45 et, en raison de la clinique susmentionnée, il a été référé au service d'ophtalmologie, où il a été évalué le 10/10/2018. L'examen ophtalmologique a révélé un œdème papillaire bilatéral, et il a été envoyé au service des urgences pour une évaluation neurologique urgente.
+Lors de l'examen par le service de neurologie de garde, un déficit visuel a été constaté, sans autre altération notable. Un scanner du crâne avec contraste a été réalisé et aucune lésion focale n'a été observée. Il a été suggéré qu'il s'agissait d'une possible hypertension intracrânienne, d'une atteinte auto-immune du nerf optique ou, moins probablement, d'une affection pharmacologique secondaire à la tamsulosine, car l'œdème papillaire bilatéral allait à l'encontre de cette étiologie. Finalement, la patiente a été admise au service d'oncologie médicale le 11/10/2018.
+
+Examen physique
+Bon état général. ECOG1. Patient conscient, orienté et coopératif. Eupnéique au repos :
+"Auscultation cardiaque : tons rythmiques et réguliers.
+"Auscultation pulmonaire : VCM.
+"Examen abdominal : grosse hernie de la paroi abdominale après une intervention chirurgicale. Elle n'est pas douloureuse à la palpation. Pas de masses ou de mégalithes palpables. Aucun signe d'irritation péritonéale.
+"Membres inférieurs : pas d'œdème. Pas d'impaction gémellaire.
+"Examen neurologique : langage bien articulé, cohérent dans son contenu avec la barrière linguistique. Pas d'altération de la production. Réflexe oculomoteur droit aboli, sans autre focalisation apparente au niveau des nerfs crâniens, des voies sensitives ou motrices. Force préservée bilatérale symétrique 5/5 des extrémités. Démarche avec augmentation de la base d'appui.
+
+Tests complémentaires
+Pression du liquide céphalo-rachidien (LCR) :
+"Dans les limites de la normale.
+Biochimie du LCR
+"Leucocytes (numération ; LCR) 18 leu/Μl.
+"Polymorphonucléaires (pourcentage ; LCR) 10 %.
+"Mononucléaires (pourcentage ; LCR) 90 %. "Globules rouges (numération ; LCR) 3 hèmes/μl.
+"Glucose (LCR) 50 mg/dl.
+"Protéines (LCR) 77,9 mg/dl.
+"Lactate (LCR) 2,7 mmol/l.
+Imagerie par résonance magnétique (IRM) du crâne avec contraste.
+"IRM du crâne sans et avec contraste i.v. et angio-IRM des sinus veineux.
+"Le patient lit et signe le CI. Pas d'allergies.
+"L'étude montre une hyperintensité dans les séquences T2-FLAIR de la partie médiane des thalami et de la commissure antérieure bilatérale. Les deux têtes du caudé sont également touchées (plus nettement du côté gauche) et il semble que la partie antérieure des ceintures optiques soit également affectée. Les lésions ne présentent pas de restriction claire de la diffusion ni de prise de contraste i.v. Les résultats de l'imagerie soulèvent comme première possibilité qu'il s'agisse de lésions inflammatoires qui, dans le contexte du patient, pourraient être paranéoplasiques ou auto-immunes.
+Potentiels évoqués visuels
+Observations : les PEV lors de la stimulation de l'œil droit et de l'œil gauche sont de morphologie normale, avec une diminution de l'amplitude et de la latence P100, prolongée pour l'œil droit et à la limite de la normalité pour l'œil gauche.
+Conclusions : les résultats des PEV sont compatibles avec un trouble de la conduction des deux voies visuelles, de type démyélinisant (avec un possible bloc de conduction).
+Sérologie infectieuse dans le LCR
+"VDRL dans le liquide céphalorachidien négatif.
+"FTA négatif dans le liquide céphalorachidien.
+"IgG de Borrelia burgdorferi négatifs.
+"IgM de Borrelia burgdorferi négatifs.
+"IgG anti-cytomégalovirus négatifs.
+"IgM anti-cytomégalovirus négatifs.
+"Enzyme de conversion de l'angiotensine (LCR) 1,24.
+Culture et coloration du LCR
+"Culture conventionnelle négative.
+"Coloration de Gram : aucun germe observé.
+"Culture de mycobactéries négative.
+"Coloration à l'encre de Chine négative.
+"Culture fongique négative.
+
+Diagnostic
+"Œdème papillaire bilatéral probablement secondaire à une auto-immunité secondaire à une immunothérapie.
+"Syndrome auto-immun secondaire à l'immunothérapie.
+"Mélanome malin de stade IV réséqué sous traitement par nivolumab.
+
+Traitement
+Nous avons commencé la corticothérapie dans le service d'oncologie médicale avec une dose de 80 mg de méthylprednisolone par voie intraveineuse toutes les 24 heures.
+
+Évolution
+Après 48 heures de traitement, elle a signalé une amélioration de l'acuité visuelle, lisant des caractères de 2 cm à 1,5 m. Nous avons rediscuté du cas avec le service de neurologie. Nous avons rediscuté le cas avec la neurologie, acceptant d'extraire les anticorps onconeuronaux et de réaliser des potentiels évoqués visuels.
+Le 19/10/2018, après 8 jours d'admission et de corticothérapie, le patient a montré une nette amélioration, déambulant dans le service sans incident ni soutien et récupération progressive de l'acuité visuelle. Compte tenu de la bonne évolution, il a été convenu d'une sortie à domicile, d'une IRM ambulatoire de contrôle du neuroaxe et d'un examen dans le service d'oncologie médicale.
+Elle s'est présentée à un contrôle le 06/11/2018 indiquant qu'elle avait totalement récupéré sa vision. Un scanner du thorax, de l'abdomen et du bassin a été demandé et il a été décidé de terminer le traitement, ayant effectué un total de 45 semaines sur les 52 prévues. Le 23/11/2018, une IRM de contrôle a été réalisée et a montré la disparition totale des lésions cérébrales antérieures.
+La patiente a été évaluée pour la dernière fois le 03/05/2019 en consultation d'oncologie médicale, et s'est révélée totalement asymptomatique et stable sur le plan de la maladie.

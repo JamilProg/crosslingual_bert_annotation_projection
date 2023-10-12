@@ -1,0 +1,12 @@
+T1	pathologie 51 71	LMC BCR-ABL positivo
+T2	pathologie 290 328	lesiones blanquecinas en lecho ungueal
+T3	pathologie 978 990	pancitopenia
+T4	pathologie 995 1025	infiltración blástica de la MO
+T5	pathologie 1058 1082	crisis blástica linfoide
+T6	pathologie 1195 1210	crisis blástica
+#1	SNOMED T6	278180008
+#2	SNOMED T1	128825002
+#3	SNOMED T3	127034005
+#4	SNOMED T4	167929005
+#5	SNOMED T5	413842007
+#6	SNOMED T2	247518009

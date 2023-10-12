@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 63 ans, jamais fumeuse. Diagnostiquée en août 2010 avec un adénocarcinome pulmonaire de stade IIIA cT3N2M0 et porteuse d'une délétion de l'exon 19 de l'EGFR (mutation détectée dans la membrane cytologique et confirmée par la suite dans l'échantillon de biopsie de la tumeur).
+Elle a commencé un traitement néoadjuvant avec 75 mg/m2 de cisplatine et 1 250 mg/m2 de gemcitabine les jours 1 et 8 tous les 21 jours. Elle a reçu deux cycles, avec une réponse partielle par tomographie par émission de positons/tomodensitométrie (TEP/TDM) et un curage des ganglions lymphatiques médiastinaux confirmé par bronchoscopie à écho linéaire (EBUS). Le 08.11.2010, une thoracotomie a été pratiquée, révélant une infiltration pleuro-péricardique et une atteinte persistante des ganglions lymphatiques médiastinaux au niveau 8. Comme il s'agissait d'un stade IV, il a été décidé d'entamer un traitement par erlotinib à des doses standard, qu'il a reçu du 13.12.10 au 02.08.2011. La meilleure réponse a été une maladie stable. En juillet 2011, une progression pulmonaire de la maladie a été observée. Elle a commencé une deuxième ligne avec du cisplatine et du pemetrexed, obtenant une réponse partielle comme meilleure réponse après six cycles. En mai 2012, il a présenté une nouvelle progression pulmonaire de la maladie.
+Une réinduction avec des inhibiteurs de tyrosine kinase (ITK) a été décidée, dans ce cas avec l'afatinib à une dose de 40 mg/jour. La meilleure réponse obtenue a été une réponse pulmonaire partielle, mais une progression hépatique et cérébrale. Une nouvelle biopsie a été réalisée pour étudier le mécanisme de résistance.
+
+Examen physique
+Examen physique complet sans aucun signe particulier.
+
+Examens complémentaires
+Echographie hépatique + biopsie (09.10.2012) : foie de taille et de morphologie normales avec présence de multiples lésions nodulaires solides hyperéchogènes homogènes et bien définies. Après administration de 10 cc d'anesthésique local, une biopsie du nodule de 2 cm dans le segment V-VIII a été réalisée avec une aiguille 16 G sous contrôle échographique.
+Anatomie pathologique de la biopsie hépatique (09.10.2012) : métastase d'un carcinome à petites cellules (carcinome neuroendocrine de haut grade).
+Étude de biologie moléculaire : présence de del19, absence de T790M.
+
+Diagnostic
+Femme de 63 ans, diagnostiquée avec un adénocarcinome pulmonaire de stade IV en raison d'une atteinte pleuro-péricardique et pulmonaire, porteuse d'une mutation de l'EGFR (del19). Transformation en carcinome à petites cellules (persistance de la del19 de l'EGFR et de la T790M négative) avec progression hépatique et cérébrale.
+
+Traitement
+La biopsie du foie ayant révélé une transformation histologique en cellules d'avoine, il a été décidé de traiter le patient par carboplatine et étoposide et par radiothérapie holocrânienne.
+
+Évolution
+La chimiothérapie a été commencée le 5.11.12, mais le traitement a été interrompu en raison d'une détérioration clinique rapide après un seul cycle et le traitement par radiothérapie n'a pas pu être achevé. Le patient est décédé le 17.11.12.

@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 75 ans, sans antécédents médicaux intéressants, qui a consulté pour un syndrome constitutionnel d'évolution de six mois, avec perte de 12 kg, associé à un ictère sans cholurie ni acholie. Il n'a rapporté aucun autre symptôme d'intérêt dans l'anamnèse par appareil.
+
+Examen physique
+"TA 110/66 mm Hg, FC 95 bpm, SatO2 (basale) : 95 %, Tº : 36ºC.
+"Conscient, orienté et coopératif. État général normal, normohydraté, jaunisse, cachexie.
+"AC : rythmique, pas de souffle.
+"AP : MV préservé, pas de bruits superposés.
+"Abdomen souple, non douloureux à la palpation, pas de signes de péritonisme, RHA présent.
+"EE II : pas d'œdème, pas de signes de TVP.
+
+Examens complémentaires
+Les premiers examens sanguins ont montré une hyperbilirubinémie totale (3,94 mg/dl), au détriment de l'indirecte (2,74 mg/dl), ainsi que des paramètres d'hémolyse (LDH 847 U/l, plaquettes 88 200/ul et hémoglobine 8,1 g/dl, MCV 85,5 fl).
+Par la suite, compte tenu de la suspicion d'anémie hémolytique, une analyse d'urine, un frottis sanguin, un test de Coombs et des taux d'haptoglobine ont été demandés. Le sédiment urinaire a révélé la présence d'hémoglobine et d'urobilinogène. Le frottis montre une thrombopénie et une anisopoikilocytose avec des schistocytes abondants. Le test de Coombs est négatif et l'haptoglobine est faible (< 7,75 mg/dl). En outre, les taux de complément, la sérologie virale et l'étude auto-immune étaient normaux.
+Un scanner thoraco-abdomino-pelvien a également été demandé, qui a montré un épaississement de l'antre gastrique, des adénopathies locorégionales et une atteinte osseuse diffuse. Les marqueurs CEA, CA 19.9 et CA 125 étaient élevés. Une endoscopie gastro-intestinale supérieure a été réalisée et une lésion gastrique a été prélevée, dans laquelle un épaississement de la muqueuse gastrique a été observé. Les coupes histologiques ont montré une muqueuse gastrique avec une prolifération néoplasique épithéliale provenant de la muqueuse gastrique, disposée en stries isolées et en "nappe" diffuse. Les cellules néoplasiques présentent des atypies, un pléomorphisme et un hyperchromatisme, avec une vacuolisation cytoplasmique et des noyaux excentrés en "chevalière". Le diagnostic histologique est un adénocarcinome gastrique diffus.
+
+Diagnostic
+Microangiopathie thrombotique (MAT) et anémie hémolytique secondaires à un adénocarcinome gastrique de stade VI (T3N3bM1), selon la classification TNM 2017.
+
+Traitement
+En cas de suspicion de syndrome paranéoplasique, une chimiothérapie à base de 5-fluorouracile, d'acide folinique et d'oxaliplatine (FOLFOX) est mise en place.
+
+Évolution
+Après avoir reçu trois cycles de FOLFOX et plusieurs transfusions de produits sanguins, les chiffres hématologiques se sont rétablis et la patiente est sortie de l'hôpital.

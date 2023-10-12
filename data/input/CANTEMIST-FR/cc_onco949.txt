@@ -1,0 +1,34 @@
+Anamnèse
+En mai 2015, un homme de 69 ans sans antécédents personnels pertinents a été adressé au service d'endocrinologie pour l'apparition d'un nodule thyroïdien indolore présent depuis 4 mois.
+
+Examen physique
+"ECOG 0.
+"ACR : tonalités rythmiques, CVM.
+"Nodule thyroïdien ferme et non mobile d'environ 2 à 3 cm dans le lobe thyroïdien droit.
+"Pas de lymphadénopathie latérocervicale, supraclaviculaire, axillaire ou inguinale.
+"Abdomen : sans particularité.
+"MMII : pas d'œdème ni de signes de TVP.
+
+Examens complémentaires
+Une FNA échoguidée a été réalisée. Le résultat anatomopathologique a montré une suspicion de malignité.
+Un bilan sanguin complet a été réalisé, montrant une hypothyroïdie subclinique, le reste étant sans résultat (TSH 5 840 ; FT4 0,88).
+
+Diagnostic
+Nodule thyroïdien évoquant une tumeur maligne sans diagnostic histologique définitif.
+
+Traitement
+Adressé en chirurgie pour thyroïdectomie totale le 10/09/15 et lymphadénectomie centrale, résultat anatomopathologique :
+Lobe thyroïdien droit : carcinome médullaire de la thyroïde de 4,5 cm (pT3) infiltrant la capsule sans la dépasser. Envahissement vasculaire. Lobe thyroïdien gauche : indemne de tumeur. Dans la région cervicale droite, il existe des métastases de CMT dans la seule adénopathie isolée. Dans la région cervicale gauche : absence de malignité dans les 3 ganglions lymphatiques isolés. Dans les ganglions du triangle cervical central, on observe des métastases de MTC dans les 3 ganglions isolés.
+Jugement clinique : MTC (pT3), avec atteinte métastatique des ganglions lymphatiques.
+
+Evolution
+Après la thyroïdectomie, un bilan d'extension a été réalisé par TEP/TDM en décembre 2015, qui a montré un foyer hypermétabolique sur l'adénopathie latérocervicale droite de niveau III compatible avec une persistance de la maladie, et une réintervention a donc été programmée pour une vidange centrale réglée plus une vidange latérale droite. En outre, l'analyse postopératoire a montré un CEA de 44 et une calcitonine de 697.
+Une réintervention a été réalisée en février 2016 avec un curage ganglionnaire complet, retrouvant une maladie résiduelle localisée uniquement dans les zones centrale et latérale droite). Depuis lors, la patiente est suivie par l'endocrinologie.
+Le patient a subi des analyses en série, montrant une augmentation de l'ACE et de la calcitonine, de sorte que des tomodensitométries ont été demandées en août 2016, montrant de multiples nodules pulmonaires millimétriques bilatéraux compatibles avec des métastases.
+La patiente a été adressée au service d'oncologie médicale et un traitement par vandétanib 300 mg par jour a été instauré.
+En septembre 2016, un mois après le début du vandétanib, la patiente s'est présentée à la clinique avec une dermatite étendue sur les mains et les pieds, le tronc et un prurit généralisé (dermatite G4).
+À l'examen, des plaques annulaires polymorphes érythémateuses généralisées ont été observées sur le tronc, dans les zones photoexposées avec des plaques qui recouvraient complètement les zones, " érythémateuses-grisâtres ", et des vésicules sur les mains et les pieds.
+La patiente a arrêté le vandétanib et a été adressée au service des urgences pour une évaluation dermatologique et un traitement a été mis en place avec une antibiothérapie et des corticostéroïdes systémiques à fortes doses.
+Après 4 semaines de repos thérapeutique et l'arrêt des corticostéroïdes selon un schéma descendant, le patient a présenté une amélioration de la toxicodermie, actuellement de grade 1.
+Le vandétanib a été réintroduit à 100 mg avec une excellente tolérance et augmenté à 200 mg par jour à partir de janvier 2017.
+Actuellement, la patiente reste avec une maladie stable (ILE 11 mois), asymptomatique et avec une excellente tolérance au traitement.

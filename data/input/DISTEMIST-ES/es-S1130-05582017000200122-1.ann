@@ -1,0 +1,26 @@
+T1	pathologie 97 118	hiperémesis gravídica
+T2	pathologie 207 223	proptosis ocular
+T3	pathologie 389 400	traumatismo
+T4	pathologie 471 481	exoftalmos
+T5	pathologie 486 497	hipoftalmos
+T6	pathologie 633 641	diplopia
+T7	pathologie 643 655	miodesopsias
+T8	pathologie 810 847	anomalías vasculares en la conjuntiva
+T9	pathologie 1020 1054	hematoma intraorbitario extraconal
+T10	pathologie 1383 1391	hematoma
+T11	pathologie 1753 1772	hematoma extraconal
+T12	pathologie 1797 1805	hematoma
+T13	pathologie 1944 1965	hiperémesis gravídica
+#1	SNOMED T4	18265008
+#2	SNOMED T5	231849002
+#3	SNOMED T1	90325002
+#4	SNOMED T9	371405004
+#5	SNOMED T2	18265008
+#6	SNOMED T8	74100001
+#7	SNOMED T11	371405004
+#8	SNOMED T13	90325002
+#9	SNOMED T6	24982008
+#10	SNOMED T10	385494008
+#11	SNOMED T12	385494008
+#12	SNOMED T3	417746004
+#13	SNOMED T7	15013002

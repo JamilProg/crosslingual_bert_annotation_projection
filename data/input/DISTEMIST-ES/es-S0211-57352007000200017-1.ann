@@ -1,0 +1,28 @@
+T1	pathologie 144 160	cuadro psicótico
+T2	pathologie 181 191	quemaduras
+T3	pathologie 339 356	enfermedad mental
+T4	pathologie 372 390	consumo de tóxicos
+T5	pathologie 479 512	infección de la herida quirúrgica
+T6	pathologie 516 552	quemaduras de segundo y tercer grado
+T7	pathologie 1353 1369	parto complicado
+T8	pathologie 1848 1857	hipotimia
+T9	pathologie 1859 1876	distimia de miedo
+T10	pathologie 2122 2188	meses posteriores al parto inició un trastorno del estado de ánimo
+T11	pathologie 2420 2437	clínica psicótica
+T12	pathologie 2846 2875	cuadro alucinatorio-delirante
+T13	pathologie 3938 3962	psicopatología psicótica
+T14	pathologie 4033 4081	cuadro amnésico secundario al cuadro confusional
+#1	SNOMED T13	69322001
+#2	SNOMED T3	234947003
+#3	SNOMED T14	48167000+37732008
+#4	SNOMED T10	73972002
+#5	SNOMED T5	58126003
+#6	SNOMED T6	403191005+403192003
+#7	SNOMED T11	69322001
+#8	SNOMED T7	199745000
+#9	SNOMED T12	69322001
+#10	SNOMED T4	361055000
+#11	SNOMED T2	125666000
+#12	SNOMED T9	1402001
+#13	SNOMED T1	65971000052100
+#14	SNOMED T8	224977004

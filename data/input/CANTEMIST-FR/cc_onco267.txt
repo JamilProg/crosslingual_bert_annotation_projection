@@ -1,0 +1,36 @@
+Anamnèse
+Femme de 53 ans, péri-ménopausée, originaire du Honduras, sans allergie médicamenteuse ni habitudes toxiques. Sa famille avait des antécédents de cancer du sein chez sa mère, sa tante paternelle et sa sœur.
+En septembre 2014, elle a palpé un nodule dans le sein gauche, suivi d'un écoulement purulent, et a consulté le service des urgences.
+
+Examen physique
+Sein gauche (LBC 0) : lésion ulcérée occupant la région périaréolaire, adénopathie axillaire et creux sus-claviculaire palpable. Sein droit (MD) : tumeur rétro-aréolaire de 4 cm sans rétraction cutanée.
+
+Examens complémentaires
+1) Mammographie 23.1.15 : tumeurs rétroaréolaires bilatérales > 5 cm.
+2. Échographie 23.1.15 : masse rétroaréolaire MD 50x16 mm et masse rétroaréolaire MI 40x25 mm.
+3. Échographie axillaire bilatérale 23.1.15 : négative.
+Biopsie MD positive pour une tumeur de Phyllodes de bas grade et dans l'IM un carcinome infiltrant de grade II. Dans l'étude immunohistochimique, la coloration p63 était positive avec des zones de différenciation squameuse suggérant un carcinome métaplasique. Il s'agissait d'une tumeur ER 0 RP 0 Her2 négative avec un Ki 67 de 20 %.
+
+Par la suite, l'étude a été complétée :
+1. IRM du sein 6.2.15 : masse rétroaréolaire MD 4,8x2,7x3,2cm marges bien définies.
+Adénopathies infracentimétriques. Masse IM 4,5x4,1x3,3cm avec des marges irrégulières infiltrant la peau.
+2. IRM du corps entier : altération du signal dans les corps vertébraux T6-7. Nodule hépatique s. VII 12mm non spécifique.
+3. tomodensitométrie thoracique 6.2.15 : pas d'altération.
+4. Echocardiographie 19.2.15 : fonction systolique préservée FE 54%.
+5. Analyse analytique : aucun résultat.
+6. IRM rachis 10.6.15 : foyers D5 D6 probablement angiomateux.
+
+Diagnostic
+Elle est évaluée comme une patiente péri-ménopausée présentant un carcinome métaplasique localement avancé du sein gauche cT4N1M0 et une tumeur de Phyllodes de bas grade dans le sein droit cT2N0M0.
+
+Traitement
+Il a reçu un traitement néoadjuvant par doxorubicine et cyclophosphamide pendant 4 cycles, du 26.3.15 au 7.5.15, nécessitant une admission en raison d'une neutropénie fébrile de grade IV ; il a ensuite reçu 4 cycles de docétaxel du 2.6.15 au 14.7.15. L'IRM post-néoadjuvante a montré une maladie stable bilatérale.
+Le 4 septembre 15, une tumorectomie droite et une mastectomie gauche avec curage ganglionnaire gauche ont été réalisées. L'anatomie pathologique a décrit dans le sein droit une tumeur de Phyllodes de bas grade de 3,2 cm et dans le sein gauche un carcinome canalaire écriscamoïde de 3,5 cm avec une réduction de 50 % de la cellularité tumorale après traitement et un carcinome sécrétoire de 2 cm, sans invasion vasculaire ou lymphatique, ER 10 % RP 0 et Her2 négatif avec Ki 67 10 % ; stade ypT1pN0 (0/11). Grade 3 selon Miller Payne.
+Par la suite, elle a reçu une radiothérapie adjuvante sur la paroi et les zones du sein gauche à une dose de 50 Gy (20.10.15 au 24.11.15).
+Étant donné la positivité des récepteurs d'œstrogènes, elle a commencé un traitement au tamoxifène.
+Elle a été évaluée à l'unité de conseil génétique avec les tests BRCA 1 et BRCA 2, qui se sont révélés négatifs.
+
+Évolution
+En février 2016, elle est venue à la clinique en se plaignant d'une asthénie de grade III. Les examens de laboratoire ont révélé une hémoglobine de 5g/dL et une transaminite de grade II (GOT 102 UI/L et GPT 51 UI/L) avec une bilirubine de 1,66 mg/mL aux dépens de la partie indirecte. Trois concentrés de globules rouges ont été transfusés, le tamoxifène a été arrêté et la dexaméthasone a été introduite à une dose de 4 mg toutes les 12 heures.
+Une progression ou un nouveau primitif a été suspecté (étant donné qu'il s'agissait d'une grosse tumeur sans composante in situ, avec des récepteurs hormonaux négatifs et sans atteinte des ganglions lymphatiques) mais une scintigraphie osseuse et un scanner thoracique et abdominal n'ont pas montré d'altérations et donc aucune hypothèse n'a été corroborée. Elle a été examinée par le service d'hématologie et un test de Coombs s'est révélé négatif, excluant une anémie hémolytique ; toutefois, une carence en vitamine B12 et une hypothyroïdie subclinique ont été observées.
+Après un traitement substitutif, elle a montré une amélioration clinique et a été remise sous tamoxifène le 31.3.16. Elle est actuellement en attente d'une fibrogastroscopie.

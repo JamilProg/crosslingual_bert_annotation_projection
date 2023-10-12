@@ -1,0 +1,22 @@
+Anamnèse
+Patiente de 53 ans sans antécédents particuliers.
+Elle présente une dyspepsie de longue date, des brûlures d'estomac postprandiales et une perte de poids de 10 kg en 4 mois.
+
+Examen physique
+Bon état général, avec dysphagie dans la période postopératoire immédiate, bonne tolérance aux liquides et aux solides écrasés.
+Abdomen : mou, dépressible, avec éventration sus-ombilicale réductible, bruits hydroaériques conservés. Le reste de l'examen ne révèle rien d'autre.
+
+Examens complémentaires
+- Examens de laboratoire : l'hémogramme, la biochimie et les marqueurs tumoraux étaient normaux.
+- Tomodensitométrie abdominale avec contraste (14/11/2011) : épaississement avec mauvaise définition de la paroi de l'anse jéjunale, qui s'anastomose avec la chambre gastrique résiduelle. Plusieurs bulles d'air libres extraluminales sont identifiées à côté de l'anse, ainsi que du liquide libre entourant cette anse et s'étendant au fascia pararénal antérieur gauche. La graisse mésentérique adjacente présente des modifications inflammatoires marquées. Ces observations sont compatibles avec une perforation intestinale. Dans le cæcum et le côlon ascendant, on observe une image d'air piégé entre la paroi et le contenu fécal simulant une pneumatose intestinale. Splénomégalie avec dilatation variqueuse du hile splénique et circulation collatérale compatible avec un certain degré d'hypertension portale.
+
+Diagnostic
+Adénocarcinome gastrique diffus IV (pT3 pN2 M1), cerbB2 négatif.
+
+Traitement
+Chimiothérapie palliative : capécitabine 625 mg/m2 + cisplatine 60 mg/m2 + épirubicine 50 mg/m2. Après le premier cycle, il a subi une intervention chirurgicale pour perforation et déhiscence des sutures ; la capécitabine a été interrompue.
+
+Évolution
+Le patient a été opéré en août 2011 par hémigastrectomie avec anastomose gastro-jéjunale Roux-en-Y. Résultat anatomo-pathologique : adénocarcinome infiltrant diffus en bague de signet avec métastases dans 14 des 24 ganglions atteints, cerbB2-négatif. Dans la période postopératoire immédiate, des lésions pulmonaires suspectes de métastases ont été observées, et une fibrobronchoscopie et une biopsie des lésions pulmonaires ont été réalisées, confirmant la nature métastatique.
+Après le premier cycle d'ECX, il a été opéré pour une perforation et une déhiscence des sutures, nous avons décidé de suspendre la capécitabine et de demander une porte veineuse centrale pour la perfusion de 5-FU ; en raison de problèmes logistiques, la pose n'a été programmée qu'au cinquième cycle, alors qu'il avait déjà obtenu une réponse complète confirmée par tomodensitométrie, après avoir terminé tous les cycles avec du cisplatine et de l'épirubicine. La réintroduction de la capécitabine a été proposée en raison du retard de mise en place, mais le patient a refusé catégoriquement, car il associait la perforation à la prise de capécitabine.
+Il a suivi une chimiothérapie palliative entre décembre 2011 et mai 2012, obtenant une réponse complète qu'il conserve aujourd'hui.

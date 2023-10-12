@@ -1,0 +1,27 @@
+Anamnèse
+Une femme de 66 ans se présente à la consultation d'oncologie médicale, avec des antécédents d'hypercholestérolémie et d'hypertension artérielle contrôlées par un traitement médical et une fracture de L3 après une chute traitée par vertébroplastie en 2013. Elle ne rapporte pas d'habitudes toxiques ni d'antécédents familiaux d'intérêt oncologique.
+Depuis février 2017, la patiente a présenté un tableau de paresthésie et de myalgie dans les deux membres inférieurs, étudié dans un centre externe, pour lequel une imagerie par résonance magnétique (IRM) a été réalisée qui a révélé une lésion au niveau du corps vertébral de L3, et a donc procédé à l'excision du soma de L3, l'anatomie pathologique étant concluante d'un hémangiome. En juillet 2017, la patiente a présenté des douleurs lombaires intenses et l'IRM a montré une récidive au niveau de L3. Elle a été traitée par radiothérapie à visée antalgique avec une dose unique, présentant une bonne réponse clinique.
+En janvier 2018, en raison d'une détérioration progressive, d'une douleur dorsolombaire accrue et de symptômes de cytopénie hémolytique auto-immune, elle a été étudiée par le service d'hématologie et référée au service d'oncologie médicale de notre centre. Après l'évaluation initiale, la patiente a signalé des douleurs lombaires et costales gauches contrôlées par une troisième étape analgésique en association avec des anti-inflammatoires et la bicytopénie a été contrôlée avec une dose de prednisone de 10 mg/jour.
+
+Examen physique
+Patient conscient et orienté. Légère pâleur des muqueuses et normohydraté. Eupnéique. ECOG 1, Karnofsky 70 points.
+Auscultation cardiaque : rythmée : pas de souffle ni d'extratonos. Auscultation pulmonaire : normofonctions dans tous les domaines. L'examen abdominal est sans particularité. Pas de ganglions lymphatiques palpables.
+
+Examens complémentaires
+" IRM lombaire (janvier 2018) : altération du canal rachidien en L3 et L4, avec lésions ostéolytiques en D12, L2, L3 et S1.
+" Bilan sanguin : anémie G2 et thrombopénie G4. Fibrinogène 1,6g/l (intervalle 2-4g/l), D-dimères 12 200 μg/l (intervalle 0-500 μg/l).
+" Aspiration de moelle osseuse (MO) : hyperplasie des séries rouges, mégacaryocytose, test de Coombs positif.
+"TEP-TDM (janvier 2018) : multiples lésions lytiques hypermétaboliques à C5, D6, D10, D12, côte droite, clavicule droite, ala sacrée droite, lame iliaque gauche, ischion et acétabulum gauche.
+" Biopsie vertébrale L3 (janvier 2018) : tumeur vasculaire de bas grade compatible avec un angiosarcome de bas grade ou un hémangiome multicentrique.
+
+Diagnostic
+Angiosarcome osseux multicentrique et anémie hémolytique auto-immune en relation avec une néoplasie primaire.
+
+Traitement
+Compte tenu de ce diagnostic, la patiente est traitée par paclitaxel jours 1, 8 et 15 à 80 mg/m2 pendant 12 cycles ainsi que par acide zolédronique tous les 28 h jours entre avril et juillet 2018. Tout au long du traitement, elle a nécessité à plusieurs reprises un traitement complémentaire par darbépoétine à 0,45 mg/kg, des transfusions de plaquettes et de globules rouges. La principale toxicité a été la neuropathie périphérique G2.
+Lors de la TEP-TDM de réévaluation réalisée en juillet 2018, il a été constaté une diminution du taux de captation des multiples lésions osseuses à prédominance lytique situées dans le squelette axial, sans apparition de nouvelles lésions métastatiques à d'autres niveaux.
+En août 2018, compte tenu de la neuropathie périphérique G2 et des multiples interruptions en cours de traitement, il a été décidé de débuter le pazopanib à 800 mg/jour. Au jour +7 du traitement, la patiente a présenté une insuffisance rénale G2 avec un débit de filtration glomérulaire de 32ml/min/1,73, une protéinurie, une diarrhée G2 et de nouveaux épisodes de thrombopénie G3 et d'anémie G2, il a donc été décidé de réduire la dose de pazopanib à 400 mg/jour. Malgré cette désescalade, la bicytopénie G3 et la toxicité élevée ont persisté, si bien qu'en octobre 2018, il a été décidé d'entamer une troisième ligne de traitement.
+
+Évolution
+En octobre 2018, elle a débuté une nouvelle ligne de traitement par gemcitabine 800 mg tous les 15 jours et propranolol 40 mg/12 h, avec une bonne tolérance initiale ; elle a donc été augmentée à 80 mg/12 h au bout de 15 jours. Les principales toxicités ont été une thrombopénie G4 et une anémie G3 nécessitant de réduire la gemcitabine à 2 paliers, ainsi qu'une asthénie G2 et des douleurs osseuses contrôlées par un troisième palier analgésique. Après un mois de traitement, la patiente a partiellement récupéré de la bicytopénie, avec une thrombopénie G1 et une anémie G1 sans nécessiter de nouvelles transfusions ou de traitement de substitution ; de même, elle n'a pas eu de toxicité apparente au traitement administré.
+En janvier 2019, un PET-CT scan de réévaluation a été réalisé, qui a montré une réponse métabolique complète, de sorte que la patiente a continué avec le même traitement à ce jour, avec 9 mois de survie sans progression.

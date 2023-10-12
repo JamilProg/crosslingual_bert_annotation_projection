@@ -1,0 +1,37 @@
+Anamnèse
+Homme, 67 ans à l'heure actuelle, pas d'allergies médicamenteuses connues, ex-fumeur depuis 40 ans jusqu'en 2013 d'un paquet par jour (IPA 40), hypertendu sous traitement à l'énalapril et avec des antécédents d'adénocarcinome de la prostate de Gleason 6 (3 + 3) et PSA < 5 ng/ml, opéré le 8/07/2005 par prostatectomie radicale (pT2c), frontières libres, pas de signe de récidive à l'heure actuelle. Indépendant pour les activités de la vie quotidienne, originaire de Vigo, retraité depuis deux ans (homme d'affaires).
+En février 2013, il consulte pour une instabilité évoluant depuis plusieurs semaines, avec un examen physique sans focalisation neurologique. Une imagerie par résonance magnétique (IRM) cervicale et cérébrale a été réalisée, révélant une petite lésion kystique pariétotemporale gauche à caractère bénin, qui a fait l'objet d'un suivi.
+En juin 2013, une nouvelle IRM cérébrale de contrôle a été demandée.
+
+Examen physique
+"EKG PS 0.
+"Bon état général. Sain d'esprit. Hémodynamiquement stable. Eupnéique.
+"AUSCULTURE : rythmique sans souffle. Murmure vésiculaire conservé.
+"ABDOMEN : bruits hydro-aériens présents. Doux, non douloureux, sans signe d'irritation péritonéale.
+"Aucune masse n'est palpable.
+"NEUROLOGIE : conscient et orienté. Glasgow 15. Pupilles isochores et normoréactives. Nerfs crâniens sans altération. Force et sensibilité préservées.
+"Réflexes normaux. Démarche normale.
+
+Examens complémentaires
+En juin, une IRM de contrôle a été réalisée (27/06/2013), montrant une lésion intrapariétale gauche d'aspect kystique, avec une nette croissance à la fois de la taille et de l'œdème vasogénique périlésionnel provoqué. Comme première possibilité, une origine tumorale a été établie (sans pouvoir différencier bénigne ou maligne), une origine infectieuse étant moins probable. Il a été décidé d'hospitaliser la patiente en neurologie pour des examens complémentaires.
+Le 01/07/2013, les services de neurologie et de neurochirurgie ont décidé conjointement de procéder à une intervention chirurgicale par microchirurgie crânienne avec excision complète de la lésion cérébrale.
+Rapport d'anatomie pathologique : région pariétotemporale gauche : fragments de tissu cérébral infiltrés par un adénocarcinome, avec un profil immunohistochimique compatible avec une métastase d'origine pulmonaire.
+Au vu de ces résultats, un PET scan a été réalisé le 30/07/2014, montrant un nodule en LSI mesurant 2,5 x 1,5 cm (SUVmax 6,6) évocateur d'une tumeur pulmonaire primitive. Une adénopathie en fenêtre latérale aortopulmonaire et crâniale au tronc pulmonaire de 0,6 cm (SUVmax 3,7) et une autre hilaire gauche de 1 cm (SUVmax 3,2), évocatrices d'une tumeur maligne, sans captation à aucun autre niveau, ont également été observées.
+Devant la constatation d'une lésion pulmonaire évocatrice d'une tumeur primitive, avec des adénopathies hilaires et médiastinales avec une captation pathologique au PET scan, il a été décidé le 02/08/2013 de réaliser une bronchoscopie pour confirmation histologique, qui n'a pas été satisfaisante, de sorte qu'une médiastinoscopie a été réalisée le 10/08/2013, qui s'est révélée positive pour un adénocarcinome dans 5 ganglions lymphatiques.
+
+Diagnostic
+Adénocarcinome du poumon cT1pN2 pM1 (stade IV en raison de la résection d'un seul cerveau oligométastatique). EGFR non muté et ALK non transloqué.
+
+Traitement
+Un traitement radical a été décidé et une chimiothérapie néoadjuvante avec cisplatine-vinorelbine tous les 21 jours a été commencée le 04/10/2013, recevant 3 cycles qui se sont terminés le 23/11/2013 avec une réponse partielle. Le cas a été présenté au comité des tumeurs thoraciques, et étant donné le PET scan négatif des adénopathies médiastinales, et la réponse du nodule primaire (de 2,5 à 1,2cm), un traitement chirurgical radical a été décidé.
+Le 23 décembre 2013, il a subi une lobectomie supérieure gauche (pT1pN0).
+Après une période postopératoire sans incident et avec un état général parfait (ECOG 0), il a commencé un suivi avec CT TAP et IRM cérébrale avec un intervalle sans maladie de 10 mois jusqu'en octobre 2014.
+À cette époque, apparition d'une seule métastase cérébelleuse gauche traitée par radiochirurgie stéréotaxique (1 séance de 18 Gy). En juillet 2015, apparition de deux lésions cérébrales asymptomatiques dans le vermis droit et la région frontale (intervalle sans progression de 9 mois), toutes deux traitées par radiochirurgie stéréotaxique (une séance de 18 Gy) le 09/07/2015. De nouveau, après 11 mois d'intervalle sans progression, deux nouvelles métastases cérébelleuses asymptomatiques sont apparues le 23/06/2016, et une radiochirurgie a été réalisée sur les deux.
+
+Évolution
+Aucun signe de maladie systémique jusqu'en janvier 2017, lorsqu'un PET scan a montré une progression tumorale systémique au niveau pulmonaire bilatéral, avec deux nodules plus importants (l'un dans le LII mesurant 1,4 cm et l'autre dans le LID mesurant 29 mm), ainsi que des adénopathies hyilomédiastinales (hilaire droite de 12 mm) et un nodule surrénalien gauche mesurant 28 mm.
+Le patient a été présenté à nouveau au comité des tumeurs, et une confirmation histologique a été décidée, et le 10/02/2017 une bronchoscopie a été réalisée, qui s'est révélée positive pour les cellules malignes, compatible avec un adénocarcinome.
+Compte tenu de la progression systémique, il a été décidé de l'inclure dans un essai clinique avec nivolumab (240 mg tous les 15 jours) + ipilimumab (1 mg/kg toutes les 6 semaines). La première dose de l'association lui a été administrée le 21/02/2017.
+Après 15 jours, elle s'est présentée à la clinique pour recevoir le nivolumab, avec une éruption cutanée importante de grade 2 sur le tronc et une toxicité hépatique de grade 1. Il a donc été décidé de ne pas administrer de traitement d'immunothérapie et de faire un suivi dans une semaine. Malgré l'arrêt de l'immunothérapie, des examens successifs ont révélé une aggravation progressive du profil hépatique jusqu'à une toxicité de grade 3. Un traitement par corticostéroïdes à la dose de 1 mg/kg par voie orale a donc été instauré, avec une amélioration à la fois hépatique et cutanée après un mois de traitement aux stéroïdes.
+Un scanner a été réalisé le 05/04/2017 après une dose unique d'ipilimumab-nivolumab un mois et demi plus tôt, montrant une réponse tumorale significative (30%). On observe une diminution de la taille du nodule situé en LII (de 14 à 7 mm) et une moindre densité du nodule situé en LID. En outre, la taille des adénopathies hilaires et médiastinales a diminué (la plus grande adénopathie hilaire droite est passée de 12 mm à 9 mm). Le nodule surrénalien gauche a également diminué (de 28 mm à 16 mm de diamètre).
+Compte tenu de la normalisation du profil hépatique et de la bonne réponse au traitement, il a été décidé de reprendre l'immunothérapie par nivolumab (en suspendant l'ipilimumab, conformément au protocole de l'essai clinique). Après deux cycles de nivolumab, la maladie a été réévaluée (scanner le 21/05/2017) avec une nouvelle réponse par rapport à la précédente, avec une réduction de la taille du nodule LID d'un diamètre de 17 mm (29 mm précédemment) et une disparition pratique du nodule LII, le reste de la maladie conservant sa réponse.

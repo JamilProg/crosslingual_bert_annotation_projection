@@ -1,0 +1,24 @@
+Anamnèse
+Symptômes exclusivement neurologiques d'aphasie mixte, diagnostiqués par imagerie comme une masse primaire supratentorielle d'un type très rare et très agressif.
+Un homme de 42 ans sans allergies ni maladies pertinentes. Il se réfère à l'énolisme sans aucun autre antécédent. Au cours des dernières 24 heures, sa famille a observé des troubles du comportement sans émission de parole, accompagnés de céphalées holocrâniennes. Il s'est rendu au service des urgences où une tomodensitométrie crânienne a été réalisée, révélant un processus expansif intracrânien, pour lequel il a été adressé au service de neuro-oncologie.
+
+Examen physique
+Afebrile. Seule anomalie neurologique à noter : Glasgow 14/15. Fonctions intellectuelles supérieures préservées. Aphasie mixte. Nerfs crâniens préservés avec nystagmus horizontal. Pas d'atteinte sensorielle ou motrice. ROT présent avec une surface accrue. Réflexe cutanéo-plantaire bilatéral indifférent. Romberg négatif. Pas de signes méningés.
+
+Tests complémentaires
+Tests de laboratoire : sérologie VIH, toxoplasmose, CMV, HSV 1, 2 et 6, VZ, EB, syphilis, Brucella et rubéole, négatifs. L'hémocytométrie, l'hémostase et les profils biochimiques étaient normaux.
+Liquide céphalo-rachidien (LCR) : cytologie et biochimie normales. Cultures négatives. PCR mycobactérienne et herpétique négative.
+Pas de visualisation de bandes oligoclonales.
+Tomodensitométrie crânienne : lésion tumorale frontale bilatérale et ganglions de la base gauche s'étendant vers la zone temporale gauche avec une distribution vasculaire. Probable lymphome ou gliome.
+Imagerie par résonance magnétique (IRM) crânienne : atrophie diffuse. Lésion cortico-sous-corticale frontale bilatérale basale et parasagittale et temporale postérieure gauche, d'aspect pseudo-infarctus avec zones de captation périvasculaire. Première possibilité diagnostique : lymphome cérébral périvasculaire primaire.
+Anatomie pathologique (AP) de la biopsie stéréotaxique : prolifération de cellules granuleuses d'aspect néoplasique (Ki-67 5%). Extensivement positive pour le CD68 et le lysozyme. Une positivité focale anormale pour la protéine acide fibrillaire gliale (GFAP) est constatée. Des doutes histologiques ayant été soulevés, l'étude a été complétée avec un IDH1 positif. Première possibilité diagnostique : astrocytome granulaire de grade II. Étude génétique : perte du chromosome 1p/19q.
+
+Diagnostic
+Astrocytome granulaire de grade II de localisation frontotemporale gauche.
+
+Traitement
+En raison de la localisation et de l'étendue de la tumeur, la chirurgie est déconseillée. La radiothérapie (60 Gy en 30 fractions) est administrée en même temps que le témozolomide à raison de 75 mg/m2 par jour.
+
+Évolution
+Au cours du traitement, le patient a commencé à avoir des crises d'épilepsie et une agnosie tactile. Un scanner crânien de réévaluation a été réalisé, dans lequel une extension de la masse au lobe pariétal gauche a été observée, et la maladie a été considérée comme ayant progressé. Une nouvelle biopsie stéréotaxique a été réalisée, montrant des astrocytes peu différenciés avec une prolifération microvasculaire et une nécrose, avec un foyer de glioblastome multiforme.
+Le patient est sorti de l'hôpital un mois après le début du traitement.

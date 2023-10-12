@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 39 ans, allergique aux produits de contraste iodés, antécédents d'asthme et d'hypothyroïdie sous traitement par lévothyroxine. Antécédents gynéco-obstétricaux : ménarche à l'âge de 12 ans. G6A3P3. Âge à la première grossesse à terme : 22 ans. Préménopause.
+
+Diagnostiquée en juillet 2009 avec un carcinome canalaire infiltrant (CDI) du sein droit T4cN3M1 (une seule métastase osseuse et hépatique). Récepteurs d'œstrogènes (ER) 3+, récepteurs de progestérone (PR) 3+, Her2 +.
+
+Il a reçu un traitement de chimiothérapie par docétaxel-carboplatine-trastuzumab pendant 8 cycles avec une réponse partielle (RP). La toxicité maximale étant une asthénie de grade 2, une diarrhée de grade 2 et une réaction d'hypersensibilité au carboplatine au cours du 8e cycle, elle a reçu trois cycles supplémentaires de docétaxel-trastuzumab seul, puis un traitement d'entretien par tamoxifène-bevacizumab-trastuzumab et acide zolédronique jusqu'en décembre 2010, restant sous tamoxifène seul et obtenant un bon contrôle de la maladie pendant 20 mois.
+
+En août 2012, il a présenté une douleur à la hanche droite correspondant à une progression osseuse dans l'ilion droit. Une radiothérapie anti-algique a été indiquée et le traitement a été remplacé par du triptoréline-exémestane-trastuzumab et de l'acide zolédronique.
+
+En juin 2014, traitement par triptoréline seule tous les six mois et exemestane. Maladie sous contrôle, vie quasi normale, activité physique modérée et prise en charge de ses enfants jusqu'en octobre 2014 où elle signale des douleurs dorsolombaires VAS 8 sous traitement par tapentadol et fentanyl nasal. Un scanner a montré une progression osseuse due à l'apparition de lésions lytiques au niveau de la colonne dorsale. Un traitement par fulvestrant et dénosumab a été prescrit et poursuivi jusqu'en mai 2015.
+
+Maladie actuelle
+Admise du service des urgences pour une perte de conscience, des mouvements tonico-cloniques, un relâchement du sphincter et une sialorrhée d'une durée de 3-4 minutes ; récupération spontanée et absence de déficit neurologique ultérieur. En relation avec ce qui précède, elle a signalé des épisodes autolimités de vertiges et de nausées sans céphalées au cours des semaines précédentes, ainsi que des épisodes de dysmétropie (altération apparente de la taille des objets). Pas de céphalées, pas de diplopie.
+
+Examen physique
+TA 127/76 ; FC 75 ; RR 18 ; SatO2 97%. Conscient et orienté. Bonne hydratation et perfusion.
+Obésité. Tête et cou : signes de morsure sur le bord gauche de la langue. Pas d'adénopathies.
+Cardiopulmonaire : rythmique sans souffle. Poumons bien ventilés sans bruits anormaux. Seins : consistance molle, sans masse ni nodule. Aisselles normales. Abdomen : bruits péristaltiques présents ; globulaire, sans masse ni mégalithe. Non douloureux. Extrémités : pas d'œdème ni de signes de thrombose veineuse. Spinopercussion douloureuse dans la région dorsale. Neurologique : fonctions supérieures préservées.
+Pupilles symétriques et réactives à la lumière. Nerfs crâniens normaux. Force musculaire préservée et symétrique aux quatre extrémités. Pas de déficit sensoriel. Réflexes tendineux préservés.
+Démarche normale. Pas d'adidokinésie. Pas de rigidité nucale ni de méningisme.
+Examens complémentaires
+"Biochimie, système sanguin, coagulation et gaz veineux : normaux.
+"Ponction lombaire : liquide céphalo-rachidien (LCR) clair à pression normale. Leucocytes 2/mm3 ; globules rouges 50/mm3 ; glucose 86 mg/dL ; protéines totales 70 mg/dL ; LDH 163 mU/dL. Cytologie du LCR : globules rouges, pas de leucocytes ; négatif pour les cellules malignes.
+"Scanner crânien d'urgence sans contraste (CIV) : hypodensité sous-corticale dans le lobe occipital gauche, liée à un œdème vasogénique. Pas de signe d'hémorragie intra- ou extra-axiale.
+Centré sur la ligne médiane. En raison de l'impossibilité d'appliquer la CIV, il est nécessaire de prolonger l'étude par une imagerie par résonance magnétique (IRM) car la première possibilité diagnostique est une métastase cérébrale.
+"IRM du cerveau avec contraste : lésion extra-axiale occipitale gauche située sur le bord inférieur de l'hémithorium gauche et de la faucille cérébrale, mesurant 35 x 20 x 34 mm, produisant un œdème vasogénique dans le parenchyme adjacent.
+
+Diagnostic
+Les résultats de l'imagerie, en particulier de l'IRM, suggèrent une métastase durale d'un carcinome mammaire comme première possibilité, compte tenu des antécédents de la patiente ; cependant, les résultats peuvent également correspondre à un méningiome, même en présence d'un œdème vasogénique associé abondant.
+
+Traitement
+Compte tenu de la nécessité de clarifier le diagnostic, notamment en raison des implications thérapeutiques et du pronostic pour le patient, le cas a été discuté avec le service de neurochirurgie, qui est intervenu le 03/5/2015 au moyen d'une craniotomie occipitale, réalisant une résection macroscopique de la totalité de la lésion durale sans complications hémorragiques, mais avec un œdème secondaire abondant qui a rendu nécessaire la réalisation d'une duroplastie et d'une fermeture cutanée pour la mise en place ultérieure de l'os occipital lors d'une seconde intervention chirurgicale.
+
+Évolution
+La biopsie peropératoire confirme le diagnostic de métastase durale d'un carcinome mammaire. La patiente se rétablit actuellement sans séquelles visuelles, motrices ou sensorielles.

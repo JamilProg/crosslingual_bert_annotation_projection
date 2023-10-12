@@ -1,0 +1,12 @@
+T1	pathologie 489 506	molares incluídos
+T2	pathologie 620 649	infección de causa odontógena
+T3	pathologie 651 666	pericoronaritis
+T4	pathologie 1282 1298	quiste dentígero
+T5	pathologie 1477 1483	lesión
+T6	pathologie 1798 1804	quiste
+#1	SNOMED T2	40733004
+#2	SNOMED T4	9245008
+#3	SNOMED T3	22240003
+#4	SNOMED T1	196419009
+#5	SNOMED T6	441457006
+#6	SNOMED T5	417163006

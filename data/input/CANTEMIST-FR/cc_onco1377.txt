@@ -1,0 +1,22 @@
+Anamnèse
+Femme de 40 ans. Aucune habitude toxique. Antécédents personnels d'asthme bronchique intrinsèque, de pyélonéphrite récurrente.
+Intervenue pour un syndrome du canal carpien gauche en 2007. Consultation en août 2012 en raison de la découverte d'une masse dans le sein droit à l'auto-examen.
+
+Examen physique
+L'examen révèle une obésité (IMC = 35 kg/m2). Masse palpable dans le sein gauche, d'environ 3 cm de diamètre, et un possible nodule adjacent. L'aisselle est cliniquement négative. Le reste de l'examen était dans les limites de la normale.
+
+Examens complémentaires
+En septembre 2012, une mammographie et une échographie bilatérales ont été réalisées, montrant un nodule de 2,6 cm avec des bords vagues mal définis et une adénopathie gauche dense, probablement pathologique (BIRADS 5).
+La biopsie de la masse a révélé un carcinome canalaire infiltrant classique avec GN II et GH II-III. L'immunohistochimie a révélé une positivité des récepteurs hormonaux (récepteur des œstrogènes [ER] 99 % +++/+++, récepteur de la progestérone [PR] 60 % +++/+++), Her-2 négatif (1+/3+), Ki-67 45 %, p53 (-), cytokératine (CK) 19 (+), CK 5/6 (-), cadhérine (+). Une aspiration à l'aiguille fine de l'adénopathie axillaire a été réalisée et s'est révélée compatible avec un adénocarcinome.
+Un bilan d'extension a été réalisé à l'aide d'une simple radiographie thoracique, d'une échographie abdominale et d'une scintigraphie osseuse, qui se sont toutes révélées normales.
+
+Diagnostic
+Adénoarcinome canalaire infiltrant, stade clinique T2N1M0, sous-type luminal B.
+
+Traitement
+Après discussion du cas clinique au sein du comité multidisciplinaire sur les tumeurs du cancer du sein, un traitement systémique néoadjuvant a été instauré selon le schéma paclitaxel, doxorubicine et cyclophosphamide (TAC) x 6 cycles, suivi d'une réévaluation clinique et radiologique toutes les trois semaines après le troisième cycle.
+
+Évolution
+Après le 3ème cycle, la patiente a présenté une neutropénie fébrile de grade 4 (G4). Avant l'administration du 4ème cycle, une réévaluation radiologique a été réalisée avec une échographie et une mammographie bilatérale avec une réponse partielle. Par la suite, le service des urgences a diagnostiqué chez elle une thromboembolie pulmonaire massive (PTE) (probabilité intermédiaire de PTE sur l'échelle de Wells et risque intermédiaire sur l'échelle de Khorana). Un traitement précoce a été mis en place avec une perfusion continue d'héparine sodique et une admission aux soins intensifs en raison d'une instabilité hémodynamique. Une fibrinolyse chimique à l'urokinase a été réalisée, suivie d'une thrombolyse mécanique. Un filtre de la veine cave inférieure a été implanté en raison d'une hypotension soutenue, et le traitement anticoagulant à l'héparine sodique a été poursuivi pendant 7 jours supplémentaires dans le service.
+L'oxygénothérapie a été progressivement arrêtée et l'anticoagulation est passée de l'héparine sodique à l'acénocoumarol (INR 2-3).
+En conséquence, les cycles suivants prévus ont été interrompus et 6 semaines plus tard, une mastectomie droite et une lymphadénectomie ont été pratiquées.

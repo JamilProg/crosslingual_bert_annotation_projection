@@ -1,0 +1,18 @@
+T1	pathologie 705 728	infección por H. pylori
+T2	pathologie 1043 1069	síndrome ansioso-depresivo
+T3	pathologie 1134 1168	alergias a alimentos ni a fármacos
+T4	pathologie 1476 1487	adenopatías
+T5	pathologie 1554 1560	anemia
+T6	pathologie 1783 1805	obstrucción intestinal
+T7	pathologie 2312 2331	compresión vascular
+T8	pathologie 2423 2473	pinza vascular que producía compresión del duodeno
+T9	pathologie 2495 2512	pinza mesentérica
+#1	SNOMED T5	271737000
+#2	SNOMED T4	30746006
+#3	SNOMED T1	721730009
+#4	SNOMED T6	81060008
+#5	SNOMED T7	449896008
+#6	SNOMED T2	197480006+35489007
+#7	SNOMED T8	95532008
+#8	SNOMED T3	414285001+416098002
+#9	SNOMED T9	235806008

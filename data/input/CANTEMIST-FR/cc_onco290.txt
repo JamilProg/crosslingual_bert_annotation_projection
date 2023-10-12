@@ -1,0 +1,25 @@
+Anamnèse
+Patient âgé de 50 ans en 2009, né en Chine, résidant en Espagne depuis plus de 10 ans.
+En août 2009, il a été diagnostiqué avec un adénocarcinome mucineux du rectum sous cT4N2M0 (CEA : 2,5 μg/l) en raison d'une hémorragie rectale. Il a subi une chimioradiothérapie néoadjuvante (Capecitabine-oxaliplatine) en décembre 2009, qui s'est terminée en février 2010.
+L'IRM de réponse a montré une maladie stable, et une résection antérieure ultra-basse a été réalisée en mai 2010, avec une régression de grade 2 (ypT3pN1) ; il a terminé le traitement adjuvant avec 3 cycles de capécitabine-oxaliplatine en juin 2010. Le patient a abandonné le suivi.
+En octobre 2015, il s'est présenté aux urgences pour nausées, vomissements et altération de l'état général depuis quelques semaines d'évolution.
+
+Examen physique
+Alerte, orienté, sans focalisation neurologique, hémodynamiquement stable, afébrile et eupnéique ; jaunisse cutanée et hépatomégalie non douloureuse.
+
+Tests complémentaires
+Au service des urgences :
+Les examens de laboratoire montrent une anémie macrocytaire sévère avec des caractéristiques hémolytiques non auto-immunes (Hg 4,2 g/l, MCV 111 fL, LDH 1300 U/l, test de coombs direct négatif, bilirubine totale 101 umol/l, bilirubine conjuguée 18 umol/l, haptoglobine 0.14 g/l, schistocytes du sang périphérique et reculocytose 18%), thrombocytopénie progressive (initialement 112000/ml puis 80000/ml) et détérioration de la fonction rénale (178 umol/l - 2,01 mg/100ml) ; le profil hépatique et la coagulation sont dans les limites de la normale. L'étude microbiologique des urines et des selles ne montre pas de bactéries ; l'échographie abdominale montre un kyste dans le lobe hépatique droit et une lésion solide dans le gauche, sans dilatation des voies biliaires.
+Dans le service d'oncologie : un scanner thoraco-abdominal a été réalisé qui a montré une lésion métastatique osseuse de l'omoplate droite, de multiples lésions hépatiques, une infiltration de la graisse du lit chirurgical et une adénopathie obturatrice, ainsi que de multiples lésions des corps vertébraux dorsaux et lombaires. Par la suite, une biopsie de la lésion scapulaire a été réalisée, compatible avec une métastase de l'adénocarcinome rectal précédemment connu. L'étude moléculaire n'a pas montré de mutations dans RAS (KRAS exons 2, 3 et 4, ou dans NRAS exons 2, 3 et 4) ou BRAF.
+
+Diagnostic
+Probable syndrome hémolytique et urémique atypique paranéoplasique (SHU).
+
+Traitement
+Au service des urgences, il a fallu lui transfuser plusieurs concentrés d'hématite, lui administrer une thérapie sérique et, compte tenu de la suspicion initiale d'hémolyse auto-immune, un traitement aux corticostéroïdes a été mis en place, puis interrompu lorsque les résultats du test de Coombs ont été disponibles.
+Elle a été admise dans le service d'oncologie médicale où il a été décidé de débuter un traitement systémique de première ligne par FOLFOX6m (aucune étude moléculaire n'était disponible à ce moment-là). Premier cycle en novembre 2015, avec un total de 11 cycles (dernier en avril 2016).
+
+Évolution
+Les complications ont été un épisode de fièvre neutropénique G3, une asthénie et une plaquettopénie progressive. Le traitement a été suspendu après le 11ème cycle en raison d'une plaquettopénie qui a obligé à réduire les doses (à 80% à partir du 3ème cycle, à 60% à partir du 7ème cycle pour l'oxaliplatine et à partir du 8ème cycle pour le 5FU en monothérapie). Le traitement a permis d'obtenir une réponse partielle (maladie osseuse et adénopathique stable, amélioration des lésions hépatiques) après 6 cycles, qui s'est maintenue après le 11e cycle (tomodensitométrie en mai 2016).
+Depuis le début du traitement, on observe une amélioration progressive du taux d'hémoglobine, nécessitant de moins en moins de transfusions, une normalisation de la fonction rénale, une correction des paramètres hémolytiques et une diminution progressive du CEA jusqu'à un nadir de 4,5 μg/l.
+Le 25 mai 2016 (1 mois après la fin de la chimiothérapie), elle consulte aux urgences pour asthénie, diagnostiquant un nouvel épisode d'anémie (Hg 67 g/l) et montrant par la suite une augmentation des LDH, de la bilirubine et de l'ACE, sans altération de la fonction rénale ni de la numération plaquettaire. Elle attend actuellement un nouveau scanner pour réévaluer la maladie.

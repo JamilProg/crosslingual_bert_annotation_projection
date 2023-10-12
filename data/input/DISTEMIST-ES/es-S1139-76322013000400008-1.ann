@@ -1,0 +1,6 @@
+T1	pathologie 203 233	lesiones habonosas diseminadas
+T2	pathologie 238 248	angioedema
+T3	pathologie 563 601	hipertrofia de las amígdalas palatinas
+#1	SNOMED T3	46689006
+#2	SNOMED T1	64305001
+#3	SNOMED T2	41291007

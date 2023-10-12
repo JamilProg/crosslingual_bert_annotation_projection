@@ -1,0 +1,40 @@
+T1	pathologie 56 79	alergias medicamentosas
+T2	pathologie 124 148	mononucleosis infecciosa
+T3	pathologie 165 183	fractura del brazo
+T4	pathologie 207 223	obesidad mórbida
+T5	pathologie 228 247	esteatosis hepática
+T6	pathologie 346 363	obstrucción nasal
+T7	pathologie 776 798	trombocitemia esencial
+T8	pathologie 1148 1215	celda submaxilar izquierda, con áreas de necrosis o abscesificación
+T9	pathologie 1270 1292	componente adenopático
+T10	pathologie 1444 1466	quiste paralateronasal
+T11	pathologie 1495 1512	lesión intranasal
+T12	pathologie 1978 2082	tumoración submandibular evidenciaba una infiltración masiva por células neoplásicas de estirpe linfoide
+T13	pathologie 2520 2557	Linfoma NK extraganglionar tipo nasal
+T14	pathologie 2791 2818	obstrucción nasal izquierda
+T15	pathologie 3001 3023	trombocitemia esencial
+T16	pathologie 3375 3388	mielofibrosis
+T17	pathologie 3433 3457	infiltración linfomatosa
+T18	pathologie 3553 3575	trombocitemia esencial
+T19	pathologie 3922 3959	Linfoma NK extraganglionar tipo nasal
+T20	pathologie 3986 4008	trombocitosis reactiva
+#1	SNOMED T11	232340005
+#2	SNOMED T19	414166008
+#3	SNOMED T20	234500001
+#4	SNOMED T2	271558008
+#5	SNOMED T3	23406007
+#6	SNOMED T4	238136002
+#7	SNOMED T5	197321007
+#8	SNOMED T14	232209000
+#9	SNOMED T8	128233005
+#10	SNOMED T16	52967002
+#11	SNOMED T18	109994006
+#12	SNOMED T15	109994006
+#13	SNOMED T7	109994006
+#14	SNOMED T12	363380002
+#15	SNOMED T10	85225000
+#16	SNOMED T13	414166008
+#17	SNOMED T1	416098002
+#18	SNOMED T6	232209000
+#19	SNOMED T9	30746006
+#20	SNOMED T17	445925008

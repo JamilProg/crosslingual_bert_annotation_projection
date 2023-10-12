@@ -1,0 +1,20 @@
+T1	pathologie 55 76	hipertensión arterial
+T2	pathologie 78 81	HTA
+T3	pathologie 85 114	diabetes mellitus (DM) tipo 2
+T4	pathologie 104 106	DM
+T5	pathologie 285 313	pérdida progresiva de visión
+T6	pathologie 535 570	edema parpebral superior con ptosis
+T7	pathologie 634 649	edema orbitario
+T8	pathologie 651 671	quemosis conjuntival
+T9	pathologie 1611 1637	espondilitis a nivel L4-L5
+T10	pathologie 1719 1731	endocarditis
+#1	SNOMED T1	38341003
+#2	SNOMED T2	38341003
+#3	SNOMED T3	44054006
+#4	SNOMED T4	73211009
+#5	SNOMED T6	193967004+11934000
+#6	SNOMED T7	441796004
+#7	SNOMED T8	8148005
+#8	SNOMED T9	84172003
+#9	SNOMED T10	56819008
+#10	SNOMED T5	105597003

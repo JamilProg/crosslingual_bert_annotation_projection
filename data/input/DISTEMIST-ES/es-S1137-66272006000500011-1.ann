@@ -1,0 +1,12 @@
+T1	pathologie 26 33	fumador
+T2	pathologie 40 59	alcoholismo crónico
+T3	pathologie 121 141	hepatitis alcohólica
+T4	pathologie 465 473	disfagia
+T5	pathologie 1922 1942	infiltración tumoral
+T6	pathologie 2244 2261	hábito alcohólico
+#1	SNOMED T1	77176002
+#2	SNOMED T2	284591009
+#3	SNOMED T5	128462008
+#4	SNOMED T6	7200002
+#5	SNOMED T3	235875008
+#6	SNOMED T4	288939007

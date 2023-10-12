@@ -1,0 +1,22 @@
+T1	pathologie 142 154	traumatismos
+T2	pathologie 463 480	procesos gripales
+T3	pathologie 490 516	infección gastrointestinal
+T4	pathologie 1286 1296	deformidad
+T5	pathologie 1317 1340	déficit vasculonervioso
+T6	pathologie 1396 1405	exantemas
+T7	pathologie 1407 1418	adenopatías
+T8	pathologie 1422 1437	visceromegalias
+T9	pathologie 2307 2322	hepatitis B y C
+T10	pathologie 2499 2533	artritis de rodilla derecha ANA(+)
+T11	pathologie 2545 2548	AIJ
+#1	SNOMED T10	371081002
+#2	SNOMED T11	410502007
+#3	SNOMED T2	6142004
+#4	SNOMED T3	715852004
+#5	SNOMED T7	30746006
+#6	SNOMED T8	28543008
+#7	SNOMED T4	417893002
+#8	SNOMED T9	442374005
+#9	SNOMED T1	417746004
+#10	SNOMED T5	8821000175107
+#11	SNOMED T6	112625008

@@ -1,0 +1,23 @@
+Anamnèse
+Après le premier cycle de cette troisième ligne, le patient s'est présenté aux urgences en janvier 2014 en raison d'une fièvre et d'une augmentation de l'expectoration, et a été admis dans le service d'oncologie médicale pour une neutropénie fébrile de grade 4 (0 neutrophile) secondaire à un foyer respiratoire.
+Durant son admission, il a bien évolué, débutant 5 jours plus tard par une asthénie aiguë, une polydipsie, une polyurie et une nycturie intenses, avec un apport hydrique de 6 litres par jour, une diurèse de 5 000 cc par jour et une nycturie 10 fois par nuit.
+
+Examen physique
+Lors de son admission, le patient a bien évolué, débutant 5 jours plus tard par un tableau aigu d'asthénie, de polydipsie, de polyurie intense et de nycturie, avec un apport hydrique de 6 litres par jour, une diurèse de 5 000 cc par jour et une nycturie de 10 fois par nuit. Conscient et orienté dans les trois sphères. Tension artérielle 100/70 mm Hg. Légère déshydratation cutanéo-muqueuse. Auscultation cardio-pulmonaire sans altération. Pas d'œdème. Pupilles isochoriques normoréactives. Nerfs crâniens normaux. Champ visuel par confrontation sans altération. Force et sensibilité préservées et symétriques aux quatre extrémités. Réflexes conservés et symétriques. Pas de focalité neurologique.
+
+Tests complémentaires
+Les analyses sanguines ont révélé un sodium plasmatique de 151 mmol/l (plage normale 135-145 mmol/l) avec une osmolalité plasmatique de 297 mOsm/kg (plage normale 280-300 mOsm/kg), une fonction rénale et d'autres ions normaux. Une étude hormonale complète a été réalisée (TSH, T4 libre, GH, FSH, LH, progestérone, prolactine et cortisol) sans altération significative.
+Les urines ont montré une hyponatriurie, avec un sodium urinaire de 38 mmol/L et une hypoosmolalité urinaire de 93 mOsm/kg (plage normale 350-700 mOsm/kg).
+Au vu de ces résultats, une imagerie par résonance magnétique (IRM) cérébrale a été demandée, qui a révélé une lésion nodulaire arrondie bien définie dans la tige pituitaire, compatible avec une métastase infundibulaire unique, sans infiltration du chiasma et sans autre atteinte intraparenchymateuse ou leptoméningée.
+La suspicion de diabète insipide (DI) a conduit à un test de la soif (test de Miller), qui a révélé une incapacité à concentrer l'urine, confirmant un diabète insipide d'origine centrale.
+
+Diagnostic
+Diabète insipide d'origine centrale probablement secondaire à une métastase infundibulaire chez une patiente atteinte d'un carcinome mammaire canalaire infiltrant de stade IV (HR et HER-2 positif).
+
+Traitement
+En tant que traitement hormonal substitutif (TSH) pour l'ID, le traitement a commencé par la desmopressine (DDAVP), initialement 10 mcg /24 h par voie intranasale, et lorsqu'une seule métastase cérébrale a été trouvée, la chirurgie a été envisagée, une option qui a été exclue par la neurochirurgie en raison de la morbidité potentielle. La radiothérapie (RT) a été proposée à ce moment-là, avec une RT holocrânienne de 3 000 cGy, avec une bonne tolérance au traitement.
+
+Évolution
+Dès le début du traitement, une réponse clinique et analytique claire a été observée, avec une normalisation de la prise d'eau, une résolution de la nycturie et une correction du sodium plasmatique, de la natriurie et de l'osmolalité urinaire.
+La dose de DDAVP a été ajustée et le patient a été traité avec du DDAVP 10 mcg/12 h par voie intranasale en continu.
+En ce qui concerne la maladie oncologique, une fois la RT terminée, compte tenu de la bonne réponse au régime précédent, le traitement a été repris avec paclitaxel-trastuzumab en raison de la toxicité antérieure du docétaxel, jusqu'en août 2014, date à laquelle la patiente a consulté pour une paraparésie des membres inférieurs, et une IRM dorsale urgente a été réalisée où l'on a observé une atteinte métastatique intramédullaire au niveau de T10-T11 et une atteinte leptoméningée dorsale des racines de la cauda equina sans atteinte osseuse métastatique. À ce stade, le traitement par radiothérapie a été exclu et, compte tenu de la détérioration progressive de la patiente, tout autre traitement par chimiothérapie a également été exclu, se limitant à un contrôle symptomatique par l'unité de soins palliatifs, et elle est décédée deux mois plus tard, en février 2015.

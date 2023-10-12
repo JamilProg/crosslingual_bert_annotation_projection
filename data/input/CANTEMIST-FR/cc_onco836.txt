@@ -1,0 +1,20 @@
+Anamnèse
+Il s'agit d'un homme de 58 ans, sans allergies médicamenteuses connues, dont le seul antécédent médical intéressant est une brucellose dans sa jeunesse. Il n'a pas signalé d'habitudes toxiques ni de traitement régulier.
+Ses symptômes ont débuté en décembre 2016, rapportant une douleur sourde et continue au niveau du sternum, pour laquelle il a consulté son médecin traitant, qui lui a prescrit un traitement à base d'anti-inflammatoires sans amélioration. Quelques mois plus tard, en avril/2017, il a été mis en évidence une grosseur à ce niveau, pour laquelle il a été adressé au service de traumatologie pour étude.
+
+Examen physique
+ECOG 0, hémodynamiquement stable, la seule observation notable étant une lymphadénopathie cervicale au niveau IIA gauche, non douloureuse, d'une taille d'environ 1 cm.
+
+Examens complémentaires
+Dans le cadre de l'étude d'extension, un scanner cou-thorax-abdomen et bassin a été demandé, montrant une masse médiastinale antéro-supérieure hétérogène infiltrant le manubrium sternal avec une extension extrathoracique pectorale gauche (8 x 10 cm) et une adénopathie paratrachéale droite de 28 mm. Une BAG de la masse a été demandée au service de chirurgie thoracique, et le résultat anatomopathologique était une infiltration par un carcinome épidermoïde non kératinisant avec invasion périneurale, qui présentait un index de prolifération élevé avec un Ki67 à 80 %.
+L'étude a été complétée par un PET-CT, confirmant une masse hypermétabolique dans le médiastin antérieur affectant la musculature pectorale gauche et le corps sternal (SUVmax 13,76) et une adénopathie médiastinale supérieure droite (SUVmax 9,3).
+
+Diagnostic
+À la fin de l'étude, nous avons trouvé un carcinome épidermoïde du thymus non résécable, de stade IV-B, avec une stadification cT3 N2 M0, qui a donc été évalué par le service d'oncologie médicale afin d'établir une attitude.
+
+Traitement
+Après évaluation du patient, un traitement cytostatique d'induction a été débuté selon le schéma carboplatine AUC-5-paclitaxel 175 mg/m2 trois fois par semaine x 4 cycles, qui s'est terminé en octobre 2017, présentant comme toxicités une alopécie de grade 2 et une neurotoxicité de grade 1. Après la fin du 4ème cycle de traitement, une étude de réévaluation a été réalisée avec un scanner qui a montré une réponse radiologique partielle, poursuivant le traitement par radiothérapie IMRT sur le volume tumoral (DT 64 Gys) concomitante au carboplatine-paclitaxel hebdomadaire x 8 semaines, qui s'est terminé en janvier 2018. La toxicité du traitement concomitant a été enregistrée comme une thrombopénie de grade 2, une œsophagite de grade 1 et une neurotoxicité de grade 1.
+
+Évolution
+Une fois le traitement terminé, une nouvelle étude de réévaluation a été réalisée avec un scanner cou-thorax-abdomen-pelvis, qui a montré une nette diminution de la taille de la masse médiastinale antérieure, l'adénopathie paratrachéale droite étant à peine visible. Un PET CT scan a également été réalisé, montrant l'absence d'adénopathie avec une augmentation significative du métabolisme et une normalisation morphométabolique de la masse située dans le médiastin antérieur.
+Nous sommes donc en présence d'une réponse radiologique et métabolique complète, et le patient commence un suivi trimestriel en clinique externe.

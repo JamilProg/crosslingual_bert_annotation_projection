@@ -1,0 +1,10 @@
+T1	pathologie 219 271	herida penetrante a nivel de la región submandibular
+T2	pathologie 352 373	trayecto intracraneal
+T3	pathologie 685 743	salida de líquido cefalorraquídeo por la herida de entrada
+T4	pathologie 685 779	salida de líquido cefalorraquídeo por la herida de entrada ni por el conducto auditivo externo
+T5	pathologie 1935 1993	salida de líquido cefalorraquídeo por la herida de entrada
+T6	pathologie 2059 2075	herida intraoral
+T7	pathologie 2129 2149	herida submandibular
+T8	pathologie 2260 2273	neumoencéfalo
+T9	pathologie 2461 2482	trastorno neurológico
+T10	pathologie 2593 2652	pérdida de audición conductiva del 60% en el oído izquierdo

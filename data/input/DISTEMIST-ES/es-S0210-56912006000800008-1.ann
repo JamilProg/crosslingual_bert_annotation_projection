@@ -1,0 +1,24 @@
+T1	pathologie 19 26	bebedor
+T2	pathologie 327 349	ictericia muco-cutánea
+T3	pathologie 358 371	encefalopatía
+T4	pathologie 382 389	ascitis
+T5	pathologie 987 1001	esplenomegalia
+T6	pathologie 1013 1020	ascitis
+T7	pathologie 1158 1210	hepatitis alcohólica aguda sobre hepatopatía crónica
+T8	pathologie 1191 1210	hepatopatía crónica
+T9	pathologie 1443 1465	encefalopatía hepática
+T10	pathologie 1484 1503	fracaso renal agudo
+T11	pathologie 1525 1546	síndrome hepatorrenal
+T12	pathologie 1931 1934	SHR
+#1	SNOMED T1	7200002
+#2	SNOMED T7	307757001
+#3	SNOMED T8	328383001
+#4	SNOMED T9	13920009
+#5	SNOMED T2	18165001
+#6	SNOMED T10	14669001
+#7	SNOMED T3	81308009
+#8	SNOMED T4	389026000
+#9	SNOMED T11	51292008
+#10	SNOMED T6	389026000
+#11	SNOMED T12	51292008
+#12	SNOMED T5	16294009

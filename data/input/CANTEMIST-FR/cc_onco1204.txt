@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 59 ans, sans allergie médicamenteuse connue, non-fumeuse, hypertendue et dyslipidémique, a été admise dans le service de médecine interne en avril 2010 pour un syndrome toxique et une hypoesthésie de la lèvre supérieure, ainsi qu'une paresthésie de la main droite.
+
+Examen physique
+Patient conscient et orienté, eupnéique au repos. TA 160/86 mmHg, FC 68 bpm, saturation basale 99%, température 36 ºC. AC : rythme sinusal, pas de bruits supplémentaires. AR : VCM, pas de bronchospasme. ABD : souple et dépressible, péristaltisme présent, pas de masse ni de viscéro-mégalie. NRL : nerfs crâniens présents et symétriques ; force et sensibilité préservées dans toutes les extrémités. Pas d'œdème aux extrémités ni de signes de TVP.
+
+Examens complémentaires
+- Au cours de son séjour dans le service hospitalier, divers examens complémentaires ont été effectués, notamment un bilan sanguin, qui a révélé une anémie microcytaire microchrome, sans autre altération, un scanner crânien, puis une IRM du SNC, qui ont montré de multiples lésions expansives bihémisphériques intraparenchymateuses, supra et infratentorielles, situées pour la plupart au niveau cortical ou corticomédullaire, évocatrices de métastases.
+- Un scanner AT a également été réalisé, montrant un nodule pulmonaire de 25 mm dans le LII suggérant une néoformation pulmonaire.
+- L'étude a été complétée par un FBS, qui n'a montré aucun signe de lésion, et un PET scan, ce dernier montrant une masse hypermétabolique dans le segment postérieur du LII et des adénopathies pathologiques hilaires gauches, subcarinales et paratrachéales droites.
+
+Diagnostic
+Finalement, une biopsie transthoracique de la lésion pulmonaire en LII a été réalisée, qui était compatible avec un adénocarcinome pulmonaire, et l'analyse moléculaire a montré une mutation de l'EGFR (délétion de l'exon 19).
+Par conséquent, un diagnostic d'adénocarcinome pulmonaire de stade IV avec métastases cérébrales multiples a finalement été posé chez une patiente non fumeuse, en bon état clinique et présentant une délétion de l'exon 19 du gène EGFR.
+
+Traitement
+Le premier traitement a été une radiothérapie holocrânienne, compte tenu de l'importante extension métastatique dans le SNC et des symptômes neurologiques (hypoesthésie péribuccale et paresthésie dans les mains). Une fois la radiothérapie terminée, un traitement par un inhibiteur de tyrosine kinase de l'EGFR, tel que le gefitinib, a été instauré le 5 mai 2010.
+
+Évolution
+Après plusieurs mois de traitement par gefitinib, une réponse radiologique complète a été observée, tant au niveau cérébral qu'extracrânien, ainsi qu'une disparition des symptômes neurologiques.
+En mai 2012, après 2 ans de traitement continu par gefitinib, un scanner de contrôle a révélé l'apparition d'une lésion du SNC évocatrice de métastases, ainsi qu'une lésion pulmonaire au niveau du LII et des adénopathies hilomédiastinales, et la patiente était asymptomatique. À ce stade, il a été décidé de traiter le patient par une chimiothérapie à base de cisplatine et de pemetrexed, qui a permis d'obtenir une réponse partielle après 4 cycles. Le patient a ensuite été traité par gefitinib.
+En avril 2014, un nouveau scanner thoracique a montré une progression pulmonaire et adénopathique. Sur le plan clinique, la patiente présentait une légère augmentation de la dyspnée et de l'asthénie, un traitement par un inhibiteur de tyrosine kinase irréversible (afatinib) a donc été débuté. Nous attendons actuellement une évaluation radiologique, mais le patient est bien toléré, avec une amélioration clinique significative.

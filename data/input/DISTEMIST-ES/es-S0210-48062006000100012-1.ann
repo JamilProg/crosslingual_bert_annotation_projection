@@ -1,0 +1,14 @@
+T1	pathologie 199 206	fumador
+T2	pathologie 247 269	quistes en ambas mamas
+T3	pathologie 283 311	trastornos de la coagulación
+T4	pathologie 688 748	trombosis segmentaria de la vena dorsal superficial del pene
+T5	pathologie 1092 1098	lesión
+T6	pathologie 1114 1123	trombosis
+T7	pathologie 1139 1193	patología en la localización de la vena dorsal de pene
+#1	SNOMED T4	76598006
+#2	SNOMED T2	449836005
+#3	SNOMED T3	64779008
+#4	SNOMED T1	77176002
+#5	SNOMED T6	439127006
+#6	SNOMED T5	417163006
+#7	SNOMED T7	76598006

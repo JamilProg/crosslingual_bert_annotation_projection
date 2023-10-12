@@ -1,0 +1,6 @@
+T1	pathologie 161 179	adenoma prostático
+T2	pathologie 1112 1140	alergia a contrastes yodados
+T3	pathologie 1817 1829	coledococele
+#1	SNOMED T2	293637006
+#2	SNOMED T1	21173002
+#3	SNOMED T3	397868007

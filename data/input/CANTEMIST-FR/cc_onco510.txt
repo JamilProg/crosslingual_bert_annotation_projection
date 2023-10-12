@@ -1,0 +1,30 @@
+Anamnèse
+Il s'agit d'un homme de 51 ans avec des antécédents personnels de diabète sucré de type 2 (DM) sous traitement d'antidiabétiques oraux, d'hypercholestérolémie sous traitement d'antilipémiants.
+Ses antécédents oncologiques ont débuté en février 2018 par une croissance progressive au niveau périanal initialement attribuée à une hémorroïde, et il a finalement consulté en chirurgie générale en juillet 2018, où une lésion ulcérée a été observée au niveau périanal.
+Elle a subi une résection le 31 juillet 2018 avec des résultats anatomopathologiques de mélanome nodulaire, avec croissance verticale, Breslow 15 mm, indice de Clark IV, 14 mitoses/mm2, ulcération positive, pigmentation légère, pas d'invasion vasculaire ou lymphatique, réponse lymphocytaire légère, pas de satellitose, base de résection touchée.
+L'étude d'extension a été complétée par une IRM du bassin qui a montré une lymphadénopathie dans la région inguinale droite et un PET-CT qui a confirmé la prise pathologique dans cette lymphadénopathie avec un SUV de 7,1.
+Après discussion au sein du Comité des tumeurs cutanées, il a été décidé de réaliser une biopsie du ganglion sentinelle et d'étendre les marges.
+L'étude du ganglion sentinelle a été étendue le 20 septembre 2018 et les marges de résection ont également été étendues, en respectant la musculature sphinctérienne. L'anatomie pathologique a confirmé le ganglion lymphatique sentinelle infiltré par des métastases de mélanome sans signe de rupture capsulaire, et les marges élargies ont été considérées comme affectant la marge cutanée.
+Le 11 décembre 2018, un scanner thoraco-abdomino-pelvien a été réalisé, qui a exclu une atteinte à distance.
+Le 21 novembre 2018, une lymphadénectomie inguinale droite et gauche a été réalisée. Les lymphadénectomies inguinales droite et gauche ont permis d'isoler respectivement 1 et 4 ganglions lymphatiques, tous exempts de maladie, et les marges réséquées étaient exemptes d'infiltration tumorale.
+Il a été évalué dans le service d'oncologie comme un patient de 51 ans atteint d'un mélanome de la muqueuse anale de stade IIIC (T4bN0M0) réséqué, candidat à un traitement adjuvant par nivolumab 3 mg/kg bihebdomadaire à partir du 15 janvier 2019. Il conserve une qualité de vie, un ECOG 0-1 et ne présente pas de toxicité notable à l'exception d'une élévation des transaminases de grade 1.
+En raison du risque de rechute, un scanner thoraco-abdomino-pelvien a été réalisé entre le sixième et le septième cycle, rapporté sans signe de maladie oncologique.
+
+Examen physique
+À l'examen physique, les deux zones parotidiennes étaient indurées, mal définies, non douloureuses à la palpation et sans altérations cutanées, sans signes inflammatoires ni atteinte du nerf facial, et coïncidant avec les symptômes susmentionnés, le patient a commencé à avoir la bouche sèche.
+Parmi les diagnostics différentiels de la masse parotidienne, les suivants sont envisagés : lithiase, kyste lymphoépithélial, syndrome de Sjögren, sialoadénite ou lymphadénopathie régionale due à une infection, une inflammation ou une pathologie maligne.
+
+Tests complémentaires
+Des examens complémentaires ont été demandés, notamment des échographies et des analyses de laboratoire :
+Échographie des glandes parotides : les deux glandes sont de taille symétrique, avec une légère altération diffuse de leur ultrastructure, sans images nodulaires identifiables à l'intérieur. Dans l'étude Doppler couleur, aucune augmentation significative de la vascularisation n'a été observée. Ces résultats pourraient être liés à un processus inflammatoire chronique.
+"Examens de laboratoire : amylase 99 UI/l (valeurs normales : 28-100), anticorps nucléaires : négatifs, anti-Ena SSA négatifs, anti-Ena SSB négatifs. Les autres examens comprenaient la numération sanguine, le profil hépatique et rénal, l'ionogramme, les hormones thyroïdiennes et le cortisol sans altération.
+
+Diagnostic
+Le diagnostic différentiel d'une masse parotidienne chez un patient sous traitement par nivolumab inclut : lithiase, kyste lymphoépithélial, syndrome de Sjögren, sialoadénite ou lymphadénopathie régionale due à une infection, une inflammation ou une pathologie maligne.
+
+Traitement
+Il est décidé d'arrêter le nivolumab, car une toxicité secondaire est suspectée, et le patient doit être réévalué une semaine plus tard.
+
+Évolution
+Le volume parotidien du patient s'est amélioré avec l'arrêt du médicament, mais il a signalé une xérostomie, il a donc été décidé de commencer une corticothérapie à la dose de 1 mg/kg et de la pilocarpine 5 mg 1 toutes les 8 heures comme traitement symptomatique, avec une normalisation progressive du volume parotidien dans les évaluations ultérieures, et la persistance de la xérostomie, qui était très invalidante pour le patient.
+Après plusieurs évaluations, et en accord avec la patiente, il a finalement été décidé de suspendre définitivement le traitement adjuvant par nivolumab.

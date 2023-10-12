@@ -1,0 +1,16 @@
+T1	pathologie 101 116	cuadro sincopal
+T2	pathologie 135 167	deposición melénica-rectorrágica
+T3	pathologie 498 552	lesiones incipientes angiodisplásicas de colon y recto
+T4	pathologie 828 852	mucosa gástrica ectópica
+T5	pathologie 868 889	divertículo de Meckel
+T6	pathologie 1008 1029	divertículo de Meckel
+T7	pathologie 1196 1207	divertículo
+T8	pathologie 1422 1476	divertículo de Meckel con mucosa gástrica heterotópica
+#1	SNOMED T1	271594007
+#2	SNOMED T2	2901004+300392005
+#3	SNOMED T4	204676004
+#4	SNOMED T5	37373007
+#5	SNOMED T6	37373007
+#6	SNOMED T7	397881000
+#7	SNOMED T8	37373007
+#8	SNOMED T3	197244008

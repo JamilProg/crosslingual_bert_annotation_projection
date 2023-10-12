@@ -1,0 +1,22 @@
+Anamnèse
+Un homme de 58 ans, hypertendu, diabétique et fumeur depuis 15 ans/paquet, qui consulte pour une sensation d'obstruction nasale depuis plus de 3 ans avec aggravation progressive, sans épistaxis ni autres symptômes d'accompagnement.
+Il a des antécédents familiaux avec un frère décédé d'un cancer de l'œsophage et un père décédé d'une néoplasie prostatique.
+
+Examen physique
+IK 90. Rhinoscopie : grosse masse occupant toute la narine. Le reste de l'examen physique est strictement normal.
+
+Examens complémentaires
+- Analyses sanguines : aucune anomalie.
+- Examens d'imagerie (tomodensitométrie et IRM crânienne) : grosse masse expansive située dans la région de l'ethmoïde postérieur et du sinus sphénoïde avec extension et occupation de la cavité nasopharyngée qui amincit et déplace la paroi osseuse adjacente.
+Épaississement de la muqueuse des deux sinus maxillaires. Sinus frontal sans anomalie. Le reste des structures sans altération.
+- Anatomie pathologique de l'échantillon biopsié : tumeur maligne de cellules rondes, avec un motif lobulé, de vraies rosettes, peu de mitoses et aucun signe de nécrose. Négatif pour la vimentine, la migénine, le S-100, la CK 5/6, le CD 49, le CD 45, la desmine, la CK 7 et l'EMA. Positif pour l'énolase, la chromogranine et le CD 56, compatible avec un neuroblastome olfactif de grade 2 de Hymans.
+
+Diagnostic
+Neuroblastome olfactif.
+
+Traitement
+En mai 2012, le patient a été opéré par le service de neurochirurgie et la tumeur a été réséquée par un abord endonasal élargi avec suspicion d'infiltration des marges, sans possibilité de nouvel abord chirurgical. L'échantillon prélevé a fait l'objet d'une étude anatomopathologique qui a confirmé l'existence d'un neuroblastome olfactif avec des marges affectées.
+En juin 2012, le patient a été évalué par un comité multidisciplinaire, qui a décidé d'administrer une radiothérapie complémentaire. Il a donc été envoyé en radio-oncologie, où il a reçu un traitement IMRT du 9/7/2012 au 21/8/2012, avec une vérification quotidienne/hebdomadaire du positionnement à l'aide du système OBI. Traitement administré : CTV1 (lit tumoral dans la narine, plus marge de sécurité) : 54 Gy, CTV2 (lit tumoral dans la narine, plus marge réduite) : 60 Gy. La toxicité principale était une mucosite G2, ainsi qu'une conjonctivite G1 et une dermite G1. Après la fin de la radiothérapie, une IRM a été réalisée, qui n'a révélé aucune image permettant de suspecter des restes tumoraux ou une récidive.
+
+Évolution
+La patiente est restée indemne de la maladie depuis la fin du traitement, avec des contrôles IRM réguliers tous les 6 mois.

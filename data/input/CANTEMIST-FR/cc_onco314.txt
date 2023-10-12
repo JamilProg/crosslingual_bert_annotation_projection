@@ -1,0 +1,30 @@
+Anamnèse
+Patient âgé de 19 ans, avec des antécédents personnels d'allergie aux céphalosporines confirmés par l'allergologie, fumeur régulier de marijuana sans autre addiction. En novembre 2014, il consulte aux urgences pour une tumeur non douloureuse du testicule droit à croissance progressive, non associée à de la fièvre. Une échographie testiculaire a été réalisée, décrivant une tumeur hétérogène du testicule droit mesurant 7,5 x 3,5 cm. Aucun autre symptôme n'était associé. Le patient a été adressé au service d'urologie pour suspicion de néoplasie testiculaire. Des tests de laboratoire ont été effectués avec des marqueurs tumoraux et une étude d'extension a été demandée au moyen d'une tomodensitométrie thoraco-abdominale.
+
+Examen physique
+ECOG1
+Bon état général. Consciencieux, orienté et coopératif. Eupnéique au repos avec une bonne tolérance au décubitus. Fébrile. Bonne coloration de la peau et des muqueuses. Hémodynamiquement stable.
+Cardio-respiratoire : rythme cardiaque à 85 bpm. Aucun souffle n'a été entendu. Murmure vésical conservé sans ajout de bruits pathologiques.
+Abdomen souple et dépressible, non douloureux à la palpation. Les bruits sont conservés. Palpation d'une hépatomégalie massive, non douloureuse, de 5 largeurs de doigt, à bords émoussés.
+Membres inférieurs sans œdème ni signe de thrombose. Pas d'adénopathie inguinale palpable.
+Testicule droit avec une masse non douloureuse de 80 x 40 mm. Testicule gauche normal. Pas d'altération du scrotum.
+
+Tests complémentaires
+Examens de laboratoire
+- Biochimie : Fonction rénale normale. GOT 130 U/L ; GPT 115 UI/L ; GGT 321 UI/L.
+- Hémogramme : normal dans les 3 séries.
+- Coagulation : pas d'altération.
+- Marqueurs tumoraux : AFP 2410 ng/ml (0-10). BHCG 2 mU/ml (0-5) ; LDH 232 U/L (135-225).
+Échographie testiculaire (29/1/15) : volumineuse tumeur testiculaire droite, englobant la totalité du testicule, d'échogénicité hétérogène et dont les dimensions approximatives sont de 7,5 x 3,5 cm. Tomodensitométrie thoraco-abdominale (27/3/15) : Atteinte métastatique massive du foie et de l'os au niveau des corps vertébraux D1, D9, D10, D11, L1. Pas d'adénomégalie dans les chaînes ganglionnaires rétropéritonéales.
+PFR : pas d'altération de la DLCO.
+
+Diagnostic
+ECSN (sinus endodermique) du testicule droit, pT1cN0cM1bS2. Stade IIIC (atteinte massive du foie et des os). Maladie de mauvais pronostic selon les critères de l'ICGGGC.
+
+Traitement
+Le patient a été opéré le 18/02/15 par orchidectomie par voie inguinale avec mise en place d'une prothèse. L'étude anatomopathologique de la pièce opératoire a montré une tumeur germinale non séminomateuse de type sinus endodermique, qui touchait la tunique albuginée sans atteindre la tunique vaginale, le cordon spermatique ou les berges de résection.
+
+Évolution
+En mars 2015, après la cryoconservation du sperme, le patient a reçu un traitement de chimiothérapie de première ligne selon le schéma BEP (bléomycine, étoposide et cisplatine) pour un total de 4 cycles (fin le 22/06/15). La patiente a connu un épisode de neutropénie fébrile après le C1 qui a nécessité une admission, comme toxicité la plus pertinente. Le scanner réalisé après la fin du traitement par chimiothérapie a montré une réponse radiologique partielle et les marqueurs tumoraux étaient négatifs. En raison de la présence de multiples lésions hépatiques de plus de 1 cm, la chirurgie pour la maladie résiduelle a été exclue.
+En février 2016, la progression de la maladie a été mise en évidence par une nouvelle élévation de l'AFP (859,2 ng/ml) et une croissance des lésions hépatiques au scanner. Une chimiothérapie de deuxième ligne et une consolidation ultérieure avec une chimiothérapie à haute dose et une autogreffe de moelle osseuse (ABMT) ont été envisagées. La patiente a reçu un total de 4 cycles selon le schéma TIP (paclitaxel, ifosfamide et cisplatine) se terminant le 11/05/2016 avec des marqueurs tumoraux négatifs après C3. Lors des deux dernières admissions pour administration de QT, une aphérèse et une mobilisation des progéniteurs hématopoïétiques par lénogastrim ont été tentées, sans succès. L'absence de CD34+ empêche l'administration de plerixafor pour réaliser l'aphérèse, cette procédure est donc définitivement rejetée.
+Le patient est en attente d'une réévaluation radiologique et compte tenu de l'impossibilité d'un traitement par chimiothérapie à haute dose et d'une résection des masses résiduelles, il sera suivi jusqu'à progression.

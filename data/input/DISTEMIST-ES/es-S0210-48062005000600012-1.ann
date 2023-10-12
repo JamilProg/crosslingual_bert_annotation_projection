@@ -1,0 +1,12 @@
+T1	pathologie 37 58	hipertensión arterial
+T2	pathologie 61 75	hipotiroidismo
+T3	pathologie 356 367	hipotensión
+T4	pathologie 1073 1107	hematoma retroperitoneal izquierdo
+T5	pathologie 1510 1531	hipertensión arterial
+T6	pathologie 1795 1830	Pseudoquiste endotelial suprarrenal
+#1	SNOMED T1	38341003
+#2	SNOMED T2	40930008
+#3	SNOMED T4	236002003
+#4	SNOMED T5	38341003
+#5	SNOMED T6	30171000
+#6	SNOMED T3	45007003

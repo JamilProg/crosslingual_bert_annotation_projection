@@ -1,0 +1,14 @@
+T1	pathologie 51 79	insuficiencia renal terminal
+T2	pathologie 934 937	CCR
+T3	pathologie 1371 1389	afectación tumoral
+T4	pathologie 1604 1627	carcinoma papilar renal
+T5	pathologie 1688 1690	Mx
+T6	pathologie 1742 1760	afectación tumoral
+T7	pathologie 2072 2088	recidiva tumoral
+#1	SNOMED T1	46177005
+#2	SNOMED T2	702391001
+#3	SNOMED T4	733608000
+#4	SNOMED T7	25173007
+#5	SNOMED T5	14799000
+#6	SNOMED T3	108369006
+#7	SNOMED T6	108369006

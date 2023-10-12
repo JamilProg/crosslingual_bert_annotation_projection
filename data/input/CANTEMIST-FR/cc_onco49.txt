@@ -1,0 +1,33 @@
+Anamnèse
+Nous présentons le cas d'une femme de 57 ans, diagnostiquée avec un carcinome lobulaire du sein gauche, récepteurs hormonaux positifs, HER-2 négatif, Ki-67 faible, donc, luminal A, qui a présenté dès le début une maladie métastatique au niveau gastrique après biopsie compatible avec une maladie métastatique d'origine mammaire.
+
+Examen physique
+Bon état général. Couleur normale. Non hydraté. Eupnéique. Pas d'adénopathies sus-claviculaires ou inguinales palpables. Seins : pas d'adénopathies axillaires palpables. Lésion centrale au niveau du sein gauche, dure, pierreuse et non douloureuse à la palpation. Auscultation cardiaque : rythmée. Pas de souffle.
+Auscultation pulmonaire : bruits respiratoires conservés sans bruits pathologiques. Abdomen : bruits hydro-aériques conservés. Molle, globuleuse, pas de douleur à la palpation. Pas de signe de péritonisme. Membres inférieurs : pouls pédieux conservés et symétriques. Pas d'œdème. Pas de trace de thrombose veineuse profonde.
+
+Tests complémentaires
+Il a été décidé de compléter l'étude par les examens complémentaires suivants :
+"Mammographie : dans la région rétro-aréolaire du sein gauche, vers les quadrants externes, au moins deux zones de distorsion du tractus sont visualisées, avec de multiples spicules, la plus grande de morphologie nodulaire et d'environ 16 x 16 mm. Dans l'étude échographique correspondant à la région rétro-aréolaire du sein gauche vers le quadrant supérieur externe, une distorsion marquée du parenchyme mammaire est visualisée, avec de multiples spicules et une zone/nodule nettement hypoéchogène mesurant environ 19 x 19 x 29 mm, avec une orientation non parallèle à la peau, une morphologie irrégulière et des bords spiculés, et avec une ombre sonique postérieure. Un autre nodule d'environ 4,5 x 6 mm, de morphologie et de bords irréguliers, nettement hypodense et sans ombre sonique postérieure. Et un autre nodule d'environ 12 x 16 x 22 mm, de morphologie irrégulière, à bords spiculés, nettement hypoéchogène et avec une ombre sonique postérieure en CIE.
+
+Échographie de la région axillaire gauche : un ganglion lymphatique à cortex épaissi diffus (3,2 mm) est visualisé.
+
+Une biopsie à l'aiguille a été réalisée sur un nodule rétro-aréolaire du sein gauche avec une étude anatomopathologique compatible avec un carcinome lobulaire infiltrant de grade II de Nottingham. Récepteurs d'œstrogènes positifs (100 %), récepteurs de progestérone positifs (100 %), HER-2 négatif, Ki-67 faible (<20 %).
+"Tomodensitométrie (TDM) : asymétries/distorsions focales des tracés dans les quadrants externes et vers la région rétro-aréolaire du sein gauche en relation avec une néoplasie connue. Foie hypertrophié d'un diamètre craniocaudal maximal d'environ 22 cm, avec une diminution diffuse marquée de la densité, en rapport avec une maladie hépatique diffuse, peut-être une stéatose.
+
+Petits ganglions, tous subcentimétriques dans le mésentère et l'épiploon, visualisant une trabéculation et une altération de la densité de la graisse omentale et un minimum de liquide libre dans le bassin, observations non spécifiques qui, dans le contexte, imposent d'exclure une carcinomatose péritonéale. Petite image pseudonodulaire avec un axe court d'environ 6 mm dans la fissure mineure, suggérant un petit ganglion lymphatique kystique.
+"Scintigraphie osseuse : pas d'images compatibles avec des métastases osseuses.
+"IRM mammaire : dans le sein gauche, il y avait une zone de distorsion des tracés, avec des formations nodulaires et une captation linéaire reliant les nodules entre eux, située dans la zone centrale antérieure du sein gauche, avec une extension vers le complexe aréolaire du mamelon. L'extension craniocaudale de la prise est de 80 mm, l'extension antéropostérieure de 47 mm et l'extension dans le plan transversal de 54 mm.
+" Marqueurs tumoraux (31/3/2015) : CEA 2,2 ng/mL (valeurs normales entre 0 et 5) et CA 15.3 (II) 220,4 U/mL (valeurs normales entre 0 et 30).
+
+Diagnostic
+Carcinome lobulaire du sein gauche avec récepteurs hormonaux positifs, HER-2 négatif, Ki-67 faible. Stade IV en raison de métastases gastriques.
+
+Traitement
+Chimiothérapie de première ligne à visée palliative basée sur une anthracycline 60 mg/m2 + cyclophosphamide 600 mg/m2 et évaluation de la réponse.
+
+Evolution
+Compte tenu des résultats de la tomodensitométrie, il a été décidé de compléter l'étude par une tomographie par émission de positons (TEP), qui a révélé deux petits nodules dans l'épiploon, ainsi qu'une association de graisse omentale sans hypermétabolisme pathologique significatif, bien qu'il faille tenir compte du fait que la plupart des lésions sont subcentimétriques et pourraient donc être affectées par un effet de volume partiel.
+
+Le cas a été discuté au sein du comité multidisciplinaire des tumeurs, qui a recommandé la réalisation d'une endoscopie gastro-intestinale supérieure en raison de la lésion pseudonodulaire au niveau de la fissure mineure décrite dans le scanner, dans lequel une lésion surélevée d'environ 6 mm de diamètre, ombiliquée à sa cuspide, de consistance dure lors de la biopsie, a été décrite au niveau de la grande courbure/face antérieure du corps gastrique distal.
+
+L'étude anatomopathologique de la biopsie était compatible avec une muqueuse gastrique infiltrée par un carcinome avec des caractéristiques histopathologiques et immunohistochimiques compatibles avec des métastases d'un carcinome lobulaire du sein.

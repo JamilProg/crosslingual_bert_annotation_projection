@@ -1,0 +1,22 @@
+Anamnèse
+Homme de 52 ans, sans allergie médicamenteuse connue, ex-fumeur de 15 paquets/an, sans antécédents intéressants. Il s'est rendu aux urgences en juin 2011 pour des douleurs abdominales localisées dans l'épigastre et l'hypochondre droit depuis 6 jours et de la fièvre depuis 48 heures.
+
+Examen physique
+L'examen physique a révélé un bon état général, une normohydratation et une coloration normale, une auscultation cardiaque et pulmonaire normale. L'abdomen était mou et dépressible, douloureux à la palpation dans l'hypochondre droit, sans masse ni mégalithe ni signe d'irritation péritonéale.
+
+Examens complémentaires
+Échographie abdominale : le foie présente une augmentation diffuse de l'échogénicité et de multiples lésions hypodenses occupant l'espace dans les deux lobes hépatiques, la plus grande mesurant 4,5 cm.
+Tomodensitométrie thoraco-abdominale : le foie présente de multiples lésions nodulaires bilobaires hétérogènes avec une captation périphérique de la VCI, ce qui suggère la présence de métastases. Épaississement irrégulier de la paroi du côlon de 4,5 cm au niveau de l'angle splénique/côlon transverse, avec extension à la graisse sous-jacente. Adénopathie mésentérique sous-centimétrique.
+L'ACE au moment du diagnostic était de 630,9 ng/ml.
+Coloscopie : lésion sténosante dans l'angle splénique avec biopsie positive pour l'adénocarcinome.
+KRAS NATIF
+
+Diagnostic
+Adénocarcinome du côlon transverse sténosant avec de multiples métastases hépatiques bilobaires, cT4N1M1.
+
+Traitement
+Il a débuté un traitement par panitumumab + FOLFOX4 dans le cadre de l'essai clinique PULSE avec une réduction de la taille du M1 hépatique dans le segment VIII et une résolution pratique de l'épaississement pariétal au niveau de l'angle splénique après 6 cycles.
+Compte tenu de la réponse, le patient a quitté l'étude et a été opéré le 2/11/2011 d'une métastasectomie des segments II-III avec une hémicolectomie droite élargie. L'anatomie pathologique du côlon correspondait à un adénocarcinome de bas grade modérément différencié avec invasion lymphovasculaire et périneurale, marges libres et implication de 2 des 17 ganglions réséqués (pT3bN1a). L'étude histologique était compatible avec un adénocarcinome intestinal avec des marges libres.
+
+Évolution
+Il a repris FOLFOX4 + Panitumumab x 4 cycles jusqu'en mai 2012, avec une réponse complète au scanner et a poursuivi un traitement d'entretien par Panitumumab + 5FU jusqu'en août 2012. En octobre 2012, après 10 mois sans maladie, il a présenté une nouvelle récidive dans le segment IV du foie. Le 20/11/2012, une nouvelle segmentectomie hépatique segment III-IV a été réalisée avec comme résultats anatomopathologiques deux métastases d'adénocarcinome de 2,6 et 1,5cm de diamètre, compatibles avec une métastase colorectale primaire. Depuis janvier 2013, il reçoit une chimiothérapie adjuvante selon le schéma FOLFIRI.

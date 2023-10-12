@@ -1,0 +1,18 @@
+T1	pathologie 209 236	agenesia del cuerpo calloso
+T2	pathologie 239 277	riñón derecho displásico multiquístico
+T3	pathologie 322 348	quiste de plexos coroideos
+T4	pathologie 354 399	quiste en la región interhemisférica profunda
+T5	pathologie 462 496	anomalías de la migración neuronal
+T6	pathologie 837 855	afectación macular
+T7	pathologie 914 957	malformación colobomatosa del nervio óptico
+T8	pathologie 960 984	lagunas coriorretinianas
+T9	pathologie 1005 1023	afectación macular
+#1	SNOMED T1	5102002
+#2	SNOMED T2	82525005
+#3	SNOMED T3	230790004
+#4	SNOMED T4	40720005
+#5	SNOMED T7	77157004
+#6	SNOMED T8	302893000
+#7	SNOMED T5	253146009
+#8	SNOMED T6	312999006
+#9	SNOMED T9	312999006

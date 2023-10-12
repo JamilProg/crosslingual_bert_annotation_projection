@@ -1,0 +1,30 @@
+ANAMNESIS
+Homme de 70 ans, ouvrier du bâtiment, ex-fumeur, suivi depuis 9 ans pour un adénocarcinome prostatique de Gleason 3+5, qui a été traité pendant 7 ans par blocage hormonal complet avec leuprorelin et bicalutamide trimestriels. Il n'existe aucune trace d'une étude d'extension antérieure.
+Après une progression osseuse et un mauvais contrôle de la douleur, un traitement par abiratérone/prednisone a été instauré, qui a été interrompu après 6 mois en raison d'une nouvelle progression osseuse et des ganglions lymphatiques, de sorte qu'il a été envoyé en oncologie pour une évaluation thérapeutique. Lors de la première visite, une étude d'extension a été réalisée et, après confirmation de la résistance à la castration et au traitement précédent, un plan a été proposé avec du zolédronate et du docétaxel 75 mgr/m2. Au moment de commencer le traitement, le patient a présenté des douleurs osseuses.
+Le deuxième cycle de traitement a été retardé en raison d'un épisode de NSTEACS qui a nécessité une admission, avec une maladie diffuse des petits vaisseaux et une occlusion chronique de l'artère circonflexe, avec un dysfonctionnement sévère de la fonction systolique. Il a commencé un traitement à base d'acide acétylsalicylique, de statines et d'inhibiteurs de l'enzyme de conversion de l'angiotensine (IECA). La patiente a terminé 6 cycles de docétaxel à la dose initialement prévue, sans nouvel incident, avec une bonne tolérance et une amélioration clinique, sérologique et radiologique, en cessant la consommation d'analgésiques.
+Elle a ensuite été maintenue pendant 4 mois sous traitement par dexaméthasone 1 mg/24h en raison d'une élévation du PSA avec des critères de progression sérologique asymptomatiques.
+Consultation pour diplopie binoculaire depuis deux jours d'évolution, associée à une rhinorrhée aqueuse en flexion du cou, unilatérale, de 3 mois d'évolution et réapparition de douleurs osseuses généralisées.
+
+Examen physique
+- État de performance 1. Indice de Karnofsky 70 %. Bon état général. Couleur normale, normo-hydratation et normo-alimentation.
+- Auscultation cardio-pulmonaire : tonalités rythmiques, souffle vésiculaire conservé.
+- Abdomen souple et dépressible, non douloureux, sans masse ni mégalithes.
+- À l'examen neurologique, le patient présente une diplopie binoculaire, une dysmétrie doigt-nez et des symptômes cliniques secondaires à l'atteinte de la paire de V gauche. Une fuite de liquide à faible débit a été observée au niveau de la narine droite.
+
+Examens complémentaires
+Compte tenu des symptômes suggérant une progression de la maladie et des symptômes neurologiques d'apparition récente, compatibles avec une fistule du liquide céphalo-rachidien, des analyses de sang et de liquide nasal ainsi que des examens d'imagerie ont été demandés afin d'exclure une atteinte métastatique du cerveau et/ou des os.
+- Analyses sanguines : on a constaté une augmentation de la valeur du PSA par rapport aux analyses précédentes, 16700 ng/mL, ainsi que de la phostatase alcaline 1448 UI/L et de la LDH 3227 UI/L, le tout dans le contexte d'une progression clinico-sérologique.
+- L'analyse du liquide nasal a révélé des valeurs de protéine b-trace de 26 mg/L, confirmant la suspicion de fistule du liquide céphalo-rachidien.
+- Le scanner du crâne et des sinus paranasaux a montré des lésions blastiques affectant la calotte, tous les os de la base du crâne, la branche mandibulaire gauche et les vertèbres cervicales. Des images lytiques ont également été observées, principalement dans les grandes ailes du sphénoïde et dans l'apex pétreux droit, compatibles avec des granulations arachnoïdiennes aberrantes, identifiant une déhiscence osseuse focale dans le toit du sinus sphénoïde droit, qui est probablement l'origine de la fistule à l'origine des symptômes cliniques de rhinolucorrhée. Une réaction périostée avec une masse de tissus mous intra-orbitaire droite en relation avec une atteinte osseuse métastatique du toit de l'orbite, probablement responsable de la diplopie de la patiente. Ceci complète le diagnostic de la progression de la maladie également au niveau radiologique.
+
+Diagnostic
+Au vu des résultats radiologiques et sérologiques, on a diagnostiqué chez le patient une fistule du liquide céphalo-rachidien secondaire à une progression métastatique osseuse dans les os de la base du crâne, due à une néoplasie de la prostate évoluant depuis 9 ans.
+
+Traitement
+Une évaluation par un neurochirurgien a été demandée, qui a décidé d'adopter une approche attentiste compte tenu du faible débit de la fistule de liquide céphalorachidien. Compte tenu de l'évolution clinique, radiologique et sérologique de la maladie et de la contre-indication de la RT dans ce cas en raison de la fistule, un traitement palliatif par Cabazitaxel 20 mg/m2 a été instauré, que le patient a commencé à l'hôpital sans complications.
+
+Évolution
+Le patient est resté stable pendant son admission et après avoir reçu le premier cycle de traitement au Cabazitaxel, avec des symptômes persistants de rhinolicuorrhée qui ont progressivement diminué pendant l'admission. Une antibiothérapie prophylactique a été mise en place en raison du risque de méningite avec la ceftriaxone.
+Il n'y a pas eu d'amélioration des symptômes visuels, la diplopie binoculaire et l'atteinte du cinquième nerf crânien ont persisté sans s'aggraver. Aucune complication liée au traitement n'a été observée, pas plus qu'il n'y a eu d'augmentation du débit de la fistule ou de signes de méningite, raison pour laquelle le patient a été autorisé à quitter l'hôpital.
+Un suivi en ambulatoire par l'oncologie et la neurochirurgie a été proposé pour évaluer la réponse au traitement par chimiothérapie et la possibilité d'une intervention chirurgicale en cas de complications.
+Il a été réadmis après un séjour de dix jours à domicile, avec des symptômes respiratoires, une hypotension et une tachycardie, et a finalement été libéré suite à un choc cardiogénique, avec suspicion d'une complication probablement liée à sa cardiopathie ischémique sous-jacente, sans avoir reçu un second traitement de cabazitaxel.

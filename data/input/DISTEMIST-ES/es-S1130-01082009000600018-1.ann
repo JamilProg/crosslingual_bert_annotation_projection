@@ -1,0 +1,16 @@
+T1	pathologie 620 637	útero hipoplásico
+T2	pathologie 930 961	infiltración de órganos vecinos
+T3	pathologie 963 970	ascitis
+T4	pathologie 974 987	adenomegalias
+T5	pathologie 1068 1088	mucocele apendicular
+T6	pathologie 1137 1159	implantes en peritoneo
+T7	pathologie 1482 1530	mucocele secundario a tumor mucinoso apendicular
+T8	pathologie 1742 1751	neoplasia
+#1	SNOMED T7	53773002
+#2	SNOMED T8	55342001
+#3	SNOMED T1	35850006
+#4	SNOMED T3	389026000
+#5	SNOMED T4	30746006
+#6	SNOMED T5	53773002
+#7	SNOMED T6	94627008
+#8	SNOMED T2	128462008

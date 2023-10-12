@@ -1,0 +1,6 @@
+T1	pathologie 989 1006	leiomioma vesical
+T2	pathologie 1157 1175	adenoma prostático
+T3	pathologie 1728 1750	cistopatía incrustante
+#1	SNOMED T1	146801000119103
+#2	SNOMED T2	21173002
+#3	SNOMED T3	783184003

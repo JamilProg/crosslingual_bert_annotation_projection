@@ -1,0 +1,6 @@
+T1	pathologie 131 143	uretrorragia
+T2	pathologie 933 970	papiloma invertido de uretra anterior
+T3	pathologie 1068 1080	uretrorragia
+#1	SNOMED T1	249301002
+#2	SNOMED T3	249301002
+#3	SNOMED T2	126883004

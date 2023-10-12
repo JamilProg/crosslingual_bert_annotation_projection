@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 58 ans adressée au service d'oncologie par un service de chirurgie générale pour évaluation du traitement par chimiothérapie.
+Allergie à la pénicilline. Pas d'habitudes toxiques. DM2 sous traitement par metformine et hypothyroïdie en traitement substitutif comme antécédent d'intérêt. Pas de maladie cardiaque connue.
+Antécédents gynécologiques : ménarche à 11 ans. LMP : 52 ans. G3P3A0. Allaitement depuis des années. Prend des contraceptifs oraux depuis 1 à 2 mois. Pas de THS. Pas de cytologie cervicale ni de dépistage par sénographie.
+Antécédents oncologiques : son médecin traitant l'a orientée vers une intervention chirurgicale après avoir détecté elle-même un lumpome non douloureux dans l'aisselle gauche en juin 2013. Aucun autre symptôme associé, à l'exception d'une perte de poids d'environ 7 kg en 2 mois.
+
+Examen physique
+ECOG 1, poids 74 kg. Taille 149 cm. Masse palpable dans la région axillaire gauche mesurant 60 x 40 mm. Adénopathie palpable supraclaviculaire gauche et latérocervicale droite de taille < 10 mm. Seins normaux. ACR sans anomalie. Reste normal.
+
+Examens complémentaires
+- Echographie bilatérale et échographie (juin 2013) avec des seins normaux. Faisceau adénopathique axillaire du sein gauche mesurant 40 x 27 mm à partir duquel une biopsie à l'aiguille de carotte a été réalisée avec résultat histologique de métastase de carcinome indifférencié d'origine incertaine. Cytokératine (CK)1/3+, CK7+, CK20-, mammoglobine-, TTF1-, RH -, HER2-.- Tomodensitométrie cervico-thoracique et abdominale (juillet 2013) qui a également détecté des adénopathies infraclaviculaires gauches (15 mm), paratrachéales droites (11 mm) et subcarinales (12 mm), sans autre résultat pathologique.
+- TEP-TDM (octobre 2013) : masse mammaire gauche métaboliquement positive évocatrice de malignité (SUV 9,5) avec atteinte lymphatique étendue (axillaire, rétropectorale, mammaire interne, supra/infraclaviculaire ipsilatérale et médiastinale bilatérale), l'étude étant compatible avec un carcinome mammaire gauche au stade métabolique M1.
+
+Diagnostic
+Carcinome métastatique indifférencié d'origine inconnue (probable sein gauche sur PET-CT) avec atteinte axillaire gauche, supraclaviculaire, médiastinale bilatérale et triple négative du sein gauche.
+
+Traitement
+Au vu de ces constatations, un traitement de chimiothérapie par taxol hebdomadaire a été débuté en octobre 2013, terminant 8 cycles avec une bonne tolérance et une réponse clinique ; réduction progressive de la taille du bloc adénopathique axillaire et latérocervical gauche, sans altération du sein.
+Compte tenu de l'origine mammaire probable de la tumeur, ainsi que du sous-type basal-like ou triple négatif, il a été décidé de poursuivre le traitement par cisplatine + adriamycine et, après deux cycles, un scanner de réévaluation a été réalisé (janvier 2014), qui a montré une réponse axillaire et médiastinale partielle, avec disparition des adénopathies dans la chaîne mammaire interne et stabilisation de la maladie au niveau supraclaviculaire. Deux nouveaux cycles de cisplatine + adriamycine ont été administrés, sans toxicité pertinente, à l'exception d'une alopécie de grade 2 et d'une asthénie de grade 2, avec une nouvelle étude de réévaluation par PET-CT (mars 2014) qui a rapporté une réponse métabolique complète.
+
+Évolution
+Étant donné la réponse complète à la chimiothérapie, le cas a été discuté au sein du comité de chirurgie mammaire en vue d'un traitement chirurgical ou radiothérapeutique, et il a été décidé de procéder d'abord à une biopsie cutanée, à une mammographie et à une échographie du sein gauche.
+Les deux examens ont révélé une augmentation asymétrique et diffuse de la densité du sein gauche, sans visualisation de nodules ou de distorsions architecturales, avec un certain épaississement de la peau et une ectasie canalaire rétroaréolaire. La région axillaire gauche présente des ganglions lymphatiques corticaux épaissis (le plus gros mesurant 17 mm). Il est conclu que ces résultats pourraient être liés à un blocage lymphatique, être secondaires à un carcinome inflammatoire ou avoir une origine inflammatoire.
+Le patient est actuellement en attente d'une biopsie cutanée étendue et d'une décision chirurgicale.

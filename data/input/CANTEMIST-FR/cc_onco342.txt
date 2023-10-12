@@ -1,0 +1,61 @@
+Anamnèse
+Patiente de 48 ans adressée au service d'oncologie par le service de radiodiagnostic avec un diagnostic de carcinome mammaire pour l'évaluation d'un traitement néoadjuvant.
+
+ANTÉCÉDENTS PERSONNELS :
+- Pas d'allergies médicamenteuses connues
+- Pas d'habitudes toxiques
+- Pas d'hypertension artérielle, pas de diabète sucré, pas de dyslipidémie
+- Pas d'antécédents chirurgicaux
+- Pas de traitement pharmacologique habituel
+- Antécédents obstétricaux et gynécologiques : Ménarche à l'âge de 14 ans. Date de la dernière menstruation 10/12/12. Formule obstétricale : G4A2P2, âge de la première grossesse 20 ans. Allaitement cumulé de 6 mois. Ne prend pas de contraceptifs oraux.
+* Antécédents oncologiques familiaux : aucun.
+
+LES ANTÉCÉDENTS ONCOLOGIQUES :
+
+La patiente consulte son médecin traitant parce qu'elle a remarqué une lésion nodulaire sur le sein gauche depuis deux mois.
+Examen physique
+- État de performance 0 selon l'échelle ECOG.
+- Les signes vitaux sont restés dans les limites de la normale.
+- L'examen des seins a montré une symétrie des deux seins, la peau et le complexe mamelon-aréole ne présentant aucune altération ; un nodule mesurant 9 cm sur 6 cm a été palpé dans le quadrant supéro-externe du sein gauche.
+Aucun ganglion lymphatique axillaire ou supraclaviculaire ni aucun autre territoire ganglionnaire n'a été palpé.
+- Auscultation cardio-pulmonaire : tonalités cardiaques rythmiques sans murmures ni bruits de frottement ; murmure vésiculaire préservé sans bruits pathologiques ajoutés, avec une entrée d'air bilatérale adéquate dans tous les champs pulmonaires.
+- L'abdomen n'est pas décrit, aucune masse ou mégalithe n'est palpable.
+- Les membres inférieurs ne présentent pas d'œdème ni de signes de thrombose veineuse profonde.
+- Examen neurologique normal.
+
+Examens complémentaires
+Compte tenu des résultats exploratoires décrits ci-dessus et du diagnostic présumé de néoplasie mammaire, les examens complémentaires suivants ont été réalisés :
+"Mammographie (12/12/12) : un groupe de microcalcifications suspectes a été observé dans le sein gauche CSE. Les images des ganglions lymphatiques axillaires bilatéraux n'étaient pas significatives.
+"Échographie mammaire (12/12/12) : atteinte étendue de tout le tissu glandulaire du sein gauche CSE, atteignant des diamètres de 58 par 28 mm. Les images des ganglions lymphatiques axillaires gauches sont de taille non significative.
+"Biopsie à l'aiguille épaisse (BAG), (12/12/12) : compatible avec un carcinome lobulaire infiltrant du sein gauche, grade histologique (GH) II. Immunohistochimie : récepteurs des œstrogènes (ER) 100% positifs (HScore 230/300, Allred 7/8), récepteurs de la progestérone (PR) 80% positifs (HScore 240/300, Allred 7/8), détermination de Her2 par FISH Non amplifié. Ki67 21,6 %.
+Compte tenu du diagnostic histopathologique de carcinome lobulaire infiltrant du sein gauche, une étude complémentaire a été réalisée pour évaluer l'étendue de la maladie à l'aide de :
+"Analyses sanguines (27/12/12) : biochimie et hémogramme normaux. Marqueurs tumoraux : CEA 2,6 ng/dl, CA 15.3 32 U/ml.
+"Tomodensitométrie thoracique, abdominale et pelvienne (27/12/12) : pas de signe de maladie à distance.
+"Scintigraphie osseuse (29/12/12) : pas de prise pathologique du radiotraceur.
+"Fraction d'éjection du ventricule gauche (FeVi) (03/01/13) : 67%, normal.
+
+Diagnostic
+Le diagnostic est un carcinome lobulaire infiltrant du sein gauche, cT3 cN0 M0, stade IIB, GH II, phénotype luminal B.
+
+Traitement
+La patiente a reçu un traitement néoadjuvant selon le schéma Taxol pendant 4 cycles (avec 3 perfusions hebdomadaires de Taxol 80 mg/m2 par cycle de 21 jours) suivi de FEC-100 pendant 4 cycles (5-Flurouracil 500 mg/m2 + Epirubicine 100 mg/m2 + Cyclophosphamide 500 mg/m2 par cycle de 21 jours).
+A la fin du traitement par Taxol et avant le début du FEC-100, une échographie mammaire a été réalisée pour évaluer la réponse au traitement néadjuvant, qui a montré une diminution de l'atteinte glandulaire au niveau du SCC du sein gauche avec des diamètres de 38 par 15 mm, mesurant auparavant 58 par 28 mm, sans images ganglionnaires axillaires significatives.
+La patiente a terminé le traitement entre le 15/01/13 et le 23/09/13, jour où elle a reçu le dernier cycle de FEC-100. Elle a présenté une tolérance adéquate au traitement sans toxicité significative, à l'exception d'une neurotoxicité de grade 1 liée aux perfusions de Taxol et d'une neutropénie fébrile de grade 4 liée à une infection respiratoire lors du deuxième cycle de FEC-100 qui a nécessité de retarder le cycle de traitement d'une semaine, avec une résolution complète après une double antibiothérapie, et d'administrer à titre prophylactique un facteur de stimulation des colonies de granulocytes (G-CSF 300 mcg) pendant 4 jours lors des cycles restants.
+Le 20/10/13, elle a subi une quadrantectomie et un curage axillaire, et le résultat anatomopathologique était un carcinome infiltrant mixte (lobulaire et sans type particulier), ypmT2 ypN2 M0, GH II, Immunohistochimie : Récepteurs des œstrogènes (ER) 100% positifs (HScore 230/300, Allred 7/8), Récepteurs de la progestérone (PR) 80% positifs (HScore 240/300, Allred 7/8), Détermination de Her2 par SISH Non amplifié, Ki67 23%. Ki67 23%, phénotype luminal B.
+Compte tenu des marges de résection chirurgicale affectées, elle a subi le 05/11/13 une mastectomie radicale modifiée ; l'anatomie ptologique a montré des marges de résection libres et l'absence de lésions malignes dans le reste du tissu glandulaire mammaire.
+Elle a reçu un traitement complémentaire par radiothérapie et a commencé à prendre du tamoxifène à raison de 20 mg, 1 comprimé par jour par voie orale, le 30 novembre 2013, jusqu'à ce qu'elle ait terminé ses 5 années de traitement.
+
+Évolution
+La patiente a poursuivi ses examens trimestriels à la clinique d'oncologie, sans qu'aucun signe clinique ou radiologique de rechute de la maladie n'ait été observé.
+Après un intervalle de 30 mois sans maladie, une analyse de contrôle a révélé une élévation du marqueur tumoral CA 15.3 de 103 U/ml. Dans l'anamnèse réalisée par l'appareil et les systèmes, le patient a signalé une douleur osseuse dans la hanche droite depuis un mois, sans impotence fonctionnelle, partiellement contrôlée par des anti-inflammatoires non stéroïdiens et quantifiée à 6/10 sur l'échelle visuelle analogique (EVA).
+Les examens complémentaires suivants ont été demandés :
+- CT scan thoracique, abdominal et pelvien (22/04(16) : modifications dues à la mastectomie gauche. Deux petites zones de consolidation ont été identifiées dans le lobe pulmonaire supérieur droit, probablement liées à une pathologie infectieuse. Aucune adénopathie axillaire, médiastinale ou abdomino-pelvienne n'a été observée.
+Une zone blastique et lytique a été identifiée dans la lame iliaque droite, affectant les deux marges, mettant en évidence une érosion partielle du cortex sur la marge externe, suggérant une lésion métastatique. Aucune autre observation.
+- Scintigraphie osseuse (27/04/16) : captation intense du radiotraceur dans l'os iliaque droit à proximité de l'articulation sacro-iliaque, ce qui n'avait pas été observé lors des scintigraphies précédentes, probablement en rapport avec une métastase.
+L'étude a été prolongée par une TEP-TDM afin de déterminer si la lésion de la lame iliaque était unique ou s'il existait d'autres lésions :
+- TEP-TDM (02/05/16) : lésion osseuse mixte dans l'os iliaque droit, adjacent à l'articulation sacro-iliaque, avec destruction du cortex interne et externe, associée à une activité métabolique élevée (SUVmax 5,9 g/mL). Des condensations pulmonaires ont été observées dans le lobe supérieur droit avec une légère activité métabolique (SUV maximum 1,3 ng/mL) à corréler avec l'histoire clinique et à surveiller.
+- Biopsie osseuse (05/05/16) : métastase de carcinome compatible avec une origine mammaire.
+Immunohistochimie : ER 90% positif (HScore 180/300, Allred 7/8), RP négatif (HScore 0/300, Allred 0/8), détermination de Her2 par FISH amplifié. Ki67 35%.
+- Fevi (18/05/16) : 66%, normal.
+Compte tenu d'une première rechute de la maladie au niveau osseux avec Phénotype Luminal B/Her2 Positif, le Tamoxifène a été suspendu et un traitement de première ligne a été décidé avec Taxol hebdomadaire (80 mg/m2 IV) plus Pertuzumab (840 mg IV en dose de charge au jour +1 et 420 mg IV tous les 21 jours) et Trastuzumab (8 mg/kg IV au jour +1 et 6 mg/kg IV tous les 21 jours) tous les 21 jours.
+La patiente a commencé le premier cycle le 13/05/16, avec une tolérance adéquate et sans toxicité significative. Après le deuxième cycle, reçu le 03/06/16, la douleur référée dans la hanche droite a complètement disparu. Elle attend actuellement le troisième cycle de traitement le 24/06/16, après quoi un scanner sera réalisé pour évaluer la maladie, dans l'idée de procéder à une résection chirurgicale de la lésion osseuse pour atteindre un stade sans preuve de maladie (stade NED).

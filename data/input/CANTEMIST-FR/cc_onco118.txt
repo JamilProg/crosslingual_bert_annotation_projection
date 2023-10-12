@@ -1,0 +1,32 @@
+Anamnèse
+Un homme de 46 ans, sans antécédents médicaux particuliers, s'est présenté après 8 mois d'épisodes de fièvre et de douleurs abdominales non spécifiques qui duraient 2 à 3 jours et étaient spontanément résolutives.
+
+Examen physique
+L'examen physique ne révèle rien de particulier.
+Tests complémentaires
+"Le processus diagnostique commence, avec des données analytiques, microbiologiques, sérologiques et immunologiques dans les limites de la normale, à l'exception de la vitesse de sédimentation des érythrocytes (VS) qui se situe entre 80 et 90 mm/h.
+"Les endoscopies digestives (supérieures et inférieures) ne révèlent rien de pertinent.
+"La tomodensitométrie thoracique et abdominale a montré de multiples lésions hypointense occupant l'espace (LOE) dans le foie, qui ont fait l'objet d'une biopsie. L'anatomie pathologique a révélé des cellules compatibles avec une métastase de tumeur neuroendocrine.
+"Une scintigraphie à l'octotrope a été demandée, qui a confirmé la présence d'un foie métastatique dû à une tumeur exprimant des récepteurs de la somatostatine. Un traitement par somatuline intramusculaire (IM) mensuelle a été instauré.
+"Au cours du processus de diagnostic, une hypoglycémie clinique et analytique a été observée. L'hyperinsulinisme endogène a été confirmé par des tests de jeûne, une artériographie pancréatique et une perfusion de calcium.
+"Lors de l'échoendoscopie, une LOE a été observée dans le corps du pancréas, sur laquelle une biopsie a été effectuée, obtenant une histologie compatible avec un carcinome neuroendocrine bien différencié, avec une étude immunohistochimique positive pour NSE, chromogranine A, synaptophysine, CD56, CD57, négative pour CK7 et CK20. Indice de prolifération Ki-67 3%.
+
+Diagnostic
+Insulinome malin de stade IV (métastases osseuses, hépatiques).
+
+Traitement
+Chimioembolisation du foie à quatre reprises, sans réponse tumorale cytoréductive.
+Une laparotomie exploratrice avec pancréatectomie corporocaudale + splénectomie + lymphadénectomie a été pratiquée.
+Une transplantation hépatique a été exclue en raison de la présence de métastases osseuses à la TEP-DOPA.
+Le diagnostic d'insulinome pancréatique malin avec métastases hépatiques et osseuses ayant été posé, elle a été adressée au service d'oncologie médicale et un traitement chimiothérapeutique a été instauré à base de 5-fluorouracile et de streptozocine, avec un bénéfice clinique et un contrôle de l'hypoglycémie. Elle a reçu un total de 14 cycles.
+
+Évolution
+Après un intervalle sans progression de 5 mois, le traitement a été remplacé par le sunitinib en raison de la progression osseuse et de la toxicité rénale du traitement. Réponse hépatique partielle et réponse osseuse complète. Bonne tolérance au traitement sans toxicité de grade 2.
+
+Après un délai d'attente de 17 mois, il a de nouveau présenté des hypoglycémies répétées qui ne pouvaient pas être contrôlées en ambulatoire et une progression radiologique a été observée au niveau du foie et des os. Il a commencé un traitement au diazoxide 300 mg/24 h pour le contrôle de la glycémie et à l'évérolimus, avec une stabilisation clinique, mais après une LIP de 4 mois, il a de nouveau dû être hospitalisé en raison d'une hypoglycémie sévère et d'une nouvelle progression radiologique au niveau du foie.
+
+La ligne de chimiothérapie a été remplacée par la capécitabine-témodale, avec un bénéfice clinique et un bon contrôle de la glycémie, mais après 7 mois de traitement, une nouvelle progression hépatique radiologique a été observée. Le traitement par ces médicaments a donc été suspendu et une nouvelle chimio-embolisation hépatique en quatre étapes a été réalisée. Le patient a présenté comme complication un épisode fébrile sans foyer et sans documentation microbiologique le 7ème jour après la chimioembolisation, ce qui a nécessité son admission. Pendant cette période, le patient a présenté une hyperglycémie nécessitant une insulinothérapie.
+
+Le traitement à l'évérolimus a été réintroduit, la maladie est restée stable et l'hypoglycémie a été bien contrôlée avec du diazoxide et de la dexaméthasone, avec un intervalle sans progression de 5 mois, jusqu'à aujourd'hui.
+
+À ce moment-là, la patiente a été admise dans notre hôpital en raison d'une hypoglycémie très sévère et difficile à gérer, réfractaire aux stéroïdes à forte dose et au diazoxide, avec des besoins en glucose très élevés (400 g par jour, y compris la nutrition parentérale), nécessitant un secours continu avec une solution hypertonique de glucose à 50 %. Une nouvelle ligne de chimiothérapie à base de carboplatine et d'étoposide a été débutée pendant l'admission, avec une toxicité hématologique de grade 4 et un épisode de fièvre neutropénique, sans réponse clinique après la première dose, ce qui n'a pas permis de réduire les besoins en glucose. Le patient présente un ECOG 4 en raison d'une insuffisance hépatique progressive (altération des enzymes hépatiques, ammonium sanguin élevé et anasarque), de sorte que des mesures thérapeutiques axées sur le contrôle des symptômes sont finalement adoptées.

@@ -1,0 +1,12 @@
+T1	pathologie 90 119	tumor renal del polo inferior
+T2	pathologie 170 223	adherencias peritumorales paraaórticas y al mesocolon
+T3	pathologie 467 500	carcinoma renal de células claras
+T4	pathologie 894 924	ascitis de distribución difusa
+T5	pathologie 943 958	ascitis quilosa
+T6	pathologie 1088 1109	hipo-proteinemia leve
+#1	SNOMED T1	126880001
+#2	SNOMED T4	389026000
+#3	SNOMED T2	197197009
+#4	SNOMED T5	52985009
+#5	SNOMED T6	8900005
+#6	SNOMED T3	254915003

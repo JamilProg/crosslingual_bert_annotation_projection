@@ -1,0 +1,16 @@
+T1	pathologie 98 151	MM Ig G Kappa estadio III-A con infiltración hepática
+T2	pathologie 594 600	lesión
+T3	pathologie 668 681	oftalmoplejía
+T4	pathologie 778 792	lesiones óseas
+T5	pathologie 811 817	lesión
+T6	pathologie 1119 1176	infiltración siguió progresando por párpados y conjuntiva
+T7	pathologie 1197 1225	glaucoma agudo postrabecular
+T8	pathologie 1693 1699	ptosis
+#1	SNOMED T1	285421005
+#2	SNOMED T6	231829006+363463000
+#3	SNOMED T7	392288006
+#4	SNOMED T4	76069003
+#5	SNOMED T3	16110005
+#6	SNOMED T8	11934000
+#7	SNOMED T2	417163006
+#8	SNOMED T5	417163006

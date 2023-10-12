@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 48 ans, sans allergie médicamenteuse connue, consulte en 2005 pour une induration du sein droit évoluant depuis 1 mois et des mastodynies. Antécédents : ménarche à l'âge de 11 ans, formule menstruelle habituelle 5/28, périménopause, parité G4-P3-A1, première grossesse à l'âge de 22 ans, traitement contraceptif par éthinylestradiol pendant 5 ans, mastopathie fibrokystique avec exérèse d'un kyste bénin du sein en 2000 ; et antécédents familiaux incluant le décès de sa mère d'un cancer du sein à l'âge de 52 ans.
+
+Examen physique
+Seins : induration ovale de 20 mm dans le quadrant supérieur externe du sein droit, mal délimitée, dure, élastique, fixée à la glande et avec une discrète atrophie du tissu cellulaire sous-cutané. On n'a pas observé de rétraction du mamelon, de télorrhée ou d'altération de la peau sus-jacente. Aucun ganglion lymphatique axillaire n'était palpable.
+
+Examens complémentaires
+Échographie mammaire : nodule solide mesurant 9 x 5 mm dans le quadrant supérieur externe du sein droit. BI-RADS 4. Évaluer l'exérèse par rapport à la BAG du nodule.
+Biopsie à l'aiguille : résultats compatibles avec un carcinome infiltrant.
+
+Diagnostic
+Tumorectomie élargie avec biopsie sélective du ganglion lymphatique sentinelle et vide axillaire en cas de résultat positif. L'examen anatomopathologique montre un carcinome canalaire infiltrant (CDI) de 1 cm avec des limites tumorales infiltrantes, une réaction stromale desmoplastique, SCARF D3-P2-M2 ; et une métastase ganglionnaire sous-capsulaire dans le ganglion lymphatique sentinelle des 13 isolés. Immunohistochimie (IHC) : récepteurs d'œstrogènes (+++) ; récepteurs de progestérone (++) ; HER2 négatif.
+
+Traitement
+Pour un pT1a pN1 (1+/13), stade IIA hormono-sensible, elle a reçu une chimiothérapie adjuvante (QT) dans le cadre d'un essai clinique avec 4 cycles d'épirubicine-cyclophosphamide, suivis de 4 cycles de docétaxel ; puis une radiothérapie (RT) et du tamoxifène, jusqu'en avril 2009 où elle est passée à l'exemestane.
+
+Evolution
+En juin 2011, asymptomatique, CA15.3 à 116.6. PET-CT scan : adénopathies rétropéritonéales, multiples nodules pulmonaires bilatéraux. Fibrobronchoscopie : infiltration par un carcinome. L'IHC a révélé une légère positivité pour les récepteurs des œstrogènes (+), les récepteurs de la progestérone (-) et un Ki67 de 20 %. Elle a donc commencé un traitement pour la maladie métastatique avec de la doxorubicine liposomale pégylée et du paclitaxel dans le cadre de l'étude. Après 6 cycles, une rémission partielle et une diminution de la fraction d'éjection ventriculaire gauche (FEVG) de 35 %, les anthracyclines ont été arrêtées et le paclitaxel a été administré en monothérapie.
+En février 2012, progression hépatique. Neuropathie de grade 2 et dyspnée à l'effort modéré avec une FEVG de 30 %, elle a commencé à prendre de la vinorelbine par voie orale. Après le deuxième cycle, elle a été admise dans le service d'oncologie médicale pour une neutropénie fébrile.
+En mai 2012, une nouvelle progression de la carcinomatose péritonéale a été observée. La biopsie du foie a révélé une infiltration par un carcinome mammaire triple négatif, de sorte qu'elle a été mise sous carboplatine + gemcitabine.
+En octobre 2012, après 6 cycles, nouvelle progression de la maladie, elle a donc commencé l'éribuline. En mai 2013, après 6 cycles, la maladie était stable selon les critères RECIST, bien qu'avec une tendance à la progression en raison de la présence de liquide libre périhépatique, qui n'était pas mesurable. Elle a poursuivi le traitement.
+Elle suit actuellement 8 cycles et a été admise pour une thromboembolie pulmonaire bilatérale avec œdème pulmonaire aigu et choc cardiogénique, nécessitant des médicaments vasoactifs.

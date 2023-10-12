@@ -1,0 +1,22 @@
+T1	pathologie 64 90	adenocarcinoma de próstata
+T2	pathologie 660 692	masa quística a nivel de escroto
+T3	pathologie 780 812	quiste dependiente del epidídimo
+T4	pathologie 869 881	cistoadenoma
+T5	pathologie 1218 1273	cavidad quística que comprimía el parénquima testicular
+T6	pathologie 1341 1347	quiste
+T7	pathologie 1364 1398	teste y reveló una lesión quística
+T8	pathologie 1440 1450	ulceración
+T9	pathologie 1486 1550	parénquima testicular tenía intensos signos de atrofia, fibrosis
+T10	pathologie 1692 1717	quiste testicular benigno
+T11	pathologie 1733 1770	dilatación quística de la rete testis
+#1	SNOMED T10	767754009
+#2	SNOMED T1	399490008
+#3	SNOMED T11	109862002
+#4	SNOMED T5	767754009
+#5	SNOMED T6	441457006
+#6	SNOMED T9	60524008
+#7	SNOMED T3	43077002
+#8	SNOMED T4	20376005
+#9	SNOMED T8	429040005
+#10	SNOMED T7	767754009
+#11	SNOMED T2	49701002

@@ -1,0 +1,20 @@
+Anamnèse
+Le patient est un homme de 19 ans sans antécédents ni allergies connues. Il a été vu pour la première fois dans une clinique privée à la suite d'un traumatisme au pied droit.
+
+Examen physique
+L'examen révèle la présence d'une masse dans l'avant-pied droit qui n'entraîne aucune altération de la démarche, de la force ou de la sensibilité.
+
+Examens complémentaires
+L'IRM a montré une masse de 8,9 x 2,9 cm dans l'avant-pied, au contenu hétérogène, déplaçant les tendons extenseurs et atteignant la corticale des os adjacents sans les infiltrer. En l'absence de signes de malignité, une biopsie incisionnelle a été pratiquée et a révélé une tumeur à cellules rondes, ce qui ne permettait pas d'exclure un sarcome d'Ewing.
+
+Diagnostic
+Sur la base de ce diagnostic, une amputation infracondylienne de la jambe droite a été réalisée en mars 2015, avec pour résultat un sarcome indifférencié pT1a pNX pMX.
+
+Traitement
+Il a été traité par une chimiothérapie adjuvante (4 cycles) à base de doxorubicine et d'ifosfamide, achevée en août 2015, et a ensuite subi des examens de contrôle.
+
+Évolution
+En janvier 2016, il a été mis en évidence une récidive pulmonaire multiple (4 nodules pulmonaires) traitée par chirurgie. Entre avril 2016 et novembre 2017, le patient a subi plusieurs résections pulmonaires atypiques, toutes compatibles avec des métastases pulmonaires de sarcome.
+En janvier 2018, au scanner de contrôle, apparaissent une masse de 30 mm adjacente aux sutures du lobe supérieur gauche, un implant paratrachéal droit (25 x 35 mm) et une masse sous-carénaire (43 x 27 mm), ainsi qu'un épaississement de la plèvre postérieure. À l'époque, le cancer était considéré comme non résécable et un traitement a été envisagé dans le cadre de l'essai clinique GEIS 52, avec l'association de sunitinib et de nivolumab. Dans le cadre de l'essai clinique, l'échantillon pathologique a été examiné par séquençage de nouvelle génération (NGS) et la fusion du gène BCOR-CCNB3 a été identifiée.
+Pendant le traitement, la patiente a présenté une réponse non RECIST au traitement, sans modification de la taille de la lésion, mais avec une diminution du rehaussement après l'administration d'un produit de contraste.
+Après 8 mois d'essai clinique, il a progressé vers les niveaux pulmonaire, subcarinal et paratrachéal. Le patient a alors commencé une chimiothérapie de deuxième ligne avec VAC-IE (vincristine 2 mg/m2 jour 1), doxorubicine (adriamycine ; 75 mg/m2) et cyclophosphamide avec mesna (1 200 mg/m2 jour 1), en alternance avec ifosfamide et mesna (1.800 mg/m2 jours 1-5) et étoposide (100 mg/m2) toutes les 3 semaines, complétant 7 cycles (2 en alternance et 5 IE exclusivement), le dernier en mars 2019 avec une réponse partielle selon les critères RECIST comme meilleure réponse et maintenue jusqu'à présent. Il ne restait qu'une lésion résiduelle de 19 x 27 mm subcarinale para-œsophagienne, qui a été réséquée le 22 mai 2019, l'anatomie pathologique étant négative pour la malignité, avec des constatations uniquement de réaction xanthomateuse et de nécrose, avec une réponse tumorale complète dans le tissu analysé, sans aucune preuve de malignité.

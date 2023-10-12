@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 77 ans avec des antécédents personnels de dyslipidémie, de hernie discale non opérée et sans antécédent de cryptorchidie.
+Il a consulté son médecin traitant pour une hypertrophie du scrotum datant de 6 mois.
+L'hypertrophie était progressive et asymétrique. Il n'y avait pas de fièvre ni d'augmentation de la température scrotale.
+Le patient a été adressé au service d'urologie pour des examens complémentaires. Une échographie du scrotum a montré une lésion solide, hypoéchogène et bien définie, bien que la capsule ne soit pas délimitée, ces résultats évoquant une lésion tumorale solide maligne. Le patient a subi une orchidectomie inguinale droite sans incident.
+ 
+Examen physique
+ECOG 0. Hémodynamiquement stable et afébrile. L'examen physique par appareil est sans particularité. Aucune adénopathie sus-claviculaire, axillaire ou inguinale n'était palpable. Aucune gynécomastie n'a été observée. La cicatrice d'orchidectomie inguinale droite était récente mais sans signe de complication.
+
+Examens complémentaires
+"CT scan d'extension du thorax, de l'abdomen et du bassin : dans le médiastin et les régions hilaires, plusieurs images nodulaires ont été observées, la plupart subcentimétriques, suggérant de petites adénopathies non spécifiques, dont une légèrement plus grande qu'un centimètre dans la région paratrachéale droite.
+"Dans l'abdomen, d'abondantes adénopathies rétropéritonéales de taille significative ont été observées dans les groupes inter-aortocaves, postérieurs à la veine cave inférieure, para-aortiques gauches, ainsi que dans la bifurcation aorto-iliaque, ce qui est compatible avec des adénopathies métastatiques.
+"Extension PET-CT scan réalisée pour caractériser les adénopathies de signification incertaine observées au CT : une lésion intensément hypermétabolique évocatrice de malignité a été observée dans l'espace supraclaviculaire. Dans le thorax, de multiples adénopathies médiastinales et hilaires ont été observées, discrètement hypermétaboliques et non évocatrices de malignité. Dans l'abdomen et le bassin, les résultats de la tomodensitométrie ont été confirmés, avec de multiples adénopathies hypermétaboliques évoquant une tumeur maligne au niveau rétropéritonéal.
+"Hémogramme : pas d'altération.
+"Biochimie : pas d'altération du profil rénal, hépatique et lipidique. La LDH, l'AFP et la bêta-HCG effectuées avant l'opération étaient dans les limites de la normale.
+"Anatomie pathologique de l'orchidectomie inguinale droite : tumeur maligne des cordons sexuels / stroma gonadique (OMS 2004) avec des composants tumoraux à cellules de Sertoli, stroma gonadique peu différencié et zones de morphologie suggérant des composants tumoraux à cellules de la granulosa. La malignité est mise en évidence par la taille (plus de 5 cm), la nécrose, le comportement infiltrant de l'albuginée, de la paroi testiculaire, de l'épididyme et du cordon spermatique, la perméation vasculaire dans la tunique vasculaire et un indice de prolifération élevé.
+
+Diagnostic
+Tumeur du cordon sexuel/stroma gonadique malin (OMS 2004) pT3 cN1 cM1a S0, stade IIIA.
+
+Traitement
+Le cas a été présenté au comité multidisciplinaire pour les tumeurs génito-urinaires et il a été décidé de commencer un traitement de polychimiothérapie de première ligne selon le schéma TIP (paclitaxel, ifosfamide, cisplatine).
+
+Évolution
+Après avoir effectué 6 cycles de traitement par chimiothérapie selon le schéma TIP d'octobre 2014 à février 2015, une réponse clinique partielle a été observée. Les toxicités étaient une asthénie de grade 1, des vomissements de grade 1 et une neuropathie de grade 1.
+Au scanner de juillet 2015, une progression adénopathique a été observée au niveau rétropéritonéal, pour laquelle il a bénéficié d'une deuxième ligne de traitement avec 6 cycles de carboplatine et paclitaxel. Il a présenté une asthénie de grade 1 et en raison d'une neuropathie de grade 3, le paclitaxel a été arrêté après le troisième cycle.
+En février 2016, un nouveau scanner de réévaluation a été réalisé et une scintigraphie osseuse a également été demandée en raison d'une gêne lombaire. La tomodensitométrie a montré une nouvelle progression des ganglions lymphatiques et la scintigraphie osseuse a indirectement montré une lésion ostéolytique à L5. En mars 2016, elle a été orientée vers une radiothérapie analgésique, recevant une dose totale de 3000cGy fractionnée en 10 séances. Après avoir terminé le traitement de radiothérapie, en avril 2016, il a commencé un troisième traitement de chimiothérapie avec du cisplatine associé à de l'étoposide pendant 5 jours tous les 21 jours.
+Actuellement, le patient a reçu 3 cycles de traitement par cisplatine et étoposide avec une tolérance acceptable et n'a présenté qu'une asthénie de grade 1 comme seule toxicité. Un scanner de réévaluation a été demandé et est en attente.

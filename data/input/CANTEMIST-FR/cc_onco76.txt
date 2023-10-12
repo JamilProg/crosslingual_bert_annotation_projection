@@ -1,0 +1,43 @@
+Anamnèse
+Homme de 32 ans ayant des antécédents de cholélithiase récurrente. Aucune habitude toxique. Cholécystectomie par laparoscopie. Aucun autre antécédent.
+
+Elle consulte aux urgences en juin 2014 pour un tableau clinique de 2 mois de dysphagie progressive, principalement pour les solides, associée à une dyspnée à l'effort depuis 15 jours.
+
+Examen physique
+ECOG 0. Hémodynamiquement stable. Eupnéique. Masse sus-sternale d'environ 10 cm de diamètre. Stridor à l'auscultation trachéale. Pas de pléthore ni de signes cliniques de syndrome de la veine cave supérieure. Laryngoscopie indirecte réalisée aux urgences : pas d'altération. Auscultation cardiaque : normale. Auscultation pulmonaire : rhonchi épars. Abdomen et extrémités : pas d'altération.
+
+Tests complémentaires
+Pendant l'étude dans les services d'urgence, de réanimation et d'hématologie :
+" Radiographie thoracique (5/6/2014) : élargissement médiastinal supérieur.
+" Tomodensitométrie (5/6/2014) : masse cervicothoracique mesurant 11 x 16 x 5 cm. Elle occupe le médiastin antérieur et se situe sous la thyroïde avec laquelle elle n'a pas de rapport. La masse déplace et comprime la lumière trachéale qui a un diamètre minimum de 4 mm. Impression de la veine cave supérieure avec une abondante circulation collatérale veineuse dans la musculature paravertébrale. Aucune métastase pulmonaire ou adénopathie rétropéritonéale n'est mise en évidence.
+"BAG de la masse médiastinale (5/6/2014) : AP de tumeur germinale : séminome.
+" Immunohistochimie (IHQ) :
+- Oct-4, D2-40, C-Kit et PLAP : positifs dans les cellules tumorales.
+- CD-20 et CD79a : positifs dans les lymphocytes B.
+- CD3 : positif dans la population lymphoïde B.
+- CD30, CD138, EMA, AE1/AE3 et alpha-fœtoprotéine : négatifs.
+
+Avec ces résultats, il a été transféré au service d'oncologie médicale le 10/6/2014 pour une étude plus approfondie :
+" Echographie testiculaire (11/6/2014) : les deux testicules sont homogènes et avec une vascularisation normale.
+Kyste simple de 2 cm dans la tête de l'épididyme droit.
+" Épreuves fonctionnelles respiratoires : schéma ventilatoire obstructif sévère/très sévère avec amputation de la courbe débit/volume inspiratoire et expiratoire compatible avec une obstruction trachéale fixée déjà connue par la tomodensitométrie. Test aux bronchodilatateurs (+).
+" NFS (11/6/2014) : plaquettes 305 000, leucocytes 16 200 (neutrophiles 13 400), LDH 653 UI/l, glucose, urée, créatinine, sodium, potassium dans les limites de la normale. Alpha-fœtoprotéine (11/6/2014) 1 431, bêta-HCG (12/6/2014) 901,7, acide urique, ferritine, acide folique, vitamine B12, bêta-2 microglobuline, hormones thyroïdiennes, anticorps anti-thyroïdiens TP et anticorps anti-thyroglobuline dans les valeurs normales. Sérologie VHB, VHC et VIH négative. Coagulation : normale, fibrinogène 509.
+
+Diagnostic
+Tumeur germinale extragonadique médiastinale mixte. Mauvais pronostic selon la classification IGCCCG.
+
+Traitement
+Le diagnostic de tumeur germinale mixte extragonadique ayant été posé, le premier cycle de chimiothérapie à visée radicale a été entamé selon le schéma conventionnel BEP (bléomycine 30 UI jours 1, 8, 15 + étoposide 100 mg/m2 jours 1-5 + CDDP 20 mg/m2 jours 1-5/21 jours x 4 cycles). Un traitement à l'allopurinol a été instauré pour prévenir le syndrome de lyse tumorale.
+
+Évolution
+Après quatre cycles, une réévaluation TAP CT scan a été réalisée le 24/9/2014, montrant une réponse partielle, de sorte que le cas a été présenté au comité de chirurgie thoracique le 9/10/2014, rejetant le traitement chirurgical de la masse médiastinale résiduelle en raison du risque chirurgical élevé par rapport à l'infiltration tumorale suspectée au niveau de la trachée et des deux troncs brachio-céphaliques.
+
+Le 14 octobre 2014, un scanner PET-CT a été réalisé et il a été observé que la masse cervicothoracique antérieure présentait une activité métabolique nettement irrégulière, avec des zones sans activité métabolique et des zones d'hypermétabolisme élevé (SUV maximal de 9,5).
+
+Ainsi, en cas de diagnostic d'une tumeur non résécable avec une forte captation TEP, une chimiothérapie est proposée selon le schéma TIP.
+
+Le 16/10/2014, en consultation, la patiente a présenté une augmentation de la taille de la masse au niveau supraclaviculaire, décidant de demander un second avis dans un autre centre, où la tumeur a été considérée comme résécable. Le 6/11/2014, une résection macroscopique complète a été réalisée (AP : lésion résiduelle de tératome malin, avec la présence de zones de dysplasie épithéliale sévère et au moins un foyer limité de transformation carcinomateuse possible. IHC : positivité intense pour la cytokératine AE3/AE1, Ki-67% dans les zones les plus matures. Positif pour le CEA. AFT légèrement positif dans l'ensemble de l'épithélium).
+
+Lors de la révision de la tomodensitométrie après l'opération, on observe une diminution significative de l'atteinte du médiastin antérieur précardiaque, ainsi que de l'atteinte de la veine cave supérieure.
+
+Comme il n'y a pas de tumeur germinale résiduelle viable, la patiente ne nécessite pas de chimiothérapie complémentaire et fait actuellement l'objet d'un suivi rigoureux dans notre centre.

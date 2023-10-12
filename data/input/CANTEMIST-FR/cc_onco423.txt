@@ -1,0 +1,32 @@
+Anamnèse
+Nous présentons le cas d'une femme de 70 ans, avec comme seul antécédent personnel une hypertension artérielle et une dyslipidémie sous traitement, qui est diagnostiquée en avril 2018 suite à un tableau de métrorragies d'une tumeur mixte de l'endomètre müllérien sans invasion myométriale profonde ni adénopathies significatives.
+Après avoir réalisé un bilan d'extension par scanner thoraco-abdomino-pelvien, qui s'est révélé négatif, une chirurgie laparoscopique a été réalisée, consistant en une hystérectomie totale et une double annexectomie, une lymphadénectomie pelvienne bilatérale, une omentectomie et un lavage péritonéal. Selon le rapport pathologique final, il s'agissait d'une tumeur müllérienne mixte de stade IB avec 90 % de sarcome de haut grade à différenciation rhabdomyoblastique et 10 % de carcinome séreux de haut grade avec cytoréduction complète.
+Suite à ce diagnostic, la patiente a été adressée à notre clinique où il lui a été proposé de participer à un essai clinique ajoutant une chimiothérapie adjuvante à base de carboplatine-paclitaxel au traitement standard de radiothérapie. La patiente refuse de participer à l'essai car elle ne souhaite pas recevoir de chimiothérapie.
+La patiente a effectué le suivi habituel jusqu'à ce que, en décembre 2018, un scanner de réévaluation révèle une rechute au niveau péritonéal et ganglionnaire avec des adénopathies pathologiques dans la chaîne iliaque externe gauche. À ce moment-là, elle a commencé un traitement de première intention pour un cancer de l'endomètre avancé avec du carboplatine AUC-5 et du paclitaxel 175 mg/m2.
+Après deux cycles, un nouveau scanner a été réalisé et a montré une progression péritonéale et ganglionnaire.
+Il a alors été proposé de débuter une seconde ligne avec de l'ifosfamide 3 g les jours 1-3 tous les 21 jours, à partir du 15/04/2019.
+
+Dernière anamnèse
+Le 17 avril, après avoir terminé la troisième dose du premier cycle d'ifosfamide, nous avons été prévenus par l'hôpital de jour car la patiente signalait des troubles visuels sous forme d'hallucinose, de vertiges et de nausées.
+
+Examen physique
+"Neurologique : aucun signe d'irritation méningée, discours fluide. Nerfs crâniens préservés. Force et sensibilité des membres supérieurs et inférieurs préservées. Réflexe cutané fléchisseur plantaire bilatéral. Pas de dysmétrie ni de dysdiadochokinésie. Pas de nystagmus. Démarche avec légère augmentation de la base d'appui.
+"Auscultation cardio-pulmonaire : rythmée, sans souffle, avec un souffle vésiculaire préservé et sans autres bruits superposés.
+"Le reste de l'examen physique était sans particularité.
+
+Examens complémentaires
+"Bilan sanguin : fonction rénale préservée, ions dans les limites, albumine 2,5, bilirubine totale 0,55, GOT 44, GPT 25, GGT 117, LDH 867, FA 89. PCR 36, PCT 0,20. Hémogramme sans altération.
+"Hémostase avec INR 0,99.
+"Urine de base : normale, pas de signe d'infection.
+"CT crânien avec contraste iv : bonne différenciation cortico-sous-corticale. Aucun signe de pathologie intracrânienne aiguë.
+"Etude du liquide céphalo-rachidien : Aspect normal. Leucocytes 0, globules rouges 1, glycosurie 64 mg/dl, protéinurie 36,4.
+"Culture du liquide céphalo-rachidien : coloration de Gram négative.
+
+Diagnostic
+Encéphalopathie aiguë due à l'ifosfamide.
+
+Traitement
+Commencer le traitement avec du bleu de méthylène iv toutes les 4 heures et de la thiamine iv pendant 3 jours.
+
+Évolution
+Après l'arrêt de la perfusion d'ifosfamide et l'instauration du bleu de méthylène, le patient a connu une amélioration clinique très significative, bien que les hallucinations aient persisté pendant plus de 48 heures. Au bout de 72 heures, le tableau avait complètement disparu. À la sortie de l'hôpital, le traitement à la thiamine a été poursuivi pendant une semaine supplémentaire jusqu'à ce que la patiente soit revue à la clinique externe. Là, il a été décidé d'interrompre le traitement à l'ifosfamide et de poursuivre la monothérapie à l'adriamycine.

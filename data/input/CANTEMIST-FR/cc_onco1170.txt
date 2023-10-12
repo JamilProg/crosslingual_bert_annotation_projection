@@ -1,0 +1,43 @@
+Anamnèse
+Patient âgé de 52 ans, ex-fumeur depuis 6 ans, 20 paquets/an, sans autres antécédents médicaux ou familiaux intéressants que le sinus pilonidal. Ouvrier du bâtiment, marié sans enfant.
+Antécédents oncologiques : depuis 2000, il présente un kyste pilonidal qui a donné lieu à plusieurs opérations (fistulectomies). À partir de 2004, il a présenté une zone sacrée sans épithélialisation, avec des exsudats périodiques nécessitant un traitement régulier.
+Huit ans plus tard, en août 2012, est apparue une lésion excroissante multilobulée et fistulisée de 10 cm de diamètre, touchant le plan profond (jusqu'à l'os sacré). Une biopsie de la zone a été réalisée, positive pour un carcinome épidermoïde. Le patient a été adressé à notre centre pour compléter l'étude et évaluer le traitement définitif.
+
+Examen physique
+Bon état général. ECOG 1 (par rapport aux symptômes locaux).
+Lésion exsudative multilobulée décrite au niveau coccygien en contact avec le plan osseux sacré.
+Pas d'adénopathie inguinale palpable.
+Pas d'adénopathie sus-claviculaire.
+Auscultation cardio-respiratoire : rythmée, sans souffle ni frottement. Bon murmure vésiculaire.
+Abdomen : souple, dépressible, non douloureux à la palpation, péristaltisme conservé.
+Pas d'œdème aux membres inférieurs, pouls présents.
+
+Tests complémentaires
+- Analyses sanguines (2/2012) : Biochimie : normale. CRP 102. Numération sanguine : hémoglobine 11,2 g/dl. Leucocytes 12 900 (9 000 neutrophiles). Plaquettes 388 000. Marqueurs tumoraux : SCC 43,4. Le reste est normal (CEA normal).
+- TDM thoraco-abdomino-pelvienne et ostéo-articulaire (22/2/2013) : masse au niveau du sacrum avec adénopathie au niveau de la chaîne iliaque interne droite et ganglions lymphatiques rétropéritonéaux de taille à la limite supérieure de la normalité. Nodule pulmonaire non spécifique de 4 mm, à surveiller.
+- IRM complète du rachis (25/2/2013) : tumeur agressive au niveau du sacrum, de 10 cm de diamètre transversal et craniocaudal et de 5,5 cm de diamètre antéropostérieur. Sa limite crânienne est S2, avec occupation complète du foramen gauche S2-S3 et partielle du foramen droit. Caudalement à S2, tous les foramens neuraux sont touchés.
+La limite latérale se situe au niveau des articulations sacro-iliaques, sans atteinte apparente de l'interligne articulaire, avec une extension aux deux muscles pyramidaux, plus importante du côté gauche, et aux deux muscles grands fessiers.
+Plus caudalement, elle s'étend aux deux ligaments sacro-épineux et aux deux muscles releveurs de l'anus (de façon plus évidente du côté gauche), et entre en contact avec la paroi postérieure du rectum et du canal anal, sans signes clairs d'infiltration.
+De petites collections peuvent être observées à l'intérieur de la masse, qui peuvent être purulentes ou dues à une nécrose tumorale. Sur la ligne médiane de la partie la plus caudale, on observe une collection linéaire communiquant avec la peau.
+Diagnostic : tumeur agressive du sacrum que l'imagerie ne permet pas de distinguer d'un néoplasme malin ou d'une ostéomyélite avec inflammation importante des tissus mous adjacents. Les deux étiologies peuvent également coexister.
+La lésion infiltre l'ensemble du sacrum caudal jusqu'à S2, les muscles pyramidaux et fessiers et les muscles releveurs de l'anus.
+- TEP-TDM (21/3/2013) : masse importante avec densité des tissus mous, hypermétabolique sur la TEP (SUV max. 16,69) de localisation présacrée, avec extension au sacrum, à la musculature fessière et à la région cutanée adjacente (interglutéale et lombaire).
+L'atteinte de la paroi postérieure du rectum est plus douteuse. Ces observations sont évocatrices d'une néoplasie primaire.
+Deux ganglions hypermétaboliques dans le promontoire droit (SUV max. 2,6) doivent être examinés.
+
+Diagnostic
+Carcinome épidermoïde localement avancé sur le sinus pilonidal (invasion et destruction du sacrum).
+
+Traitement
+Chimioradiothérapie concomitante (cisplatine 75 mg/m2 jour 1 + 5-fluorouracile 3 750 mg/m2 dose totale du cycle, répartie entre les jours 1 à 5) à visée néoadjuvante et récupération chirurgicale ultérieure par exantération pelvienne.
+
+Évolution
+Mars 2013 : avec le diagnostic de " carcinome épidermoïde localement avancé sur sinus pilonidal (invasion et destruction sacrée) ", il a été discuté au sein du Comité des tumeurs du rachis et, compte tenu de la non résécabilité initiale, il a été décidé d'envisager une chimioradiothérapie concomitante (cisplatine 75 mg/m2 jour 1 + 5-fluorouracile 3 750 mg/m2 dose totale du cycle pour les jours 1 à 5) en intention néoadjuvante et l'évaluation ultérieure d'un sauvetage chirurgical en fonction de la situation clinique et de la réponse.
+Après le premier cycle de chimiothérapie (une antibioprophylaxie par lévofloxacine a été administrée), il a été admis pour une septicémie du foyer cutané et respiratoire. Il a dû recevoir une transfusion de concentré de globules rouges en raison d'une hémorragie tumorale. Il a été décidé d'administrer un deuxième cycle avec une réduction de la dose à 80 % avant la chimioradiothérapie.
+Entre mai et juin 2013, elle a reçu une radiothérapie du lit tumoral et de la zone pré-sacrée jusqu'à 55,8 Gy, concomitante à deux cycles supplémentaires de chimiothérapie à 75 %.
+L'évaluation clinique et radiologique à la fin du traitement ayant montré une réponse partielle, il a été décidé de procéder à un sauvetage chirurgical.
+Septembre 2013 : une excision radicale (sacrectomie subtotale plus résection sigmoïdienne distale avec péritonisation et colostomie terminale) a été réalisée. La pièce opératoire a été envoyée à l'anatomopathologie, montrant une réponse pathologique complète (changements post-chimioradiothérapie sans carcinome résiduel).
+Octobre/novembre/décembre 2013 : période postopératoire complexe de 2 à 3 mois, marquée par une déhiscence de la plaie et une ostéomyélite traitée par antibiothérapie. Un débridement de l'ulcère sacré avec lambeau par la chirurgie plastique a également été nécessaire. Par la suite, il y a eu une déhiscence du lambeau et une fistule vésicale nécessitant un cathétérisme. Un débridement supplémentaire de la déhiscence sacrée et abdominale est effectué. La plaie abdominale nécessite un traitement par pression négative et des pansements quotidiens.
+Il a été évalué dans l'unité de réadaptation en raison d'un déficit neurologique, et des séances de kinésithérapie assistée ont été prescrites pour améliorer la capacité fonctionnelle et la mobilisation active de la région.
+Avril 2014 : Par la suite, il a continué à recevoir des examens à l'unité de la colonne vertébrale, à l'oncologie médicale, à la chirurgie plastique et à l'unité de réadaptation. Il est actuellement indemne de maladie (IRM + tomodensitométrie du thorax-abdomen-pelvis).
+Elle a un statut de performance II. Il a pris du poids, n'a pas de symptômes constitutionnels, poursuit une rééducation active, peut à nouveau se déplacer avec une assistance et la sonde urinaire a été retirée.

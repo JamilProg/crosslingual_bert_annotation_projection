@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 26 ans, trompettiste de profession, sans antécédents médicaux ou chirurgicaux intéressants, qui a consulté parce qu'il souffrait depuis quelques semaines de céphalées et d'un manque de concentration avec une diplopie occasionnelle, sans signaler d'autres symptômes.
+
+Examen physique
+L'examen physique en général et l'examen neurologique en particulier ne révèlent rien de significatif.
+
+Tests complémentaires
+"Les examens de laboratoire habituels étaient normaux.
+"L'examen du fond d'œil a révélé un œdème papillaire bilatéral, de sorte qu'une tomodensitométrie crânienne a été demandée, montrant une tumeur solide dans le lobe frontal gauche mesurant environ 8 x 6 cm avec des zones kystiques internes et un œdème vasogénique, avec une légère prise de contraste et un déplacement de la ligne médiane, qui a à son tour envahi la région sous-falciforme contralatérale.
+
+Diagnostic
+Compte tenu de la suspicion de glioblastome, une craniotomie frontale gauche a été pratiquée le 1/7/2008 avec excision subtotale de la lésion. La période postopératoire s'est déroulée sans incident, avec une évolution favorable sous traitement à la dexaméthasone et au valproate. Le rapport d'anatomopathologie décrit une tumeur très cellulaire avec un haut degré de pléomorphisme nucléaire, très vascularisée et avec des foyers de nécrose, présentant une positivité pour la protéine acide fibrillaire gliale et un indice de prolifération de 8 %, diagnostiquée comme un glioblastome multiforme.
+
+Traitement
+Entre le 23/7/2008 et le 3/9/2008, la patiente a reçu une radiothérapie avec chimiothérapie concomitante, temozolomide 75 mg/m2/jour, présentant comme toxicité aiguë une hypertension intracrânienne, une dermatite de grade 1-2 et une alopécie de grade 4 dans la zone traitée. Elle a ensuite reçu un traitement au témozolomide (360 mg/jour par voie orale pendant 5 jours toutes les 4 semaines), avec une réponse complète et une bonne tolérance, présentant comme seuls effets indésirables une lymphopénie de grade 1 sans infections associées, des nausées et une constipation occasionnelle.
+
+Évolution
+Le patient est resté asymptomatique, sans maladie et avec une bonne qualité de vie pendant 7 ans ; en fait, en août 2013, il a commencé à travailler comme professeur de musique. Au cours de ces années, il n'a fréquenté le service des urgences qu'à deux reprises pour des crises d'épilepsie, nécessitant un réajustement de la dose de médicaments antiépileptiques, sans nécessiter d'hospitalisation. Compte tenu de cette bonne évolution, l'échantillon de tissu néoplasique a été réévalué par un second pathologiste qui a confirmé qu'il s'agissait bien d'un glioblastome multiforme et une étude moléculaire de la tumeur a été demandée, qui a montré une hyperméthylation du promoteur du gène MGMT (MLPA ME011-B1), IDH 1 de type sauvage, IDH 2 muté p.Arg172Ser, Ki 67 10 % et p53 90 %.
+
+Le 13/1/2015, après le 74ème cycle de chimiothérapie, et le patient étant asymptomatique, une augmentation mal définie de la prise de contraste dans le parenchyme cérébral frontal gauche postérieur au site chirurgical a été observée dans l'IRM de contrôle, suggérant une récidive de la tumeur comme première possibilité diagnostique. Une IRM-spectroscopie a été réalisée, confirmant les soupçons, et le 26/2/2015, une nouvelle craniotomie a été pratiquée avec excision de la lésion. Le rapport pathologique a confirmé qu'il s'agissait d'un glioblastome multiforme récurrent.
+
+Deux semaines après la seconde opération, le patient a présenté de la fièvre et une tumeur sous-cutanée au niveau frontal gauche, une collection de liquide, qui a été drainée et il a reçu un traitement antibiotique prophylactique. Les études microbiologiques ont exclu toute infection, ce qui a permis de diagnostiquer une fistule post-chirurgicale du liquide céphalo-rachidien.
+
+Lors du dernier contrôle en avril 2015, le patient est asymptomatique, avec une IRM montrant des changements post-chirurgicaux dans la région frontale gauche, sans preuve de lésion active à l'heure actuelle.

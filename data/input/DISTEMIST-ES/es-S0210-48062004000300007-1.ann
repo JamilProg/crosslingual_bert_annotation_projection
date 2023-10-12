@@ -1,0 +1,20 @@
+T1	pathologie 46 65	artritis reumatoide
+T2	pathologie 134 151	diarreico crónico
+T3	pathologie 309 354	perforación iatrogénica del colon descendente
+T4	pathologie 443 465	perforación intestinal
+T5	pathologie 1120 1131	anemización
+T6	pathologie 2247 2285	patología del tracto urinario superior
+T7	pathologie 2475 2481	lesión
+T8	pathologie 2659 2672	tumor vesical
+T9	pathologie 2726 2732	lesión
+T10	pathologie 3425 3455	amiloidosis vesical secundaria
+#1	SNOMED T1	69896004
+#2	SNOMED T2	236071009
+#3	SNOMED T3	50257008
+#4	SNOMED T8	126885006
+#5	SNOMED T4	56905009
+#6	SNOMED T5	271737000
+#7	SNOMED T10	281034005
+#8	SNOMED T6	41368006
+#9	SNOMED T7	417163006
+#10	SNOMED T9	417163006

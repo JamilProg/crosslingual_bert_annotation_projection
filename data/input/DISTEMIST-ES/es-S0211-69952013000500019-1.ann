@@ -1,0 +1,28 @@
+T1	pathologie 49 69	hepatitis alcohólica
+T2	pathologie 107 125	síndrome nefrótico
+T3	pathologie 144 163	insuficiencia renal
+T4	pathologie 247 260	hepatomegalia
+T5	pathologie 263 309	lesiones purpúricas en los miembros inferiores
+T6	pathologie 974 994	GNMP asociada al VHC
+T7	pathologie 1189 1206	cirrosis hepática
+T8	pathologie 1517 1556	pericarditis aguda con presencia de VHC
+T9	pathologie 1563 1582	líquido pericárdico
+T10	pathologie 1790 1837	artritis inflamatoria de grandes articulaciones
+T11	pathologie 2009 2039	insuficiencia renal progresiva
+T12	pathologie 2167 2197	hemorragia cerebral espontánea
+T13	pathologie 2277 2285	enolismo
+T14	pathologie 3443 3481	GN mesangial IgA de novo en el injerto
+#1	SNOMED T1	235875008
+#2	SNOMED T2	52254009
+#3	SNOMED T3	723188008
+#4	SNOMED T5	284078000
+#5	SNOMED T6	80321008+50711007
+#6	SNOMED T7	19943007
+#7	SNOMED T8	15555002+50711007
+#8	SNOMED T10	250129007
+#9	SNOMED T11	425369003
+#10	SNOMED T12	291571000119106
+#11	SNOMED T13	7200002
+#12	SNOMED T14	80321008
+#13	SNOMED T9	34429004
+#14	SNOMED T4	80515008

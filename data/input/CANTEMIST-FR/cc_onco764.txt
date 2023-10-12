@@ -1,0 +1,37 @@
+Anamnèse
+Homme de 56 ans, sans allergie médicamenteuse connue, soudeur. Fumeur actif (IPA : 35). Antécédents personnels : dyslipidémie sous traitement diététique.
+Antécédents oncologiques
+Diagnostiqué en juin 2011, en raison d'une vision trouble, d'un mélanome choroïdien dans l'œil droit (OD) qui a été traité par résection intraoculaire chirurgicale de l'OD suivie d'une curiethérapie adjuvante qui s'est achevée en octobre 2011.
+Le 27/02/2014, il a présenté une récidive locale qui a nécessité l'énucléation de l'œil droit, avec des résultats anatomopathologiques : mélanome choroïdien de 0,9 cm de diamètre. BRAF non muté.
+En février/2017, lors du suivi, la tomodensitométrie a montré : LOE sous-capsulaire segment VII-VIII, 20 mm de diamètre, suggérant une maladie métastatique. L'étude a été complétée par une IRM hépatique qui a montré une lésion focale du segment VIII-VII de 20 mm sous-capsulaire, hypointense en T1 et hyperintense en T2, évoquant une métastase et 3 autres lésions dans le lobe hépatique droit. La TEP/TDM a confirmé ces résultats et a montré une activité métabolique sur une lésion sous-capsulaire de 24 mm, sans signe d'adénomégalie et/ou d'atteinte viscérale à un autre niveau. Une biopsie a été pratiquée sur la lésion du segment VII, avec des résultats compatibles avec une infiltration diffuse de mélanome (HMB45+, Melan A, Ki67 15 %).
+Le cas a été évalué par le Comité multidisciplinaire et, compte tenu de l'existence de plusieurs lésions hépatiques non résécables, un traitement chirurgical a été exclu.
+Le 7/07/2017, il a commencé un traitement systémique de première intention par pembrolizumab à la dose de 2 mg/kg c/21jours, administrant un total de 8 cycles (dernier reçu le 1/12/2017) et obtenant une stabilisation de la maladie hépatique par tomodensitométrie comme meilleure réponse.
+Maladie actuelle
+Elle s'est présentée aux urgences le 7/12/2017 en raison d'acouphènes et de paresthésies dans la partie gauche du corps qui évoluaient depuis une semaine.
+
+Examen physique
+ECOG 0. Conscient, orienté dans les trois sphères, réceptif, eupnéique au repos. Couleur normale. Non hydraté. Bon état général.
+Examen neurologique : fonctions supérieures préservées, pupilles isochores normoréactives, pas de nystagmus, pas d'altération des nerfs crâniens ; force et sensibilité symétriques et préservées.
+
+Examens complémentaires
+" Otoscopie (7/12/2017) : aucun résultat pertinent.
+" Examens généraux de laboratoire (7/12/2017) : biochimie, hémogramme et coagulation sans altérations.
+" Tomodensitométrie cranioencéphalique urgente (7/12/2017) : hypodensité digitiforme temporobasale droite qui, bien qu'elle ne présente pas de prise de contraste claire, dans le contexte du patient pourrait être compatible avec une maladie secondaire.
+
+Diagnostic
+"Hypodensité temporo-basale droite compatible avec une lésion secondaire.
+"Mélanome choroïdien avancé non muté BRAF.
+
+Traitement
+Le patient est admis dans le service pour investigation et un traitement par corticostéroïdes à la dose de 1 mg/kg/jour de prednisone par voie orale est mis en place.
+
+Développements
+L'étude a été complétée par :
+" IRM cérébrale (13/12/2017) : hyperintensité au niveau cortical temporal profond droit avec atteinte insulaire postérieure et substance molle sous-jacente montrant une restriction modérée de la diffusion de l'eau. Aucune zone claire de rehaussement intraparenchymateux anormal n'est évidente, bien qu'il y ait une irrégularité claire dans la zone temporale droite, dont les résultats pourraient être liés à une encéphalite dans le contexte d'un syndrome paranéoplasique, d'un processus vasculaire ou d'un état épileptique.
+" EEG (14/12/2017) : tracé dépourvu de figures électrographiques pertinentes.
+"CT thoraco-abdominal (14/12/2017) : multiples lésions hépatiques hypodenses sans changements pertinents. Maladie stable.Ponction lombaire (15/12/2017) : l'étude biochimique a montré une pléiocytose lymphocytaire avec étude microbiologique du LCR : pas de résultats. La cytologie du LCR est négative pour la malignité.
+Le patient a évolué favorablement avec une rémission clinique des symptômes neurologiques 48-72 heures après l'admission, et une réduction progressive de la dose de corticoïde a pu être réalisée avec une bonne tolérance.
+Après un mois, une IRM cérébrale de contrôle a été réalisée, qui a montré une résolution de l'altération du signal dans le parenchyme.
+Étant donné que la découverte d'une encéphalite lors des examens d'imagerie et que les symptômes neurologiques ont complètement disparu après l'arrêt du traitement par pembrolizumab et l'administration de corticostéroïdes systémiques, ils ont été interprétés comme une toxicité de grade 4 liée au système immunitaire.
+Le traitement par l'inhibiteur de PD-L1 a été définitivement interrompu et un traitement dégressif par prednisone orale a été poursuivi pendant un mois jusqu'à son arrêt.
+À l'heure actuelle, il est asymptomatique et la maladie s'est stabilisée aux examens tomodensitométriques habituels.

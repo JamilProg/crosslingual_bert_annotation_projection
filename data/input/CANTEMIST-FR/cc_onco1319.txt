@@ -1,0 +1,24 @@
+Anamnèse
+Patient âgé de 53 ans qui a consulté en oncologie médicale en mars 2011. Il n'a pas d'antécédents familiaux ou personnels intéressants. Il a été opéré en 1991 d'un astrocytome frontal gauche de bas grade. En février 2011, une récidive a été confirmée avec des signes radiologiques de passage à un grade élevé et la lésion a été excisée.
+
+Examen physique
+Karnofsky 90 %. Force dans l'hémisphère gauche, normale ; dans l'hémisphère droit, 3/5. Test mental 28/30. Aphasie expressive légère. Absence d'adénopathies périphériques palpables. Examens cardio-pulmonaire et abdominal normaux.
+
+Examens complémentaires
+NFS : normale, sauf LDH 303 Ul/l.
+Tomodensitométrie (CT) : restes hématiques dans le lit tumoral. Prise pathologique compatible avec des restes de tumeurs gliales.
+Anatomie pathologique : population cellulaire dense et très pléomorphe. GFAP positive. Synaptophysine négative. Ki67 élevé. Aucune zone de nécrose n'est identifiée, mais la morphologie est typique d'un astrocytome de grade IV.
+Biologie moléculaire : méthylation du promoteur MGMT et mutation R132 dans IDH1. Perte d'hétérozygotie pour PTEN et TP53. Suppression de CDKN2A.
+
+Diagnostic
+Astrocytome frontal gauche de haut grade, méthylation MGMT positive.
+
+Traitement
+Il s'agit d'une récidive après 20 ans d'un astrocytome qui a évolué vers un grade élevé. Il présente plusieurs facteurs de bon pronostic : Karnofsky > 70 %, état cognitif préservé et méthylation MGMT. Par conséquent, après la résection chirurgicale, un traitement adjuvant par radio et chimiothérapie, basé sur le témozolamide (TMZ), selon le schéma de Stupp, est prescrit.
+
+Évolution
+Alors qu'il recevait une radiothérapie concomitante avec du témozolamide (TMZ) à 75 mg/m2/jour, il y a eu une thrombopénie importante avec des saignements cutanés et une progression de la tumeur confirmée par tomodensitométrie. En raison de la détérioration rapide et de l'aggravation des symptômes neurologiques, il a été transféré en soins palliatifs, bien qu'il ait continué à être surveillé par la neurochirurgie.
+Quatre mois plus tard, elle a présenté une thromboembolie pulmonaire bilatérale dont elle s'est remise. Un an plus tard, elle était en bon état général et, bien qu'une nouvelle progression de la tumeur ait été observée à l'IRM, il a été décidé d'administrer du TMZ à une dose dense.
+Après 3 et 6 mois de traitement avec une bonne tolérance et une amélioration clinique, l'IRM a confirmé une réponse partielle.
+A 9 mois, elle a présenté une hémiparésie droite et des crises faciales partielles. L'IRM a montré un infarctus lacunaire gauche et une nouvelle diminution du volume tumoral.
+Comme il recevait déjà des héparines à des doses thérapeutiques, les statines et l'acide acétylsalicylique ont été associés à une amélioration clinique. Actuellement, le patient reçoit du TMZ à des doses denses depuis un an avec un bénéfice clinique et radiologique et sans aucune toxicité.

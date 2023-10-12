@@ -1,0 +1,35 @@
+Anamnèse
+Après la canulation du réservoir central le 17/10/2017, la patiente a été admise dans le service d'oncologie. A 12 heures post-intervention, la patiente a présenté un épisode de malaise général avec une sensation d'hypothermie extrême accompagnée d'une asthénie marquée, de frissons et de sueurs froides profuses.
+
+Examen physique
+Température : 33 ºC, tension artérielle : indétectable avec un sphygmomanomètre manuel et électrique, saturation basale en O2 : indétectable avec un oxymètre de pouls. Glycémie capillaire : 26 mg/dl.
+ECOG 3, conscient, orienté et coopératif, eupnéique au repos. Pas de focalité neurologique. Auscultation cardiorespiratoire normale et examen abdominal normal. Les membres inférieurs ne présentent pas d'œdème ni de signes de thrombose veineuse profonde. L'examen a révélé une hypothermie marquée, en particulier dans les régions acrales.
+Compte tenu de ce tableau clinique, les diagnostics différentiels suivants ont été envisagés :
+"Réaction d'hypersensibilité au latex (patient allergique au latex).
+"Septicémie post-canalisation du port-a-cath.
+"Insuffisance surrénalienne primaire ou secondaire d'étiologie incertaine.
+
+Examens complémentaires
+Afin de mieux comprendre le tableau clinique et de prescrire le traitement le plus spécifique, il a été décidé de procéder à des analyses sanguines urgentes, à des hémocultures et à une prise de sang pour déterminer le profil thyroïdien et la fonction surrénalienne.
+Résultats des examens complémentaires :
+" Prise de sang urgente (19/10/2017) : hémoglobine 8,2 g/dl, plaquettes et séries blanches dans les normes. Glucose 26 mg/dl, ions normaux. CRP : 8,2.
+" Profil thyroïdien (23/10/2017) : TSH 0,29 uIU/ml, T4L 5 pmol/l T3L 0,87pmol/l.
+" Hémocultures (21/10/2017) : négatives.
+Au vu de ces résultats, une hypothyroïdie secondaire est suspectée, une IRM crânienne avec contraste est donc demandée :
+" IRM cérébrale avec contraste (25/10/2017) : hypophyse avec altération de son intensité en séquence T1, l'adénohypophyse étant hyperintense, en rapport avec une hémorragie hypophysaire. Rehaussement après administration de gadolinium avec prise significative au niveau de la tige pituitaire. Un rehaussement pachyméningé diffus a également été observé. Ces résultats suggèrent la première possibilité d'une infiltration des méninges et de la tige pituitaire due à la maladie sous-jacente, avec une hémorragie pituitaire secondaire.
+Compte tenu de ces résultats, il a été décidé de contacter le service d'endocrinologie afin d'adapter le traitement et de compléter le diagnostic :
+" Prise de sang avec profil hypophysaire (25/10/2017) : TSH 0,27 uIU/ml, T4 5,2 pmol/l, T3 1,50 pmol/l, Ac antiperoxydase négatif, Ac anti-TSH récepteur normal, FSH 0,80 mIU/ml, LH 0,14 mIU/ml, prolactine 1,30 ng/ml, ACTH (échantillon mal conservé), cortisol < 0,50 (car extrait après régime de dexaméthasone) GH 0,15 ng/ml, IGF-1 < 35ng/ml.
+
+Diagnostic
+Hypopituitarisme secondaire à une hémorragie hypophysaire due à une carcinomatose méningée.
+
+Traitement
+Hydroaltesone 20 mg toutes les 8 heures, lévothyroxine 50 mcg toutes les 24 heures et RT holocrânienne.
+
+Evolution
+Compte tenu des différents diagnostics différentiels et de la gravité qui leur est associée, il a été décidé d'agir immédiatement, en combinant des mesures physiques pour rétablir la température corporelle du patient (utilisation d'une couverture antipyrétique et d'un réchauffeur d'air sous les draps) associées à un traitement empirique par voie intraveineuse avec 500 cc de sérum glucosé, 4 mg de dexaméthasone et une antibiothérapie à large spectre associant pipéracilline-tazobactam 4 g/0,5 g/8 heures à la vancomycine 500 mg/6 heures.
+L'état s'est considérablement amélioré après le début du traitement, avec une récupération de la température corporelle (température de 36,6 ºC), même dans les zones les plus distales, de la pression artérielle (110/75 mm Hg), de la glycémie capillaire (91 mg/dl) et la disparition de la sensation subjective d'hypothermie et d'asthénie de la patiente.
+L'absence de réaction urticariforme (caractéristique d'une réaction d'hypersensibilité aiguë) et une CRP dans la plage normale nous ont amenés à exclure une réaction d'hypersensibilité au latex ou une septicémie post-canalisation du cathéter central comme étiologie du tableau.
+Le cas a été discuté avec l'endocrinologie qui, conformément à notre jugement clinique, a recommandé d'ajouter au traitement prescrit 20 mg d'hydroaltesone toutes les 8 heures et 50 mcg de lévothyroxine toutes les 24 heures. D'autre part, le service d'oncologie et de radiothérapie examine les images de l'IRM cérébrale et effectue le scanner de simulation pendant l'admission afin de planifier la radiothérapie holocrânienne à des fins palliatives.
+Étant donné l'évolution favorable de la patiente au cours des sept jours d'admission, il a été décidé de la faire sortir de l'hôpital et de poursuivre son traitement médical à domicile, en recevant le traitement de radiothérapie en ambulatoire et avec des rendez-vous planifiés dans les cliniques ambulatoires d'oncologie médicale et d'endocrinologie.
+Actuellement, le patient a reçu 7 cycles de QT (Nab-Paclitaxel hebdomadaire [153 mg]) (J1, J8 et J15 tous les 28 jours) et suit un traitement de substitution à base de lévothyroxine + hydroaltesone. Il a un ECOG 0 et mène une vie normale. Il a même voyagé dans son pays d'origine pour rendre visite à sa famille sans jamais présenter de symptômes neurologiques ou de privation d'hormones.

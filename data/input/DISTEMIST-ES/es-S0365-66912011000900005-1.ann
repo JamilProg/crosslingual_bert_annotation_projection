@@ -1,0 +1,24 @@
+T1	pathologie 112 120	nistagmo
+T2	pathologie 217 225	glaucoma
+T3	pathologie 306 326	sindactilia de manos
+T4	pathologie 369 381	microcórneas
+T5	pathologie 416 435	nistagmo horizontal
+T6	pathologie 600 623	pirámide nasal estrecha
+T7	pathologie 628 645	narinas estrechas
+T8	pathologie 648 666	alas nasales finas
+T9	pathologie 668 684	micrognatia leve
+T10	pathologie 687 742	sindactilia de los dedos cuarto y quinto de ambas manos
+T11	pathologie 912 963	edema epitelial y nubéculas corneales superficiales
+T12	pathologie 1277 1299	ojos, ampollas difusas
+#1	SNOMED T2	23986001
+#2	SNOMED T4	26098002
+#3	SNOMED T9	32958008
+#4	SNOMED T10	715725001
+#5	SNOMED T11	373428006+72494008
+#6	SNOMED T3	34048007
+#7	SNOMED T12	11131000119108
+#8	SNOMED T5	81756001
+#9	SNOMED T1	307699005
+#10	SNOMED T6	249322008
+#11	SNOMED T7	249339005
+#12	SNOMED T8	128274005

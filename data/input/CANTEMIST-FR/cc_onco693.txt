@@ -1,0 +1,42 @@
+Anamnèse
+Une femme de 46 ans est adressée au service de gynécologie pour des problèmes de fertilité.
+Elle est obèse, ancienne fumeuse, a eu deux grossesses avortées et a été opérée d'un follicule hémorragique par laparotomie à l'âge de 21 ans. Elle ne prend pas de traitement régulier.
+
+Examen physique
+La patiente a été examinée à la consultation externe de gynécologie.
+L'examen physique a révélé une masse indurée douloureuse dans l'hypogastre.
+Lors de l'examen vaginal, elle a présenté une tumeur dure qui occupait tout le Douglas et déplaçait le col de l'utérus vers le pubis et le rectum vers la partie postérieure.
+Compte tenu de ces résultats initialement insoupçonnés chez une patiente ne présentant aucune comorbidité significative ni aucune manifestation clinique autre que l'infertilité, le service de gynécologie a décidé de prolonger l'étude par des examens complémentaires.
+
+Examens complémentaires
+Une échographie abdominale a été réalisée, qui a révélé des images malignes dans les deux ovaires. L'échographie est décrite comme une grosse masse, dont la limite inférieure est perdue dans le bassin, d'une longueur transversale d'environ 17 cm. La structure de la masse est mixte avec des zones solides irrégulières et une composante liquide abondante. Compte tenu de ces caractéristiques, on considère qu'il s'agit peut-être d'une lésion ovarienne. Une lésion hépatique solitaire a également été observée, hautement compatible avec une métastase.
+L'échographie gynécologique décrit les deux ovaires avec une échogénicité mixte, solide-kystique avec des septa épais et un flux à l'intérieur.
+La mammographie est normale, BIRADS 2.
+Un scanner thoraco-abdominal a été réalisé. Il décrit les altérations suivantes : trois images nodulaires hypodenses dans le foie dans le segment VII de 41 x 39 mm, dans le segment VIII de 32 x 24 mm et dans le segment VI de 8 mm, compatibles avec des métastases hépatiques. Masse dans le petit bassin dépendant de l'ovaire gauche, se développant en direction postérieure et médiane, occupant le Douglas et déplaçant l'utérus en direction antérieure, d'une taille d'environ 13 x 12 mm. La masse est composée de zones solides et kystiques, avec des septa épais à l'intérieur. Il existe une autre masse présentant les mêmes caractéristiques, mesurant 8 x 7 cm, qui semble dépendre de l'ovaire droit. Ces éléments sont très évocateurs d'une néoplasie ovarienne bilatérale.
+Au vu de ces résultats, une ponction échoguidée de l'ovaire gauche a été réalisée. L'anatomie pathologique de l'ovaire a révélé un adénocarcinome mucosécrétoire avec un profil immunohistochimique avec CK-20 et CEA positifs et CK-7 négatifs, des récepteurs tumoraux et de la vimentine, compatible avec une métastase d'origine colorectale.
+La coloscopie a révélé une masse dure d'aspect infiltrant et malin à 20 cm de la marge anale, sténosant la lumière, dont l'histologie était un adénocarcinome infiltrant modérément différencié.
+Les marqueurs tumoraux sont les suivants : CEA : 93,6 ; Ca 125 : 41,1 ; HE4 : 117,7.
+
+Diagnostic
+La patiente a été adressée à l'oncologie médicale en juin 2015. L'étude moléculaire révèle un RAS natif et un BRAF non muté, le diagnostic est donc le suivant :
+Adénocarcinome du côlon de stade IV avec 3 métastases hépatiques et des métastases ovariennes bilatérales, RAS natif et BRAF non muté.
+
+Traitement
+La patiente a débuté son traitement en juin 2015 par une chimiothérapie d'intention palliative avec le schéma Xelox (capécitabine-oxaliplatine) + bevacizumab. Elle est actuellement dans un très bon état de base, avec un ECOG de 0.
+Une neuropathie périphérique de grade II est apparue comme une toxicité, de sorte que la dose de Xelox a été réduite de 20 %. L'état clinique s'étant légèrement amélioré, l'oxaliplatine a été arrêté après le cinquième cycle et le traitement d'entretien par capécitabine + bevacizumab a été poursuivi.
+Avec ce traitement, la patiente a obtenu une réponse partielle, avec une diminution progressive de la taille des masses hépatiques et annexielles lors de deux tomodensitométries de réévaluation.
+Plusieurs mois plus tard, en janvier 2016, la patiente a présenté une progression tumorale due à la croissance des lésions ovariennes. Une deuxième ligne de chimiothérapie avec irinotécan-panitumumab a été entamée, dont elle a reçu quatre cycles jusqu'en mars 2016. Avec ce régime, la patiente a montré une réponse partielle lors de la tomodensitométrie de réévaluation.
+Le résultat anatomopathologique de la pièce opératoire était un adénocarcinome résiduel du gros intestin, après le traitement néoadjuvant, qui a infiltré toute la paroi, atteignant le tissu adipeux périrectal. La fibrose prédomine sur les nids tumoraux résiduels (régression tumorale de grade 1, réponse modérée) avec des métastases ovariennes bilatérales (CK20, CDX2, CEA positifs ; CK7, récepteurs d'œstrogènes, p53, pAX8 et TTF1 négatifs). Vingt-cinq ganglions lymphatiques ont été isolés sans infiltration tumorale.
+L'évolution postopératoire est bonne. Comme complication, une hernie abdominale laparotomique non compliquée est apparue, provoquant des douleurs abdominales chroniques légères.
+Deux mois après la chirurgie, en juillet 2016, un traitement par chimiothérapie a été repris afin d'éliminer la maladie micrométastatique. Le même schéma que précédemment a été utilisé, irinotécan-panitumumab, dix cycles supplémentaires (quatorze au total), jusqu'en décembre 2016.
+La toxicité de cette ligne de traitement a montré une atteinte cutanée soutenue de grade 2-3. En outre, elle a eu des diarrhées, des nausées et des vomissements les premiers jours après chaque cycle, ce qui a provoqué une légère hypomagnésémie et une mucosite buccale. Elle a également souffert d'une légère anémie (Hb 10,3). En outre, la dose de chimiothérapie a dû être réduite de 20 % en raison de l'apparition d'une légère toxicité rénale (clairance de la créatinine 65,7).
+À la fin de ce régime, la réévaluation clinique et radiologique n'a montré aucun signe de maladie néoplasique, de sorte qu'il a été décidé d'arrêter le traitement actif et que des contrôles ont été programmés.
+Dans le cadre du programme de suivi, lors d'une réévaluation par scanner en janvier 2017, une progression néoplasique a été observée sous la forme d'adénopathies rétropéritonéales au niveau du hile rénal gauche, la plus grande mesurant 2 x 1,8 cm. L'atteinte des ganglions lymphatiques a été confirmée sans aucun signe de récidive à un autre niveau dans l'étude PET-CT. Compte tenu de ces résultats, la troisième ligne de chimiothérapie a été entamée selon le schéma suivant
+Folfiri-Aflibercept.
+Les toxicités de ce traitement comprenaient une détérioration de l'état général, une anorexie de grade 2 et des vomissements et diarrhées de grade 2-3. La dose de chimiothérapie a été réduite de 20 % et certains cycles sans 5-FU pour améliorer la tolérance.
+Avec ce schéma, le patient a présenté une réponse partielle avec une légère diminution des adénopathies rétropéritonéales. Lorsque le cas a été évalué par le comité des tumeurs, la possibilité d'un sauvetage chirurgical de la tumeur ou d'une chirurgie de réparation de l'éventration abdominale a été envisagée. Ces deux options ont été écartées au profit de la chirurgie générale en raison de l'absence probable de bénéfice clinique. Un traitement local par radiothérapie en plus de la chimiothérapie systémique a donc été décidé. Une radiothérapie SBRT a été réalisée, 12 séances à des doses hypofractionnées, après quoi il a été décidé d'arrêter le traitement.
+Le PET-CT scan de réévaluation a montré des changements post-radiothérapie dans le hile rénal gauche, sans signe de maladie à un autre niveau. Un programme de contrôle tous les trois mois a été mis en place.
+
+L'évolution
+Toutes les thérapies que le patient a reçues ont contribué à contrôler la maladie. Diverses complications et progression de la maladie sont apparues, qui ont été traitées et contrôlées de la meilleure façon possible.
+Actuellement, en mars 2018, cela fait 1 an que la patiente ne présente aucun signe de maladie néoplasique, ni sur le plan clinique, ni sur le plan radiologique, ni sur le plan analytique, et qu'elle mène une vie normale.

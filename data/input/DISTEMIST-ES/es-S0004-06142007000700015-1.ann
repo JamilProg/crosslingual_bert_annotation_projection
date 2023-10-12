@@ -1,0 +1,16 @@
+T1	pathologie 391 413	quísticas parapiélicas
+T2	pathologie 467 475	lesiones
+T3	pathologie 524 531	quistes
+T4	pathologie 581 616	quiste parapiélico en riñón derecho
+T5	pathologie 765 780	lesión quística
+T6	pathologie 870 910	celda renal izquierda existía una lesión
+T7	pathologie 997 1024	linfangioma renal bilateral
+T8	pathologie 1174 1186	lesión renal
+#1	SNOMED T1	253883006
+#2	SNOMED T3	441457006
+#3	SNOMED T4	722223000
+#4	SNOMED T5	441457006
+#5	SNOMED T7	400178008
+#6	SNOMED T8	79131000119100
+#7	SNOMED T2	157670007
+#8	SNOMED T6	79131000119100

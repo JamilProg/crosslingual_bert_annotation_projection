@@ -1,0 +1,48 @@
+Anamnèse
+Patient âgé de 28 ans, qui s'est présenté pour la première fois à une consultation d'oncologie médicale en novembre 2013 pour évaluer le début du traitement.
+
+Antécédents familiaux : grand-mère paternelle et arrière-grand-mère paternelle atteintes d'un cancer du sein. Cousine germaine du père atteinte d'un cancer du sein. Le père est porteur du gène BRCA1.
+Antécédents personnels : pas d'allergies médicamenteuses. Pas d'habitudes toxiques. Pas de diabète sucré, d'hypertension ou de dyslipidémie. Porteuse de la mutation BRCA1. Pas de cardiopathie, pneumopathie ou hépatopathie connue. QI : refusé. Ménarche à l'âge de 14 ans. Mastalgies menstruelles régulières.
+
+Une étude a été initiée après avoir remarqué une induration dans le sein gauche en septembre 2013 après les menstruations au moyen de l'auto-palpation du sein. Après une échographie et une biopsie du sein gauche et de l'aisselle, on a diagnostiqué un carcinome canalaire infiltrant de sous-type non spécial (type inflammatoire) avec métastases ganglionnaires, triple négatif (RP, ER et Her-2 négatifs, ki-67 : positif dans 40-50%).
+
+À l'issue des examens complémentaires, la patiente a été considérée comme n'étant pas candidate à la chirurgie et a été adressée au service d'oncologie médicale pour évaluer le début d'un traitement néoadjuvant.
+
+Examen physique
+ECOG 0. Taille 169 cm. Poids 77 kg. Hémodynamiquement stable, bon état général, conscient, orienté et coopératif, bien hydraté et perfusé. Eupnéique, pas de fièvre. ACR : rythmique à une bonne fréquence sans souffle. Murmure vésiculaire bilatéral conservé. Abdomen souple, dépressible, non douloureux à la palpation, bruits hydro-aériques préservés.
+
+Membres inférieurs sans œdème ni signes de TVP. Examen des seins : le sein gauche est entièrement occupé par une lésion pierreuse qui occupe tout le volume (>10 cm) avec une peau d'orange et des signes inflammatoires. Le sein droit est intact. Pas d'adénopathie axillaire palpable ni à d'autres niveaux. Examen neurologique : normal.
+
+Tests complémentaires
+"Biopsie à l'aiguille : carcinome canalaire infiltrant de sous-type non spécial (type inflammatoire) avec métastases ganglionnaires.
+"Profil IHC : récepteurs d'œstrogènes : négatifs ; récepteurs de progestérone : négatifs. Indice de prolifération ki-67 : positif dans 40-50%. HER-2 (voie 4B5) : négatif.
+"Tomodensitométrie thoraco-abdominale comme étude d'extension : hypertrophie du sein gauche avec épaississement de la peau et adénopathies axillaires ipsilatérales en relation avec l'existence d'un carcinome inflammatoire. Aucune atteinte métastatique n'a été observée dans l'étude réalisée.
+"IRM : les résultats décrits suggèrent une lésion de grande taille suspecte de malignité qui occupe une grande partie du sein gauche, mal définie, avec des signes d'œdème et une possible implication des lymphatiques cutanés avec un épaississement notable de la peau, n'excluant pas une composante inflammatoire, qui doit être corrélée avec les données cliniques et exploratoires de la patiente et ses antécédents, ainsi qu'avec les résultats d'autres techniques de diagnostic. Il n'y a pas d'images suggérant la présence d'adénopathies pathologiques évidentes.
+"Echocardiographie avec fraction d'éjection de 52-55%.
+
+Diagnostic
+Carcinome mammaire canalaire infiltrant de stade IIIA (cT4cNx), triple négatif, muté BRCA 1 (type inflammatoire).
+
+Traitement
+Après les premiers examens, la patiente n'a pas été considérée comme candidate à la chirurgie en raison de l'étendue de la lésion (T4D secondairement enflammé). Il a été proposé à la patiente de commencer un traitement néoadjuvant dans le cadre de l'essai clinique ETNA1 (abraxane, IV pendant 4 cycles suivis de 4 cycles d'anthracyclines vs. traitement standard avec paclitaxel, IV pendant 4 cycles suivis de 4 cycles d'anthracyclines), en commençant le traitement dans le bras paclitaxel en novembre 2013. Elle a reçu 4 cycles de taxol (12 perfusions hebdomadaires au total, bien toléré, alopécie G3) plus 2 cycles de FEC jusqu'en avril 2014. Elle a été opérée en mai 2014 d'une mastectomie simple bilatérale plus un curage axillaire gauche avec AP d'un carcinome infiltrant de sous-type histologique non spécial de grade 3, 5,5 cm (ypT3) infiltrant le derme superficiel, avec invasion vasculaire et métastase dans 8 des 18 ganglions lymphatiques axillaires, stade yIIIA selon TNM.
+
+Après l'opération, un scanner thoraco-abdominal de réévaluation a été réalisé en juillet 2014, qui a montré une progression osseuse de la maladie, l'évaluation de la RT a été suspendue et il a été proposé de commencer un traitement par chimiothérapie dans le cadre du CD OLYMPIA2 (olaparib vs. meilleur traitement de choix du chercheur capecitabine, vinorelbine ou eribuline) car elle était porteuse d'une mutation BRCA1 avec une maladie osseuse, décidant d'un traitement par capecitabine, ne commençant le traitement qu'en septembre 2014 en raison de la progression de la maladie avec une carcinomatose leptoméningée qui a nécessité une admission dans le service d'oncologie entre le 12 et le 24 juillet 2014, avec une amélioration après un traitement par corticostéroïdes et une RT holocrânienne.
+
+Pendant le traitement à la capécitabine, il a également reçu plusieurs séances de RT antalgique au niveau de la colonne lombo-sacrée et de la hanche bilatérale.
+
+Il a reçu 11 cycles de capécitabine entre septembre 2014 et avril 2015 (bien tolérés à l'exception du syndrome palmoplantaire G2) lorsqu'il est sorti de l'essai en raison de la progression de la maladie osseuse.
+
+Évolution
+Elle a évolué favorablement au début du traitement néoadjuvant, avec une bonne tolérance, une amélioration des symptômes inflammatoires et une amélioration subjective de la taille de la tumeur mammaire. Cette amélioration n'a pas été démontrée par les examens d'imagerie, la tumeur continuant à présenter des dimensions similaires à celles du début du traitement. En avril 2014, une IRM mammaire a été réalisée, qui a continué à montrer ce manque d'amélioration, de sorte que le Comité a décidé de traiter la tumeur chirurgicalement.
+
+La patiente a été opérée en mai 2014 sans complications et lors du scanner de réévaluation avant le début du traitement par radiothérapie adjuvante, réalisé le 1er juillet 2014, une progression osseuse de la maladie a été enregistrée avec de multiples images nodulaires ostéoblastiques au niveau de la colonne vertébrale et du bassin évoquant des métastases (non présentes dans le scanner du 4-11-2013). Il a donc été décidé de ne pas initier de traitement par radiothérapie et de proposer un nouveau traitement par chimiothérapie.
+
+Au cours du même mois de juillet 2014, elle s'est rendue aux urgences pour des céphalées holocrâniennes associées à des paresthésies erratiques au niveau du visage et des bras qui se sont améliorées après le contrôle de la douleur. Une IRM crânienne a été réalisée le 8 juillet avec un diagnostic de prise en charge leptoméningée étendue à la fosse postérieure et au niveau supratentoriel suggérant une dissémination leptoméningée de son néoplasme mammaire, nécessitant une admission dans le service d'oncologie avec un mauvais contrôle de la douleur (EVA7) et aucun symptôme neurologique à l'exception des paresthésies. Durant son admission, elle a été traitée par une RT holocrânienne de 30 Gy en 10 doses, du mannitol IV et des corticostéroïdes avec une bonne évolution. Une IRM neuroaxiale a été réalisée, confirmant la présence d'un os M1 au niveau de la colonne dorsale et lombaire, sans atteinte de la moelle épinière.
+
+Après sa sortie, le traitement de chimiothérapie a débuté en septembre 2014 avec la capécitabine 1 250 mg/m2 (2 300 mg toutes les 12 heures pendant 14 jours continus, dans le cadre de la CE Olympia). Pendant le traitement à la capécitabine, la patiente a présenté plusieurs épisodes de douleurs incontrôlées au niveau de la colonne vertébrale dorsale et de la hanche droite avec des EVA de 7-8, qui se sont améliorées après ajustement des médicaments analgésiques et de la RT analgésique.
+
+Le début du traitement par la capécitabine a été bien toléré. En octobre, une IRM crânienne de réévaluation a été réalisée, montrant une disparition complète des foyers de captation leptoméningés et un scanner thoraco-abdominal montrant une stabilité des lésions restantes. Compte tenu de la réponse, le traitement a été maintenu avec la capécitabine à la même dose, le syndrome palmoplantaire de grade 2 étant la principale complication au cours du suivi, qui s'est améliorée après réduction de la dose (de 15 % à deux reprises). La réponse leptoméningée a été maintenue et en février 2015, une nouvelle IRM a montré une réponse complète.
+
+Après la disparition surprenante de la maladie au niveau du SNC, un PET scan a été demandé pour confirmer la réponse. Au cours de cette période, la patiente a commencé à présenter une détérioration progressive de son état général, un mauvais contrôle de la douleur et l'apparition d'un nodule solide à croissance rapide dans la zone de la cicatrice de mastectomie. Le traitement a été interrompu en raison d'une suspicion de progression, confirmée par une scintigraphie osseuse le 21 avril 2015, et la patiente a été retirée de l'essai clinique.
+
+Le 27 avril, elle a de nouveau été admise dans le service d'oncologie en raison d'un mauvais contrôle de la douleur, EVA 8, au niveau de l'omoplate droite, de la région dorso-lombaire et des hanches. La douleur a progressivement augmenté malgré la mise en place d'une perfusion continue de chlorure morphique, accompagnée d'une raideur intense, nécessitant finalement une sédation terminale et le décès de la patiente le 30 avril.

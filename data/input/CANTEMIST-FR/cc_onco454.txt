@@ -1,0 +1,32 @@
+Anamnèse
+Patient de 42 ans, pas d'allergies médicamenteuses connues, pas de facteurs de risque cardiovasculaire connus, pas de maladies pertinentes connues. Professeur de musique de profession, indépendant pour ABVD. Nie la prise régulière de médicaments. Pas d'habitudes toxiques. Pas d'antécédents familiaux de cancer.
+Admis dans le service de soins intensifs de notre centre le 08/11/2018 en raison d'un diagnostic tardif du VIH et de lésions cutanées compatibles avec un sarcome de Kaposi.
+
+Examen physique
+Sur la peau, lésions violacées en relief sur le cou, la joue droite, le bout du nez, le tronc, le dos, l'abdomen et les membres, sans signes de surinfection. Oropharynx : plaques blanchâtres adhérant aux piliers du pharynx évoquant un muguet. Les examens cardio-pulmonaire, abdominal et neurologique ne révèlent rien de particulier.
+
+Tests complémentaires
+Parmi les analyses demandées, les points suivants ressortent :
+"Hémogramme : hémoglobine 7,7 g/dl, leucocytes 2,3 10*9/l, neutrophiles 1,4 10*9/l, lymphocytes 0,6 10*9/l.
+"Populations lymphocytaires : lymphocytes T (CD4+) 46,9 cels/ul, lymphocytes T (CD8+) 492,3 cels/ul, rapport CD4/CD8 0,1.
+"Anti-VIH acide 1 et 2 et Ag p24 positifs. WB VIH positif. Charge virale 351 000 cp/ml Charge logarithmique 5,54 LgC/MI.
+"Typage HLA B5701 positif. Le test de résistance aux antirétroviraux est négatif.
+"Sérologie pour le VHB, le VHC, le VHA, le Treponema pallidum, le CMV et le toxoplasme négative.
+" Antiherpes virus 8 IgM 1/20, IgG négatifs.
+TDM d'extension 09/11/2018 : polyadénopathies au niveau sous-maxillaire bilatéral, axillaire bilatéral, du tronc cœliaque, mésentérique, rétropéritonéal et inguinal bilatéral. Bronchectasies dans les lobes inférieurs et le lobe moyen.
+
+Diagnostic
+"Stade C3 de l'infection par le VIH.
+"Sentiment de sarcome de Kaposi.
+
+Traitement
+Début du traitement antirétroviral par ténofovir/emtricitabine/darunavir/cobicistat, bien toléré.
+
+Évolution
+Le 15/11/2018, une biopsie de la lésion cutanée a été réalisée avec un résultat confirmant le sarcome de Kaposi, herpès virus 8 positif.
+Devant l'apparition d'une dysphagie, la persistance de signes de muguet et la présentation d'une anémie avec nécessité de transfusions, le 16/11/2018 une gastroscopie et une coloscopie sont réalisées, où l'on retrouve d'abondants amas blanchâtres-jaunâtres adhérant à la paroi œsophagienne évoquant une candidose, au niveau du corps et de l'antre 3-4 lésions nodulaires surélevées de coloration rougeâtre de 2-3 cm de taille évoquant un sarcome de Kaposi, duodénum normal jusqu'à la deuxième portion. Lors de la coloscopie, des lésions nodulaires surélevées de couleur rouge cerise similaires à celles observées dans la cavité gastrique et évoquant un sarcome de Kaposi ont été observées depuis le rectum jusqu'à 40 cm de la marge anale.
+Résultats anatomopathologiques de la lésion gastro-oesophagienne : changements inflammatoires chroniques et vaisseaux très focaux de morphologie disséquante évoquant un sarcome de Kaposi, HHV8 positif. Abondance d'hyphes et de spores compatibles avec une candidose.
+Le patient a été adressé au service d'oncologie médicale, où l'étude a été achevée en raison d'une pancytopénie, excluant la leishmaniose viscérale par PCR et biopsie de la moelle osseuse. Compte tenu du diagnostic d'infection par le VIH stade C3 et de sarcome de Kaposi avec atteinte cutanée et muqueuse, un traitement par doxorubicine liposomale a été débuté le 22/11/2018 avec une bonne tolérance, après quoi le patient est sorti de l'hôpital et a continué à être suivi en ambulatoire.
+Après 6 cycles de chimiothérapie, il a présenté une amélioration clinique significative avec des lésions cutanées négatives et une diminution des lésions entériques. Ponction cutanée de la lésion suspecte : pas de preuve histopathologique de sarcome de Kaposi. HHV8 négatif. Gastroscopie : œsophage normal sans signe de candidose. Estomac : 3-4 lésions nodulaires rougeâtres, surélevées, de 1-1,5 cm de diamètre qui ont diminué de taille par rapport à la gastroscopie précédente. Coloscopie : jusqu'à 40 cm de marge anale, montrant 4-5 petites lésions plus évidentes au niveau rectal.
+Lors de la dernière analyse en mai 2019, hémoglobine 12,8 g/dl, leucocytes 3,1 10*9/l, neutrophiles 1,3 10*9/l, lymphocytes 1,4 10*9/l. Populations lymphocytaires : lymphocytes T (CD4+) 235,5 cels/ul, lymphocytes T (CD8+) 999,7 cels/ul, rapport CD4/CD8 0,2. Fonctions rénale et hépatique normales. Charge virale < 20 cp/ml Charge logarithmique 1,30 LgC/MI.
+La patiente continue d'être suivie conjointement par le service d'oncologie et l'unité des maladies infectieuses de notre centre, en maintenant l'ART jusqu'à ce jour. En accord avec le patient, étant donné les résultats négatifs de HHV8 dans les lésions cutanées, la bonne réponse au niveau des muqueuses et la reconstitution du système immunitaire, il a été décidé de suspendre le traitement par chimiothérapie et de poursuivre les contrôles étroits dans les cliniques ambulatoires.

@@ -1,0 +1,36 @@
+Anamnèse
+Femme de 28 ans, pas d'allergies médicamenteuses ni d'habitudes toxiques connues.
+Elle a pris des contraceptifs oraux de 2007 à 2016.
+
+Antécédents pathologiques :
+- 1987 : Maladie de Hirschsprung diagnostiquée à une semaine de vie, il a été décidé de maintenir un traitement médical conservateur.
+- 1991 : Obstruction intestinale, opération de Duhamel.
+- 2009 : Structuroplastie en raison d'une sténose post-chirurgicale.
+- 2012 : Tentative d'automutilation et comportement d'automutilation, avec diagnostic de dépression majeure. Suivi par la psychiatrie.
+
+Maladie actuelle :
+- Mars 2014 : Première visite à l'âge de 24 ans à l'unité de conseil génétique, pour évaluation en raison d'antécédents de HSCR. Une étude génétique du proto-oncogène RET a été réalisée, détectant la mutation c.1878T>C dans l'exon 10, confirmant le diagnostic de MEN2A.
+Les mutations dans le codon 620 ont un risque élevé de développer un carcinome médullaire de la thyroïde, de sorte qu'une thyroïdectomie prophylactique précoce est indiquée. Un suivi à long terme est également nécessaire dans la MEN2A en raison du risque accru d'autres néoplasmes associés tels que le phéochromocytome (10-60%) et les troubles métaboliques tels que l'hyperparathyroïdie (5-20%).
+- Mai 2014 : Une thyroïdectomie prophylactique a été réalisée, montrant la présence d'un carcinome médullaire de la thyroïde pT1a(m)N0 ; sans aucun signe de récidive après deux ans de suivi.
+Le patient a également été suivi par IRM des surrénales et par des analyses des catécholamines plasmatiques et urinaires sur 24 heures, sans aucun signe de maladie à ce jour.
+- Une étude génétique prédictive directe a été proposée aux parents du premier degré de la patiente. Le père est porteur asymptomatique de la mutation pathogène détectée chez RET. Une thyroïdectomie prophylactique a également été réalisée chez son père à l'âge de 63 ans, révélant un carcinome médullaire de la thyroïde pT2(m)Nx dans l'anatomie pathologique.
+- Parallèlement, la branche maternelle de sa famille présente des critères cliniques évocateurs du syndrome du cancer héréditaire du sein et de l'ovaire. L'étude génétique complète d'un membre de sa famille atteint d'un carcinome mammaire a détecté la mutation c.5277_5273delCT dans l'exon 11 du gène BRCA2.
+-L'étude génétique de notre patiente montre qu'elle est également porteuse de la même mutation détectée dans sa famille sur le gène BRCA2.
+- Les stratégies qui peuvent réduire le risque de tumeurs malignes chez les porteurs de la mutation BRCA1/2 comprennent un dépistage plus intensif, la chimioprévention et des interventions chirurgicales visant à réduire le risque.
+Les stratégies de dépistage pour les porteuses de la mutation BRCA1/2 comprennent une mammographie annuelle à partir de l'âge de 30 ans et une IRM mammaire annuelle à partir de l'âge de 25 ans.
+Des études ont montré que la salpingo-ovariectomie bilatérale prophylactique réduit le risque de cancer de l'ovaire et du sein et est donc recommandée pour les porteuses de la mutation BRCA1/2 à partir de l'âge de 35 ans ou lorsque la femme a terminé son désir gestationnel. Chez les porteuses de la mutation BRCA2, le cancer de l'ovaire survient à un âge plus avancé et la salpingo-ovariectomie bilatérale prophylactique peut être reportée jusqu'à l'âge de 40 ans (NCCN 2016).
+L'option de la mastectomie bilatérale prophylactique est discutée avec la patiente. Une méta-analyse récente de quatre études prospectives montre que la mastectomie à risque réduit de 93 % le risque de cancer du sein chez les femmes en bonne santé présentant une mutation du gène BRCA1/2.
+Compte tenu du jeune âge de la patiente et du fait qu'à l'heure actuelle, sa principale morbidité et sa qualité de vie sont affectées par les symptômes associés à la maladie HSCR, nous avons convenu, pour le moment, de procéder à un dépistage mammaire et ovarien conformément aux directives cliniques actuelles, en reportant la chirurgie de réduction des risques à l'avenir.
+- La patiente a exprimé un désir de grossesse et a été orientée vers un diagnostic génétique préimplantatoire.
+Dans l'étude réalisée, il a été observé qu'elle présentait une insuffisance ovarienne et des difficultés techniques pour la ponction folliculaire en raison d'adhérences secondaires à une intervention chirurgicale dans l'enfance, en plus de la difficulté qu'impliquerait la sélection d'embryons pour les deux mutations ; il a donc été décidé de ne pas poursuivre cette procédure. Les alternatives pour cette patiente sont l'adoption, le diagnostic prénatal ou le don d'ovules.
+
+Examen physique
+......
+Tests complémentaires
+......
+Diagnostic
+......
+Traitement
+.....
+L'évolution
+.....

@@ -1,0 +1,41 @@
+Anamnèse
+Femme de 55 ans avec deux enfants en bonne santé. Pas d'habitudes toxiques. Allergique aux sulfamides, sans autres antécédents personnels ou familiaux intéressants.
+Elle signale une bradypsychie et des céphalées holocrâniennes depuis une semaine, qui n'ont pas disparu sous analgésie et qui se sont intensifiées au cours des derniers jours.
+
+Examen physique
+Examen neurologique : hémianopsie latérale droite et claudication distale dans le membre supérieur droit. Le reste de l'examen physique n'a pas montré d'altérations significatives.
+
+Examens complémentaires
+"Examens de laboratoire au service des urgences : plaquettes (72 000), transaminases légèrement élevées (GOT 84 UI/l, GPT 103 UI/l, GGT 41 UI/l), augmentation des D-dimères (1 212), par ailleurs inchangés.
+"Radiographie du thorax : nodule aux contours mal définis dans le lobe inférieur gauche.
+"Tomodensitométrie cérébrale sans contraste : deux images de 1,5 cm dans la région pariéto-occipitale droite et de 2 cm controlatérale compatibles avec une métastase comme première possibilité, sans exclure une origine ischémique.
+Au vu de ces résultats, il a été admis en pneumologie pour des examens complémentaires :
+"Marqueurs tumoraux (CEA 10,6, CA 125, 123), étude de l'auto-immunité (ANA, ANCA et AC-cardiolipine) et protéinogramme sérique sans anomalie.
+"Scanner thoraco-abdomino-pelvien : nodule pulmonaire dans le lobe inférieur gauche, 1,7 cm, spiculé, en contact avec la plèvre postérieure, adénopathies médiastinales sous-carénales et prétrachéales, de taille importante (2 cm). Lésions hypodenses au niveau du parenchyme splénique dans les deux reins compatibles avec des infarctus.
+"IRM : multiples lésions intra-axiales supra- et infratentorielles évoquant une origine ischémique, sans pouvoir exclure complètement une origine néoplasique/paranéoplasique.
+"Biopsie guidée par scanner : adénocarcinome pulmonaire, mutation EGFR et translocation ALK négatives.
+
+Diagnostic
+Adénocarcinome pulmonaire avec de multiples infarctus viscéraux.
+
+Traitement
+Compte tenu de la suspicion de cause thromboembolique des lésions décrites, un traitement par héparine sodique a été instauré en raison de la possibilité d'inverser le risque d'hémorragie des lésions ischémiques cérébrales ; par la suite, le patient est passé à l'héparine de faible poids moléculaire à des doses d'entretien prophylactiques. La biopsie transœsophagienne de l'adénopathie médiastinale a été suspendue en raison du début de l'anticoagulation.
+Le traitement a commencé par 75 mg/m2 de cisplatine le premier jour + 500 mg/m2 de pemetrexed les jours 1/21, en attendant la fin d'une étude d'extension.
+
+Évolution
+Suite au diagnostic d'adénocarcinome pulmonaire avec atteinte probable du système nerveux central, il a été décidé de la transférer en oncologie. La patiente a présenté une détérioration neurologique rapide, avec apparition d'une hémianopsie et d'une aphasie mixte.
+Des examens ont été entrepris pour suspecter une endocardite bactérienne :
+"Échocardiographie transthoracique : fonction ventriculaire et structure valvulaire normales.
+"Endoscopie transœsophagienne : végétation dans le feuillet postérieur de la valve mitrale avec densité de thrombus causant une insuffisance mitrale de grade III/IV.
+"Hémocultures : négatives.
+"PET scan : image nodulaire spéculaire mal définie (1,47 x 1,23 cm) dans le segment VI du poumon gauche, en contact avec la plèvre avec activité métabolique, adénopathies de 10 mm avec activité métabolique discrète au niveau paratrachéal, sous-carénal gauche. Lésion suprarénale gauche de 8 mm, probable adénome.
+
+Après l'administration d'un traitement cytostatique et d'héparine, il a présenté une stabilisation clinique et une amélioration ultérieure. Il a été décidé de le faire sortir de l'hôpital pour poursuivre un traitement ambulatoire avec un diagnostic d'adénocarcinome pulmonaire T1bN1M0 de stade IIA avec endocardite non bactérienne et de multiples infarctus viscéraux et du système nerveux central.
+
+Il a terminé quatre cycles de chimiothérapie avec une bonne tolérance ; le scanner PET-CT a montré une maladie stable avec une diminution de la taille, avec des zones métaboliques dans le cerveau d'étiologie vasculaire et une normalisation des marqueurs.
+
+Il a été évalué par un chirurgien thoracique. Une lobectomie du poumon inférieur gauche a été réalisée en mars 2015, avec prélèvement de ganglions lymphatiques médiastinaux. Résultat anatomopathologique : adénocarcinome pulmonaire de type acineux, 1,4 cm, avec réponse pathologique incomplète IIa (plus de 10 % de tumeur viable) avec invasion vasculo-lymphatique et bords libres ypT1a yPL0 yN0 y Mx.
+
+Le dernier scanner abdomino-pelvien réalisé en mai 2015 a montré des séquelles post-chirurgicales. L'échocardiographie transœsophagienne sans images évocatrices d'endocardite.
+
+Le patient est actuellement en vie, sans aucun signe de maladie maligne, avec des séquelles neurologiques d'aphasie expressive.

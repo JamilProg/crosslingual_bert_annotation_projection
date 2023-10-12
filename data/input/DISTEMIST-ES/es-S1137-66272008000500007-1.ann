@@ -1,0 +1,15 @@
+T1	pathologie 84 94	meningitis
+T2	pathologie 121 135	embarazo molar
+T3	pathologie 179 187	fumadora
+T4	pathologie 325 353	hidrocefalia fetal bilateral
+T5	pathologie 356 367	oligoamnios
+T6	pathologie 685 713	hematomas en hombro y glúteo
+T7	pathologie 726 771	macrocefalia con fontanela anterior a tensión
+T8	pathologie 842 862	tombocitopenia grave
+T9	pathologie 904 908	TFNA
+T10	pathologie 1397 1415	hidrocefalia grave
+T11	pathologie 1397 1456	hidrocefalia grave secundaria a hemorragia intraventricular
+T12	pathologie 1429 1456	hemorragia intraventricular
+T13	pathologie 1553 1588	líquido cefalorraquídeo hemorrágico
+T14	pathologie 1646 1659	ventriculitis
+T15	pathologie 1662 1680	crisis convulsivas

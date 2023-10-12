@@ -1,0 +1,28 @@
+Anamnèse
+Homme, 57 ans, résidant dans une zone rurale, agriculteur de profession, a déclaré avoir été régulièrement en contact avec des engrais. Il n'avait pas d'allergies médicamenteuses connues ni d'antécédents personnels intéressants, à l'exception de l'ablation d'un carcinome basocellulaire de la joue droite en 2013.
+Elle ne suivait pas de traitement médical régulier.
+Elle a consulté son médecin traitant pour une dysphagie mixte progressive qui dure depuis 12 mois et ne s'accompagne d'aucun autre symptôme. Elle avait perdu volontairement 14 kg au cours des huit derniers mois.
+Le reste de l'anamnèse par appareil ne reflétait aucune donnée pertinente.
+
+Examen physique
+Le patient était en bon état général, ECOG1, et l'examen physique était sans particularité. L'abdomen était mou et dépressible, non douloureux et aucune masse ou mégalithe n'était palpable.
+
+Examens complémentaires
+"Le premier examen complémentaire réalisé a été une gastroscopie montrant la présence d'une lésion exophytique irrégulière, dure et friable à 35 cm de l'arcade dentaire, au niveau de la jonction oesophago-gastrique (JOG), qui empêchait le passage de l'endoscope. Les biopsies effectuées sur la lésion étaient compatibles avec un adénocarcinome indifférencié.
+"L'étude a été complétée par un scanner thoraco-abdominal qui a confirmé la présence d'une tumeur au niveau de la jonction œso-gastrique et des adénopathies juxta-œsophagiennes ainsi qu'au niveau du ligament gastro-hépatique. Aucune métastase à distance n'a été identifiée.
+"Les marqueurs tumoraux (CEA et Ca 19.9) étaient dans les limites de la normale.
+
+Diagnostic
+Avec le diagnostic d'adécarcinome indifférencié localement avancé de l'UGE (cT3N+), le patient a été présenté au Comité multidisciplinaire sur les tumeurs oesophagogiques et une intervention chirurgicale a été décidée.
+
+Traitement
+Une oesophagectomie totale et une gastrectomie du tiers supérieur d'Ivor-Lewis ont été réalisées.
+
+L'étude anatomopathologique de la pièce opératoire a montré un aspect glandulaire compatible avec un adénocarcinome diffus de grade 3 peu différencié, avec des cellules en bague de signet de l'UGE infiltrant toutes les couches de la muqueuse gastrique. Il y avait une lymphangite carcinomateuse extramurale étendue, une infiltration des lymphatiques périneuraux et une infiltration métastatique de 15 des 23 ganglions excisés par des cellules d'adénocarcinome. Selon la classification TNM, il s'agissait d'un pT3N3, stade IIIC.
+
+L'analyse immunohistochimique a cependant révélé une positivité pour la cytokératine 7 et une positivité étendue et diffuse pour la synaptophysine, la chromogranine et la E-cadhérine dans les membranes cellulaires ; le Ki-67% était supérieur à 60% dans plus de 30% des cellules. HER-2 n'était pas amplifié.
+Tous ces éléments confèrent à la tumeur une différenciation neuroendocrine.
+Compte tenu des résultats de l'IHC et du schéma architectural de l'échantillon, le diagnostic final a été celui d'une tumeur mixte : adénocarcinome peu différencié avec cellules en anneau de signet et carcinome neuroendocrine avec Ki-67 de 60 % de l'EGU (MANEC). pT3N3. Stade IIIC.
+
+Evolution
+Compte tenu du diagnostic définitif et de l'agressivité des deux composantes histologiques, nous avons opté pour une chimiothérapie active contre les deux composantes, basée sur le cisplatine et la capécitabine en traitement adjuvant ; traitement qu'il continue à recevoir actuellement avec une bonne tolérance.

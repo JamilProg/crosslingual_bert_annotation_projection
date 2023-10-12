@@ -1,0 +1,12 @@
+T1	pathologie 169 234	lesiones eritematosas en la superficie pretibial de ambas piernas
+T2	pathologie 399 439	infección leve de vías aéreas superiores
+T3	pathologie 675 683	lesiones
+T4	pathologie 855 863	lesiones
+T5	pathologie 1687 1695	lesiones
+T6	pathologie 1872 1910	eritema nodoso de etiología idiopática
+#1	SNOMED T2	54150009
+#2	SNOMED T6	32861005
+#3	SNOMED T1	400202001
+#4	SNOMED T3	157670007
+#5	SNOMED T4	157670007
+#6	SNOMED T5	157670007

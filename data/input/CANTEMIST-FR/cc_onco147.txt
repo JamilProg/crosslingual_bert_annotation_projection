@@ -1,0 +1,38 @@
+Anamnèse
+Femme de 40 ans avec les antécédents familiaux suivants : père atteint d'un carcinome de la prostate. Antécédents personnels : NAMC, ex-fumeuse depuis plus de 5 ans.
+
+Antécédents médicaux : mastopathie fibrokystique. Antécédents chirurgicaux : kyste du sein droit opéré et deux curetages en raison de métrorragies. Antécédents gynéco-obstétricaux : ménarche à l'âge de 11 ans, G2P2, FM 5/28 jours LMP 20 septembre 2013.
+En août 2013, elle a remarqué une gêne non spécifique dans le bras gauche, elle a donc consulté le médecin et a subi une échographie mammaire, qui a révélé de multiples adénopathies axillaires, de sorte qu'une biopsie mammaire a été envisagée un mois plus tard (9/2013) avec un diagnostic de cancer infiltrant sous-type non spécial RE(-), RP(-), Her-2 (3+), Ki-67 50-60%, axillaire (+).
+
+Examen physique
+ECOG 0. Poids : 61,5 kg. Taille : 167 cm. SC : 1,68 m2.
+
+Seins denses, asymétriques, de taille 90 C, en raison de la plus grande densité de la CSB du sein gauche occupée par un gros nodule pierreux, peu mobile, d'environ 6 cm, fixé aux plans antérieur et postérieur. Des nodules de référence sont palpés dans le CSC du sein droit. Axillaire : des ganglions lymphatiques pathologiques sont palpés dans la région axillaire et sus-claviculaire gauche.
+
+Examens complémentaires
+" Échographie du sein, bilatérale (10/9/2013) : nodule de 5,3 cm dans le quadrant supéro-externe du sein gauche, infiltrant la peau, avec des caractéristiques claires de malignité. Multiples ganglions pathologiques au niveau axillaire gauche.
+"Biopsie à l'aiguille du sein gauche (BAG) (10/9/2013). Pathologie : A, carcinome infiltrant de sous-type histologique non spécial ; B, infiltration par le carcinome.
+" Immunohistochimie du carcinome mammaire : ER(-), PR(-), Ki-67 50-60 %, axille (+), CK19 (+), Her-2 (voie 4B5) : positivité membranaire intense dans plus de 80 % des cellules (score 3+).
+
+Étude de prolongation :
+" Scanner thoracique (7/11/2013) : masse mal définie avec hyperenhancement périphérique du sein gauche avec croissance millimétrique (2 à 3 mm à différents niveaux axiaux). Elle mesure 45 x 25 x 46 mm.
+Croissance évidente de la plupart des multiples nodules pulmonaires.
+"IRM du sein. Sein gauche : masse hétérogène à la jonction des quadrants externes, avec un rehaussement épais et irrégulier à la périphérie de celle-ci, avec une région centrale hypocapture, mesurant 50 x 38 x 50 mm de diamètre. Lymphadénopathie d'apparence pathologique dans l'aisselle gauche.
+
+Diagnostic
+Cancer du sein métastatique dans le SCC du sein gauche avec atteinte pulmonaire et adénopathique avec phénotype Her-2.
+
+Traitement
+Proposition d'entrée dans l'étude DASATINIB GEICAM 2010-04 (taxol + herceptine + dasatinib), version 27/10/2011. Début du traitement le 11/2013, recevant six cycles en raison de l'EP, deuxième ligne de traitement par capécitabine + lapatinib (28/5/2014) et réévaluation après le deuxième cycle, avec changement pour létrozole + lapatinib, avec une nouvelle EP dans le poumon et dans le sein gauche, pour laquelle un double blocage est prescrit. Elle a commencé un traitement par pertuzumab + trastuzumab + docétaxel, avec mauvaise réponse au traitement avec progression locale, décidant de commencer TDM1 (4/2014) ; elle est actuellement dans le quatrième cycle, en attente d'une réévaluation CT scan.
+
+Evolution
+En attendant d'entrer dans l'essai clinique (20/10/2013), elle a présenté une lésion cutanée érythémateuse à bords irréguliers et une lésion ulcéreuse drainant un matériel blanchâtre d'environ 8 cm de diamètre dans son grand axe au niveau du sein gauche. Des pansements locaux et un traitement antibiotique empirique ont été mis en place, avec une amélioration de la lésion deux semaines plus tard.
+" 10/3/2014 : réponse métabolique partielle de la lésion primaire située dans le CSE du sein gauche. Réponse métabolique complète probable de l'atteinte lymphatique axillaire, mammaire interne, supraclaviculaire et cervicale gauche et des métastases pulmonaires bilatérales.
+" PE (5/2014) : confirmation de la croissance et de la DP de la maladie au niveau pulmonaire, notamment celle du pulmon gauche (> 30 % avec RECIST). Neurotoxicité résiduelle au niveau du pied droit, il a donc été décidé d'arrêter le traitement et de sortir de l'essai clinique en raison de la progression de la maladie.
+" Une deuxième ligne de traitement est débutée avec lapatinib + capecitabine avec réévaluation CT scan (9/2014) : croissance subtile et persistante des métastases hématogènes parenchymateuses pulmonaires des deux côtés avec apparition d'une nouvelle dans le segment antérieur du LSD, donc une nouvelle ligne de traitement avec letrozole + lapatinib est décidée.
+" 10/12/2014 : Le scanner montre une progression de la maladie thoracique, tant au niveau du sein gauche (masse plus importante du SES, épaississement cutané plus important et nodules hypervasculaires parenchymateux qui n'existaient pas dans l'étude précédente), qu'au niveau des métastases pulmonaires bilatérales, qui ont augmenté en volume et en nombre par rapport aux études précédentes. Il a été décidé de commencer un double blocage.
+" 1/2015 : début du traitement par pertuzumab + trastuzumab + docétaxel, amélioration de la douleur et de la suppuration de la plaie au niveau du sein.
+"CT scan (1/2015) : néoplasme du sein gauche, qui a diminué en taille par rapport à l'étude précédente, mesurant maintenant 17,5 x 27 mm. Les ganglions lymphatiques axillaires ont également diminué de taille. Les nodules pulmonaires existant dans les études précédentes ont pratiquement disparu, quelques nodules millimétriques subsistant dans certains cas de haute densité.
+"4/2015 : le traitement par TDM1 a été entamé.
+" CT scan thoracique (4/2015) : CT scan du 7 avril simultané au premier TDM1 : signes de progression de sa maladie, avec une augmentation du nombre et de la taille des métastases pulmonaires et des formations adénopathiques métastatiques dans le thorax.
+"Il est actuellement en attente d'une réévaluation par tomodensitométrie.

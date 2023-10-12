@@ -1,0 +1,21 @@
+Anamnèse
+Patiente de 65 ans, diabétique non insulinodépendante, hypertendue, présentant un syndrome obésité-hypoventilation et une hypothyroïdie auto-immune. Elle a subi une néphrectomie gauche pour une pyélonéphrite granulomateuse secondaire à des calculs colariformes, et l'étude anatomopathologique de l'adénopathie hilaire rénale a révélé une métastase de carcinome avec embolisation lymphatique morphologiquement suggestive et immunochimiquement compatible avec une origine mammaire (CK7+ ; CK20- ; EMA+ ; mammoglobine + ; récepteurs d'œstrogènes -).
+
+Examen physique
+L'examen du sein droit montre une rétraction aréolaire et une masse de 3 cm de diamètre. Adénopathie axillaire palpable. Le reste de l'examen physique ne montre pas d'altérations significatives.
+
+Examens complémentaires
+"Une mammographie et une échographie mammaire ont été réalisées : densité asymétrique rétroaréolaire droite. Nodule à contours très irréguliers dans la région axillaire droite qui a fait l'objet d'une biopsie. Rapport pathologique : carcinome infiltrant, récepteurs hormonaux négatifs, Her-2 (herceptest 3+), Ki-67 20 %, mammoglobine +, GCDFP15 -.
+"Adressée au service d'oncologie médicale, l'étude a été complétée par une tomographie par émission de positons (TEP) du corps entier : nodule hypermétabolique du sein droit (SUVmax : 12,1 g/ml) 18 x 26 mm. Multiples ganglions hypermétaboliques (régionaux et distants).
+"Les examens de laboratoire ont révélé une anémie microcytaire, hypochrome (Hb 10,6 g/dl), CEA 6 ng/ml, CA 15,3 normal ; CTC 2/7,5 ml.
+"Nous avons demandé une échocardiographie de référence : ventricule gauche de taille normale avec une bonne fonction systolique. Hypertrophie ventriculaire gauche concentrique de degré modéré. Fraction d'éjection : 77,6 %.
+
+Diagnostic
+Carcinome mammaire Her-2 positif, récepteurs hormonaux négatifs E-IV (cT2 cN1 M1).
+
+Traitement
+La patiente a commencé un traitement de première intention par docétaxel 75 mg/m2 tous les 21 jours, trastuzumab 6 mg/kg tous les 21 jours (dose initiale 8 mg/kg) et pertuzumab 420 mg tous les 21 jours (dose initiale 840 mg).
+
+L'évolution
+Il a reçu deux cycles de traitement, avec une bonne tolérance globale. Toxicité notable : toxicité gastro-intestinale de grade 1 avec diarrhée et nausées, régulée par un régime astringent et des antiémétiques.
+Le troisième cycle est en cours d'achèvement.

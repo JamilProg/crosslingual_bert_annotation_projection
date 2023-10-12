@@ -1,0 +1,36 @@
+Anamnèse
+Femme de 48 ans sans antécédents personnels ou familiaux intéressants. G1P1. Pas de symptômes climatériques. Suivi par le service de gynécologie pour hyperménorrhée et utérus polymyomateux, sans signe de pathologie annexielle.
+Elle s'est présentée au service des urgences pour des douleurs abdominales, compatibles avec un abcès tubo-ovarien après évaluation par échographie transvaginale et abdominale.
+
+Examen physique
+PS 0, poids 60 kg. Taille 157 cm.
+
+Examens complémentaires
+Tomodensitométrie abdominale (10/04/2019) : utérus élargi avec des contours irréguliers et une prise de contraste hétérogène, montrant une lésion solide-kystique mesurant environ 16 cm de diamètre craniocaudal maximal sur 11 cm de diamètre transversal et 9 cm en antéropostérieur. Résultats compatibles avec un possible cystadénocarcinome ovarien avec infiltration de l'utérus et possibles implants péritonéaux ou néoplasie utérine.
+
+Rapport de pathologie (24/04/2019)
+" Adénocarcinome endométrioïde de l'ovaire pT1a.
+" Adénocarcinome endométrioïde de l'endomètre G2, pT1a.
+"Adénocarcinome intestinal pT4aN0.
+
+Étude immunohistochimique : positive pour l'instabilité des microsatellites.
+Les néoplasies endométriales et intestinales ont montré un profil d'expression anormale des protéines de réparation de l'ADN avec une positivité dans les cellules néoplasiques pour MLH-1 et PMS-2 et une négativité pour MSH-2 et MSH-6, suggérant un syndrome de Lynch dû à l'inactivation du gène MSH-2, soit en raison d'une mutation germinale, soit en raison d'une délétion d'EpCam.
+
+Diagnostic
+Trois tumeurs synchrones (adénocarcinome endométrioïde de l'ovaire IA, adénocarcinome endométrioïde de l'endomètre IA et adénocarcinome intestinal IIC) compatibles avec le syndrome de Lynch.
+
+Traitement
+" (08/03/2019) Annexectomie droite par laparoscopie : grosseur ovarienne droite de 15 cm d'aspect blanchâtre et nacré, surface lisse sans aspect malin. Faible quantité de liquide purulent sortant des deux trompes et à travers cette tumeur, décrite avec des adhérences laxes à la région abdominale droite.
+" (24/04/2019) Une laparoscopie exploratrice a été réalisée pour envisager une chirurgie de stadification du cancer de l'ovaire. Finalement, une hystérectomie totale simple, une annexectomie gauche et une hémicolectomie droite conventionnelle ont été réalisées.
+" (30/04/2019) Cœlioscopie exploratoire pour éventration post-chirurgicale.
+" (03/06/2019) Début du premier cycle de chimiothérapie adjuvante pour la néoplasie du côlon, selon le schéma XELOX, sans incidences ni toxicités.
+
+Evolution
+Il s'agit d'une patiente présentant une symptomatologie clinique de douleurs abdominales d'évolution de plusieurs semaines, adressée du service des urgences au service de gynécologie le 08/03/2019, où une échographie transvaginale et abdominale a été réalisée. Une formation hétérogène mesurant 12 x 14 cm a été observée, compatible avec un abcès tubo-ovarien. En outre, une tomodensitométrie de l'abdomen a été réalisée avec des résultats compatibles avec un possible cystadénocarcinome ovarien avec infiltration de l'utérus et implants péritonéaux ou néoplasie utérine.
+Le 08/03/2019, elle a subi une annexectomie droite par laparoscopie, avec des résultats anatomopathologiques d'un adénocarcinome endométrioïde modérément différencié (G2) de l'ovaire, de sorte qu'une laparoscopie exploratoire a été programmée pour le 24/04/2019 afin de compléter la chirurgie de stadification du cancer de l'ovaire en raison de la suspicion d'une néoplasie avancée, et une hystérectomie totale simple et une annexectomie gauche ont été réalisées. Des implants ont été trouvés dans le côlon droit.
+En collaboration avec le service de chirurgie, une hémicolectomie droite conventionnelle a été pratiquée et un cathéter a été placé en vue d'une éventuelle chimiothérapie intrapéritonéale post-chirurgicale en raison de la suspicion d'un cancer de l'ovaire localement avancé.
+La patiente a évolué de manière torpide avec des symptômes consistant en un syndrome vomitif et une gêne abdominale, le scanner montrant une éventration de l'anse de l'intestin grêle avec une difficulté de transit sans atteinte ischémique. Cette situation a été discutée au sein du comité de chirurgie et une laparotomie exploratoire a été décidée le 30/04/2019. Une fois l'affection résolue avec réintroduction ultérieure du régime alimentaire et bonne tolérance, la patiente est sortie de l'hôpital.
+Dans le rapport anatomopathologique du 24/04/2019, il a été révélé que l'atteinte du côlon droit visualisée en peropératoire était en fait celle d'une troisième tumeur primaire s'installant sur le côlon.
+La patiente présente donc trois entités néoplasiques : l'initiale, opérée sur l'ovaire droit (adénocarcinome endométrioïde de l'ovaire pT1a) ; une seconde, localisée dans l'endomètre (adénocarcinome endométrioïde de l'endomètre G2, pT1a) et, enfin, celle présente dans le côlon (adénocarcinome intestinal pT4aN0).
+Etant donné le doute quant à savoir si l'atteinte ovarienne était secondaire à une tumeur endométriale avancée ou vice versa, à la demande du Comité multidisciplinaire pour les tumeurs gynécologiques, une révision des pièces chirurgicales de l'annexectomie droite et de la seconde chirurgie a été demandée.
+La patiente a déjà été évaluée par notre service d'oncologie médicale et une chimiothérapie adjuvante a été mise en place pour l'adénocarcinome du côlon. Aucun traitement complémentaire n'est nécessaire pour les néoplasies ovariennes et endométriales puisqu'elles en sont au stade initial.

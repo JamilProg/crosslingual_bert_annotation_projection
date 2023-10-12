@@ -1,0 +1,30 @@
+Anamnèse
+Nous avons affaire à un homme de 63 ans, sans allergies médicamenteuses ou habitudes toxiques connues ; sans autres antécédents personnels d'intérêt ou de traitement habituel. Ses antécédents familiaux comprennent un père décédé d'un néoplasme d'origine inconnue avec métastases pulmonaires.
+Ses symptômes ont débuté en mars 2017 lorsqu'il s'est présenté aux urgences pour 5 jours de douleurs épigastriques associées à des nausées et un ictère progressif. Il a été admis au service digestif pour des examens complémentaires.
+
+Examen physique
+- Le patient présente un ECOG 0.
+- Bon état nutritionnel.
+- Normoperfusion.
+Ictère cutané et conjonctival.
+- Tête et cou sans adénopathies latérocervicales.
+- Auscultation cardio-pulmonaire : rythmée, sans souffle, avec un souffle vésiculaire conservé.
+- L'abdomen est mou, avec une gêne à la palpation de l'hypochondre droit.
+Murphy et Blumberg négatifs.
+- Pas de signes d'irritation péritonéale.
+- Péristaltisme normal.
+
+Examens complémentaires
+Dans l'analyse analytique, le résultat le plus notable était une bilirubine totale de 9,7 au détriment de la directe de 7,1, une légère transaminasémie avec un hémogramme et une coagulation normaux.
+Lors de l'admission, un scanner abdominal a été réalisé et a révélé une dilatation des voies biliaires intra- et extra-hépatiques, nécessitant une IRM pour en confirmer la cause. Celle-ci a montré un épaississement mural sténosant avec une masse endoluminale du canal biliaire extrahépatique à 1 cm du confluent du canal hépatique commun, évoquant un cholangiocarcinome, tumeur de type I de Klatskin, sans extension extraductale. Avec ce diagnostic, une tomodensitométrie thoracique a été demandée pour évaluer la maladie à distance, sans résultat pathologique.
+Le 22 mars 2017, il a subi une résection des voies biliaires avec lymphadénectomie périportale et rétroportale R0 périhépatique.
+L'anatomie pathologique de la pièce opératoire de la voie biliaire extrahépatique a conclu à un adénocarcinome peu différencié (G3) d'un diamètre de 1,4 cm dépassant la paroi de la voie biliaire, infiltrant focalement le tissu fibro-adipeux environnant (pT2) ; en plus de multiples images d'invasion périneurale. Les autres examens n'ont révélé aucun signe de malignité.
+
+Diagnostic
+Cholangiocarcinome extra-hépatique GHIII avec invasion périneurale, pT2pN1M0-R0.
+
+Traitement
+Un traitement adjuvant par gemcitabine est débuté. Après 3 cycles, et compte tenu de l'augmentation progressive du marqueur Ca 19.9, qui atteint 414, une IRM est demandée avec l'apparition de 3 LOE hépatiques solides suggérant des métastases et des adénopathies indéterminées du tronc cœliaque et hilaires. Compte tenu des résultats, il a été proposé de commencer une chimiothérapie palliative de première ligne avec cisplatine + gemcitabine, généralement bien tolérée, avec seulement une toxicité hématologique avec une neutropénie G3 afébrile, de sorte que le traitement a été retardé de quelques cycles. Le scanner après le troisième cycle a montré une réponse partielle significative, de sorte que les trois cycles suivants ont été poursuivis. Les résultats du scanner et de l'IRM après le sixième cycle ont montré une réponse complète avec résolution de toutes les lésions, qui s'est maintenue depuis novembre 2017 à ce jour.
+
+Évolution
+Le patient poursuit ses contrôles analytiques et d'imagerie tous les 4 mois, présentant actuellement une réponse complète.

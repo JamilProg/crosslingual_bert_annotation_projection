@@ -1,0 +1,12 @@
+T1	pathologie 37 44	síncope
+T2	pathologie 698 707	hemotórax
+T3	pathologie 749 819	rotura de un aneurisma sacular de la porción terminal del arco aórtico
+T4	pathologie 891 900	aneurisma
+T5	pathologie 1734 1755	colagenopatía atípica
+T6	pathologie 1825 1843	Síndrome de Marfan
+#1	SNOMED T1	29423006
+#2	SNOMED T5	81573002
+#3	SNOMED T3	23115009
+#4	SNOMED T6	19346006
+#5	SNOMED T4	432119003
+#6	SNOMED T2	31892009

@@ -1,0 +1,24 @@
+T1	pathologie 150 157	migraña
+T2	pathologie 159 198	parálisis facial periférica "a frigore"
+T3	pathologie 227 236	depresión
+T4	pathologie 331 362	secuelas de su parálisis facial
+T5	pathologie 346 362	parálisis facial
+T6	pathologie 421 474	proceso expansivo que ocupaba hemifosa posterior dcha
+T7	pathologie 479 485	lesión
+T8	pathologie 688 694	lesión
+T9	pathologie 973 985	hidrocefalia
+T10	pathologie 1440 1463	Glioblastoma multiforme
+T11	pathologie 1898 1904	Cancer
+T12	pathologie 2044 2062	recidiva del tumor
+#1	SNOMED T1	37796009
+#2	SNOMED T2	449916008
+#3	SNOMED T10	393563007
+#4	SNOMED T6	254935002
+#5	SNOMED T3	394924000
+#6	SNOMED T4	95666008
+#7	SNOMED T8	417163006
+#8	SNOMED T5	280816001
+#9	SNOMED T12	25173007
+#10	SNOMED T9	230745008
+#11	SNOMED T11	363346000
+#12	SNOMED T7	417163006

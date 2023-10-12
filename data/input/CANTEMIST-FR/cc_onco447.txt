@@ -1,0 +1,31 @@
+Anamnèse
+Un homme de 54 ans, ex-fumeur de 50 paquets-années, atteint de dyslipidémie, sans autres antécédents dignes d'intérêt.
+En avril 2018, on lui diagnostique un adénocarcinome pulmonaire indifférencié, cT3cN3 cM1c, stade IVB avec métastases hépatiques. EGFR non muté, ALK et ROS1 négatifs, avec PD-L1 20-30 %. Elle a reçu une chimiothérapie à base de cisplatine et de pemetrexed (80 % en raison de la fragilité), complétant un total de 4 cycles jusqu'en juillet 2018.
+Après 4 cycles, une tomodensitométrie de contrôle a été réalisée avec des signes de réponse partielle, de sorte qu'une chimiothérapie d'entretien avec du pemetrexed a été débutée en août 2018.
+Elle a consulté pour le deuxième cycle de chimiothérapie en septembre 2018, se plaignant de 2 semaines d'asthénie, associée à des fièvres l'après-midi, avec un pic de fièvre à 38 ºC et une toux, et a été adressée au service des urgences où des hémocultures (HC) ont été réalisées et la ceftriaxone et la lévofloxacine ont été débutées.
+
+Examen physique
+"Hémodynamiquement stable, avec des signes de pâleur cutanéo-muqueuse et d'érythème palpébral violacé.
+"Dyspnée à l'effort modéré ou minime.
+"Auscultation pulmonaire avec diminution du murmure vésiculaire et crépitations dans les deux bases pulmonaires.
+"Cyanose cutanée avec froideur des doigts de la main droite et du pouce gauche, ainsi que douleur (elle a déclaré l'avoir depuis 10 jours avant l'admission), et papules de Gottron.
+"Le reste de l'examen physique n'a rien révélé de pertinent.
+Examens complémentaires
+"ECG et radiographie pulmonaire normaux.
+"Hémogramme : anémie, thrombocytose et leucocytose avec décalage vers la gauche augmentant avec les contrôles ultérieurs.
+"Biochimie : détérioration de la fonction rénale, hyponatrémie, élévation de la LDH et de la CRP.
+"Les hémocultures, les cultures d'urine, les cultures d'expectoration et les cultures de selles se sont révélées négatives.
+Compte tenu de ces résultats, il a été initialement diagnostiqué avec une septicémie d'origine respiratoire probable, et traité avec de la ceftriaxone et de la lévofloxacine. Malgré l'antibiothérapie initiale, des pics fébriles persistants avec des hémocultures négatives l'ont amené à être adressé au service des maladies infectieuses, où l'antibiothérapie a été prolongée avec du méropénem et de la daptomycine.
+La seule observation a été un épanchement péricardique léger à modéré et de multiples cultures négatives prises à différentes occasions.
+Le patient a continué à présenter des pics fébriles bien tolérés et sans instabilité hémodynamique, ainsi que des altérations cutanées dans les doigts alternés des deux mains ; un syndrome paranéoplasique a été suspecté et une étude d'auto-immunité a été étendue :
+Anti-MDA 5 +++, les autres étant négatifs. Il a été évalué par le service de rhumatologie, qui a confirmé la suspicion.
+
+Diagnostic
+Dermatomyosite d'origine paranéoplasique.
+
+Traitement
+Méthylprednisolone 60 mg, acide acétylsalicylique et héparine de faible poids moléculaire.
+
+Évolution
+Un traitement a été débuté par des corticoïdes à forte dose sans pic de fièvre les premiers jours, sans amélioration des lésions cutanées et la fièvre est réapparue après quelques jours, ainsi qu'une asthénie intense et une dégradation de l'état général, ce qui a conduit à la décision de ne pas poursuivre le traitement oncologique actif, le souhait du patient étant de sortir à domicile avec l'appui du service de l'unité de soins palliatifs compte tenu de sa situation.
+Compte tenu de la dégradation de son état général, une sédation palliative a été mise en place et il est décédé le 2/10/2018.

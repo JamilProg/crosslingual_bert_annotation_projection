@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 51 ans, fumeur de 1,5 paquet par jour, buveur occasionnel et hypertendu ; aucun autre antécédent intéressant. En 2009, on lui a diagnostiqué un mélanome à extension superficielle situé au niveau infrapalpébral droit T1N0M0 (Breslow 0,7, Clark niveau III avec des signes de régression). Il a été réopéré jusqu'à cinq fois avec élargissement des marges jusqu'en novembre 2013. Après un intervalle de deux ans sans maladie, il a présenté en mars 2013 un nodule submandibulaire droit douloureux.
+
+Examen physique
+Au niveau du visage, il existe une cicatrice sur le canthus interne de l'oeil droit, sans signe de récidive. Nodule sous-mandibulaire droit, de consistance pierreuse, d'environ 1 cm, douloureux à la palpation. Aucun autre ganglion cervical n'a été palpé.
+
+Tests complémentaires
+L'étude FNA a conclu que des cellules atypiques étaient compatibles avec une métastase de mélanome.
+En mai 2013, une tomodensitométrie du cou a été réalisée, au cours de laquelle une petite adénopathie d'environ 1,5 cm avec une zone centrale hypodense et une prise de contraste périphérique a été observée au niveau submandibulaire droit (niveau IB), compatible avec une probable adénopathie métastatique. Le PET scan a montré une adénopathie sous-mandibulaire droite métaboliquement positive dans la région malaire droite. Après une première approche chirurgicale, et en raison de la progression rapide de la lésion, il a été décidé, après avoir discuté du cas lors d'une séance multidisciplinaire, de demander une IRM. L'IRM a montré une masse d'origine métastatique dans la région submandibulaire droite, englobant la glande sous-maxillaire droite et infiltrant le plancher de l'espace masticatoire, avec une probable adénomégalie associée dans l'espace cervical postérieur homolatéral.
+
+Diagnostic
+"Initial : mélanome cutané T1N0M0.
+"Actuel : récidive des ganglions lymphatiques. Stade III non résécable.
+
+Traitement
+Suite à ces résultats, un traitement radical a été exclu et, comme il s'agissait d'une récidive locorégionale rapidement progressive et non résécable, une chimiothérapie palliative (QT) a été décidée.
+
+Évolution
+En septembre 2013, la 1ère ligne de QT a été débutée par de la dacarbazine (1 900 mg iv tous les 21 jours), et le statut mutationnel du gène BRAF a été demandé. Après avoir reçu 3 cycles, une progression clinique (douleur non contrôlée et PS 1) et radiologique supérieure à 50 % a été observée, il a donc été décidé d'arrêter le traitement.
+En novembre 2013, une 2e ligne de QT a été débutée avec de la fotémustine (induction 180 mg/jour 1-8-15, repos pendant 5 semaines puis 100 mg/m2/jour tous les 21 jours) jusqu'à l'obtention des résultats BRAF. En janvier 2014, un scanner a été réalisé montrant une nouvelle progression de la maladie, avec un gros conglomérat mandibulaire, mesurant 8 x 13,4 x 16 cm.
+Compte tenu de la progression clinique rapide, du contrôle difficile de la douleur et de la confirmation de la positivité de BRAF, une 3e ligne par vemurafenib a été débutée en janvier 2014 à la dose de 960 mg/12 h/jour, par voie orale, avec des contrôles tous les 28 jours. Après le troisième cycle de traitement, le patient a montré une amélioration clinique très significative (douleur occasionnelle VAS 1-2 et PS 0), sans toxicité III-IV. Un scanner de contrôle a montré une réduction de la taille de la tumeur, avec une réponse partielle de >90% au traitement, avec des contrôles successifs montrant une stabilité de la maladie, avec probablement une infiltration fibrotique dans les niveaux I, II, III et V dans la région cervicale droite, avec une réponse adéquate au traitement. Les évaluations ont été effectuées tous les 28 jours, avec un contrôle radiologique par tomodensitométrie tous les 4 mois.
+Les contrôles radiologiques ultérieurs ont montré une réponse complète, avec des changements fibrotiques secondaires, sans aucun signe de récidive ou d'implication métastatique.
+Après 14 mois d'ILE, il a présenté une mucosite de grade II et une asthénie de grade II, et la dose a été réduite à 720 mg/12h.
+Actuellement, après 52 mois d'ILE, le patient continue d'être traité par vemurafenib, asymptomatique, PS 0, avec une excellente tolérance et sans toxicité III-IV.

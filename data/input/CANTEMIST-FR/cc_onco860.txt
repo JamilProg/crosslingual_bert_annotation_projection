@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 78 ans, non fumeuse, dont les seuls antécédents pertinents sont l'arthrose. Aucun antécédent familial n'est à signaler.
+En juin 2010, on lui a diagnostiqué un adénocarcinome pulmonaire de stade IV (ADC) en raison d'une atteinte pleurale nodulaire et de métastases osseuses (costales). Un traitement de chimiothérapie de première intention (QT) a été instauré avec du cisplatine (75 mg/m2)-pemetrexed (500 mg/m2) tous les 21 jours pendant 6 cycles, avec une réponse partielle (RP). Par la suite, elle a poursuivi le traitement d'entretien au pemetrexed, avec une maladie stable jusqu'en novembre 2013, date à laquelle il a été décidé d'interrompre le traitement d'entretien en raison de la toxicité hématologique (anémie de grade 2) et de l'aggravation de l'asthénie de la patiente. Elle présentait alors un intervalle sans progression (ISP) de 2,5 ans.
+Lors des contrôles effectués pendant la période de repos thérapeutique, l'état général de la patiente s'est amélioré et il a été décidé de maintenir la même attitude jusqu'à l'évolution de la maladie.
+En décembre 2015, la patiente a consulté aux urgences pour une dyspnée d'effort modérée et une asthénie sévère, d'apparition récente.
+
+Examen physique
+Le patient avait un statut de performance ECOG (Eastern Cooperative Oncology Group Performance Status) de 2. À l'auscultation pulmonaire, il y avait un murmure vésiculaire à base droite diminué et des rhonchies éparses, ainsi que la présence d'une lymphadénopathie axillaire droite palpable et non douloureuse.
+
+Examens complémentaires
+"Une radiographie du thorax a révélé un épanchement pleural basal droit et une lésion paramédiastinale droite.
+"Une tomodensitométrie thoraco-abdomino-pelvienne a été réalisée, coïncidant avec la date d'examen prévue, qui a montré une progression pulmonaire et des ganglions lymphatiques.
+"Le cas a été évalué par le comité des tumeurs thoraciques et il a été décidé de réaliser une biopsie des ganglions lymphatiques axillaires droits, qui étaient les plus accessibles. La patiente souffrait de LIP depuis 4,5 ans avec une maladie stable (les 2 dernières années sans traitement QT).
+"La biopsie a confirmé un ADC d'origine pulmonaire.
+
+Diagnostic
+Progression de l'ADC pulmonaire métastatique au niveau pulmonaire et ganglionnaire.
+
+Traitement
+Une étude moléculaire a été demandée (non réalisée précédemment par manque de matériel) et, dans l'attente des résultats, un traitement par erlotinib à 100 mg/jour a été programmé en février 2016, en tenant compte de l'histologie et de l'évolution chez une femme non fumeuse.
+
+Évolution
+Les résultats EGFR, ALK et ROS-1 étant négatifs (aucune mutation ou translocation détectée), le traitement par erlotinib, auquel il n'avait pas répondu, a été interrompu. Compte tenu du bénéfice antérieur avec le pemetrexed, il a été décidé de réintroduire le pemetrexed à 500 mg/m2, tous les 21 jours, en avril 2016.
+Lors de la tomodensitométrie de réévaluation réalisée en juillet 2016, une progression de l'atteinte parenchymateuse pulmonaire a été observée, il a donc été décidé de passer à la vinorelbine (25 mg/m2) les jours 1, 8 et 15 tous les 28 jours, ce qui a ensuite nécessité une réduction de la dose à 75 %. Depuis, la maladie est restée stable et actuellement (juin 2017) la PIL avec la vinorelbine est de 11 mois et la survie globale (OS) depuis le diagnostic est de 7 ans.

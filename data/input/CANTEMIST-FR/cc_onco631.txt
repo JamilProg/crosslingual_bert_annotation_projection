@@ -1,0 +1,24 @@
+Anamnèse
+Il s'agit d'un patient de 48 ans, sans antécédents médicaux ou chirurgicaux intéressants, avec une situation de base et fonctionnelle adaptée à son âge et une vie professionnelle active, qui a présenté en août 2017 un syndrome vertigineux associé à des céphalées.
+
+Examen physique
+La patiente est nonchalante, eupnéique, stable sur le plan hémodynamique et ne présente aucun signe d'hypoperfusion périphérique au moment de la consultation. Ataxie de la marche à gauche, dysmétrie et dysdiadochokinésie : le reste de l'examen clinique est sans particularité.
+
+Tests complémentaires
+Un scanner cérébral urgent a révélé une lésion occupant l'espace au niveau du cervelet. Il a été admis en neurochirurgie. Après excision et étude histopathologique, le diagnostic définitif était une métastase d'adénocarcinome compatible avec une origine colorectale.
+L'étude d'extension par PET-CT a montré un nodule pulmonaire dans le lobe supérieur gauche mesurant 1,8 cm et un épaississement mural dans le côlon descendant.
+
+Diagnostic
+Adénocarcinome colorectal de stade IV (SNC, poumon).
+
+Traitement
+En octobre 2017, un traitement de première ligne a été débuté pour la maladie métastatique selon le schéma FOLFOX 6m associé au panitumumab à partir du deuxième cycle (étude de la filière RAS sauvage).
+
+Evolution
+En raison d'une toxicité dermatologique, le panitumumab est arrêté au quatrième cycle. Elle a terminé 12 cycles de FOLFOX 6m en avril 2018. Lors de l'étude PET-CT visant à évaluer la réponse de la maladie, aucune tumeur maligne macroscopique n'a été observée.
+Il a subi une intervention chirurgicale et une résection segmentaire du sigma en mai 2018. L'histopathologie a montré un adénocarcinome modérément différencié du sigma et dupT4ypN0/11.
+La maladie est réévaluée par tomodensitométrie en juillet 2018 maintenant une réponse complète.
+En octobre 2018, suite à des céphalées avec un profil endocrânien hypertensif, une IRM cérébrale est demandée, montrant 4 lésions occupant l'espace dans l'hémicervelet gauche compatibles avec une rechute cérébelleuse de la maladie.
+Il a reçu une radiothérapie externe sur la zone de rechute de la maladie, un total de 30 Gy divisé en 10 fractions. Le patient a présenté une amélioration progressive des céphalées.
+En février 2019, en raison de symptômes cliniques d'hémiparésie gauche et d'une TEP-TDM montrant une captation au niveau de la sixième vertèbre cervicale (C6), une IRM du rachis cervical a été demandée, montrant une lésion métastatique intradurale extramédullaire avec compression du canal au niveau de C6 mesurant 1 x 1,7 x 1,8 cm.
+Il a subi une intervention neurochirurgicale disséquant la tumeur par fragments depuis la dure-mère jusqu'à la face dorsale de la moelle épinière, laissant la base de la tumeur, qui a infiltré la moelle épinière. Il a reçu une radiothérapie externe sur le canal médullaire, avec 10 séances de 3 Gy, soit 30 Gy au total. Le patient a montré une amélioration progressive de l'hémiparésie gauche.

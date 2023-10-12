@@ -1,0 +1,18 @@
+T1	pathologie 183 203	infecciones de orina
+T2	pathologie 371 391	adenitis mesentérica
+T3	pathologie 398 437	dilatación de pelvis renal derecha leve
+T4	pathologie 455 474	estenosis de la UPU
+T5	pathologie 720 749	dilatación de la vía urinaria
+T6	pathologie 754 808	dilatación de pelvis renal derecha grado leve-moderada
+T7	pathologie 866 901	estenosis de la unión pieloureteral
+T8	pathologie 930 958	ectasia obstructiva en riñón
+T9	pathologie 1219 1270	dilatación del tracto urinario de causa obstructiva
+#1	SNOMED T6	197820003
+#2	SNOMED T2	44897000
+#3	SNOMED T3	197820003
+#4	SNOMED T1	68566005
+#5	SNOMED T4	25341005
+#6	SNOMED T7	36388008
+#7	SNOMED T8	7163005
+#8	SNOMED T9	7163005
+#9	SNOMED T5	41368006

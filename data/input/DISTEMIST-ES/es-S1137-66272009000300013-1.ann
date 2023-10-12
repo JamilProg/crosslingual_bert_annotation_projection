@@ -1,0 +1,14 @@
+T1	pathologie 149 179	crisis convulsiva generalizada
+T2	pathologie 680 688	ansiedad
+T3	pathologie 1063 1136	lesión de 3 cm de diámetro, quística, en región fronto-parietal izquierda
+T4	pathologie 1277 1280	NCC
+T5	pathologie 1497 1530	muslo, con varias calcificaciones
+T6	pathologie 1722 1788	epilepsia rolándica izquierda secundaria a cisticercosis sistémica
+T7	pathologie 1765 1788	cisticercosis sistémica
+#1	SNOMED T1	4619009
+#2	SNOMED T3	40720005
+#3	SNOMED T2	197480006
+#4	SNOMED T6	230215006+84757009
+#5	SNOMED T4	187148002
+#6	SNOMED T7	59051007
+#7	SNOMED T5	128135006

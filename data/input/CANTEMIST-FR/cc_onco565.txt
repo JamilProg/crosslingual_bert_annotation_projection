@@ -1,0 +1,26 @@
+Anamnèse
+La patiente est une femme née en 1961, sans allergies ni habitudes toxiques, et sans antécédents médicaux intéressants, à l'exception d'un cancer du sein en 2005.
+Elle a eu ses premières règles à l'âge de 11 ans, est mère d'un enfant qu'elle a allaité pendant 6 mois et n'a pas pris de contraceptifs.
+Elle vit avec son mari et son fils et exerce la profession d'avocate.
+Ses antécédents oncologiques ont commencé en avril 2005, lorsqu'elle a subi une tumorectomie et une lymphadénectomie du sein gauche, avec pour résultat un carcinome canalaire infiltrant peu différencié, multifocal avec des récepteurs positifs aux œstrogènes et à la progestérone, HER-2 négatif et un Ki67 de 40 %, des marges chirurgicales positives et une atteinte de 9 des 21 ganglions lymphatiques isolés.
+Elle a ensuite subi une mastectomie avec des marges négatives. Par conséquent, étant donné le stade pTxN2a, luminal B, une étude d'extension a été réalisée avec un scanner thoraco-abdomino-pelvien, qui s'est révélé négatif, et un traitement adjuvant par chimiothérapie a été entamé, selon le schéma FAC x 6 (fluorouracil 500 mg/m2 D1, adriamycine 50 mg/m2 D1 et cyclophosphamide 500 mg/m2, D1 par voie intraveineuse tous les 21 jours) entre mai et septembre 2005, une radiothérapie externe adjuvante de 45Gy sur la paroi thoracique-supraclaviculaire-axillaire et une hormonothérapie avec 20 mg de tamoxifène par jour et de la goséréline tous les trimestres depuis octobre 2005.
+La tolérance du traitement par chimiothérapie a été bonne, à l'exception d'une diarrhée de grade 1, d'une alopécie de grade 2 et d'une asthénie de grade 1 ; la radiothérapie a provoqué une radiodermite de grade 1 et l'hormonothérapie des bouffées de chaleur de grade 1.
+En avril 2008, elle est emmenée aux urgences pour 30 minutes de dysarthrie et de désorientation. Pendant le traitement, elle a eu une crise tonico-clonique et a été admise aux soins intensifs.
+
+Examen physique
+L'examen physique n'a rien révélé de particulier, à l'exception d'une dysarthrie et d'une désorientation, qui se sont améliorées après l'introduction d'un traitement aux corticoïdes.
+
+Examens complémentaires
+Les analyses sanguines sont sans particularité.
+Un scanner crânien a été réalisé, montrant une lésion cortico-sous-corticale pariétale gauche mesurant 25 x 25 x 13 mm avec un oedème périlésionnel. L'étude a été complétée par une IRM encéphalique qui a confirmé que la lésion était la seule à évoquer des métastases en première intention. Un scanner thoraco-abdomino-pelvien et une scintigraphie osseuse ont également été réalisés, sans qu'aucune maladie à distance n'ait été observée.
+
+Diagnostic
+Rechute cérébrale unique d'un cancer du sein.
+
+Traitement
+Le 8 mai 2008, elle a subi une craniotomie et une excision totale de la lésion pariétale gauche, avec pour résultat anatomopathologique une métastase d'un carcinome peu différencié d'origine mammaire probable avec des récepteurs hormonaux négatifs et HER-2 positifs.
+
+Évolution
+Après un traitement initial par corticothérapie et chirurgie, la patiente a complètement récupéré de l'atteinte neurologique. Le traitement a été complété par une radiothérapie holocrânienne de 40Gy en juin 2008, et une chimiothérapie a été débutée avec de la vinorelbine 25 mg/m2 par semaine et du trastuzumab intraveineux 6 mg/m2 trois fois par semaine, qui a été administré de juillet 2008 à janvier 2009, avec une bonne tolérance à l'exception de la constipation, moment où il a été décidé de continuer avec de l'anastrozole 1 mg/m2, de la goséréline trimestriellement et du trastuzumab trois fois par semaine.
+Elle a poursuivi le traitement par trastuzumab jusqu'en janvier 2010, soit 18 mois, et par anastrozole-goséréline jusqu'en janvier 2014, soit 5 ans (plus les 2,5 ans de traitement par tamoxifène-goséréline).
+Actuellement, la patiente, 11 ans après la seule rechute cérébrale, subit des examens annuels sans aucun signe de récurrence de la maladie.

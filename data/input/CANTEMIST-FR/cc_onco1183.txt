@@ -1,0 +1,33 @@
+Anamnèse
+Homme de 48 ans qui s'est présenté à la première évaluation de l'oncologie médicale en août 2012 à la suite d'une amputation de l'hallux droit.
+Antécédents : pas d'allergies. Pathologie : diabétique non traité depuis 3 ans. Hypertension artérielle sous traitement. Alcoolisme chronique.
+Trouble affectif bipolaire. Chirurgie : appendicectomie.
+Maladie actuelle : depuis 2 ans, il présente une lésion hyperpigmentée sur l'hallux du pied droit, qui saigne occasionnellement.
+
+Examen physique
+Hallux dunion droit en bon état, présence d'une adénopathie inguinale droite. Le reste de l'examen est inchangé.
+
+Tests complémentaires
+- Biopsie cutanée : mélanome ulcéré.
+- Résection de mélanome PA : mélanome lentigineux acral en phase de croissance verticale, ulcéré. Clark IV. Breslow 6,8 mm, sans infiltration lymphovasculaire.
+- CT scan thorax-abdomen-pelvis : pas de signes concluants d'extension thoracique-abdomino-pelvienne du mélanome.
+Micronodules dans le lobe supérieur droit à évaluer lors des contrôles successifs.
+- Une lymphadénectomie inguinale élective a été pratiquée en octobre 2012.
+- PA : métastases de mélanome dans 4 des 13 ganglions lymphatiques isolés.
+
+Diagnostic
+Clarck IV Breslow6,8 mm pT4b N2a M0 stade IIIB mélanome lentigineux acral en phase de croissance verticale ulcérée.
+
+Traitement
+En janvier 2013, il a commencé un traitement adjuvant à base d'interféron à haute dose selon le schéma de Kirkwood, basé sur l'étude ECOG 1684 : interféron alfa-2b 20 millions d'unités i.v. x 20 jours, suivi de 10 millions d'unités s.c. 3 fois par semaine pendant 48 semaines. Le patient a bien toléré les phases d'induction et d'entretien.
+En août 2013, un nodule sous-cutané de 1,5 cm a été détecté dans la zone de la cicatrice de l'hallux droit et une lésion de 0,5 cm sur la face interne de la jambe droite. On a considéré qu'il s'agissait d'une récidive intra-traitement, et le patient a donc subi une excision locale et un élargissement des marges.
+AP : mélanome mesurant 2,4 x 0,7 x 0,8 cm avec atteinte de la marge de résection.
+Il a été décidé d'envoyer le patient en radio-oncologie en raison de l'atteinte de la marge.
+
+Progrès
+De septembre à octobre 2013, il a reçu un traitement de radiothérapie "adjuvante" : PTV dans la lésion guidée par la cicatrice sur le pied droit plus une marge de 3 cm, fractionnement 2,5 Gy en 24 fractions jusqu'à ce qu'une dose totale de 60 Gy ait été administrée.
+En novembre 2013, il a présenté une progression cutanée avec 4 lésions hyperchromiques situées sur la cuisse droite. Il n'y avait aucun signe d'atteinte thoraco-abdominale à distance.
+Entre-temps, le statut mutationnel de B-RAF, qui est natif, a été déterminé.
+Un traitement par DTIC (1 000 mg/m2 tous les 21 jours) a été proposé en cas de progression cutanée, avec un premier cycle administré en décembre 2013. En janvier 2014, elle a consulté pour un tableau d'ictère cutanéo-muqueux et de cholurie. La bilirubine totale était retrouvée à 7,7 mg/dl, la bilirubine directe à 5,9 mg/dl. ALT 2 022 UI/l, AST 840 UI/l. Une échographie hépatobiliaire a été réalisée, avec des résultats normaux, et une sérologie du virus de l'hépatite B, avec le résultat d'un profil d'hépatite B aiguë. Il a été adressé au service de l'appareil digestif, qui a mis en œuvre un traitement conservateur, observant au cours des semaines suivantes une diminution marquée des valeurs de bilirubine, d'ALT et d'AST jusqu'à la normalité complète.
+Entre-temps, de nombreuses lésions sous-cutanées se sont développées sur la face antérieure et interne de la cuisse droite, sans que la tomodensitométrie n'indique une atteinte à distance. Des métastases en transit de mélanome ont été envisagées et, en mars 2014, la patiente a été mise sous traitement intralésionnel d'interleukine-2. 1 ml a été appliqué sur chacune des lésions sous-cutanées, couvrant un total de 20 lésions par cycle administré tous les 14 jours, sans effets secondaires systémiques, à l'exception d'une douleur VAS 3 aux sites d'instillation, qui s'est améliorée avec du paracétamol. Avec ce traitement, elle a suivi 5 cycles jusqu'en mai 2014, avec une disparition de la plupart des lésions, bien que certaines lésions centrales aient persisté.
+Le 30 mai 2014, elle a subi un scanner de réévaluation, montrant une progression inguinale gauche et une adénopathie de 3,3 x 2,3 cm dans la chaîne iliaque externe droite compatible avec une progression. Une nouvelle ligne de traitement par ipilimumab a été proposée et est en attente d'initiation.

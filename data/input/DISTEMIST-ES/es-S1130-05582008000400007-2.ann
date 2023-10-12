@@ -1,0 +1,8 @@
+T1	pathologie 45 86	mancha azulada en la región nasoorbitaria
+T2	pathologie 343 349	lesión
+T3	pathologie 363 373	estrabismo
+T4	pathologie 548 568	hemangioma fibrosado
+#1	SNOMED T3	22066006
+#2	SNOMED T4	400210000
+#3	SNOMED T2	417163006
+#4	SNOMED T1	121000119106

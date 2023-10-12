@@ -1,0 +1,33 @@
+Anamnèse
+Le patient est un homme de 60 ans, sans allergies médicamenteuses ni habitudes toxiques. Ses antécédents médicaux comprennent une hémochromatose hétérozygote et une maladie hépatique chronique à VHC en phase cirrhotique avec une réponse virale soutenue au traitement et une charge virale indétectable.
+Il a subi une arthroplastie de la hanche en octobre 2015.
+Il a consulté en janvier 2016 en raison d'une symptomatologie clinique évoluant depuis plusieurs semaines, caractérisée par des douleurs abdominales localisées dans l'hypochondre droit irradiant vers l'arrière, en ceinture, et des altérations du transit intestinal avec une diarrhée de 3 à 4 selles par jour, sans vomissements ni autres symptômes d'accompagnement.
+
+Examen physique
+"Lors de l'examen physique, il était en bon état général et ses signes vitaux étaient normaux. Légère pâleur de la peau.
+"Auscultation cardiaque : rythmique, pas de souffle.
+"Auscultation pulmonaire : bruits respiratoires conservés.
+"Abdomen : douleur à la palpation dans l'hypochondre droit. Pas de masse ni d'hépatomégalie palpable. Bruits hydro-aériens présents. Murphy et Blumberg négatifs. Percussion du poing rénal : bilatérale négative.
+
+Examens complémentaires
+Une échographie abdominale a été réalisée, montrant une lésion hypoéchogène bien définie de 3 cm de diamètre dans le lobe caudé, qui n'était pas présente dans les études précédentes.
+L'étude s'est poursuivie par un scanner thoraco-abdominal montrant une lésion hypodense aux limites mal définies mesurant 3,4 x 2,6 cm dans le lobe caudé évoquant un cholangiocarcinome intrahépatique, trois lésions hépatiques hypodenses dans le segment VI et une dans le segment V au niveau sous-capsulaire mesurant environ 3 cm évoquant des hémangiomes déjà présents dans des études antérieures. Au contact de la lésion du lobe caudé, un conglomérat adénopathique mesurant 4,4 x 5,9 x 2,7 cm a été trouvé dans le hile hépatique.
+L'IRM abdominale a confirmé les résultats du scanner.
+
+Diagnostic
+Le 15/2/16, une échoendoscopie a été réalisée et une lésion arrondie mesurant 25 x 33 mm hypoéchogène par rapport au parenchyme hépatique (échantillon 1) a été visualisée au niveau du lobe caudé et à proximité de celui-ci, au niveau du hile hépatique une adénopathie arrondie mesurant 41 mm de diamètre a également été observée (échantillon 2) et les deux lésions ont fait l'objet d'une biopsie.
+Les résultats pathologiques ont montré des cellules néoplasiques évoquant un cholangiocarcinome dans l'échantillon 1 et des métastases de cholangiocarcinome dans le ganglion lymphatique de l'échantillon 2.
+Le diagnostic de cholangiocarcinome intrahépatique ayant été posé, le patient a été évalué par le comité multidisciplinaire hépatobiliaire et un traitement chirurgical a été proposé.
+
+Traitement
+Le 20 avril 16, le patient a subi une segmentectomie du lobe caudé et une lymphadénectomie élargie.
+L'anatomie pathologique fait état d'un carcinome combiné, d'un hépatocarcinome de grade 2 et d'un cholangiocarcinome de grade 3, compatible avec une tumeur de collision de 4 cm, de forme classique, avec des bords chirurgicaux libres et une infiltration des ganglions lymphatiques par un carcinome combiné pT2pN1.
+Les techniques immunohistochimiques ont montré une positivité pour l'hépatocyte, l'arginase (1) et le glipican dans la composante hépatocarcinome et CK AE1/AE3, CK7, CK 20 dans la composante cholangiocarcinome.
+La patiente a été réévaluée par le comité multidisciplinaire hépatobiliaire et orientée vers l'oncologie pour une évaluation du traitement complémentaire, rejetant la radiothérapie car il s'agissait d'un cholangiocarcinome intrahépatique.
+Elle a reçu un traitement par chimiothérapie à visée adjuvante selon le schéma gemcitabine 1 000 mg/m2 les jours 1, 8, 15 tous les 28 jours, recevant un total de 6 cycles avec une bonne tolérance à l'exception d'une thrombopénie de grade II qui n'a pas nécessité d'ajustement de dose. Le traitement s'est terminé le 7/10/16.
+
+Évolution
+Une fois le traitement de chimiothérapie adjuvante terminé, le suivi avec des contrôles périodiques en oncologie médicale a commencé.
+Après un intervalle sans maladie de 12 mois, un scanner réalisé le 12/1/17 a montré un nodule hépatique de 22 mm dans le segment VAT avec une croissance par rapport au contrôle précédent, ainsi que des adénopathies dans le ligament gastro-hépatique et dans la chaîne cœliaque de 12 et 14 mm respectivement.
+Le patient a été évalué par le comité multidisciplinaire et un traitement chirurgical ainsi qu'un traitement local par radiofréquence par radiologie interventionnelle ont été écartés.
+Compte tenu de la progression hépatique et ganglionnaire, sans possibilité de traitement radical, une chimiothérapie de première ligne avec cisplatine-gemcitabine les jours 1 et 8 tous les 21 jours a été proposée, avec une réponse partielle après 3 cycles et une excellente tolérance. Elle poursuit actuellement son traitement, en attendant une réévaluation après 6 cycles.

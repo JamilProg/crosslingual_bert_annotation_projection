@@ -1,0 +1,26 @@
+Anamnèse
+Un jeune homme de 14 ans, sans antécédents médicaux ou chirurgicaux, s'est présenté aux urgences pour une douleur au testicule droit évoluant depuis environ une semaine, sans autre symptôme associé.
+
+Examen physique
+ECOG 0, bon état général. L'examen génital a révélé un testicule droit hypertrophié, rougissant et très douloureux à la palpation, avec un signe de Prehn négatif. Le reste de l'examen physique n'a révélé aucun signe pathologique.
+
+Examens complémentaires
+Une échographie testiculaire a été réalisée, qui a révélé la présence d'au moins quatre nodules, dont le plus grand mesurait 2,4 cm, de nature kystique et solide. Les nodules étaient accompagnés de multiples microcalcifications regroupées dans le pôle inférieur du testicule. En outre, des tests de laboratoire ont été effectués avec des marqueurs tumoraux, montrant une b-HCG de 5471 et une alpha-fœtoprotéine de 0.
+
+Diagnostic
+En avril 2013, une orchidectomie droite a été pratiquée, l'anatomopathologie révélant une tumeur germinale mixte maligne (choriocarcinome 60 % + tératome mature 40 %). L'invasion lymphovasculaire était un facteur de risque.
+Après l'intervention chirurgicale, une étude d'extension a été demandée, qui n'a montré aucun signe de maladie à distance, et les marqueurs tumoraux post-chirurgicaux ont révélé la présence de b-HCG 9 et d'alpha-fœtoprotéine 1. La tumeur a donc été classée pT2cN0M0 au stade S1 IS.
+
+Traitement
+Après cryoconservation, un traitement cytostatique adjuvant a été débuté en mai 2013 selon le schéma BEP (cisplatine 20 mg/m2 jours 1 à 5, étoposide 100 mg/m2 jours 1 à 5 et bléomycine 30 mg jours 2, 9 et 16) tous les 21 jours x 3 cycles. Après le premier cycle, normalisation des marqueurs tumoraux.
+La toxicité a été une asthénie de grade II-III et une fièvre neutropénique sans isolement microbiologique.
+Avant le deuxième cycle, une toux irritative est apparue sans bruits pathologiques à l'auscultation cardio-pulmonaire. Une radiographie du thorax et un test de diffusion du CO ont été demandés, tous deux normaux, et un traitement a été administré. Par la suite, le patient a continué à présenter une toux irritative et, malgré l'absence de résultats pathologiques aux examens complémentaires, il a été décidé d'interrompre la bléomycine et de poursuivre le cisplatine-étoposide jusqu'à ce que deux autres cycles de traitement aient été achevés. Après l'arrêt de la bléomycine, les symptômes respiratoires ont disparu.
+
+Évolution
+En septembre 2013, après avoir terminé le traitement cytostatique, une réévaluation a été demandée avec des marqueurs tumoraux dans les limites de la normale et un scanner thoraco-abdomino-pelvien montrant des infiltrats alvéolaires dans les deux bases pulmonaires, une adénopathie rétropéritonéale interaorto-cave d'allure métastatique (qui n'avait pas été vue au scanner précédent), ainsi qu'un thrombus dans la veine iliaque commune gauche.
+Un traitement anticoagulant par héparine de bas poids moléculaire a été prescrit et il a été décidé de compléter l'étude par une TEP-TDM où les infiltrats pulmonaires présentaient une augmentation métabolique évocatrice de malignité sans captation au niveau de l'adénopathie rétropéritonéale. Une bronchoscopie a été réalisée, qui n'a montré aucun signe de lésions endobronchiques et la cytologie s'est révélée négative pour les cellules néoplasiques. Les échantillons prélevés n'ont pas non plus révélé d'isolement microbiologique. Compte tenu des résultats de la TEP-TDM, il a été décidé de procéder à une FNA pulmonaire, dont l'examen pathologique s'est révélé négatif pour la malignité. Le cas a fait l'objet d'une consultation en radiologie et en pneumologie, qui ont interprété les lésions pulmonaires comme des infarctus pulmonaires emboligènes secondaires à un thrombus dans la veine iliaque.
+Une échocardiographie a été réalisée pour exclure une embolie septique, révélant une cardiomyopathie non compacte, qui a ensuite été suivie par la cardiologie, sans aucun signe de répercussion clinique ou hémodynamique lors des examens ultérieurs.
+En décembre 2013, les marqueurs tumoraux se situaient dans la fourchette normale et les examens d'imagerie montraient une résolution presque complète des infiltrats pulmonaires et une stabilité de la lymphadénopathie rétropéritonéale. Compte tenu du temps écoulé depuis le début de l'anticoagulation et de la forte suspicion de malignité de l'adénopathie rétropéritonéale, cette dernière a été retirée avec un traitement anti-inflammatoire.
+Anatomie pathologique compatible avec un tératome mature. Avant l'opération, un filtre de la veine cave inférieure a été placé.
+Au cours du suivi, en mai 2014, les examens complémentaires ont révélé une thromboembolie pulmonaire limitée à la branche périphérique du lobe supérieur droit. Elle a été adressée à l'unité de thrombose qui a réalisé une étude de thrombophilie dont le résultat s'est révélé négatif et a maintenu un filtre cave jusqu'en septembre 2014 et une anticoagulation jusqu'en octobre 2014.
+Le suivi s'est poursuivi jusqu'à aujourd'hui sans preuve de maladie tumorale et avec une résolution presque complète des infiltrats pulmonaires.

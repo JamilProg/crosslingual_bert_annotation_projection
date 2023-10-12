@@ -1,0 +1,15 @@
+T1	pathologie 124 160	lesión a nivel del ángulo mandibular
+T2	pathologie 339 361	antecedentes de tabaco
+T3	pathologie 339 370	antecedentes de tabaco, alcohol
+T4	pathologie 339 379	antecedentes de tabaco, alcohol y drogas
+T5	pathologie 438 446	alergias
+T6	pathologie 1320 1326	lesión
+T7	pathologie 1860 1886	odontoma complejo inmaduro
+T8	pathologie 1888 1915	fibroodontoma ameloblástico
+T9	pathologie 1917 1958	tumor odontogénico epitelial calcificante
+T10	pathologie 1961 2003	quiste odontogénico epitelial calcificante
+T11	pathologie 2644 2650	lesión
+T12	pathologie 2666 2727	odontoma en formación con presencia de cambios ameloblásticas
+T13	pathologie 3383 3402	fractura patológica
+T14	pathologie 3626 3653	Fibroodontoma Ameloblástico
+T15	pathologie 3724 3730	lesión

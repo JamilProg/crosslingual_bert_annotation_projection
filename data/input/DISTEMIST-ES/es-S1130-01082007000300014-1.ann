@@ -1,0 +1,18 @@
+T1	pathologie 47 63	politraumatizado
+T2	pathologie 131 147	hipoxemia severa
+T3	pathologie 230 286	fractura de cigoma izquierdo, pared lateral de la órbita
+T4	pathologie 296 322	fractura de huesos propios
+T5	pathologie 324 345	fractura de clavícula
+T6	pathologie 357 377	fractura de esternón
+T7	pathologie 379 419	fracturas múltiples costales bilaterales
+T8	pathologie 424 436	volet costal
+T9	pathologie 448 467	enfisema subcutáneo
+T10	pathologie 469 484	neumomediastino
+T11	pathologie 489 499	neumotórax
+T12	pathologie 502 529	fractura de la rama pubiana
+T13	pathologie 564 580	hipoxemia severa
+T14	pathologie 721 729	lesiones
+T15	pathologie 1333 1357	fístula traqueoesofágica
+T16	pathologie 1586 1618	shock resistente a catecolaminas
+T17	pathologie 1623 1631	acidosis
+T18	pathologie 1634 1643	hipoxemia

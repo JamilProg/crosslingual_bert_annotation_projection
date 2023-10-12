@@ -1,0 +1,17 @@
+T1	pathologie 246 268	insuficiencia cardiaca
+T2	pathologie 280 301	fibrilación auricular
+T3	pathologie 323 353	enfermedades de tipo urológico
+T4	pathologie 629 660	anemia normocítica normocrómica
+T5	pathologie 728 750	hematuria microscópica
+T6	pathologie 812 855	cálculos radiopacos localizados en el riñón
+T7	pathologie 1063 1131	formaciones litiásicas de gran tamaño localizadas en la pelvis renal
+T8	pathologie 1157 1168	pionefrosis
+T9	pathologie 1765 1800	dilatación del árbol pielo-calicial
+T10	pathologie 1803 1839	atrofia marcada del parénquima renal
+T11	pathologie 1860 1928	arbol piélico presenta contenido purulento y se identifican cálculos
+T12	pathologie 1989 2055	abcedificación del parénquima renal y del tejido adiposo perirenal
+T13	pathologie 2242 2256	adenocarcinoma
+T14	pathologie 2345 2354	neoplasia
+T15	pathologie 2383 2416	adenocarcinoma de tipo intestinal
+T16	pathologie 2746 2796	neoplasia invade el tejido conjuntivo subepitelial
+T17	pathologie 2856 2899	metaplasia glandular del epitelio urotelial

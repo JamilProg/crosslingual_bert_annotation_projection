@@ -1,0 +1,19 @@
+T1	pathologie 97 112	úlcera gástrica
+T2	pathologie 218 234	reflujo alcalino
+T3	pathologie 264 284	cuadros suboclusivos
+T4	pathologie 318 340	obstrucción intestinal
+T5	pathologie 367 379	malnutrición
+T6	pathologie 384 405	hipoalbuminemia grave
+T7	pathologie 407 443	anemia de trastornos crónicos severa
+T8	pathologie 445 490	úlceras por presión en región sacra y talones
+T9	pathologie 517 540	síndrome de inmovilidad
+T10	pathologie 557 566	TBC renal
+T11	pathologie 592 619	pielonefritis de repetición
+T12	pathologie 645 663	estenosis ureteral
+T13	pathologie 677 688	anemización
+T14	pathologie 752 770	sangrado digestivo
+T15	pathologie 781 817	desnutrición proteico-calórica grave
+T16	pathologie 1014 1022	anasarca
+T17	pathologie 1039 1077	desnutrición por síndrome malabsortivo
+T18	pathologie 1527 1550	úlceras en región sacra
+T19	pathologie 1727 1756	infección del tracto urinario

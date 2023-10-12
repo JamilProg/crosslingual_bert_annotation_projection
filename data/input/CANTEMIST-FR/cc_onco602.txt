@@ -1,0 +1,42 @@
+Anamnèse
+Nous présentons le cas d'un patient qui, au cours des 10 années qui ont suivi le diagnostic d'une tumeur neuroendocrine pancréatique de stade IV non résécable, a été opéré de la tumeur primaire et a reçu les trois médicaments qui ont montré une activité dans les récents essais cliniques de phase III avec la séquence lanréotide, sunitinib et everolimus, ce qui a permis une survie sans progression (PFS) de 5 et 3 ans avec les deux premiers, associée à un état général préservé et à un effet antiprolifératif basé principalement sur la stabilisation des métastases hépatiques.
+
+Examen physique
+Examen physique (26/02/2009)
+"État général : Karnofsky 90 %. Bon état pondéral.
+"Tête et cou : bouche en bon état. Carotides rythmées.
+"Régions ganglionnaires : pas de ganglions lymphatiques palpables.
+"Cœur : Rs Cs Rs : Poumon : murmure vésiculaire conservé sans bruit additionnel.
+"Abdomen : cicatrice chirurgicale en bon état. Pas de masse palpable. Péristaltisme conservé.
+Extrémités : force et sensibilité conservées sans varices, phlébites ou œdèmes.
+"Examen neurologique : pas de focalité neurologique.
+"Tension artérielle : 126/81 mm Hg, poids : 58 kg, taille 168, surface corporelle 1,6. Indice de masse corporelle : 20,5 kg/m2.
+
+Examens complémentaires
+"Scanner thoraco-abdomino-pelvien, étude monophasique (02/12/2008) : masse hypervasculaire de 7 cm dans la queue du pancréas en contact étroit avec la veine splénique évoquant une TNE sans évidence d'extension de la maladie à d'autres niveaux.
+"Scanner thoraco-abdominal-pelvien, étude en trois phases (19/03/2009) : de multiples lésions hépatiques évocatrices de métastases ont été observées dans le foie, certaines hyperdenses et d'autres hypodenses, réparties principalement dans le lobe droit avec un aspect plus infiltré dans les segments V, VI et VII. Occupation tumorale hépatique : environ 20% disséminée et bilobaire.
+"Scintigraphie corporelle totale et SPECT/CT abdominale avec 222 MBq 111In-octeotride (Octreoscan®, 17/12/2008) : des images planaires ont été prises en projections antérieures et postérieures à 5 et 24 heures après l'administration du radiotraceur centrées sur le cou-thorax, l'abdomen et le pelvis, ainsi qu'une SPECT abdominale à la scintigraphie de 24 heures, avec les résultats suivants : hyperenhancement pathologique intense au niveau de la queue du pancréas évocateur de NER primaire. Il n'y a pas d'autres accumulations pathologiques localisées de radiotraceur.
+"Octreoscan® (20/04/2009) : multiples lésions de captation hépatique occupant pratiquement tous les segments hépatiques. La plus grande lésion de captation hépatique se trouve dans le segment VII. De multiples lésions hépatiques hypodenses sont également observées.
+"Biochimie, hémogramme, coagulation (19/03/2009) : dans les limites de la normale.
+" Chromogranine (02/12/2008) : 176, 6 ng/ml [1, 5-100].
+" Chromogranine (19/03/2009) : 143, 6 ng/ml [1, 5-100].
+" Acide 5-hydroxyindolacétique (02/12/2008) : 10,3 mg/24 h [0,7-8,2].
+" Acide 5-hydroxyindolacétique (19/03/2009) : 3,9 mg/24 h [0,7-8,2].
+
+Diagnostic
+NST pancréatique de stade IV, stade 2, due à de multiples métastases hépatiques non résécables.
+L'étude pathologique de la masse tumorale pancréatique et la biopsie du foie sont concordantes et montrent les résultats suivants :
+"Le Ki-67 varie entre des zones proches de 2 % et d'autres atteignant 10 %, sans prédominance de l'un ou l'autre dans la tumeur primaire et dans la biopsie du foie.
+"Le nombre de mitoses est de 2 x 50 CGA.
+"L'immunohistochimie est fortement positive pour la chromogranine et la synaptophysine et négative pour la gastrine, l'insuline, le glucagon et le polypeptide pancréatique.
+
+Traitement
+La patiente, une femme de 49 ans en bon état général et sans comorbidité, présentait une tumeur neuroendocrine du pancréas avec résection du primitif et présence de multiples métastases hépatiques. Les données importantes concernant la tumeur pour décider de l'approche thérapeutique étaient les suivantes : Ki 67 2-10%, Octreoscan® avec une avidité élevée pour le radiotraceur (score de Krenning 3), un temps de progression par Octreoscan® d'environ 4 mois, une occupation de 20% du foie, pas de métastases dans d'autres localisations, une chromogranine peu élevée et d'autres tests de laboratoire normaux.
+Après avoir écarté la possibilité d'une chirurgie hépatique, la patiente a consulté un autre centre où une greffe de foie a été proposée. Finalement, elle a décidé de suivre le traitement proposé par son centre de référence avec un analogue de la somatostatine, le lanréotide 120 mg toutes les 4 semaines par voie sous-cutanée, à partir du 16/07/2009.
+
+Évolution
+Le patient a fait preuve d'une bonne tolérance et d'un bénéfice durable à la fois pour l'imagerie (études répétées tous les 6 mois) et pour le marqueur de chromogranine. La meilleure réponse selon les critères RECIST et CHOI a été une stabilisation de la maladie avec une réduction de moins de 10% de certaines métastases dans l'étude à un et deux ans. Pendant toute la durée du traitement par lanréotide, il a conservé une bonne qualité de vie et une activité professionnelle et personnelle similaire à celle qu'il avait avant le diagnostic du cancer.
+Le scanner de contrôle du 24/07/2014, 5 ans après le début du traitement, confirme la progression, avec une augmentation du diamètre moyen des métastases hépatiques, qui varie entre 10 et 20% par rapport aux 2 études précédentes, 6 et 12 mois, mais qui est plus élevée, de l'ordre de 35% par rapport au scanner de référence au début du traitement en juin 2009 : les multiples métastases hépatiques connues montrent une discrète augmentation du diamètre moyen. La lésion dominante du segment V est passée de 11 mm à 15 mm. Une lésion sous-capsulaire située entre les segments V et VI est passée de 20 mm à 22 mm.
+Une autre lésion hypervasculaire dans le segment VIII est passée de 16 mm à 23 mm. En général, presque toutes les lésions se sont développées de façon discrète, avec une augmentation du diamètre allant de 10 à 20 %. Dans certaines métastases isolées, l'augmentation atteint 25 % par rapport à l'étude d'il y a un an et 35 % par rapport à la ligne de base. Les métastases continuent à se rehausser dans la phase artérielle précoce, tandis que la phase portale tend à s'homogénéiser par rapport au reste du parenchyme.
+La patiente a reçu une deuxième ligne de traitement par sunitinib 37,5 mg/jour entre septembre 2014 et octobre 2017, obtenant une stabilisation de la maladie comme meilleure réponse. Elle a présenté des diarrhées et une neutropénie de grade 2 qui se sont améliorées après la deuxième année.
+Il est actuellement sous traitement par évérolimus 10 mg/jour, avec une bonne tolérance.

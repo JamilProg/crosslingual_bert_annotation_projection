@@ -1,0 +1,14 @@
+T1	pathologie 85 139	litiasis renal izquierda, pielocalicial inferior úrica
+T2	pathologie 184 197	hidronefrosis
+T3	pathologie 249 252	HTA
+T4	pathologie 287 295	hematoma
+T5	pathologie 448 468	hematoma subcapsular
+T6	pathologie 543 551	hematoma
+T7	pathologie 636 644	hematoma
+#1	SNOMED T1	95570007
+#2	SNOMED T2	43064006
+#3	SNOMED T3	38341003
+#4	SNOMED T4	385494008
+#5	SNOMED T6	385494008
+#6	SNOMED T7	385494008
+#7	SNOMED T5	385494008

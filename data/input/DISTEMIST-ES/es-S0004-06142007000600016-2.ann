@@ -1,0 +1,8 @@
+T1	pathologie 330 374	lesión nodular sólida en cabeza de epidídimo
+T2	pathologie 436 467	tumor adenomatoide de epidídimo
+T3	pathologie 558 594	tumoración nodular en cola epidídimo
+T4	pathologie 1136 1167	tumor adenomatoide de epidídimo
+#1	SNOMED T1	118657002
+#2	SNOMED T2	449052009
+#3	SNOMED T4	449052009
+#4	SNOMED T3	87860000

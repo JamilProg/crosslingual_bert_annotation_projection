@@ -1,0 +1,4 @@
+T1	pathologie 32 40	alergias
+T2	pathologie 581 598	leiomioma vesical
+#1	SNOMED T1	106190000
+#2	SNOMED T2	146801000119103

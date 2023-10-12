@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 61 ans présente depuis 2010 une diarrhée chronique, étudiée par le service digestif, avec une microbiologie et une analyse cœliaque négatives et des biopsies par gastroduodénoscopie et coloscopie montrant une inflammation non spécifique. En mars 2012, à la suite d'une infection respiratoire, une radiographie du thorax a été réalisée, montrant un élargissement médiastinal.
+L'étude s'est poursuivie par un scanner thoracique, qui a révélé une masse dans le médiastin antérieur. Par la suite, un PET-CT a été demandé et la masse a montré un SUVmax = 3 g/ml ; aucune adénopathie n'a été observée. Une biopsie à l'aiguille guidée par scanner a été réalisée et a révélé un thymome de type AB.
+Le 19/06/2012, le thymome et la graisse de la loge thymique ont été excisés par sternotomie. L'examen de la pièce opératoire a confirmé le diagnostic de thymome de type AB.
+En 2012, le patient a présenté jusqu'à cinq infections des voies respiratoires nécessitant un traitement antibiotique. En décembre 2012, il a été admis au service des maladies infectieuses pour une septicémie à C. coli, et une neutropénie a été observée, attribuée à la prise de rifaximine.
+Le patient était également suivi par le service d'hématologie pour une lymphocytose, et une hypogammaglobulinémie (IgG, IgM et IgA) a été observée, ainsi que des altérations des sous-populations lymphocytaires.
+Dans ce contexte, la patiente a consulté le service des urgences de notre hôpital le 2/03/13 pour un syndrome fébrile avec frissons, sans foyer apparent.
+
+Examen physique
+État général normal, fébrile (38,6 ºC). Auscultation respiratoire sans altération. Abdomen légèrement distendu, péristaltisme accru, non douloureux à la palpation, pas de masses ou de mégalithes palpables. Pas de signes de péritonisme.
+La percussion du poing lombaire est négative bilatéralement.
+
+Tests complémentaires
+NFS avec formule leucocytaire : leucocytes 2,4 x 10 E9/l [3,9-10], neutrophiles 1,3 x 10 E9/l [1,9-6,4], lymphocytes 1x10 E9/l.
+Analyse des gammaglobulines : protéines 58 g/l, gammaglobulines 1,6 % [11,1-18,8], IgG 274 mg/l [6 900-14 000], IgA <264 mg/l [880-4 100], IgM <169 mg/l [340-2 100].
+Sous-populations lymphocytaires : rapport CD4/CD8 0,37 [1,05-2,15], lymphocytes B CD19 0 % [6-12].
+
+Diagnostic
+Thymome associé à un déficit immunitaire combiné (syndrome de Good).
+
+Traitement
+Il a été décidé de commencer le traitement par des gammaglobulines intraveineuses (0,4 g/kg) et un facteur de stimulation des colonies de granulocytes de 300 mcg/jour.
+
+Évolution
+Grâce au traitement, le nombre de neutrophiles s'est normalisé et le patient n'a pas dû être admis pour des causes infectieuses depuis le début du traitement.

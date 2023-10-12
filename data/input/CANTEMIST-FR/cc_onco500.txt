@@ -1,0 +1,24 @@
+Anamnèse
+Nous présentons le cas clinique d'une femme de 47 ans présentant une réaction allergique au métamizole (pyrazolones), sans habitudes toxiques ni autres antécédents médicaux ou chirurgicaux dignes d'intérêt. Elle a des antécédents familiaux de cancer : père avec un cancer du colon, grand-père avec un cancer gastrique, tante paternelle avec un cancer des os et sœur avec un adénocarcinome de l'endomètre. Elle n'a pas recours à un traitement médical de manière régulière.
+En janvier 2018, elle a subi une intervention chirurgicale gynécologique programmée après l'échec d'un traitement antibiotique pour une maladie inflammatoire pelvienne présumée. Un plastron a été découvert dans la fosse iliaque droite, incluant la trompe droite, le cæcum et l'appendice, et une hystérectomie et une double annexectomie ont été réalisées. Les résultats de l'anatomie pathologique (AP) décrivent un fragment correspondant à un adénocarcinome moyennement différencié d'origine intestinale qui s'infiltre jusqu'à la couche musculaire.
+Par la suite, en mai 2018, la chirurgie oncologique a été complétée par une hémicolectomie droite. L'AP montre un adénocarcinome avec infiltration extrinsèque de la paroi de l'intestin grêle, quatre ganglions avec métastases de 8 ganglions isolés. Les marges chirurgicales sont exemptes de tumeur. L'étude immunohistochimique n'a pas détecté de perte d'expression des protéines de réparation de l'ADN (MLH1, MSH2, MSH6 et PMS2), et KRAS était muté.
+Elle a été évaluée dans la clinique ambulatoire d'oncologie en mai 2018, où une étude d'extension a été mise à jour avec un scanner thoraco-abdomino-pelvien dans la plage normale et une élévation discrète du marqueur tumoral Ca 19.9 de 75,20 U/ml (< 37 U/ml) avec CEA dans la plage normale (2,92 n g/ml [0-5,00 ng/ml]). Compte tenu des antécédents familiaux de la patiente, une évaluation a été demandée à l'unité de conseil génétique, qui a trouvé une mutation de l'ADN polymérase (POLD-1) située dans l'exon 11, détectant la mutation c.1421T > C;p (Leu474Pro), qui a été considérée comme pathogène.
+Par conséquent, avec un diagnostic d'adénocarcinome colorectal de stade III, un traitement adjuvant a été planifié avec 12 cycles de FOLFOX, qui a été complété du 7 juin 2018 au 22 novembre 2018.
+En décembre 2018, la patiente a été admise pour des douleurs cliniques, un scanner abdominopelvien montrant une progression de la maladie, avec la présence d'une masse pelvienne infiltrante de 43 mm (voûte vaginale, rectum et sigma) et de nombreuses et larges adénopathies métastatiques dans les chaînes iliaques, ainsi qu'une probable infiltration veineuse des deux axes iliaques.
+Compte tenu de la progression tumorale de la patiente, il a été décidé de commencer un traitement de première ligne de la maladie métastatique par FOLFIRI-bevacizumab. Après le quatrième cycle (fin février 2019), elle a été admise pour des douleurs et une suspicion de fistule entérovaginale, l'étude d'extension a donc été mise à jour et une progression de la maladie a été observée.
+
+Examen physique
+Le patient était en bon état général avec un ECOG 1 (pour les douleurs abdominopelviennes).
+
+Examens complémentaires
+En mars 2019, un scanner a montré une progression de la maladie due à l'apparition de métastases pulmonaires, à l'apparition d'adénopathies rétropéritonéales supérieures et à la croissance des adénopathies préexistantes. Une infiltration du sigma rectum et de la paroi postéro-latérale de la vessie a été identifiée, entraînant une urétérohydronéphrose droite de grade III, un implant de la voûte vaginale et la présence d'une fistule recto-vaginale.
+Les analyses de sang effectuées en mars 2019 ont révélé des marqueurs tumoraux élevés de CEA 5,99 ng/ml (0-5,00 ng/ml) et de Ca 19.9 de 3 376,35 U/ml (< 37 U/ml).
+
+Diagnostic
+Adénocarcinome du côlon droit pT4bN2aM1 RAS muté POLD-1 muté.
+
+Traitement
+Compte tenu de l'évolution rapide de la maladie, la patiente a nécessité un ajustement analgésique avec de fortes doses de morphine et une colostomie palliative a été réalisée en mars 2019 en raison de la présence d'une fistule entérovésicale active.
+
+Évolution
+A ce jour, la patiente a reçu 5 cycles de nivolumab avec un bénéfice clinique (contrôle de la douleur) depuis le premier cycle, sans toxicité significative à ce jour. Après l'administration du 5ème cycle, un scanner de réévaluation a été réalisé (mai 2019), qui a montré une réponse partielle majeure, avec une réduction significative de la taille des amas adénopathiques para-aortiques et des adénopathies mésentériques, ainsi qu'une amélioration de l'atteinte rectosigmoïdienne. Il n'y a actuellement aucun signe d'uropathie obstructive.

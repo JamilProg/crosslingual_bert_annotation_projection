@@ -1,0 +1,32 @@
+T1	pathologie 190 214	mastopatía fibroquística
+T2	pathologie 216 246	papilomatosis intracanalicular
+T3	pathologie 249 261	cancerofobia
+T4	pathologie 293 310	neoplasia de mama
+T5	pathologie 488 502	cáncer de mama
+T6	pathologie 551 571	adenopatías axilares
+T7	pathologie 675 692	adenopatía axilar
+T8	pathologie 817 839	metástasis de melanoma
+T9	pathologie 974 991	patología tumoral
+T10	pathologie 1163 1180	lesiones cutáneas
+T11	pathologie 1197 1205	melanoma
+T12	pathologie 1477 1487	adenopatía
+T13	pathologie 1618 1638	hiperplasia linfoide
+T14	pathologie 1618 1647	hiperplasia linfoide reactiva
+T15	pathologie 1884 1890	lesión
+T16	pathologie 1948 1958	adenopatía
+#1	SNOMED T12	30746006
+#2	SNOMED T10	95324001
+#3	SNOMED T7	127189005
+#4	SNOMED T11	399956005
+#5	SNOMED T16	30746006
+#6	SNOMED T1	6740003
+#7	SNOMED T13	128863005
+#8	SNOMED T2	20376005
+#9	SNOMED T8	443493003
+#10	SNOMED T3	34563004
+#11	SNOMED T4	126926005
+#12	SNOMED T6	127189005
+#13	SNOMED T5	254837009
+#14	SNOMED T15	417163006
+#15	SNOMED T9	55342001
+#16	SNOMED T14	128863005

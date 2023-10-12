@@ -1,0 +1,27 @@
+Anamnèse
+Il s'agit d'une patiente de 46 ans qui a été admise à l'été 2015 pour l'étude d'un syndrome anémique de plusieurs mois d'évolution accompagné de symptômes constitutionnels caractérisés par une asthénie et un amaigrissement.
+Ses antécédents familiaux comprenaient une mère décédée d'un cancer du côlon à l'âge de 50 ans et deux tantes maternelles ayant été opérées d'un cancer du côlon.
+Pendant son séjour à l'hôpital, un état catabolique avec une malnutrition modérée a été observé et un diagnostic d'adénocarcinome modérément différencié du cæcum a été posé après une coloscopie.
+
+Examen physique
+La patiente avait un ECOG 2 et souffrait de malnutrition sévère. Son indice de masse corporelle était de 15 kg/m2. Elle présentait également une perte de masse musculaire au niveau des membres inférieurs. L'examen abdominal a révélé une sensation de masse dans le flanc droit avec une augmentation du péristaltisme à l'auscultation. L'auscultation cardiaque était normale et les deux poumons étaient correctement ventilés.
+
+Examens complémentaires
+Une tomodensitométrie (TDM) est réalisée, qui localise un épaississement mural du cæcum associé à des adénopathies régionales pathologiques, sans signe de métastase à distance, mais présentant des signes évocateurs d'un envahissement de la paroi abdominale antérieure droite et du muscle psoas iliaque droit.
+Après discussion avec le comité des tumeurs de l'appareil digestif, la tumeur a été considérée comme résécable et une iléocécectomie plus lymphadénectomie et résection de la tumeur au niveau de la paroi abdominale a été réalisée en août 2015.
+
+Diagnostic
+L'examen anatomopathologique définitif a décrit un adénocarcinome du cæcum muté par l'exon 4 du gène KRAS (A146T) envahissant le péritoine viscéral et la graisse de la paroi abdominale, ainsi qu'une adénopathie pathologique de 3 excisions. Le stade définitif était pT4 pN1 M0 (IIIC).
+
+Traitement
+Après l'opération, l'évolution de la patiente n'a été que lentement favorable en raison d'une période postopératoire torpide due à des complications infectieuses au niveau de la paroi abdominale, avec une collection de matériel purulent s'écoulant sur la plaie chirurgicale. En conséquence, la patiente est restée dans une situation de malnutrition sévère avec un état catabolique qui a nécessité un soutien nutritionnel avec des suppléments de protéines.
+Évalué en oncologie pour la décision d'un traitement adjuvant et toujours avec des problèmes infectieux actifs, il a été décidé de commencer par la capécitabine en monothérapie, en ajoutant l'oxaliplatine lorsque la situation générale s'est améliorée.
+La patiente a subi 8 cycles de capécitabine en monothérapie de septembre à février 2016 en raison de la persistance d'un ECOG 2 pendant les mois suivant la chirurgie.
+En mai 2016, après élévation de l'ACE, une rechute a été diagnostiquée sous la forme d'une masse des tissus mous touchant la région distale du psoas et le muscle iliaque droit. L'état général de la patiente avait commencé à se détériorer avec une incapacité à se déplacer en raison de douleurs dans le membre inférieur droit. Un traitement par XELOX bevacizumab 13 cycles a été initié en première ligne de traitement métastatique, avec comme meilleure réponse une stabilisation de la masse du psoas, dont la taille était de 9 x 11 cm.
+En décembre 2016, une progression s'est produite avec une élévation de l'ACE jusqu'à 39 ng/dl et une augmentation de la masse dans le psoas atteignant une taille de 13 x 20 cm ainsi qu'une douleur accrue dans le membre inférieur droit. Début de la deuxième ligne métastatique avec FOLFIRI-bevacizumab (reporté à la deuxième ligne selon l'essai de phase III TML [13]) 8 cycles avec stabilisation comme meilleure réponse.
+En mai 2017, nouvelle progression clinique avec augmentation de la douleur et de l'impuissance fonctionnelle du membre inférieur droit, avec un CEA de 99 ng/dl et, au scanner, une importante masse des tissus mous avec épicentre dans le psoas iliaque droit entraînant une urétérohydronéphrose sévère, infiltrant la paroi abdominale latérale et avec érosion de l'os pelvien sous-jacent.
+
+Évolution
+Le profilage moléculaire de la tumeur a révélé une instabilité des microsatellites avec des protéines de réparation MSH2/MSH6 dans l'ADN tumoral et l'ADN germinal (syndrome de Lynch). Rétrospectivement, la tumeur présentait un tableau histologique caractéristique d'un nombre élevé de lymphocytes infiltrant la tumeur.
+Par conséquent, un traitement par nivolumab est initié en juin 2017 (3 mg/kg toutes les deux semaines) chez une patiente avec un ECOG 3 14 mois après son diagnostic de rechute ; elle reçoit actuellement 20 cycles de traitement. Après 6 cycles de nivolumab, la patiente avait amélioré son ECOG, était capable de marcher sans aide et la douleur avait été contrôlée sans avoir besoin de recourir à la morphine. Le traitement a été bien toléré et il n'y a pas eu de toxicité.
+L'amélioration clinique s'est accompagnée d'une normalisation de l'ACE et d'une tomodensitométrie en septembre qui a permis d'obtenir une réponse partielle avec une réduction de la masse du psoas à 10 x 12 cm, et dans la tomodensitométrie de janvier, cette réponse a été maintenue avec une réduction plus impressionnante du diamètre de la masse à 5 cm. L'urétérohydronéphrose et l'atteinte des os du bassin ont disparu.

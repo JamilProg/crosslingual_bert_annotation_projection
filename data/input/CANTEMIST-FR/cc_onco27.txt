@@ -1,0 +1,24 @@
+Anamnèse
+La patiente est une femme de 54 ans, administratrice de profession, sans antécédents personnels, familiaux ou oncologiques dignes d'intérêt. Elle ne consomme pas de substances toxiques, ne prend pas de traitement régulièrement et mène une vie très active. Elle s'est présentée aux urgences le 10 novembre 2014 en raison de douleurs abdominales et d'une distension depuis un mois, sans modification récente du rythme intestinal, ni nausées, ni vomissements, ni perte de poids, ni fièvre, ni aucun autre symptôme pertinent.
+
+Examen physique
+L'examen physique a montré un ECOG 1, avec une augmentation du périmètre abdominal et une douleur généralisée à la palpation de l'abdomen, sans signe d'irritation péritonéale. Le reste de l'examen n'a révélé aucune autre anomalie notable.
+
+Examens complémentaires
+"Les examens de laboratoire n'ont révélé aucune altération pertinente, à l'exception d'un CA 125 élevé de 5 688 U/ml (0-35 UI/ml), avec un CEA et un CA 19,9 normaux.
+"Une échographie transvaginale a été réalisée, au cours de laquelle l'annexe droite n'a pas été visualisée et l'annexe gauche s'est avérée être multitabulaire de 13 x 10 cm, avec une quantité modérée de liquide libre dans le Douglas.
+"Pour compléter l'étude, un scanner thoraco-abdominal a été réalisé, montrant une grande tumeur pelvienne kystique solide mesurant 14 x 11 cm qui semblait dépendre de l'annexe gauche, ainsi que de multiples images nodulaires dans le mésentère et l'épiploon mesurant jusqu'à 8 cm, compatibles avec des implants, et une quantité modérée d'ascite sans implants macroscopiques.
+"En raison de la suspicion de néoplasie ovarienne, une laparoscopie diagnostique a été pratiquée le 11 novembre, constatant une volumineuse tumeur annexielle gauche avec dissémination et implants miliaires au niveau du péritoine, de l'épiploon et de la graisse mésentérique, ainsi qu'un liquide ascitique abondant.
+"Des échantillons de liquide ascitique et d'implants d'épiploon ont montré un immunophénotype compatible avec un adénocarcinome papillaire séreux d'origine ovarienne (CA125, WT1 et p53 positifs et récepteurs hormonaux négatifs), de sorte que le 1er décembre, elle a subi une chirurgie primaire complète de cytoréduction.
+
+Diagnostic
+"Carcinosarcome (tumeur müllérienne mixte maligne) de l'ovaire gauche avec une composante épithéliale de type adénocarcinome séreux de haut grade et une composante mésenchymateuse de type sarcome indifférencié de haut grade.
+"Carcinome séreux de haut grade dans le tiers distal de la trompe droite avec carcinome intraépithélial étendu associé de la trompe droite.
+"Carcinome séreux de haut grade dans le tiers distal de la trompe gauche, associé à un carcinome intraépithélial étendu de la trompe gauche.
+"L'atteinte des ganglions lymphatiques para-aortiques et pelviens gauches est également confirmée, de même que les implants dans le péritoine, le Douglas, le mésocôlon, la vésicule biliaire et la paroi abdominale, ainsi que l'infiltration du ligament rond hépatique et du recto-sigmoïde par un adénocarcinome séreux de haut grade, de stade UICC pT3c pN1 pM1, stade IV de la FIGO. La morphologie de l'atteinte du paramètre, du péritoine et de la séreuse est plus compatible avec des tumeurs tubaires qu'avec la composante épithéliale d'un carcinosarcome ovarien, sans que l'on puisse déterminer avec certitude si l'atteinte est due à une néoplasie de la trompe droite ou gauche, compte tenu de l'existence de tumeurs synchrones.
+
+Traitement
+Le 5 janvier 2015, elle a commencé un traitement adjuvant intraveineux par carboplatine AUC 6-paclitaxel 175 mg/m2 tous les 21 jours, avec l'ajout de bevacizumab 15 mg/kg car il s'agissait d'une patiente à haut risque, de stade IV.
+
+Evolution
+Elle a reçu six cycles à ce jour, avec l'intention de poursuivre jusqu'à huit, compte tenu de la bonne tolérance (à l'exception d'un épisode de neutropénie fébrile de grade 3 après le troisième cycle) et de la bonne réponse (diminution des ascites et diminution du marqueur CA 125 jusqu'à une valeur presque normale). Par ailleurs, l'étude des mutations BRCA 1 et 2 est en cours.

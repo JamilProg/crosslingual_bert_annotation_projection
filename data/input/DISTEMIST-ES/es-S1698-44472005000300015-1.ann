@@ -1,0 +1,10 @@
+T1	pathologie 385 412	anomalías dentoesqueléticas
+T2	pathologie 725 745	duplicación condilar
+T3	pathologie 972 1004	cóndilo: bifidez anteroposterior
+T4	pathologie 1020 1037	derrame articular
+T5	pathologie 1185 1225	cóndilo bífido izquierdo anteroposterior
+#1	SNOMED T1	196380002
+#2	SNOMED T2	708669006
+#3	SNOMED T5	708669006
+#4	SNOMED T4	111230002
+#5	SNOMED T3	708669006

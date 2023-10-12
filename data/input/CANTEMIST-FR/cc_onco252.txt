@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 82 ans avec des antécédents personnels d'hypertension, de cardiopathie rhumatismale avec double lésion mitrale et de fibrillation auriculaire. Pas d'allergies médicamenteuses. Hypothyroïdie après traitement à l'iode radioactif en raison d'un nodule colloïdal en LTD, en traitement substitutif par lévothyroxine.
+Un diagnostic d'adénocarcinome du côlon, situé à 20 cm de la marge anale, a été posé en janvier 2015, suite à une constipation, avec un bilan d'extension négatif. L'intervention chirurgicale a été décidée le 17/03/2015 par sigmoïdectomie. L'anatomie pathologique a confirmé la présence d'un adénocarcinome du côlon pT3N2a (4-6/20)M0 Statut RAS non muté. Un bilan d'extension post-chirurgical a été demandé, qui a révélé l'apparition d'une lésion hépatique au niveau du segment VIII, d'une lésion splénique mesurant 8 mm, alors qu'elle mesurait auparavant 6 mm, et d'un nodule millimétrique dans le lobe moyen (ce dernier ayant des caractéristiques indéterminées).
+Le 25/05/2015, le cas a été présenté au comité multidisciplinaire, et il a été décidé de commencer le traitement par chimiothérapie tout en poursuivant l'étude par IRM et échographie pour identifier les lésions.
+La patiente a commencé la chimiothérapie le 26/5/2015 selon le schéma Capecitabine 1000mg/m2 toutes les 12 heures tous les 1-14 jours tous les 21 jours. Une IRM a été réalisée (01/07/2015) dans laquelle la lésion splénique n'a pas été vue, il a donc été interprété qu'il pouvait s'agir d'un défaut de perfusion, et une diminution significative de la taille de la lésion hépatique dans le segment VIII a été visualisée. Par ailleurs, une échographie abdomino hépatique a été réalisée (21/07/2015) et la lésion hépatique vue au scanner précédent a disparu. Compte tenu de l'absence de données confirmant les lésions hépatiques et spléniques, il a été décidé de les surveiller étroitement et de maintenir la capécitabine en postopératoire pendant 8 cycles.
+La patiente a poursuivi le traitement et au sixième cycle d'analyse, le laboratoire nous a informés que l'échantillon sanguin était très lipémique. A ce moment, la patiente a commencé à ressentir de l'asthénie et de l'hyporexie, et une analyse de contrôle a été effectuée avec un profil métabolique et thyroïdien complet montrant un désordre métabolique sévère.
+
+Examen physique
+ECOG 1, hémodynamiquement stable, afébrile. ACP : arythmique, pas de souffle. CVM : pas de bruits. Abdomen : cicatrice de laparotomie moyenne, pas d'autres observations. MMII : pas d'œdème. Pas de signes de TVP.
+
+Tests complémentaires
+- ANALYTIQUES : Fonction rénale normale, ions normaux. Fonction hépatique normale. Pas d'anémie, de thrombopénie ou de neutropénie.
+Profil métabolique : glucose 209 (70 - 110), cholestérol total 497 (normale antérieure, <200), HDL 19 (>35), LDL 58 (<130), triglycérides 4167 (25-200). Hémoglobine glyquée (HbA1c) 9,5% (4 - 6) et IFCC 80 mmol/mol (20 - 42). TSH 10,552 (0,35 - 4,950) T4 1,04 (0,70 - 1,6) et T3 2,77 (1,71 - 4,53).
+- Réévaluation du corps par tomodensitométrie (30/9/2015) : Stéatose hépatique. La lésion hépatique décrite dans les études précédentes n'est pas visualisée. Stabilité de la lésion splénique. Nouveau nodule sous-cutané au niveau de la FID, évocateur d'un dépôt secondaire.
+Pas de signe de récidive locale. Epaississement circonférentiel focal d'un segment de 6cm du côlon ascendant qui doit être caractérisé par une coloscopie pour éliminer une néoformation.
+- COLONOSCOPIE (24/10/2015) : Aucune modification de la muqueuse ou du calibre du côlon ascendant n'a été identifiée. La muqueuse et le calibre de l'ensemble du tractus exploré sont normaux.
+
+Diagnostic
+- Hypertriglycéridémie grade 4
+- Hypercholestérolémie grade 3
+- Hypothyroïdie grade 2
+- Hyperglycémie grade 2
+- Trouble endocrinien grade 2 en relation probable avec la chimiothérapie (Capecitabine)
+
+Traitement
+Compte tenu du trouble métabolique de grade 2 (nécessité d'une intervention non invasive) avec hypertriglycéridémie de grade 4, hypercholestérolémie de grade 3, hypothyroïdie de grade 2 et hyperglycémie de grade 2, il a été demandé au service d'endocrinologie et de nutrition d'adapter le traitement, en instaurant un traitement hypolipidémiant (statine et fibrate), une intensification du traitement thyroïdien substitutif (lévothyroxine) et un régime alimentaire pauvre en graisses. En consultation d'oncologie médicale, la fiche technique de la Capecitabine a été revue, décrivant la survenue rare de diabète et d'hypertriglycéridémie, pouvant être sévères et/ou mortels, et il a été décidé d'arrêter le médicament après six cycles de traitement sur les huit prévus et de poursuivre une surveillance rapprochée.
+
+Evolution
+Lors des consultations après 2 à 3 semaines, une analyse de contrôle a montré une normalisation des valeurs analytiques, avec une nette amélioration clinique et une disparition des symptômes. Une FNA d'un nodule sous-cutané dans le FID a été demandée, qui a montré une lymphadénite réactive (excluant une tumeur). Les marqueurs tumoraux sont restés stables. Compte tenu de l'absence de signes de maladie à distance, il a été décidé de poursuivre le suivi radiologique et les marqueurs tumoraux, qui restent normaux à ce jour.

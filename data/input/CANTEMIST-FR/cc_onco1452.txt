@@ -1,0 +1,38 @@
+Anamnèse
+Homme de 73 ans, sans allergie médicamenteuse connue, non-fumeur, avec des antécédents personnels d'hypertension artérielle, de dyslipidémie et de fibrillation auriculaire sous traitement régulier par acénocoumarol, carvédilol et atorvastatine. Il n'a pas d'antécédents familiaux intéressants. Il est agriculteur de profession.
+
+Diagnostiqué en mars 2008 d'un adénocarcinome rénal à cellules claires pT2bN0Mo, stade II, après avoir été étudié pour une hématurie macroscopique intermittente pendant cinq mois, il a subi une néphrectomie droite en avril 2008. Il a subi une néphrectomie droite en avril 2008. Par la suite, il a fait l'objet d'un suivi régulier en consultation d'oncologie médicale avec des examens d'imagerie.
+En octobre 2011, des lésions hépatiques ont été détectées au scanner, qui ont été signalées comme des "métastases hépatiques probables", ainsi qu'une très légère élévation de la GGT. Un PET-CT a été demandé, qui a confirmé la nature maligne des lésions avec un SUV maximal de 5,4.
+Nous étions alors face à un cancer du rein métastatique de pronostic intermédiaire, selon l'échelle pronostique de Motzer modifiée, et le patient s'est vu proposer un traitement par sunitinib2, après avoir vérifié un bon contrôle ambulatoire de la tension artérielle et des taux de TSH dans les paramètres normaux, ainsi qu'un ECG montrant une fibrillation auriculaire sans autre pathologie.
+En novembre 2011, il a commencé un traitement au sunitinib à la dose de 50 mg toutes les 24 heures pendant quatre semaines avec deux semaines de repos.
+Au cours du premier cycle de traitement, le patient a été surveillé par hémogramme et biochimie sans qu'aucune altération des paramètres hématologiques (hémoglobine, numération leucocytaire, neutrophiles et plaquettes) ou biochimiques n'ait été mise en évidence. À la fin du traitement, à la 6e semaine, la patiente a signalé une asthénie de grade 3. Une étude thyroïdienne a donc été demandée, qui a révélé une hypothyroïdie G2 (TSH 37,8 μU/mL ; T4 libre 0,59 ng/dL), et un traitement a été prescrit avec de la lévothyroxine 25 mcg/24 heures, en maintenant la dose de sunitinib.
+Au cours de la première semaine du deuxième cycle, la patiente s'est présentée aux urgences avec une asthénie invalidante G4, une désorientation temporo-spatiale, un malaise général, un œdème des mains et du visage, une diminution de la diurèse, 6-7 selles diarrhéiques par jour et une élévation de la pression artérielle à domicile. En outre, la famille du patient a déclaré le trouver de plus en plus "jaune".
+
+Examen physique
+L'examen physique effectué au service des urgences a révélé les éléments suivants : ECOG 1-2 ; BP 180/96 mm ; HR 90 bpm ; afébrile : ECOG 1-2 ; BP 180/96 mm Hg ; HR 90 bpm ; afébrile. Conscient, orienté, couleur paille, pas d'ictère des muqueuses, pas de signes de déshydratation.
+Auscultation cardiaque : tonalités arythmiques à 90 bpm, pas de souffle audible. Auscultation pulmonaire : normoventilation généralisée. Abdomen : mou, dépressible, globuleux, pas de masses ou de mégalithes palpables, pas de douleur à la palpation, pas de signes d'irritation péritonéale. Péristaltisme conservé.
+Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde. Examen neurologique : orientation dans le temps et l'espace, discours lent mais cohérent. Les pupilles sont isochores et normalement réactives, les nerfs crâniens sont normaux, la force des membres est préservée et symétrique. Pas d'astérixis.
+
+Tests complémentaires
+Examens complémentaires effectués lors de l'admission :
+- ECG : fibrillation auriculaire à 86 bpm, sans altération de la repolarisation.
+- Hémogramme : Hb 14,3 g/dL ; Ht 40,7 % ; leucocytes 3 mil/mm3 (N 1,8 % ; L 1,0 %) ; plaquettes 30 mil/mm3.
+- Biochimie : glucose 126 mg/dL ; urée 0,4 g/L ; créatinine 1,3 mg/dL ; protéines totales 5,4 g/dL ; sodium 137,5 mEq/L ; potassium 3 mEq/L ; chlore 98,7 mEq/L ; calcium 7,35 mg/dL ; magnésium 0,73 mEq/L ; FA 74 U/L ; LDH 281 U/L ; AST 39 U/L ; ALT 31 U/L ; GGT 23 U/L ; CPK 144 U/L.
+- Gaz du sang veineux : pH 7,45 ; pO2 50 mm Hg ; pCO2 36 mm Hg ; Sat. O2 87,5 % ; CO3H 25 mmol/L ; Ex. base 1,3 mmol/L.
+- Hormones thyroïdiennes : TSH 12,08 μU/mL (0,34-5,6) ; T3 libre 2,23 pg/mL (2,5-3,9) ; T4 libre 0,63 pg/mL (0,61-1,12).
+- Métabolisme du fer : fer 122 μg/dL ; transferrine 191,9 mg/dL ; TSI 50,06 % ; ferritine sérique 305 ng/mL.
+- Culture d'urine : urine non infectée.
+- Culture des selles : négative.
+- Radiographie du thorax : athéromatose aortique. Cardiomégalie. Aucune autre altération pertinente.
+- Radiographie de l'abdomen : pneumatisation transversale, sans distension ni autres signes d'occlusion. Aucune masse ou mégalithe n'était palpable. Greffes chirurgicales.
+
+Diagnostic
+Sur la base des tests effectués, un diagnostic différentiel d'asthénie avec désorientation et bradypsychie a été posé, excluant une anémie ou une hyponatrémie secondaire à la diarrhée, et excluant également une septicémie avec une analyse normale des gaz du sang veineux.
+Le patient a été diagnostiqué avec une hypothyroïdie de grade 2, une hypertension artérielle de grade 3, une diarrhée de grade 3 avec une hypomagnésémie secondaire et une thrombopénie de grade 3.
+
+Le traitement
+Le traitement par sunitinib a été interrompu dès le début, principalement en raison de la toxicité digestive qu'il entraînait, car la prise en charge symptomatique et le lopéramide n'ont pas permis de contrôler complètement la diarrhée, ce qui a nécessité l'utilisation d'octréotide.
+L'utilisation d'inhibiteurs de l'ECA avec de l'hydrochlorothiazide a amélioré la tension artérielle et les niveaux de magnésium se sont normalisés avec une substitution orale.
+
+Évolution
+Après une période de repos thérapeutique d'une semaine, récupération et vérification des nouvelles valeurs tensionnelles et autres paramètres, la dose de sunitinib a été réduite de 50 mg/24 heures à 37,5 mg/24 heures, mais la réapparition de l'asthénie, le maintien de la thrombopénie et la nouvelle apparition de diarrhées ont rendu nécessaire la réduction de la dose à 25 mg/24 heures avec une mauvaise tolérance par le patient de l'asthénie, qui a persisté malgré l'absence d'altérations analytiques, entraînant une grande incapacité. Pour cette raison, le traitement par sunitinib à la dose de 25 mg/24 heures a été suspendu et il a été proposé au patient, après une nouvelle période de récupération, de modifier le schéma thérapeutique avec une deuxième ligne de traitement compte tenu des toxicités qu'il avait présentées, en débutant l'évérolimus en février 2012 à la dose de 10 mg/24 heures avec une bonne tolérance à ce jour.

@@ -1,0 +1,26 @@
+Anamnèse
+La patiente était une femme de 68 ans qui présentait un syndrome constitutionnel depuis février 2011. En mai, elle s'est rendue aux urgences pour de la fièvre et des douleurs thoraciques, et a été admise en médecine interne pour des examens complémentaires.
+
+Examen physique
+Bon état général. On palpe une adénopathie latéro-cervicale droite douteuse, non douloureuse. Auscultation : ventilation pulmonaire bilatérale correcte ; bruits cardiaques rythmés, pas de souffle. Le reste de l'examen est sans particularité.
+
+Tests complémentaires
+Examens réalisés entre juin et juillet 2011.
+Radiographie pulmonaire : nodule pulmonaire de 2,2 cm dans le LSI. Hypertrophie du hile gauche.
+CT body : nodule pulmonaire dans le lobe supérieur gauche (LSI) évoquant une néoplasie. Thromboembolie pulmonaire dans l'artère pulmonaire principale gauche. Petites adénopathies médiastinales et hilaires.
+Bronchoscopie : masse blanchâtre dans l'orifice sous-segmentaire de la division antérieure de la LSI.
+Pathologie : carcinome à petites cellules. TTF1+, CK, indice de prolifération nucléaire élevé.
+Tomographie par émission de positons (TEP) : masse dans le LSI hypermétabolique en relation avec la néoplasie. Plusieurs nodules pulmonaires dans le LSI, compatibles avec des métastases. Adénopathie hilaire gauche hypermétabolique évoquant une tumeur maligne.
+IRM crânienne : lésion avec composante hémorragique dans le pédoncule cérébelleux gauche. Évaluer les métastases par rapport à la vascularite dans le contexte d'un syndrome paranéoplasique.
+
+Diagnostic
+Carcinome pulmonaire à petites cellules de stade IV avec dissémination pulmonaire et dans le système nerveux central.
+
+Traitement
+Elle a subi une chimiothérapie à base de cisplatine et d'étoposide (1) pendant six cycles (juillet-novembre 2011), avec une bonne tolérance. Par la suite, elle a bénéficié d'une radiothérapie holocrânienne palliative.
+Il a également reçu un traitement anticoagulant par énoxaparine (héparine de bas poids moléculaire) (2) pour la PTE.
+
+Évolution
+Les examens de contrôle ultérieurs ont montré une bonne réponse au niveau pulmonaire et au niveau du système nerveux central (SNC), avec une réponse complète à ces deux niveaux 5 mois après la fin du traitement.
+En décembre 2012, un scanner de contrôle a révélé un défaut de réplétion de l'artère pulmonaire gauche suspecté d'être un sarcome (décrit comme un PTE dans les scanners précédents). L'étude a été complétée par une IRM angio-pulmonaire et un PET scan, confirmant le diagnostic de sarcome. Elle a été présentée au comité des tumeurs et il a été décidé de la suivre, mais après deux mois, une augmentation de la taille de la lésion a été observée, de sorte qu'une intervention chirurgicale a été décidée.
+En mai 2013, elle a subi une pneumonectomie gauche avec résection intrapéricardique de l'artère pulmonaire. L'étude histologique et immunohistochimique de la pièce opératoire a révélé que la tumeur était une métastase d'un carcinome microcytaire d'origine pulmonaire.

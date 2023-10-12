@@ -1,0 +1,22 @@
+T1	pathologie 122 129	violada
+T2	pathologie 242 258	lesiones en boca
+T3	pathologie 569 592	secundarismo sifilítico
+T4	pathologie 1559 1578	leucoplasia vellosa
+T5	pathologie 1580 1582	LV
+T6	pathologie 2014 2030	lesiones bucales
+T7	pathologie 2150 2169	leucoplasia vellosa
+T8	pathologie 2279 2286	sífilis
+T9	pathologie 2360 2362	LV
+T10	pathologie 2609 2616	sífilis
+T11	pathologie 2675 2692	inmunodeficiencia
+#1	SNOMED T1	42085001
+#2	SNOMED T8	76272004
+#3	SNOMED T10	76272004
+#4	SNOMED T11	234532001
+#5	SNOMED T6	1071000119107
+#6	SNOMED T3	240557004
+#7	SNOMED T4	414603003
+#8	SNOMED T5	414952002
+#9	SNOMED T7	414603003
+#10	SNOMED T9	414952002
+#11	SNOMED T2	1071000119107

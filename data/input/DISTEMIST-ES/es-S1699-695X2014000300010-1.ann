@@ -1,0 +1,16 @@
+T1	pathologie 63 87	carcinoma ductal de mama
+T2	pathologie 125 159	carcinoma ductal "in situ" de mama
+T3	pathologie 294 303	ha fumado
+T4	pathologie 367 374	fumador
+T5	pathologie 485 494	fumadores
+T6	pathologie 507 514	fumador
+T7	pathologie 588 596	fumadora
+T8	pathologie 1146 1180	ectasia en grupo calicial superior
+T9	pathologie 1554 1591	dilatación pielocalicial y del uréter
+T10	pathologie 2038 2067	dilatación del cáliz superior
+T11	pathologie 2072 2078	lesión
+T12	pathologie 2105 2214	carcinoma de células transicionales en sistema colector derecho, infundíbulo superior y parte de pelvis renal
+T13	pathologie 2379 2430	carcinoma de células transicionales de pelvis renal
+T14	pathologie 2445 2483	carcinoma mucinoso que afecta a pelvis
+T15	pathologie 2608 2647	lesiones ocupantes de espacio en hígado
+T16	pathologie 2664 2692	metástasis hepáticas y óseas

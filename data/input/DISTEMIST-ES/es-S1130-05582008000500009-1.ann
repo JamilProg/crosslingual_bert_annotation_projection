@@ -1,0 +1,10 @@
+T1	pathologie 152 285	carcinoma de células escamosas que afectaba al borde lingual, la pared lateral orofaríngea, el área amigdalar y el hemipaladar blando
+T2	pathologie 326 430	adenopatías metastásicas en los ejes vasculares y en las regiones submaxilares de ambos lados del cuello
+T3	pathologie 491 496	tumor
+T4	pathologie 1493 1539	proceso neoplásico en el lóbulo medio pulmonar
+T5	pathologie 1910 1945	desgarros en la pared de la tráquea
+#1	SNOMED T4	126713003
+#2	SNOMED T1	276952000+408649007+276962007
+#3	SNOMED T2	94392001+127082004+127087005
+#4	SNOMED T5	233784004
+#5	SNOMED T3	55342001

@@ -1,0 +1,18 @@
+T1	pathologie 270 292	estrabismo convergente
+T2	pathologie 313 321	diplopia
+T3	pathologie 449 471	estrabismo convergente
+T4	pathologie 523 542	nistagmo horizontal
+T5	pathologie 1176 1214	proliferación neoplásica meningotelial
+T6	pathologie 1303 1308	tumor
+T7	pathologie 1314 1332	meningioma atípico
+T8	pathologie 1647 1652	tumor
+T9	pathologie 1824 1846	estrabismo convergente
+#1	SNOMED T9	16596007
+#2	SNOMED T7	128914005
+#3	SNOMED T1	16596007
+#4	SNOMED T3	16596007
+#5	SNOMED T4	81756001
+#6	SNOMED T6	55342001
+#7	SNOMED T8	55342001
+#8	SNOMED T2	24982008
+#9	SNOMED T5	68944005

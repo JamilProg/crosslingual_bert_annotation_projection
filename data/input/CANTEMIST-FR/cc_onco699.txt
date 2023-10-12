@@ -1,0 +1,27 @@
+Anamnèse
+La patiente était une femme de 75 ans au moment de la première consultation (janvier 2017), sans allergies connues, sans habitudes toxiques ni facteurs de risque cardiovasculaire, et avec des antécédents personnels pertinents d'hypothyroïdie sous traitement substitutif. Ses antécédents médicaux ou oncologiques familiaux comprennent une mère décédée d'un carcinome colorectal à l'âge de 70 ans.
+Ses antécédents oncologiques ont débuté en janvier 2017 lorsqu'elle a consulté le service digestif pour une histoire de dyspepsie de plusieurs mois. Une échographie de l'abdomen et un bilan sanguin complet ont été réalisés, sans résultat significatif à l'exception d'une GGT et d'une FA élevées, ce qui a conduit à une coloscopie et une gastroscopie, qui n'ont pas montré de pathologie, et à une tomodensitométrie (TDM) abdominale, qui a révélé plusieurs lésions d'occupation de l'espace (LOE) hépatique indéterminées dans le segment II (31 mm) et d'autres entre les segments V et V (6-8 mm) soupçonnées d'être des dépôts secondaires. Au vu de ces résultats, une cholangiographie par résonance magnétique (IRM) et une IRM hépatique ont été réalisées, confirmant la présence de lésions suspectes de dépôts secondaires, la plus grande mesurant 47 mm, les autres lésions étant indéterminées.
+Au cours du processus diagnostique, un nodule a été palpé dans le quadrant inférieur gauche du sein gauche et une mammographie et une échographie ont été demandées, qui ont révélé un nodule suspect de malignité (BIRADS 4c), de sorte qu'une biopsie à l'aiguille centrale (CNB) du sein gauche a été réalisée en juin 2017 avec le résultat anatomopathologique (AP) d'un carcinome canalaire infiltrant. Elle a été opérée en juillet 2017 par quadrantectomie large avec marges libres, avec biopsie sélective du ganglion sentinelle (BSGC), identifiant 2 adénopathies, dont une positive par immunohistochimie pour les cytokératines. Le diagnostic définitif est le suivant : carcinome canalaire infiltrant de 1,3 cm, modérément différencié, grade II, récepteur des œstrogènes (ER) 95 %, récepteur de la progestérone (PR) 90 %, Ki 67 12 %, HER-2 négatif. TNM pT1cpN0(i+)(sn).
+La patiente persiste avec des symptômes de dyspepsie et de douleurs abdominales, elle est donc admise en juillet 2017 dans le service digestif puis en oncologie médicale pour compléter son étude.
+
+Examen physique
+L'examen physique à l'admission a montré un état général acceptable, ECOG 0. Pas d'adénopathie dans les régions latérocervicales ou supraclaviculaires. Asymétrie mammaire avec cicatrice dans le quadrant inférieur interne du sein gauche sans signe de complication. Pas de nodules palpables dans les deux seins ni d'adénopathies axillaires. Aucune masse ou viscéro-mégalie n'était palpable. Le reste de l'examen n'a rien révélé.
+
+Examens complémentaires
+Lors de l'admission en oncologie médicale, les examens complémentaires suivants ont été effectués :
+"Marqueurs tumoraux : négatifs.
+"Sérologies du virus hépatotrope : négatives.
+"Tomographie oncologique par émission de positons (TEP) : lésion hépatique connue dans le segment II, non spécifique du point de vue métabolique. Pas d'autres résultats significatifs.
+"Échographie hépatique : lésion hépatique focale dans le segment II suspecte de malignité, avec comportement nécrotique ou fibrotique de la lésion (métastase, cholangiocarcinome, lésion fibrotique) qui s'est développée discrètement par rapport à la tomodensitométrie initiale, les lésions plus petites restent non spécifiques.
+"Ponction à l'aiguille fine et BAG : tissu conjonctif avec nécrose coagulative étendue, infiltrat inflammatoire et fibrose. Résumé : cytologie non concluante.
+
+Diagnostic
+Diagnostic de carcinome canalaire infiltrant du sein gauche pT1c pN0 (i+) et suspicion de lésion métastatique dans le lobe hépatique gauche (une seule lésion suspecte et deux lésions indéterminées).
+Traitement
+Il a été décidé de présenter la patiente à un comité multidisciplinaire des tumeurs afin d'évaluer la résection du lobe hépatique et de compléter l'étude anatomopathologique.
+Elle a été opérée par la chirurgie générale le 21/8/2017, avec résection de deux lésions dans le segment V-VI du foie et segmentectomie hépatique II-III par laparoscopie, et est sortie sans complications.
+
+Évolution
+L'AP définitive des lésions hépatiques était la suivante : segments hépatiques sous-capsulaires avec nodules nécrotiques éosinophiles hépatiques avec présence d'œufs de parasites dégénérés dans le matériel nécrotique. Aucun signe de malignité n'a été observé.
+Enfin, au vu des résultats de l'AP, une sérologie pour les parasites a été demandée, étant positive pour Fasciola hepatica, elle a donc commencé un traitement par triclabendazole en novembre 2017, avec une bonne réponse à ce traitement sans toxicités pertinentes. Dans l'anamnèse, la patiente a déclaré être une consommatrice régulière de cresson sauvage.
+Après la chirurgie hépatique, la patiente a commencé un traitement adjuvant de radiothérapie (RT) entre le 11/09/2017 et le 17/10/2017, en administrant une dose de 50 Gy en 25 séances à 2 Gy/séance dans le sein gauche. Elle a débuté un traitement hormonal adjuvant avec lequel elle est actuellement maintenue.

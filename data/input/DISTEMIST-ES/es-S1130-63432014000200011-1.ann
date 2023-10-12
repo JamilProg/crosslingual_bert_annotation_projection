@@ -1,0 +1,24 @@
+T1	pathologie 52 54	SS
+T2	pathologie 52 114	SS estadio III-B/IV-A1 (T4N0M0) con afectación cutánea extensa
+T3	pathologie 151 158	fumador
+T4	pathologie 185 209	diabetes mellitus tipo 2
+T5	pathologie 211 223	hipertensión
+T6	pathologie 225 246	fibrilación auricular
+T7	pathologie 249 279	hiperplasia prostática benigna
+T8	pathologie 302 314	liquen plano
+T9	pathologie 503 505	SS
+T10	pathologie 817 825	insomnio
+T11	pathologie 828 837	depresión
+T12	pathologie 3169 3189	lesiones vesiculosas
+#1	SNOMED T8	4776004
+#2	SNOMED T2	255101006
+#3	SNOMED T12	275871006
+#4	SNOMED T10	193462001
+#5	SNOMED T11	394924000
+#6	SNOMED T3	77176002
+#7	SNOMED T4	44054006
+#8	SNOMED T5	38341003
+#9	SNOMED T6	49436004
+#10	SNOMED T7	266569009
+#11	SNOMED T9	118611004
+#12	SNOMED T1	118611004

@@ -1,0 +1,26 @@
+Anamnèse
+Une femme de 63 ans avec des antécédents d'hypertension artérielle contrôlée par un médicament et un goitre multinodulaire normofonctionnel, dans lequel une masse rénale droite asymptomatique a été trouvée. Une néphrectomie a d'abord été pratiquée avec excision de l'adénopathie interaortocave, le diagnostic définitif étant un carcinome rénal à cellules claires, de grade Fuhrman 4 et de stade Robson 3, avec métastase ganglionnaire interaortocave, de stade T2bN1M0. Le suivi s'est poursuivi.
+Onze mois plus tard, il a signalé l'apparition d'une lymphadénopathie sus-claviculaire gauche et un scanner a également montré une lymphadénopathie médiastinale et une lymphadénopathie rétrocave, toutes de taille significative. Il a été considéré comme ayant un pronostic intermédiaire car il avait un taux d'hémoglobine de 10 g/dl et un délai de moins d'un an entre le diagnostic et la rechute des ganglions lymphatiques. Dans cette situation, le traitement commence par 50 mg de sunitinib par jour pendant quatre semaines, suivies de deux semaines de repos. La fonction thyroïdienne est contrôlée régulièrement.
+Six mois après le début du traitement, dans une situation de réponse partielle maintenue, elle consulte pour une asthénie, une oedématisation progressive et une diminution de la diurèse en une semaine.
+
+Examen physique
+L'examen physique a révélé une pâleur généralisée avec des pétéchies sur les membres inférieurs et des hématomes généralisés sur environ 20 % de la surface corporelle. Le visage et les paupières étaient oedémateux, la voix était rauque avec des troubles de l'élocution, un oedème prétibial sans fovéa, le tout compatible avec un myxoedème.
+L'auscultation pulmonaire a révélé une diminution du murmure vésiculaire bibasal. Le reste de l'examen, y compris l'examen neurologique, était sans intérêt.
+
+Examens complémentaires
+Les examens complémentaires suivants ont été réalisés :
+- Hémogramme : leucopénie de 3140/mmc ; neutropénie de 2130/mmc ; hémoglobine de 9,5 g/dL ; thrombopénie de 24000/mmc ; 3,67% de réticulocytes.
+- Un frottis de sang périphérique confirme la thrombopénie et montre une anisocytose avec la présence de 10 % de schistocytes.
+- Biochimie : créatinine 2,95 mg/dl (mois précédent 1,46 mg/dl) ; urée 87 mg/dl ; acide urique 12,2 mg/dl ; magnésium 1,5 mg/dl ; albumine 2,5 mg/dl ; protéines totales 4,5 mg/dl ; LDH 1 000 U/l ; haptoglobine inférieure à 6 mg/dl.
+- TSH 179,2 mU/mL ; thyroxine libre 0,74 ng/dL. Le dosage effectué deux mois plus tôt était normal.
+- L'auto-immunité était normale (anticorps antinucléaires, anticardiolipine, anti-ADN double brin, C-ANCA, P-ANCA, anti-membrane basale glomérulaire) et le test de Coombs était négatif.
+- L'analyse d'urine a montré une microhématurie et une protéinurie de 1 g.
+
+Diagnostic
+Une anémie hémolytique a été diagnostiquée dans le contexte d'une microangiopathie thrombotique, avec une insuffisance rénale secondaire, ainsi qu'une hypothyroïdie clinique, toutes consécutives à un traitement par le sunitinib.
+
+Évolution
+La patiente a été admise pour recevoir des soins de soutien, une fluidothérapie et une surveillance de l'évolution de la situation. Le traitement au sunitinib a été interrompu et la lévothyroxine a été mise en place. Une amélioration rapide de la fonction rénale a été observée jusqu'à l'obtention de chiffres stables d'environ 1,40 mg/dL après dix jours. La microangiopathie persiste initialement jusqu'à atteindre des numérations plaquettaires minimales de 15 000/mmc, avec une aggravation des paramètres analytiques de l'hémolyse au cours de la première semaine. Par la suite, une amélioration progressive de la microangiopathie a été observée jusqu'à une résolution complète trois semaines après l'admission avec des plaquettes supérieures à 190 000/mmc, une hémoglobine à des niveaux normaux de 10,4 g/dL, un maximum de 2 % de schistocytes dans le frottis de sang périphérique, une normalisation de la LDH et de l'haptoglobine.
+On observe également une aggravation de la neutropénie de grade 2 que le patient présentait depuis le début du traitement par sunitinib, atteignant des chiffres minimaux de 900/mmc. Dans ce contexte, une aspiration de moelle osseuse a été réalisée, qui a révélé une moelle osseuse légèrement hypocellulaire, avec une augmentation des mégacaryocytes et aucun signe d'infiltration métastatique. Deux semaines plus tard, le nombre de neutrophiles s'est stabilisé autour de 2 000/mmc.
+Lors de l'admission, une tomodensitométrie a exclu une progression de la maladie, mais a révélé un épanchement péricardique et pleural attribuable à l'hypothyroïdie.
+Deux mois après l'arrêt du traitement par le sunitinib et l'instauration d'un traitement par la lévothyroxine, le patient était asymptomatique, avec un hémogramme normal, des hormones thyroïdiennes normales et un taux de filtration glomérulaire de 50 ml/min.

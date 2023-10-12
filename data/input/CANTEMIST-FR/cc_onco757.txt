@@ -1,0 +1,38 @@
+Anamnèse
+Nous présentons le cas clinique d'un homme de 65 ans diagnostiqué avec un adénocarcinome de la prostate de stade IV en raison d'une atteinte osseuse et hépatique, qui a développé une fibrose médullaire probable en relation avec un traitement au Radium-223.
+Sans données oncologiques familiales, il est un fumeur de 20 paquets-années, un buveur modéré et a connu un épisode d'ostéonécrose de la mâchoire associé aux bisphosphonates. Il n'a pas d'allergies médicamenteuses connues.
+Il prend régulièrement de l'oméprazole à raison de 20 mg toutes les 24 heures et de la prednisone à raison de 20 mg toutes les 24 heures.
+Antécédents oncologiques
+En novembre 2012, on a diagnostiqué chez le patient un adénocarcinome de la prostate de Gleason 6 (3 + 3), associé à des symptômes mictionnels et à un taux d'antigène prostatique spécifique (PSA) > 125 ng/ml, et une tomodensitométrie thoracique a révélé des lésions blastiques au niveau de la colonne vertébrale. Il a commencé un traitement par blocage androgénique complet avec du bicalutamide 50 mg par jour et un analogue de l'hormone de libération de la lutéine (LHRH) tous les six mois pendant un mois, avec des symptômes urinaires persistants et a subi une résection transurétrale (TUR) de la prostate le 15/01/2013, confirmant la présence d'un adénocarcinome de la prostate de Gleason 8 (3 + 5). Par la suite, un traitement trimestriel à base d'acide zolédronique a été mis en place pour contrôler les symptômes osseux.
+En juin 2013, il a été évalué en oncologie médicale, et un blocage androgénique complet a été réintroduit avec du bicalutamide et un analogue de la LH-RH mensuel, avec un PSA de 218 ng/ml à ce moment-là, et il a continué à être surveillé par le service d'urologie.
+En décembre 2014, l'acide zolédronique a été arrêté en raison d'une ostéonécrose maxillaire, sans nécessiter de traitement chirurgical.
+En août 2015, le patient a présenté un PSA élevé (17,32 ng/ml) avec une testostérone dans l'intervalle de castration (0,33 ng/ml), sans progression claire dans les études d'imagerie. Un traitement par acétate d'abiratérone a été débuté en novembre 2015 jusqu'en septembre 2016.
+Il a été référé au service d'oncologie médicale pour une élévation du PSA : février 2016 15,32 ng/ml, mai 2016 27,39 ng/ml. Un scanner et une scintigraphie osseuse en août 2016 ont confirmé une progression osseuse malgré un blocage androgénique complet, un traitement a donc été débuté par docétaxel 75 mg/m2 tous les 21 jours, dont il a bénéficié au total de 8 cycles de septembre 2016 à février 2017 avec une stabilisation de la maladie, qui a ensuite été suivie.
+En juin 2017, elle a présenté une progression exclusivement au niveau osseux documentée par une étude gammagraphique, pour laquelle elle a reçu un traitement par Radium-223 pendant 6 mois, de juillet 2017 à décembre 2017.
+À partir de janvier 2018, elle a souffert d'une anémie de grade III et d'une thrombopénie de grade III, avec des leucocytes et une formule leucocytaire normaux. À cette époque, une progression du foie a également été observée par tomodensitométrie thoraco-abdominale-pelvienne.
+Symptômes actuels
+Asthénie, ecchymoses fréquentes et douleurs osseuses, principalement au niveau des hanches et des extrémités inférieures. Pas de dyspnée ni de douleur thoracique. Pas de perte de poids ni d'autres manifestations cliniques.
+
+Examen physique
+Karnofsky 90%, Eastern Cooperative Oncology Group (ECOG) 1. Examen neurologique normal. Bouche sans lésion, avec prothèse dentaire. Pas d'adénopathie cervicale, sus-claviculaire ou axillaire. Thorax sans lésions palpables. Auscultation cardiaque rythmée sans souffle. Auscultation pulmonaire sans bruits pathologiques. Abdomen globuleux, mou, non douloureux, péristaltisme positif, sans masse ni organomégalie palpable. Percussion du poing rénal et vertébral négative. Membres inférieurs sans œdème ni signe d'insuffisance veineuse.
+
+Tests complémentaires
+Présente dans l'analyse du sang périphérique du 7 mars 2018 :
+" Biochimie : urée, créatinine, sodium, potassium, vitamine B12 et acide folique normaux, hyperferritinémie de 2 860 et fer normal. indice de saturation de la transferrine (IST) 59 %. PSA : 534,60 ng/ml.
+"Réalisation d'une biopsie osseuse de la crête iliaque le 23 février 2018, présentant les résultats suivants :
+"NFS : hémoglobine 8,7 g/dl, 9 430 leucocytes/mm3, 7 670 neutrophiles, 43 000 plaquettes/mm 3.
+"Réticulocytes : 111 000/mm3 (3,79 %).
+"Frottis sanguin périphérique : érythroblastes circulants et déplacement vers la gauche. Pointillés basophiles. Réaction leuco-érythroblastique.
+"Myélogramme : os iliaque avec une consistance pierreuse qui rend difficile l'extraction du cylindre osseux, peut-être attribuable à une fibrose médullaire.
+"Biopsie osseuse : tissu dévitalisé sans signe de cellularité.
+
+Diagnostic
+Fibrose vertébrale probable secondaire au traitement au radium-223.
+
+Traitement
+Un traitement symptomatique de l'anémie a été décidé avec des transfusions de globules rouges si nécessaire et/ou des transfusions de plaquettes en cas de processus hémorragique actif, car l'utilisation de l'eltrombopag et de l'érythropoïétine dans ce contexte n'est pas indiquée, et les agonistes des récepteurs de la thrombopoïétine ont pour effet secondaire la myélofibrose.
+Dans un premier temps, un traitement à base de prednisone à haute dose a été tenté sans succès, de sorte que le patient suit actuellement un régime dégressif avec l'intention d'interrompre ce traitement.
+
+Évolution
+Pour évaluer correctement l'étiologie de la bicytopénie (fibrose ou infiltration), une nouvelle biopsie osseuse serait nécessaire. Le patient ayant débuté un nouveau traitement systémique et conformément à ses préférences, étant donné qu'elle n'entraînera pas de changement dans l'approche thérapeutique et la faible rentabilité probable d'une nouvelle biopsie de la moelle osseuse, celle-ci est exclue pour l'instant.
+En janvier 2018, une progression avait été confirmée au niveau hépatique, nécessitant de retarder le début d'une nouvelle ligne de traitement jusqu'au diagnostic ou à l'amélioration de l'aplasie, pour finalement initier un traitement par enzalutamide en mars 2018, qu'elle a maintenu jusqu'à ce jour.

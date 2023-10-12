@@ -1,0 +1,42 @@
+Anamnèse
+Ce cas concerne une femme de 42 ans, sans facteurs de risque cardiovasculaire ni autres antécédents personnels ou familiaux dignes d'intérêt, qui en 2004, alors qu'elle avait 30 ans, s'est rendue chez son gynécologue pour une gêne abdominale non spécifique.
+Au cours d'une échographie gynécologique de routine, on lui a diagnostiqué un gros kyste ovarien soupçonné d'avoir un comportement tumoral. Il a été décidé d'intervenir par laparotomie, car on a diagnostiqué au cours du même acte chirurgical une masse pancréatique dans la queue du pancréas d'environ 6 cm, avec des bords bien définis, et on a décidé d'ajouter à l'ovariectomie gauche déjà prévue une pancréatectomie distale, une splénectomie et des biopsies de l'ovaire controlatéral.
+L'étude anatomopathologique (ci-après AP) a montré deux néoplasmes synchrones avec des profils immunohistochimiques différents :
+1) Adénocarcinome acineux bien différencié encapsulé de 7,5 cm du pancréas.
++ Antigène épithélial membranaire (EMA) positif. Cytokératine (CK) 8-18 faiblement positive.
++ Antigène carcino-embryonnaire (CEA), cytokératines (CK) 7 et 20 négatifs.
+2) Cystadénocarcinome ovarien mucineux bien différencié qui ne s'étend pas au-delà de la capsule.
++ CEA, EMA, CK 8-18 et CK 7 positifs.
++ CK 20 négative.
+3) Biopsie de la rate et de l'ovaire controlatéral sans résultat pathologique.
+
+Suivi ultérieur en consultation d'oncologie médicale, décision de ne pas ajouter de traitement adjuvant compte tenu de la nature des tumeurs et de leur résection complète, sortie du service après 7 ans de suivi avec tous les examens d'imagerie de réévaluation (tomographie axiale (CT) principalement) et les marqueurs tumoraux (Ca 19,9) sans altération à aucun moment.
+Il a été suivi par le service de chirurgie hépatobiliaire qui a réalisé en 2012, dans le cadre du suivi de routine, un scanner abdominal montrant trois lésions occupant l'espace (LOE) au niveau du rein gauche, dont la plus grande mesurait 23 mm, avec un rehaussement hétérogène qui suggérait radiologiquement un comportement tumoral. Compte tenu des antécédents du patient, il a été décidé de procéder à une évaluation conjointe par le comité des tumeurs urologiques de l'hôpital, où il a été convenu de procéder à une néphrectomie gauche et d'entamer une évaluation par l'oncologie médicale en fonction des résultats de l'étude d'extension et des études anatomopathologiques.
+
+Examen physique
+Au cours du processus de diagnostic et de traitement des trois LOE rénaux, le patient a toujours été asymptomatique, avec un Performance Status (PS) de zéro point. Elle était stable sur le plan hémodynamique et afébrile. Elle ne présentait aucun signe d'intérêt, tant dans l'anamnèse par appareil que lors de l'examen physique.
+
+Examens complémentaires
+- Tomodensitométrie avec contraste de l'abdomen et du bassin (pré-chirurgical). Le rein gauche présente trois LOEs solides, arrondis, avec rehaussement hétérogène au niveau du pôle supérieur (23mm), de la zone médiane (5mm) et du pôle inférieur (17mm), suspects de malignité.
+- Etude anatomopathologique et immunohistochimique de la néphrectomie gauche : carcinome multifocal avec trois nodules.
++ EMA, CD10, Alpha-1-antitrypsine et A1AQT positifs.
++ CA des cellules rénales, CK20, Ck7, CK19, Chromogranine, Synaptophysine, CEA et Vimentine négatifs.
+- Tomodensitométrie thoracique et abdominale avec contraste (post-chirurgie) : Thorax sans résultats. Signes de splénectomie et de pancréatectomie partielle, avec néphrectomie gauche sans changements significatifs.
+
+Diagnostic
+L'étude immunohistochimique des trois lésions réséquées lors de la néphrectomie gauche a montré que ces lésions étaient suspectes de métastases d'origine pancréatique probable, avec une positivité pour certains marqueurs de nature pancréatique comme l'EMA ou l'alpha-1-antitrypsine. De même, la négativité des marqueurs du carcinome rénal renforçait la suspicion de cette origine.
+
+Malgré tout, les marqueurs neuroendocriniens (Chromogranine, Synaptophysine) sont négatifs.
+Cela signifie que la tumeur primaire serait d'origine exocrine si elle était probablement d'origine pancréatique. Ces résultats ne correspondent pas à l'évolution du tableau clinique, qui est indolent et dont l'intervalle sans progression est si long (ILE d'environ 7 ans), alors que le taux de survie à 5 ans est de 14 % dans les néoplasmes pancréatiques exocrines de stade IA comme celui de notre patiente.
+Devant la discordance de ces résultats, il a été décidé de demander une nouvelle étude immunohistochimique au service de pathologie de notre hôpital qui disposait encore du tissu de la première opération (pancréatectomie et ovariectomie gauche) avec le résultat suivant :
+- Pancréas et ovaire gauche :
+Pancréas et ovaire gauche : + CK19, Alpha-1-AT, Synaptophysine et Chromogranine positive
++ EMA, CEA, CK7-, CK-20, carcinome à cellules rénales et Vimentine : négatifs.
+L'expression de marqueurs neuroendocriniens dans le néoplasme pancréatique réséqué ainsi que l'expression de marqueurs exocriniens suggèrent que le néoplasme pancréatique est d'origine mixte et qu'il s'agit donc d'un adénocarcinome acineux endocrine. On soupçonne également que les lésions rénales sont du même type pancréatique malgré l'absence de marqueurs neuroendocriniens, bien que ce diagnostic ne puisse être exclu étant donné que ces marqueurs peuvent être négatifs dans les néoplasmes endocriniens avancés.
+
+Traitement
+L'adénocarcinome endocrine acineux du pancréas est une entité rare, comme cela est expliqué plus loin dans la discussion. Compte tenu de la prédominance de la composante neuroendocrine dans les études immunohistochimiques, du stade localisé au moment du diagnostic du néoplasme primaire et des métastases, avec des marges de résection libres, il a été décidé de ne pas ajouter de traitement par chimiothérapie adjuvante, avec un suivi analytique et radiographique étroit.
+
+Évolution
+La patiente a continué à être suivie par le service d'oncologie médicale, avec des tomodensitométries thoraco-abdominales périodiques sans aucun signe de récidive à quelque niveau que ce soit et des tests analytiques négatifs avec des marqueurs tumoraux (principalement CA 19.9).
+Actuellement asymptomatique, elle mène une vie tout à fait normale avec un PS de zéro point, et est périodiquement évaluée par notre service.

@@ -1,0 +1,24 @@
+T1	pathologie 143 152	proptosis
+T2	pathologie 275 284	sinusitis
+T3	pathologie 493 502	proptosis
+T4	pathologie 570 579	proptosis
+T5	pathologie 642 670	obstrucción de la fosa nasal
+T6	pathologie 818 827	sinusitis
+T7	pathologie 985 997	pansinusitis
+T8	pathologie 1002 1059	flemón subperióstico en pared medial de la órbita derecha
+T9	pathologie 1065 1097	empiema subdural frontal derecho
+T10	pathologie 1393 1405	pansinusitis
+T11	pathologie 1910 1982	leucopenia e hipertransaminasemia secundarias al tratamiento antibiótico
+T12	pathologie 2152 2173	secuelas neurológicas
+#1	SNOMED T6	36971009
+#2	SNOMED T12	363302008
+#3	SNOMED T7	195790000
+#4	SNOMED T8	427692005
+#5	SNOMED T10	195790000
+#6	SNOMED T2	36971009
+#7	SNOMED T9	37660004
+#8	SNOMED T1	18265008
+#9	SNOMED T3	18265008
+#10	SNOMED T4	18265008
+#11	SNOMED T5	232209000
+#12	SNOMED T11	292920009

@@ -1,0 +1,6 @@
+T1	pathologie 616 648	calcificaciones en la tumoración
+T2	pathologie 1122 1135	Neuroblastoma
+T3	pathologie 1867 1882	miofibromatosis
+#1	SNOMED T2	432328008
+#2	SNOMED T3	253043004
+#3	SNOMED T1	108369006

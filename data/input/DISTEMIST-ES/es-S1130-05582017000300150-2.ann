@@ -1,0 +1,6 @@
+T1	pathologie 246 299	lesión que destruye parte de cuerpo y rama mandibular
+T2	pathologie 392 427	ameloblastoma plexiforme mandibular
+T3	pathologie 488 494	lesión
+#1	SNOMED T2	285311001
+#2	SNOMED T1	128233005
+#3	SNOMED T3	417163006

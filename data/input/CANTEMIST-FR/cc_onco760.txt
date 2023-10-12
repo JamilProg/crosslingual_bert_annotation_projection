@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 25 ans chez qui la maladie coeliaque a été diagnostiquée en 2011 et qui est traité par 150 mg d'azathioprine par jour, avec un excellent contrôle clinique depuis le début du traitement. Il n'a pas d'antécédents chirurgicaux ou familiaux pertinents. C'est une personne active et sportive.
+En novembre 2016, elle consulte aux urgences pour une douleur de la hanche droite évoluant depuis 5 mois. De plus, il a présenté une tumeur au niveau de l'os iliaque et une fièvre pouvant atteindre 38,2º, principalement le soir. Il avait déjà été traité par des opioïdes sans amélioration symptomatique. Il ne présentait pas de prurit ni de perte de poids. Il n'a signalé aucun autre symptôme associé.
+
+Examen physique
+"Le patient était en bon état général. Il y avait une masse pierreuse et douloureuse à la palpation qui masquait complètement la lame iliaque droite. Il n'y avait pas d'adénopathies dans d'autres localisations.
+"L'auscultation cardio-pulmonaire est restée inchangée.
+"Le reste de l'examen n'a rien révélé de pertinent.
+
+Examens complémentaires
+Les analyses sanguines ont révélé un taux élevé de lactate déshydrogénase (LDH), 950 U/l (fourchettes). Le reste de l'hémogramme, la biochimie et l'hémostase étaient normaux.
+La tomodensitométrie (TDM) a montré une large lésion ostéolytique dans l'os iliaque droit. La tumeur a provoqué une destruction osseuse et comportait une importante composante de tissu mou. L'étude a été complétée par une imagerie par résonance magnétique et une tomographie par émission de positons (TEP).
+Une biopsie a ensuite été pratiquée et a révélé une prolifération diffuse de cellules de taille moyenne avec peu de cytoplasme, des noyaux ronds et une chromatine grumeleuse. L'immunohistochimie a montré une expression intense de CD20, CD79a et CD45 ; aucune expression de marqueurs d'immaturité (TdT, CD34, CD99), épithéliaux (CkAE1-AE3 et EMA), neuroectodermiques (CD99, synaptophysine, énolase, CD57, CD56, ni S100), ni CD3, CD5, CD2, CD7, ni CD1a. L'indice de prolifération était de 80 %. Résultats compatibles avec un lymphome diffus à grandes cellules B avec immunophénotype post-germinal activé.
+L'étude a été complétée par une biopsie de la moelle osseuse qui a exclu toute infiltration néoplasique.
+
+Diagnostic
+Lymphome osseux primitif (LOP). Le stade a été établi selon le système d'Ann Arbor, stade IV E X (masse volumineuse), indice pronostique international (IPI) 1 (LDH élevée).
+
+Traitement
+Le patient a reçu une immunochimiothérapie à base de rituximab, d'adriamycine, de vincristine, de cyclophosphamide et de prednisone (R-CHOP), suivie d'une consolidation par radiothérapie avec modulation d'intensité (IMRT), à une dose totale de 40 Gy.
+
+Évolution
+La patiente n'a pas présenté de toxicité aiguë liée à la chimiothérapie. Deux mois après la fin du traitement multimodal, un scanner CT-PET a été réalisé, qui a montré une rémission complète de la maladie. Depuis lors, il n'a pas présenté de maladie lors des contrôles successifs et n'a pas développé de toxicité à moyen ou long terme liée au traitement. L'azathioprine a été remplacée par la mésalazine dans le traitement de la maladie coeliaque, avec un bon contrôle des symptômes et aucune poussée.

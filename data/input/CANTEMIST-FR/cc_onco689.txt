@@ -1,0 +1,23 @@
+Anamnèse
+Femme de 36 ans, fumeuse active de 5 paquets-années, immigrée : exposée à l'accident de Tchernobyl. Consulte en avril 2017 pour une dyspnée brutale et une douleur thoracique pleurétique droite.
+
+Examen physique
+L'examen physique a révélé un ECOG 1, les autres n'ayant rien d'autre à signaler.
+
+Tests complémentaires
+Les examens de laboratoire n'ont rien révélé de pertinent.
+Radiographie thoracique : lésion nodulaire cavitaire dans le LID.
+Angiographie par tomodensitométrie thoracique : TEP bilatérale. Masse cavitaire de 3,2 cm dans le segment apical de la LID. Adénopathies paratrachéales bilatérales, en fenêtre aortopulmonaire et adénopathies hilaires bilatérales.
+Bronchoscopie : normale avec brossage et BAS négative pour la malignité.
+TEP/TDM : lésion hypermétabolique dans le LID. Adénopathies hypermétaboliques paratrachéales inférieures droite et gauche, fenêtre aortopulmonaire, sous-carénale et hilaire bilatérale. Adénopathies rétropéritonéales hypermétaboliques multiples.
+La biopsie Tru-cut de la masse pulmonaire a montré une infiltration par un adénocarcinome de type micropapillaire TTF1 +++, PD-L1 (Ac 22C3) négatif, avec une forte expression immunohistochimique d'ALK cohérente avec l'expression de la protéine de translocation.
+EGFR natif.
+
+Diagnostic
+Le diagnostic est donc celui d'un adénocarcinome pulmonaire cT2aN3M1c (8e édition TNM) porteur de la translocation ALK.
+
+Traitement
+Un traitement de première ligne par crizotinib a été initié en juillet 2017 à une dose quotidienne de 250 mg toutes les 12 heures. Réponse partielle confirmée au scanner thoracique abdominal selon les critères RECIST 1.1 et réponse métabolique complète au PET/CT scan à 8 semaines.
+
+Évolution
+Dès le début du traitement, la patiente a présenté des nausées de grade 1-2 associées, à la semaine 15, à des vomissements de grade 1. En novembre 2017, après 19 semaines, elle a consulté pour une dysphagie progressive d'évolution 15 jours accompagnée de douleurs thoraciques centrales. Une gastroscopie urgente a été réalisée, qui a révélé une muqueuse œsophagienne grisâtre diffuse avec des zones surélevées à différents niveaux. La biopsie de l'œsophage a montré un épithélium œsophagien avec destruction de la couche basale, sans inclusions fongiques ou virales. Le diagnostic d'œsophagite G3 secondaire au traitement par crizotinib ayant été posé, le traitement a été suspendu et le patient a été admis à l'hôpital pour des soins de soutien. L'évolution a été favorable, avec une amélioration symptomatique au quatrième jour ; cependant, au dixième jour, il y a eu une aggravation des symptômes consistant en une douleur abdominale au niveau épigastrique, qui n'a pas répondu au traitement analgésique malgré l'augmentation progressive de la dose d'opioïdes prescrite. L'examen physique était sans particularité.

@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 31 ans, sans habitudes toxiques ni antécédents personnels ou familiaux intéressants, qui a commencé par ressentir une douleur et une hypertrophie du testicule droit.
+
+Examen physique
+Lors de l'examen initial, le testicule droit était hypertrophié, un nodule pierreux était palpé, adhérant aux plans profonds, non douloureux à la palpation, sans ganglions lymphatiques inguinaux ou autres. Aucune masse rétropéritonéale n'a été palpée.
+Il n'y a pas d'autres résultats intéressants.
+
+Examens complémentaires
+Lors de la tomodensitométrie de suivi réalisée en mai 2013, des restes de tumeur rétropéritonéale ont été observés dans le site chirurgical, dans la région para-aortique postérieure, interaortocave avec infiltration du muscle psoas iliaque droit, s'étendant supérieurement au hile rénal droit jusqu'à la bifurcation iliaque, précave avec perte du plan de clivage avec la troisième portion du duodénum et dans la région aorto-mésentérique.
+Sur le plan analytique, on a constaté une élévation de l'alpha-fœtoprotéine (AFP), atteignant une valeur de 2 800 mcg/l sans élévation de la gonadotrophine chorionique humaine (BHCG).
+
+Diagnostic
+Le patient a initialement été diagnostiqué avec un séminome anaplasique de type carcinome embryonnaire, T2N2M0S1, stade IIB.
+Lors du diagnostic de rechute en 2013, un tératome histologiquement mature avec un foyer de carcinome embryonnaire occupant environ 2 % de la masse est évident.
+
+Traitement
+En mars 2008, une orchidectomie droite a été réalisée, associée par la suite à 3 cycles de BEP (cisplatine 20 mg/m2 jour 1-5 + étoposide 100 mg/m2 jours 1-3 + bléomycine 30 mg jour 1), et 2 cycles de PD.
+En 2013, la patiente a changé de centre pour la suite du suivi. Un nouveau scanner de suivi a été réalisé, montrant la présence d'une masse rétropéritonéale avec des niveaux élevés d'AFP de 2 800 mcg/l. Un traitement par TIP (paclitaxel 250 mg/m2, cisplatine 25 mg/m2 + ifosfamide 1,5 g) a alors été instauré. Compte tenu de la persistance de la masse rétropéritonéale, il a été décidé de procéder à une intervention chirurgicale sans pouvoir réséquer complètement la masse rétropéritonéale. L'anatomie pathologique était compatible avec un tératome mature et un foyer de carcinome embryonnaire à 2%.
+La patiente a été suivie jusqu'en 2016, date à laquelle l'apparition de lésions médiastinales non spécifiques a été observée. Le cas a été présenté au comité génito-urinaire et il a été décidé de poursuivre le suivi. Les marqueurs tumoraux étaient alors normaux (AFP : 3,6 mcg/l, BHCG < 0,1 IU/l.
+Lors d'un contrôle ultérieur en mars 2016, une petite lésion hypodense a été observée dans le médiastin postérieur entre l'œsophage, l'azygos et l'aorte, à hauteur de la carène trachéale, mesurant environ 8 mm, qui n'était pas visible lors du contrôle précédent. La lésion plus caudale correspondant à la lésion décrite dans la tomodensitométrie précédente a été très légèrement réduite, sans changement significatif. L'atteinte ganglionnaire rétropéritonéale et vers la chaîne iliaque primitive et externe gauche n'a pas montré de changements significatifs.
+En mai 2017, sur l'observation d'une nouvelle progression de la masse médiastinale, associée à une adénopathie nécrotique au niveau de la bifurcation aortique de 16 mm de petit axe, il a été décidé de réaliser une intervention chirurgicale sur la masse.
+
+Évolution
+En juin 2017, une thoracotomie postéro-latérale avec résection du complexe tumoral adénopathique dans le médiastin postérieur a été réalisée dans un premier temps. Par la suite, une lymphadénectomie para-aortique a été réalisée :
+Dans les prélèvements médiastinaux postérieurs, on obtient du matériel compatible avec une métastase médiastinale d'un tératome mature avec des zones d'adénocarcinome de type intestinal (30 %) avec une immunohistochimie positive pour CK AE1-AE3/CK 20/CK 19/CDX 2/TTF-1 et négative pour CF30/PLAP/glipican 3/alpha-fœtoprotéine/ CK 7.
+Les marqueurs tumoraux sont normaux à ce moment-là, avec AFP : 3,1 mcg/l, BHCG < 0,1 et antigène carcinoembryonnaire (CEA) : 10 mcg/l.
+Le cas a été présenté au comité multidisciplinaire et, après une revue de la littérature, compte tenu de la différenciation avec un adénocarcinome intestinal, il a été décidé de proposer un traitement par FOLFOX6 (oxaliplatine 85 mg/m2 + 5-FU 400 mg/m2 en bolus + 5-FU 2 400 mg/m2 en perfusion continue) ou l'observation. La rareté du cas, l'absence d'études prospectives pour guider le traitement et les effets indésirables possibles de la chimiothérapie sont expliqués au patient. Finalement, le patient décide d'entamer un traitement adjuvant.
+En septembre 2017, il débute un traitement par FOLFOX, avec l'intention de réaliser un maximum de 12 cycles. Sa toxicité principale était une neurotoxicité de grade 1, une asthénie de grade 1 et des transaminases élevées de grade 2. Il est décidé d'arrêter le traitement après 9 cycles, et il commence les contrôles, qu'il continue à subir actuellement.

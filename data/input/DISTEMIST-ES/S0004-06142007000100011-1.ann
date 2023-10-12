@@ -1,0 +1,28 @@
+T1	pathologie 64 99	lesiones aftosas orales recurrentes
+T2	pathologie 102 125	trastornos en la visión
+T3	pathologie 119 146	visión (pérdida progresiva)
+T4	pathologie 172 225	lesiones ulcerosas en región genital (pene y escroto)
+T5	pathologie 390 422	enfermedad de transmisión sexual
+T6	pathologie 526 534	lesiones
+T7	pathologie 663 677	lesión tumoral
+T8	pathologie 726 752	pérdida de la visión total
+T9	pathologie 863 886	Aftosis oral recurrente
+T10	pathologie 900 907	uveítis
+T11	pathologie 909 929	pérdida de la visión
+T12	pathologie 934 951	Úlceras genitales
+T13	pathologie 1139 1173	pústula sobre una base eritematosa
+T14	pathologie 1233 1253	enfermedad de Behcet
+#1	SNOMED T2	95677002
+#2	SNOMED T5	8098009
+#3	SNOMED T9	723177002
+#4	SNOMED T10	128473001
+#5	SNOMED T14	41225007
+#6	SNOMED T1	398870000
+#7	SNOMED T4	95589007
+#8	SNOMED T6	157670007
+#9	SNOMED T7	55342001
+#10	SNOMED T12	724386005
+#11	SNOMED T3	105597003
+#12	SNOMED T8	193699007
+#13	SNOMED T11	267631003
+#14	SNOMED T13	271760008

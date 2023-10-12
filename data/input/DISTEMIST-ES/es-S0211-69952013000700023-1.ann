@@ -1,0 +1,10 @@
+T1	pathologie 208 229	hipertensión arterial
+T2	pathologie 413 424	anemización
+T3	pathologie 1134 1183	nefropatía por cilindros de cadenas ligeras kappa
+T4	pathologie 1194 1206	MM IgA-kappa
+T5	pathologie 1740 1806	lesiones tubulointersticiales crónicas de intensidad leve-moderada
+#1	SNOMED T1	38341003
+#2	SNOMED T2	271737000
+#3	SNOMED T3	449408005
+#4	SNOMED T4	285420006
+#5	SNOMED T5	60926001

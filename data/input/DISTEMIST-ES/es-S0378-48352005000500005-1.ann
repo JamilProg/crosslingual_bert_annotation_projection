@@ -1,0 +1,22 @@
+T1	pathologie 371 376	tumor
+T2	pathologie 439 451	masa tumoral
+T3	pathologie 484 539	infiltración del polo superior y segmento medio renales
+T4	pathologie 543 586	afectación del seno y sistema pielocalicial
+T5	pathologie 612 666	invasión vascular linfática tumoral en el tejido renal
+T6	pathologie 686 728	Metástasis medular de glándula suprarrenal
+T7	pathologie 730 802	invasión de la grasa perirrenal y nódulos de la cadena interaórtico cava
+T8	pathologie 998 1047	tumor desmoplásico de células pequeñas y redondas
+T9	pathologie 2270 2305	infiltración tumoral en médula ósea
+T10	pathologie 2372 2377	tumor
+T11	pathologie 2380 2399	metástasis hepática
+#1	SNOMED T2	55342001
+#2	SNOMED T9	94217008
+#3	SNOMED T8	363492001
+#4	SNOMED T5	94360002
+#5	SNOMED T11	94381002
+#6	SNOMED T6	94162004
+#7	SNOMED T7	94360002+74636004
+#8	SNOMED T1	55342001
+#9	SNOMED T3	363518003
+#10	SNOMED T4	130948000
+#11	SNOMED T10	55342001

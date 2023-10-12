@@ -1,0 +1,26 @@
+Anamnèse
+Le cas concerne un homme de 60 ans dont les seuls antécédents pertinents sont un tabagisme actif. Il a consulté pour avoir présenté des selles méléniques pendant plusieurs jours d'évolution, accompagnées d'une asthénie importante, révélant une anémie à l'analyse ultérieure, qui a nécessité une transfusion. Le patient a déclaré n'avoir présenté aucun autre symptôme avant l'apparition du méléna.
+Une endoscopie gastro-intestinale supérieure (UDE) a été réalisée en urgence, au cours de laquelle un ulcère sous-cardial profond, mamelonné et dur d'environ 4 cm de diamètre a été observé, sur lequel des biopsies ont été prélevées.
+Dans l'attente du rapport du service de pathologie (AP), un PET scan a été réalisé, qui a montré, outre l'augmentation du métabolisme au niveau gastrique, une autre captation au niveau du colon situé dans l'angle hépatique évoquant une tumeur synchrone à un stade localisé. Au vu des résultats de la TEP, l'étude a été complétée par une coloscopie, qui a révélé la présence de quatre polypes, dont l'un à 45 cm de la marge anale, plats avec des bords surélevés évoquant une tumeur maligne à l'examen macroscopique. Tous les polypes ont été réséqués par endoscopie.
+L'analyse des biopsies gastriques a confirmé qu'il s'agissait d'un adénocarcinome peu différencié, de sorte que l'étude du patient a été complétée par une échographie endoscopique et une laparoscopie exploratrice au cours de laquelle aucune carcinomatose péritonéale n'a été observée.
+Une fois l'étude terminée, le patient a été adressé au service d'oncologie pour évaluer le traitement de l'adénocarcinome gastrique et attendre le rapport anatomopathologique sur les polypes enlevés par coloscopie.
+
+Examen physique
+Nous avons trouvé un patient avec ECOG 0, bien nourri et sans aucun signe pertinent à l'examen physique.
+
+Tests complémentaires
+Le bilan complet ayant été effectué, aucun autre test diagnostique n'a été demandé dans un premier temps.
+
+Diagnostic
+Adénocarcinome gastrique cT4acN2 M0 (stade IIIA) avec suspicion de cancer du côlon synchrone localisé.
+
+Traitement
+Le traitement est décidé par une polychimiothérapie périopératoire à base d'épirubicine, de cisplatine et de 5-fluorouracile (ECF), selon le schéma de l'étude MAGIC.
+
+Évolution
+Le patient, après le premier cycle de SCD, a consulté parce qu'il commençait à ressentir des douleurs osseuses intenses et nouvelles au niveau de la colonne lombaire. Dans ces conditions, une progression osseuse plus que probable est suspectée dans l'intervalle entre l'étude diagnostique complète et le début du traitement. La tomodensitométrie thoraco-abdominale demandée confirme nos soupçons. Il y a de multiples métastases osseuses sur l'ensemble du squelette axial, sans métastases viscérales. Cependant, il y a un détail frappant : les métastases sont blastiques, et non lytiques comme on pourrait s'y attendre dans le cas d'un adénocarcinome gastrique. Compte tenu de cette observation inhabituelle, il a été décidé de faire une biopsie de l'une des lésions osseuses.
+Le rapport histopathologique des polypes enlevés avait été reçu, tous étant des adénomes dentelés sans transformation maligne. Après avoir écarté l'idée que le patient avait deux tumeurs synchrones, la biopsie osseuse rapporte une métastase de carcinome d'origine prostatique.
+Ces résultats conduisent à nouveau à un changement radical dans l'approche du patient, puisque la tumeur métastatique primaire est un cancer de la prostate, dont l'espérance de survie est plus longue que celle d'un adénocarcinome gastrique, ce dernier étant donc une tumeur localement avancée.
+Lorsque cette information est devenue disponible, le patient avait déjà reçu cinq cycles d'ECF, de sorte qu'une nouvelle réévaluation TEP a été demandée afin de programmer l'intervention chirurgicale. En outre, la goséréline a été introduite comme traitement du cancer métastatique de la prostate. La TEP a montré une réponse métabolique partielle au niveau gastrique et aucune prise significative au niveau des lésions osseuses.
+Il a été opéré et l'étude anatomopathologique des pièces opératoires a révélé que le traitement systémique avait permis d'obtenir une réponse pathologique complète (pT0pN0/17).
+Le patient est actuellement hospitalisé pour une collection abdominale, complication post-chirurgicale, mais son évolution est favorable.

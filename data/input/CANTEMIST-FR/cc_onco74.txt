@@ -1,0 +1,33 @@
+Anamnèse
+La patiente était une femme de 45 ans, dont le seul antécédent pathologique était une neurofibromatose de type 1 diagnostiquée dans l'enfance sous la forme de multiples neurofibromes sous-cutanés, d'éphélides axillaires et de taches café-au-lait ; il n'y avait pas eu d'atteinte neurologique, osseuse ou oculaire. Un cancer du colon a été diagnostiqué chez sa mère à l'âge de 67 ans, mais il n'y avait pas d'antécédents familiaux de neurofibromatose.
+
+Examen physique
+La patiente s'est d'abord présentée à son hôpital de référence en janvier 2013 avec des symptômes cliniques qui duraient depuis plus d'un an, à savoir des douleurs et l'apparition d'une tumeur sur l'omoplate droite. Des études d'imagerie ont été réalisées avec une échographie des tissus mous montrant une masse solide de 45 mm avec une vascularisation et des caractéristiques typiques d'un neurofibrome, puis une IRM de l'omoplate droite qui a montré une grande masse de 15 cm avec une nécrose centrale et des signes de vascularisation avec des "caractéristiques bénignes", ce qui a conduit à une résection marginale de la lésion en décembre 2013. Malheureusement, l'étude anatomopathologique a rapporté un sarcome pléomorphe de haut grade, compatible avec une tumeur maligne de la gaine du nerf périphérique (MPNST).
+
+Avec les données anatomopathologiques et la chirurgie non compartimentale réalisée sans critères oncologiques, la patiente a été adressée à notre hôpital. À l'époque, la patiente se portait bien, bien qu'elle ait signalé une récurrence rapide de la douleur à l'épaule après l'opération ; à l'examen, une tumeur fixe et caoutchouteuse a été observée sur l'omoplate droite. De multiples neurofibromes sous-cutanés, des éphélides axillaires et des taches café-au-lait ont été observés.
+
+Examens complémentaires
+"Extension PET-CT scan en février 2014 : montre une masse de tissus mous mesurant 6,2 x 2,8 cm avec un hypermétabolisme pathologique intense (SUVmax 20,2 g/ml) érodant l'omoplate droite, évoquant un comportement agressif, en plus de multiples nodules cutanés, tous amétaboliques, correspondant à des neurofibromes cutanés.
+
+Diagnostic
+Après avoir présenté le cas avec ces données au comité des tumeurs, la patiente a été considérée comme candidate à un traitement néoadjuvant par QT (pour réduire l'étendue de la lésion et donc la morbidité de la chirurgie), suivi d'une chirurgie avec des critères radicaux et d'une radiothérapie adjuvante.
+
+Le patient est inclus dans l'essai clinique GEIS 25 de QT néoadjuvant adapté à l'histiotype (épirubicine-ifosfamide versus ifosfamide-VP16 en cas de NSCLCM). La patiente a reçu trois cycles d'ifosfamide-VP16 entre mars et mai 2014, avec une réponse clinique claire dès le premier cycle. L'évaluation après trois cycles a montré une réduction très significative de plus de 90 % de la tumeur, qui était pratiquement limitée à la fosse infra-épineuse, avec des zones avasculaires en son sein suggérant une nécrose, et l'absence d'extension locale et à distance.
+
+Au vu de l'excellente réponse partielle majeure après QT, l'équipe en charge des tumeurs osseuses a procédé à la planification de la chirurgie selon des critères oncologiques, réalisant une scapulectomie subtotale à travers le col de l'omoplate, en conservant le subscapularis, le supraspinatus, l'infraspinatus et le teres minor en juin 2014.
+
+Les résultats pathologiques de la pièce opératoire montrent une cellularité principalement pléomorphe avec d'autres zones de morphologie cellulaire fusiforme pure et un stroma myxoïde étendu, des zones de nécrose avec des cellules spumeuses et des cellules inflammatoires mononucléées dans environ 50 % du volume total de la tumeur. L'étude immunohistochimique montre que les cellules pléomorphes expriment la différenciation des muscles striés (vimentine + desmine + calponine + myogénine + nucléaire, MYOD1 + nucléaire). Les cellules fusiformes sont focalement positives pour MyoD1, CD34 et pS100. EMA, bêta-caténine, AE1/3, actine. Les marges de résection étaient exemptes de tumeur. Tous ces résultats sont compatibles avec un TMVNP à différenciation rhabdomyosarcomateuse (tumeur de Triton).
+
+Le traitement est complété par une RT externe adjuvante pour une dose totale de 66 Gy.
+
+Traitement
+TQT néoadjuvante suivie d'une chirurgie avec critères radicaux et d'une RT adjuvante.
+
+Évolution
+La patiente a été suivie dans notre clinique. En janvier 2015, six mois après la chirurgie radicale, un scanner a révélé un nodule pulmonaire postérobasal droit mesurant environ 20 mm de diamètre. Le PET-CT a confirmé la présence d'un nodule arrondi hypermétabolique de 26 x 26 x 29 mm (SUVmax 5,8 g/ml) à la base de la LID, qui avait grossi par rapport au scanner précédent et qui n'apparaissait pas sur le scanner initial. Le patient est resté cliniquement asymptomatique.
+
+Étant donné la présence d'une métastase unique avec une tumeur primaire contrôlée, nous avons adressé le patient à la chirurgie thoracique pour évaluer la possibilité d'une métastasectomie pulmonaire.
+
+Une chirurgie exploratrice a été réalisée en février 2015, révélant un volumineux nodule occupant la quasi-totalité de la pyramide basale avec une adénopathie kystique périvasculaire ; une lobectomie inférieure droite et un curage ganglionnaire paratrachéal droit ont été réalisés, localisant également un autre ganglion précave (également réséqué). La biopsie confirme une prolifération de cellules mésenchymateuses atypiques bien délimitées, non encapsulées, formant des faisceaux croisés alternant avec des zones de nécrose et de dégénérescence d'aspect myxoïde, ainsi qu'une population cellulaire majoritaire constituée d'éléments fusiformes, évocatrice de TMVNP, bien qu'aucune différenciation rhabdomyosarcomateuse ne soit observée. Les bords chirurgicaux et les ganglions lymphatiques sont libres.
+
+On considère qu'il n'y a pas de critères pour un traitement par QT pseudo-adjuvant et la patiente continue d'être suivie dans nos cliniques sans aucun signe de maladie active à l'heure actuelle.

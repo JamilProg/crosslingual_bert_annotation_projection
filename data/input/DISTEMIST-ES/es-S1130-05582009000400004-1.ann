@@ -1,0 +1,10 @@
+T1	pathologie 566 619	lesión radiolúcida, unilocular de bordes escleróticos
+T2	pathologie 712 730	fibroma osificante
+T3	pathologie 777 783	lesión
+T4	pathologie 856 874	fibroma osificante
+T5	pathologie 1116 1134	recidiva del tumor
+#1	SNOMED T2	25603007
+#2	SNOMED T4	25603007
+#3	SNOMED T5	25173007
+#4	SNOMED T1	52988006
+#5	SNOMED T3	417163006

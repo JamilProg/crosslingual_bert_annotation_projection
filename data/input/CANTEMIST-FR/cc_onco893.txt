@@ -1,0 +1,20 @@
+Examen physique
+Le patient est en bon état général, de couleur normale, bien hydraté et perfusé, eupnéique. L'examen révèle une lésion violacée de 2 cm sur le sein gauche dans la partie supérieure du quadrant interne et une autre lésion violacée, indurée et douloureuse avec ecchymose sous-jacente d'environ 5 cm sur la cicatrice. La palpation n'a révélé aucun ganglion lymphatique périphérique. Le reste de l'examen était sans particularité.
+
+Examens complémentaires
+Une biopsie a été réalisée sur la lésion la plus importante, qui s'est révélée non spécifique et n'a pas montré de signes de malignité. Au vu de l'augmentation de la taille de la lésion et de son aspect nécrotique, en décembre 2016, la patiente a été adressée au service de dermatologie, qui a répété la biopsie, obtenant les mêmes résultats.
+Il a donc été décidé de réaliser une excision chirurgicale de la lésion cutanée par le service de dermatologie le 31 décembre 2016, et l'histologie a été rapportée comme compatible avec un angiosarcome cutané.
+Un scanner thoraco-abdominal a été réalisé pour déterminer le stade de la maladie, montrant une augmentation de la densité mammaire avec un épaississement cutané associé, suspect de malignité, sans preuve d'adénopathie médiastinale ou intra-abdominale.
+
+Diagnostic
+Angiosarcome cutané classique de 4,5 cm, grade histologique 3 (selon le système de classification de la FNCLCC), extension de la tumeur au tissu cellulaire sous-cutané, indice mitotique de 24 mitoses/10 CGA avec des marges libres. Immunohistochimie positive pour le CD34 et négative pour le HHV8 avec un Ki 67 de 60 %. Stade TNM : pT1a Nx Mx.
+
+Traitement
+Compte tenu de la persistance présumée de la maladie et de la croissance locale rapide, le cas a été évalué par le comité des tumeurs mammaires en collaboration avec les services de néphrologie et de gynécologie, et il a été décidé de procéder à une mastectomie simple du sein gauche, qui a été réalisée en février 2017.
+
+Évolution
+La patiente a été adressée au service d'oncologie en février 2017 pour un suivi et un traitement ultérieur, et s'est révélée asymptomatique avec un ECOG 0.
+En mars 2017, un PET scan a été réalisé pour mettre à jour le statut de la maladie, révélant un nodule sous-cutané hypermétabolique de 8 mm avec SULpeak 1,9 situé dans la région antérieure à l'extrémité proximale de la clavicule gauche, qui ressemblait à une lymphadénopathie pathologique (SULpeak de référence 2,65). Une échographie des tissus mous a été réalisée, montrant l'adénopathie suspecte mesurant 12 x 10 mm, dans le tissu adipeux sous-cutané, ni adhérente ni osseuse, et une biopsie percutanée a été réalisée.
+Les résultats de l'anatomie pathologique ont révélé un tissu nécrotique sans pouvoir reconnaître les ganglions lymphatiques. L'immunohistochimie a montré une expression de CD31, CD34 et du facteur VIII, avec une expression négative des récepteurs aux œstrogènes, suggérant une métastase d'angiosarcome.
+En avril 2017, la métastase a été réséquée chirurgicalement avec des bords libres.
+Compte tenu de l'absence de maladie résiduelle macroscopique observée lors d'un nouveau PET scan (mai 2017), un traitement par radiothérapie a été exclu et il a été décidé, après réévaluation du cas avec la néphrologie, d'administrer du paclitaxel à une dose de 80 mg/m2 par semaine en intention adjuvante, ce qui a été commencé le 5 juin 2017. Actuellement, il a trois cycles sur les 12 prévus, administrés sans incident et en maintenant une fonction rénale stable (créatinine de base autour de 3,5).

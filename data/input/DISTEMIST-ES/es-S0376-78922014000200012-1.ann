@@ -1,0 +1,22 @@
+T1	pathologie 26 35	diabético
+T2	pathologie 299 346	trauma contuso que condicionó una dermoabrasión
+T3	pathologie 458 477	celulitis preseptal
+T4	pathologie 522 538	escara necrótica
+T5	pathologie 1017 1024	Heridas
+T6	pathologie 1599 1617	proceso infeccioso
+T7	pathologie 1719 1771	pérdida cutánea de la totalidad del párpado superior
+T8	pathologie 1773 1820	pérdida parcial de músculo orbicular y elevador
+T9	pathologie 1892 1922	pérdidas focales de conjuntiva
+T10	pathologie 2674 2694	eversión del párpado
+T11	pathologie 2799 2810	lagoftalmos
+#1	SNOMED T1	73211009
+#2	SNOMED T10	62909004
+#3	SNOMED T3	314516007
+#4	SNOMED T7	246816005
+#5	SNOMED T4	421306004
+#6	SNOMED T8	128603005
+#7	SNOMED T11	60735000
+#8	SNOMED T9	246875002
+#9	SNOMED T2	425359009
+#10	SNOMED T5	416462003
+#11	SNOMED T6	40733004

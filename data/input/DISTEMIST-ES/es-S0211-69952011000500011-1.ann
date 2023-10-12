@@ -1,0 +1,18 @@
+T1	pathologie 37 49	hipertensión
+T2	pathologie 51 75	diabetes mellitus tipo 2
+T3	pathologie 77 98	artrosis generalizada
+T4	pathologie 100 133	insuficiencia cardíaca congestiva
+T5	pathologie 161 190	fibrilación auricular crónica
+T6	pathologie 595 604	hipotensa
+T7	pathologie 625 629	coma
+T8	pathologie 1186 1208	meningitis neumocócica
+T9	pathologie 1421 1425	coma
+#1	SNOMED T7	371632003
+#2	SNOMED T2	44054006
+#3	SNOMED T3	201819000
+#4	SNOMED T4	42343007
+#5	SNOMED T5	426749004
+#6	SNOMED T8	51169003
+#7	SNOMED T9	371632003
+#8	SNOMED T1	38341003
+#9	SNOMED T6	45007003

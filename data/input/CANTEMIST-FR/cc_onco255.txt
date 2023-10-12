@@ -1,0 +1,28 @@
+Anamnèse
+Femme de 66 ans, aux antécédents d'hypertension et d'hypercholestérolémie, opérée d'une tumorectomie du sein droit en 1975 en raison d'une pathologie bénigne, d'une incontinence urinaire, de varices, d'une méniscopathie et d'une myopie, sous traitement régulier par losartan et atorvastatine. Diagnostiquée en décembre 2015 d'un carcinome canalaire infiltrant localement avancé du sein droit E-IIB (T2N1M0) phénotype HER2 positif. ER+++. PR +. Ki 67 15%. Une chimiothérapie néoadjuvante (QT) a été décidée avec un schéma de Doxorubicine liposomale 50 mg/m2 (jour 1) + Paclitaxel 80 mg/m2 (jour 1,8,15) + Trastuzumab 4 mg/kg (jour 1) et 2 mg (jour 8,15), avec une dose de charge au cycle 1. Après avoir reçu deux cycles complets de traitement, elle s'est rendue au service des urgences pour une fièvre de 3 jours atteignant 39ºC, avec une légère gêne à la déglutition et une arthromyalgie généralisée, sans toux ni expectoration ni autre sémiologie infectieuse à l'appareil, avec une radiographie pulmonaire normale, et a été renvoyée avec un diagnostic de pharyngite aiguë, avec un traitement antibiotique. Quatre jours plus tard, elle est revue pour une aggravation de son état général et une fièvre à 39°C, accompagnée de toux, de douleurs thoraciques à caractère pleurétique, d'une dyspnée d'apparition récente à l'effort minimal, d'une orthopnée et d'une oligurie. Compte tenu de la gravité de la situation, avec des signes d'insuffisance respiratoire sévère, il a été transféré à l'unité de soins intensifs. Pendant son séjour, une antibiothérapie à large spectre a été mise en place et un traitement par ventilation non invasive a été maintenu pendant plusieurs heures, nécessitant par la suite une intubation et des médicaments vasoactifs. Compte tenu de l'absence d'amélioration clinique au fil des jours, un traitement antiviral (oseltamivir), antifongique (voriconazole) et au cotrimoxazole a été associé à l'état d'immunodépression, dans l'attente des résultats des examens complémentaires.
+
+L'examen physique
+A l'arrivée aux urgences, mauvais état général, pâleur cutanéo-muqueuse, tachypnée à 36 tours/minute, avec tirage intercostal. Troubles de l'élocution. TA 115/70, FC 110. SATO2 84% air ambiant. SATO2 90% avec réservoir à 100%. ACP : bruits cardiaques rythmés, pas de souffle. Murmure vésiculaire globalement diminué, avec râles crépitants, rhonchi et respiration sifflante dans les deux champs pulmonaires. Abdomen : bruits hydro-aériques présents. Doux, dépressible, non douloureux à la palpation. Pas de réaction péritonéale. Pas d'œdème dans les membres inférieurs. Pouls faibles mais symétriques.
+
+Tests complémentaires
+. Analyse de sang : Hb 8,9. Leucocytes 12 100. Fonctions hépatiques et rénales normales.
+. Gaz du sang artériel : pO2 57 mmHg avec masque ventilé à 50%. SATO2 82%.
+. ECG : tachycardie sinusale à 110 battements par minute.
+. Radiographie thoracique : infiltrats cotonneux bilatéraux dans les deux lobes supérieurs et le LID.
+. TDM thoracique : image en verre dépoli, avec des zones de consolidation péribronchique, sous-pleurale bilatérale.
+. Antigènes négatifs pour Legionella et pneumocoque.
+. PCR pour influenza A, influenza B, RSV A et B, TB, galactomannane, Pneumocystis jirovecii, CMV, Epstein Barr Virus, Mycoplasma, Coxiella burnetii, chlamydia, Herpes virus 1 et 2 négatifs.
+. Hémocultures, cultures d'urine négatives.
+. Echocardiographie : fraction d'éjection préservée. Aucune altération.
+. Fibrobronchoscopie : bronches perméables, de calibre normal, avec une muqueuse érythémateuse et de rares sécrétions séreuses. Cytométrie en flux du LBA : lymphocytose à 84% (lymphocytes T 98%, B 0,5% et NK 1,5%). AP : absence de cellules malignes.
+
+Diagnostic
+Pneumonie interstitielle induite par des médicaments de chimiothérapie et compliquée par un syndrome de détresse respiratoire aiguë.
+
+Traitement
+Compte tenu des résultats du diagnostic, il a été décidé d'arrêter tout traitement anti-infectieux et de commencer à administrer de la méthylprednisolone par voie intraveineuse à raison de 1 mg/kg/jour.
+
+Évolution
+Après le début du traitement aux corticostéroïdes, la patiente a montré une amélioration clinique, analytique et radiologique, ce qui a ensuite permis l'extubation, le maintien de la ventilation mécanique non invasive avec une diminution progressive du débit et une stabilité clinique. Elle a été transférée dans le service hospitalier, où le traitement aux corticostéroïdes a été poursuivi et le débit d'oxygène a été progressivement réduit, atteignant son retrait avec une tolérance adéquate, et elle est sortie de l'hôpital avec des corticostéroïdes oraux dans un schéma descendant.
+
+Compte tenu de la toxicité pulmonaire de grade 4 induite par les médicaments QT, elle a été présentée au comité des tumeurs mammaires, où il a été décidé de suspendre le traitement néoadjuvant et l'étude de réévaluation, concluant à une RP, ce qui a conduit à une quadrantectomie et à une radiothérapie adjuvante. Actuellement, la patiente a un ECOG 0, est traitée au létrozole et ne présente aucun signe de maladie tumorale.

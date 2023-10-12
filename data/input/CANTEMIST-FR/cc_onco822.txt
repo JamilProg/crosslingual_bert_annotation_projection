@@ -1,0 +1,34 @@
+Anamnèse
+"Antécédents personnels : hypertension, hypercholestérolémie, ostéoporose, hémorroïdes, obésité, ex-fumeur depuis 4 ans, non-buveur. Pas d'allergies médicamenteuses connues. Opéré d'une cholécystectomie par laparotomie il y a 30 ans.
+"Traitement habituel : gemfibrozil.
+"Antécédents familiaux : mère atteinte d'un cancer du côlon.
+"En avril 2008, un homme de 68 ans a consulté pour fatigue, fièvre et perte de poids. Dans l'anamnèse, il rapporte une douleur dans la région lombaire droite avec percussion rénale négative, non associée à un traumatisme.
+
+Examen physique
+"Patient conscient, orienté, coopératif. Normoperfusion et normohydratation. Perte de poids non quantifiée au cours des derniers mois.
+"Pas d'altérations dans la région oropharyngée.
+"Poitrine : souffle alvéolaire conservé, tons rythmiques sans bruit additionnel.
+"Abdomen : globulaire, dépressible. Pas de masses ou de mégalithes palpables. Pas de signes de péritonisme. La percussion rénale est négative.
+"Pas d'adénopathie cervicale, supraclaviculaire, axillaire ou inguinale palpable.
+"Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+Examens de laboratoire : anémie de 8,3 g/dl d'hémoglobine. Les radiographies du thorax et de l'abdomen ne révèlent aucune anomalie pathologique. Un scanner a été réalisé et une tumeur de 7,5 cm x 7 cm a été détectée dans le rein droit, qui ne dépassait pas la capsule rénale (T2aN0M0, stade II de la classification TNM).
+
+Diagnostic
+Une néphrectomie et une thrombectomie de la veine rénale ont été pratiquées, ce qui a entraîné un carcinome à cellules claires du rein droit.
+
+Traitement
+La radiothérapie est ensuite appliquée au site chirurgical et aux ganglions à risque avec une dose totale de 50 Gy.
+
+Évolution
+La patiente a subi des examens de contrôle jusqu'à ce qu'en mai 2013, lors d'une radiographie de contrôle/tomodensitométrie (CT scan), deux lésions compatibles avec des métastases soient détectées dans le poumon gauche. La patiente a déclaré se sentir très bien. Une tomographie par émission de positons (PET-CT) a été demandée, qui a confirmé la prise pathologique et la suspicion diagnostique. En juillet 2013, les lésions ont été réséquées et l'anatomie pathologique a confirmé l'origine métastatique du cancer du rein.
+La patiente est retournée en consultation pour un suivi rapproché. En janvier 2015, un nodule apical de 17 mm, un nodule de 15 mm à côté du hile droit, un nodule de 9 mm dans la lingula et dans le lobe supérieur droit adjacent à la fissure majeure d'environ 5 mm, ainsi que des adénopathies calcifiées ont été visualisés par AT. Il a été mis sous pazopanib 800 mg par jour, avec l'intention de réséquer à nouveau la tumeur en cas de réponse favorable.
+En novembre 2015, une augmentation de la taille des nodules a été observée. Un PET-CT a été demandé pour évaluer la chirurgie de sauvetage.
+Le patient a poursuivi le pazopanib 800 mg jusqu'en août 2016, date à laquelle il a été arrêté en raison d'une mauvaise tolérance digestive, coïncidant avec la chirurgie. Il a été opéré en août 2016, et un scanner a été réalisé en novembre, qui a montré : une accumulation de tissus mous mesurant 45 mm x 35 mm et une lymphadénopathie médiastinale rétrocavopretrachéale d'apparition récente avec un axe long de 20 mm ; de multiples nodules pulmonaires bilatéraux d'apparition récente et une lymphadénopathie para-aortique adjacente au hile rénal gauche d'une taille significative, également d'apparition récente. Les résultats étaient compatibles avec une progression de la tumeur.
+Le patient a été évalué en consultation et une détérioration physique a été observée, empêchant tout traitement systémique, de sorte qu'un suivi a été décidé. Au fil des mois, le patient s'est amélioré sur le plan clinique. Un nouveau scanner de contrôle a été réalisé en juillet 2017 (par rapport à celui de novembre 2016), montrant :
+" Des lésions pulmonaires stables, certaines avec une diminution minime de leur taille (la plupart sont inférieures à 5 mm).
+" Adénopathie para-aortique gauche, avec disparition des deux autres décrites ci-dessus.
+"Métastases osseuses dans la lame iliaque gauche et le col du fémur, avec une diminution de la composante des tissus mous.
+Résultats compatibles avec une réponse partielle selon les critères RECIST 1.1.
+Le patient a présenté une réponse partielle spontanée qui s'est maintenue jusqu'à présent, vérifiée en mars 2018 par un scanner thoraco-abdominopelvien et une scintigraphie osseuse.

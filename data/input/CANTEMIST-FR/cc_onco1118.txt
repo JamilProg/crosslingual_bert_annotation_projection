@@ -1,0 +1,36 @@
+Anamnèse
+Femme de 61 ans, sans allergie médicamenteuse connue, avec des antécédents personnels d'hypertension artérielle sous traitement par IEC, fumeuse de 50 paquets-années et obèse.
+Antécédents de cancer :
+En juin 2013, elle s'est présentée aux urgences pour des douleurs thoraciques oppressantes, avec des D-dimères élevés à 3 580 ng/ml (valeurs normales < 500 ng/ml). La présence d'une thromboembolie pulmonaire a été exclue grâce à un scanner thoracique urgent, montrant un nodule de 12 mm dans le LSD. Après avoir reçu un diagnostic de douleur thoracique atypique, l'étude du nodule pulmonaire solitaire a été entamée en ambulatoire. Dans le même temps, une IRM de la colonne vertébrale a été demandée pour étudier l'histoire d'un mois de dorsalgie, qui a révélé des métastases dans le corps vertébral de D7 sans atteinte de la moelle épinière. L'étude a été complétée par un PET-CT qui a montré une captation du nodule de LSD dans de multiples adénopathies médiastinales (la plus grande 3 cm para-œsophagienne) et dans des structures osseuses (clavicule droite, D7, gril costal et bassin bilatéral) et une ponction à l'aiguille fine (PAF) guidée par l'échographie d'une adénopathie médiastinale a été réalisée, le résultat étant compatible avec un carcinome à petites cellules.
+Dans l'attente des résultats anatomopathologiques de la ponction à l'aiguille fine, le patient est revenu au service des urgences en raison d'un faible niveau de conscience au cours des dernières heures, d'une céphalée holocrânienne progressivement intense et de vomissements depuis une semaine.
+
+Examen physique
+Tension artérielle 230/110 mmHg. Apyrétique. Indice de Karnofsky (IK) 60%.
+Examen neurologique : conscient, bradypsychique, orienté en personne et en lieu, désorienté dans le temps. Comprend, nomme et obéit à des ordres simples. Pupilles isochoriques, normoréactives. Nerfs crâniens normaux.
+Force et sensibilité préservées dans les quatre membres.
+Le reste de l'examen ne révèle rien de significatif.
+
+Examens complémentaires
+- NFS : leucocytes 12 800/mm3 (neutrophiles 82%), le reste de l'hémogramme et la coagulation sont normaux. Glucose 150 mg/dl, créatinine 0,8 mg/dl, Na 148 mEq/l, K 2 mEq/l.
+- Gaz du sang artériel : pH 7,50 pO2 73 mmHg, pCO2 49 mmHg, HCO3 34,9 mEq/l, excès de base 12,8, acide lactique 2,2 mg/dl.
+- Tomodensitométrie crânienne avec contraste (ED) : pas de signes d'hémorragie. Pas de déviation de la ligne médiane ni d'autres effets de masse.
+- IRM cérébrale : augmentation diffuse de l'intensité du signal dans les séquences pondérées en T2 dans la substance blanche des lobes occipitaux, des lobes pariétaux et de la région frontale supérieure, avec une diffusion facilitée dans la séquence pondérée en diffusion, sans évidence de zones de rehaussement dans les séquences post-contraste, avec des résultats suggérant une encéphalopathie postérieure réversible.
+- Examens endocrinologiques fonctionnels : ACTH 163 pg/ml (normale 20-80), cortisol basal 254 mcg/dl (normale 6-23), chromogranine 21 ng/ml (normale < 50 ng/ml), cortisol libre urinaire 400 mcg/24 h (normale 10-100).
+
+Diagnostic
+Encéphalopathie postérieure réversible secondaire à une émergence hypertensive chez un patient atteint d'un syndrome de Cushing secondaire à un carcinome pulmonaire à petites cellules disséminé sécrétant de l'ACTH.
+
+Traitement
+Traitement initial : à son arrivée aux urgences, la patiente a présenté des crises tonico-cloniques durant quelques secondes, qui se sont calmées après l'administration de diazépam par voie intraveineuse.
+Un scanner crânien a été réalisé, excluant une hémorragie ou une ischémie aiguë, et elle a été évaluée par le service de neurologie, les symptômes neurologiques étant compatibles avec une encéphalopathie postérieure réversible.
+Compte tenu des altérations ioniques et du mauvais contrôle de la pression artérielle avec un TAS > 200 mmHg, malgré une perfusion intraveineuse d'urapidil, il a été décidé de l'hospitaliser dans l'unité de soins intensifs (USI).
+
+Évolution
+Pendant son séjour aux soins intensifs, un traitement a été instauré avec de l'urapidil intraveineux, des bolus de labétalol, de la doxazosine et du losartan, avec une légère amélioration de la pression artérielle (TAS > 170 mmHg) et une bonne évolution des symptômes neurologiques. Une IRM cérébrale a été réalisée, compatible avec une encéphalopathie postérieure réversible et, étant donné les altérations hydroélectrolytiques avec une tendance à l'hypernatrémie et à l'hyperkaliémie sévère, une évaluation par l'endocrinologie a été demandée.
+Les tests endocriniens fonctionnels ont révélé un hypercortisolisme secondaire.
+Suite aux résultats des tests anatomopathologiques et fonctionnels, le patient a été diagnostiqué avec un syndrome paranéoplasique de type Cushing. Le cas a été évalué conjointement par les services d'oncologie médicale et d'endocrinologie et il a été décidé d'entamer un traitement par chimiothérapie.
+Le premier cycle de chimiothérapie (carboplatine AUC 6 jour 1 et étoposide 120 mg/m2 jours 1-3) associé à l'hydrocortisone 10 mg toutes les 12 heures par voie orale et à la fludrocortisone 0,05 mg toutes les 24 heures par voie orale pour éviter une éventuelle insuffisance surrénalienne secondaire au traitement de chimiothérapie a été administré dans l'unité d'hospitalisation d'oncologie médicale.
+Trois jours après la fin du premier cycle, le patient a présenté un faible niveau de conscience, une hypotension qui n'a pas répondu à la thérapie liquidienne et une tendance à l'hyperkaliémie et à l'acidose métabolique compatible avec une insuffisance surrénalienne aiguë. Une perfusion d'hydrocortisone de 100 mg toutes les 24 heures a été mise en place, avec une bonne évolution clinique et analytique, et un régime de stéroïdes dégressif a été mis en place, permettant d'obtenir une bonne tension artérielle et un bon contrôle ionique avec une dose d'hydrocortisone de 40 mg par jour.
+Le patient a évolué favorablement et est sorti de l'hôpital. Au cours du suivi dans le service ambulatoire d'endocrinologie, la dose d'hydrocortisone a été réduite à 30 mg toutes les 24 heures, sauf les jours de chimiothérapie, où elle a été augmentée à 60 mg toutes les 24 heures, et aucune autre admission n'a été nécessaire.
+Un scanner de réévaluation a été effectué à la fin des 3 cycles, avec une réponse partielle maintenue en février 2014 après la fin de la première ligne.
+Actuellement, le patient a commencé une deuxième ligne avec topotécan 1,5 mg/m2 (jours 1-5) tous les 21 jours après une progression locorégionale et une adénopathie osseuse. La dernière analyse sanguine a montré une ACTH de 23 ng/dl (normale 20-80) et un cortisol libre urinaire de 126 mcg/24 heures (normale 10-100).

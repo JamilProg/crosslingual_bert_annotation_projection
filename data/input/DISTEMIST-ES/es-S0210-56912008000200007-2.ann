@@ -1,0 +1,6 @@
+T1	pathologie 68 81	shock séptico
+T2	pathologie 149 152	CID
+T3	pathologie 1393 1404	peritonitis
+#1	SNOMED T1	76571007
+#2	SNOMED T2	67406007
+#3	SNOMED T3	48661000

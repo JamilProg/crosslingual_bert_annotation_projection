@@ -1,0 +1,58 @@
+T1	pathologie 66 78	Fobia social
+T2	pathologie 81 121	Trastorno dependiente de la personalidad
+T3	pathologie 376 395	déficit de atención
+T4	pathologie 585 610	retraso en el crecimiento
+T5	pathologie 702 728	Intolerancia a la fructosa
+T6	pathologie 740 760	sangrados digestivos
+T7	pathologie 763 788	intolerancia a la lactosa
+T8	pathologie 856 875	alteración genética
+T9	pathologie 911 929	consumo de tóxicos
+T10	pathologie 996 1018	sintomatologia ansiosa
+T11	pathologie 1320 1332	Fobia Social
+T12	pathologie 1520 1532	Fobia Social
+T13	pathologie 1535 1572	Trastorno Dependiente de Personalidad
+T14	pathologie 1919 1949	Ansiedad psico-física moderada
+T15	pathologie 1951 1988	ideas obsesivas de tipo hipocondríaco
+T16	pathologie 1990 2000	onicofagia
+T17	pathologie 2003 2020	bruxismo nocturno
+T18	pathologie 2178 2207	Consciencia parcial trastorno
+T19	pathologie 2238 2266	Trastorno de la Personalidad
+T20	pathologie 3323 3360	ideas obsesivas de tipo hipocondríaco
+T21	pathologie 3826 3842	evitación social
+T22	pathologie 3858 3865	ansiosa
+T23	pathologie 4084 4100	espectro autista
+T24	pathologie 4314 4353	Trastorno Esquizoide de la Personalidad
+T25	pathologie 4398 4436	Trastorno Evitativo de la Personalidad
+T26	pathologie 5150 5157	autismo
+T27	pathologie 5964 5994	trastorno del espectro autista
+T28	pathologie 5996 5999	TEA
+T29	pathologie 6493 6519	TEA de alto funcionamiento
+#1	SNOMED T25	37746008
+#2	SNOMED T24	52954000
+#3	SNOMED T1	25501002
+#4	SNOMED T2	33449004
+#5	SNOMED T3	23148009
+#6	SNOMED T14	197480006
+#7	SNOMED T27	408856003
+#8	SNOMED T15	18193002
+#9	SNOMED T28	408856003
+#10	SNOMED T16	37298006
+#11	SNOMED T17	191983006
+#12	SNOMED T4	59576002
+#13	SNOMED T18	3006004
+#14	SNOMED T5	20052008
+#15	SNOMED T6	74474003
+#16	SNOMED T7	267425008
+#17	SNOMED T8	124972006
+#18	SNOMED T20	18193002
+#19	SNOMED T29	702732007
+#20	SNOMED T11	25501002
+#21	SNOMED T12	25501002
+#22	SNOMED T13	84466009
+#23	SNOMED T19	33449004
+#24	SNOMED T9	361055000
+#25	SNOMED T26	408856003
+#26	SNOMED T10	48694002
+#27	SNOMED T22	48694002
+#28	SNOMED T23	408856003
+#29	SNOMED T21	105411000

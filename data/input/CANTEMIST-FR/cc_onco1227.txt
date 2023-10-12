@@ -1,0 +1,44 @@
+Anamnèse
+Patient âgé de 53 ans. Ex-fumeur dans sa jeunesse, DTA 10 paquets/an. Avec des antécédents d'hypertension artérielle de grade 1 avec un bon contrôle ambulatoire et une obésité.
+Antécédents oncologiques :
+Diagnostic de néoplasie rénale gauche, localement avancée et avec des métastases pulmonaires bilatérales et multiples. Groupe de pronostic intermédiaire : anémie, ECOG 0.
+Le 27 novembre 2013, une néphrectomie cytoréductive gauche laparoscopique a été réalisée, avec des résultats anatomo-pathologiques de carcinome rénal à cellules claires pT3aNxMx. Grade nucléaire 3, avec marge tumorale infiltrante, nécrose, invasion macroscopique de la tumeur dans la veine rénale et invasion veineuse (gros vaisseaux) présente, marges chirurgicales libres.
+Après la chirurgie, et avant le début du traitement antiangiogénique programmé, en janvier 2014, on lui a diagnostiqué une métastase cérébrale frontale droite unique, dans un contexte de perte de sensibilité de la main gauche, avec déviation du coin de la bouche et dysarthrie. Elle a bénéficié d'une corticothérapie et d'une radiothérapie, et en février 2014, elle a été mise sous sunitinib, avec une tolérance acceptable, à l'exception d'une asthénie de grade 2 et d'une toxicité cutanée de grade 1.
+Elle s'est présentée aux urgences le 15 mai 2014 pour une apparition brutale de vertiges, d'instabilité et de vision double, et le troisième cycle de sunitinib était en cours, dans l'attente du scanner pour évaluer la réponse.
+
+Examen physique
+ECOG 3, obésité. Tension artérielle 138/77 mmHg, fréquence cardiaque 99 bpm, afébrile, eupnéique respirant l'air ambiant, saturation en oxygène 99%.
+Examen neurologique : bon niveau de conscience et d'orientation. Discours normal.
+Trouble du regard horizontal et vertical sous forme de :
+- Exotropie partielle de l'œil droit et vision double au repos.
+- Dans le regard horizontal vers la droite, on observe une diplopie accrue et une limitation de l'abduction de l'œil droit.
+- Dans le regard horizontal vers la gauche, l'œil droit ne dépasse pas la ligne médiane et l'abduction de l'œil gauche est également limitée (bien qu'il n'y ait pas de diplopie dans cette direction).
+- Dans le regard vertical supérieur, l'œil gauche présente une supraversion limitée.
+Nystagmus des deux yeux, tant dans le regard vertical qu'horizontal. Maladresse dans les manœuvres bilatérales orteil-nez et talon-genou. Démarche clairement ataxique.
+Au niveau génital, on note une lésion pédiculée asymptomatique dans le sillon balano-préputial (en attente d'évaluation par l'urologie).
+
+Tests complémentaires
+- NFS : hémogramme normal. Coagulation : fibrinogène à 1 322 mg/dl, le reste normal.
+Biochimie : hyperglycémie de 161 mg/dl ; légère hyponatrémie de 133,3 mEq/l et légère hyperbilirubinémie totale de 1,38 mg/dl.
+- Électrocardiogramme : rythme sinusal à 90 bpm, sans altérations notables.
+- Tomodensitométrie crânienne avec contraste intraveineux : diminution de la taille de l'œdème vasogénique périphérique et de la lésion unique de l'œdème frontal droit.
+- Echographie Doppler des troncs supra-aortiques : étude dans les limites de la normalité.
+- Tomodensitométrie thoracique : augmentation très significative du nombre et de la taille des nodules pulmonaires bilatéraux, innombrables, certains de grande taille, mesurant jusqu'à 6,4 x 4,5 cm dans l'angle cardiophrénique antérieur gauche. Pas d'épanchement pleural. Conclusion : progression de la maladie. Augmentation du nombre et de la taille des métastases pulmonaires.
+- IRM cérébrale : lésion nodulaire d'environ 1 cm intraaxiale, sous-corticale, située dans l'opercule frontal droit, avec rehaussement annulaire ; elle s'accompagne de modifications de l'intensité du signal de la substance blanche adjacente évoquant un œdème vasogénique, sans effet de masse notable.
+Trois lésions millimétriques ont été identifiées (une située en avant de l'aqueduc de Sylvius à la jonction bulboprotubérantielle, paramédiane droite ; deux autres dans la substance blanche du centre semiovale gauche) ; ces lésions sont légèrement hypointense en pondération T1, hyperintenses en DP, T2 et en diffusion, et ne présentent pas de rehaussement post-contraste.
+Conclusion diagnostique : métastase frontale droite connue avec œdème vasogénique associé discret. Petites lésions hyperintenses en diffusion (tronc, centre semi-ovale gauche), l'une d'entre elles suggérant une ischémie aiguë.
+- Excision biopsique de la lésion du pénis : infiltration au niveau du tissu conjonctif sous-épithélial par un carcinome à cellules claires de haut grade, compatible avec une métastase d'un carcinome rénal conventionnel (à cellules claires).
+- IHC : les cellules néoplasiques expriment un mélange de cytokératine, de vimentine et de CD10.
+
+Diagnostic
+- Accident vasculaire cérébral avec trouble complexe du regard et ataxie probablement liés au traitement par le sunitinib.
+- Carcinome rénal gauche à cellules claires, stade IV (M1 poumon et cerveau) en progression pulmonaire et dermique au niveau du pénis sous traitement par sunitinib. L'initiation d'une nouvelle ligne de traitement par évérolimus est indiquée.
+
+Traitement
+Sur recommandation de la neurologie, nous avons commencé un traitement antiplaquettaire, avec un contrôle adéquat de la glycémie et du profil lipidique.
+En ce qui concerne le traitement oncologique, nous avons interrompu le sunitinib et commencé une deuxième ligne d'évérolimus pour la maladie avancée.
+
+Évolution
+Le patient a présenté une amélioration initiale de la diplopie et de la démarche. Lorsque le cas a été discuté avec le service de neurologie, il a été considéré comme un accident vasculaire cérébral. Une tomodensitométrie thoracique de suivi a montré une progression de la tumeur après 3 mois de traitement au sunitinib. La lésion du pénis a été enlevée et envoyée au service de pathologie, qui a conclu à une métastase de carcinome rénal. Compte tenu des signes de progression et de la suspicion d'un accident vasculaire cérébral secondaire au sunitinib, nous avons décidé d'arrêter le traitement et de passer à un traitement de deuxième intention pour les maladies avancées avec l'évérolimus.
+Il a présenté une hyperglycémie d'origine corticostéroïde, que nous avons traitée avec de l'insuline, et à la sortie, la dose de dexaméthasone a été réduite (faible réponse de la clinique actuelle).
+Dans le contexte de ce patient, nous avons décidé de le transférer à l'hôpital socio-sanitaire de neuro-réhabilitation, actuellement en physiothérapie et ergothérapie et en traitement oncologique par évérolimus, avec une bonne tolérance.

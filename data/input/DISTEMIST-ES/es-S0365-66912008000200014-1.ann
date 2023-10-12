@@ -1,0 +1,18 @@
+T1	pathologie 104 120	obesidad mórbida
+T2	pathologie 147 166	esteatosis hepática
+T3	pathologie 172 193	síndrome malabsortivo
+T4	pathologie 236 250	anemia crónica
+T5	pathologie 383 414	fístula urinaria postoperatoria
+T6	pathologie 489 505	ceguera nocturna
+T7	pathologie 733 752	xerosis conjuntival
+T8	pathologie 1400 1446	nefrolitiasis complicada (absceso intrarrenal)
+T9	pathologie 1426 1445	absceso intrarrenal
+#1	SNOMED T8	386103008+3321001
+#2	SNOMED T9	3321001
+#3	SNOMED T5	57243009
+#4	SNOMED T6	65194006
+#5	SNOMED T1	238136002
+#6	SNOMED T2	197321007
+#7	SNOMED T3	32230006
+#8	SNOMED T4	191268006
+#9	SNOMED T7	64718006

@@ -1,0 +1,20 @@
+Anamnèse
+Patiente de 56 ans ayant des antécédents de tabagisme (un demi-paquet par jour) et de lymphome de Hodgkin de stade IIB (atteinte médistinique et cervico-claviculaire) de type sclérose nodulaire diagnostiqué et traité par 6 cycles de MOPP (moutarde azotée, vincristine, procarbazine et prednisine) et télécobaltothérapie supradiaphragmatique en 1982, en rémission complète depuis lors jusqu'à ce qu'une tomodensitométrie de contrôle révèle la présence d'une masse pulmonaire gauche.
+
+Examen physique
+À l'examen, le patient était en bon état général, sans adénopathies palpables ni viscéro-mégalie, le système cardio-pulmonaire était sans particularité et le reste était normal.
+
+Examens complémentaires
+Le scanner de contrôle du lymphome hodgkinien en novembre 2012 a montré une masse pulmonaire de 9 cm de grand axe dans le lobe inférieur gauche, avec un aspect infiltratif associé à des adénopathies sous-carénaires dont la TEP était suspecte de malignité, de même que la captation pathologique dans le muscle iliaque gauche, dont l'IRM était évocatrice de myosite ossifiante.
+Pour l'étude histopathologique, des échantillons ont été prélevés à deux reprises sur la lésion principale par bronchoscopie et une fois par tomodensitométrie, ainsi qu'une médiastinoscopie diagnostique avec biopsie des adénopathies (niveaux 2, 4L et 7), identifiant des changements inflammatoires importants dans tous les cas sans preuve de malignité, raison pour laquelle le Comité des tumeurs a opté pour une chirurgie ouverte avec biopsie peropératoire, dont les résultats étaient compatibles avec un adénocarcinome infiltrant.
+
+Diagnostic
+Adénocarcinome acineux modérément différencié du poumon, T3N0M0 (stade III).
+EGFR non muté.
+
+Traitement
+1. pneumonectomie gauche et lymphadénectomie.
+2. Chimiothérapie adjuvante avec cisplatine-vinorelbine pendant 4 cycles.
+
+Evolution
+Bonne tolérance au traitement par chimiothérapie, pas de complications après le troisième cycle.

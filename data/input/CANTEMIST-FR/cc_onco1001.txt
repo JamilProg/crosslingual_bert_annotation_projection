@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 60 ans souffrant d'une bronchopneumopathie chronique obstructive et d'un trouble bipolaire évoluant depuis des années, traitée par carbamazépine à ce jour, sans autres antécédents personnels dignes d'intérêt. Ex-fumeuse depuis 9 ans. Légèrement dépendante pour les activités de la vie quotidienne selon l'échelle de Barthel, vit avec son mari. Sous traitement par formotérol-fluticasone, salbutamol à la demande et inhibiteur de la pompe à protons, en plus de la carbamazépine.
+Antécédents oncologiques :
+Suivie en clinique externe d'oncologie depuis mars 2012 pour un carcinome épidermoïde du poumon de stade IIIB diagnostiqué en 2008, traité par cisplatine-vinorelbine par voie orale (CDDP-VNR) avec un intervalle sans progression de 8 ans.
+En mai 2016, on lui a diagnostiqué un second néoplasme pulmonaire métachrone compatible avec un adénocarcinome T4N3M1b, de stade IV, de type sauvage EGFR et sans réarrangement ALK. Entre juin et novembre 2016, elle a été traitée par chimiothérapie par carboplatine AUC5 + paclitaxel 200 mg/m² + bevacizumab 7,5 mg/kg pendant 6 cycles avec une réponse radiologique partielle maintenue après le sixième cycle, initiant le bevacizumab d'entretien.
+Après 3 cycles, il a présenté une progression de la maladie hépatique, ganglionnaire et osseuse, demandant une expression de PD-L1 qui était négative (moins de 1%), il a donc commencé un traitement par chimiothérapie de 2ème ligne avec docetaxel-nintedanib en février 2017.
+Maladie actuelle :
+Au jour +14 du premier cycle, il a présenté une dyspnée et de la fièvre. Une pneumonie a été détectée aux urgences et un traitement par méropénème et amikacine a été débuté. Quarante-huit heures après l'hospitalisation, la fièvre et la lymphopénie ont persisté (0,4 x109/l), ce qui a conduit à l'instauration du cotrimoxazole et du voriconazole et à l'isolement du virus respiratoire syncytial B par fibrobronchoscopie. Lors de son admission, il a soudainement présenté des symptômes neurologiques.
+
+Examen physique
+Il présentait un état de performance 3, avec des rhonchi et des sifflements épars à l'auscultation pulmonaire. L'examen neurologique a révélé une ataxie, une dysarthrie, une dysphonie, un astérixis/myoclonus, un ptosis de l'œil droit et un nystagmus horizontal, ainsi qu'une asthénie et une somnolence intenses, qui se sont intensifiées tout au long de la journée.
+
+Examens complémentaires
+Avec un diagnostic différentiel initial de maladie cérébrovasculaire aiguë ou de progression tumorale, une tomodensitométrie cérébrale urgente et une IRM cérébrale ultérieure ont été demandées : aucun résultat pathologique pertinent n'a été trouvé.
+Elle a été évaluée par les services de neurologie et de psychiatrie en raison de ses antécédents de troubles bipolaires, avec un diagnostic différentiel de syndrome paranéoplasique de type myasthénie grave ou d'intoxication à la carbamazépine due à une interaction avec le voriconazole. Afin d'exclure un syndrome paranéoplasique, un scanner thoraco-abdominal a été demandé, qui a montré un schéma interstitiel résiduel minime d'une pneumopathie antérieure et une maladie tumorale stable.
+En outre, un électroencéphalogramme a été demandé : il était sans particularité ; l'électromyogramme était négatif pour l'atteinte de la plaque motrice, ainsi que pour les anticorps antineuronaux.
+Des taux de carbamazépine dans la fourchette normale ont été demandés.
+
+Diagnostic
+Forte suspicion d'intoxication à la carbamazépine due à l'interaction avec le voriconazole.
+
+Traitement
+Compte tenu de l'aggravation clinique rapide, indépendamment des résultats, sans cause confirmée, il a été décidé d'instaurer le bromure de pyridostigmine (deux doses seulement ont été administrées) et de commencer à supprimer progressivement la carbamazépine.
+
+Évolution
+Après traitement de la myasthénie et arrêt de la carbamazépine, les symptômes neurologiques ont rapidement disparu, sans que la cause des symptômes ne soit clarifiée, bien que le diagnostic d'intoxication à la carbamazépine ait été étayé par une pancytopénie qui s'est spontanément résorbée après l'arrêt du médicament.
+Par la suite, en vue d'une sortie, un traitement à la quétiapine a été instauré pour stabiliser le trouble bipolaire, la carbamazépine ayant été définitivement arrêtée et le patient restant asymptomatique.

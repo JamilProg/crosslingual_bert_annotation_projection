@@ -1,0 +1,35 @@
+Femme de 43 ans, fumeuse depuis 10 ans/paquet sans antécédents personnels ou familiaux intéressants, qui en septembre 2018 a été admise dans un autre hôpital pour des mois de perte de poids et de faiblesse progressive avec une atrophie musculaire marquée. À l'admission, on lui a diagnostiqué un adénocarcinome pulmonaire métastatique.
+
+À sa sortie, il n'était toujours pas en mesure de se tenir debout, il a donc bénéficié d'une assistance UHD et a été traité avec une forte dose de dexaméthasone (8-4-8 mg) et des analgésiques de troisième étape (patchs de fentanyl 100 μg/h).
+
+Elle a demandé un deuxième avis dans notre centre, et s'est présentée le 22 octobre 18 avant la visite en raison d'une claudication familiale, d'un mauvais contrôle de la douleur (céphalée due aux métastases cérébrales et douleur sciatique droite due à la lésion et à l'écrasement de L5) malgré une analgésie et une corticothérapie accrues, d'une incontinence urinaire et fécale apparue au cours des 2 ou 3 dernières semaines, ainsi que d'une faiblesse accrue dans le MMII. Au cours des derniers jours, un syndrome confusionnel avec des idées délirantes de préjudice s'est également ajouté.
+
+À l'examen physique, elle présentait une cachexie importante, avec une atrophie asymétrique des quadriceps, des interosseux et de l'éminence thénar, qui se traduisait par une main en griffe à gauche. Le bilan moteur montrait une faiblesse généralisée, avec des scores de 3 sur 5 sur l'échelle ASIA dans les extrémités distales et de 4 sur 5 dans les extrémités proximales. La sensibilité était normale et il n'y avait pas d'altération des nerfs crâniens. Le reste de l'examen physique était sans particularité.
+
+Les examens complémentaires réalisés dans l'autre centre comprenaient :
+- IRM cérébrale et du rachis cervical (18/09/2018) : Métastases cérébrales et cérébelleuses avec composante hémorragique, effet de masse, compression du 4ème ventricule, hypertension intracrânienne et hernie des amygdales cérébelleuses avec compression bulbaire. Métastases osseuses dans les 3 premiers niveaux dorsaux.
+- Tomodensitométrie thoraco-abdominale-pelvienne (18/09/2018) : Multiples lésions d'allure métastatique dans les 2 poumons prédominant dans les champs supérieurs, parenchyme hépatique, surrénale droite, rein droit, adénopathies rétropéritonéales et au niveau osseux dans les arcs costaux, soma D1-D3 et soma L5 avec composante épidurale antérieure, lame iliaque droite et acétabulum gauche.
+
+Là, une biopsie échoguidée d'une des métastases hépatiques a été réalisée le 24/9/18 (24/9/18). L'étude morphologique et immunohistochimique a montré une métastase d'adénocarcinome pulmonaire PD-L1 + (faible expression) 1-49% ; ALK et ROS 1 non transloqués, en attendant le résultat de la mutation de l'EGFR.
+
+Par conséquent, dans le cas d'une jeune femme en très mauvais état général et atteinte d'un adénocarcinome pulmonaire très avancé, avec une charge de morbidité élevée due à des métastases multiples et une douleur incontrôlée, il a été décidé d'optimiser le traitement symptomatique, y compris l'analgésie et les mesures anti-œdèmes, en augmentant la dose de dexaméthasone (8 mg toutes les 8 heures), avec une amélioration symptomatique initiale partielle.
+
+Par la suite, après avoir exclu une atteinte de la moelle épinière par IRM rachidienne, une RT holocrânienne palliative a été mise en place (10 fractions x 3 Gy, qui s'est terminée le 05/11/18).
+
+Le 31/10/18, les résultats de l'EGFR ont été reçus, montrant une délétion dans l'exon 19. Un traitement par Erlotinib 150mg/24h a donc été prescrit (avec consentement éclairé préalable).
+
+Parallèlement, un traitement de rééducation/physiothérapie a été mis en place en raison du syndrome d'alitement prolongé et de l'atrophie musculaire attribuable à l'immobilité et à la dexaméthasone.
+
+Grâce à ces mesures, la patiente a entamé un processus d'amélioration lente mais évidente de son état général et fonctionnel, avec un bon contrôle de la douleur et une récupération progressive de la mobilité et de l'autonomie personnelle, ce qui a permis la diminution progressive de la corticothérapie.
+
+Le 18/11/18, alors qu'elle recevait une dose de 2 mg/jour de dexaméthasone, la patiente a présenté un pic fébrile sans symptômes d'accompagnement et, à l'examen, il n'y avait aucun signe de sécrétions sous-crépitantes bibasales, avec des examens complémentaires (analyses de sang, d'urine, virus respiratoires et radiographie pulmonaire), de sorte qu'une antibiothérapie empirique avec du cefditoren a été entamée.
+
+Malgré l'élargissement du spectre antibiotique à la pipéracilline-tazobactam, les pics fébriles ont persisté ; le 22/11/18, il a présenté une détérioration clinique marquée, avec une faible réactivité, une somnolence, une désaturation jusqu'à 60 % (air ambiant) et des crépitants dispersés. La radiographie thoracique a été répétée et a montré un nouveau motif réticulonodulaire étendu dans les deux hémithorax, de sorte que, en cas de suspicion de pneumonie atypique ou virale, la lévofloxacine, le cotrimoxazole à des doses thérapeutiques et le ganciclovir ont été associés. Malgré l'administration d'une oxygénothérapie (Ventimask avec FiO2 50%), le patient a persisté avec une dyspnée et une tachypnée significative ; par conséquent, les soins intensifs ont été consultés pour la mise en place d'une oxygénothérapie nasale à haut débit (optiflow) dans le service.
+
+Grâce à ce soutien maximal dans le service, le patient a été stabilisé. La situation respiratoire compromise a empêché la réalisation d'une bronchoscopie pour un prélèvement et une filiation microbiologique au stade aigu, mais un scanner thoracique a été réalisé le 26/11/18, qui a montré une atteinte bilatérale étendue, parcellaire et confluente, du verre dépoli, ainsi que des tests sanguins qui ont montré une légère élévation des réactifs de phase aiguë mais une nette élévation des LDH, ce qui a fait de la pneumonie à Pneumocystis jirovecci la principale suspicion diagnostique.
+
+D'un besoin initial d'oxygénothérapie avec une FiO2 de 80%, une amélioration respiratoire lente mais progressive a été obtenue, sans pics fébriles répétés, permettant le passage au Ventimask le 4/12/18 et aux lunettes nasales le 13/12/18.
+
+Les analyses microbiologiques du sang (hémocultures, charge virale CMV) prélevé lors des pics fébriles et des expectorations (culture, ADN Aspergillus, ADN Pneumocystis), prélevées lorsque la situation clinique du patient le permettait (11/12/18) n'ont pas montré d'isolement ; l'antibiothérapie a été progressivement retirée jusqu'à ce qu'il ne reste plus que le cotrimoxazole à doses prophylactiques.
+
+Un scanner thoraco-abdominal de contrôle a été réalisé le 18/12/18 et a montré une résolution des zones de verre dépoli et une amélioration des nodules métastatiques avec des critères de réponse partielle, permettant la sortie de l'hôpital le 21/12/18 sans besoin de soutien à domicile, avec un PS de 1 asymptomatique à l'exception d'une toxicité cutanée G1 due à l'erlotinib lors de sa visite ambulatoire un mois après la sortie de l'hôpital.

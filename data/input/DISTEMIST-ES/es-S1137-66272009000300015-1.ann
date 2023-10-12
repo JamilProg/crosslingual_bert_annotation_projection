@@ -1,0 +1,12 @@
+T1	pathologie 742 759	lesiones cutáneas
+T2	pathologie 763 774	adenopatías
+T3	pathologie 1608 1612	lúes
+T4	pathologie 1643 1658	hepatitis B y C
+T5	pathologie 3692 3746	nervio sural izquierdo, que mostró degeneración axonal
+T6	pathologie 3801 3823	infarto por vasculitis
+#1	SNOMED T5	426293000
+#2	SNOMED T6	31996006
+#3	SNOMED T1	95324001
+#4	SNOMED T2	30746006
+#5	SNOMED T4	442374005
+#6	SNOMED T3	76272004

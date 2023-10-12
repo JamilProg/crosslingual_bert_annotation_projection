@@ -1,0 +1,32 @@
+Anamnèse
+Femme de 49 ans, pas d'allergies médicamenteuses connues, pas d'antécédents personnels ou familiaux intéressants. Antécédents gynécologiques : ménarche à l'âge de 12 ans, 2 grossesses menées à terme et allaitement, préménopause.
+En août 2012, la patiente s'est auto-palpée deux nodules dans le sein gauche, après avoir effectué une mammographie dans laquelle des microcalcifications amorphes ont été observées dans plusieurs foyers du CSE du sein gauche avec une forte suspicion de malignité, il a été décidé de compléter l'étude par une IRM qui a décrit : sein gauche présence de multiples zones de rehaussement nodulaire au niveau rétro-aréolaire s'étendant à travers le corps glandulaire jusqu'à la paroi thoracique sans l'infiltrer et de multiples rehaussements nodulaires irréguliers dans le CSE dont le plus grand est de 1.4 cm (BI-RADS V) ; dans le sein droit, rehaussement nodulaire de 1,7 cm dans le CSD (BI-RADS V). La BAG du nodule gauche est compatible avec un carcinome canalaire infiltrant avec une composante intraductale de haut grade, de faibles récepteurs aux œstrogènes (ER) (1-2 %) et un progestatif négatif, un Ki de 10-15 % et un Her2 positif par FISH.
+Un scanner PET-CT a été réalisé, montrant une captation dans le sein gauche, le sein droit de l'aisselle gauche, de multiples lésions hépatiques, le corps vertébral L5 et l'omoplate gauche.
+Compte tenu du diagnostic de carcinome mammaire Her2-positif, stade clinique IV (multiples métastases hépatiques et osseuses), nous avons commencé un traitement par chimiothérapie (QT) avec doxorubicine (60 mg/m2) plus cyclophosphamide (600 mg/m2) tous les 21 jours pendant 4 cycles, suivi de paclitaxel (80 mg/m2) toutes les semaines pendant 12 cycles plus trastuzumab (4 mg/kg pour la première dose et 2mg/kg pour les doses suivantes). Excellente tolérance au traitement.
+En juin 2013, le PET-CT scan de réévaluation a montré une réponse complète dans le foie et les os, avec une diminution de la captation dans le sein gauche. Le cas a été présenté au Comité des tumeurs gynécologiques et un sauvetage chirurgical a été décidé.
+En juillet 2013, une mastectomie radicale gauche modifiée a été réalisée et le diagnostic était compatible avec un carcinome intraductal de haut grade de 2,5 cm qui a contacté le plan chirurgical profond, 12 ganglions lymphatiques négatifs ont été retirés. Il a reçu une radiothérapie de la paroi thoracique et du creux claviculaire (50Gy).
+Elle a repris le traitement par Trastuzumab tous les 21 jours. Les contrôles radiologiques et les marqueurs tumoraux n'ont montré aucun signe de récidive de la maladie et, en juillet 2014, il a été décidé d'interrompre le traitement, tout en maintenant les contrôles mensuels.
+Lors du contrôle de novembre 2014, une augmentation des marqueurs tumoraux a été observée (CEA 32 précédemment 5,1 et Ca 15,3 35,8 précédemment 26,8), il a été proposé de réaliser un scanner thoraco-abdominal, mais la patiente a déclaré qu'elle se rendrait dans une clinique privée pour des examens complémentaires dès que possible.
+
+Examen physique
+État de performance 0. Poids 50 kg. Taille 158 cm. Surface corporelle de 1,48. Aucun ganglion lymphatique n'était palpable dans les différents niveaux ganglionnaires. Examen du sein gauche : paroi thoracique avec cicatrice de mastectomie et lymphadénectomie sans signe de récidive, sein droit avec nodules fibreux palpables déjà connus. L'examen de l'abdomen et des membres inférieurs n'a rien révélé de pertinent. Le reste de l'examen est normal.
+
+Tests complémentaires
+"Conclusion de la TEP-TDM : aucun signe d'absorption pathologique en rapport avec la maladie sous-jacente de la patiente.
+L'absorption dans le vagin est probablement liée à une inflammation/infection.
+"IRM cérébrale : l'étude montre 3 lésions métastatiques, dont 2 au niveau infratentoriel dans le lobe cérébelleux gauche, entraînant une diminution significative de l'amygdale cérébelleuse de ce côté, ainsi qu'une oblitération partielle du IVe ventricule et des signes naissants d'hydrocéphalie supratentorielle. La troisième lésion est située en supratentoriel dans le lobe pariétal droit.
+
+Diagnostic
+"Carcinome canalaire infiltrant du sein Her2-positif, stade clinique IV débutant en raison de métastases hépatiques et osseuses (réponse complète prolongée depuis mai 2013).
+"Métastases cérébrales multiples probables dues à un carcinome du sein.
+
+Traitement
+"Le 24/11/14, une craniotomie pariétale droite et occipitale gauche a été réalisée avec ablation de la lésion cérébelleuse, de deux lésions intratentorielles et de la lésion pariétale. L'anatomie pathologique confirme l'existence de métastases cérébrales d'un carcinome canalaire infiltrant du sein, ER 80%, PR 30%, cErbB2 ++/+++.
+" Du 23/12/14 au 16/01/15, elle a bénéficié d'une radiothérapie externe crânienne adjuvante (51,30Gy) car l'IRM post-chirurgicale montrait des reliquats tumoraux adhérant à la tente du cervelet au niveau infratentoriel.
+L'IRM réalisée à la fin de ce traitement n'a montré aucun signe de maladie résiduelle.
+" En avril 2015, nous avons ordonné un traitement par Lapatinib (1250 mg/jour) Capecitabine (2000 mg/m2, jour 1 à 14 tous les 21 jours).
+
+Evolution
+La patiente est en excellent état général depuis le début du traitement et très bien tolérée ; elle a rapporté un épisode de toxicité dermatologique de grade 2 qui a nécessité une réduction de la dose de Capecitabine pour un seul cycle.
+En septembre 2015, une IRM cérébrale a été réalisée, qui n'a montré aucun changement dans les zones de rehaussement aux bords des cavités chirurgicales, sans lésions nodulaires pouvant suggérer une récidive ; et une TEP-TDM n'a montré aucun signe de captation pathologique en relation avec sa maladie sous-jacente. Les marqueurs tumoraux (CEA et CA 15-3) ne montrent aucune altération pathologique.
+Le patient présente actuellement une réponse complète prolongée.

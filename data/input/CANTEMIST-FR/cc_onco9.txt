@@ -1,0 +1,22 @@
+ANAMNÈSE
+Notre patient est un homme de 71 ans ayant actuellement des antécédents d'hypertension, de dyslipidémie, de BPCO sévère et une hémorragie digestive haute de Forrest IA secondaire à un ulcère duodénal qui a été contrôlée par endoscopie avec des clips hémostatiques et Hemospray en janvier 2018. Il est fumeur avec une consommation cumulée de 55 ans/pack. Il n'a pas d'autres antécédents médicaux, chirurgicaux ou familiaux intéressants. Le traitement habituel du patient était composé d'olmésartan, de simvastatine et de tiotropium associé à de l'olodatérol inhalé au moment du diagnostic.
+
+EXAMEN PHYSIQUE
+ECOG 1, conscient et orienté. Couleur normale, normohydraté et normoperfusé. Eupnéique. Pas de ganglions lymphatiques périphériques palpables. Auscultation cardiaque : tonalités rythmiques, pas de souffle. Auscultation pulmonaire : hypophonie globale. Abdomen : mou et dépressible, non douloureux à la palpation, pas de masse palpable ni de viscéro-mégalie, pas de signes d'irritation péritonéale, péristaltisme conservé. Pas d'œdème aux extrémités, pas de signes extérieurs d'arthrite, pas de lésions cutanées. Pas de focalité neurologique.
+
+EXAMENS COMPLÉMENTAIRES
+La radiographie thoracique simple réalisée aux urgences a montré une masse pulmonaire dans le lobe inférieur gauche qui n'était pas présente sur la précédente radiographie thoracique de janvier 2018. Lors de l'admission, l'étude de cette masse pulmonaire a été complétée. La spirométrie a montré les paramètres suivants : CVF 70 %, VEMS 35 % et VEMS/CVF 39 % sous traitement bronchodilatateur. La bronchoscopie n'a montré aucune lésion endobronchique. Le scanner et le PET-CT ont montré une masse dans le segment postérieur du lobe inférieur gauche mesurant 35 x 30 mm, une atteinte hilaire ipsilatérale et des ganglions lymphatiques médiastinaux ipsilatéraux et controlatéraux, ainsi qu'un nodule pulmonaire controlatéral au niveau du lobe moyen droit mesurant 10 mm. L'IRM cérébrale n'a montré aucune lésion métastatique à ce niveau.
+Par ailleurs, le service de rhumatologie a été sollicité lors de l'admission en raison d'une oedématisation des mains et des chevilles ainsi que d'une faiblesse des membres inférieurs. Les analyses sanguines ont montré des valeurs de créatine kinase (CK) de 9560 U/L, de lactate déshydrogénase (LDH) de 1114 U/L et l'étude d'auto-immunité s'est révélée négative. Compte tenu des résultats de laboratoire et des symptômes du patient, il a été diagnostiqué une myopathie inflammatoire paranéoplasique. Le 14 novembre 2018, un traitement à base de prednisone 60 mg par jour a été instauré.
+
+ANATOMIE PATHOLOGIQUE
+Afin d'établir un diagnostic, une biopsie percutanée par tomodensitométrie du nodule pulmonaire situé à la base du poumon gauche a été réalisée. L'étude anatomopathologique était concordante avec un adénocarcinome infiltrant du poumon TTF1-positif, 90 % de PD-L1 dans les cellules tumorales, EGFR négatif, ALK négatif et ROS-1 négatif.
+
+JUGEMENT DIAGNOSTIQUE
+Par conséquent, le diagnostic définitif de notre patient était un adénocarcinome pulmonaire de stade IV cT2a cN3 cM1a (en raison d'une seule lésion pulmonaire controlatérale) PD-L1 90 %, EGFR négatif, ALK négatif et ROS-1 négatif.
+
+TRAITEMENT
+Le patient s'est vu proposer un traitement standard de première ligne pour les carcinomes pulmonaires non à petites cellules avec une expression de PD-L1 supérieure à 50 % et dont le reste de l'étude moléculaire est négatif. Le 17 décembre 2018, le premier cycle avec Pembrolizumab à une dose de 200 mg a été administré.
+
+ÉVOLUTION
+Après le début de la corticothérapie, les symptômes rhumatologiques ont complètement disparu. Étant donné les indications raisonnables de perte d'efficacité de l'immunothérapie avec des traitements corticostéroïdes antérieurs chez les patients atteints de carcinome pulmonaire non à petites cellules, un programme de réduction progressive de la prednisone a été mis en place dès la première visite en oncologie médicale. Ainsi, la semaine précédant le début de l'immunothérapie, le patient recevait 10 mg de prednisone par jour et, après le premier cycle, ce traitement a été définitivement suspendu. Lors des analyses sanguines ultérieures, les valeurs de CK et de LDH étaient normales.
+Le patient est resté asymptomatique, sans aucun signe clinique ou de laboratoire de myopathie inflammatoire. À l'heure actuelle, l'évaluation de la réponse par imagerie après le troisième cycle de traitement par Pembrolizumab n'a pas encore été réalisée.

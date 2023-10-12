@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 54 ans, aux antécédents d'ex-fumeur depuis 3 mois avec un indice paquet-année de 40 et une BPCO emphysémateuse. En 2009, on lui a diagnostiqué un adénocarcinome endométrioïde de l'endomètre, opéré d'une hystérectomie et d'une annexectomie gauche, au stade T1cN0 (stade I de la FIGO).
+Dans l'étude d'extension EC, un nodule pulmonaire a été observé dans le lobe supérieur droit (LSD) qui n'a pas été attribué à une lésion secondaire de l'adénocarcinome endométrial.
+
+Examen physique
+Phénotype emphysémateux, avec diminution globale du mumulus vésiculaire, sans autres observations pertinentes.
+
+Tests complémentaires
+Dans l'analyse sanguine, les fonctions rénale et hépatique et l'hémogramme étaient normaux, avec des valeurs de créatinine de 0,70 mg/dl (0,5 - 0,9), ALT (GPT) 33,00 U/L (6,0 - 40,0), AST (GOT) 18,00 U/L (6,0 - 40.0), gamma-glutamyltransférase 45,00 U/L (6,0 - 36,0), leucocytes 4,04 x10E3/microL (4,0 - 11,5), neutrophiles 2,50 10E3/microL (1,5 - 7,5), hémoglobine 14,20 g/dL (12,0 - 16,0) et plaquettes 266,00 10E3/microL (150,0 - 400,0).
+Le scanner a montré un emphysème centrolobulillaire et deux autres nodules de 30 mm dans le LSI, en plus de celui connu dans le LSD.
+Le PET-CT a montré une lésion pulmonaire de 20 mm dans le lobe supérieur droit (LSD) et une lésion parahilaire pathologique. Les nodules dans le LSI ne sont pas visibles.
+
+Diagnostic
+Il a été opéré en mars 2010 d'une lobectomie supérieure droite et d'une adénectomie médiastinale apicale. Le résultat anatomopathologique était un adénocarcinome LSD, à prédominance solide et tubulaire, modérément différencié, infiltrant et avec invasion lymphovasculaire, de stade T1aN2M0 (stade IIIA), avec atteinte des ganglions lymphatiques médiastinaux. Il n'y a pas de mutation de l'EGFR et la translocation ALK n'a pas été réalisée à l'époque.
+
+Traitement
+En avril 2010, il a commencé une chimiothérapie adjuvante (QT) selon le schéma cisplatine-vinorelbine avec une RT locale ultérieure, avec des contrôles normaux jusqu'en mars 2011.
+
+Évolution
+En mars 201, elle a présenté une progression au niveau de la médisatine et des nodules pulmonaires. A cette époque, la patiente était asymptomatique, et après avoir refusé un traitement par doublet de platine, elle a commencé le pemetrexed pour 6 cycles, suspendu en octobre en raison d'une asthénie de grade II-III.
+En février 2012, elle a de nouveau présenté une progression tumorale au niveau des métastases déjà connues, et a commencé l'erlotinib. Le traitement a dû être remplacé par le gefitinib après 2 mois en raison d'une toxicité cutanée, avec une réponse stable mais une progression minime des nodules pulmonaires.
+Après 3 mois de traitement par gefitinib avec une asthénie de grade II comme principal effet secondaire, il y a eu une nette progression des nodules pulmonaires en taille et en nombre, et un traitement par docétaxel trois fois par semaine pendant 6 cycles a été proposé, qui a été toléré régulièrement en raison de l'asthénie et des nausées. La réponse de la patiente est ensuite restée stable pendant 3 mois.
+Elle a progressé à nouveau en février 2013, commençant un traitement par gemcitabine bihebdomadaire en monothérapie, qu'elle a reçu pendant 2 mois avec une réponse stable à la maladie.
+Pendant cette période, la patiente a été admise à plusieurs reprises pour des infections respiratoires.
+En juin 2013, la patiente continue de bien se porter sur le plan clinique. Elle avait reçu plusieurs lignes de QT, sans bonnes réponses, mais avec une toxicité considérable avec presque tous les traitements et de multiples admissions intercurrentes pour des infections pulmonaires. N'étant pas candidate à des essais cliniques, et ne considérant pas qu'elle pourrait bénéficier de nouveaux traitements de chimiothérapie, bien qu'il y ait une progression discrète de la tumeur, il a été décidé de l'observer tous les 3 mois et de la faire suivre par l'unité de soins palliatifs (USP) à domicile.
+La patiente, atteinte d'un adénocarcinome pulmonaire de stade IV, a connu une période sans progression de 6 mois après la quatrième ligne de traitement, jusqu'à ce qu'en octobre 2013, elle présente à nouveau une progression tumorale, avec des métastases au niveau sternal, une toux et une dyspnée, raison pour laquelle un traitement au paclitaxel bimensuel a été instauré, dont elle n'a reçu que 2 cycles en raison d'une neutropénie et d'infections respiratoires. Le scanner de contrôle a révélé une légère progression des métastases pulmonaires et une stabilité de la métastase sternale.
+Il est resté non traité et stable pendant encore 5 mois, jusqu'en mai 2014, date à laquelle il a été admis pour une pneumonie Fine V avec bronchospasme, décédant finalement de cette cause.

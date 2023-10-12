@@ -1,0 +1,23 @@
+Anamnèse
+Nous présentons un homme de 36 ans sans allergie médicamenteuse connue. Ancien fumeur de 5 paquets par an. En 1999, après auto-palpation, on lui a diagnostiqué une masse testiculaire indolore localisée de la couche granuleuse et il a subi une orchidectomie gauche et une lymphadénectomie rétropéritonéale. Il n'a pas reçu de chimiothérapie adjuvante.
+En octobre 2011, à la suite d'une parésie aiguë du membre supérieur gauche, un diagnostic de métastase frontopariétale droite a été posé. Une tomodensitométrie thoraco-abdominale a révélé de multiples nodules pulmonaires, qui ont fait l'objet d'une biopsie compatible avec une métastase d'une tumeur peu différenciée de la couche granuleuse. Au vu de ces résultats, elle a reçu une radiothérapie holocrânienne de 30 Gy (3 Gy/fraction) et trois cycles de cisplatine 100 mg/m2 d1 et d'étoposide 100 mg/m2 d1-3 avec une admission aux soins intensifs pour un sepsis sévère secondaire à une neutropénie fébrile, se poursuivant jusqu'à l'achèvement de 6 cycles avec une monochimiothérapie à base de platine.
+Après le 5e cycle de cisplatine, la patiente a commencé à souffrir d'une toux sèche persistante et d'une hypertrophie mammaire, et a été adressée à notre centre pour une étude plus approfondie.
+
+Examen physique
+ECOG 1. Afebrile. Gynécomastie bilatérale. Pas d'adénopathie périphérique palpable. ACR avec tonalités rythmiques à bonne fréquence. Murmure vésiculaire diminué à la base droite. L'abdomen et les membres inférieurs ne présentent pas d'altérations pertinentes. Examen neurologique avec des fonctions supérieures préservées, sans déficits moteurs ou sensoriels. Pas de dysmétrie.
+
+Examens complémentaires
+Laboratoire : normal, sauf hémoglobine 90 g/l, avec volume corpusculaire normal.
+Échocardiographie : fraction d'éjection du ventricule gauche : 55,6 %.
+Tomodensitométrie du crâne, du thorax et de l'abdomen : pas d'atteinte cérébrale. Augmentation de la taille et du nombre de masses pulmonaires dans le lobe inférieur droit 60 mm, le lobe moyen droit 30 mm et le lobe supérieur gauche 18 mm.
+Augmentation de la taille des adénopathies : sous-carcinale 42 mm et prétrachéale droite 25 mm. Apparition d'un épanchement pleural droit.
+Examen de la pathologie pulmonaire : tumeur de la granulosa. Immunohistochimie (IHC) + : inhibine, vimentine et calrétine. IHC- : EMA, synaptophysine et marqueurs lymphoïdes. Perte d'expression de PTEN.
+
+Diagnostic
+Progression pulmonaire et adénopathique d'une tumeur de la couche de granulosa testiculaire.
+
+Traitement
+Le patient reçoit 80 mg/m2 de paclitaxel par semaine en association avec un inhibiteur de la PI3K administré par voie orale tous les 28 jours.
+
+Évolution
+La patiente a reçu 9 cycles, avec une excellente qualité de vie et une résolution de la gynécomastie. Une réduction de dose a été nécessaire en raison d'une éruption cutanée de grade 3 liée à la thérapie PI3K et d'une neurotoxicité de grade 3 secondaire au paclitaxel. La réponse partielle a été maintenue depuis le 2e cycle jusqu'à ce jour.

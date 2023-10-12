@@ -1,0 +1,17 @@
+T1	pathologie 77 108	hiperplasia benigna de próstata
+T2	pathologie 178 192	adenocarcinoma
+T3	pathologie 546 577	hernia inguinal derecha directa
+T4	pathologie 652 661	hidrocele
+T5	pathologie 958 969	adenopatías
+T6	pathologie 1013 1027	leiomiosarcoma
+T7	pathologie 1265 1271	lesión
+T8	pathologie 1312 1339	cicatriz de la herniorrafia
+T9	pathologie 1371 1397	recidiva de leiomiosarcoma
+T10	pathologie 1514 1538	lesión nodular en flanco
+T11	pathologie 1844 1858	leiomiosarcoma
+T12	pathologie 2001 2015	recidiva local
+T13	pathologie 2113 2153	recidiva de leiomiosarcoma de alto grado
+T14	pathologie 2212 2237	masa adenopática inguinal
+T15	pathologie 2242 2271	adenopatías retroperitoneales
+T16	pathologie 2549 2570	metástasis pulmonares
+T17	pathologie 2789 2823	lesión excrecente en pared vesical

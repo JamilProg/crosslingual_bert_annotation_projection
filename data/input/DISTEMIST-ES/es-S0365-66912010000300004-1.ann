@@ -1,0 +1,16 @@
+T1	pathologie 34 68	glaucoma crónico de ángulo abierto
+T2	pathologie 1208 1290	desprendimiento de la membrana de Descemet (DMD) en el cuadrante temporal inferior
+T3	pathologie 1252 1255	DMD
+T4	pathologie 1849 1871	edema corneal moderado
+T5	pathologie 2085 2112	desprendimiento descemético
+T6	pathologie 2251 2259	hematoma
+T7	pathologie 2459 2462	DMD
+T8	pathologie 2542 2555	edema corneal
+#1	SNOMED T1	84494001
+#2	SNOMED T2	95738005
+#3	SNOMED T7	95738005
+#4	SNOMED T3	95738005
+#5	SNOMED T4	27194006
+#6	SNOMED T8	27194006
+#7	SNOMED T5	95738005
+#8	SNOMED T6	385494008

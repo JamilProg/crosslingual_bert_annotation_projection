@@ -1,0 +1,39 @@
+Anamnèse
+Le patient était un homme de 22 ans, sans allergie médicamenteuse connue, qui n'avait pas d'antécédents médicaux ou chirurgicaux intéressants. Il n'y avait pas d'antécédents familiaux de cancer et il ne recevait pas de traitement concomitant.
+
+En janvier 2014, il a été examiné dans un autre centre pour des douleurs abdominales, des diarrhées et une sensation de distension abdominale, en particulier dans le flanc gauche. Une tomodensitométrie thoraco-abdominale-pelvienne (TAPCT) a été réalisée, qui a révélé une masse surrénalienne gauche, sans maladie à distance. Des tests de laboratoire, des marqueurs tumoraux, des catécholamines urinaires, une scintigraphie à l'iode-131-métaiodobenzylguanidine (MIBG) et une biopsie de la moelle osseuse ont complété l'étude.
+
+Cependant, il a été décidé de réséquer la masse. L'examen pathologique a révélé un neuroblastome anaplasique. Avec ce diagnostic, il a été décidé d'adresser le patient à notre hôpital. Notre évaluation initiale était celle d'un neuroblastome anaplasique de l'adulte de stade 1 de l'INSS (International Neuroblastom Stanging System). A ce stade, compte tenu de la radicalité de la chirurgie, de l'absence de maladie avérée (stade 1) et de facteurs biologiques défavorables connus (c-Myc négatif), nous avons décidé d'effectuer un suivi tous les 3 mois pendant la première année avec un dosage des catécholamines urinaires de 24 heures, de l'énolase et une imagerie par tomographie par émission de positons (PET-CT), la scintigraphie au MIBG s'étant révélée négative antérieurement.
+
+Cependant, en septembre 2014, une tomodensitométrie a révélé une récidive locale précoce sous la forme de quatre nodules périspléniques. Le comité multidisciplinaire du sarcome a décidé de réséquer ces nodules.
+
+En novembre 2014, une laparotomie exploratoire a été pratiquée et trois implants ont été découverts à la surface de la rate et dans le ligament gastrosplénique. Une résection en bloc de la rate, du grand épiploon, d'une partie du ligament gastrosplénique et colonosplénique et de la capsule de Gerota a été réalisée.
+
+Examen physique
+Le patient a été réévalué après la deuxième opération. Il était en bon état général. Il y avait une légère gêne à la palpation de l'abdomen dans la région épigastrique et dans l'hypochondre gauche, mais aucune masse ou mégalithe n'était palpable.
+
+Tests complémentaires
+"Les examens de laboratoire étaient normaux. L'énolase spécifique des neurones a été demandée et était de 9,78 nanogrammes/millilitre (0-15).
+"Catécholamines urinaires de 24 heures : pas d'altération.
+"Biopsie de la moelle osseuse : aucun signe d'infiltration néoplasique.
+"IRM : la topographie de la glande surrénale gauche a montré une image nodulaire mesurant 17 x 16 mm d'aspect hétérogène, avec une zone médiane d'aspect plus solide et de petites zones d'aspect microkystique.
+"Scanner PET-CT : récidive tumorale due à la visualisation de jusqu'à quatre nodules dans l'hypochondre gauche.
+Le plus grand d'entre eux, situé dans le ligament gastrosplénique, mesure 15 mm et son SUVmax (Maximum Standardized Uptake Value) est de 4,6 mm.
+Le SUVmax (Maximum Standardized Uptake Value) est de 4,6 g(ml).
+"Biopsie : des échantillons de rate et d'épiploon ont été soumis. Trois implants de tumeur neuroectodermique primitive ont été observés sur la surface de la rate et de multiples implants dans la graisse périhilaire de la rate. Au microscope, ces implants consistaient en une prolifération à haute densité cellulaire. Les cellules étaient bleues, rondes et présentaient une activité mitotique accrue. Dans l'étude immunohistochimique, la cellularité tumorale exprimait le CD99 dans un motif membranaire et présentait une différenciation neuronale (synaptophysine positive). En revanche, elle était négative pour le CD45. La translocation du gène EWS par FISH (hybridation in situ fluorescente) était positive. L'expression de c-Myc était négative.
+
+Diagnostic
+Avec le résultat de la nouvelle biopsie, et après avoir revu l'échantillon provenant d'un autre centre, il s'agit d'un cas exceptionnel : un sarcome Ewing-PNET (tumeur neuroectodermique périphérique) dans la glande surrénale gauche réséqué mais avec une rechute splénique précoce, à nouveau réséqué et avec une maladie persistante au niveau abdominal sous la forme d'implants péritonéaux. Le diagnostic initial de neuroblastome anaplasique de l'adulte a donc été écarté.
+
+Traitement
+La période postopératoire immédiate s'est déroulée sans incident, à l'exception de la présence d'une fièvre fébrile soutenue, qui a nécessité un scanner, montrant une collection post-chirurgicale et une nouvelle récidive péritonéale précoce.
+
+En décembre 2014, il a été décidé de présenter à nouveau le cas au Comité multidisciplinaire des sarcomes en raison de la persistance d'implants péritonéaux pelviens et d'implants dans le péritoine antérieur gauche au scanner post-chirurgical et du diagnostic de sarcome d'Ewing. La décision a été prise de commencer une chimiothérapie d'induction selon le schéma VIDE (vincristine, ifosfamide, adriamycine, étoposide) pour six cycles tous les 21 jours et avec une prophylaxie de la neutropénie avec des facteurs de stimulation des colonies de granulocytes, avec une évaluation après le troisième et le sixième cycle et ensuite d'envisager une laparotomie exploratoire et la résection de toute la maladie résiduelle.
+
+Evolution
+Il a reçu trois cycles avec une très bonne tolérance, à l'exception de vomissements de grade 1 et d'une admission pour fièvre neutropénique sans foyer. Il a été évalué après l'administration de trois cycles par tomodensitométrie, qui a montré une diminution de la taille des nodules péritonéaux, compatible avec une bonne réponse partielle.
+
+Il a poursuivi la chimiothérapie VIDE pendant trois cycles supplémentaires.
+
+L'évaluation de la réponse après six cycles a montré une excellente réponse partielle, avec la persistance d'un seul nodule pelvien. Par conséquent, après l'achèvement de la chimiothérapie d'induction, en mai 2015, il a subi une résection chirurgicale de la maladie résiduelle. Il a subi une résection de l'épiploon avec trois nodules, le plus grand mesurant 3 cm. Trois implants dans le péritoine pelvien ont également été réséqués et retirés en bloc.
+Elle est actuellement en attente d'un traitement par chimiothérapie de consolidation selon le schéma VACtCD (vincristine, cyclophosphamide, actinomycine D) pendant huit cycles.

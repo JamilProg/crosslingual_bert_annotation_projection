@@ -1,0 +1,8 @@
+T1	pathologie 377 392	edema de papila
+T2	pathologie 403 423	exudado subretiniano
+T3	pathologie 523 527	Lyme
+T4	pathologie 1105 1124	tuberculosis ocular
+#1	SNOMED T4	49107007
+#2	SNOMED T1	423341008
+#3	SNOMED T3	23502006
+#4	SNOMED T2	247156002

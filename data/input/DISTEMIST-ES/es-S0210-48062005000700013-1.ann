@@ -1,0 +1,12 @@
+T1	pathologie 38 42	lúes
+T2	pathologie 44 53	hepatitis
+T3	pathologie 187 195	fístulas
+T4	pathologie 934 1003	fístula arterio-cavernosa en la porción proximal del cuerpo cavernoso
+T5	pathologie 1035 1059	fístula arteriocavernosa
+T6	pathologie 1175 1207	priapismo arterial de alto flujo
+#1	SNOMED T5	300514006
+#2	SNOMED T1	76272004
+#3	SNOMED T2	128241005
+#4	SNOMED T6	441545004
+#5	SNOMED T3	428794004
+#6	SNOMED T4	33958003

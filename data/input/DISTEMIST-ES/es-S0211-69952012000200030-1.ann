@@ -1,0 +1,23 @@
+T1	pathologie 51 54	HTA
+T2	pathologie 56 75	hipercolesterolemia
+T3	pathologie 77 88	disglucosis
+T4	pathologie 90 98	obesidad
+T5	pathologie 100 124	síndrome coronario agudo
+T6	pathologie 143 154	único riñón
+T7	pathologie 183 274	enfermedad renal crónica en estadio 3 (Guías K/DOQUI) secundaria a una nefropatía isquémica
+T8	pathologie 254 274	nefropatía isquémica
+T9	pathologie 331 368	estenosis crítica de la arteria renal
+T10	pathologie 381 393	hipertensión
+T11	pathologie 1068 1079	hipotensión
+T12	pathologie 1297 1318	cardiopatía isquémica
+T13	pathologie 1344 1363	trombosis del stent
+T14	pathologie 1431 1460	trombosis de la arteria renal
+T15	pathologie 1510 1529	migración del stent
+T16	pathologie 2075 2101	insuficiencia respiratoria
+T17	pathologie 2211 2235	hematoma retroperitoneal
+T18	pathologie 2313 2331	shock distributivo
+T19	pathologie 2366 2410	síndrome de respuesta inflamatoria sistémica
+T20	pathologie 2413 2440	insuficiencia renal anúrica
+T21	pathologie 2474 2541	fallo multiorgánico secundario a complicaciones de cirugía vascular
+T22	pathologie 2558 2572	isquemia renal
+T23	pathologie 2659 2664	shock

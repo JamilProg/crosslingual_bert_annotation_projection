@@ -1,0 +1,18 @@
+T1	pathologie 148 163	flemón dentario
+T2	pathologie 221 265	caries en el segundo molar de leche inferior
+T3	pathologie 502 508	flemón
+T4	pathologie 514 524	adenopatía
+T5	pathologie 640 646	flemón
+T6	pathologie 932 959	absceso en borde submaxilar
+T7	pathologie 1135 1159	lesión cervical ulcerada
+T8	pathologie 1480 1486	úlcera
+T9	pathologie 1659 1667	cicatriz
+#1	SNOMED T8	429040005
+#2	SNOMED T2	80967001
+#3	SNOMED T5	299709002
+#4	SNOMED T6	17133001
+#5	SNOMED T3	299709002
+#6	SNOMED T4	30746006
+#7	SNOMED T1	299709002
+#8	SNOMED T9	275322007
+#9	SNOMED T7	118939000

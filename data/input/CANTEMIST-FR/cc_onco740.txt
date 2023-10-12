@@ -1,0 +1,47 @@
+Anamnèse
+Homme, 61 ans, marié, père de deux enfants, retraité. Ses antécédents personnels comprennent une obésité de grade 1, une bronchite chronique diagnostiquée en 2014 avec une insuffisance respiratoire associée nécessitant une oxygénothérapie à domicile depuis 2016, une colite ulcéreuse diagnostiquée en 2007 sous traitement médical et un zona lombaire gauche avec névralgie post-herpétique depuis novembre 2016.
+Ex-fumeur, avec une consommation cumulée de 50 paquets par an, sans antécédents familiaux pertinents.
+
+Examen physique
+"ECOG 1, conscient, orienté et coopératif. Coloration et hydratation normales. Obésité.
+"Tête et cou : pupilles isochores et normoréactives. Nerfs crâniens normaux.
+"Pas de lymphadénopathie latérocervicale, axillaire ou supraclaviculaire.
+"Pas d'ingurgitation jugulaire à 45º.
+"Auscultation cardiaque : tonalités rythmiques sans souffle audible.
+"Auscultation respiratoire : légère hypophonie généralisée dans les deux champs pulmonaires avec respiration sifflante occasionnelle et dispersée.
+"Percussion bilatérale du poing rénal négative. Spinopercussion négative.
+"Abdomen globuleux, mou et dépressible, sans masses ni mégalithes. Aucun point sensible à la palpation superficielle ou profonde.
+"Lésion érythémateuse résiduelle d'une infection récente à l'herpès zoster au niveau lombaire inférieur gauche en cours de cicatrisation.
+"Extrémités : pas d'œdème. Pouls présents, réflexes conservés.
+
+Tests complémentaires
+Examens de laboratoire
+"Bilirubine totale : 0,27 mg/dl ; AST : 17 UI/l ; ALT : 17 UI/l ; FA : 69 UI/l ; LDH : 186 UI/l ; GGT : 39 UI/l.
+"Sodium : 137 mEq/l ; potassium : 4,4 mEq/l ; chlorure : 96 mEq/l. Créatinine : 0,8 mg/dl ; indice de Cockroft : 151 ml/min ; MDRD : >60 ml/min/1,73 mE2 ; CKD-EPI créatinine : > 90 ml/min/1,73 mE2.
+"Globules rouges : 4,49 10E12/l ; Hb : 9,6 g/dl ; Hto : 32,5 % ; MCV : 72,4 fl ; MCH : 21,4 pg ; MCHC : 29,5 g/dl ; RDW : 17,3 % ; plaquettes : 427 10E9/l ; PWV : 9,1 fl ; PDW : 8,9 % ; PTC : 0,4 % ; leucocytes : 13,6 10E9/l ; neutrophiles : 63,9 % ; Neu : 8,7 10E9/l ; lymphocytes : 22,2 % ; Lin : 3,03 10E9/l ; monocytes : 7,6 % ; Mon : 1,04 10E9/l ; éosinophiles : 5,6 % ; Eos : 0,77 10E9/l ; basophiles : 0,7 % ; Bas : 0,1 10E9/l.
+Radiologie
+" IRM cérébrale (07/03/2017) : leucoaraïose de grade 1 sur l'échelle de Fazekas. Petit infarctus cérébelleux chronique droit.
+Autres examens complémentaires
+" Stade oncologique (08/03/2017) : néoplasme pulmonaire en LII, infiltration pleurale gauche et lésion tumorale dans le muscle latissimus dorsi gauche.
+" FNA avec échographie musculo-squelettique (09/03/2017) : biopsie d'un nodule hypoéchogène avec hyperenhancement à la TEP.
+" Rapport d'anatomopathologie (09/03/17) : métastase d'un carcinome épidermoïde.
+
+Diagnostic
+Carcinome épidermoïde pulmonaire de stade IV dans le lobe inférieur droit en raison de métastases pleuropulmonaires gauches et dans le muscle latissimus dorsi gauche.
+
+Traitement
+"Première ligne : cisplatine-gemcitabine.
+"Deuxième ligne : docétaxel.
+"Troisième ligne : erlotinib.
+"Quatrième ligne : osimertinib.
+
+Évolution
+En mai 2016, lors d'un contrôle médical pour une BPCO, un scanner a révélé la croissance d'un nodule dans le segment apical du lobe inférieur droit. Une ponction à l'aiguille fine guidée par tomodensitométrie a été réalisée et le diagnostic de carcinome épidermoïde du poumon a été posé. L'étude d'extension de la TEP n'a montré qu'un nodule malin de 2,6 cm dans le segment postérieur du lobe inférieur droit. Entre juin et juillet 2016, il a été traité par radiothérapie (SBRT).
+En août 2016, un nodule suspect dans le lobe inférieur du poumon gauche a été détecté par tomodensitométrie. Une FNA a été réalisée en septembre avec un diagnostic de carcinome épidermoïde. En octobre, une TEP/TDM a été réalisée, qui a montré une prise pathologique de la tumeur dans le poumon gauche et dans les ganglions médiastinaux. En novembre, une FNA transbronchique des ganglions lymphatiques médiastinaux a été réalisée avec des résultats négatifs pour les cellules malignes.
+Entre décembre 2016 et février 2017, dans l'attente d'une radiothérapie sur le poumon gauche, il a présenté une dyspnée en rapport avec un épanchement pleural gauche, nécessitant plusieurs thoracentèses pour évacuation (cytologie négative pour les cellules malignes). En février 2017, un scanner a été réalisé qui a montré un épaississement pleural nodulaire dans l'hémithorax gauche évocateur d'une atteinte métastatique et une consolidation de distribution péribronchique dans le lobe inférieur gauche et la lingula évocatrice d'un carcinome.
+En mars 2017, il a demandé un deuxième avis. Un PET scan a été réalisé qui a montré un carcinome connu dans le LII, une infiltration tumorale de la plèvre gauche et une métastase possible dans le muscle latissimus dorsi gauche. Une FNA de la lésion dans le muscle latissimus dorsi gauche a été réalisée et a permis de diagnostiquer une métastase de carcinome épidermoïde. Le panel moléculaire Oncomine Focus Panel 52 a été réalisé, montrant une délétion des exons 2 à 7 de l'EGFR. La stadification a été complétée par une IRM cérébrale dans laquelle aucun signe de dissémination n'a été trouvé.
+En avril 2017, elle a commencé un traitement de chimiothérapie avec du cisplatine 50 mg/m2 et de la gemcitabine 800 mg/m2 en cycles de 14 jours. En mai, elle a développé une pneumonie associée aux soins, pour laquelle elle a nécessité un traitement antibiotique. Quelques jours plus tard, il a présenté une dyspnée aiguë avec désaturation jusqu'à 65 % malgré une oxygénothérapie continue, suivie d'une perte de conscience. Une angio-TDM a révélé une thromboembolie bilatérale et un traitement anticoagulant à base d'héparine de bas poids moléculaire (HBPM) a été mis en place.
+En juin, le patient a été admis pour une dyspnée progressive, de la fièvre et une thrombopénie de grade 4. Il a nécessité une transfusion de plaquettes, en ajustant la dose d'anticoagulation avec la récupération des chiffres analytiques. Il a poursuivi son traitement de chimiothérapie avec une réduction de 25 % de la dose totale, tout en continuant à bien tolérer le traitement. En juillet, le patient a présenté un ténesme rectal intense avec hématochézie, associé à un syndrome fébrile. Nous avons demandé une évaluation par le service digestif, car nous soupçonnions une possible épidémie de colite ulcéreuse.
+Clostridium difficile a été isolé et un traitement au métronidazole a été instauré. Il a également présenté des chiffres glycémiques altérés dans le contexte du traitement aux stéroïdes et a donc été évalué par le service d'endocrinologie, qui a diagnostiqué un diabète sucré de type 2 avec un mauvais contrôle glycémique (hémoglobine glycosylée de 8,2 %), initiant un traitement aux antidiabétiques oraux et à l'insuline. La patiente a poursuivi son traitement par chimiothérapie jusqu'au mois d'août en raison de la progression de la maladie dans les poumons et le foie, avec l'apparition d'une nouvelle lésion évoquant une métastase. Une deuxième ligne de chimiothérapie par docétaxel a été débutée avec une bonne tolérance.
+Lorsque la nouvelle progression de la maladie a été confirmée en octobre, une nouvelle ligne de traitement a été envisagée, en commençant l'erlotinib 150 mg (1 comprimé/jour), en raison de la comorbidité et de l'étude moléculaire, bien que n'ayant pas présenté de mutation classique de sensibilité. Les inhibiteurs de tyrosine kinase gefitinib et erlotinib ont démontré une activité anti-tumorale dans le traitement du cancer du poumon non à petites cellules avec mutation de l'EGFRvIII. Il a ensuite présenté une réponse radiologique et chimique de la maladie.
+En janvier 2018, il a présenté une progression thoracique. Une biopsie liquide a été demandée pour la détermination cfDNA de la mutation de résistance T790M. Un traitement a été initié avec l'osimertinib, un inhibiteur de tyrosine kinase (ITK), indiqué pour le traitement du cancer du poumon non à petites cellules (CPNPC) localement avancé ou métastatique positif à la mutation T790M du récepteur du facteur de croissance épidermique (EGFR).

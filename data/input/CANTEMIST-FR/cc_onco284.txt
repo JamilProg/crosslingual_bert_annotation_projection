@@ -1,0 +1,37 @@
+Anamnèse
+Antécédents personnels :
+Il s'agit d'un homme de 65 ans originaire d'Uruguay, ex-fumeur de 5 cigarettes par jour depuis 2015, hypertendu et présentant une stéatose hépatique, sous traitement par valsartan/hydrochlorothiazide, furosémide et oméprazole.
+Il vit chez lui avec sa famille, mène une vie active et a travaillé comme agent d'entretien.
+Ses antécédents familiaux comprennent un oncle chez qui on a diagnostiqué une tumeur gastro-intestinale à un âge avancé et un cousin chez qui on a diagnostiqué une tumeur cérébrale à l'âge de 60 ans.
+
+Antécédents oncologiques :
+Le patient est évalué par l'urologie en janvier 2011 pour une hématurie. Une étude échographique a été réalisée, mettant en évidence un contenu hyperéchogène dans la vessie, probablement lié à des calculs. Deux tests cytologiques sont négatifs pour la malignité, mais la cystoscopie montre une zone de nécrose, de sorte qu'en novembre 2011, une résection transurétrale (RTU) est effectuée, trouvant des lésions sur le latéral droit, le latéral gauche, l'antérieur et le dôme de la vessie avec un aspect nécrotique, et une résection incomplète a été effectuée. Le résultat de l'anatomie pathologique était cohérent avec des fragments d'adénocarcinome avec un motif mucineux, avec la présence de cellules en anneau de signet, et focalement entéroïde, entremêlés avec des fragments de carcinome urothélial de bas grade, qui ont infiltré la lamina propria.
+L'étude immunohistochimique a montré une expression de CDX2, il fallait donc éliminer une infiltration par un adénocarcinome d'origine digestive.
+Un scanner abdominopelvien a été réalisé en janvier 2012, montrant une masse pelvienne de 10,4 x 7,8 cm, dépendant de la paroi antérieure et du dôme vésical. Elle présentait une composante antéro-supérieure, de nature kystique, et une composante postéro-inférieure au niveau de la paroi vésicale épaissie, avec de multiples calcifications indiquant des changements nécrotiques. La masse s'étendait crânialement vers la cavité abdominale, entrant en contact avec le muscle droit antérieur de l'abdomen et le sigma, sans signe d'atteinte ganglionnaire ou à distance.
+
+Une coloscopie a été réalisée pour exclure une néoplasie dans le côlon, et aucune lésion suspecte n'a été observée, seulement quelques polypes hyperplasiques dans le cæcum et le sigma.
+Le 29 février 2012, une cystoprostatectomie radicale a été réalisée avec lymphadénectomie iliaque obturatrice bilatérale et dérivation urinaire de type Bricker.
+Le résultat de l'étude anatomopathologique était une pièce de cystoprostatectomie radicale, élargie avec du tissu fibro-adipeux et musculaire rejoignant le dôme vésical et la peau ombilicale, avec un adénocarcinome mucineux (colloïde) localisé dans la graisse périvésicale du dôme vésical, sur les faces antérieure et latérale de la vessie. L'atteinte était transmurale, ce qui expliquait l'hématurie.
+Elle a infiltré l'urachus dans la zone d'implantation du dôme vésical, sans vestige urachalien non tumoral. Il y avait une invasion périneurale mais pas vasculaire, sans atteinte du ganglion réséqué, de la prostate, de la marge urétrale ou radiale ou du muscle squelettique de la paroi abdominale. Il s'agissait donc d'un stade pT3b pN0 cM0.
+Après avoir revu le cas lors d'une séance multidisciplinaire avec le service d'anatomie pathologique, il a été considéré que le résultat le plus concordant était qu'il s'agissait d'un adénocarcinome d'origine urachique, malgré le fait qu'aucun vestige urachique n'ait été observé dans le cordon fibreux qui reliait la vessie à l'ombilic. La positivité de la bêta-caténine était en faveur d'une origine vésicale-urachienne primaire et non d'une atteinte colique secondaire.
+Le patient a continué à être suivi par l'urologie sans aucun signe de maladie jusqu'en juillet 2015, date à laquelle il s'est rendu aux urgences.
+
+Examen physique
+Il présentait des œdèmes dans les membres inférieurs, sans signe d'insuffisance cardiaque.
+L'examen a révélé un ECOG PS 0 et une distension abdominale frappante avec palpation d'une masse ou d'un conglomérat de pierres au niveau pelvien.
+
+Tests complémentaires
+Il avait une créatinine de 1,15 mg/dl et un taux de filtration glomérulaire > 60 ml/min/1,73 m2.
+Une thrombose veineuse profonde a été exclue par écho-Doppler, et un scanner abdomino-pelvien a montré une carcinomatose péritonéale dans tous les compartiments abdominaux avec des implants coalesçant pour former une large masse pelvienne, suggérant une récidive et conduisant à une urétérohydronéphrose gauche secondaire de grade III-IV /IV, sans autre preuve d'une atteinte à distance.
+Le patient a dû subir une néphrostomie gauche et l'étude a été complétée par un scanner thoracique montrant un épanchement pleural droit et de nouvelles adénopathies dans la région prévasculaire, l'espace cardiophrénique droit et des ganglions lymphatiques hilaires droits non spécifiques. L'analyse des marqueurs tumoraux a montré une élévation de l'antigène carcinoembryonnaire (A.C.E.) à 5,8 ng/ml (0,0 - 3,0), de l'antigène CA 19-9 à 45,0 U/ml (0,0 - 40,0) et de l'antigène CA 125 à 96,0 U/ml (0,0 - 35,0).
+Une FNA de l'atteinte péritonéale a été réalisée le 24 juillet 2015 et correspondait à un adénocarcinome mucineux (colloïde) avec un composant cellulaire en forme de chevalière.
+
+Diagnostic
+Diagnostiqué d'un adénocarcinome urachalien de stade IV à la suite d'une rechute péritonéale, il a été adressé au service d'oncologie médicale pour évaluer le traitement.
+
+Traitement
+Compte tenu de l'expérience limitée publiée chez ces patients, deux schémas principaux sont envisagés : 5-FU + Leucovorine + Gemcitabine + Cisplatine ou FOLFOX 6.
+Elle a commencé le traitement le 6 août 2015 selon le schéma XELOX (Oxaliplatine 130 mg/m2, Capecitabine 1000 mg/m2) avec une réponse partielle après trois cycles, et a terminé jusqu'à 8 cycles en janvier 2016 et a commencé une maintenance avec la capecitabine avec une évolution favorable.
+
+Evolution
+Il a montré une bonne tolérance au traitement par chimiothérapie, avec un épisode intercurrent d'infection urinaire compliquée par une hémorragie de Bricker chez un patient avec un double J (après fermeture de la néphrostomie), qui a été résolu avec l'antibiothérapie.

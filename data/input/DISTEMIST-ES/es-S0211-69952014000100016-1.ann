@@ -1,0 +1,32 @@
+T1	pathologie 51 124	insuficiencia renal crónica terminal secundaria a enfermedad poliquística
+T2	pathologie 337 358	rechazo celular agudo
+T3	pathologie 665 680	sinusitis aguda
+T4	pathologie 768 784	proptosis ocular
+T5	pathologie 839 847	diplopía
+T6	pathologie 849 856	epífora
+T7	pathologie 858 875	úlcera en paladar
+T8	pathologie 1032 1065	úlcera extensa en el paladar duro
+T9	pathologie 1067 1083	proptosis ocular
+T10	pathologie 1085 1098	oftalmoplejia
+T11	pathologie 1100 1136	pérdida de la visión por ojo derecho
+T12	pathologie 1403 1407	MROC
+T13	pathologie 1565 1574	sinusitis
+T14	pathologie 1587 1611	absceso cerebral frontal
+T15	pathologie 1772 1791	infección por Mucor
+T16	pathologie 2557 2566	infección
+#1	SNOMED T1	723190009
+#2	SNOMED T3	15805002
+#3	SNOMED T4	18265008
+#4	SNOMED T7	300952004
+#5	SNOMED T8	300952004
+#6	SNOMED T9	18265008
+#7	SNOMED T10	16110005
+#8	SNOMED T11	274572000
+#9	SNOMED T13	36971009
+#10	SNOMED T14	60404007
+#11	SNOMED T16	40733004
+#12	SNOMED T2	40442005
+#13	SNOMED T12	187100003
+#14	SNOMED T15	31819001
+#15	SNOMED T5	24982008
+#16	SNOMED T6	49393005

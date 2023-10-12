@@ -1,0 +1,22 @@
+T1	pathologie 129 151	hematuria macroscópica
+T2	pathologie 496 533	quistes sinusales renales bilaterales
+T3	pathologie 576 616	distorsión pielocalicial por los quistes
+T4	pathologie 945 951	lesión
+T5	pathologie 989 1033	adenocarcinoma que infiltra la pared vesical
+T6	pathologie 1316 1333	uraco persistente
+T7	pathologie 1375 1380	tumor
+T8	pathologie 2035 2051	líquido ascítico
+T9	pathologie 2112 2135	adenocarcinoma de uraco
+T10	pathologie 2548 2624	adenocarcinoma mucinoso de uraco con extensión a vejiga urinaria y peritoneo
+T11	pathologie 2685 2708	pseudomixoma peritoneal
+#1	SNOMED T2	253883006
+#2	SNOMED T3	722223000
+#3	SNOMED T9	363456000
+#4	SNOMED T5	255110003
+#5	SNOMED T1	197941005
+#6	SNOMED T6	34351008
+#7	SNOMED T8	13124004
+#8	SNOMED T10	682031000119109+94186002+94627008
+#9	SNOMED T11	307601000
+#10	SNOMED T4	417163006
+#11	SNOMED T7	55342001

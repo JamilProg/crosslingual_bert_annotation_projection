@@ -1,0 +1,22 @@
+Anamnèse
+En janvier 2000, un homme de 46 ans a été opéré pour une tumeur testiculaire. Une orchidectomie droite a été pratiquée et les résultats ont montré un séminome pur pT2 dû à l'invasion du rete testis, sans atteinte des ganglions lymphatiques ou des organes distants ; Après un an de suivi, de multiples nodules pulmonaires sont apparus associés à une tumeur hilaire gauche avec occlusion de la bronche supérieure ipsilatérale qui, une fois biopsiée, s'est avérée compatible avec une tumeur d'origine testiculaire, et a été traitée par BEP (bléomycine, étoposide, cisplatine) pendant 3 cycles, avec une rémission complète. Le patient a bénéficié du suivi indiqué, sans aucun signe analytique ou radiologique de rechute jusqu'en 2004 au moins, date à laquelle il a cessé de se présenter aux examens prévus.
+En mars 2014, le patient a consulté pour une dyspnée d'effort et des douleurs pleurales, qui ont été initialement traitées comme une infection respiratoire avec de l'amoxicilline-acide clavulanique pendant 7 jours, mais sans amélioration clinique, de sorte qu'une radiographie thoracique a été réalisée, qui a montré une image de ballon lâche avec une implication de tous les segments des deux champs pulmonaires.
+L'étude complémentaire a montré une ?-fétoprotéine et une ?-HCG normales, et un scanner a révélé de multiples lésions métastatiques pulmonaires bilatérales d'un diamètre maximal de 4,5 cm, des adénopathies médiastinales pathologiques et une masse hétérogène suspecte de 6,5 cm sur la surrénale gauche.
+
+Examen physique
+L'examen physique révèle un aspect cushingoïde avec une obésité tronculaire, une atrophie des muscles des membres inférieurs, des stries abdominales et une hypertension artérielle.
+
+Examens complémentaires
+- Une étude endocrinologique complète est demandée compte tenu du tableau clinique d'hypercortisolisme (ACTH basale < 0,5 pg/ml [9-55], cortisol basal 23,5 ?g/dL [4,3-22,4], cortisol à 23 heures 25,8, androstènedione > 5,5 ng/ml [0,4-3,3], DHEAS 367,37 ?g/dL [80-560]), résultats compatibles avec un syndrome de Cushing surrénalien, il débute donc un traitement par kétoconazole 200 mg toutes les 8 heures.
+- Une bronchoscopie a été réalisée avec biopsie des lésions péribronchiques, avec des résultats négatifs pour la malignité, de sorte qu'une biopsie à l'aiguille guidée par CT d'une lésion pulmonaire a été réalisée, avec des résultats similaires.
+- Enfin, dans le but d'avoir suffisamment de tissu tumoral pour l'étude anatomo-pathologique, une discussion a eu lieu avec le service de chirurgie thoracique, qui a effectué une segmentectomie atypique du lobe inférieur gauche par vidéothoracoscopie, et les résultats ont été rapportés comme un coin pulmonaire avec métastase de carcinome compatible avec une origine surrénalienne.
+- Une TEP-TDM a été réalisée et a montré une captation avec un SUVmax de 9,4 dans les multiples lésions pulmonaires et de 7,7 dans la masse surrénalienne, sans aucun signe de tissu tumoral ayant une affinité pour le FDG dans d'autres localisations.
+
+Diagnostic
+Carcinome surrénalien cT2 Nx M1 (stade IV).
+
+Traitement
+Le diagnostic étant celui d'un carcinome surrénalien disséminé avec une charge tumorale élevée, le traitement a commencé par un schéma mitotane-EDP (étoposide, doxorubicine, cisplatine), en commençant par une médication orale et 5 jours plus tard par une chimiothérapie, dont elle n'a reçu qu'un seul cycle.
+
+Evolution
+Actuellement, après le premier cycle de chimiothérapie, le patient signale une amélioration des symptômes et, d'un point de vue analytique, le contrôle de l'hypercortisolisme se distingue.

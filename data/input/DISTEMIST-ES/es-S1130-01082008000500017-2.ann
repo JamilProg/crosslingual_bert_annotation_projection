@@ -1,0 +1,10 @@
+T1	pathologie 750 762	coagulopatía
+T2	pathologie 968 976	lesiones
+T3	pathologie 1027 1052	infección crónica por VHB
+T4	pathologie 1140 1143	HCC
+T5	pathologie 1170 1187	infección por VHB
+#1	SNOMED T3	66071002
+#2	SNOMED T4	109841003
+#3	SNOMED T5	66071002
+#4	SNOMED T1	64779008
+#5	SNOMED T2	157670007

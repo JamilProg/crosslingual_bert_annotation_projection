@@ -1,0 +1,14 @@
+T1	pathologie 224 236	traumatismos
+T2	pathologie 286 307	hipertensión arterial
+T3	pathologie 310 350	diabetes mellitus no insulinodependiente
+T4	pathologie 787 804	apendicitis aguda
+T5	pathologie 817 837	proceso neoformativo
+T6	pathologie 908 916	hematoma
+T7	pathologie 1155 1245	extravasación hemática a nivel de tejidos subserosos de ciego con focos de abscesificación
+#1	SNOMED T2	38341003
+#2	SNOMED T3	44054006
+#3	SNOMED T4	85189001
+#4	SNOMED T5	55342001
+#5	SNOMED T6	385494008
+#6	SNOMED T7	711441008+128477000
+#7	SNOMED T1	417746004

@@ -1,0 +1,10 @@
+T1	pathologie 45 53	fumadora
+T2	pathologie 144 179	infecciones urinarias de repetición
+T3	pathologie 244 271	lesión nodular intravesical
+T4	pathologie 348 358	tumoración
+T5	pathologie 2053 2096	tumor miofibroblástico inflamatorio vesical
+#1	SNOMED T4	300848003
+#2	SNOMED T1	77176002
+#3	SNOMED T5	771233008
+#4	SNOMED T2	197927001
+#5	SNOMED T3	126885006

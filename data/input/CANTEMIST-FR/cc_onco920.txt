@@ -1,0 +1,34 @@
+Anamnèse
+Homme, 73 ans, indépendant pour les activités de base de la vie quotidienne. Ex-fumeur depuis 22 ans et aucune autre habitude toxique. Antécédents médicaux intéressants : hypertension artérielle de longue date, fibrillation auriculaire permanente anticoagulée par l'acénocoumarol et bronchopneumopathie chronique obstructive (BPCO) sévère avec oxygénothérapie à domicile. Sous traitement régulier par antihypertenseurs, pantoprazole et aérosolthérapie.
+Il a été diagnostiqué en octobre 2014 avec un adénocarcinome du tiers distal de l'œsophage (T3Nx, M0 c-erb2 négatif), étant présenté au comité d'oncologie pour évaluer la résécabilité, qui a été rejetée en raison de la comorbidité pulmonaire élevée et du risque chirurgical élevé nécessitant une oesophagastrectomie totale. C'est pourquoi il a finalement été décidé de traiter le patient par une chimiothérapie concomitante et une radiothérapie radicale.
+Il a reçu un traitement par paclitaxel + carboplatine hebdomadaire, ainsi qu'une radiothérapie (50Gy) de février à avril 2015. Une stabilisation de la maladie a été observée à la fois au scanner et à la gastroscopie, il a donc été décidé de faire un suivi en consultation.
+Elle a été admise en septembre 2016 pour un syndrome fébrile de haut grade accompagné de frissons sans focalisation apparente. Au cours de celle-ci, les examens d'imagerie (scanner) ont révélé une nouvelle lésion splénique hypodense, qui pourrait être liée à une lésion métastatique.
+Au vu de ces résultats, la maladie a été considérée comme progressant et une chimiothérapie FOLFIRI a été entamée dans un but palliatif (il a reçu jusqu'à trois cycles).
+En octobre 2016, le patient a été réadmis en raison d'un pic de fièvre sans qu'aucune cause n'ait été identifiée. Une étude a été réalisée avec des leucocytes marqués sans détecter de lésion présentant une avidité pour le traceur, de sorte qu'un foyer infectieux a été exclu à ce moment-là. Un nouveau scanner abdominal a été réalisé pour réévaluation, montrant une augmentation de la taille de la lésion splénique par rapport aux études précédentes (de 22 mm à 35 mm).
+Le patient a été réadmis en octobre 2016 pour un nouvel état fébrile allant jusqu'à 38,5 ºC, avec une mauvaise fermeture de la plaie chirurgicale après l'implantation du réservoir (port a cath), bien que sans signe de surinfection. Les hémocultures ont isolé Streptococcus intermedius et un traitement antibiotique a été mis en place, puis le réservoir a été retiré et placé sur le côté controlatéral sans incident.
+En décembre 2016, il a été réadmis en choc septique, nécessitant un traitement par noradrénaline en raison d'un nouveau syndrome fébrile de haut grade avec 24 heures d'évolution, accompagné de frissons. Il n'y avait pas de signe de focalisation : le patient n'a signalé aucun symptôme respiratoire, aucune altération des habitudes gastro-intestinales, ni aucun autre type de symptôme mictionnel.
+
+Examen physique
+À son arrivée aux urgences, le patient était fébrile (38,7 ºC), avec une tension artérielle de 110/65 mm Hg. Il maintient une bonne diurèse et une saturation acceptable avec des lunettes nasales à 3L.
+Le patient est conscient, orienté et coopératif. En bon état général. Bonne perfusion et hydratation. Lors de l'auscultation cardiorespiratoire, on observe des tonalités arythmiques et une hypoventilation à la base gauche. L'abdomen est excavé, mou et dépressible, indolore, sans masse palpable ni mégalithes, sans signes de péritonisme et avec des bruits hydro-aériens.
+La région du réservoir ne présente aucun signe de surinfection et aucune douleur à la palpation.
+
+Examens complémentaires
+Examens de laboratoire à l'admission : leucocytose discrète (10,3 x 10,9/l) avec forte élévation de la procalcitonine (22,84 ng/ml) et de la CRP (114 mg/l).
+En outre, une radiographie d'admission a été effectuée, qui n'a pas montré d'images claires de condensation ou d'épanchement.
+Dans le service, une échocardiographie a été réalisée, qui s'est révélée négative pour l'endocardite, ainsi qu'un scanner thoraco-abdominal montrant trois grandes lésions hypodenses avec une densité de liquide répartie du hile à la périphérie, pour lesquelles une infection n'a pas pu être exclue, ainsi qu'un épanchement pleural modéré.
+Au vu de ces résultats, une échographie abdominale a été réalisée, qui a révélé deux zones hétérogènes visibles (principalement hypoéchogènes) mesurant jusqu'à 45 x 39 mm de diamètre, qui semblaient être des abcès spléniques.
+Des hémocultures différentielles ont été réalisées (réservoir et voie périphérique), dans lesquelles Staphylococcus epidermidis s'est développé avec un temps de croissance différentiel non significatif.
+
+Diagnostic
+Au vu des résultats des examens complémentaires et des manifestations cliniques du patient, le diagnostic de bactériémie due à Streptococcus intermedius multisensible, responsable de la fièvre, a été posé, et les trois lésions spléniques ont été diagnostiquées comme des abcès, constituant probablement le foyer infectieux initial, avec un épanchement pleural associé.
+
+Traitement
+Initialement, compte tenu du tableau de choc septique et de la forte élévation des réactifs de phase aiguë, le patient a reçu une antibiothérapie empirique à base de céfépime, puis de ceftriaxone après l'isolement de S. epidermidis dans les hémocultures. Après stabilisation clinique, un Pleur-evac a été mis en place et un drainage par ponction-aspiration échoguidée de deux des trois collections spléniques a été réalisé (l'une d'entre elles a persisté car elle n'était pas accessible), dont la culture s'est également révélée positive pour S. intermedius.
+Compte tenu de l'état général du patient et du tableau infectieux important, il a été décidé d'interrompre pour le moment le traitement par chimiothérapie.
+
+Evolution
+Le patient a présenté une très bonne évolution clinique, avec disparition de la fièvre et amélioration de l'état général. En outre, l'évolution radiologique des abcès spléniques a été favorable, avec une réduction significative de leur taille en réponse au traitement antibiotique. Le patient a été renvoyé chez lui avec le même traitement antimicrobien.
+Quatre semaines plus tard, l'état général du patient a continué à se détériorer et un scanner de contrôle a montré des lésions spléniques persistantes qui nous ont amenés à supposer une origine métastatique avec surinfection des lésions.
+Un scanner de réévaluation a été demandé, montrant une progression de la maladie oncologique avec une augmentation de la taille de la tumeur dans l'œsophage distal s'étendant à la jonction œsophagogastrique et au fundus, ainsi que des nodules épiploïques suggérant des implants nodulaires.
+En raison de ces résultats et du mauvais état général du patient, il a été décidé de suspendre définitivement le traitement par chimiothérapie et d'envoyer le patient à l'unité de soins continus pour un suivi.

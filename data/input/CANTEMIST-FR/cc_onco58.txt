@@ -1,0 +1,23 @@
+Anamnèse
+Le terme abscopal vient du latin ab ("hors de") et scopus ("cible"). L'effet abscopal est défini comme la régression de la tumeur dans des sites corporels autres que celui où le traitement local, généralement la radiothérapie1, a eu lieu, bien qu'il soit également décrit après la chirurgie.
+
+54 ans, mariée, mère de trois enfants en bonne santé. Chef d'entreprise, actuellement inactive. Fumeuse de 20 cigarettes par jour. Aucune allergie médicamenteuse connue. Coliques néphrétiques répétées. Polypes du côlon qui ont dû être enlevés. Son traitement à domicile est le loracepam 1 mg/24 h pour l'insomnie. Elle n'a pas d'antécédents familiaux de cancer.
+
+Elle s'est présentée aux urgences en août 2014 en raison de symptômes de dysesthésie dans la région frontale, périorbitaire et nasale d'une évolution de 5 jours. Sensation de vertige avec rotation des objets. Céphalées compressives non spécifiques et douleurs cervicales. Perte de poids de 7 kg en 6 jours. Dysgueusie.
+
+Examen physique
+Le patient était en bon état général. L'indice de Karnofsky est de 80 %. L'examen neurologique révèle une discrète ptose palpébrale droite et une légère altération de l'équilibre. L'auscultation cardio-pulmonaire a révélé une diminution généralisée du murmure vésiculaire. Le reste de l'examen physique était sans particularité.
+
+Tests complémentaires
+"L'hémogramme demandé aux urgences a montré une légère leucocytose (L 10600/uL) et une anémie minime (Hb 11 g/dL). La biochimie et la coagulation étaient normales. La radiographie du thorax a montré une masse aux contours mal définis mesurant 6 x 7 cm de diamètre, située dans le lobe supérieur gauche (LSI) et associée à des signes de bronchopathie chronique. Compte tenu des symptômes neurologiques de la patiente, une tomodensitométrie cérébrale a été demandée, qui a montré plusieurs images hyperdenses, situées dans la région frontale droite, l'hémisphère cérébelleux droit, le pons et le mésencéphale, compatibles avec des métastases cérébrales.
+"Au vu de ces résultats, il a été décidé d'hospitaliser le patient dans le service de pneumologie pour compléter l'étude. L'IRM cérébrale a confirmé la présence de multiples métastases cérébrales aux mêmes endroits que ceux décrits par le scanner. La bronchoscopie a révélé une masse maligne à l'entrée de la bronche principale du LSI. L'examen anatomopathologique était compatible avec un adénocarcinome pulmonaire. L'étude moléculaire s'est révélée négative pour les mutations EGFR et ALK. Le scanner corporel a montré la masse pulmonaire déjà connue dans le LSI avec un diamètre maximal de 7,2 cm, plusieurs implants péricardiques, de multiples adénopathies dans le hile ipsilatéral, un ganglion subcarinal de 1 cm et des signes de lymphangite associée. Au niveau abdominal, une masse de 35 mm a été visualisée dans la glande surrénale gauche, évoquant une métastase.
+
+Diagnostic
+Le diagnostic définitif était un adénocarcinome du poumon, stade IV (cT4N2M1b) avec mutations EGFR et ALK négatives. Au vu des résultats, le patient a été mis sous corticothérapie à haute dose (dexaméthasone 4 mg/8 heures) pendant l'admission, avec une amélioration rapide des symptômes neurologiques, et a été référé à notre département d'oncologie médicale pour évaluation et décision thérapeutique.
+
+Traitement
+En septembre 2014, le patient a reçu un traitement par radiothérapie holocrânienne, 30 Gy (10 x 3 Gy) avec une intention palliative. Lors des contrôles successifs, nous avons observé une amélioration radiologique spontanée significative de la masse pulmonaire après avoir reçu la RT cérébrale, le maintien de la stabilité clinique et la disparition des symptômes neurologiques. En décembre 2014, nous avons demandé une tomodensitométrie de suivi du corps, confirmant une rémission partielle de la maladie dans le cerveau, les poumons et le médiastin après le traitement par radiothérapie.
+
+
+Évolution
+Après trois mois de maintien de la réponse tumorale, une radiographie du thorax a montré une légère augmentation de la taille de la lésion pulmonaire. Il a alors été décidé, en accord avec la patiente, de débuter un traitement par chimiothérapie d'intention palliative selon un schéma gemcitabine 1 000 mg/m2 j1 et j8 + vinorelbine 25 mg/m2 j1 et j8 /21 jours. La patiente a reçu 6 cycles complets de QT avec une bonne tolérance et une nette amélioration de la maladie dans les examens d'imagerie. Elle est actuellement cliniquement stable, dans l'attente d'une réévaluation pour décider d'une nouvelle approche thérapeutique.

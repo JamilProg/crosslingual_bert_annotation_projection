@@ -1,0 +1,10 @@
+T1	pathologie 55 73	anemia ferropénica
+T2	pathologie 162 173	anemización
+T3	pathologie 299 324	reacción postransfusional
+T4	pathologie 834 917	anemia hemolítica intravascular de origen autoinmune por incompatibilidad sanguínea
+T5	pathologie 1366 1372	anemia
+#1	SNOMED T1	87522002
+#2	SNOMED T2	271737000
+#3	SNOMED T3	82545002
+#4	SNOMED T5	271737000
+#5	SNOMED T4	413603009

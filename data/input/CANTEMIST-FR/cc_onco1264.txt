@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 33 ans, allergique à l'acétylcystéine, fumeur de 10 cigares/jour et de marijuana de façon sporadique, sans autres antécédents médicaux pertinents.
+Depuis décembre 2012, il présente une infraversion du regard et une diplopie horizontale intermittente. Il a été évalué en neurologie, a commencé la corticothérapie et la pyridostigmine sans amélioration, et a été progressivement associé à une faiblesse des extrémités inférieures avec des attaques de chute et une démarche instable, pour laquelle il a été admis pour évaluation.
+Dans l'anamnèse par appareil, le patient a signalé une douleur testiculaire gauche irradiant dans la région lombaire.
+
+Examen physique
+IK 100. On note la palpation d'une adénopathie sus-claviculaire gauche dure, adhérente aux plans profonds. Il présente également un léger ptosis palpébral bilatéral, une limitation et une diplopie dans les mouvements du regard en infraversion et en superinférolatéral, avec déconjugaison du regard aux dépens du droit externe.
+En outre, la démarche est altérée avec une base d'appui accrue et un Romberg positif.
+
+Examens complémentaires
+Les examens de laboratoire ont révélé une légère leucocytose (formule normale) et une LDH de 1023 U/L. Tous les marqueurs testés - bHCG, AFP, CEA, CA 15.3, CA 19.9, CA 125 et PSA - sont normaux.
+L'IRM cérébrale est normale. Une échographie testiculaire montre de petites lésions solides dans le testicule gauche, et un scanner corporel montre une adénopathie supraclaviculaire gauche de 1,3 cm et un conglomérat adénopathique allant du hile rénal à la bifurcation aortique, avec une captation TEP.
+La biopsie de l'adénopathie sus-claviculaire a révélé une métastase due à un carcinome embryonnaire germinal, de sorte qu'après cryoconservation du sperme, une orchidectomie gauche radicale a été pratiquée. L'anatomie pathologique a révélé un séminome multifocal pur avec une large extension intertubulaire, une albuginée et un rete testis respectés, une thrombose partielle du plexus pampiniforme avec des cellules séminomateuses isolées dans la lumière vasculaire et des bords chirurgicaux libres.
+Un électrorétinogramme a également été réalisé, qui était normal, mais un PEV a montré une neuropathie optique bilatérale due à une atteinte modérée des fibres provenant de la vision centrale (maculaire). Une ponction lombaire confirme une synthèse intrathécale d'Ig. Les anticorps anti-neuronaux anti-Ma sont (+), alors que les anticorps anti-gangliosides et anti-récepteurs de l'acétylcholine sont (-).
+
+Diagnostic
+Tumeur germinale mixte S2pT2N2M1a, de pronostic intermédiaire selon la classification IGCCCG, stade IIIB de l'AJCC.
+Ophtalmoparésie d'origine paranéoplasique (anti-Ma+).
+
+Traitement
+Le BEP est mis en place, avec un PET scan lobaire avant le 2ème cycle, et un CT scan montrant la disparition des adénopathies.
+
+Évolution
+Cliniquement, la diplopie persiste avec la rémission de la paraparésie.

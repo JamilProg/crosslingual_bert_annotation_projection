@@ -1,0 +1,32 @@
+Anamnèse
+La patiente est une femme de 60 ans, originaire d'Ibiza, sans allergies médicamenteuses, sans habitudes toxiques, avec des antécédents de fracture tibia-péroné en 2010, de chirurgie pour varices du membre inférieur droit en 2005 et des antécédents familiaux d'un père décédé d'une néoplasie pulmonaire.
+Comme antécédent pertinent, elle a subi il y a trois ans une intervention chirurgicale avec excision d'une lésion cervicale et, un an et demi plus tôt, elle avait subi une excision de lésions cutanées, pour lesquelles nous ne disposons pas d'anatomie pathologique ni de rapports médicaux.
+Ses antécédents oncologiques ont commencé en novembre 2011, lorsqu'elle a consulté pour des palpitations et une lymphadénopathie axillaire droite, et a été envoyée au service de médecine interne ambulatoire pour un examen plus approfondi.
+
+Examen physique
+On palpe de multiples adénopathies axillaires droites, dont la plus grande mesure environ 2 cm : elles sont dures et adhèrent aux plans profonds. Il n'y a pas de lésions palpables sur le sein ou à d'autres endroits.
+Il n'y a pas de lésions cutanées suspectes et le reste de l'examen est sans particularité.
+
+Examens complémentaires
+La mammographie et l'échographie (22/12/2011) ont montré un aspect fibroglandulaire symétrique du sein, sans nodules spiculés ni regroupement de microcalcifications, avec la présence d'une microcalcification isolée dans le quadrant supéro-externe du sein gauche et une adénopathie axillaire droite.
+L'étude a été complétée par une échographie axillaire (22/12/2011) montrant un ganglion lymphatique élargi dans l'aisselle droite mesurant 2,5 par 2,1 cm, arrondi et avec une perte du centre graisseux normal, avec un flux Doppler accru et un contenu partiellement kystique.
+La tomodensitométrie (04/05/12) a montré une importante adénopathie de 32 mm dans la région axillaire droite avec une image nodulaire de 45 mm qui semblait solide et dépendant de la glande surrénale droite, sans autre lésion significative.
+Le PET CT scan (04/06/2012) a montré un hypermétabolisme dans de multiples adénopathies infiltrantes au niveau cervical, axillaire bilatéral et intra-abdominal ; également, une masse surrénalienne droite, compatible avec une métastase, une lésion dans le corps vertébral de D9, qui pourrait correspondre à une métastase osseuse.
+Une scintigraphie osseuse corps entier a également été réalisée (07/06/2012), qui a montré deux foyers ostéoblastiques peu intenses au niveau du cinquième arc costal droit et de D9, qui correspondent aux lésions décrites dans le PET scan. Aucune autre lésion n'a été trouvée.
+Une biopsie de l'adénopathie axillaire droite a été réalisée, avec des résultats histologiques compatibles avec une métastase due à un mélanome malin, avec une protéine S-100 positive, des cytokératines négatives et une mutation du gène BRAF au moyen d'une analyse de mutation V600 positive.
+
+Diagnostic
+Mélanome métastatique muté BRAF avec de multiples métastases ganglionnaires supra et infradiaphragmatiques, osseuses et surrénaliennes droites.
+
+Traitement
+Le 07/06/2012 elle a commencé un traitement par vemurafenib 960 mg toutes les 12 heures, inclus dans l'essai clinique MO25515.
+Evolution
+À la fin du premier cycle, une toxicité hépatique de grade quatre a été rapportée, avec des valeurs de bilirubine totale de 1,3 mg par ml, de GOT de 882 unités par litre (U/l) et de LDH de 698 U/l, ainsi qu'une toxicité cutanée de grade deux à trois, sous la forme de lésions caractéristiques de kératoacanthomes, de fièvre et d'asthénie sévère, et il a été décidé d'interrompre le traitement.
+Après quatre semaines de repos, une normalisation de la fonction hépatique et une bonne réponse clinique au niveau axillaire, le traitement a été repris, en réduisant la dose à 480 mg toutes les 12 heures, avec une bonne tolérance clinique, mais à nouveau une toxicité hépatique de grade 3, et le traitement a donc été à nouveau suspendu.
+Après quatre semaines, la fonction hépatique s'étant normalisée et compte tenu de la réponse clinique au niveau axillaire, il a été décidé de réintroduire le traitement à la même dose.
+Le scanner de contrôle du 03/08/12 a montré une diminution de l'adénopathie axillaire droite (de 30 à 20 mm), sans changement significatif de la masse pararénale droite et sans évidence de lésions osseuses.
+Ce résultat a été classé comme une réponse partielle et, comme elle était asymptomatique, avec un ECOG 0 et une excellente toxicité, il a été décidé de poursuivre le même traitement.
+Avant le cycle 13, neurotoxicité de grade 1, réponse clinique complète au niveau axillaire et réponse radiologique partielle au scanner de contrôle (14/02/2013) où l'on observe une adénopathie axillaire droite de 9 mm (mesurant 10 mm), l'absence d'adénopathie médiastinale et une masse pararénale droite de 37 par 9 mm (mesurant 51 par 26 mm), sans autre lésion notable.
+La patiente a poursuivi le traitement, avec une très bonne tolérance, les toxicités les plus notables étant des arthralgies et une photosensibilité de grade 1.
+Après un intervalle sans progression de 2 ans et 8 mois, le scanner de contrôle du 12/02/15 n'a montré aucune modification des adénopathies. Aucune autre adénopathie de taille significative n'a été observée. Des micronodules pulmonaires sous-pleuraux apparaissent dans le lobe inférieur droit, sans changement. Diminution de la taille de la lésion pararénale droite résiduelle, qui mesure maintenant 18 mm sur 8 mm. Foie, rate, pancréas, reins et glandes surrénales inchangés.
+Lors du dernier bilan par l'Oncologie, la patiente est restée asymptomatique, sans toxicité au traitement, mettant en évidence lors du dernier bilan tomodensitométrique (05/05/17) réalisé après le cycle 46, des adénopathies axillaires bilatérales de petite taille (non significatives en raison de la taille, la plus grande mesurant 7 mm) et une lésion résiduelle pararénale droite, sans changements significatifs.

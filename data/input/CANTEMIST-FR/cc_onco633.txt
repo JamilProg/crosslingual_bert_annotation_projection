@@ -1,0 +1,21 @@
+Anamnèse
+Ce cas présente une femme de 79 ans, non-fumeuse et non-buveuse, atteinte d'un syndrome myéloprolifératif chronique, d'une thrombocytémie essentielle probable avec une augmentation légère à modérée des mégacaryocytes dans la moelle osseuse, non-dysplasiques, avec une disposition paratrabéculaire anormale en amas, avec une légère augmentation de la trame réticulinique. Sous traitement d'indapamide retard, d'ispaghula, d'oméprazole, d'acide ibandronique, d'allopurinol, d'hydroxycarbamide, d'acide acétylsalicylique et de lorazepam. Elle vit avec son mari.
+La patiente a débuté avec un nodule suspect de 15 mm dans le sein gauche en janvier 2017, pour lequel elle a été étudiée avec les examens d'imagerie correspondants (CT et scintigraphie osseuse) et l'examen histopathologique (biopsie tru-cut), décidant de réaliser une tumorectomie avec biopsie sélective du ganglion lymphatique sentinelle plus radiothérapie suite aux résultats négatifs de l'étude d'extension précédemment réalisée. L'anatomopathologie a diagnostiqué un carcinome adénoïde kystique de grade 2, bords chirurgicaux libres, avec un ganglion lymphatique sur un total de deux présentant des micrométastases et une immunohistochimie classée comme triple négative (pT2N1miM0). Elle a commencé des examens de contrôle.
+En février 2019, elle s'est présentée aux urgences pour une dyspnée progressive, surtout en cas d'orthopnée ou d'effort modéré. Aux urgences, un épanchement pleural droit a été détecté et elle a été admise pour des examens complémentaires.
+
+Examen physique
+Au cours de l'examen physique, aucun ganglion lymphatique périphérique, masse ou nodule mammaire n'était palpable. Auscultation respiratoire avec hypoventilation de la base droite jusqu'au tiers supérieur, gauche normale. Le reste de l'examen physique par appareil n'a présenté aucune altération.
+ignos de la TVP
+
+Examens complémentaires
+Les examens d'imagerie réalisés (CT-PAT et scintigraphie osseuse) ont montré un épanchement pleural droit, des nodules pulmonaires et pleuraux bilatéraux évocateurs de métastases et des nodules diaphragmatiques antérieurs droits probablement liés à des adénopathies versus des implants tumoraux. Un drainage du liquide pleural a été effectué, avec des résultats négatifs pour la cellularité. Il a été décidé de procéder à une thoracoscopie au cours de laquelle la plèvre viscérale et pariétale a été observée avec des lésions suspectes de métastases. Une aspiration du liquide pleural et une biopsie des lésions pleurales pariétales ont été réalisées, et l'anatomie pathologique a révélé une infiltration pleurale compatible avec une néoplasie mammaire antérieure (adénoïde kystique).
+
+Diagnostic
+Finalement, on a diagnostiqué chez la patiente un carcinome adénoïde kystique métastatique d'origine mammaire, avec atteinte pulmonaire et pleurale.
+
+Traitement
+Après examen de la littérature, il n'existe aucune preuve de l'approche thérapeutique de ce type de tumeur. Il s'agit généralement d'une tumeur indolente avec une survie à 10 ans de 90 à 100 %, et les métastases à distance sont rares et lentement progressives, uniquement rapportées sous la forme de cas cliniques. Cependant, dans ce cas, une rechute systémique symptomatique se produit deux ans après la tumeur primaire, ce qui est extrêmement rare.
+Il n'existe pas de preuves solides sur le traitement chimiothérapeutique le plus approprié, bien que la recommandation soit de le traiter comme un carcinome adénoïde kystique des glandes salivaires. Le schéma le plus probant est le CAP (cyclophosphamide [500 mg/m2], doxorubicine [50 mg/m2], cisplatine [50 mg/m2]) avec un taux de réponse de 28 %. Cependant, comme il s'agit d'un patient fragile, on choisit un schéma de traitement en monothérapie dont la toxicité est plus facile à gérer. Le schéma de monothérapie avec le taux de réponse le plus élevé (15-44%) est la vinorelbine, la patiente a donc commencé le premier cycle de vinorelbine par voie orale à 60 mg/m2 jours 1 et 8 tous les 21 jours le 11 mars 20193,4.
+
+Évolution
+La patiente poursuit son traitement à ce jour, ayant reçu quatre cycles avec une très bonne tolérance et aucun signe de progression clinique, seule l'asthénie G1 se distinguant comme toxicité associée au traitement. Dans quelques jours, avant le cinquième cycle, un scanner sera réalisé pour évaluer la réponse.

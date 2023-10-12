@@ -1,0 +1,16 @@
+T1	pathologie 37 45	alergias
+T2	pathologie 73 96	adenocarcinoma gástrico
+T3	pathologie 1176 1215	erupción cutánea pruriginosa diseminada
+T4	pathologie 1550 1578	absceso con colección biliar
+T5	pathologie 1739 1778	erupción cutánea pruriginosa diseminada
+T6	pathologie 1963 1973	colangitis
+T7	pathologie 2120 2137	hipersensibilidad
+T8	pathologie 2560 2589	proceso neoformativo gástrico
+#1	SNOMED T2	408647009
+#2	SNOMED T6	82403002
+#3	SNOMED T8	126824007
+#4	SNOMED T3	64144002
+#5	SNOMED T4	405590003
+#6	SNOMED T5	64144002
+#7	SNOMED T7	421961002
+#8	SNOMED T1	106190000

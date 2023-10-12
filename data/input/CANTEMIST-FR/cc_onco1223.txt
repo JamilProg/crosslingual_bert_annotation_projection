@@ -1,0 +1,41 @@
+Anamnèse
+Patient de 65 ans sans allergie médicamenteuse connue, avec des antécédents d'hypertension, de diabète de type II, de dyslipidémie et de cardiopathie ischémique.
+Traitement habituel : oméprazole, Fortecortin en doses décroissantes, Covals, Hemovás, Disgrén, Cardyl, Astudal.
+Antécédents oncologiques :
+Premier néoplasme : carcinome urothélial gauche traité par néphroureterectomie gauche pT2 grade 3 en cours de suivi par l'urologie.
+Deuxième néoplasme : diagnostiqué au cours de l'étude de contrôle pour un carcinome urothélial antérieur de type HL lymphocytaire nodulaire avec Ki 67 40% avec des adénopathies au niveau du duodénum commun gauche et de la chaîne iliaque externe gauche au cours d'un traitement QT avec ABVD x 6 schéma. Il a effectué 4 cycles, depuis le deuxième sans bléomycine en raison de la toux avec une radiographie thoracique normale, ayant commencé un traitement avec des corticoïdes dans un schéma décroissant en raison de la suspicion d'une toxicité pulmonaire possible due à la bléomycine.
+Le patient consulte pour une asthénie marquée, une dyspnée au moindre effort et une toux sèche. Il nie avoir de la fièvre. Bon contrôle de la douleur.
+Pas de dyspnée paroxystique nocturne. Pas d'orthopnée. Pas d'autres symptômes associés.
+
+Examen physique
+TA 146/76 mmHg, FC 77 bpm, SatO2 98% (O2 à 2 litres). Conscient et orienté. Aspect cushingoïde. Pâleur de la peau.
+Dyspnée à l'effort minime. CA : souffle systolique panfocal 2/6 déjà connu. AP : VCM avec de fins crépitements bibasaux.
+Pas d'œdème tibiomalléolaire. Pas de signes de TVP. Myopathie corticoïde significative.
+Reste de l'examen anodin.
+
+Tests complémentaires
+- Examens de laboratoire : Hb 10 g/dl, pas de leucocytose, D-dimère négatif et autres valeurs sans altération.
+- Radiographie du thorax : infiltrat interstitiel à prédominance bibasale.
+- Tomodensitométrie thoracique : réponse tumorale complète. Emphysème pulmonaire biapical. Modifications parenchymateuses chroniques.
+Zones parcellaires diffuses en "verre terni" pulmonaire bilatéral avec des zones d'aspect bibasal fibrokystique.
+- Échocardiographie : FEVG 76 %. Insuffisance mitrale légère. Valve aortique fibrosée avec sténose modérée. Repos normal.
+- Spirométrie : schéma restrictif.
+- Radiographie thoracique de contrôle : infiltrat interstitiel bibasal. Condensation basale droite absente de la radiographie précédente.
+- Tomodensitométrie de contrôle : pas de TEP. Augmentation des zones parcellaires et diffuses dans le verre dépoli. Probable surinfection associée.
+
+Diagnostic
+Pneumopathie interstitielle avec insuffisance respiratoire aiguë secondaire à un traitement à la bléomycine.
+Surinfection des voies respiratoires inférieures associée.
+Réponse tumorale complète.
+
+Traitement
+Le traitement débute par des corticostéroïdes à pleine dose (mg/kg), une oxygénothérapie, une antibiothérapie empirique à base d'amoxicilline-acide clavulanique 1 g toutes les 8 heures et le reste du traitement habituel.
+
+Évolution
+Le patient a connu une amélioration clinique initiale après le début de la corticothérapie, mais après 48 heures, il y a eu une aggravation marquée de la dyspnée avec une aggravation radiologique, nécessitant de fortes concentrations d'oxygène avec un risque imminent de claudication respiratoire, de sorte qu'il a été décidé de le transférer à l'unité de soins intensifs pour un traitement de soutien.
+Aux soins intensifs, le spectre antibiotique a été élargi avec du méropénem, du fluconazole, du linézolide, du soltrim et de l'oseltamavir.
+L'étude a été complétée par un FBS avec BAS et un LBA, sans trouver de micro-organisme pathologique, une antigénurie et la détermination du H1N1, qui se sont révélés négatifs.
+Il a présenté une fatigue ventilatoire qui a nécessité le recours à la ventilation mécanique, nécessitant de fortes concentrations d'oxygène.
+Il a développé un choc septique avec hypotension nécessitant une fluidothérapie et des médicaments vasoactifs, avec peu d'amélioration.
+Lors de son admission aux soins intensifs, il a présenté une aggravation progressive de la fonction rénale, avec une anémie marquée nécessitant une transfusion de globules rouges à deux reprises.
+Malgré l'effort thérapeutique, la capacité ventilatoire du patient ne s'est pas améliorée, de sorte que finalement, en accord avec l'équipe multidisciplinaire (ICU et oncologie) et la famille, il a été décidé de limiter l'effort thérapeutique, et le patient est finalement décédé.

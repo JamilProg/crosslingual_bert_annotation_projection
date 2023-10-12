@@ -1,0 +1,22 @@
+Anamnèse
+Femme de 70 ans, aux antécédents de sarcoïdose (dermatite granulomateuse) diagnostiquée en 2013 et suivie par la dermatologie et la médecine interne pour des nodules pulmonaires subcentimétriques. Sous traitement chronique par stéroïdes topiques. Ex-fumeur depuis 5 ans (30 paquets-années) sans autres antécédents médicaux dignes d'intérêt. Adressé au service d'oncologie médicale par la médecine interne en juillet 2014 suite à la découverte, lors d'un scanner thoracique, d'une amputation de la lumière de la bronche lobaire supérieure gauche en raison d'une possible masse hilaire gauche.
+
+Examen physique
+La patiente a un ECOG (Eastern Cooperative Oncology Group) de 1, avec un Karnofsky de 100. Elle mesure 145 cm et pèse 68 kg. Bon état général, eupnéique. Aucun résultat pertinent à l'examen physique.
+
+Examens complémentaires
+Tomodensitométrie axiale haute définition du thorax : amputation de la lumière de la bronche lobaire supérieure gauche en raison d'une possible masse hilaire gauche, avec des nodules millimétriques stables.
+Bronchoscopie : une masse endobronchique a été observée à l'entrée du lobe supérieur gauche. Des échantillons ont été prélevés pour l'anatomie pathologique, qui a révélé un carcinome peu différencié compatible avec une souche épidermoïde.
+Scanner PET-CT : une augmentation pathologique du métabolisme du glucose a été observée dans la masse hilaire gauche provoquant une obstruction de la bronche lobaire supérieure gauche et mesurant environ 3,7 x 2,7 cm (AP par T) avec un SUVmax de 16, sans données métaboliques d'une maladie maligne à d'autres niveaux.
+
+Diagnostic
+Carcinome épidermoïde pulmonaire gauche T2aT4N0M0 (une infiltration des gros vaisseaux ne peut être exclue).
+
+Traitement
+En avril 2014, un traitement par chimiothérapie d'intention néoadjuvante a été débuté selon un schéma de carboplatine AUC 5 iv le jour 1 + gemcitabine 1 000 mg/m2 iv le jour 1 et le jour 8 pendant 2 cycles.
+
+Évolution
+Après avoir terminé deux cycles de chimiothérapie d'induction, la patiente a été réévaluée afin d'évaluer l'option d'un traitement chirurgical. Les tests de la fonction respiratoire excluant la chirurgie, la patiente a suivi 4 cycles de chimiothérapie (carboplatine + gemcitabine) et une radiothérapie locorégionale séquentielle (dose totale de 66Gy) avec une intention radicale. Le traitement s'est terminé en novembre 2014.
+Un scanner thoracique de suivi en janvier 2015 a montré une réponse partielle de la masse hilaire gauche selon les critères RECIST.
+Lors de la TEP-TDM de contrôle en mai 2015, une progression de la maladie a été observée dans le hile gauche, de sorte qu'un traitement de chimiothérapie de deuxième ligne avec de la vinorelbine a été entamé. La patiente a présenté une toxicité hématologique avec une neutropénie de grade II et une thrombocytopénie de grade III comme effets indésirables du traitement, nécessitant une admission à l'hôpital et des transfusions, en plus d'entraîner des retards dans l'administration des cycles successifs de traitement. Lors du scanner de juin 2015, une aggravation de la masse hilaire gauche a été observée, et un traitement par nivolumab en accès élargi a été demandé.
+En juin 2015, la patiente a débuté le traitement pour un poids de 68 kg, 200 mg de nivolumab tous les 15 jours. Un scanner de contrôle en septembre 2015 a montré une réponse complète selon les critères RECIST. La patiente a suivi 27 doses de traitement par nivolumab jusqu'en août 2016, date à laquelle le traitement a été interrompu en raison d'une suspicion de réactivation de sa maladie auto-immune avec une aggravation de ses symptômes cutanés avec des lésions dans la région du visage et sur les membres inférieurs et une aggravation de ses symptômes pulmonaires, sans résultat concluant de pneumopathie au scanner, mais avec des lésions compatibles avec une BONO apparues 3 mois après la fin du traitement par nivolumab. Lors du scanner de contrôle de décembre 2016, une réponse complète a été confirmée, qui s'est maintenue lors des contrôles successifs réalisés jusqu'à aujourd'hui en avril 2018.

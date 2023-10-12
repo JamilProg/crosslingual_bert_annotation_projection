@@ -1,0 +1,32 @@
+T1	pathologie 59 67	alergias
+T2	pathologie 99 109	dislipemia
+T3	pathologie 111 132	hipertensión arterial
+T4	pathologie 134 168	infarto agudo de miocardio antiguo
+T5	pathologie 208 233	enfermedad de los 3 vasos
+T6	pathologie 268 310	hiperplasia leiomioadenomatosa de próstata
+T7	pathologie 359 381	traumatismo testicular
+T8	pathologie 460 472	tuberculosis
+T9	pathologie 476 486	brucelosis
+T10	pathologie 787 807	lesión focal nodular
+T11	pathologie 949 961	neoformación
+T12	pathologie 1080 1109	adenopatías retroperitoneales
+T13	pathologie 1403 1412	hidrocele
+T14	pathologie 1552 1560	lesiones
+T15	pathologie 1591 1600	neoplasia
+T16	pathologie 2280 2313	orquitis idiopática granulomatosa
+#1	SNOMED T1	106190000
+#2	SNOMED T2	370992007
+#3	SNOMED T3	38341003
+#4	SNOMED T4	1755008
+#5	SNOMED T6	433234005
+#6	SNOMED T7	262921003
+#7	SNOMED T8	56717001
+#8	SNOMED T9	75702008
+#9	SNOMED T10	27925004
+#10	SNOMED T11	55342001
+#11	SNOMED T12	127154008
+#12	SNOMED T13	26614003
+#13	SNOMED T15	55342001
+#14	SNOMED T16	50390006
+#15	SNOMED T14	157670007
+#16	SNOMED T5	233817007

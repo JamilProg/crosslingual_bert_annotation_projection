@@ -1,0 +1,32 @@
+T1	pathologie 47 76	traumatismo contuso en su ojo
+T2	pathologie 214 220	hifema
+T3	pathologie 277 292	edema de Berlin
+T4	pathologie 409 415	hifema
+T5	pathologie 592 608	hipotonía ocular
+T6	pathologie 684 708	pliegues retinocoroideos
+T7	pathologie 711 726	edema de papila
+T8	pathologie 904 915	traumatismo
+T9	pathologie 983 1010	desgarro de la raíz de iris
+T10	pathologie 1032 1061	desprendimiento ciliocoroideo
+T11	pathologie 1576 1589	ciclodiálisis
+T12	pathologie 1844 1859	edema de papila
+T13	pathologie 1861 1886	pliegues coriorretinianos
+T14	pathologie 1949 1962	ciclodiálisis
+T15	pathologie 1976 1993	sinequia anterior
+T16	pathologie 2027 2051	desprendimiento coroideo
+#1	SNOMED T1	314533000
+#2	SNOMED T9	231953004
+#3	SNOMED T2	75229002
+#4	SNOMED T10	27871007
+#5	SNOMED T12	423341008
+#6	SNOMED T13	231998005+37480005
+#7	SNOMED T3	80744008
+#8	SNOMED T14	231957003
+#9	SNOMED T15	70992005
+#10	SNOMED T4	75229002
+#11	SNOMED T16	27871007
+#12	SNOMED T11	231957003
+#13	SNOMED T6	37480005
+#14	SNOMED T7	423341008
+#15	SNOMED T5	23670006
+#16	SNOMED T8	417746004

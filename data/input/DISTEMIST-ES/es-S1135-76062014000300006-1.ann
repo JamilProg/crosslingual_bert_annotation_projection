@@ -1,0 +1,25 @@
+T1	pathologie 73 86	endometriosis
+T2	pathologie 547 558	hipotensión
+T3	pathologie 1045 1064	acidosis metabólica
+T4	pathologie 1424 1429	shock
+T5	pathologie 1450 1459	defunción
+T6	pathologie 1550 1579	exantema cutáneo generalizado
+T7	pathologie 1665 1727	petequias en la conjuntiva tarsal de ambos párpados inferiores
+T8	pathologie 1784 1812	Congestión pulmonar moderada
+T9	pathologie 1817 1842	edema pulmonar importante
+T10	pathologie 1910 1925	Derrame pleural
+T11	pathologie 1935 1959	Derrame pericárdico leve
+T12	pathologie 2054 2083	Hígado de aspecto esteatósico
+T13	pathologie 2194 2245	encéfalo presenta un aspecto congestivo y edematoso
+T14	pathologie 2286 2324	quiste en el lóbulo parietal izquierdo
+T15	pathologie 2500 2519	líquido pericárdico
+T16	pathologie 2561 2576	derrame pleural
+T17	pathologie 3123 3150	encéfalo congestión y edema
+T18	pathologie 3181 3216	meningioma transicional-psamomatoso
+T19	pathologie 3224 3264	suprarrenales presentan hemorragia grave
+T20	pathologie 3305 3310	shock
+T21	pathologie 3377 3380	CID
+T22	pathologie 3405 3419	esplenomegalia
+T23	pathologie 3429 3453	miocarditis neutrofílica
+T24	pathologie 3619 3724	fallo multiorgánico producido por una septicemia fulminante por meningococo (N. meningitidis serogrupo C)
+T25	pathologie 3727 3762	síndrome de Waterhouse-Friderichsen

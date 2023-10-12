@@ -1,0 +1,21 @@
+Anamnèse
+Lorsque le patient s'est présenté au CEX, il a fait état d'une détérioration clinique importante par rapport à la visite précédente. Outre les séquelles des deux interventions chirurgicales antérieures, il signale des douleurs articulaires généralisées, surtout centrées sur les poignets et les genoux, qui lui causent une impotence fonctionnelle légère, parfois modérée. Ces douleurs ont évolué défavorablement au cours des derniers mois et, parallèlement à l'augmentation des douleurs, le patient a vu réapparaître les lésions cutanées antérieures avec leur croissance, notamment au niveau de la fesse gauche. Pas d'autres symptômes d'intérêt après anamnèse par appareil et systèmes.
+
+Examen physique
+L'état général est passable. Sécheresse cutanée généralisée. Lymphoedème hémifacial gauche. Raideur cervicale secondaire à la radiothérapie. Lésions cutanées papuleuses violacées prédominant sur la fesse gauche, mais également sur les deux mains. Aucune adénopathie n'était palpable. Arthrite déformante bilatérale des articulations métacarpophalangiennes et des poignets.
+Le reste de l'examen physique était normal.
+
+Examens complémentaires
+Une réévaluation a été demandée avec un scanner thorax-abdomen-pelvis (avec contraste) qui a montré des lésions osseuses destructrices au niveau de la tête des deux humérus, des fémurs et des arcs costaux en relation avec la réticulohistiocytose multifocale connue. Aucune autre donnée compatible avec une progression de sa maladie néoplasique n'a été observée.
+Craignant qu'une pathologie oncologique sous-jacente ne soit pas visible, un scanner PET-CT a été réalisé, dans lequel une prise pathologique a été détectée, coïncidant avec deux ganglions lymphatiques, un ganglion lymphatique infraclaviculaire droit mesurant 24 mm, avec un SUVmax de 9,3 et un autre ganglion lymphatique infraclaviculaire gauche mesurant 26 mm, avec un SUVmax de 8,8, présentant des caractéristiques métaboliques malignes.
+En outre, de multiples prises pathologiques ostéomusculaires ont été observées avec un SUVmax compris entre 5,8 et 6,1, localisées principalement autour des deux têtes humérales, mais aussi dans le reste des grandes articulations des extrémités supérieures, les arcs costaux gauches, l'omoplate et le muscle latissimus dorsi droit, les têtes fémorales et la musculature fessière et iliaque, coïncidant avec des modifications osseuses lytiques et un épaississement des plans musculaires. Ces prises de conscience ont été mises en relation avec un syndrome paranéoplasique.
+Une biopsie de l'adénopathie infraclaviculaire droite a été réalisée. Les résultats histologiques étaient compatibles avec une progression du RHM. Une population cellulaire monomorphe, morphologiquement similaire à celle observée lors du précédent prélèvement cutané, a été décrite. Il s'agissait de cellules à cytoplasme oncocytaire et éosinophile étendu, PAS positif, mono- et parfois multinucléées, avec un profil immunohistochimique d'histiocytes-macrophages CD68 et CD163 positifs, S-100 et CD1a négatifs. Aucune atypie cytologique ou activité mitotique n'a été observée.
+
+Diagnostic
+Réticulohistiocytose multicentrique d'origine paranéoplasique.
+
+Traitement
+Le patient a reçu un traitement combiné à base de méthotrexate (10 mg les vendredis et samedis) et de prednisone (30 mg le matin pendant 7 jours, puis 20 mg le matin pendant 15 jours, puis 15 mg de façon chronique par la suite, avec réajustement ultérieur de la dose en fonction du contrôle des symptômes et/ou des effets secondaires de la thérapie stéroïdienne).
+
+Évolution
+La tolérance initiale au méthotrexate et à la prednisone a été adéquate. En attente d'une nouvelle évaluation au CEX d'Oncologie Médicale pour vérifier la réponse cutanée et articulaire au traitement.

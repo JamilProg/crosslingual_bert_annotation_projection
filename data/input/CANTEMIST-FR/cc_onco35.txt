@@ -1,0 +1,38 @@
+Anamnèse
+Une femme de 53 ans a consulté en avril 2013 pour une lymphadénopathie inguinale gauche à l'autopalpation depuis 4 à 6 mois.
+
+Ses antécédents personnels comprennent un suivi gynécologique pour un nodule dans le sein droit retiré en 2008, sans preuve de malignité, et un contrôle ultérieur avec des mammographies négatives (la dernière en mars 2011).
+
+Examen physique
+L'examen physique a révélé une adénopathie sus-claviculaire gauche, une adénopathie axillaire gauche et un conglomérat inguinal gauche. Les seins ne présentent pas de nodules palpables. Le reste de la patiente ne présentait aucun signe pathologique.
+
+Examens complémentaires
+"Son médecin traitant a demandé un scanner thoraco-abdomino-pelvien, qui a révélé de multiples lésions osseuses lytiques et des adénopathies prédominant dans la partie gauche du corps, sans signe de tumeur primaire.
+"Elle a été admise à l'hôpital pour terminer l'étude. La scintigraphie osseuse a confirmé la présence de métastases osseuses axiales et appendiculaires.
+"Une mammographie et une IRM mammaire ont été demandées, qui n'ont révélé aucune altération.
+"Le 23 avril 2013, une biopsie à l'aiguille de l'adénopathie inguinale gauche a été réalisée, avec un résultat pathologique définitif : de petits fragments de tissu fibreux massivement infiltrés par des traînées de cellules néoplasiques constituées de noyaux arrondis avec des nucléoles proéminents et un cytoplasme large et bien défini, qui ne forment pas de glandes ou ne montrent pas de différenciation squamoïde. Dans l'étude IHC, une expression intense de CAM 5-2, AE1, AE3 et GCDFP-15 a été observée. LC, CK 20, RE, RP, E-cadhérine et S-100 sont négatifs. Aucun tissu lymphoïde n'est reconnu. Cela suggère un carcinome indifférencié d'origine mammaire.
+
+Diagnostic
+La patiente a été adressée au service d'oncologie et il a été décidé de compléter l'étude IHC, avec TTF 1 et CK5, qui se sont révélés négatifs. Her-2 est soluble (++ [FISH n'amplifie pas]).
+
+On estime qu'il s'agit d'un carcinome mammaire triple négatif de stade IV précoce.
+
+Traitement
+Un traitement séquentiel à base d'anthracyclines et de taxanes est proposé. Premier cycle d'anthracyclines le 27/5/2013, avec une réponse partielle de 50% de la maladie osseuse et ganglionnaire après quatre cycles. Compte tenu de la bonne réponse et de la tolérance, il a été décidé de poursuivre avec des anthracyclines liposomales.
+
+Au scanner d'octobre 2013, la lymphadénopathie axillaire et rétropéritonéale a pratiquement disparu, la lymphadénopathie inguinale gauche a diminué à 1 cm (elle mesurait auparavant 2,3 cm) et les lésions osseuses sont restées inchangées.
+
+Le 5/11/2013, le paclitaxel a été débuté selon un schéma hebdomadaire, avec une maladie métastatique osseuse stable après trois cycles. Il a terminé jusqu'à quatre cycles et est sous dénosumab depuis février 2014 (en raison d'une réaction à l'acide zolédronique).
+
+Évolution
+Le scanner du 12/5/2014 décrit l'apparition d'un nodule hypercapillaire de 1 cm dans le sein gauche et d'une nouvelle masse ovarienne gauche de 6 cm avec du liquide péritonéal, les lésions osseuses se poursuivant en réponse partielle.
+
+Il a été décidé de demander une échographie mammaire et une évaluation gynécologique. Le 20 juin 2014, une laparotomie exploratrice a été pratiquée. Une masse ovarienne gauche dure et multinodulaire de 6 cm a été visualisée. Une annexectomie bilatérale a été pratiquée, avec pour résultat un carcinome métastatique d'origine mammaire dans les deux annexes et dans la trompe de Fallope gauche.
+
+Une IRM mammaire et une biopsie échoguidée du nodule ont également été réalisées, avec un résultat positif pour un carcinome mammaire triple négatif.
+
+Elle a commencé un traitement de deuxième ligne par carboplatine-gemcitabine le 9/7/2014, recevant trois cycles. Elle a présenté une détérioration progressive de la fonction rénale, de sorte qu'en septembre une échographie rénale a été demandée, qui a montré une dilatation des deux systèmes excréteurs. L'étude a été complétée par un scanner qui a confirmé ce résultat secondaire à la progression de la maladie pelvienne. Une évaluation urologique a été demandée pour la mise en place d'une double J, ce qui n'a pas été possible, et une néphrostomie percutanée gauche a donc été réalisée.
+
+Compte tenu de la progression, il a été décidé d'entamer un traitement par eribuline, qui a débuté le 28/10/2014, avec une bonne tolérance. En février 2015, une lésion est apparue sur la paupière inférieure gauche, qui a été évaluée par la dermatologie et biopsiée en avril 2015, avec le résultat d'une métastase de carcinome mammaire.
+
+Actuellement, en l'absence de preuves d'une progression à d'autres niveaux, il est traité à l'éribuline (dix cycles à ce jour), avec une bonne tolérance clinique et un bon état général.

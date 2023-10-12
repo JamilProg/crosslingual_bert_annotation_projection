@@ -1,0 +1,46 @@
+Anamnèse
+Homme de 58 ans, sans allergie médicamenteuse connue, hypertendu, atteint de diabète sucré non insulino-dépendant. Il présentait un syndrome d'apnée du sommeil et était suivi par le service de pneumologie. Fumeur (IPA = 41 paquets/an) et non buveur régulier.
+
+Ses antécédents familiaux comprennent un père atteint d'un cancer du poumon à l'âge de 80 ans, une mère atteinte d'un cancer du sein à l'âge de 60 ans et une tante maternelle atteinte d'un cancer du poumon à l'âge de 50 ans.
+
+En janvier 2012, lors d'un examen effectué par le service de pneumologie dans le cadre du suivi du syndrome d'apnée du sommeil dont il souffre, un nodule pulmonaire solitaire a été observé dans le lobe supérieur droit sur une radiographie thoracique de contrôle. Un suivi de la lésion a été recommandé et en avril de la même année, un scanner thoracique de contrôle a été demandé, montrant un doublement de la taille du nodule, et il a donc été décidé d'adresser le patient à un service de chirurgie thoracique pour évaluer son ablation.
+
+En mai 2012, sans étude d'extension préalable, une segmentectomie atypique a été réalisée pour un nodule pulmonaire de 1 cm dans le lobe supérieur droit, dont le résultat pathologique était une tumeur à cellules claires afin d'exclure une origine rénale en raison des résultats immunohistochimiques obtenus.
+
+À ce stade, il est orienté vers le service d'oncologie médicale.
+
+Examen physique
+Patient asymptomatique, en bon état général et ECOG-1 pour les malaises secondaires à l'intervention réalisée. Aucun résultat notable à l'examen physique.
+
+Tests complémentaires
+" NFS avec biochimie et hémogramme sans altération.
+"Un scanner thoraco-abdomino-pelvien (TAP-CT) a été demandé pour rechercher la tumeur primaire en juin 2012, mettant en évidence une lésion compatible avec une néoplasie du rein droit mesurant 7,6 x 7,1 cm. Des formations kystiques corticales mesurant 2,8 et 2,6 cm ont été observées dans le rein gauche.
+
+Diagnostic
+Cancer du rein à cellules claires métastatique.
+
+Traitement
+Le cas a été discuté au sein du comité des tumeurs urologiques et il a été décidé de procéder à une néphrectomie droite le 29 août 2012. Cette lésion correspondait à une tumeur rénale à cellules claires de grade 3 de Fuhrman avec invasion lymphovasculaire (pT2aNx). Au vu de ces résultats, une nouvelle tomodensitométrie de contrôle post-chirurgicale a été demandée en décembre 2012.
+
+De multiples nodules pulmonaires millimétriques bilatéraux évoquant des métastases ont été observés, ainsi qu'une lésion de l'os iliaque droit mesurant 1,4 cm et une augmentation de la captation sacro-iliaque et du cinquième arc costal gauche, tous liés à des changements dégénératifs. Par la suite, la scintigraphie osseuse a permis d'exclure une atteinte osseuse métastatique.
+
+Par conséquent, à ce moment-là, le patient présentait des métastases pulmonaires d'un cancer du rein à cellules claires avec néphrectomie gauche, avec un pronostic intermédiaire selon la classification de Heng. Ainsi, après avoir vérifié que la fraction d'éjection ventriculaire gauche (FEVG) était préservée et qu'il n'y avait pas d'altération de l'électrocardiogramme ou des tests analytiques, il a commencé le 20 décembre un traitement par Sunitinib 50 mg toutes les 24 heures pendant 28 jours, avec 2 semaines de repos.
+
+Évolution
+Le scanner de réévaluation réalisé en avril 2013 a montré la disparition des métastases pulmonaires, ainsi que des changements post-chirurgicaux dans la zone de néphrectomie.
+
+Pendant le traitement, le patient a développé une asthénie de grade II et un syndrome main-pied de grade II pendant les 4 semaines de traitement, qui sont passés au grade I pendant les 2 semaines de repos, ainsi qu'une mucosite de grade I-II pendant le traitement. Le patient a également dû adapter la dose de l'antihypertenseur qui lui était déjà prescrit.
+
+Malgré la toxicité, il a été décidé de poursuivre le traitement par le sunitinib sans modifier la dose, en raison du bon contrôle de la maladie. Des scanners CT-PAT ont été réalisés tous les 5 mois, sans constater de changements significatifs par rapport aux scanners précédents. En mai 2014, un nodule de 3 mm a été observé dans la zone postérieure du lobe supérieur gauche, avec une augmentation de 1 cm de la taille de la lésion dans la zone de néphrectomie, ainsi qu'un épaississement non spécifique du corps gastrique.
+
+De nouveaux antécédents médicaux ont été recueillis et le patient a signalé une gêne gastrique non spécifique au cours des derniers mois. En raison des résultats de la tomodensitométrie et de la gêne signalée, une gastroscopie a été demandée, qui a été réalisée en juillet 2014. Celle-ci a révélé une lésion du corps gastrique mesurant 0,6 cm, ulcérée, avec une atteinte de la muqueuse et de la sous-muqueuse, dont la biopsie a été décrite comme une métastase d'un carcinome à cellules claires compatible avec une tumeur rénale primitive.
+
+Compte tenu de la progression de la maladie, il est passé à l'axitinib en deuxième intention, à raison de 5 mg toutes les 12 heures, à partir d'août 2014.
+
+Les examens tomodensitométriques ultérieurs ont montré un bon contrôle de la maladie au niveau pulmonaire et gastrique, mais la lésion dans la zone de néphrectomie a commencé à augmenter en taille (1,3 cm lors du dernier examen d'imagerie réalisé en octobre 2014).
+
+Après une nouvelle évaluation par le comité des tumeurs urologiques, une nouvelle opération a été décidée. L'opération a été réalisée en février 2015, avec ablation du nodule dans le lit de néphrectomie et gastrectomie partielle. Les résultats de l'anatomie pathologique ont été surprenants, puisque des métastases ont été confirmées dans la muqueuse gastrique d'un cancer rénal à cellules claires, mais il a finalement été observé que la masse dans le lit de néphrectomie correspondait à une hémorragie surrénalienne avec hyperplasie nodulaire corticale focale.
+
+Au vu de ces résultats, une nouvelle tomodensitométrie a été demandée en avril 2015, décrivant un nodule pulmonaire inchangé dans le LSI et des collections hépatiques secondaires à la chirurgie.
+
+Le patient est actuellement asymptomatique et, compte tenu de la bonne tolérance au traitement par axitinib, il a été décidé de maintenir ce médicament. Il présente une FEVG préservée, un bon contrôle de la tension artérielle et des chiffres analytiques inchangés.  

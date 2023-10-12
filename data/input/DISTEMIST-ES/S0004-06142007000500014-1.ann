@@ -1,0 +1,10 @@
+T1	pathologie 371 388	nódulos tumorales
+T2	pathologie 827 843	teratocarcinomas
+T3	pathologie 845 860	teratoma maduro
+T4	pathologie 863 884	carcinoma embrionario
+T5	pathologie 1069 1085	seminoma clásico
+#1	SNOMED T3	55818009
+#2	SNOMED T4	1156454002
+#3	SNOMED T5	443675005
+#4	SNOMED T1	108369006
+#5	SNOMED T2	67830002

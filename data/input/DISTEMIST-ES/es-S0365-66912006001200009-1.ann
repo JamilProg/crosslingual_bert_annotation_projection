@@ -1,0 +1,16 @@
+T1	pathologie 92 113	hipertensión arterial
+T2	pathologie 161 178	sinusitis maxilar
+T3	pathologie 254 287	pérdida y distorsión de la visión
+T4	pathologie 614 644	desprendimiento seroso macular
+T5	pathologie 884 901	pérdida de visión
+T6	pathologie 969 1040	lesiones eritematosas dolorosas limitadas a las extremidades inferiores
+T7	pathologie 1017 1071	extremidades inferiores compatibles con eritema nodoso
+T8	pathologie 1458 1462	Lyme
+#1	SNOMED T1	38341003
+#2	SNOMED T2	88348008
+#3	SNOMED T4	420030000
+#4	SNOMED T7	32861005
+#5	SNOMED T8	23502006
+#6	SNOMED T6	128137003
+#7	SNOMED T3	42134006+105597003
+#8	SNOMED T5	267631003

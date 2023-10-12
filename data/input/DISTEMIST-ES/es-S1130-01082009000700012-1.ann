@@ -1,0 +1,12 @@
+T1	pathologie 630 650	diverticulitis aguda
+T2	pathologie 821 845	diverticulosis sigmoidea
+T3	pathologie 860 874	diverticulitis
+T4	pathologie 1058 1096	apendagitis aguda secundaria a torsión
+T5	pathologie 1143 1154	apendagitis
+T6	pathologie 1159 1180	apendagitis epiploica
+#1	SNOMED T5	14720231000119109
+#2	SNOMED T6	14720231000119109
+#3	SNOMED T1	307496006
+#4	SNOMED T2	427910000
+#5	SNOMED T3	307496006
+#6	SNOMED T4	14720231000119109+51877002

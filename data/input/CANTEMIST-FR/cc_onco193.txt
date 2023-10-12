@@ -1,0 +1,38 @@
+Anamnèse
+Une femme de 46 ans consulte pour l'apparition d'une masse dans l'aisselle gauche depuis six mois, sans autre manifestation clinique.
+Antécédents médicaux : mélanome d'extension superficielle dans la région scapulaire gauche stade I-A [pT1b (Breslow 0,5 mm ; Clark III ; absence d'ulcération et de mitose dans 0,19 mm2) cN0 cM0 R0] opéré en février 2009 avec élargissement ultérieur des marges en mars 2009 sans signe de malignité. Il n'y a pas eu de maladie tumorale depuis lors.
+En outre, la patiente était suivie par la chirurgie pour des nodules dans le sein gauche, ayant subi une mammographie et une échographie en décembre 2013 avec des résultats suggérant des fibroadénomes.
+Au moment de la consultation, la patiente ne prenait aucun médicament de façon régulière.
+
+Examen physique
+Bon état général, PS-ECOG 0. Palpation d'une adénopathie axillaire gauche non douloureuse. Pas d'autre adénopathie dans l'aisselle controlatérale ou dans les ganglions lymphatiques sus-claviculaires. Légère hypertrophie diffuse des ganglions lymphatiques dans la région inguinale bilatérale qui ne semble pas pathologique.
+L'examen ne révèle rien d'autre de particulier.
+
+Examens complémentaires
+"Une échographie axillaire a été réalisée dans la région axillaire gauche, montrant une adénopathie d'environ 17 mm, nettement hypoéchogène avec perte d'architecture normale, hautement suspecte de néoplasie, et une ponction-aspiration à l'aiguille fine a été réalisée, qui s'est révélée positive pour les cellules malignes.
+"Au vu de ce résultat, une biopsie a été pratiquée avec ablation de deux ganglions lymphatiques, dont l'un s'est avéré infiltré par un mélanome. La détermination de BRAF a été positive pour la mutation V600E.
+"Sur le plan analytique, la protéine s-100b était de 0,050 ng/ml, les autres valeurs étant non descriptives.
+"Une étude d'extension a été réalisée par CT-PET qui a exclu les signes suggérant une récidive locale et/ou ganglionnaire, bien qu'elle ait montré des nodules pulmonaires bilatéraux, dont l'un était solide et légèrement hypermétabolique (SUV 1,7 g/ml) dans le segment antérieur du LSD, le reste étant de faible densité et non hypermétabolique. L'IRM du cerveau réalisée en même temps n'a pas révélé de zones d'absorption pathologique.
+"Compte tenu de ces résultats, le cas a été discuté au sein du Comité des tumeurs thoraciques, et il a été décidé de confirmer les résultats histologiques du nodule dans le LSD, et donc une FNA guidée par CT a été demandée, obtenant un matériel insuffisant pour l'analyse.
+"Au vu de ce résultat, le comité des tumeurs a de nouveau décidé de procéder à une biopsie chirurgicale et a réséqué deux nodules dans le poumon droit (l'un dans le lobe supérieur et l'autre dans le lobe inférieur), qui se sont avérés compatibles avec des métastases de mélanome. Le comité a considéré que la maladie pulmonaire n'était pas résécable en raison de l'atteinte multiple et bilatérale.
+
+Diagnostic
+Il s'agit d'une femme de 46 ans atteinte d'un mélanome avancé dû à des métastases pulmonaires et présentant une mutation BRAF V600E.
+
+Traitement
+Une évaluation est demandée par un autre centre en vue d'une inclusion dans un essai clinique, mais le patient ne peut être inclus dans aucun des essais disponibles à ce moment-là.
+Un traitement de première intention par dabrafenib + trametinib est proposé.
+
+Évolution
+A la mi-janvier 2015, la patiente a débuté le dabrafenib à la dose de 150 mg/12 h, puis le trametinib à la dose de 2 mg/24 h une semaine plus tard.
+
+Lors de la visite du jour +28 du premier cycle (jour +23 du trametinib), la patiente a rapporté l'apparition de nodules au niveau des membres inférieurs depuis une dizaine de jours sans autre symptôme d'accompagnement. A l'examen, elle présente des lésions érythémateuses sous forme de plaques sous-cutanées palpables mesurant 1 à 2 cm sur les jambes et un peu moins palpables sur les cuisses, légèrement douloureuses et non prurigineuses. Les chevilles présentaient un léger œdème.
+
+Le patient a été adressé en dermatologie, qui a pratiqué une biopsie cutanée en raison d'une suspicion de vascularite, confirmant une panniculite avec un motif lobulaire et une nécrose capillaire filénoïde (vascularite neutrophile).
+
+Une évaluation a ensuite été demandée par la médecine interne, qui a complété l'étude en effectuant une radiographie du thorax, un sédiment urinaire et une étude de l'auto-immunité. Au vu de la normalité de ces examens, le diagnostic de vascularite leucocytoclasique avec atteinte cutanée exclusivement au niveau des membres inférieurs a été posé.
+
+Conformément aux recommandations du laboratoire de fabrication du trametinib et des départements de dermatologie et de médecine interne, les corticostéroïdes systémiques ont été exclus en raison de contre-indications avec le traitement actuel de son mélanome, et on lui a prescrit des corticostéroïdes topiques et du repos, tout en maintenant une surveillance clinique étroite et en continuant le dabrafenib et le trametinib à la même dose.
+
+Dans les semaines suivantes, la patiente a montré une amélioration clinique des lésions des membres inférieurs jusqu'à leur résolution complète.
+En ce qui concerne sa maladie oncologique, en mai 2015, un nouveau PET-CT a été réalisé, qui a montré une réponse métabolique complète après le troisième cycle de la combinaison de dabrafenib avec trametinib.

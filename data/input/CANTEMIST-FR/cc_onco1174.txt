@@ -1,0 +1,32 @@
+Anamnèse
+Une femme de 34 ans a subi une hystérectomie et une double annexectomie en décembre 2004 pour une suspicion de léiomyome intraligamentaire droit. Ses antécédents personnels comprennent deux accouchements sans incident ; elle fume un demi-paquet par jour depuis 10 ans.
+
+Examen physique
+PS 0. L'examen physique général était sans particularité.
+L'examen gynécologique a révélé un utérus dur, fibromateux, multinodulaire et hypertrophié.
+
+Examens complémentaires
+- Échographie transvaginale : utérus mesurant 152 x 66 x 77 mm avec présence d'un myome sur la face antérieure mesurant 38 x 33 mm et d'un autre sur la face postérieure mesurant 55 x 50 mm.
+- Anatomie pathologique peropératoire (12/2004) : myome.
+- AP définitive (2/2005) : léiomyosarcome dans un myome intraligamentaire avec plus de 30 mitoses par champ, nécrose minimale, sans invasion lymphovasculaire ou périneurale et un Ki 67 de 20%, sans atteinte de la surface séreuse pT1. Récepteurs d'œstrogènes et de progestérone négatifs. Col de l'utérus sans altération, ovaires normaux.
+- Scanner CT-CT (3/2005) : normal.
+- IRM abdomen-pelvis (3/2005) : normal.
+
+Diagnostic
+Leiomyosarcome utérin localisé.
+
+Traitement
+Compte tenu de ce diagnostic, le service de gynécologie a commencé à surveiller la patiente et, en août 2005, une tumeur solide mesurant 73 x 68 mm a été détectée par échographie dans la zone annexielle droite. Une tomodensitométrie complète a été demandée, qui a révélé une masse pelvienne mesurant 65 x 60 mm.
+En septembre, la masse a été réséquée et des biopsies de l'épiploon ont été réalisées, confirmant la récurrence du léiomyosarcome. En novembre, elle a été adressée au service d'oncologie médicale qui, après avoir exclu toute maladie résiduelle ou à distance par IRM et tomodensitométrie, l'a envoyée en radio-oncologie où une radiothérapie externe a été appliquée au volume pelvien. Au cours du traitement, une récidive pelvienne de 3 cm a été observée, derrière le muscle droit et en avant de la vessie, et une chimiothérapie (QT) a été entamée selon le schéma ifosfamide 1,5 mg/m2 (jours 1-4) + doxorubicine 20 mg/m2 (jours 1-3).
+En février 2006, la RT (50 Gy ; 2 Gy/jour) a été achevée et en mai les 6 cycles de QT.
+
+L'évolution
+En août 2006, lors d'un examen gynécologique, un nodule pelvien dur et douloureux de 4 cm a été palpé dans l'hémi-bassin antérieur, qui n'a pu être localisé par échographie et n'a pu être biopsié. Le scanner étant normal, une TEP a été demandée pour préciser la lésion et exclure une maladie à d'autres niveaux. Une adénopathie dans la fosse iliaque droite avec un SUV maximal de 19,45 a été détectée.
+Une intervention chirurgicale de sauvetage a été proposée, avec métastasectomie du segment VIII et résection du tissu lymphoïde dans la région péri-iliaque droite. Les résultats de l'examen anatomopathologique étaient cohérents avec l'histologie du sarcome, avec un Ki 67 de 90 %. Les marges chirurgicales sont libres à l'exception d'une infiltration microscopique dans le tissu lymphoïde périhilaire. Un traitement adjuvant QT par doxorubicine liposomale 50 mg/m2 pendant 6 cycles a alors été proposé. Il s'est terminé en septembre 2009, sans aucun signe de la maladie, jusqu'à ce qu'un examen TEP-TDM en février 2011 montre une nouvelle prise dans le segment II avec un SUV maximal de 7,1.
+Une IRM a été demandée, qui a détecté trois LOE hépatiques, deux dans le segment II (5 mm et 10 mm) et un autre dans le segment VIII (10 mm). Le patient a été présenté au comité des tumeurs digestives pour évaluer l'indication de la chirurgie. Il a été décidé de commencer une induction QT avec de l'ifosfamide 3 mg/m2 et de réévaluer la situation après deux cycles. Après cela, une progression IRM a été observée avec deux nouvelles métastases dans les segments III et IVa, confirmées par TEP.
+En mai 2011, il a été mis sous doxorubicine liposomale pégylée 50 mg/m2, avec six cycles et une réponse partielle à la TEP. En décembre, une progression hépatique et osseuse a été observée par TEP-TDM.
+Le docétaxel 100 mg/m2 et la gemcitabine 900 mg/m2 ont été proposés. Après 3 cycles, il a eu une réponse hépatique partielle et après 5 cycles une progression hépatique en août 2012.
+La trabectidine a été introduite et après 6 cycles, il a présenté une réponse partielle. Une pause de 3 mois a été décidée conjointement avec le patient, et lors de la réévaluation d'avril 2013, une progression hépatique a été constatée.
+Le pazopanib a été mis en place jusqu'en août, date à laquelle il a progressé massivement dans le foie.
+Étant donné que la patiente avait un bon PS, un traitement au témozolomide a été proposé. Après trois cycles, elle a présenté en novembre une progression médiastinale et hépatique ainsi que des lésions lombaires. À ce moment-là, il a été décidé conjointement de ne pas poursuivre le traitement par QT et de commencer un traitement symptomatique exclusif.
+Finalement, il est décédé à son domicile en janvier 2014.

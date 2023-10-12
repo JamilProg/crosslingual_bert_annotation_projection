@@ -1,0 +1,32 @@
+Anamnèse
+Un homme de 64 ans avec les antécédents personnels suivants : buveur de 100 g d'éthanol par jour, hypertension artérielle, diabète non traité, dyslipidémie, obésité morbide, dépression depuis plusieurs mois, hyperuricémie avec plusieurs crises de goutte, couperose, syndrome du canal carpien, arthrose cervicale et apnée du sommeil sous traitement par CPAP.
+Ses antécédents familiaux sont les suivants : mère atteinte d'un cancer du sein à l'âge de 80 ans. Deux oncles maternels atteints d'un cancer du colon à 57 et 73 ans et un oncle maternel atteint d'un cancer du cerveau à 40 et quelques années. Une cousine maternelle atteinte d'un cancer de l'estomac et une cousine maternelle atteinte d'un cancer du côlon. Tante maternelle atteinte d'un cancer du poumon.
+La patiente prend habituellement du trandolapril, du vérapamil et de l'hydrochlorothiazide pour l'hypertension, de l'oméprazole, de l'AAS, des statines, de la sertraline et de l'allopurinol.
+En mai 2013, elle a commencé à présenter une dysphagie progressive, des démangeaisons, des brûlures d'estomac, un reflux et un épisode isolé d'hématémèse. Après une aggravation des symptômes cliniques et une réfractarité au traitement pharmacologique, son médecin traitant l'a orienté vers une endoscopie, qui a confirmé la présence d'une tumeur et l'a adressé au service de chirurgie, qui a complété les études et conclu au diagnostic de non-résécabilité en raison d'une atteinte ganglionnaire à distance. Le cas a été discuté avec le service d'oncologie médicale et le patient a été orienté vers un traitement par chimiothérapie.
+
+Examen physique
+L'examen physique ne révèle rien de particulier.
+
+Examens complémentaires
+"Endoscopie : muqueuse œsophagienne sans lésion jusqu'au tiers distal, présentant à 28 cm une lésion tumorale à bords irréguliers friables sténosant la lumière de la trompe œsophagienne s'étendant jusqu'à la ligne Z à 38 cm, qui a fait l'objet d'une biopsie. Saignement facile au frottement et à la biopsie. Empreinte diaphragmatique à 41 cm (limite de la hernie hiatale).
+"Tomodensitométrie : métastases pulmonaires, ganglionnaires médiastinales et sous-cutanées.
+"Pathologie : immunohistochimie pour la surexpression de HER-2 supérieure à 47% (3+).
+
+Diagnostic
+Adénocarcinome de la jonction gastro-œsophagienne.
+
+Traitement
+Les résultats de l'anatomie pathologique ont permis d'établir le diagnostic d'adénocarcinome de la jonction gastro-œsophagienne de type intestinal, stade IV Erb-2 +++, car l'IHC a montré une expression protéique supérieure ou égale à 47 %. Il présente des métastases pulmonaires depuis juillet 2013 avec apparition ultérieure de métastases ganglionnaires médiastinales et sous-cutanées.
+Le patient a participé à l'essai clinique FUPOCAN-HERXO.
+Chimiothérapie de 1ère ligne : capécitabine, oxaliplatine et trastuzumab entre le 09/08/2013 et le 25/08/2014.
+18 cycles. Toxicités : nausées, dysgueusie, anémie, asthénie et neuropathie de grade I. Le scanner du 09/09/2014 a montré une progression de la tumeur primaire.
+2ème ligne de chimiothérapie : une nouvelle ligne avec TDM1 a été débutée dans le cadre de l'essai clinique GASTBY entre le 03/10/2014 et le 29/05/2015. Toxicités : anémie de grade 1, thrombopénie de grade 1 et nausées. Arrêt du traitement en raison de la progression de la tomodensitométrie le 24/04/2015.
+3ème ligne de chimiothérapie : trastuzumab à partir du 11/8/2015 et paclitaxel a été associé du 17/02/2016 au 22/06/2016. Toxicités : mucite de grade 1, cutanée de grade 1 probablement déclenchée par l'exposition solaire. Abandonné en raison de la progression observée au scanner du 04/02/2016 qui rapportait une progression de la tumeur primitive dans le tiers distal de l'œsophage, des adénopathies au niveau supraclaviculaire gauche et pulmonaire bilatéral.
+4ème ligne de chimiothérapie : irinotécan et trastuzumab entre le 13/07/2016 et le 01/02/2017. Toxicités : anémie ferriprive de grade I, neutropénie et vomissements de grade II. Une progression a été observée au scanner le 02/02/2017, à la fois des métastases pulmonaires et de la tumeur primaire.
+Le patient a été inclus dans l'essai clinique TO-TAS et a commencé un traitement par TAS 102 le 28/02/2017. Il a présenté comme toxicités une asthénie et des nausées de grade II.
+La tomodensitométrie du 28/04/2017 a montré une progression de la tumeur, avec une croissance de la masse tumorale dans l'œsophage distal. Une plus grande invasion du médiastin adjacent, en particulier à droite de la tumeur, avec une condensation du parenchyme pulmonaire adjacent dans le lobe moyen, probablement due à une infiltration directe.
+Les métastases pulmonaires se sont également développées, de même que le hile gauche et les adénopathies médiastinales, dont la taille a augmenté.
+Dernier cycle de TAS102 le 18 mai 2017.
+
+L'évolution
+L'atteinte tumorale a progressé selon les différentes lignes de traitement.

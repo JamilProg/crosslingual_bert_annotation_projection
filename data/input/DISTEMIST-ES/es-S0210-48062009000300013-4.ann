@@ -1,0 +1,14 @@
+T1	pathologie 52 61	Hepatitis
+T2	pathologie 119 129	Cistinuria
+T3	pathologie 248 251	HTA
+T4	pathologie 262 305	litiasis de 1 cm en cáliz inferior de riñón
+T5	pathologie 460 480	hematoma subcapsular
+T6	pathologie 508 516	hematoma
+T7	pathologie 621 629	hematoma
+#1	SNOMED T1	128241005
+#2	SNOMED T2	85020001
+#3	SNOMED T3	38341003
+#4	SNOMED T5	385494008
+#5	SNOMED T6	385494008
+#6	SNOMED T7	385494008
+#7	SNOMED T4	236708007

@@ -1,0 +1,40 @@
+Anamnèse
+Homme de 68 ans, né en Estrémadure mais vivant à Majorque, marié et père d'une fille.
+Le seul antécédent pathologique intéressant est un diabète sucré de type 2 depuis 2010, traité par metformine avec un bon contrôle de la glycémie et sans complications.
+
+Diagnostiqué en mars 2014 avec un cancer du sigmoïde de stade IV cT3N1bM1 (métastases hépatiques et implants péritonéaux douteux) avec un début subocclusif, donc en avril 2014 une sigmoïdectomie laparoscopique et une métastasectomie du segment III ont été réalisées. L'anatomie pathologique a montré : pT3N2b (7/20) M1 (maladie hépatique bilobaire) adénocarcinome de bas grade du sigma, marges chirurgicales libres et pas de maladie péritonéale. Etude moléculaire : KRAS WT, PI3K WT, BRAF WT, NRAS WT.
+
+En juin 2014, il a été inclus dans l'essai clinique VISNU-1 et randomisé dans le bras FOLFOX-6+BVZ avec une bonne tolérance de celui-ci, présentant une réponse radiologique partielle en septembre 2014, raison pour laquelle un sauvetage chirurgical des métastases hépatiques a été décidé. En octobre 2014, une embolisation portale a été réalisée et, dans un second temps (novembre 2014), une hépatectomie droite a été effectuée.
+
+Comme complication, il a présenté une décompensation ascitique œdémateuse et une détérioration de son état général, ce qui l'a conduit à ne pas poursuivre le traitement par QT complémentaire. Il a quitté l'essai clinique et a commencé le suivi.
+
+En avril 2015, il a présenté une progression hépatique et pulmonaire probable 5 mois après la chirurgie et 6 mois après la fin du QT, donc ayant récupéré son état général (performance status de 1), il a recommencé le QT selon le schéma FOLFIRI avec une bonne tolérance clinique.
+
+En août 2015, il a présenté une réponse paradoxale, avec une progression osseuse (lésion dans la lame iliaque gauche) avec une masse des tissus mous, mais une réponse partielle de la maladie hépatique, de sorte que le cetuximab a été ajouté au traitement. Il a également subi une radiothérapie antalgique (20Gy, 5f entre le 7 et le 11 septembre). La dernière QT administrée a eu lieu le 7 octobre 2015.
+
+Après deux cycles de traitement, il a été hospitalisé en octobre 2015 pour un ulcère cutané nécrotique rapidement progressif dans la région tibiale antérieure droite, malgré un traitement local et systémique à la lévofloxacine pendant 7 jours (l'ulcère avait commencé par une érosion cutanée 10 jours plus tôt). Le patient n'a pas déclaré de fièvre ni d'autres symptômes, n'a pas subi de traumatisme et n'a pas été piqué par un insecte.
+
+Examen physique
+L'examen physique a révélé un ulcère cutané nécrotique dans la région tibiale antérieure droite, présentant initialement des bords érythémateux et un fond de débris cellulaires et de fibrine, mais sans signe de surinfection. Le reste de l'examen physique était sans particularité, sans autre lésion cutanée visible.
+
+Examens complémentaires
+Les analyses sanguines n'ont révélé aucune élévation des réactifs de phase aiguë et l'hémoglobine glyquée a été demandée pour exclure les complications liées au diabète, et s'est révélée normale (6,5 %).
+Une échographie a révélé une cellulite, probablement une myosite infectieuse/inflammatoire.
+Une échographie Doppler artérielle a également été réalisée et s'est révélée normale.
+Devant l'évolution du tableau clinique, une échographie de contrôle a été demandée, qui a montré une cellulite non spécifique avec myosite et fasciite superficielle et profonde.
+Différentes biopsies ont été réalisées et ont révélé une inflammation abcédée aiguë non spécifique (à une occasion avec une structure fongique PAS+ sans répercussion clinique) avec une culture positive pour de multiples micro-organismes considérés comme des contaminants.
+Pour compléter l'étude, une tomographie axiale informatisée (TAO) thoraco-abdomino-pelvienne de re-stadification a été demandée, montrant l'apparition d'un nodule pulmonaire dans le LSI et la stabilité des deux autres nodules décrits dans les études précédentes avec un épanchement pleural droit minime, ainsi qu'une croissance des métastases osseuses iliaques gauches et une croissance des métastases hépatiques (en taille et en nombre).
+
+Diagnostic
+Pyoderma gangrenosum en tant que syndrome paranéoplasique d'un carcinome colorectal métastatique.
+Progression hépatique et osseuse d'un adénocarcinome colorectal métastatique.
+
+Traitement
+Compte tenu de la complexité du tableau clinique, une évaluation multidisciplinaire a été nécessaire (dermatologie, unité de septicémie, microbiologie, anatomie pathologique, chirurgie générale, traumatologie et oncologie).
+
+Le traitement a commencé par une antibiothérapie et de la prednisone à raison de 1mg/kg/jour, en plus d'un débridement chirurgical pour éviter la surinfection.
+Grâce à ces mesures, la réponse maximale a été la stabilisation de la maladie.
+Étant donné la stabilité de l'état et la suspicion d'un pyoderma gangrenosum associé à la progression du carcinome colorectal, il a été décidé d'initier la ciclosporine A à une dose de 5mg/kg/jour avec une surveillance de la fonction rénale, des ions et de la pression artérielle (en raison de ses effets secondaires), présentant une excellente réponse clinique avec une ré-épithélialisation progressive de l'ulcère de la peau après le début du traitement.
+
+Évolution
+Malgré l'amélioration progressive de l'ulcère cutané nécrotique, le patient a présenté une détérioration de l'état général avec un état de performance de 3 qui a découragé le traitement oncospécifique dirigé vers la cause du syndrome paranéoplasique (progression de la maladie tumorale sous-jacente).

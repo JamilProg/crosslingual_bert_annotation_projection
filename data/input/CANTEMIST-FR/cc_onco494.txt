@@ -1,0 +1,22 @@
+Anamnèse
+Homme de 66 ans, ex-fumeur, avec des antécédents personnels d'hypertension, de dyslipidémie, d'hyperuricémie, de syndrome d'apnée et d'hypoapnée du sommeil, de diverticulose colique, d'hémorroïdes et de cardiomyopathie dilatée avec dysfonctionnement systolique sévère.
+A consulté en mars 2016 pour des épigastralgies non spécifiques.
+
+Examen physique
+L'examen physique a révélé un ECOG-1 ; les autres résultats étaient sans particularité.
+
+Examens complémentaires
+Les examens complémentaires suivants ont été effectués : des examens de laboratoire sans données pertinentes ; un scanner montrant une masse dans le rein droit d'un diamètre de 8,9 x 7,5 cm compatible avec une néoplasie rénale primaire comme premier diagnostic, accompagnée d'un thrombus dans la veine rénale. Aucune autre lésion n'a été constatée.
+
+Diagnostic
+En mars 2016, il a subi une néphrectomie radicale et l'anatomie pathologique était compatible avec un carcinome rénal à cellules claires de 12 cm de grade 4, avec invasion de la veine rénale. La résection était de type R1.
+Le diagnostic étant donc celui d'un carcinome rénal à cellules claires, pT3b cN0 cM0, grade IV, il a été évalué dans le service d'oncologie médicale et s'est vu proposer un suivi.
+
+Traitement
+Un suivi a été mis en place et en mai 2016, elle s'est rendue aux urgences pour des vomissements, et une tomodensitométrie urgente a été réalisée au cours de laquelle des nodules pulmonaires et des adénopathies hilaires bilatérales ont été trouvés, tous évocateurs de métastases.
+Au vu de ces résultats, elle a été mise sous traitement de première intention par pazopanib à la dose quotidienne de 800 mg toutes les 24 heures. Il a nécessité plusieurs retards et réductions de dose en raison d'une diarrhée de grade 3 et d'une hypertransaminasémie. Une réponse partielle majeure a été observée au scanner thoraco-abdominal selon les critères RECIST 1.1 3 mois après le début du traitement. Elle a poursuivi le traitement à une dose ajustée jusqu'en octobre 2017, date à laquelle un scanner de contrôle a montré une progression ganglionnaire pulmonaire et médiastinale.
+Avec un ECOG de 0, un traitement de 2ème ligne a été débuté avec du nivolumab à une dose de 3 mg/kg toutes les 2 semaines puis à 480 mg toutes les 4 semaines après approbation de cette dose dans le dossier technique. Depuis le début du traitement, le patient a fait preuve d'une excellente tolérance. Aucun retard de dose n'a été nécessaire en raison d'effets indésirables. Dans les tests de contrôle radiologique, la meilleure réponse a été une réponse clinique complète.
+
+Évolution
+Après 34 cycles, et le maintien d'une réponse complète au scanner, elle a commencé à présenter des rectorragies, sans diarrhée associée de 24 heures d'évolution. Elle s'est rendue aux urgences en mai 2019, et une prise de sang a été réalisée qui a montré un taux d'hémoglobine de 12,1 (précédent = 14). Une coloscopie a également été réalisée, qui a montré une atteinte continue de la muqueuse avec une perte complète du schéma vasculaire et des érosions, le tout compatible avec un diagnostic de colite immunitaire associée aux inhibiteurs de points de contrôle. L'anatomopathologie a montré une distorsion de l'architecture, la présence d'un infiltrat inflammatoire dans la lamina propria, une imprégnation marquée de l'épithélium par les neutrophiles avec la présence d'abcès cryptiques et, focalement, quelques images d'apoptose. Ces résultats confirment la suspicion diagnostique.
+Le patient a été admis au service digestif et un traitement à base de corticostéroïdes à forte dose, de sérumothérapie et d'antibiothérapie a été mis en place. À l'heure actuelle, il est hémodynamiquement stable, avec un taux d'hémoglobine de 12,6, et reçoit un traitement dégressif de corticoïdes. Il est prévu de le revoir à la clinique d'oncologie médicale pour évaluer l'approche thérapeutique.

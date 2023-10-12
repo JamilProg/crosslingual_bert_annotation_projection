@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 65 ans, allergique aux dérivés de la colchicine et au diclofénac. Pas de facteurs de risque cardiovasculaire ni de médicaments chroniques. Son seul antécédent était une cyphoscoliose sévère et elle avait subi une hystérectomie avec double annexectomie et ablation d'un neurofibrome.
+Antécédents oncologiques : en juillet 2017, on lui a diagnostiqué un carcinome rénal à cellules claires gauche de stade IV avec atteinte pulmonaire et ganglionnaire. En août de la même année, elle a commencé un traitement par sunitinib 50 mg/24 h (schéma 4/6) en première intention pour une maladie métastatique.
+Un mois après le début du traitement, elle s'est rendue aux urgences pour les quatre derniers jours avec une hématurie franche. Elle n'a pas signalé de syndrome mictionnel ni de fièvre. Elle n'a eu que des épisodes isolés de vomissements avec contenu alimentaire, sans douleur abdominale ni altération du transit gastro-intestinal.
+
+Examen physique
+Apathique et stable sur le plan hémodynamique. Indice de Karnofsky à 70 %. Pâleur cutanéo-muqueuse. Pas d'hématomes ni d'adénopathies palpables. L'examen cardio-pulmonaire et abdominal est normal.
+
+Examens complémentaires
+Les examens de laboratoire effectués à l'admission ont montré des leucocytes de 3 400/ml, une hémoglobine de 10,9 g/dl, avec un volume corpusculaire moyen et une hémoglobine corpusculaire moyenne normaux, des plaquettes de 31 000/ml, une urée de 43,6 mg/dl, une créatinine de 0,89 mg/dl et une protéine C-réactive de 77 mg/l.
+L'analyse d'urine effectuée à l'admission a révélé des nitrites négatifs et, dans le sédiment, 25 à 50 globules rouges par champ et 2 à 5 leucocytes.
+La radiographie du thorax a montré les nodules pulmonaires connus sans autres résultats pertinents.
+
+Diagnostic
+"Carcinome rénal de stade IV traité par sunitinib.
+"Thrombocytopénie de grade 4 secondaire à la thérapie antiangiogénique.
+"Hématurie secondaire à la thrombocytopénie.
+
+Traitement
+Compte tenu de l'hématurie franche, une sonde vésicale a été posée pour un lavage continu de la vessie, de l'acide tranexamique 0,5 g/8 h a été prescrit et un concentré plaquettaire a été transfusé, avec une légère amélioration clinique et de laboratoire.
+Pendant l'hospitalisation, des hémogrammes quotidiens ont été réalisés, montrant une diminution progressive de la numération plaquettaire, raison pour laquelle une corticothérapie à faible dose a été ajoutée (méthylprednisolone 20 mg/12 h), sans obtenir d'augmentation de ce paramètre analytique.
+Malgré le traitement prescrit, le patient continuait à présenter une hématurie et une numération plaquettaire de 6 000/mcl, ce qui a conduit à demander un frottis périphérique ; ce chiffre a été confirmé et des schistocytes ou d'autres altérations morphologiques ont été exclus.
+En accord avec l'hématologie, les corticostéroïdes ont été augmentés à une dose de 1 mg/kg/jour et des immunoglobulines intraveineuses ont été prescrites (1 g/kg pendant 48 heures). Après ce traitement, la numération plaquettaire a progressivement augmenté jusqu'à ce que le patient sorte de l'hôpital avec un taux de 41 000/mcl.
+Tout au long de l'hospitalisation, six concentrés plaquettaires ont dû être transfusés. En outre, les complications comprenaient une épistaxis bilatérale qui a nécessité un emballage nasal par le service ORL, et une infection des voies urinaires secondaire à la pose d'un cathéter vésical. Une culture d'urine a isolé plus de 100 000 UFC/ml d'Enterococcus faecalis et d'Escherichia coli sensibles à la nitrofurantoïne, ce qui a entraîné un traitement par cet antibiotique et le remplacement de la sonde vésicale.
+
+Évolution
+Au moment de la sortie de l'hôpital, il a été décidé d'arrêter définitivement le sunitinib et un traitement par nivolumab à la dose de 3 mg/kg tous les 15 jours a été instauré en deuxième intention pour la maladie métastatique. Elle est actuellement en réponse partielle (RP) après 13 cycles d'anti PD-1.

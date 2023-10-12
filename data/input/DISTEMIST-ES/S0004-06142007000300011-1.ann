@@ -1,0 +1,32 @@
+T1	pathologie 511 554	arritmia completa por fibrilación auricular
+T2	pathologie 533 554	fibrilación auricular
+T3	pathologie 776 802	masa quística multilocular
+T4	pathologie 887 898	tumor renal
+T5	pathologie 1139 1151	masa tumoral
+T6	pathologie 2469 2474	tumor
+T7	pathologie 2693 2698	tumor
+T8	pathologie 3110 3134	proliferación neoplásica
+T9	pathologie 3454 3470	mixofibrosarcoma
+T10	pathologie 3475 3517	fibrohistiocitoma maligno variante mixoide
+T11	pathologie 3553 3558	tumor
+T12	pathologie 3637 3652	mixoliposarcoma
+T13	pathologie 3662 3675	tumor adiposo
+T14	pathologie 3839 3908	mixoliposarcoma perirenal con indiferenciación hacia mixofibrosarcoma
+T15	pathologie 3892 3908	mixofibrosarcoma
+T16	pathologie 3913 3955	fibrohistiocitoma maligno variante mixoide
+#1	SNOMED T1	49436004+698247007
+#2	SNOMED T2	49436004
+#3	SNOMED T3	86463003
+#4	SNOMED T4	126880001
+#5	SNOMED T6	55342001
+#6	SNOMED T11	55342001
+#7	SNOMED T13	254831005
+#8	SNOMED T14	27849002
+#9	SNOMED T10	254749001
+#10	SNOMED T16	254749001
+#11	SNOMED T5	55342001
+#12	SNOMED T9	723076008
+#13	SNOMED T15	723076008
+#14	SNOMED T8	1495041000004108
+#15	SNOMED T7	55342001
+#16	SNOMED T12	27849002

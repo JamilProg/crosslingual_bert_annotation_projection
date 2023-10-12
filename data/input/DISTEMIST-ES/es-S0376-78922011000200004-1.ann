@@ -1,0 +1,20 @@
+T1	pathologie 53 80	insuficiencia renal crónica
+T2	pathologie 335 366	lesiones eritematosas en flanco
+T3	pathologie 421 430	flictenas
+T4	pathologie 433 449	necrosis cutánea
+T5	pathologie 508 516	lesiones
+T6	pathologie 591 610	fascitis necrosante
+T7	pathologie 1417 1426	infección
+T8	pathologie 1838 1846	hematoma
+T9	pathologie 1849 1858	infección
+T10	pathologie 2712 2718	herida
+#1	SNOMED T6	52486002
+#2	SNOMED T7	40733004
+#3	SNOMED T1	90688005
+#4	SNOMED T3	247464001
+#5	SNOMED T8	385494008
+#6	SNOMED T9	40733004
+#7	SNOMED T4	95347000
+#8	SNOMED T10	416462003
+#9	SNOMED T2	70819003
+#10	SNOMED T5	157670007

@@ -1,0 +1,28 @@
+Anamnèse
+Femme ménopausée de 52 ans, avec une vie professionnelle active, sans habitudes toxiques ni facteurs de risque cardiovasculaire, et sans antécédents médicaux ou chirurgicaux intéressants. Avant le diagnostic, elle ne prenait aucun médicament de façon régulière. Ses antécédents familiaux de cancer comprenaient un père atteint d'un adénocarcinome de l'œsophage à l'âge de 69 ans, sans autre antécédent de carcinome du sein ou de l'ovaire.
+En juillet 2018, elle s'est auto-palpée une masse mammaire aréolaire associée à un prurit et une sensation de brûlure. Elle n'a rapporté aucun syndrome toxique ni aucun autre symptôme. Elle a d'abord consulté son médecin généraliste, qui a effectué un examen physique au cours duquel une plaque érythémato-squameuse de 2 cm a été trouvée, circonscrite au mamelon droit. Compte tenu des doutes diagnostiques, une mammographie a été demandée, dont le résultat n'était pas évocateur de malignité et a donc été classé comme dermatite eczémateuse du mamelon droit, et un traitement de corticostéroïdes topiques a été entamé.
+Six mois plus tard, la patiente s'est présentée à une visite de contrôle, signalant des démangeaisons persistantes dans la région aréolaire, bien que les symptômes se soient améliorés au cours des premières semaines grâce à un traitement topique. La suspicion d'une néoplasie a conduit à l'orientation du patient vers notre centre et un nouvel examen d'imagerie a été demandé.
+
+Examen physique
+Lors de l'examen physique initial, une lésion érythémato-squameuse palpable et adhérente à la peau, mesurant 3 cm, persiste sur le sein droit au niveau de l'aréole, avec cette fois la palpation de deux indurations axillaires droites suspectes d'une atteinte ganglionnaire. Lors de la palpation, aucun signe évocateur de tumeur ou d'atteinte ganglionnaire n'a été observé dans le sein controlatéral. Il a été décidé de poursuivre l'étude par des examens d'imagerie.
+
+Tests complémentaires
+Dans le cadre de l'étude, les examens suivants sont réalisés :
+"Échographie-mammographie mammaire : une image nodulaire est observée dans le sein droit dans la région rétro-aréolaire avec quelques microcalcifications associées. Densité accrue de l'aréole droite, entre l'aréole et le nodule, discrète rétraction fibroglandulaire naissante. Ganglions axillaires bilatéraux prédominant à droite. L'échographie montre un nodule hyperéchogène de 10 mm dans la région rétro-aréolaire, compatible avec un processus néoplasique, probablement d'origine intraductale. Image de morphologie nodulaire mesurant 23 x 6 mm dans la région aréolaire MD, le tout évoquant une maladie de Paget. Ganglions lymphatiques dans la région axillaire droite, dont deux d'aspect pathologique de 2,5 et 4,3 mm. Globalement, BIRADS 4C.
+"IRM mammaire : une prise de contraste paramagnétique hétérogène avec courbe pathologique est observée dans le complexe mamelon-aréole et avec une extension rétro-aréolaire du sein droit. La lésion mesure 2,1 x 1,6 x 2,7 cm, elle est située à 0,35 cm du mamelon et à 0,14 cm de la peau. Au moins trois ganglions lymphatiques ipsilatéraux présentant une augmentation de la captation sont observés.
+"Marqueurs tumoraux : antigène carcinoembryonnaire 1,91 ng/ml, CA 15.3 6,65UI/ml, CA 19.9 6,59U/ml, CA125 7,51U/ml.
+Il a donc été décidé de réaliser une biopsie, ainsi qu'une FNA des ganglions lymphatiques. En ce qui concerne l'étude d'extension, il a été demandé ce qui suit :
+"CT scan thoraco-abdominal : nodules du sein droit, indéterminés par CT scan. Pas d'autres signes de lésions suggérant une implication tumorale.
+"Scintigraphie osseuse : dans la scintigraphie osseuse, il n'y avait pas d'images actives compatibles avec l'os M1 avec activité ostéogénique.
+
+Diagnostic
+Le résultat de la biopsie du sein droit confirme l'infiltration dermique par un carcinome canalaire infiltrant, grade II, avec une coloration positive pour GATA 3, négative pour kératine 7 et p63.
+L'immunohistochimie révèle une positivité pour les récepteurs aux oestrogènes (Score 8), à la progestérone (Score 4), une négativité pour neu/HER-2 par HercepTest® et un Ki67 de 5%. La FNA axillaire droite s'est révélée positive pour le carcinome.
+La patiente a donc été évaluée comme une femme ménopausée de 52 ans à qui l'on a diagnostiqué un carcinome canalaire infiltrant du sein droit, grade II, récepteurs hormonaux positifs, HER-2 négatif, cT4cN1M0 (stade IIIB).
+
+Traitement
+Le cas a été présenté à un comité multidisciplinaire et, étant donné que la patiente était en bon état général (ECOG PS 0, IK 100 %) et sans comorbidités majeures, elle a été considérée comme candidate à un traitement néoadjuvant selon le schéma EC (épirubicine 90 mg/m2 + cyclophosphamide 600 mg/m2 tous les 21 jours) suivi d'un TAXOL hebdomadaire.
+
+Évolution
+Jusqu'à présent, la patiente a terminé deux cycles de chimiothérapie (épirubicine + cyclophosphamide tous les 21 jours), avec une bonne tolérance clinique, ne présentant que des nausées de type G1 qui ont pu être résolues avec des antiémétiques. La lésion aréolaire présente toujours une composante importante de desquamation, mais le prurit s'est atténué et la douleur mammaire occasionnelle est correctement contrôlée par la première étape analgésique de l'OMS.
+Après avoir terminé le traitement néoadjuvant, et étant donné que la patiente présente une atteinte adénopathique initiale, une évaluation de la réponse sera effectuée en vue d'une nouvelle stadification des ganglions lymphatiques et d'une évaluation des options chirurgicales, sans écarter la possibilité d'une tumorectomie.

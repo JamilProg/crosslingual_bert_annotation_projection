@@ -1,0 +1,35 @@
+ANAMNÈSE
+Il s'agit d'un homme de 60 ans avec des antécédents personnels d'hypertension artérielle, de dyslipidémie, d'accident ischémique transitoire (AIT, 06/2018), fumeur (avec un indice paquet/année de 66), et travailleur du bois. En ce qui concerne ses antécédents oncologiques, une excision a été réalisée pour un carcinome épidermoïde de stade I du plancher de la bouche (T1N0M0) en mai 2014, avec une résection complète et un suivi ultérieur en oto-rhino-laryngologie.
+En juin 2018, lors d'une hospitalisation pour AIT, une nouvelle lésion pseudonodulaire a été observée fortuitement à la radiographie du thorax au niveau de la base pulmonaire droite. L'étude a été complétée par une tomographie axiale assistée par ordinateur, qui a confirmé la lésion, d'une taille de 14 mm. Compte tenu de ces résultats, le patient a été adressé à la chirurgie thoracique pour évaluation.
+
+EXAMEN PHYSIQUE
+- État de performance 0, poids 81 kg, taille 160 cm, indice de masse corporelle 31'64 kg/m², surface corporelle 1'84 m².
+- Bon état général. Conscient et orienté dans les trois sphères. Couleur normale, normohydraté et normoperfusé. Eupnéique au repos. Afébrile.
+- Auscultation cardio-pulmonaire : bruits cardiaques rythmés sans souffle. Murmure vésiculaire conservé avec crépitations bibasales.
+- Abdomen, membres inférieurs et système neurologique : aucun signe pathologique.
+
+EXAMENS COMPLÉMENTAIRES
+1) Analyses sanguines : pas de résultats significatifs.
+2) Sérologie négative.
+3. Radiographie du thorax 06.06.2018 : Lésion pseudonodulaire sous-pleurale dans le poumon droit non vue dans l'étude précédente, compatible avec une interposition de tissus mous compte tenu de sa morphologie et de sa localisation.
+4. Tomodensitométrie axiale du thorax 06.2018 : nodule sous-pleural dans le segment supérieur du lobe inférieur droit de 14 mm.
+5. Tomographie par émission de positons (TEP) 09.2018 : Un nodule pulmonaire sous-pleural hypermétabolique (13 mm et valeur maximale de la prise standardisée (SUV) 4'8) est identifié dans le segment supérieur du lobe inférieur droit, ce qui ne permet pas d'exclure une tumeur maligne.
+6. Tests de la fonction respiratoire :
+- Capacité vitale forcée (CVF) 90%,
+- Volume expiratoire forcé à la première seconde (VEMS) 1,65 (62,2 %),
+- Indice de Tiffenau 55 %,
+- Capacité de diffusion pulmonaire (DLCO) 81%,
+- Volume respiratoire (VR) 170%.
+
+ÉVOLUTION
+Devant le nodule sous-pleural sans pouvoir écarter une tumeur maligne, le dossier a été présenté au comité des tumeurs, et le patient a été adressé en chirurgie thoracique. Il a été opéré le 26/11/2018, par résection transegmentaire du segment 6 du poumon droit.
+L'examen histopathologique a décrit : une tumeur bien définie, fusocellulaire avec un stroma myxoïde et accompagnée d'un infiltrat inflammatoire lymphoplasmocytaire. La tumeur implique les structures alvéolaires dans sa croissance. La cellularité de la tumeur ne présente pas d'atypie ni de mitose. La plèvre et la marge de résection sont exemptes d'infiltration tumorale.
+
+L'étude immunohistochimique de la tumeur est
+- Positive pour la vimentine et l'actine musculaire lisse (en patch).
+- Négative pour ALK, Desmine et S100, CD34, CD31, HMB45, CK AE1/AE3 et CK7.
+- Ki 67 : 3%.
+
+JUGEMENT DIAGNOSTIQUE
+Tumeur pulmonaire myofibroblastique inflammatoire ALK négative avec résection complète.
+Actuellement en cours de suivi.

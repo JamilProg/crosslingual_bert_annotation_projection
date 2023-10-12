@@ -1,0 +1,35 @@
+Anamnèse
+Nous présentons le cas d'un homme de 31 ans chez qui on a diagnostiqué un adénocarcinome pancréatique localement avancé, avec des antécédents de cancer familial du pancréas. La combinaison de la chimiothérapie et de la chirurgie et, en cas de rechute, l'utilisation de la gemcitabine et du nab-paclitaxel, ont permis d'obtenir une longue survie.
+Un patient de 31 ans sans antécédents médicaux intéressants, à l'exception d'une lithiase rénale, avec des antécédents familiaux oncologiques positifs de cancer du pancréas, qui a demandé un deuxième avis dans notre centre après le diagnostic d'un adénocarcinome du pancréas localement avancé. Le patient a été diagnostiqué par hasard à la suite d'un examen tomodensitométrique (TDM) réalisé dans le cadre de l'étude d'une lithiase rénale. La tomodensitométrie a révélé un bombement diffus de la queue du pancréas mesurant 35 x 70 mm, ainsi qu'un épaississement de la paroi gastrique sans plan de séparation avec la queue du pancréas, ce qui suggère une néoformation de la queue du pancréas.
+
+Examen physique
+Au moment du diagnostic, l'examen physique était normal et le patient présentait un PS 0 sans aucun symptôme lié à la maladie.
+
+Examens complémentaires
+Il n'y avait pas d'anomalies analytiques au moment du diagnostic, y compris le Ca 19-9.
+
+Compte tenu des résultats du scanner compatibles avec une néoplasie de la queue du pancréas, l'étude a été complétée par une imagerie par résonance magnétique (IRM) et une gastroscopie.
+IRM : présence d'une lésion pancréatique infiltrant la paroi gastrique, sans envahissement des structures vasculaires.
+Gastroscopie : lésion ulcérée sur la face postérieure de l'antre gastrique mesurant jusqu'à 2 cm, compatible avec une infiltration extrinsèque ; une zone érythémateuse est observée au niveau du bulbe duodénal.
+Des biopsies ont été réalisées pour étude et le diagnostic a été compatible avec une infiltration par un adénocarcinome bien différencié et, au niveau duodénal, avec une lymphangite carcinomateuse.
+Dans notre centre, le patient a été évalué par tomodensitométrie et échoendoscopie.
+Tomodensitométrie thoraco-abdominale et pelvienne : néoplasme connu avec infiltration probable des vaisseaux spléniques, avec circulation collatérale et infiltration de la paroi gastrique. Les métastases à distance ont été exclues.
+Échographie endoscopique (EUS) : mise en évidence d'une lésion bien définie de 33 x 43 mm au niveau de la queue du pancréas, comprimant la paroi gastrique. L'artère mésentérique supérieure, le tronc cœliaque et l'artère hépatique n'étaient pas infiltrés. Une ponction à l'aiguille fine (FNA) a été réalisée, obtenant une cellularité compatible avec un adénocarcinome.
+
+Diagnostic
+Le diagnostic a porté sur un adénocarcinome localement avancé de la queue du pancréas, de stade III cT4 cN0 cM0.
+Un conseil génétique a été effectué : tous les tests étaient négatifs.
+
+Traitement
+Après réévaluation du diagnostic au sein d'un comité multidisciplinaire, il a été décidé de commencer un traitement d'intention préopératoire par oxaliplatine 85 mg/m2, irinotécan 180 mg/m2, leucovorine 400 mg/m2 et 5-fluorouracine 400 mg en bolus suivi de 2400 mg/m2 en perfusion continue pendant 48 heures toutes les 2 semaines (FOLFIRINOX), dont il a reçu 3 cycles entre février et mars 2013.
+Lors de la tomodensitométrie d'évaluation de la réponse, une réponse partielle (RP) a été observée selon les critères RECIST 1.1 avec une diminution de la taille de la lésion pancréatique de 70 à 44 mm (37 %) et il a été considéré comme candidat à une chirurgie d'intention radicale.
+Le 10 avril 2013, une pancréatectomie totale, une gastrectomie latérale et une splénectomie ont été réalisées.
+En peropératoire, aucune carcinomatose péritonéale n'a été observée. L'AP était un adénocarcinome canalaire bien différencié de la queue du pancréas, avec une infiltration contiguë de la paroi gastrique et du pylore et une extension à la capsule splénique. Trente-neuf ganglions lymphatiques ont été isolés sans infiltration et toutes les marges chirurgicales étaient libres. Il s'agit d'un adénocarcinome pancréatique ypT4 ypN0 M0 de stade III.
+Il a reçu un traitement adjuvant par gemcitabine en monothérapie 1000 mg/m2 jours 1, 8 et 15 tous les 28 jours dont il a reçu un total de 6 cycles jusqu'en octobre 2013.
+
+Évolution
+En avril 2014, après un intervalle sans maladie (ISM) de 12 mois, suite à des épisodes répétés de douleurs abdominales coliques et avec des examens complémentaires normaux (CT et IRM), une tomographie par émission de positons (TEP) a été demandée, montrant une captation dans le cæcum avec des valeurs de captation standardisées (SUV) allant jusqu'à 9,1 mg/dl, suggérant une carcinomatose péritonéale.
+Après évaluation du cas par le comité multidisciplinaire, il a été décidé de procéder à une laparotomie exploratrice, révélant de multiples implants compatibles avec une carcinomatose péritonéale. Trois implants ont été réséqués, dont deux dans l'intestin grêle, ce qui a entraîné une occlusion partielle de l'intestin grêle, laissant une maladie macroscopique après la chirurgie.
+Après la rechute péritonéale, il a été décidé de commencer un traitement de chimiothérapie de première ligne avec nab-paclitaxel 125 mg/m2 et gemcitabine 1000 mg/m2 les jours 1, 8 et 15 de tous les 28 jours. Il a reçu 6 cycles jusqu'en décembre 2014, avec un bénéfice clinique significatif. Il n'y a pas eu de maladie mesurable au scanner.
+En avril 2015, il a été mis en évidence un implant sous-cutané dont la biopsie était compatible avec une métastase due à un adénocarcinome d'origine pancréatique. Après un intervalle sans progression (PFI) de 5 mois, il a été décidé de reprendre le traitement par nab-paclitaxel et gemcitabine. La patiente a reçu deux cycles sans bénéfice clinique.
+En septembre 2015, un scanner a montré une progression de la maladie pulmonaire, hépatique et péritonéale (PE), de sorte qu'un traitement par gemcitabine et oxaliplatine (GEMOX) a été décidé, avec peu de bénéfice clinique et nécessitant une admission immédiate à l'hôpital en raison de symptômes encéphalopathiques d'étiologie non identifiée, d'un scanner et d'une IRM cérébrale normaux. Un diagnostic différentiel avec une carcinomatose leptoméningée, une encéphalopathie hépatique, une encéphalopathie à l'oxaliplatine ou une encéphalite infectieuse a été suggéré. Compte tenu du mauvais pronostic et de la détérioration clinique marquée du patient avec un PS 3, l'effort diagnostique a été limité, étant éxitus en novembre 2015 avec une survie globale de 32 mois.

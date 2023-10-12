@@ -1,0 +1,33 @@
+Anamnèse
+Antécédents familiaux : un oncle maternel est décédé d'un cancer de la prostate à plus de 70 ans et un autre d'une néoplasie pharyngée. L'oncle paternel est décédé d'un cancer du poumon.
+Antécédents personnels : pas d'allergies médicamenteuses connues. Ex-fumeur depuis 20 ans (20 paquets/an). Diabète sucré de type II depuis 2004, insulino-dépendant depuis 3 ans.
+Hypercholestérolémie. Travaille dans une cave. Nie avoir consommé des drogues. Traitement habituel : simvastatine 20 mg, oméprazole 20 mg, naproxène en cas de douleurs, cinitapride 10 mg avant les repas.
+Ses antécédents oncologiques ont commencé le 03/12/16, lorsque le patient s'est présenté au service des urgences avec une fièvre allant jusqu'à 38,5ºC, une perte de poids de 7 kg au cours du dernier mois, une dysphagie pour les solides et les liquides, avec une sensation de plénitude gastrique précoce, une asthénie intense et une douleur abdominale hypogastrique.
+L'échographie et la tomodensitométrie abdominale urgente avec contraste ont montré une tumeur abdominale centrale mesurant 17,2 x 7,7 x 7,5 cm, avec une large composante hydro-aérienne, un épaississement mural marqué et irrégulier, en contact avec les anses de l'intestin grêle, probablement liée à une tumeur stromale gastro-intestinale compliquée. Il a été décidé de procéder à une laparotomie exploratoire urgente en raison d'une suspicion de perforation intestinale, qui a révélé un cloaque abdominal central, et une résection de la tumeur avec plusieurs boucles intestinales et une anastomose mécanique latéro-latérale ont été réalisées. Chirurgie sous-optimale en raison de l'atteinte des bords.
+Le rapport anatomopathologique a montré des résultats compatibles avec une fibromatose mésentérique de type desmoïde, avec une étude immunohistochimique positive pour l'actine musculaire lisse et la bêta-caténine ; et négative pour la desmine, le CD34, le S100, le CD117(C-KIT) et le DOG1.
+Evaluée pour la première fois en consultation d'oncologie médicale le 16/01/2017, un suivi rapproché avec contrôle radiologique dans 4 mois a été décidé, ainsi qu'une coloscopie en raison de l'association connue des tumeurs desmoïdes et de la polypose adénomateuse familiale (PAF).
+Un mois après l'opération, il s'est rendu aux urgences pour une douleur dans la fosse rénale droite avec irradiation, et un scanner abdominal a montré une urétérohydronéphrose droite modérée et de multiples implants péritonéaux, compatibles avec une récidive de la tumeur. L'urologie et la chirurgie ayant exclu toute autre intervention, il a été admis en oncologie pour compléter l'étude et une néphrostomie percutanée droite a été pratiquée sans complications.
+Avant la sortie de l'hôpital, une coloscopie a été pratiquée et la présence d'une FAP a été exclue. Compte tenu de la discordance clinico-pathologique (nécrose tumorale, implants péritonéaux, évolution clinique, etc.), un nouvel examen histologique a été demandé dans un centre de référence pour les tumeurs des tissus mous, ce qui a permis de poser le diagnostic de lymphome B diffus à grandes cellules, immunophénotype germinal avec immunoexpression positive pour BCL-6 et négative pour MUM-1, CD5, CD10, cMYC et EBER avec un index prolifératif (Ki67) de 80 %. En conséquence, le patient a poursuivi son évolution dans le service d'hématologie.
+Suite à l'apparition d'une fièvre accompagnée d'une ataxie, de troubles sensoriels et d'un syndrome vomitif, une IRM cérébrale a été réalisée, ce qui a permis d'exclure une atteinte cérébrale. Une ponction lombaire a été réalisée et l'antigène Cryptococcus (+) a été détecté ; l'amphotéricine liposomale et la fludrocortisone ont été mises en place (date de début du traitement : 17/03/17). Après 48 heures, une sérologie VIH (+) a été rapportée avec une virémie de 684 000c/ml et une numération des LCD4 de 38/ul.
+Le patient a évolué favorablement, avec une culture de contrôle (-) et, après avoir terminé le cycle, une désescalade vers le fluconazole oral a été effectuée. Après quatre semaines de traitement antifongique, un traitement antirétroviral a été instauré avec le raltegravir + FTC + TDF, avec une bonne tolérance.
+Un PET scan a été réalisé, montrant une atteinte abdominale et pulmonaire étendue, une biopsie osseuse (sans infiltration) et un échocardiogramme avec une fraction d'éjection préservée. Dans un état stable, un cycle R-CHOP a été entamé avec une bonne tolérance et une bonne réponse.
+
+Examen physique
+ECOG 2, bouche sèche sans aphtes. Cachexie marquée. Au niveau abdominal, on note une impaction marquée dans l'hémiabdomen droit, ainsi qu'une douleur douteuse dans le flanc gauche avec douleur à la palpation de l'épigastre et de l'hypocondre droit. Le reste du patient était sans particularité.
+
+Examens complémentaires
+" Tomodensitométrie I.V. avec contraste de l'abdomen (13/02/2017) : progression de la maladie avec de multiples masses intrapéritonéales compatibles avec des implants métastatiques. L'une d'entre elles obstrue l'uretère droit et une autre infiltre une anse de délégué dans la fosse iliaque gauche.
+" LCR (17/03/17) : 30 leucocytes (10 % PMN, 30 % MN), 0 hématie, 97 glucose, 125 protéines, 22,3 ADA. Lymphocytes abondants. IF : seulement 4 % de lymphocytes B monoclonaux, reste des lymphocytes T. Antigène de cryptocoque détecté.
+"Sérologie (20/03/17) : VIH (+), VHB et VHC (-), CMV IgG(+), EBV(-), HSV IgG(+), syphilis (-), toxoplasme IgG(+). B2-microglobuline (21/04/17) : 4,52, LDH : 473.
+"PET scan (24/04/17) : rapporte une atteinte supra et infradiaphragmatique étendue avec une prédominance de grosses masses au niveau abdominal, ainsi qu'une atteinte pulmonaire et aucun résultat dans le reste.
+
+Diagnostic
+"Lymphome diffus à grandes cellules B (DLBCL) de type centro-germinal.
+"Infection par le VIH de catégorie C3 (SIDA).
+"Méningite à cryptocoques.
+
+Traitement
+Après avoir présenté le cas lors d'une séance multidisciplinaire, il a été décidé de commencer le traitement par l'amphotéricine liposomale et la fludrocortisone, puis de passer au fluconazole par voie orale. Après 4 semaines, un traitement antirétroviral a été mis en place avec raltegravir + FTC + TDF et, enfin, une chimiothérapie systémique a été entamée selon le schéma R-CHOP.
+
+Evolution
+Patient avec les antécédents décrits précédemment, stable à l'heure actuelle, suivi par l'unité d'hématologie en ambulatoire. Bonne réponse et tolérance après le troisième cycle de R-CHOP.

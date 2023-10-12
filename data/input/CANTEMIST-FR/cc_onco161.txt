@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 39 ans, enseignant, sans antécédents familiaux intéressants. Antécédents personnels : allergie aux produits de contraste iodés et maladie de Crohn diagnostiquée à l'âge de 19 ans, avec une atteinte iléo-colique étendue, principalement sténosante, et des épisodes d'érythème noueux et de sacro-iliite comme manifestations extra-intestinales.
+En 1996, il a subi une iléohémicolectomie droite. En 2003, il a commencé un traitement à l'infliximab, qui a été interrompu au bout de cinq ans et remplacé par l'adalimumab en raison de l'absence de réponse, traitement qu'il poursuit à l'heure actuelle. En 2008, il a été réopéré pour une sténose anastomotique, avec résection de l'anastomose iléo-colique et mise en place d'une iléostomie. Le patient a subi des contrôles endoscopiques annuels de son reliquat colique.
+Son traitement immunomodulateur était composé d'azathioprine 200 mg par jour et d'adalimumab 40 mg/bihebdomadaire ; il recevait également de la phytoménadione, du gemfibrozil et du lopéramide comme traitement symptomatique.
+En avril 2011, elle a commencé à présenter des douleurs abdominales et une fièvre fébrile, évoquant une maladie périanale dans le cadre d'une maladie de Crohn de longue date. Comme on soupçonnait une complication infectieuse, il a été décidé d'examiner la patiente sous anesthésie générale, où l'on a découvert une tumeur dans le bas rectum, qui a été biopsiée et s'est avérée être un carcinome colloïdal.
+L'étude d'extension s'est révélée négative et la tumeur a été classée cliniquement comme un adénocarcinome du bas rectum cT2N0M0, raison pour laquelle le patient a subi une chirurgie d'entrée : amputation abdominopérinéale.
+Pendant l'opération, la tumeur a été classée comme une tumeur du tiers moyen et inférieur de la face latéro-postérieure gauche, affectant le muscle puborectal gauche : cT3N0M0. Cependant, lors de l'analyse anatomo-pathologique, un ganglion lymphatique infiltré a été observé, de sorte que, selon le stade pathologique, il s'agit d'une tumeur pT3abN1.
+
+La patiente est ensuite revue un mois plus tard dans le service d'oncologie pour l'évaluation du traitement adjuvant.
+
+Examen physique
+Anodin. Cicatrice chirurgicale d'amputation abdomino-pelvienne en bon état, sans signes inflammatoires de la peau environnante. Stomie en bon état. Fèces dans le sac collecteur sans produits pathologiques. Pas d'altérations psychologiques.
+Examens complémentaires
+"Hémogramme et biochimie anodine. Marqueurs tumoraux (CEA et CA19.9) dans les limites de la normale.
+"Tomodensitométrie thoraco-abdominale-pelvienne : masse dans le rectum à environ 10 cm du canal anal, déformant son contour. D'autre part, une image hypodense nodulaire a été observée dans le rein droit, au pôle supérieur, qui n'a pas pu être mieux caractérisée en raison de l'absence de contraste (à cause de l'allergie du patient). Autres organes et systèmes sans résultats intéressants.
+"IRM pelvienne : par rapport à l'étude précédente réalisée il y a 6 mois, une masse rectale a été observée, avec une localisation intersphinctérienne, l'extrémité proximale étant située au niveau puborectal et l'extrémité distale au niveau de la marge anale externe.
+"Biopsie de la pièce opératoire : tumeur épithéliale infiltrante constituée d'un matériel colloïde très abondant, qui s'infiltre à 0,5 cm de profondeur entre les plans musculaires sous la muqueuse anale et envahit aussi focalement la graisse du mésorectum. Les cellules tumorales présentent un faible pléomorphisme nucléaire et une légère augmentation de l'activité divisionnelle. Aucun phénomène d'invasion périneurale ou vasculaire n'est observé. L'étude histologique des 16 adénopathies isolées montre une infiltration tumorale dans une des adénopathies proximales, sans rupture capsulaire. Bords exempts de lésions tumorales. Type de résection : R0.
+
+Diagnostic
+Carcinome colloïde du bas rectum de stade III, pT3aN1(1/16)M0.
+
+Traitement
+Après discussion du cas au sein du Comité des tumeurs du côlon, il a été décidé d'administrer une chimiothérapie adjuvante avec une combinaison d'oxaliplatine, d'acide folinique et de fluorouracile (FOLFOXm6) pendant 12 cycles. Il a également été décidé de suspendre le traitement immunosuppresseur à base d'azatriopine et d'adalimumab.
+
+Évolution
+Le patient a reçu 11 cycles, le dernier cycle ayant été suspendu en raison d'une neurotoxicité de grade 3 et d'une thrombopénie soutenue. Auparavant, le traitement était bien toléré, avec des épisodes de neurotoxicité, d'asthénie et la survenue sporadique d'une diarrhée de type G2, qui se sont résolus avec un traitement symptomatique. La durée totale du traitement a été de 5 mois, de janvier à juin 2012.
+
+Après la fin du traitement en janvier 2013, une néphrectomie radicale du rein droit a été réalisée en raison d'une lésion incidente à croissance lente sur les tomodensitogrammes précédents ; le résultat pathologique a montré un carcinome rénal à cellules claires, grade 1-2 de Fürhman, avec des marges non infiltrées, stade tumoral pT1a. En outre, une sclérose et une hyalinisation étendues ont été observées, probablement secondaires au traitement par QT reçu pour son carcinome rectal.
+
+Il n'y a pas eu d'indication de traitement adjuvant après l'intervention. Actuellement, le patient est toujours indemne de la maladie et ne présente aucun signe d'activité intestinale ou extra-intestinale de la maladie inflammatoire de l'intestin, bien qu'il ne suive pas de traitement immunosuppresseur.

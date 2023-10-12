@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 45 ans, sans antécédents pathologiques ou familiaux intéressants.
+En février 2016, elle a été admise au service de neurologie pour investigation en raison d'un ptosis droit progressif, d'une vision double, de symptômes sensoriels hémicrâniens droits et d'un engourdissement du bras droit.
+Lors de cette admission, un bilan d'imagerie a été réalisé par scanner et IRM crânienne, conduisant au diagnostic d'un kyste épidermoïde mesurant 3,8cm x 2,9cm x 1,6cm, occupant la citerne prépontine et suprasellaire.
+Dans l'attente d'une décision sur l'approche thérapeutique par la neurochirurgie, elle a commencé à souffrir en juin 2016 d'une lombosciatique et de symptômes du syndrome de la cauda equina, avec perte de contrôle du sphincter.
+On l'a admis pour investigation avec une suspicion de méningite chimique due à la rupture d'un kyste. À l'admission, une ponction lombaire a été effectuée et le liquide céphalo-rachidien a montré une pléiocytose. Une IRM a été demandée, montrant une captation autour du tractus cisternal du troisième nerf droit (caudal au tractus habituel déplacé par le kyste) et une captation leptoméningée de la cauda equina et une captation parcellaire autour de la moelle du cône au niveau D8, suggérant une origine tumorale possible.
+Compte tenu de ces résultats, il a été décidé de procéder à une intervention chirurgicale sur le kyste, qui a eu lieu en juillet 2016, permettant une résection large, ainsi qu'une décompression microchirurgicale du troisième nerf crânien, qui était intimement attaché. Cependant, la résection complète n'a pas été réalisée. L'anatomie pathologique n'a montré qu'une matière kératinique acellulaire. Aucune autre étude ou traitement n'a été effectué sur les captations vertébrales décrites.
+Après cette intervention, la patiente a continué à présenter des symptômes de lombosciatique et à avoir besoin d'aide pour marcher, jusqu'à ce qu'en septembre 2016, elle soit à nouveau admise en raison d'une perte de contrôle sphinctérien et d'une lenteur psychomotrice. Une nouvelle IRM a été réalisée, qui a confirmé la persistance d'une captation radiologique au niveau méningé, qui avait augmenté par rapport à l'étude précédente.
+Compte tenu des manifestations cliniques de paraparésie progressive, de chutes fréquentes et de difficultés à marcher malgré la résection du kyste précédemment réalisée, une nouvelle intervention chirurgicale de décompression médullaire (laminectomie D11-12) a été décidée, qui s'est déroulée en octobre 2016.
+L'anatomie pathologique de cette dernière intervention a montré une infiltration méningée par un carcinome épidermoïde provenant probablement d'un kyste épidermoïde cérébral.
+Avec ce diagnostic, elle a été référée à la clinique ambulatoire d'oncologie médicale. Après avoir passé en revue les tests diagnostiques, le diagnostic de néoplasie cérébrale disséminée au niveau leptoméningé et l'indication de commencer un traitement systémique à visée palliative ont été expliqués à la patiente.
+Après une revue de la littérature, il a été décidé de débuter un traitement systémique par cisplatine-5-fluorouracile le 15 novembre 2016. Après le premier traitement, la patiente s'est rendue aux urgences en raison d'une détérioration neurologique accompagnée de crises d'épilepsie.
+
+Examen physique
+À son arrivée au service des urgences, il se trouvait dans un état post-critique après avoir subi une crise d'épilepsie tonico-clonique. Son niveau de conscience selon l'échelle de Glasgow était de 15. Il maintenait une mécanique respiratoire adéquate avec une saturation en oxygène de 100 %, mais avec une hypotension et un pouls radial faible. Le reste de l'examen physique n'a révélé aucune anomalie significative, à l'exception d'un œdème dans les deux jambes. Aucune focalité neurologique n'a été observée.
+
+Examens complémentaires
+Pendant son séjour au service des urgences, des analyses sanguines ont été effectuées, qui n'ont rien révélé de notable, et un scanner du cerveau a montré une hydrocéphalie, sans nouvelles lésions occupant l'espace ni signes d'hémorragie intracrânienne.
+La patiente a été admise dans le service où une IRM cérébrale a été réalisée, qui a montré une réponse tumorale avec une diminution de l'étendue des zones de captation au pied de la jonction ponto-mésencéphalique droite, du tractus cisternal de la troisième paire de nerfs droite et de l'uncus temporal droit par rapport à l'étude réalisée en octobre 2016. Par ailleurs, l'hydrocéphalie supratentorielle (visualisée au scanner) avec des signes d'œdème transépendymaire était nettement accentuée par rapport à l'étude précédente. Lésion intramédullaire nodulaire au niveau D 11-D12 avec une légère augmentation du diamètre par rapport au contrôle précédent.
+
+Diagnostic
+"Kyste épidermoïde avec transformation en carcinome épidermoïde et dissémination leptoméningée, traité par cisplatine-5-FU.
+"Crise convulsive.
+"Hydrocéphalie.
+
+Traitement
+Lors de l'admission, un traitement par corticothérapie à forte dose et un traitement anticonvulsivant ont été mis en place. En cas de découverte d'une hydrocéphalie à l'IRM, qui pourrait être à l'origine des crises, la neurochirurgie a été consultée et un traitement conservateur a été indiqué.
+
+Évolution
+Après une amélioration clinique, la patiente est sortie de l'hôpital et a été programmée pour un nouveau cycle de chimiothérapie en ambulatoire.
+Après l'administration du deuxième cycle de chimiothérapie, elle a été admise le 2 janvier 2017 en raison d'une diminution du niveau de conscience, d'une hypotension avec tachycardie et d'une déshydratation, ainsi que de données analytiques suggérant un choc hypovolémique d'une cause non liée avec une insuffisance rénale et une hyponatrémie. Malgré un traitement à base de sérum et d'agents vasoactifs, l'état du patient s'est progressivement détérioré avec une hypotension réfractaire, une insuffisance respiratoire et une agitation, et il est décédé 24 heures après son admission.

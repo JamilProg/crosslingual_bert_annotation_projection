@@ -1,0 +1,35 @@
+Anamnèse
+Le patient est un homme de 87 ans ayant des antécédents d'hypertrophie bénigne de la prostate et un épisode d'ulcère duodénal.
+Il a été opéré de la cataracte.
+Sur le plan fonctionnel, il est en excellent état général, avec une autonomie totale pour les activités de base de la vie quotidienne et sans troubles cognitifs. Son score sur l'échelle de Barthel est de 100.
+Suivi par les services de médecine interne et de chirurgie vasculaire en raison d'un œdème progressif du membre inférieur gauche, évoluant depuis des années. En 2014, un bultome a été découvert dans la région poplitée avec une aggravation de l'œdème, de sorte que l'étude a été complétée avec la découverte d'une tumeur fibreuse solitaire.
+Le patient a ensuite été suivi cliniquement et radiologiquement. Il se porte bien, sans répercussion fonctionnelle (il marche tous les jours). Cliniquement, la lésion présentait une croissance très lente, sans destruction des tissus adjacents.
+Après quatre ans de suivi, le patient a présenté une perte de conscience qui s'est rétablie spontanément, mais avec un engourdissement et une amnésie de ce qui s'était passé. Quelques heures plus tard, il s'est présenté à nouveau avec un tableau similaire et a été amené au service des urgences où une hypoglycémie a été observée (49) avec des gaz du sang artériel dans les paramètres normaux. Les examens d'imagerie thoracique et crânienne étaient normaux. Il a été admis pour contrôle et étude clinique.
+
+Examen physique
+"ECOG 0.
+"Afebrile.
+"Auscultation cardiaque rythmée et sans souffle. Auscultation pulmonaire avec de légers crépitants dans les bases.
+"Abdomen mou et dépressible sans hépatomégalie.
+"Grosseur dans la région poplitée gauche de consistance rugueuse avec des varices jusqu'à la mi-cuisse, augmentation locale de la température. Signes d'insuffisance veineuse prédominant à gauche. Pas de troubles de la marche ni d'instabilité.
+"Pas de focalité neurologique sensori-motrice.
+
+Examens complémentaires
+"Echographie Doppler : masse solide d'échogénicité hétérogène, partiellement vascularisée. Elle est située sur le bord interne et dans le creux poplité du genou gauche.
+"IRM : masse située dans l'espace graisseux entre le biceps fémoral et le grand adducteur, mesurant 10 x 6 x 11 cm. Limites bien définies et morphologie lobulée, avec une prise de contraste significative. La masse déplace le faisceau vasculaire fémoral superficiel, effondrant la veine fémorale et produisant une thrombose associée. Elle est également en contact avec les nerfs sciatiques poplités externe et interne, ainsi qu'avec la surface osseuse fémorale postérieure sans invasion osseuse.
+"Biopsie musculo-squelettique : tumeur très vascularisée dans la région postérieure du genou et de la cuisse distale. Deux passages sont effectués avec une aiguille tru-cut 18G.
+"Pathologie : prolifération cellulaire avec un motif hypervascularisé, une densité modérée et une tendance hémangiopéricytoïde. L'un des cylindres présente des cellules géantes multinucléées avec des parois vasculaires et des amas d'histiocytes. Seules des mitoses isolées non atypiques sont observées. Positivité immunohistochimique pour CD99 et DCL2 avec CD34. Les études moléculaires réalisées par FISH pour le sarcome synovial (SYT [18q11.2]) et le sarcome d'Ewing (EWS [22q12]) sont négatives. En l'absence de preuves de malignité, malgré un CD34 négatif, le diagnostic de tumeur fibreuse solitaire est considéré comme une première possibilité.
+"Angio-CT scan : masse très vascularisée dans la cuisse. Fistule artério-veineuse à haut débit provoquant le remplissage du système veineux en phase artérielle.
+"Analyses sanguines : glucose 45, insuline 02mU/l (2-17). C-peptide 60 pmol/l (260-1 730).
+"Corticotropine 41 (10-46).
+
+Diagnostic
+"Tumeur fibreuse solitaire du membre inférieur gauche.
+"Hypoglycémie médiée par une sécrétion ectopique d'IGF-2 (insulin-like growth factor 2) : syndrome de Doege-Potter.
+
+Traitement
+Une supplémentation en glucose par fluidothérapie a été mise en place et un traitement par prednisone 10 mg toutes les 8 heures a été instauré, après quoi un contrôle glycémique correct a été obtenu.
+Le cas a été discuté au sein d'un comité multidisciplinaire avec les services de traumatologie, de radio-oncologie, d'oncologie médicale et de chirurgie vasculaire. L'option chirurgicale a été envisagée, mais a été écartée en raison du risque d'embolisation préalable (nécessaire pour une résection chirurgicale complète) et de la possibilité de séquelles inacceptables. Un traitement conservateur avec radiothérapie palliative pour le contrôle local de la maladie et l'utilisation de la prednisone à la dose minimale efficace a été choisi, réservant le traitement systémique à une éventuelle progression de la maladie avec de nouveaux épisodes d'hypoglycémie.
+
+L'évolution
+Le patient est actuellement en bon état général, sans nouvel épisode d'hypoglycémie. Il n'a pas de répercussion fonctionnelle à la marche et maintient un niveau d'activité similaire à celui qu'il avait auparavant.

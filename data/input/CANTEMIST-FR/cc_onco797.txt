@@ -1,0 +1,31 @@
+Anamnèse
+Nous présentons le cas d'un patient âgé de 60 ans, sans allergie médicamenteuse connue, dont l'histoire personnelle la plus importante est une admission au service de pneumologie pour un empyème pleural gauche et une insuffisance cardiaque. En ce qui concerne les habitudes toxiques, le patient était un ex-fumeur (IPA = 80 jusqu'à il y a 12 ans), exénolique jusqu'à il y a 12 ans. Il travaillait dans une mine.
+L'étude a débuté lorsqu'il s'est présenté au service des urgences pour une douleur à la côte droite avec une masse pulmonaire trouvée à la radiographie. L'étude a été complétée par une tomodensitométrie (TDM) qui a montré une masse mesurant 60 x 53 x 80 mm infiltrant la bronche du segment postérieur du lobe supérieur droit (LSD) et envahissant la fissure mineure et s'étendant jusqu'au segment six du lobe inférieur droit (LID), en contact avec la plèvre postérosupérieure droite. Il y avait également un ganglion lymphatique extrapleural mesurant 9 mm et un nodule satellite spiculé dans le segment apical du LSD mesurant 10 x 6 mm et deux nodules dans le segment 6 du LID mesurant 10 mm et 8 mm. En outre, il y avait des adénopathies à l'origine du tronc brachio-céphalique droit, de la chaîne paratrachéale supérieure droite, de la fenêtre sous-carénale et aorto-pulmonaire suspectes de métastases, un épanchement péricardique et un épanchement pleural droit localisé.
+
+Examen physique
+Relativement bon état général, mais limité sur le plan fonctionnel par de fortes douleurs lombaires (échelle visuelle analogique [EVA] 8-9), une diminution de la force dans les deux membres inférieurs (4/5) et une grande difficulté à se tenir debout, sans altération des réflexes ou de la sensibilité.
+
+Examens complémentaires
+L'étude a été complétée par un PET-CT scan montrant une masse hypermétabolique de 7,8 x 7,7 cm (standardised uptake value [SUV] 9,6) dans le segment supérieur de la LID. Des adénopathies broncho-pulmonaires droites (SUV 4,3 et 3,8), et de multiples prises osseuses pathologiques au niveau du 4ème arc costal postérieur droit, du 5ème antérieur gauche, du 7ème droit au niveau de l'angle, du corps vertébral L3, de la lame iliaque gauche, de l'articulation sacro-iliaque gauche et de la branche iléopubienne gauche.
+Une fibrobronchoscopie a été réalisée et a montré une compression extrinsèque de la bronche du segment apical du LSD. L'anatomopathologie (AP) s'est révélée négative pour la malignité. Par conséquent, pour compléter l'étude, une EBUS a été réalisée sur les adénopathies des stations 2R (droite), 4L (gauche) et 7, qui se sont révélées positives pour un adénocarcinome peu différencié (2R et 7).
+
+Diagnostic
+Le cas a été présenté à un comité multidisciplinaire et adressé à notre clinique avec le diagnostic suivant : adénocarcinome pulmonaire T4N2M1b (os).
+
+Traitement
+L'admission en oncologie pour analgésie et initiation du traitement a été décidée. Compte tenu des symptômes d'impuissance fonctionnelle, une imagerie par résonance magnétique (IRM) a été demandée, qui a montré une dissémination métastatique vertébrale avec des fractures de la plupart des corps vertébraux dues à la compression, en plus d'une fracture craniocaudale du corps vertébral L3 avec déplacement du mur postérieur entraînant une compression de la cauda equina.
+Il a commencé un traitement par chimiothérapie : carboplatine aire sous la courbe (5-AUC), dose totale 700 mg et paclitaxel 175 mg/m2 (287 mg), avec une prémédication habituelle composée de : granisétron 1 mg, dexaméthasone 12 mg, dexchlorphéniramine 5 mg, ranitidine 50 mg, et antiémèse ultérieure : dexaméthasone, granisétron, métoclopramide, qui s'est déroulée sans incident. À sa sortie, la patiente a présenté une abrasion sacrée mineure, qui a été attribuée à l'alitement.
+
+Evolution
+Elle se présente aux urgences une semaine après l'administration de la chimiothérapie en raison d'une fièvre et de l'apparition de lésions vésiculeuses sur les fesses, le sacrum et l'avant-bras gauche.
+Examen physique
+Hémodynamiquement stable : Tension artérielle 111/60 mm Hg, fréquence cardiaque 86 bpm, 36,3 ºC, 88 % de saturation en oxygène.
+Lésions érosives secondaires à des vésicules sur la face latérale de la cuisse gauche, l'avant-bras gauche, la jambe gauche et la fesse/le sacrum. Les lésions se sont rompues spontanément et le contenu séreux s'est écoulé.
+Les analyses effectuées à l'admission n'ont révélé qu'un taux de sodium de 126 et une leucocytose discrète avec déplacement vers la gauche (leucocytes 11 700, neutrophiles 11 500), une anémie de grade 1 (hémoglobine 11,7) et une activité prothrombinique de 74 %.
+En raison d'une suspicion de nécrolyse épidermique toxique (NET)/syndrome de Stevens-Johnson (SJS) et d'une toxicité médicamenteuse présumée, il a été admis en oncologie pour étude et traitement.
+Lors de son admission dans le service, il a été évalué par la chirurgie plastique et la dermatologie, des cultures et des biopsies cutanées ont été réalisées et se sont révélées positives pour Pseudomonas aeruginosa et Staphylococcus aureus.
+Anatomie pathologique
+"Fragment de peau avec nécrose dermo-épidermique, ulcération de l'ensemble de l'épiderme.
+"Dermatite neutrophile périvasculaire et interstitielle discrète, superficielle (prédominante) et profonde, avec ulcération de l'épiderme et extravasation hématique.
+En cas de suspicion de nécrolyse épidermique toxique secondaire à la chimiothérapie ou aux anti-inflammatoires non stéroïdiens (AINS), ces derniers ont été interrompus sans amélioration chez le patient.
+Le sujet a présenté une aggravation progressive avec leucocytose et plaquettopénie et finalement le patient a nécessité une sédation palliative en raison d'un mauvais contrôle de la douleur, décédant seulement deux semaines après le début du traitement par chimiothérapie.

@@ -1,0 +1,22 @@
+Anamnèse
+Homme de 39 ans. Aucune maladie chronique connue. Traumatisme cranio-encéphalique à l'âge de 16 ans avec fissure pariétale. En 1999, résection d'une masse cérébrale avec diagnostic d'hémangiopéricytome méningé ; il a ensuite reçu une radiothérapie adjuvante. 12 ans après l'intervention chirurgicale, elle s'est présentée aux urgences pour une douleur thoracique sévère dans l'hémithorax gauche qui l'empêchait de bouger et qui s'aggravait avec les mouvements respiratoires.
+
+Examen physique
+Karnofsky 60%. Conscient, orienté, coopératif. Légère ataxie et bradypsychie. Pas de focalisation neurologique claire.
+Test MiniMental 27/30. Douleur dans l'hémithorax gauche qui s'aggrave avec le mouvement et la respiration profonde.
+
+Examens complémentaires
+Tomodensitométrie thoraco-abdominale : nodule de 3 cm dans le lobe inférieur droit avec prise de contraste intense et de 0,9 cm dans le segment lingulaire inférieur. Aucune adénopathie médiastinale n'a été observée. 2 lésions métastatiques lytiques dans les arcs postérieurs des 5e et 6e côtes gauches. Dans le lobe hépatique gauche, une masse de 17 cm et 2 autres lésions dans les segments V et VI du lobe hépatique droit compatibles avec des métastases. La plus grande lésion a provoqué une compression et un déplacement marqués de l'estomac. Signes d'hypertension portale gauche secondaire à une thrombose de la veine splénique.
+Tomodensitométrie crânienne : changements post-chirurgicaux sans lésions suggérant une récidive tumorale locale ou des métastases cérébrales.
+
+Diagnostic
+Ponction-aspiration transpulmonaire d'un nodule du lobe inférieur droit : tumeur densément cellulaire constituée de cellules fusiformes autour de vaisseaux sanguins comprimés et dilatés.
+Immunohistochimie : endothéliales CD31+, CD34+ et CD99+, actine et desmine négatives, avec Ki67 < 10 %. Tout ceci confirme la métastase d'un hémangiopéricytome.
+
+Traitement
+Après des études d'extension et la confirmation par biopsie d'une récidive pulmonaire, hépatique et osseuse étendue d'un hémangiopéricytome, un traitement est mis en place avec du témozolomide 150 mg/m2 jours 1-7 et jours 15-21 et du bevacizumab 5 mg/kg jours 8 et 22, tous les 28 jours, comme publié par Park et al. en 2008 (1), associé à de l'acide zolédronique et à de l'oxycodone/naloxone.
+
+Evolution
+Après 3 mois, suite à une progression hépatique, une 2ème ligne de pazopanib à 800 mg/jour a été débutée, nécessitant une réduction à 400 mg/jour en raison d'une toxicité digestive.
+Après 6 mois, une nouvelle progression au niveau hépatique, une 3ème ligne de doxorubicine 60 mg/m2 toutes les 3 semaines a été débutée avec une bonne tolérance.
+Actuellement, après 4 mois de traitement, la maladie est stable, sans douleur et l'état général de Karnofsky est de 70%.

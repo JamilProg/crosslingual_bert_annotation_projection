@@ -1,0 +1,43 @@
+Anamnèse
+Femme de 47 ans, préménopausée, fumeuse active (dose cumulée de 20 paquets/an) et sourde-muette depuis l'enfance en raison de la toxicité de la gentamicine. Aucun autre antécédent personnel intéressant.
+
+Ses antécédents familiaux comprennent une mère atteinte d'un cancer du sein bilatéral métachrone à l'âge de 62 et 67 ans, qui est finalement décédée à 71 ans d'une néoplasie pancréatique, et une tante maternelle à qui l'on a diagnostiqué un cancer du sein bilatéral métachrone à l'âge de 50 et 62 ans avec des récepteurs hormonaux positifs.
+
+La patiente a été adressée en novembre 2011 à l'unité fonctionnelle du sein de notre centre après l'autopsie d'un nodule mammaire gauche et une mammographie évoquant un processus néoplasique. Aucun autre symptôme (ECOG PS0). L'examen a révélé un nodule de 35 mm dans le quadrant inférieur externe du sein gauche et un autre nodule de 20 mm dans le sillon sous-mammaire avec une atteinte cutanée et un œdème focal, ainsi que deux adénopathies axillaires ipsilatérales suspectes.
+
+Examen physique
+Lors de la première visite, la patiente a présenté un état de performance de 1. L'examen a révélé un nodule de 35 mm dans le quadrant inférieur externe du sein gauche et un autre nodule de 20 mm dans le sillon sous-mammaire, avec une atteinte cutanée et un œdème local. L'examen a révélé la présence de deux ganglions lymphatiques axillaires ipsilatéraux suspects.
+
+L'auscultation cardiorespiratoire est restée sans résultat, de même que la palpation abdominale. L'examen neurologique est normal.
+
+Examens complémentaires
+"Échographie mammaire : nodule hypoéchogène, à contours irréguliers, spiculé, de 17 mm à 3 h en périphérie du sein gauche, adhérant à la peau. Une ponction-aspiration à l'aiguille fine a été réalisée. En juxta-aréolaire externe, il y a un autre nodule qui est également palpable, mesurant 19 x 12 mm et avec des contours spiculés. Une biopsie à l'aiguille a été effectuée sur cette seconde lésion.
+"FNA : carcinome nucléaire de grade 2. c
+"AGNB : carcinome canalaire infiltrant (CDI). Grade 1. ER positif dans 90 % des carottes tumorales, récepteur de la progestérone (PR) positif dans 15 %. Ki-67 dans 15 % des cas. HER-2/NEU négatif.
+"Échographie axillaire : lymphadénopathie suspecte de 10 mm à la queue du sein et lymphadénopathie axillaire suspecte. FNA axillaire : + carcinome.
+"Dans le cadre d'une étude complémentaire, les examens suivants ont été réalisés : analyse de sang : Hb 107 et FALC de 2,9 ; le reste sans altérations significatives.
+"En outre, compte tenu des antécédents familiaux, une évaluation a été demandée à l'unité de conseil génétique, et une étude a été réalisée qui a montré une mutation c6275_6276delTT dans le gène BRCA2.
+
+Diagnostic
+Elle est évaluée comme une patiente de 47 ans, préménopausée, sourde-muette, atteinte d'un CDI de grade 1 RE 90%, RP 15%, Ki-67 15%, Her-2 négatif stade IV debut, T4bN1M1 avec des métastases osseuses polytopiques et un poumon unique douteux de 10 mm avec ECOG PS0. Porteuse d'une mutation du gène BRCA 2.
+
+Traitement
+En novembre 2011, un traitement hormonal de première intention à base de tamoxifène et d'analogues de la LH-RH a été mis en place. En outre, un traitement à base d'acide zolédronique a été mis en place. La réponse partielle (RP) a été la meilleure réponse jusqu'en juillet 2012, date à laquelle une progression clinique locale et des marqueurs ont été observés, avec une stabilité radiologique. Une deuxième ligne d'hormonothérapie a alors été mise en place avec du létrozole, des analogues de maintien et un bisphosphonate. En octobre 2012, trois mois seulement après le début de la deuxième ligne, la patiente a présenté une progression pleurale bilatérale symptomatique, de sorte que le traitement a commencé par une chimiothérapie FAC, étant donné qu'aucun essai de chimiothérapie de première ligne n'était disponible à ce moment-là.
+
+Evolution
+En novembre 2012, après seulement deux cycles de QT avec FAC, la patiente a été admise pour une myodésopsie et deux épisodes de perte de connaissance précédés par la perception d'odeurs désagréables, orientés comme de probables crises comitiales uncinées. Le patient était en bon état général (PS 1) et à l'examen il y avait un œdème papillaire bilatéral, sans autres signes de focalité neurologique ou de méningisme. Un scanner crânien urgent a été réalisé, qui n'a révélé aucune lésion intracrânienne ou autre altération, et l'étude a été complétée par une imagerie par résonance magnétique (IRM), qui a montré un épaississement pathologique dural et leptoméningé, supra et infratentoriel, compatible avec une carcinomatose méningée.
+
+Le patient a été évalué dans l'unité de neuro-oncologie de notre centre. Une ponction lombaire a été effectuée à deux reprises et a permis d'obtenir un liquide céphalo-rachidien (LCR) clair avec une protéinurie, des niveaux de glucose normaux et une cellularité normale, avec des résultats cytologiques négatifs. Cependant, étant donné la forte suspicion clinique et radiologique, il a été décidé d'envoyer un échantillon de LCR pour immunophénotypage par cytométrie de flux, qui a montré des résultats positifs pour EpCAM.
+
+Un nouveau scanner thoraco-abdominal a été réalisé pour réévaluer la maladie systémique (décembre 2012). L'épanchement pleural a disparu et le nodule pulmonaire et les lésions osseuses sont restés stables.
+
+Il a été décidé de poursuivre le régime QT de type FAC et de commencer un traitement par méthotrexate intrathécal. La patiente a reçu 7 cycles de FAC avec une bonne tolérance et un total de 11 administrations de thérapie intrathécale (ITT) avec du méthotrexate (la dernière le 24/1/2013) avec disparition des symptômes neurologiques et maintien de la réponse au niveau pleural, avec une stabilité pulmonaire et osseuse, et une réponse partielle au niveau du SNC par IRM avec une diminution des signes de carcinomatose méningée.
+
+En mars 2013, après avoir terminé le QT, elle a commencé un traitement avec des analogues de la LH-RH et 500 mg de fulvestrant, maintenant une réponse clinique et radiologique avec ce traitement pendant 9 mois.
+
+En janvier 2014, l'IRM a mis en évidence une progression de la carcinomatose, sans symptômes neurologiques et avec une cytologie du LCR négative, ainsi qu'une progression hépatique, le patient conservant un PS 1.
+
+Il a débuté la 2e ligne de QT avec paclitaxel-gemcitabine en février 2014, obtenant une réponse hépatique complète, et une stabilité des lésions osseuses, pulmonaires et leptoméningées avec une bonne tolérance au traitement. Il a été décidé de ne plus appliquer de TIT en raison de l'absence de symptômes neurologiques. En décembre 2014, le QT a été arrêté en raison d'une neurotoxicité de grade 2, à prédominance palmaire, en maintenant la RC au niveau hépatique, en initiant un traitement par exemestane et zoladex.
+
+En avril 2015, une progression hépatique et carcinomateuse a de nouveau été observée par IRM (asymptomatique), tout en maintenant un excellent état général (PS1), la capécitabine a donc été débutée en 3ème ligne de QT car elle n'était pas candidate à un essai clinique avec des inhibiteurs de PARP ou tout autre agent en raison de la carcinomatose en progression).
+Actuellement, la patiente a reçu 3 cycles de capécitabine avec une réduction de la dose à 80% à partir du deuxième cycle en raison d'une érythrodysesthésie palmoplantaire prolongée de grade 2 et d'une diarrhée de grade 2. Elle a une réponse par marqueur, en attente d'études d'imagerie.

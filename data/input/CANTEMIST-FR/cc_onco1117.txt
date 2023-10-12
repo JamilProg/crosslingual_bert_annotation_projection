@@ -1,0 +1,40 @@
+Anamnèse
+L'incidence annuelle du cancer colorectal est estimée à 1 361 000 cas dans le monde1 . Le syndrome de Lynch (LS), également appelé cancer colorectal héréditaire non polyposique, représente environ 3 % de ces cas. Nous présentons un cas clinique représentatif de cette maladie, en raison de son histoire naturelle illustrative, ainsi que du succès de son suivi après 21 ans d'évolution depuis la première tumeur, avec quelques particularités notables.
+La patiente a été adressée au service d'oncologie médicale en 1993, et la première consultation dans notre service a eu lieu le 5 mai de la même année. La patiente était âgée de 37 ans. Ses antécédents personnels étaient les suivants : fumeuse, avec une consommation cumulée de 10 paquets par an ; mère de trois enfants. En ce qui concerne ses antécédents familiaux, son père était décédé d'un cancer colorectal, en plus d'un frère chez qui on avait diagnostiqué un cancer du côlon (non décédé) ; la patiente avait également des parents au deuxième degré atteints d'un cancer colorectal.
+Ces antécédents personnels ont fait suspecter une maladie familiale telle que le syndrome de Lynch, trois des cinq critères d'Amsterdam II étant remplis2 :
+- Trois personnes ou plus atteintes d'un cancer colorectal ou d'une tumeur associée au syndrome de Lynch (endomètre, ovaire, intestin grêle, etc.), l'une d'entre elles étant un parent au premier degré des deux autres ;
+- l'implication de deux générations consécutives ;
+- au moins un des cas diagnostiqués avant l'âge de 50 ans.
+Il s'agit donc d'une patiente ayant plus de trois parents atteints de cancer colorectal, dont son père et son frère (tous deux parents au premier degré), deux générations consécutives (père et fils/fille) et la patiente commence son histoire cancéreuse à l'âge de 37 ans (avant l'âge de 50 ans). Au cours de l'évolution, les deux critères restants d'Amsterdam II2 ont été confirmés, puisqu'il a été objectivé qu'il ne s'agissait pas d'un cas de polypose familiale atténuée et que la tumeur présentait des caractéristiques compatibles avec cette entité après analyse anatomopathologique.
+La patiente a été adressée à notre clinique car, après avoir commencé une étude en raison de métrorragies comme seule symptomatologie, on lui a diagnostiqué un carcinome ovarien synchrone et un cancer de l'endomètre. La patiente a été traitée chirurgicalement par hystérectomie et double annexectomie, puis a reçu une chimiothérapie adjuvante entre mai et septembre 1993 selon le schéma CAP (cyclophosphamide 500 mg/m2, doxorubicine 50 mg/m2 et cisplatine 50 mg/m2) tous les 21 jours, avec une bonne tolérance, sans toxicité notable.
+Depuis lors, il a commencé les examens de contrôle.
+En 1996, au cours du suivi, des examens complémentaires ont révélé une lésion à 10 cm de la marge anale qui, après intervention chirurgicale, a été diagnostiquée comme étant un adénocarcinome colorectal. La patiente a suivi un traitement adjuvant de mai à octobre 1997, sans que ses antécédents cliniques ne révèlent quoi que ce soit de particulier.
+Jusqu'à présent, outre les antécédents familiaux de la patiente, nous devons tenir compte de ses antécédents personnels avec les diagnostics suivants : carcinome ovarien (1993), cancer de l'endomètre (1993), tous deux synchrones, et trois ans plus tard, le diagnostic d'adénocarcinome du côlon (1996).
+La patiente a été suivie pendant 16 ans sans incident.
+
+Examen physique
+Les examens physiques successifs effectués lors des bilans de santé n'ont révélé aucun élément compatible avec une suspicion de récidive ou de nouvelle tumeur, malgré un examen physique par appareil et système incluant un toucher rectal.
+
+Examens complémentaires
+A chaque visite, en plus de l'examen physique, des analyses de routine et des marqueurs tumoraux ont été demandés, en alternance avec des examens d'imagerie périodiques. En outre, le suivi présentait une difficulté supplémentaire, car la patiente souffrait d'une fistule recto-vaginale qui empêchait la réalisation de coloscopies.
+
+Diagnostic
+L'histoire clinique du patient n'a connu aucun incident notable jusqu'en 2013, date à laquelle, suite à la constatation progressive d'une augmentation du marqueur tumoral (Ca 19.9), bien que les autres données clinico-analytiques soient anodines, il a été décidé d'effectuer une tomographie par émission de positons associée à une tomographie assistée par ordinateur (PET-CT) qui a donné les résultats suivants : "Dans le côlon ascendant (vide droit), on observe un épaississement concentrique de la paroi avec un diamètre crânio-caudal d'environ 4 cm, qui présente des caractéristiques hypermétaboliques (SUVmax 16,4), ce qui est évocateur de malignité. Une lésion hypodense de 2 cm dans le segment hépatique V, sans élévation de son métabolisme glycémique et donc non évocatrice de malignité. Aucun autre foyer métabolique suggérant une maladie néoplasique à un autre niveau n'est visualisé".
+Après avoir pris connaissance des résultats de la TEP-TDM, la patiente a été adressée au service de chirurgie générale de notre hôpital.
+Le patient a subi une hémicolectomie droite en juillet 2013.
+Les résultats anatomopathologiques sont les suivants (spécimen de l'iléon, du côlon droit et de l'épiploon provenant de l'hémicolectomie droite) :
+- Adénocarcinome peu différencié infiltrant la paroi abdominale et s'étendant au tissu adipeux péricolique. Grade histologique élevé.
+- Adénome tubulaire (découverte pathologique supplémentaire).
+- Absence de métastases dans 12 ganglions isolés.
+- Marges chirurgicales exemptes de tumeur.
+- Le matériel contient des caractéristiques histologiques suggérant une instabilité des microsatellites : lymphocytes intratumoraux (légers), lymphocytes péritumoraux (légers) et sous-type et différenciation de haut grade.
+Le stade final était pT3N0M0, stade IIA.
+
+Traitement
+La patiente a été réévaluée dans notre clinique en juillet 2013. Depuis sa sortie de l'hôpital après l'opération, elle se plaignait de diarrhées accompagnées d'une perte de poids progressive et d'une faiblesse secondaire généralisée, de sorte que le début du traitement adjuvant a été retardé jusqu'à ce que son état s'améliore.
+En outre, après cette intervention chirurgicale, il a été adressé au service de génétique. Un arbre généalogique a été établi et une étude génétique familiale a été proposée (résultats actuellement en attente) compte tenu de la forte suspicion clinique de l'existence d'une maladie familiale héréditaire.
+En septembre 2013, le patient a débuté un traitement adjuvant par XELOX (capécitabine 1 000 mg/m2 v.o. toutes les 12 heures les jours 1 à 14 et oxaliplatine 130 mg/m2 i.v. jour 1), toutes les 3 semaines et avec une proposition initiale de 8 cycles en fonction de la tolérance.
+
+Évolution
+Après le premier cycle, elle a commencé à souffrir d'un syndrome diarrhéique difficile à contrôler, avec 10 à 15 selles par jour et une dysesthésie de grade 1-2 mal tolérée, secondaire à l'oxaliplatine. La diarrhée a disparu après l'arrêt du traitement à la capécitabine. La patiente a donc finalement refusé de poursuivre le traitement adjuvant et a commencé des examens de contrôle. Depuis lors, elle est asymptomatique et ne souffre d'aucune maladie, le dernier scanner de contrôle effectué en janvier 2014 ayant révélé l'absence de résultats suggérant une maladie néoplasique active, un examen physique sans particularité, des tests de laboratoire de routine et des marqueurs tumoraux dont les paramètres se situent dans les limites de la normale.
+L'étude génétique des gènes impliqués dans l'étiopathogénie de ce syndrome dû à des mutations dans l'un des gènes de réparation des mésappariements (MMR) MLH1, MSH2, MSH6, MSH3, PMS2, PMS1 ou MLH34 est toujours en attente de résultats. Ces données complèteront l'étude génétique qui, nous l'espérons, corroborera les résultats de l'histoire clinique et du rapport anatomopathologique ainsi que l'évolution de ce cas intéressant.

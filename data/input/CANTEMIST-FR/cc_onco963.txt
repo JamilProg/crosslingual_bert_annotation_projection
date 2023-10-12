@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 55 ans avec des antécédents personnels pertinents de tabagisme. Elle travaillait dans une agence d'assurance. Elle n'a pas d'antécédents familiaux intéressants. Son seul traitement régulier était le lorazépam 1 mg à la demande.
+En mars 2015, elle a consulté le service de dermatologie pour une lésion du côté gauche présente depuis plus de 10 ans et qui avait progressivement augmenté de taille, changé de couleur et saigné au cours des derniers mois. L'anatomie pathologique (AP) était compatible avec un mélanome malin de grade III de Clark, 2,7 mm de Breslow, 2,8 mm d'ulcération, 11 mit/mm2 et une satellitose. L'expansion de la marge était négative mais la biopsie du ganglion sentinelle était positive, une lymphadénectomie a donc été réalisée en mai 2015, et une lymphangite réactive a été observée dans les 19 ganglions isolés.
+
+Examen physique
+Le patient présentait un ECOG 0. L'examen physique a révélé une lésion sur le côté gauche, de couleur noirâtre et saignant au toucher.
+
+Examens complémentaires
+L'étude d'extension par tomodensitométrie thoraco-abdomino-pelvienne ne montre aucun signe de maladie à distance.
+
+Diagnostic
+Diagnostiqué d'un mélanome malin au flanc gauche pT3b pN3 cM0, stade IIIC de l'AJCC 7e édition, il a assisté à une consultation d'oncologie médicale en juin 2015.
+
+Traitement
+Un traitement adjuvant par interféron (IFN) à haute dose est proposé et reçu de juin à août 2015.
+
+Evolution
+Le traitement a été interrompu à la demande de la patiente en raison d'une mauvaise tolérance psychologique et un suivi en oncologie et en dermatologie a débuté.
+En octobre 2015, un examen physique a révélé une adénopathie axillaire gauche, confirmant son origine métastatique de mélanome par échographie avec ponction. Une étude d'extension a été réalisée avec PET-CT, montrant une récurrence de la maladie dans les ganglions lymphatiques axillaires gauches et une lésion des tissus mous sur le côté gauche.
+Fin novembre 2015, une re-lymphadénectomie axillaire gauche et une résection du nodule sur le côté gauche ont été réalisées. À ce moment-là, on a demandé une mutation BRAF, qui s'est révélée positive pour V600E.
+En janvier 2016, elle a de nouveau présenté une récidive axillaire gauche, et des nodules sous-cutanés ont également été découverts dans l'hémithorax gauche, ainsi que des métastases osseuses (7e arc costal, D11, 12, L3 et iliaque droite).
+À ce moment-là, le patient avait un ECOG 0 et était asymptomatique. Le traitement a donc été décidé avec une combinaison d'un inhibiteur de BRAF et d'un inhibiteur de MEK. Le taux initial de S100 était de 0,108 (intervalle normal : 0,005-0,105) et le taux de LDH était normal (intervalle normal : 135-250). Le traitement par dabrafenib 150 mg toutes les 12 heures a débuté en février 2016. Le trametinib 2 mg toutes les 24 heures a été ajouté en mars 2016.
+Lors des tests de réévaluation après 3 mois de traitement, une réponse partielle de la maladie a été observée à la fois dans les ganglions lymphatiques et dans les os, ainsi qu'une normalisation de la S100, avec la persistance de LDH normales. Les effets indésirables les plus notables ont été la pyrexie, la panniculite, les céphalées et les nausées. Après une période de vomissements accompagnée d'une diarrhée de grade 2 et d'une pyrexie compliquée par une infection des voies respiratoires supérieures, avec une aggravation de l'état général, il a été décidé d'arrêter le traitement en juillet 2016. La TEP-TDM réalisée en août 2016 ayant montré une réponse complète, elle a débuté un suivi.
+Depuis septembre 2016, plusieurs récidives nodulaires sous-cutanées ont été observées, traitées chirurgicalement, jusqu'à ce que le scanner de novembre 2016 montre un nodule crânien dans la capsule interne, des métastases pulmonaires, de multiples métastases hépatiques, des métastases lytiques osseuses et une augmentation des nodules sous-cutanés dans la région supérieure gauche du thorax, le tissu mammaire et la région axillaire gauche. Le marqueur S100 est à nouveau élevé (S-100 : 0,903), de même que la LDH (308).
+Étant donné que la patiente conservait un ECOG 1, il a été décidé en décembre 2016 de reprendre le traitement avec des doubles inhibiteurs, dans ce cas avec la combinaison cobimetinib-vemurafenib, en raison du profil de toxicité différent et de la bonne réponse antérieure aux inhibiteurs. Après 3 semaines, le patient a présenté une éruption cutanée de grade 3 et une diarrhée de grade 1, ce qui a conduit à l'arrêt du traitement pendant 21 jours et à l'instauration d'un traitement par stéroïdes et antibiotiques. En janvier 2017, la double inhibition a été reprise avec des doses réduites conformément à la fiche technique.
+En mars 2017, une réponse clinique et radiologique partielle a été observée à tous les niveaux. Il persiste avec un ECOG 1 et, comme effets indésirables, un rash de grade 1 et des arthralgies de grade 1. Actuellement, en juin 2017, il poursuit le traitement et maintient la réponse à la fois clinique et radiologique au dernier scanner réalisé en mai 2017. La S100 reste légèrement élevée (0,165) tandis que la LDH a progressivement diminué (266).

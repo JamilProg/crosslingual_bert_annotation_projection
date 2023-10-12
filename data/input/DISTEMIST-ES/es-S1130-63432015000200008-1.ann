@@ -1,0 +1,17 @@
+T1	pathologie 30 39	exfumador
+T2	pathologie 81 93	hipertensión
+T3	pathologie 95 105	dislipemia
+T4	pathologie 108 129	cardiopatía isquémica
+T5	pathologie 134 160	infarto agudo de miocardio
+T6	pathologie 230 248	neoplasia de colon
+T7	pathologie 243 298	colon con resultado anatomopatológico de adenocarcinoma
+T8	pathologie 780 816	infección respiratoria de vías bajas
+T9	pathologie 1281 1313	insuficiencia respiratoria grave
+T10	pathologie 1471 1485	neumonía grave
+T11	pathologie 1610 1634	tromboembolismo pulmonar
+T12	pathologie 1803 1869	insuficiencia respiratoria grave secundaria a neumonía comunitaria
+T13	pathologie 1849 1857	neumonía
+T14	pathologie 1892 1927	toxicidad pulmonar por citostáticos
+T15	pathologie 1939 1982	síndrome de distrés respiratorio del adulto
+T16	pathologie 2257 2287	neumonitis intersticial difusa
+T17	pathologie 2452 2485	toxicidad pulmonar a citostáticos

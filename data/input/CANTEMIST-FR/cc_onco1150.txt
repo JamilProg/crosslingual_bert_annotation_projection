@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 47 ans, avec des antécédents de diabète corticoïde traité par antidiabétiques oraux et insuline.
+Elle a été opérée cinq fois d'un méningiome frontotemporal récurrent de l'orbite gauche. Première exérèse en août 2001, avec diagnostic de méningiome avec atteinte des os et des tissus mous, et dernière en avril 2012, avec atteinte des os, des tissus mous et de la peau, ainsi qu'une infiltration tumorale du nerf optique.
+Elle a été admise en août 2013 pour des douleurs dorso-lombaires d'une durée d'environ 2 mois, associées à un malaise général et à une perte de poids d'environ 5 kg ; elle a également signalé une gêne dans l'hypochondre droit irradiant dans le dos en ceinture.
+
+Examen physique
+L'examen a révélé une exophtalmie de l'œil gauche, avec œdème et mobilité limitée, ainsi qu'une difficulté à le fermer. Aucune altération des autres nerfs crâniens n'a été constatée. Il n'y a pas d'adénopathie cervicale ou axillaire. L'auscultation était rythmée et régulière, avec un souffle vésiculaire préservé. Hépatomégalie d'environ trois largeurs de doigt, dure et douloureuse à la palpation. Aucun signe de péritonisme. Douleur à la palpation de la colonne lombaire. Pas de perte de force ou de sensibilité. Réflexes ostéotendineux normaux. Membres sans altération.
+
+Examens complémentaires
+- Analyses sanguines : anémie normocytaire-normochrome, avec un tableau de cholestase dissociée (GGT 215 UI/l, FA 150 UI/l, bilirubine normale).
+- Tomodensitométrie du thorax et de l'abdomen c/c : nodules hypoatténués dans la thyroïde. Adénopathies médiastinales de taille non significative.
+Multiples nodules pulmonaires, le plus grand mesurant 4 cm en LII. Grande hépatomégalie avec de multiples lésions hypoatténuées liées à des métastases, dans les deux lobes, le plus grand mesurant 7 cm, sans dilatation des voies biliaires intra-extra-hépatiques. Multiples lésions hyperatténuées dans la colonne vertébrale, liées à des métastases, dans le sacrum, les lames iliaques, soulignant en T4-T5, l'implication de la paroi postérieure avec infiltration du canal rachidien vers les tissus mous.
+- Octréoscan : des dépôts pathologiques de pantéotride sont observés dans la région orbitaire et sous-orbitaire gauche, affectant l'os nasal, le malaire et le sphéroïde gauche, l'épaule droite, le médiastin et le foie.
+- Biopsie hépatique échoguidée : techniques immunohistochimiques : c-kit(-), CD34 (-), actine (-), récepteur de la somatostatine (-), EMA (+++), récepteur de la progestérone (+++), Ki 67 1,5%. Aucune mitose n'est identifiée. Cylindres hépatiques avec métastases de méningiome de type fibreux.
+
+Diagnostic
+La biopsie confirme le diagnostic de méningiome de type fibreux avec métastases hépatiques, pulmonaires et osseuses et extension locale aux tissus mous.
+
+Traitement
+La patiente a d'abord reçu une radiothérapie antiallergique de la colonne vertébrale dorsale (20 Gy en 5 séances).
+Ensuite, elle a commencé un traitement au tamoxifène 20 mg, un comprimé par jour pendant 4 mois, qui a été interrompu en raison de la nette progression clinique confirmée par les examens d'imagerie.
+Compte tenu de la présence de récepteurs de somatostatine positifs dans l'octréocan, qui n'a pu être confirmée par la biopsie, elle a commencé un traitement par cctréotide LAR 20 mg, en injection intramusculaire toutes les 4 semaines, avec une bonne tolérance au traitement et sans toxicités aiguës notables.
+
+Évolution
+Actuellement, et après 12 mois de traitement à l'octréotide, le patient est paucisymptomatique, avec une légère gêne épigastrique et des douleurs lombaires qui sont contrôlées par l'analgésie prescrite au deuxième stade. Lors de la dernière réévaluation par tomodensitométrie du thorax et de l'abdomen, la maladie est restée stable selon les critères RECIST.
+Elle est en attente d'une opération de la tumeur primaire par le service de neurochirurgie à des fins palliatives et cosmétiques pour améliorer la qualité de vie de la patiente.

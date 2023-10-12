@@ -1,0 +1,40 @@
+Anamnèse
+Au début, la patiente a bien toléré le traitement. Après trois semaines, elle a commencé à ressentir un malaise général, des douleurs dans la région périanale, des nausées et une diminution de l'appétit, de sorte qu'un traitement symptomatique et des compléments alimentaires ont été mis en place. Malgré ces mesures, la patiente a présenté une perte de poids progressive, ainsi que des vomissements, une intolérance orale et des selles liquides jaunâtres abondantes. Elle a donc été hospitalisée avec une alimentation parentérale, une supplémentation en eau et en électrolytes et l'arrêt de la capécitabine (bien qu'elle ait terminé le traitement avec une RT allant jusqu'à 50,4 Gy). La patiente a évolué favorablement, restant au total 15 jours, avec une amélioration de l'entérite, et réintroduisant l'alimentation orale avec une bonne tolérance.
+Malheureusement, la patiente a été réadmise deux jours plus tard, signalant une anorexie intense, avec pratiquement aucune prise d'aliments ou de liquides, une asthénie, une sensation de dystrophie, une toux avec quelques mucosités sans douleur claire ni dyspnée.
+
+Examen physique
+Mauvais état général. Orientation dans les trois sphères. Tendance au sommeil. Tension artérielle 90/58 mm Hg. Fréquence cardiaque 117 bpm. Fréquence respiratoire : 15 rpm. SatO2 : 89 % à l'air ambiant. Afebrile.
+Auscultation : tachycarde, avec hypoventilation dans la base droite, avec des rhonchi épars. Abdomen non douloureux, avec bruits de progression. Œdème des membres inférieurs jusqu'aux genoux.
+Desquamation de la peau des paumes et des plantes.
+
+Tests complémentaires
+Dans un premier temps, les tests suivants sont effectués :
+"Numération sanguine et biochimie : hémoglobine (Hb) 10,4 g/dl, leucocytes 6.400 cellules/mm3, lymphocytes 200 cellules/mm3, créatinine 0,48, sodium 128 mmol/l, potassium 2,9 mmol/l, chlore 91 mmol/l, calcium 6 mg/dl, albumine 1,5 g/dl (VN 3,5-5,2), protéines 4 g/dl (VN 6,4-8,3), calcium corrigé des protéines 7,5 mg/dl, procalcitonine (PCT) 6 ng/ml, protéine C-réactive (CRP) > 320 mg/l, lactate 39,3 mg/dl.
+"Radiographie thoracique : une condensation a été observée dans la base droite au milieu du terrain.
+Un traitement antibiotique à base de lévofloxacine et d'aztréonam, une fluidothérapie et une alimentation par sonde nasogastrique ont été mis en place. Au cours des jours suivants, le patient est devenu très asthénique et généralement souffrant, avec des selles diarrhéiques persistantes (grade IV) et un œdème progressant jusqu'aux membres supérieurs. Le linézolide a été ajouté au traitement et une tomodensitométrie (TDM) thoracique a été réalisée :
+"Tomodensitométrie thoracique : résultats compatibles avec une pneumonie nécrosante dans le lobe inférieur droit, épanchement bilatéral prédominant à droite, avec plusieurs atélectasies pulmonaires bilatérales.
+La clindamycine est ajoutée au traitement et une thoracentèse diagnostique est effectuée, qui est envoyée en microbiologie :
+"Liquide pleural : culture négative. Coloration de Gram : nombre modéré de leucocytes polymorphonucléaires.
+La patiente continue de présenter un mauvais état général, avec une asthénie, des épisodes de dyspnée et une détresse marquée. Elle présente des selles diarrhéiques abondantes qui aggravent sa fragilité, un érythème et une desquamation palmo-plantaire (grade IV), une chéilite, une stomatite (grade IV) et un œdème évoluant vers l'anasarque. D'autres examens complémentaires sont réalisés :
+"Détection de la toxine et de l'acide nucléique du virus Clostridium difficile dans les selles : négatif.
+"Radiographie du thorax : aggravation de la pneumonie, avec augmentation de l'épanchement pleural bilatéral.
+"Hémogramme et biochimie : Hb 10,1 g/dl, leucocytes 8 000 cellules/mm3, albumine 1,4 g/dl, protéines 3,9 g/dl, CRP 124 mg/l.
+Après deux semaines, la patiente a exprimé le désir de se reposer, elle ne voulait plus souffrir ni subir de traitement actif. Une perfusion de morphine a été mise en place pour le contrôle symptomatique de la dyspnée et de la douleur costale secondaire à la pneumonie, ce qui a permis à la patiente de rester calme et sans douleur. La lévofloxacine et l'aztréonam ont été maintenus.
+De manière inattendue, elle a montré une amélioration clinique deux jours plus tard ; un peu plus vivante, avec une bonne nuit de repos, et pas de selles dans les dernières 24 heures. Elle continue à souffrir d'anasarque, de dyspnée occasionnelle, de glossite, de mucosite du palais dur et de chéilite. Dans cette situation, le plan a été reconsidéré et la nutrition parentérale a été reprise.
+Un déficit en dihydropyrimidine déshydrogénase (DPD) a été suspecté et une étude génétique a été demandée. La tomodensitométrie thoracique a été répétée :
+"Scanner thoracique : épanchement pleural accru, avec une composante d'atélectasie plus importante dans les lobes moyen et supérieur droits, avec persistance de résultats compatibles avec une pneumonie nécrosante.
+Un drain thoracique a été mis en place, avec 470 ml de liquide pleural d'aspect hématologique, avec des caractéristiques biochimiques de transsudat, qui a été retiré après trois jours en raison de l'arrêt de l'écoulement.
+Au fil des jours, le patient a montré une amélioration clinique progressive, avec une diminution de la dyspnée et de l'œdème des extrémités. Nouveaux tests analytiques de contrôle et résultats génétiques :
+"Hémogramme et biochimie : Hb 8 g/dl, leucocytes 12.300 cellules/mm3, lymphocytes 1.100 cellules/mm3, protéines 5,1 g/dl, CRP 97,8 mg/l.
+"Détermination des polymorphismes de la DPD (dihydropyrimidine déshydrogénase) : il existe une mutation par substitution d'un nucléotide guanine par un nucléotide adénine dans le premier nucléotide de l'intron 14 du gène DPD, qui est associée à une toxicité accrue aux fluoropyrimidines.
+
+Le diagnostic
+Il s'agit donc d'une patiente présentant plusieurs pathologies simultanées et interdépendantes. Compte tenu de son adénocarcinome sténosant T3c cN1 cM0 du moyen rectum, un traitement néoadjuvant par RT et capécitabine a été initié. Elle a développé une toxicité sévère de la capécitabine secondaire à une mutation du gène de la dihydropyrimidine déshydrogénase. Dans ce contexte, il a développé une malnutrition sévère qui a aggravé sa complication infectieuse : une pneumonie nécrosante nosocomiale.
+
+Traitement
+Lors de la deuxième admission, la malnutrition a d'abord été traitée à l'aide d'une sonde nasogastrique, puis a été remplacée par une alimentation parentérale, avec une amélioration. Une fluidothérapie a ensuite été administrée pour corriger les troubles électrolytiques et une antibiothérapie pour la pneumonie, avec de la lévofloxacine et de l'aztréonam (28 jours au total), du linézolide (7 jours) et de la clindamycine (6 jours). Il a également reçu un tube de drainage pleural avec un débit de 470 ml de liquide pleural.
+
+L'évolution
+Malgré la fragilité de la patiente et l'impossibilité d'effectuer d'autres manœuvres, l'évolution clinique a pris une tournure inattendue vers un rétablissement lent et progressif.
+Après quatre semaines d'admission, les paramètres nutritionnels se sont améliorés pour atteindre 3,2 g/dl d'albumine et 6,6 g/dl de protéines, l'œdème, les lésions oropharyngées et la diarrhée ont diminué, l'auscultation pulmonaire s'est améliorée et la sensation de dyspnée a disparu. Elle a commencé à suivre un régime oral, qui a été bien toléré, et la nutrition parentérale a été retirée après la cinquième semaine d'admission.
+Suite à cette amélioration, la patiente a été transférée dans un hôpital de long séjour pour convalescence et rééducation, où elle est restée trois semaines, avec une bonne récupération fonctionnelle, et a ensuite poursuivi son opération.

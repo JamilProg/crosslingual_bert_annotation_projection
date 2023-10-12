@@ -1,0 +1,27 @@
+Anamnèse
+La protagoniste de notre cas est une femme de 48 ans, originaire de Huelva, avec des antécédents personnels de multiples facteurs de risque cardiovasculaire (hypertension, fumeuse active (avec une consommation cumulée de 18 paquets/an), dyslipidémie sous traitement (avec de la simvastatine). Thalassémie mineure sans répercussion clinique, bronchopneumopathie chronique obstructive modérée, suivie en pneumologie.
+
+Examen physique
+Le patient a toujours été en bon état général, indépendant pour les activités de la vie quotidienne, avec un score de 0 sur l'échelle de l'Eastern Cooperative Oncology Group (ECOG).
+Il y avait une masse pierreuse au niveau de la clavicule et de l'espace infraclaviculaire droit, d'une taille d'environ 5 cm, qui n'était pas douloureuse à la palpation.
+Le patient a signalé une douleur dans l'articulation gléno-humérale, avec une mobilité limitée en adduction et en extension.
+
+Examens complémentaires
+Elle a été évaluée par le service de traumatologie en décembre 2015 sans résultat majeur à l'examen physique, demandant une imagerie par résonance magnétique (IRM) de l'épaule qui a révélé une lésion entre l'épine de l'omoplate et la musculature du sous-épineux, d'environ 7 cm de diamètre, hypointense en T1 et hyperintense en T2, avec une vascularisation interne.
+Afin de mieux définir la lésion, une nouvelle IRM avec contraste au gadolinium a été demandée (le patient a refusé la perfusion de contraste), et l'IRM a montré une tumeur des tissus mous située dans l'épaisseur du muscle infra-épineux, avec un comportement agressif (avec une infiltration osseuse dans la glène et une infiltration musculaire dans l'infra-épineux, le supra-épineux et le bord postérieur du sous-scapulaire) ; avec une angiogenèse marquée.
+Ces résultats étaient radiologiquement compatibles avec une tumeur de nature vasculaire (hémangioendothéliome/hémangiosarcome). La patiente a été adressée à l'unité des tumeurs osseuses de l'hôpital universitaire Virgen del Rocío, et une biopsie tru-cut a été réalisée le 25 juillet 2016 avec un rapport pathologique compatible avec un sarcome d'Ewing, avec une expression de CD99 avec un motif membranaire et le réarrangement caractéristique du gène EWSR-1.
+Une étude d'extension a été complétée par une tomodensitométrie (TDM) du thorax et de l'abdomen le 5 août 2016 sans changement majeur à l'exception de la croissance progressive de la lésion (en mars/2016 : 71 x 60 x 5,4 mm &rarr ; août/2016 : 91 x 72 x 10 mm).
+
+Diagnostic
+Le diagnostic final est un sarcome d'Ewing de l'omoplate droite avec une maladie localisée.
+
+Traitement
+Après discussion au sein du Comité des tumeurs ostéomusculaires, il a été décidé de commencer un traitement de chimiothérapie néoadjuvante selon le schéma VAC/IE*, en alternance tous les 21 jours (C1 VAC, C2 IE, C3 VAC, etc.) dans le but de contrôler la maladie et de faciliter le traitement chirurgical ultérieur, en recevant 9 cycles. La toxicité la plus notable pendant le traitement a été la mucosite, les vomissements et l'asthénie G2, pratiquement pendant tous les cycles, et elle a dû être hospitalisée après le cycle 9 (VAC) en raison de la toxicité hématologique avec une neutropénie fébrile sans foyer et une thrombopénie G2.
+Après le traitement néoadjuvant, le scanner pré-chirurgical a montré une grande réponse partielle, avec une lésion située dans l'omoplate droite qui était passée d'une composante importante des tissus mous avec infiltration des muscles infraspinatus, supraspinatus et subscapularis et une infiltration apparente de l'os glénoïde à une tumeur située et limitée à l'omoplate, sans infiltration des tissus mous.
+Finalement, le patient a subi une scapulectomie totale + reconstruction en utilisant un filet en polypropylène et en suturant le deltoïde, le sous-scapulaire, le reste de la coiffe des rotateurs et le triceps à la clavicule pour centrer la tête humérale.
+L'opération s'est déroulée sans incident et l'analyse anatomopathologique de l'échantillon a montré des marges libres (R0) et une réponse pathologique complète avec 100 % de nécrose dans l'échantillon. Aucune infiltration dans la cavité gléno-humérale n'a été constatée.
+Schéma VAC/IE : VAC vincristine 1,5 mg/m2 (2 mg au total) + cyclophosphamide 1 200 mg/m2 (2 120 mg au total) + doxorubicine 75 mg/m2 (133 mg au total) et IE avec Ifosfamide à une dose de 1,8 g/m2/jour pendant 5 jours + étoposide 100 mg/m²/jour x 5 jours avec soutien MESNA et G-CSF.
+
+Évolution
+Elle a poursuivi le traitement systémique adjuvant avec le même schéma, en décidant de réduire la dose du schéma IE à 80 % à partir de ce moment, compte tenu de la toxicité hématologique qu'elle présentait et des antécédents de neutropénie/thrombopénie.
+Actuellement, la patiente a terminé 11 cycles (dont deux post-chirurgicaux), avec un ECOG de 0. Les seules manifestations cliniques notables sont un déficit moteur post-chirurgical dans l'articulation gléno-humérale droite, avec une absence de mobilité en abduction et en rotation interne/externe. La douleur est bien contrôlée par une échelle visuelle analogique (EVA) de 0 avec un patch de fentanyl de 50 mcg/72 heures.

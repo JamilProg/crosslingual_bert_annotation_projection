@@ -1,0 +1,12 @@
+T1	pathologie 34 110	adenocarcinoma medianamente diferenciado implantado sobre esófago de Barrett
+T2	pathologie 211 234	reflujo gastroesofágico
+T3	pathologie 676 709	retención en el conducto gástrico
+T4	pathologie 715 745	píloro marcadamente estenosado
+T5	pathologie 1086 1131	stop casi completo y persistente en el píloro
+T6	pathologie 2144 2155	perforación
+#1	SNOMED T1	721617001
+#2	SNOMED T3	307227006
+#3	SNOMED T4	367403001
+#4	SNOMED T2	235595009
+#5	SNOMED T6	36191001
+#6	SNOMED T5	244815007

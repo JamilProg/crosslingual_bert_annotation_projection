@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 80 ans ayant des antécédents de diabète de type 2 et de cardiopathie ischémique. Elle consulte son médecin généraliste en raison d'une toux persistante. Une radiographie du thorax a été demandée, montrant une masse dans le lobe supérieur droit.
+Après une tomodensitométrie thoraco-abdomino-pelvienne et cérébrale, une scintigraphie osseuse, une tomographie par émission de positons (PET-CT) et une bronchoscopie, un diagnostic d'adénocarcinome du poumon gauche cT4 N2 M1c (métastases osseuses) a été posé.
+L'étude moléculaire du récepteur du facteur de croissance épidermique (EGFR), du gène du récepteur de la tyrosine kinase du lymphome anaplasique (ALK) et de l'oncogène ROS receptor tyrosine kinase 1 s'est révélée négative. Une expression du ligand de mort programmée 1 (PD-L1) supérieure à 95 % a été identifiée.
+Un traitement de première intention par pembrolizumab a été instauré. Après le quatrième cycle, le volume de la tumeur a diminué de 28 % sans atteindre les critères de réponse partielle selon RECIST ou les critères d'immunorégulation. Il a reçu le cinquième cycle de pembrolizumab deux semaines avant l'apparition du tableau.
+Au cours des deux dernières semaines, il a commencé à présenter un malaise général, une asthénie et une anorexie. Elle a associé une faiblesse et des vertiges avec une sensation de malaise, sans perte de conscience, et des nausées sans vomissements avec des douleurs abdominales légères et diffuses.
+Examen physique
+À l'examen physique, la patiente était en mauvais état général, avec une tendance au sommeil. L'échelle de Glasgow était de 14 (Glasgow oculaire : 4 ; Glasgow moteur : 5 ; Glasgow verbal : 5).
+Il a d'abord maintenu une bonne tension artérielle, mais a ensuite tendu vers l'hypotension avec une tension artérielle (TA) de 75/53 mm Hg et une détérioration globale. Une pâleur cutanée et une sécheresse de la peau et des muqueuses ont été observées. Il n'y avait pas de focalité neurologique. Oedème prétibial minime.
+
+Examens complémentaires
+Un bilan sanguin effectué aux urgences a montré une légère détérioration de la fonction rénale avec une créatinine de 1,34 mg/dl, une hyponatrémie (sodium : 130 meq/l) et une hyperkaliémie (potassium : 5,8 meq/l). L'analyse de la thyroïde effectuée quelques jours avant le futur sixième cycle a révélé des taux élevés de thyréostimuline (TSH) (75,84 mcui/ml) et des taux indétectables de T4 libre.
+Le taux de cortisol était indétectable. Les taux d'ACTH étaient élevés (484 pg/ml, les valeurs de référence dans notre laboratoire étant de 7-62 pg/ml).
+Une IRM cérébrale a été réalisée, qui n'a révélé aucune altération au niveau de l'hypophyse.
+Les analyses ultérieures ont également révélé un taux élevé d'anticorps anti-peroxydase (349,07 ui/ml ; positif à partir de 7 ui/ml) et d'anticorps anti-21-hydroxylase (46 U/ml ; positif à partir de 1 U/ml), qui sont présents dans 90 % des surrénalites auto-immunes (1). Toutes les autres hormones sécrétées au niveau central étaient dans les valeurs normales.
+
+Diagnostic
+"Hypothyroïdie primaire de grade 3.
+"Insuffisance surrénale primaire de grade 4.
+
+Traitement
+À l'entrée du service des urgences, le traitement commence par l'administration de 200 µg de lévothyroxine, de 100 mg de méthylprednisolone et d'une fluidothérapie de soutien (2).
+
+Évolution
+Après le début du traitement de substitution, la patiente a connu une nette amélioration clinique et une normalisation progressive des altérations analytiques.
+La patiente est actuellement suivie en endocrinologie et en oncologie et est traitée par lévothyroxine 50 mcg par jour, hydrocortisone 20 mg toutes les 8 heures et fludrocortisone 0,1 mg par jour.
+Compte tenu de la gravité de la maladie et des souhaits du patient, nous avons décidé d'interrompre le traitement par pembrolizumab. Actuellement, le patient présente toujours des critères de maladie stable.

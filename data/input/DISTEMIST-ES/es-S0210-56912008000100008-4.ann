@@ -1,0 +1,10 @@
+T1	pathologie 218 237	IAM inferoposterior
+T2	pathologie 335 349	BRD incompleto
+T3	pathologie 590 603	IAM posterior
+T4	pathologie 918 921	SRP
+T5	pathologie 1107 1237	estenosis del 90% en el tercio medio de la arteria coronaria derecha, y de un 60% en la porción proximal de la arteria circunfleja
+#1	SNOMED T1	76593002
+#2	SNOMED T2	251124007
+#3	SNOMED T3	233838001
+#4	SNOMED T4	428417006
+#5	SNOMED T5	876856005+876858006

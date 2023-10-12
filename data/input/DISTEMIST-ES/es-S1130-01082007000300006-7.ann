@@ -1,0 +1,8 @@
+T1	pathologie 107 114	bebedor
+T2	pathologie 119 126	fumador
+T3	pathologie 128 152	Amigdalitis de repetició
+T4	pathologie 362 427	duodenal mostró atrofia moderada de las vellosidades intestinales
+#1	SNOMED T1	219006
+#2	SNOMED T2	77176002
+#3	SNOMED T3	195677001
+#4	SNOMED T4	75581001

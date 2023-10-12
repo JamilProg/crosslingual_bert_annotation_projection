@@ -1,0 +1,18 @@
+T1	pathologie 425 489	lesión intraósea frontal derecha de características osteolíticas
+T2	pathologie 538 548	metástasis
+T3	pathologie 550 557	mieloma
+T4	pathologie 560 570	hemangioma
+T5	pathologie 835 841	lesión
+T6	pathologie 1101 1107	lesión
+T7	pathologie 1403 1409	lesión
+T8	pathologie 1532 1544	defecto óseo
+T9	pathologie 1789 1819	hemangioma cavernoso intraóseo
+#1	SNOMED T1	76069003
+#2	SNOMED T2	128462008
+#3	SNOMED T3	55921005
+#4	SNOMED T4	400210000
+#5	SNOMED T9	416824008
+#6	SNOMED T8	76069003
+#7	SNOMED T5	417163006
+#8	SNOMED T6	417163006
+#9	SNOMED T7	417163006

@@ -1,0 +1,23 @@
+Anamnèse
+Un patient de 55 ans s'est présenté aux urgences le 22 juillet 2014 pour des douleurs épigastriques intenses irradiant vers l'hypogastre, des vertiges, des nausées et des sueurs. Les jours précédents, il avait consulté son centre de soins primaires pour des épigastralgies de moindre intensité sans cortex végétatif qui n'avaient pas régressé avec des antiacides.
+
+"HISTORIQUE PERSONNEL : Pas d'allergies médicamenteuses connues. Aucune maladie d'intérêt. Sportif. Pas de traitement habituel. Non-buveur. Non fumeur. Pas d'anabolisants.
+"HISTORIQUE FAMILIALE : Mère décédée à 72 ans d'une tumeur au cerveau. 3 frères, dont un décédé d'un arrêt cardio-respiratoire. Cousine maternelle atteinte d'un cancer du sein à l'âge de 40 ans.
+
+Examen physique
+Hypotension (70/45 mmHg), diaphorèse et pâleur cutanéo-muqueuse. Abdomen : douleur diffuse à la palpation avec signes d'irritation péritonéale.
+
+Tests complémentaires
+-Analyse de sang : anémie avec Hb 8,7 g/dL (Hb 13,7 g/dL lors de l'analyse de sang effectuée 48 heures plus tôt).
+-Tomodensitométrie abdominale urgente : Dans le lobe hépatique gauche, masse lobulée de 8x10x15 cm dépassant le contour hépatique, hétérogène avec rehaussement périphérique. Elle comprime les structures adjacentes et perd sa séparation avec l'antre gastrique. Large hématome dans le mésentère adjacent avec extension au diaphragme. Liquide intra-abdominal libre. Carcinomatose péritonéale probable. Conclusion : Rupture d'une tumeur hépatique (hépatocarcinome probable) avec hémopéritoine.
+
+Diagnostic
+Hémopéritoine secondaire à la rupture d'une tumeur hépatique.
+
+Traitement
+Le patient a été opéré en urgence par laparotomie sous-costale droite élargie. Un hémopéritoine de 2500 ml a été retiré et une tumeur hépatique de 15 cm a été découverte dans les segments II-III. Une résection hépatique de ces segments, une cholécystectomie, une résection épiploïque et une biopsie de la lésion dans le segment IV ont été réalisées. L'alphafœtoprotéine (AFP) dans la période postopératoire immédiate était de 7043 ng/ml.
+"Pathologie : Segments II-III : carcinome hépatocellulaire (CHC) modérément différencié de 10x7x5,5 cm, de forme trabéculaire et avec invasion veineuse. Foie non tumoral : foie non cirrhotique. Omentum : tumeur de 7,5 x 5 cm évoquant un implant d'hépatocarcinome. Le reste est normal.
+
+Évolution
+Elle a consulté le service d'oncologie médicale en septembre 2014 avec une AFP de 627 ng/ml, un Child-Pugh de 7 points et un stade avancé selon le système de stadification BCLC. Compte tenu du CHC réséqué mais de la présence d'implants péritonéaux lors de la chirurgie, il a été décidé de traiter par Sorafenib à 800 mg/jour et des sérologies ont été demandées pour les virus hépatotropes, résultant positives pour une infection antérieure par le VHB (Anti-HBs +, Anti-HBc +). Après un mois de traitement, l'AFP a atteint 29,86 ng/ml, avec une toxicité cutanée de type G3 nécessitant une réduction de la dose. Par la suite, l'AFP a augmenté malgré une augmentation adéquate de la dose, et plusieurs IRM du foie ont été demandées, qui n'ont montré que de simples kystes et des changements post-chirurgicaux.
+En mars 2015, l'AFP a atteint 297 ng/ml et un scanner thoracique-abdomino-pelvien a été demandé avec la présence d'un nodule pulmonaire basal droit de 8 mm, non spécifique et sans autres résultats. Compte tenu d'une bonne tolérance, nous avons augmenté la dose à 800 mg/jour avec une bonne réponse biochimique, atteignant un taux d'AFP de 80 ng/ml en novembre 2015. Début 2016, élévation progressive de l'AFP avec augmentation de la taille du nodule pulmonaire basal droit mesurant 1 cm. En attente d'une segmentectomie pulmonaire atypique pour étude histologique à ce jour.

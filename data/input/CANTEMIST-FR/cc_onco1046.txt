@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 54 ans, sans allergie médicamenteuse connue et ex-fumeuse depuis 2006 (IPA 20). Son seul antécédent chirurgical est une ligature des trompes à l'âge de 37 ans. Elle ne signale aucun autre antécédent pathologique ou familial intéressant. Elle s'est présentée aux urgences en juillet 2016 en raison d'une douleur thoracique pleurétique avec une dyspnée progressive d'évolution de deux semaines.
+Elle présentait également une toux sans expectoration, depuis plusieurs mois.
+
+Examen physique
+ECOG 0, hémodynamiquement stable, conscient, orienté dans les trois sphères, coopératif. Eupnéique, avec une saturation basale en O2 de 98 % (sans apport d'oxygène).
+Elle présentait un œdème au niveau de la selle et une circulation collatérale au niveau thoracique antérieur. Auscultation cardiaque rythmée à 80 bpm sans souffle, et auscultation pulmonaire avec hypoventilation généralisée dans l'hémithorax gauche, sans râles. L'abdomen n'est pas douloureux et aucune masse ou viscéro-mégalie n'est palpable.
+
+Tests complémentaires
+Les tests de laboratoire de base n'ont montré aucune altération pertinente. L'hémogramme était normal dans toutes les séries. CK, LDH et D. dimères. Une radiographie du thorax a été réalisée au service des urgences, montrant une augmentation de la densité rétrocardiaque avec une augmentation de la silhouette médiastinale, principalement à gauche, évoquant une masse médiastinale antérieure.
+Un scanner thoraco-abdomino-pelvien a été réalisé, montrant une masse hétérogène mesurant 7,7 x 7,4 x 10 cm avec des contours lobulés, située dans le médiastin antérieur, avec des calcifications à l'intérieur, qui a provoqué une compression de la veine cave supérieure dans un segment de 5 cm. Défaut de réplétion du tronc brachiocéphalique, de la veine sous-clavière gauche et de la veine jugulaire, compatible avec une thrombose, ainsi qu'un épanchement péricardique d'une épaisseur de 1,8 cm. Au niveau abdominal, on a observé une densité micronodulaire formant une lésion para-aortique rétropéritonéale gauche allant du hile rénal gauche à la zone de bifurcation aorto-iliaque.
+Une échocardiographie a été réalisée, montrant un léger épanchement péricardique, sans signe de tamponnade cardiaque, avec une FEVG de 78,7 %. Les marqueurs tumoraux étaient normaux, à l'exception d'un Ca 72,4 légèrement élevé.
+En raison de la forte suspicion diagnostique de thymome et de sa relation avec la myasthénie grave, des anticorps anti-récepteurs de l'acétylcholine ont été demandés, et les taux obtenus étaient normaux.
+Afin de clarifier le diagnostic histopathologique, une BAG de la masse médiastinale guidée par CT a été réalisée, obtenant peu de matériel, de sorte qu'une procédure plus invasive a été réalisée, une médiastinoscopie avec biopsie, l'anatomie pathologique étant : carcinome indifférencié, non à petites cellules, indice de prolifération (MIB1, Ki67) : élevé et nécrose abondante.
+Marqueurs neuroendocriniens CD56 et synaptophysine (-), chromogranine + (très focale). Cytokératines CAM5, 2+, AE1-AE3+, CK7+, CK 20+ (focal). Marqueurs lymphoïdes ALK -, CD20 -, CD2 -, vimentine -. Compatible avec un carcinome thymique.
+
+Diagnostic
+"Syndrome de la veine cave supérieure.
+"Carcinome thymique de stade IV B (classification de Masaoka) en raison d'une atteinte rétropéritonéale.
+
+Traitement
+Comme mesures générales, l'élévation de la tête du lit et l'oxygénothérapie en fonction de la dyspnée ont été indiquées. Des diurétiques et de la dexaméthasone 4 mg toutes les 6 heures ont également été prescrits. Malgré tout, la patiente ne s'améliorant pas cliniquement, elle a reçu 10 séances de radiothérapie locale avec une dose quotidienne de 3 Gy, ce qui a permis d'obtenir une amélioration clinique significative.
+
+Évolution
+En juillet 2016, elle a commencé un traitement de chimiothérapie par paclitaxel-carboplatine, dont elle a reçu quatre cycles, se terminant en octobre 2016, date à laquelle elle a été réévaluée par tomodensitométrie, montrant une réduction significative du volume de la masse médiastinale (6,7 x 5 x 10 cm) avec un petit épanchement péricardique et la disparition de l'atteinte rétropéritonéale.
+Le cas a été discuté au sein du comité des tumeurs thoraciques et le traitement chirurgical n'a pas été possible en raison de l'importante atteinte locorégionale et de l'invasion de la veine cave supérieure. Elle a également été évaluée par le service de radio-oncologie, mais la radiothérapie a été exclue en raison de la toxicité pulmonaire élevée.
+Dans cette situation, compte tenu de l'impossibilité d'un traitement local, il a été décidé de poursuivre le traitement par chimiothérapie avec paclitaxel-carboplatine, en recevant 4 cycles supplémentaires, avec une réévaluation ultérieure en mars 2017, avec une stabilisation de la maladie. Étant donné que le patient est cliniquement stable et présente un ECOG 0, il a été décidé de poursuivre le même traitement de chimiothérapie (paclitaxel-carboplatine).

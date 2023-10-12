@@ -1,0 +1,8 @@
+T1	pathologie 75 96	hipertensión arterial
+T2	pathologie 730 769	glomeruloesclerosis focal y segmentaria
+T3	pathologie 1182 1205	miopatía por esteroides
+T4	pathologie 1955 2003	hiperplasia glandular relacionada con medicación
+#1	SNOMED T1	38341003
+#2	SNOMED T2	236403004
+#3	SNOMED T3	26715006
+#4	SNOMED T4	23290009

@@ -1,0 +1,12 @@
+T1	pathologie 70 86	hernias discales
+T2	pathologie 101 137	litiasis coraliforme en pelvis renal
+T3	pathologie 173 197	dilatación pielocalicial
+T4	pathologie 1093 1127	estenosis ureteral lumbar e ilíaca
+T5	pathologie 1417 1435	estenosis ureteral
+T6	pathologie 2131 2149	estenosis ureteral
+#1	SNOMED T1	84857004
+#2	SNOMED T2	236710009
+#3	SNOMED T4	95574003+312496009
+#4	SNOMED T6	95574003
+#5	SNOMED T5	95574003
+#6	SNOMED T3	197820003

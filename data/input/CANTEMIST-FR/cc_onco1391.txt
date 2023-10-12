@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 52 ans, non fumeuse. Elle a consulté la médecine interne en mars 2011 pour trois mois de toux irritative non productive, accompagnée d'une dyspnée à l'effort modérée. Elle ne présentait pas de symptômes constitutionnels.
+
+Examen physique
+ECOG 0. Conscient et orienté, bon état général. Eupnéique au repos. Pas d'adénopathies palpables.
+Auscultation cardio-pulmonaire sans altération, abdomen sans particularité. Extrémités sans altération.
+
+Examens complémentaires
+Examens de laboratoire : phosphatase alcaline 181 UI/l (35-104), LDH 525 UI/l (135-204), CEA 603 ug/l (0-3,4) ; autres analyses biochimiques et hémogramme normaux.
+Tomodensitométrie thoraco-abdominale (CT T-A) : masse de 4 cm de diamètre dans le lobe inférieur droit (LID) avec un motif micronodulaire diffus bilatéral. Adénopathies médiastinales. Lésions osseuses au niveau du manubrium sternal et de la vertèbre D2. Image paracardiaque compatible avec un lipome ou un tératome.
+Scintigraphie osseuse : dissémination métastatique généralisée à plusieurs niveaux.
+Ponction à l'aiguille fine : adénocarcinome (TTF1 positif). EGFR muté (délétion de l'exon 19).
+
+Diagnostic
+Adénocarcinome du poumon droit au stade IV. Multiples métastases pulmonaires micronodulaires bilatérales et métastases osseuses généralisées. EGFR muté dans l'exon 19.
+
+Traitement
+Le Gefitinib 250 mg par voie orale toutes les 24 heures a été commencé en avril 2011 et l'acide zolédronique 4 mg par voie IV toutes les 4 semaines. La masse paracardiaque a été considérée comme compatible avec un possible tératome et la mise en observation a été décidée.
+
+Évolution
+Après 1 mois de traitement, il y a une nette amélioration clinique en termes de toux et de dyspnée, une bonne tolérance au traitement et l'absence de toxicité. CT scan T-A à 3 mois avec réponse partielle : diminution de la masse tumorale LID, amélioration significative des nodules pulmonaires. Dans les mois suivants, un bon contrôle symptomatique et une bonne qualité de vie ont été maintenus. En mars 2012 (intervalle sans progression de 11 mois), il est devenu instable sur ses pieds et a montré un comportement apathique. Une tomodensitométrie du cerveau a été réalisée sans aucune altération pertinente. Deux semaines plus tard, elle a été admise pour bradypsychie, ataxie, apraxie, agnosie, désorientation avec inattention et langage fragmenté. Une ponction lombaire a été effectuée avec une coloration de Gram, des cultures et une cytologie négatives. IRM cérébrale : infiltration massive cortico-sous-corticale et des ganglions de la base due à de multiples micrométastases miliaires. Des corticostéroïdes ont été prescrits sans amélioration, et le patient a évolué de façon torpide vers le coma. La radiothérapie a été rejetée par l'ECOG 4. Une sonde nasogastrique (NGT) a été mise en place à la demande des proches et de l'erlotinib 150 mg par NGT a été ajouté en deuxième ligne de traitement, qu'elle a reçu pendant environ 10 jours, et elle est sortie 24 jours après son admission.

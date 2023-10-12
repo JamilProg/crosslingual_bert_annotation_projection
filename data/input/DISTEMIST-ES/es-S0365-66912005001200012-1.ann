@@ -1,0 +1,20 @@
+T1	pathologie 69 94	pérdida de agudeza visual
+T2	pathologie 145 158	metamorfopsia
+T3	pathologie 339 375	MER centrada sobre la región macular
+T4	pathologie 544 547	DPV
+T5	pathologie 637 650	edema macular
+T6	pathologie 711 722	traumatismo
+T7	pathologie 797 811	MER idiopática
+T8	pathologie 974 987	metamorfopsia
+T9	pathologie 1084 1087	MER
+T10	pathologie 1148 1162	DPV prepapilar
+#1	SNOMED T2	42134006
+#2	SNOMED T3	367649002
+#3	SNOMED T4	247081001
+#4	SNOMED T5	37231002
+#5	SNOMED T7	133853005
+#6	SNOMED T8	42134006
+#7	SNOMED T9	367649002
+#8	SNOMED T10	247081001
+#9	SNOMED T6	417746004
+#10	SNOMED T1	170728008

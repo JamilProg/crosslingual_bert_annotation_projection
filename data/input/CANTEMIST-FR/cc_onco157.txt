@@ -1,0 +1,29 @@
+Anamnèse
+Patiente de 64 ans ayant des antécédents de diabète sucré non insulino-dépendant, d'hypertension et de dyslipidémie sous traitement.
+Antécédents oncologiques
+En 1992, on lui a diagnostiqué un mélanome d'indice de Breslow de 2,4 mm, non ulcéré, sous-scapulaire gauche. Classé pT3aN0M0, il a fait l'objet d'une chirurgie d'agrandissement et d'une lymphadénectomie axillaire. En février 2012, lors d'un contrôle, une lésion nodulaire sous-cutanée d'un diamètre maximal inférieur à 1 cm a été découverte dans la région lombaire. Le patient ne présentait aucun autre symptôme associé.
+
+Examen physique
+Patient présentant un très bon aspect général, une coloration normale et une hydratation normale. Eupnéique au repos.
+Conscient et orienté dans les trois sphères. Nerfs crâniens préservés. Pas de signes de focalité neurologique. Auscultation cardiaque : rythmée sans frottement ni souffle. Auscultation pulmonaire : souffle vésiculaire conservé. L'abdomen n'est pas décrit. Il y avait une cicatrice résultant de l'excision d'une lésion maligne dans la région sous-scapulaire, d'un diamètre maximal d'environ 8 cm. Il y avait également une lésion surélevée dans la région lombaire, sous-cutanée, de consistance solide et d'un diamètre légèrement inférieur à 1 cm.
+
+Tests complémentaires
+"Après biopsie, il s'agissait d'une métastase sous-cutanée d'un mélanome.
+"Une tomodensitométrie d'extension a été réalisée, montrant de multiples métastases (dans la vésicule biliaire, les implants péritonéaux, les ganglions rétropéritonéaux et les nodules sous-cutanés).
+"L'étude mutationnelle révèle l'altération V600E du gène BRAF.
+
+Diagnostic
+Il s'agit donc d'une rechute d'un mélanome diagnostiqué en 1992, métastatique et présentant la mutation V600E du gène BRAF.
+
+Traitement
+Après le diagnostic, étant donné qu'il s'agissait d'un mélanome métastatique avec la mutation susmentionnée, il a été décidé de commencer un traitement avec 960 mg de vemurafenib par voie orale. Comme indiqué ci-dessous, la toxicité du médicament a nécessité une réduction de la dose à deux reprises (août et octobre 2013) et le traitement a finalement été interrompu en janvier 2014.
+
+Évolution
+En juin 2012, le patient a été réévalué, observant une réponse complète de son nodule péritonéal sous-diaphragmatique et une réponse partielle des métastases vésiculaires, cutanées et ganglionnaires. Il a été décidé de poursuivre le traitement.
+L'état de la maladie a été réévalué fréquemment, avec une rémission complète maintenue de juillet 2013 à mai 2015. On parle donc d'une survie sans progression depuis sa rechute en février 2012 de 37 mois.
+Durant cette période, plusieurs effets associés à la toxicité du médicament ont été décrits, nécessitant une réduction de la dose (en août 2013 à 720 mg, et en novembre de la même année à 480 mg), voire son retrait en janvier 2014.
+"En octobre 2013, une lésion sur le palais mou (hyperkératose) et sur le bord libre lingual (leucoplasie sans dysplasie) a été excisée.
+"En décembre 2012, une lésion est apparue sur le clivage (kératose lichénoïde bénigne), qui a également été retirée.
+" En août 2013, la patiente a consulté pour une uvéite G2, limitant partiellement son ABVD, et il a été décidé de réduire la dose (niveau -1, à 720 mg BID).
+" En octobre, elle a maintenu une rémission complète, mais à la fin du mois, l'uvéite G2 est réapparue, et le traitement a de nouveau été mis en pause jusqu'à résolution. Un mois après l'épisode, le médicament a été réintroduit (niveau -2, avec une réduction à 480 mg BID).
+- Mais après le troisième épisode d'uvéite en janvier 2014, le traitement est définitivement arrêté.

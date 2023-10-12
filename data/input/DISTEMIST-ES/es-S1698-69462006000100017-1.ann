@@ -1,0 +1,14 @@
+T1	pathologie 29 37	fumadora
+T2	pathologie 89 103	Cáncer de mama
+T3	pathologie 111 113	M0
+T4	pathologie 193 237	progresión metastásica del carcinoma de mama
+T5	pathologie 576 645	lesión ulcerosa de 5 mm de diámetro en el borde lateral de hemilengua
+T6	pathologie 695 744	molar asociado con la lesión por decúbito lingual
+T7	pathologie 1387 1401	lesión lingual
+#1	SNOMED T1	77176002
+#2	SNOMED T6	300246005
+#3	SNOMED T2	254837009
+#4	SNOMED T3	89474008
+#5	SNOMED T4	254838004
+#6	SNOMED T5	66123000
+#7	SNOMED T7	300246005

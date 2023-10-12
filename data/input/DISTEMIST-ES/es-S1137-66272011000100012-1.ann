@@ -1,0 +1,28 @@
+T1	pathologie 55 94	infecciones respiratorias de repetición
+T2	pathologie 119 127	alergias
+T3	pathologie 131 146	hábitos tóxicos
+T4	pathologie 151 161	hipertensa
+T5	pathologie 202 216	hipotiroidismo
+T6	pathologie 353 378	infecciones respiratorias
+T7	pathologie 1015 1029	cifoescoliosis
+T8	pathologie 1106 1147	enfisema y bronquiectasias en ambas bases
+T9	pathologie 1117 1147	bronquiectasias en ambas bases
+T10	pathologie 1238 1252	déficit de AAT
+T11	pathologie 1419 1423	asma
+T12	pathologie 1426 1431	D-AAT
+T13	pathologie 1465 1469	asma
+T14	pathologie 1549 1554	D-AAT
+#1	SNOMED T1	275498002
+#2	SNOMED T4	38341003
+#3	SNOMED T5	40930008
+#4	SNOMED T6	275498002
+#5	SNOMED T7	405773007
+#6	SNOMED T8	12295008+49158009
+#7	SNOMED T9	12295008
+#8	SNOMED T10	30188007
+#9	SNOMED T11	195967001
+#10	SNOMED T12	30188007
+#11	SNOMED T13	195967001
+#12	SNOMED T14	30188007
+#13	SNOMED T3	228272008
+#14	SNOMED T2	106190000

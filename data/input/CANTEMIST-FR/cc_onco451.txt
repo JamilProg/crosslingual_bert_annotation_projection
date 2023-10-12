@@ -1,0 +1,29 @@
+Anamnèse
+Une femme de 42 ans, sans antécédents, a consulté en janvier 2018 pour une toux irritative de trois mois, sans autres symptômes associés.
+
+Exploration physique
+"Conscient et orienté dans les trois sphères. Très bon état général, bien hydraté et perfusé.
+"TA 120/66 mm Hg, FC 80 bpm, saturation en O2 97% au départ, eupnéique, afébrile.
+"PCA : tonalités rythmiques, pas de souffle. Hypophonie bibasale.
+"ABD : RHA normoactif, doux, non douloureux, pas de masse ni de viscéro-mégalie. Pas d'IP.
+"MMII : pas d'œdème ni de signes de TVP.
+"Sein droit rempli et palpation des ganglions lymphatiques axillaires bilatéraux, non douloureux.
+
+Tests complémentaires
+Un scanner du thorax a montré de multiples adénopathies axillaires bilatérales, rétropectorales droites, médiastinales, subcarinales, hilaires bilatérales et supraclaviculaires. Un épanchement pleural bilatéral et des nodules pulmonaires isolés ont été observés dans le segment postérieur du LSD, le plus grand mesurant 3,5 mm, un ponctué dans le segment antérieur du même lobe, dans le LID mesurant 2 mm et 3,4 mm dans le LSI, ainsi qu'un épaississement cutané marqué du sein droit.
+Au vu de ces résultats, une mammographie et une échographie mammaire ont été demandées, montrant un sein droit avec un épaississement cutané marqué et une augmentation diffuse de la densité, avec de multiples zones de spéculation dans les quadrants externes et des microcalcifications associées, ainsi qu'une lymphadénopathie axillaire bilatérale avec un épaississement diffus de la couche corticale et une perte du hile graisseux, qui étaient radiologiquement suspectes.
+BIRADS 5.
+Le 08/05/18, une BAG du sein et de l'adénopathie droite a été réalisée, avec pour résultat un carcinome infiltrant de Nottingham de grade 2 selon un score de 6 (3 + 2 + 1) et une composante de carcinome in situ de type solide, de grade intermédiaire, sans comédonécrose. Infiltration du tissu fibro-adipeux par le carcinome sans identification de ganglions lymphatiques résiduels. Récepteurs d'œstrogènes 100% des cellules tumorales, récepteurs de progestérone 100% des cellules tumorales, CK19 positif, Ki67 12%, HER2 négatif, e-cadhérine positif.
+Le 25/05/2018, un PET scan a été réalisé pour compléter l'étude, qui a rapporté une captation pathologique mammaire droite, des lymphadénopathies sus-claviculaires, axillaires bilatérales, hilaires, médiastinales et mammaires internes évocatrices de malignité ; un épaississement septal dans la base pulmonaire gauche avec une augmentation diffuse de la captation, des ovaires hypertrophiés avec une captation pathologique, des lymphadénopathies rétropéritonéales et de multiples métastases osseuses.
+Elle a subi une bronchoscopie avec EBUS qui a confirmé l'atteinte des ganglions lymphatiques médiastinaux due à un carcinome compatible avec des métastases d'origine mammaire.
+
+Diagnostic
+Carcinome mammaire infiltrant non spécifique de stade IV, luminal A.
+
+Traitement
+Avec un diagnostic de carcinome mammaire infiltrant de type non spécifique de stade IV, luminal A, le 14 juin 2018, elle a commencé un traitement par goséréline 3,6 mg/28 jours, létrozole 2,5 mg/jour et ribociclib 600 mg/jour pendant 21 jours tous les 28 jours.
+
+Évolution
+Après trois mois de traitement avec une excellente tolérance, une TEP a été réalisée montrant une réponse métabolique complète, qui s'est maintenue après six mois.
+Compte tenu de la volonté de la patiente d'arrêter le blocage hormonal, elle a subi une ovariectomie bilatérale le 4/01/2019, l'anatomie pathologique montrant un carcinome compatible avec une métastase d'origine mammaire qui a largement infiltré les deux ovaires dans plus de 80 % du volume, atteignant et perforant la capsule ovarienne et s'étendant au tissu interstitiel du ligament tubo-ovarien, avec un envahissement lymphovasculaire mais sans infiltration périneurale.
+La dernière TEP-TDM réalisée en mai 2019 n'a pas révélé d'infiltration pathologique.

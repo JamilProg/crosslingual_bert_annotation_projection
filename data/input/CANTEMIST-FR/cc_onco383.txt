@@ -1,0 +1,37 @@
+Anamnèse
+Femme de 37 ans.
+Aucune allergie médicamenteuse connue. Fume 20 cigarettes par jour. Pas d'autres habitudes toxiques ni d'antécédents médicaux ou chirurgicaux intéressants. Antécédents familiaux : deux oncles paternels atteints de cancer gastrique et une grand-mère maternelle atteinte d'un cancer du sein.
+Elle a consulté un dermatologue en 2008 en raison d'une lésion cutanée dans la région scapulaire gauche. La lésion a été excisée et la pathologie était compatible avec un naevus de Spitz atypique. Les cliniciens ont donc contacté la patiente et lui ont demandé d'agrandir les marges, mais la patiente ne s'est pas présentée.
+En septembre 2013, la patiente s'est présentée au service des urgences pour une douleur au flanc droit, d'apparition soudaine, de nature pleurétique, n'irradiant pas vers d'autres endroits, sans aucun autre symptôme associé. Elle ne présentait pas de toux, d'expectoration, de fièvre ou de symptômes infectieux. Interrogée, elle a fait état de symptômes constitutionnels consistant en une anorexie, avec une perte de poids d'environ 5 kg depuis le début de l'année 2013, ainsi que d'une grosseur sus-claviculaire gauche à croissance lente.
+Compte tenu des antécédents de la patiente et des symptômes actuels, il a été décidé de l'hospitaliser en médecine interne.
+
+Examen physique
+Apyrétique. Hémodynamiquement stable. Sat 99% air ambiant.
+Taille 169 cm. Poids 59 kg.
+Normohydraté. Couleur normale. Eupnéique au repos. Tolère le décubitus. PS-ECOG 1.
+NRL : Conscient. Orienté dans les 3 sphères. Nerfs crâniens normaux. Pas d'altération de la force, du tonus ou de la sensibilité. Pas de dysmétrie ni d'altération de l'équilibre. RPC bilatéral des fléchisseurs. Démarche normale.
+Adénopathie de grand volume au niveau sus-claviculaire gauche, dure, immobile, adhérente aux plans profonds. Adénopathies présentant les mêmes caractéristiques au niveau axillaire gauche et au niveau latéro-cervical bilatéral. Pas d'adénopathie palpable aux autres niveaux. Pas d'IVY. Pas de lésions cutanées à la surface du corps.
+ORL : aucun signe de pathologie.
+AC : rythmique, pas de souffle.
+PA : souffle vésiculaire conservé, avec respiration superficielle due à la douleur.
+Abdomen : mou, dépressible, non douloureux à la palpation. Aucun signe d'irritation péritonéale. Pas de masses ni de mégalithes. RHA+.
+Membres inférieurs : pas d'œdème ni de signes de TVP. Pouls pédieux positifs.
+
+Examens complémentaires
+Biochimie : pas d'altération, sauf LDH à 746.
+Hémogramme : pas d'altération.
+Coagulation : pas d'altération.
+TDM cervico-thoracique-abdomino-pelvienne avec contraste : multiples adénopathies latéro-cervicales, la plus grande de 2,3 cm de grand axe. Conglomérat adénopathique dans les régions IV et V gauche de 2,3 et 2,5 cm respectivement et IV et V droite de 1,8 et 1,3 cm. Multiples adénopathies/conglomérats hiliomédiastinaux dans le médiastin antérieur et supérieur, le plus grand mesurant 2,5 cm. Adénopathies paratrachéales supérieures droites de 2,4 cm et 3 cm. Adénopathies multiples dans la région axillaire supérieure gauche, en arrière du petit pectoral, mesurant 3 cm, et à droite en arrière de la veine axillaire, mesurant 2,4 et 2,6 cm. Le reste de l'examen n'a révélé aucune lésion.
+Biopsie de l'adénopathie sus-claviculaire gauche : métastase de mélanome malin. Plus de 10 mitoses par champ. B-RAF muté.
+
+Diagnostic
+Diagnostiqué avec un mélanome métastatique IV BRAF muté, il a été adressé à notre service.
+
+Traitement
+Début du traitement en janvier 2014 par Dabrafenib-Trametinib à des doses de 150 mg toutes les 12 heures et 2 mg toutes les 24 heures respectivement.
+Au cours des premiers mois, la patiente a présenté une toxicité cutanée de grade I, principalement sur le visage et le haut du tronc, et une asthénie de grade 1, qui se sont résorbées d'elles-mêmes.
+Après ces premiers cycles, la patiente n'a pas présenté d'autre toxicité liée au traitement, conservant un PS-ECOG de 0 et ne présentant pas d'altérations analytiques secondaires.
+
+Évolution
+Le patient a présenté une réponse complète après le premier scanner de contrôle, 3 mois après le début de la combinaison d'immunothérapie.
+Les tomodensitométries ultérieures à ce jour ont permis de maintenir cette réponse (dernière réalisée en mai 2016). Le patient tolère le traitement sans toxicité clinique ou analytique, maintenant actuellement un PS-ECOG de 1.

@@ -1,0 +1,14 @@
+T1	pathologie 206 232	catarro de vías superiores
+T2	pathologie 990 1016	parada cardiorrespiratoria
+T3	pathologie 1171 1179	obesidad
+T4	pathologie 1182 1194	malnutrición
+T5	pathologie 1439 1463	anomalías del desarrollo
+T6	pathologie 1512 1567	cavidad abdominal una colección de líquido serohemático
+T7	pathologie 1677 1690	posos de café
+T8	pathologie 2009 2044	íleon se halla netamente estrechado
+T9	pathologie 2098 2182	intestino delgado con cambios parietales, se encuentra contenido de aspecto hemático
+T10	pathologie 2297 2343	anomalía en el cierre del mesenterio del ciego
+T11	pathologie 2747 2764	shock hemorrágico
+T12	pathologie 2747 2831	shock hemorrágico secundario a obstrucción mecánica y necrosis del intestino delgado
+T13	pathologie 2778 2831	obstrucción mecánica y necrosis del intestino delgado
+T14	pathologie 2836 2926	hernia transmesocólica con herniación interna del intestino delgado y del intestino grueso

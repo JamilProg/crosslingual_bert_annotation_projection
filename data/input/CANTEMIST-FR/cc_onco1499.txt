@@ -1,0 +1,27 @@
+Anamnèse
+Un homme de 33 ans, sans antécédents particuliers, a consulté l'urologue pour un syndrome prostatique et une douleur inguinale gauche d'une durée d'un mois, ne répondant pas aux analgésiques.
+
+Examen physique
+L'examen rectal révèle une prostate hypertrophiée, dure et douloureuse à la palpation. Aucune adénopathie inguinale n'est palpable. Les organes génitaux externes sont normaux. Le reste de l'examen est sans particularité.
+
+Tests complémentaires
+- NFS : normale. PSA normal.
+- Échographie de la prostate : prostate hétérogène avec calcifications et ectasie pyélocalicielle bilatérale II/IV.
+- Tomodensitométrie thoraco-abdominale pelvienne : dilatation de grade 2 du système urétéral gauche et de grade 1 du système urétéral droit due à une tumeur prostatique de 8 cm sur la marge gauche infiltrant la paroi pelvienne, la paroi postérieure de la vessie, la vésicule séminale gauche et la paroi antérieure du rectum. Le reste est sans intérêt.
+- IRM abdominopelvienne : grosse tumeur prostatique de 7,3 x 5 x 4 cm infiltrant toute la vésicule séminale gauche, touchant également la musculature adjacente de l'obturateur interne et la paroi postérieure de la vessie qui est épaissie. Adénopathies de la chaîne obturatrice interne.
+- GGO : normal.
+- Biopsie de la prostate : néoplasme malin formé de nappes et de nids de petites cellules rondes, avec un rapport noyau/cytoplasme élevé, se développant entre un stroma desmoplastique.
+- IHC : les cellules présentent une positivité pour : AE1-AE3 (+++), CAM 5.2 (+), vimentine (+++), CD 99(+++), CD 138 (+++), WT-1(++), Enolase (++), CD 56 (+), actine musculaire lisse (+) dans les cellules et (+++) dans le stroma, synaptophysine (++). Les cellules présentent une négativité pour : desmine, CK20, sérotonine, S-100, CD20, CD38, CD79, PSA, CD3, CD10, myéloperoxydase, CD34, chromogranine.
+
+Diagnostic
+Tumeur desmoplastique à petites cellules rondes de la prostate, stade IV (cT4N1M0).
+
+Traitement
+Compte tenu du diagnostic de tumeur desmoplastique à petites cellules rondes de la prostate localement avancée et après une revue de la littérature, il a été proposé de commencer une chimiothérapie selon le protocole mP6 (modifié par le MSKCC, selon le groupe GEIS1) comprenant cinq cycles de chimiothérapie (tableau I). En fin de traitement, il a été consolidé par une radiothérapie. La toxicité au jour +2 du premier cycle HD-VAC comprenait une encéphalopathie cyclophosphamide débutante probable, qui a disparu avec un traitement symptomatique et de la thiamine. Au jour +11 du deuxième cycle HD-VAC, le patient a consulté pour une odynophagie et une température de 37,6°C. Il a signalé une meilleure tolérance au cours du deuxième cycle. Il a signalé une meilleure tolérance au cours du deuxième cycle. Avant le deuxième cycle d'IE, des macules sont apparues sur le visage, les bras et les cuisses, une biopsie cutanée des lésions a donc été réalisée, avec des résultats suggérant une réaction médicamenteuse, qui s'est progressivement améliorée après un traitement à la prednisone. Toute la toxicité de la chimiothérapie a été gérée en ambulatoire, sans nécessiter d'admission à l'hôpital.
+Cependant, après le troisième cycle, une progression locale s'est produite et une cystoprostatectomie radicale ainsi qu'une lymphadénectomie bilatérale ont été réalisées. L'étude anatomopathologique a révélé une tumeur desmoplastique à petites cellules rondes touchant la prostate, les deux vésicules séminales, l'uretère, les berges chirurgicales et les ganglions lymphatiques. Stade pathologique pT4N0(0/10)R2.
+Après l'intervention chirurgicale, une masse résiduelle ayant été détectée lors d'une tomodensitométrie ultérieure, il a été décidé d'administrer une radiothérapie du bassin (70,2 Gy) concomitante à l'IE, en ne recevant qu'un seul cycle, car le patient refusait de poursuivre la chimiothérapie.
+
+Évolution
+Un mois après la radiothérapie, une progression pulmonaire a été observée. Suite à la progression d'une tumeur rare sans alternative thérapeutique soutenue par la littérature et sans essai clinique ouvert disponible pour cette pathologie, il a été décidé, après revue de la littérature, de débuter une seconde ligne de chimiothérapie avec vinorelbine 25 mg/m2 iv, jours 1, 8, 15, et cyclophosphamide oral 25 mg/m2/jour pendant 28 jours. Cycles de 28 jours2.
+Après trois cycles, il y a une progression pulmonaire, une nouvelle ligne est donc proposée avec le schéma irinotécan 40 mg/m2/jour pendant cinq jours (équivalent à une dose par cycle de 200 mg/m2) et temozolamide 100 mg/m2/jour pendant cinq jours, cycles toutes les trois semaines3 . Après le troisième cycle, une nouvelle progression pulmonaire est apparue. Compte tenu du bon état général du patient et de son ECOG 1, il lui a été expliqué d'envisager une nouvelle ligne thérapeutique malgré le peu de preuves, mais le patient a refusé de poursuivre un traitement plus actif (sunitinib 37,5 mg/jour4).
+Un mois après avoir terminé le dernier cycle de chimiothérapie, le patient a commencé à ressentir des douleurs intenses dans le bas du dos qui ne disparaissaient pas avec les opioïdes et une dysesthésie dans les membres inférieurs, de sorte qu'une IRM de la colonne vertébrale dorsale a été demandée, montrant une compression de la moelle épinière en D11-12 secondaire à une masse tumorale des tissus mous, pour laquelle il a reçu d'urgence une radiothérapie externe (30 Gy). L'état du patient s'est progressivement aggravé et il est décédé 16 mois après le diagnostic, à son domicile.

@@ -1,0 +1,29 @@
+Anamnèse
+Homme, 36 ans, pas d'allergies médicamenteuses connues, fumeur d'un paquet par jour depuis 15 ans (15 paquets/an) sans autres antécédents intéressants. Soudeur de profession. Dans sa famille, son grand-père maternel est décédé d'un Ca. Pancréas et sa mère est décédée d'un cancer du poumon microcytaire. Cancer du poumon microcytaire.
+Il n'a pas suivi le traitement habituel.
+Après un effort, le patient a remarqué une masse dure infra-ombilicale et a donc consulté un autre centre. L'échographie et la tomodensitométrie de l'abdomen ont montré une masse solide de 92 x 61 mm avec des zones nécrotiques et une captation hétérogène dans le mésentère de la fosse iliaque gauche évoquant un lymphome ou une tumeur desmoïde. Par la suite, une FNA de la lésion a été réalisée avec le résultat préliminaire d'un neuroblastome.
+Le 21/07/08, une masse abdominale dépendant du péritoine pariétal a été retirée, accompagnée d'une adénopathie adjacente, avec un diagnostic histologique définitif de neuroblastome mesurant 11 cm. Les études immunohistochimiques (IHC) pour la GFAP (protéine acide fibrillaire gliale), l'ENS (énolase neuronale spécifique), la chromogranine et la synaptophysine étaient positives.
+Une étude d'extension a été réalisée, qui s'est révélée négative (IRM abdomen-pelvis et radiographie thoracique) et elle a été adressée à la radiothérapie oncologique pour un traitement adjuvant (50Gy en 25 séances), qu'elle a reçu jusqu'au 04/12/08.
+Un suivi a été effectué sans aucun signe de la maladie jusqu'en octobre 2012, date à laquelle des taux urinaires de dopamine de 1843 mcg/L ont été observés et confirmés par une IRM et un scanner de l'abdomen en décembre 2012 avec une rechute ganglionnaire pré-aortique et une masse para-aortique avec une atteinte sacrée et des tissus mous de la musculature paravertébrale. Compte tenu de ces résultats, il a été adressé à l'hôpital Virgen del Rocío (HUVR) de Séville, où une biopsie osseuse sacrée a été réalisée le 8/2/2013, qui a révélé des métastases osseuses de neuroblastome avec absence d'amplification du gène N-MYC.
+
+Examen physique
+ECOG 0. Poids : 62 kg. Taille : 1,62 m.
+Bon état général, conscient et orienté, bien hydraté et perfusé, eupnéique et afébrile. Auscultation cardio-pulmonaire et examen abdominal sans particularité. Pas d'autres altérations de l'appareil.
+
+Examens complémentaires
+*Examens de laboratoire (10/10/2012) : fonction rénale, ions et protéines normaux. Hémogramme sans altération.
+Dopamine urinaire 1843 mcg/L.
+*CT scan cranio-thoracique (22/10/12) et MIBI scan (9/11/12) : pas de preuve de la maladie.
+*Ponction de moelle osseuse (20/11/12) : pas de signe d'infiltration de la moelle osseuse.
+*IRM abdomen (12/12/12) : adénopathie para-aortique gauche élargie 31x42 mm, nouvelle adénopathie caudale de 18 mm, atteinte de la moelle osseuse en augmentation, masse prévertébrale des tissus mous augmentée en taille 5.1x1.9 cm qui est introduite dans le canal.
+
+Diagnostic
+Neuroblastome abdominal opéré d'une récidive métastatique au niveau des ganglions lymphatiques, des os et des tissus mous.
+
+Traitement
+Début de la chimiothérapie (QT) selon le protocole NR-NBL1/ESIOP : carboplatine, étoposide, vincristine, cisplatine et cyclophosphamide.
+
+Évolution
+La patiente a reçu 8 cycles (5/6/13-29/6/13) de QT à base de carboplatine, étoposide, vincristine, cisplatine et cyclophosphamide, obtenant une réponse partielle, et le sauvetage chirurgical a été refusé car il ne s'agissait pas d'une métastase unique.
+
+En août 2015, elle a subi une progression de la lésion sacrée, avec une augmentation de la masse des tissus mous et des ganglions, ce qui a entraîné des symptômes neurologiques dans les racines sacrées (perte du contrôle sphinctérien et hyposthésie périanale), et il a été décidé de commencer une nouvelle ligne de QT à base de platine. Elle a reçu le premier cycle selon le schéma BOMP-EPI (Bléomycine, vincristine, méthotrexate et cisplatine en alternance avec étoposide, cisplatine et ifosfamide) le 21/11/15. A ce jour, il a reçu un total de 6 cycles de vincristine, méthotrexate et cisplatine (OMP), à des doses réduites depuis le deuxième cycle, en raison de la toxicité hématologique et d'une infection pulmonaire pour laquelle la bléomycine a été interrompue, et l'EPI n'a pas pu être administré en raison d'une neutropénie. Malgré l'intensité sous-optimale de la dose, le patient a connu une amélioration neurologique dès le premier cycle, et une réponse partielle à la maladie a été confirmée lors de la réévaluation. À l'heure actuelle, le patient conserve une réponse partielle à la maladie.

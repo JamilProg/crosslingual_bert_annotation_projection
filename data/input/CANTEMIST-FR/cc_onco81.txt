@@ -1,0 +1,23 @@
+Anamnèse
+Patiente de 71 ans sans allergie médicamenteuse, antécédents personnels de bronchopneumopathie chronique obstructive de type emphysémateux, pneumothorax gauche en 1994 secondaire à une rupture de bulles ayant nécessité une pleurodèse, adénome de la prostate et hypertension artérielle sous traitement par bêta-bloquants. Les premiers symptômes sont apparus en mai 2009, lorsqu'il a développé une dyspnée à l'effort modérée pendant 48 heures et des expectorations hémoptotiques.
+
+Examen physique
+On note une diminution du murmure vésiculaire dans le lobe supérieur droit, avec des rhonchi associés isolés ; il n'y a pas de lymphadénopathie palpable ni de mégalithes. Le reste de l'examen est normal.
+
+Examens complémentaires
+"Une première radiographie du thorax a été demandée, montrant une masse paratrachéale droite.
+" La tomodensitométrie (TDM) de mai 2009 a montré une tumeur pulmonaire du lobe supérieur droit (LSD) mesurant 88 mm avec une infiltration médiastinale de l'artère pulmonaire du lobe supérieur et une adénopathie médiastinale antérieure à la bronche principale droite mesurant 20 mm, confirmée par la tomographie par émission de positons (TEP).
+"L'étude a été complétée par une biopsie à l'aiguille fine, avec un résultat anatomopathologique d'adénocarcinome pulmonaire, EGFR non muté.
+
+Diagnostic
+Le cas a été discuté au sein d'un comité multidisciplinaire de pathologie pulmonaire, et avec le jugement clinique d'un adénocarcinome pulmonaire cT4 N2 M0, stade IIIB, la radiothérapie (RT) a été décidée en concomitance avec la chimiothérapie avec une intention néoadjuvante, afin d'évaluer ultérieurement la possibilité d'une chirurgie.
+
+Traitement
+Une planification préalable a été effectuée, mais le volume 20 de 43 %, le modèle d'emphysème centrolobulillaire bilatéral, ainsi que la perte de volume de l'hémithorax gauche avec une rétraction médiastinale ont découragé l'initiation de la RT. La patiente a commencé une chimiothérapie d'induction avec carboplatine-gemcitabine et a été évaluée après trois cycles en juillet 2009 pour une réponse radiologique partielle dans les poumons et les ganglions lymphatiques. La lésion du lobe supérieur droit a diminué de 88 à 47 mm et l'adénopathie médiastinale droite a diminué de 20 à 14 mm.
+
+Le cas a été examiné par le comité des tumeurs et le traitement chirurgical a été exclu car la scintigraphie de diffusion pulmonaire a montré une distribution hétérogène avec une fonction pulmonaire droite de 41% et une fonction pulmonaire gauche de 59%. La planification préalable a été répétée, avec un V20 de 28 %, et une chimiothérapie hebdomadaire a été décidée avec du carboplatine-paclitaxel en concomitance avec une radiothérapie utilisant cinq champs de photons de 6 Mev formés avec un collimateur à un taux de 2 Gy/jour, 5 jours par semaine jusqu'à 60 Gy sur la lésion pulmonaire et médiastinale. À la fin du traitement, en octobre 2009, il présentait une réponse radiologique partielle, avec une diminution de 47 à 35 mm de la lésion dans le lobe pulmonaire droit et de 14 à 9 mm de l'adénopathie médiastinale droite.
+
+Évolution
+Après un intervalle sans progression de 30 mois, un nodule pulmonaire de 11 mm dans le LSD a été observé dans le scanner de contrôle d'avril 2012. Le cas a été rediscuté au sein du comité multidisciplinaire et il a été considéré qu'il pouvait être traité par thermoablation pulmonaire par radiofréquence à l'aide d'une électrode de Le Veen avec une ouverture maximale de 25 mm.
+
+Après un deuxième intervalle sans progression de 8 mois, en décembre 2012, il y avait des preuves de progression dans la paroi antérieure du nodule précédemment traité par radiofréquence, avec un diamètre maximum de 16 mm. Le cas a été présenté au comité des tumeurs et une seconde thermoablation du nodule a été proposée dans le LSD sur la zone de cavitation avec une électrode de Le Veen d'une ouverture maximale de 30 mm de diamètre en deux séances par retrait progressif de l'électrode, produisant un pneumothorax qui a été drainé. En mars 2014, un an et trois mois après l'intervention, un contrôle radiologique a été effectué par tomodensitométrie thoracique avec contraste, qui n'a montré aucun signe de progression. Le diagnostic de leucémie aiguë myéloblastique associée à une pneumonie bilatérale à Candida krusei et à une insuffisance respiratoire globale a été posé et la patiente est décédée le 2/4/2015.

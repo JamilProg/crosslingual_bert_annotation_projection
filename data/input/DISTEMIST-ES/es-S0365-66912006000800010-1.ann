@@ -1,0 +1,8 @@
+T1	pathologie 71 77	lesión
+T2	pathologie 114 131	granuloma piógeno
+T3	pathologie 537 543	lesión
+T4	pathologie 583 596	pilomatricoma
+#1	SNOMED T4	274901004
+#2	SNOMED T2	200722003
+#3	SNOMED T1	417163006
+#4	SNOMED T3	417163006

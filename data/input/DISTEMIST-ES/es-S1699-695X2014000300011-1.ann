@@ -1,0 +1,20 @@
+T1	pathologie 107 135	lesión en la mejilla derecha
+T2	pathologie 469 482	adenomegalias
+T3	pathologie 514 557	queratosis pilar en la piel de las mejillas
+T4	pathologie 588 592	GAFI
+T5	pathologie 1128 1142	lesión nodular
+T6	pathologie 1162 1188	telangiectasias residuales
+T7	pathologie 1465 1479	rosácea ocular
+T8	pathologie 1515 1525	blefaritis
+T9	pathologie 1527 1536	chalazion
+T10	pathologie 1549 1574	pérdida de agudeza visual
+#1	SNOMED T4	61137005
+#2	SNOMED T2	30746006
+#3	SNOMED T3	5132005
+#4	SNOMED T5	27925004
+#5	SNOMED T6	247479008
+#6	SNOMED T7	200933006
+#7	SNOMED T8	41446000
+#8	SNOMED T9	1482004
+#9	SNOMED T1	282757006
+#10	SNOMED T10	170728008

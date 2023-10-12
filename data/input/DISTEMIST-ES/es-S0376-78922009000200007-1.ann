@@ -1,0 +1,10 @@
+T1	pathologie 70 117	defecto complejo postraumático en pie y tobillo
+T2	pathologie 183 252	exposición de maleolo tibial, astrágalo y articulación subastragalina
+T3	pathologie 254 323	sección de tendón tibial posterior y tendón flexor largo de los dedos
+T4	pathologie 326 384	avulsión de nervio tibial y de la arteria tibial posterior
+T5	pathologie 598 609	traumatismo
+#1	SNOMED T3	262983003+118937003+439052006
+#2	SNOMED T4	284554003+399233006+234013003
+#3	SNOMED T1	125604000+125603006
+#4	SNOMED T5	417746004
+#5	SNOMED T2	125662003

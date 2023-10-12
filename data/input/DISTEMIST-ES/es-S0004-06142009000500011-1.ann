@@ -1,0 +1,24 @@
+T1	pathologie 67 88	hipertensión arterial
+T2	pathologie 91 110	hipercolesterolemia
+T3	pathologie 122 158	insuficiencia renal crónica terminal
+T4	pathologie 188 206	anemia nefrogénica
+T5	pathologie 263 293	hiperparatiroidismo secundario
+T6	pathologie 672 689	diabetes mellitus
+T7	pathologie 731 764	toxicidad por anticalcineurínicos
+T8	pathologie 1410 1432	colección peri-injerto
+T9	pathologie 1880 1889	linfocele
+T10	pathologie 1964 1973	infección
+T11	pathologie 1996 2005	linfocele
+T12	pathologie 2225 2234	linfocele
+#1	SNOMED T12	234109007
+#2	SNOMED T1	38341003
+#3	SNOMED T2	13644009
+#4	SNOMED T11	234109007
+#5	SNOMED T3	723190009
+#6	SNOMED T6	73211009
+#7	SNOMED T4	234348004
+#8	SNOMED T7	702702004
+#9	SNOMED T9	234109007
+#10	SNOMED T5	91478007
+#11	SNOMED T10	40733004
+#12	SNOMED T8	128071005

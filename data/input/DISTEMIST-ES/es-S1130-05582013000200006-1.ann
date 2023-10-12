@@ -1,0 +1,36 @@
+T1	pathologie 80 105	alérgico a claritromicina
+T2	pathologie 115 132	esófago de Barret
+T3	pathologie 134 150	temblor esencial
+T4	pathologie 156 182	anemia ferropénica crónica
+T5	pathologie 210 225	carcinoma renal
+T6	pathologie 254 269	carcinoma renal
+T7	pathologie 280 282	M1
+T8	pathologie 326 362	metástasis suprarrenales bilaterales
+T9	pathologie 364 399	lesión metastásica a nivel pulmonar
+T10	pathologie 581 602	lesiones metastásicas
+T11	pathologie 747 776	metástasis de carcinoma renal
+T12	pathologie 1153 1193	lesión hipermetabólica a nivel parotídeo
+T13	pathologie 1217 1236	proceso metastásico
+T14	pathologie 1285 1292	tumores
+T15	pathologie 1390 1428	afectación de ambos lóbulos parotídeos
+T16	pathologie 1528 1577	metástasis de carcinoma de células claras renales
+T17	pathologie 1911 1949	seroma a nivel de la herida quirúrgica
+T18	pathologie 2077 2084	heridas
+#1	SNOMED T6	254915003
+#2	SNOMED T17	429494008
+#3	SNOMED T12	300257000
+#4	SNOMED T1	294471003
+#5	SNOMED T16	702392008
+#6	SNOMED T8	94161006
+#7	SNOMED T2	302914006
+#8	SNOMED T3	609558009
+#9	SNOMED T13	128462008
+#10	SNOMED T11	702392008
+#11	SNOMED T4	87522002
+#12	SNOMED T5	254915003
+#13	SNOMED T10	128462008
+#14	SNOMED T18	416462003
+#15	SNOMED T9	94391008
+#16	SNOMED T14	189542002
+#17	SNOMED T7	14799000
+#18	SNOMED T15	94474008

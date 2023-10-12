@@ -1,0 +1,26 @@
+T1	pathologie 78 95	diabetes mellitus
+T2	pathologie 97 118	cardiopatía isquémica
+T3	pathologie 120 136	hábito tabáquico
+T4	pathologie 153 186	alergias conocidas a medicamentos
+T5	pathologie 397 423	Adenocarcinoma de Próstata
+T6	pathologie 1234 1250	masa adenopática
+T7	pathologie 1257 1276	neoplasia primitiva
+T8	pathologie 1401 1413	hipernefroma
+T9	pathologie 1456 1485	adenopatías retroperitoneales
+T10	pathologie 1760 1775	lesión torácica
+T11	pathologie 1877 1904	carcinoma de células claras
+T12	pathologie 1921 1950	metástasis de Carcinoma Renal
+T13	pathologie 2080 2108	carcinoma de células renales
+T14	pathologie 2127 2159	invade tejido adiposo perirrenal
+T15	pathologie 2223 2246	metástasis mediastínica
+T16	pathologie 2381 2409	infiltra región mediastínica
+T17	pathologie 2718 2810	tumor mediastínico de 5 cm que invade parénquima pulmonar y cara superior del cayado aórtico
+T18	pathologie 2826 2852	placa de arterioesclerosis
+T19	pathologie 3032 3051	lesión mediastínica
+T20	pathologie 3881 3902	metástasis pulmonares
+T21	pathologie 4020 4050	infiltración del músculo psoas
+T22	pathologie 4214 4224	metástasis
+T23	pathologie 4302 4326	tromboembolismo pulmonar
+T24	pathologie 4644 4664	adenopatías axilares
+T25	pathologie 4721 4729	lesiones
+T26	pathologie 4901 4917	tumor prostático

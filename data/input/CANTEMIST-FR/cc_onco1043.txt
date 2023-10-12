@@ -1,0 +1,44 @@
+Anamnèse
+Mariée, 2 enfants, toujours accompagnée de son mari, enseignante de profession. Elle mène une vie saine, n'a jamais fumé, n'a jamais bu ni consommé de drogues ou de stupéfiants.
+Ses antécédents médicaux personnels comprennent uniquement un asthme bronchique qui apparaît au printemps et pour lequel elle prend des inhalateurs bêta-adrénergiques à longue durée d'action et des glucocorticoïdes. Il lui arrive de prendre du lorazépam 1 mg le soir en cas d'insomnie. Elle n'a jamais subi d'intervention chirurgicale.
+Le mari dit que depuis 2 jours il sent sa femme "bizarre", plus fatiguée, constatant une perte progressive de force, surtout dans les membres inférieurs car elle est tombée à 2 reprises, une sensation constante de vertige à la marche et une difficulté à prononcer les mots correctement.
+Elle n'a ni fièvre, ni toux, ni douleurs abdominales, ni symptômes urinaires.
+
+Examen physique
+Calme dans le service, au lit, pas de détresse respiratoire, bien hydraté, pleinement conscient et bien orienté. Tension artérielle 120/80 mm Hg. Saturation en oxygène à 99 %. 80 bpm. 36,7º.
+Sur le plan neurologique, les pupilles sont normales et réactives à la lumière, il n'y a pas de céphalées ni de raideur de la nuque, ni de signes méningés. La paralysie du troisième nerf crânien droit et le ptosis droit sont particulièrement remarquables. Il y a également une dysarthrie modérée et il n'est pas possible de prononcer les mots correctement.
+L'examen des autres nerfs crâniens est normal.
+Lors de la tentative de transfert au fauteuil, on constate une ataxie nette avec une mauvaise coordination des mouvements, surtout des membres inférieurs, mais aussi des membres supérieurs, et une instabilité de la marche. L'examen cardio-respiratoire et abdominal est sans particularité.
+
+Examens complémentaires
+EXAMENS COMPLÉMENTAIRES AU SERVICE DES URGENCES
+"Examens de laboratoire : anémie microcytaire légère (Hb 11,3 g/dl ; MCV 76 fl). Le reste est sans particularité.
+"Tomodensitométrie crânienne : pas de signes hémorragiques ou ischémiques. Le reste n'est pas pathologique.
+Devant le tableau clinique d'un probable syndrome cérébelleux (ataxie, paralysie incomplète du troisième nerf crânien droit et dysarthrie), il a été admis pour étude complémentaire.
+EXAMENS COMPLÉMENTAIRES DANS LE SERVICE
+ Analyse du liquide céphalo-rachidien (LCR) après ponction lombaire : 3 cellules mononucléées, glucose 70 mEq, le tout compatible avec un LCR non pathologique.
+ Imagerie par résonance magnétique (IRM) du cerveau : pas de lésions ischémiques ou hémorragiques, ni de lésions occupant l'espace. Cervelet sans altération notable, à l'exception de quelques foyers inflammatoires non spécifiques dans la substance blanche.
+ Électroencéphalogramme : des ondes de morphologie, d'amplitude et de fréquence différentes et de caractéristiques normales ont été observées.
+ Numération sanguine complète : hémogramme avec anémie microcytaire légère déjà connue lors de l'analyse d'urgence, biochimie avec ferritine 30 ng/ml. Hormones thyroïdiennes, acide folique et vitamine B 12, protéine C-réactive (CRP), vitesse de sédimentation glomérulaire (ESR) normale. Anticorps antineuronaux : anti-YO positif. Le reste est normal.
+ Sérologie : syphilis, toxoplasme, cytomégalovirus, herpès virus et virus d'Epstein Barr exclus.
+ Hémocultures : négatives.
+ LCR : sérologie normale, culture négative, anticorps antineuronaux anti-YO positifs.
+Au vu de ces nouveaux résultats analytiques (anti-YO positif) et en excluant d'autres causes, un diagnostic de syndrome neurologique paranéoplasique de type dégénérescence cérébelleuse a été posé. La patiente poursuit l'étude dans le but de trouver la tumeur à l'origine de ce syndrome :
+ Tomodensitométrie du thorax, de l'abdomen et du bassin : seule une lésion nodulaire d'environ 30 mm de diamètre est identifiée dans le sein gauche. Dans le lobe inférieur droit, une lésion sous-pleurale de 8 mm de diamètre a été observée, qui donne l'impression d'être résiduelle. Le reste du sein ne présente pas d'autres signes.
+ Tomographie par émission de positons (PET-CT) : la lésion située dans le sein gauche, mesurant environ 30 mm de diamètre, présente une captation (SUVmax de 14). Il n'y a pas d'autres lésions ou d'autres absorptions pathologiques.
+ Mammographie du sein gauche : au niveau du quadrant inférieur externe (CIE), un nodule spiculé d'environ 25 mm de plus grand diamètre est identifié, suspect de malignité (catégorie BiRADS 5).
+ Échographie du sein gauche : nodule solide hypoéchogène dans le CIE avec des marges angulaires, prise de couleur, environ 24 x 8 x 11,2 mm, qui a fait l'objet d'une biopsie.
+ Échographie de l'aisselle gauche : nodule suspect de 11 mm avec épaississement cortical excentrique, qui a été biopsié.
+ Examen gynécologique : l'utérus et les ovaires ne présentent pas de signes pathologiques.
+
+Diagnostic
+"Syndrome neurologique paranéoplasique de type dégénérescence cérébelleuse.
+"Carcinome canalaire infiltrant localement avancé du sein gauche avec atteinte axillaire confirmée (T2N1M0, stade IIB). Récepteurs d'œstrogènes 90%, 3+ ; récepteurs de progestérone 80%, 3+. Luminal B (Ki 67 30%, HER-2 négatif). Peu de différenciation neuroendocrine.
+
+Traitement
+Une fois le diagnostic de syndrome posé, la patiente commence un traitement avec de fortes doses d'immunoglobulines intraveineuses et de méthylprednisolone pendant 5 jours. Devant l'absence de bénéfice, elle est mise quelques jours plus tard sous plasmaphérèse avec une légère amélioration clinique, notamment au niveau de l'ataxie.
+Deux semaines après la fin de la plasmaphérèse et après avoir présenté le cas au comité multidisciplinaire du cancer du sein, il a été décidé de commencer une chimiothérapie (QT) avec épirubicine 90 mg/m2 I.V. + cyclophosphamide 600 mg/m2 I.V. tous les 15 jours pendant 4 cycles suivis de paclitaxel 80 mg/m2 hebdomadaire pendant 12 cycles. Après la fin de la QT, il a été décidé de procéder à une chirurgie par tumorectomie + ablation des ganglions lymphatiques axillaires.
+
+Évolution
+Dès le premier mois du début du QT, une légère amélioration de l'ataxie a été observée et a continué à s'améliorer très lentement jusqu'à ce que 5 mois se soient écoulés. En mai 2016, lorsque la patiente a subi une tumorectomie du sein gauche et une lymphadénectomie axillaire gauche, une bonne réponse tumorale à la chimiothérapie a été observée avec pT1pN1a (tumeur Miller Payne G4 et ganglion lymphatique C) (RCB1).
+La récupération post-chirurgicale a été rapide et très favorable, et deux mois plus tard, la patiente allait mieux sur le plan clinique, marchant de manière autonome à l'aide de béquilles, avec une dysarthrie modérée et des vertiges occasionnels persistant, bien que moins fréquents. Malgré cela, elle a noté qu'il y avait encore une marge d'amélioration. Après le traitement par radiothérapie, la patiente poursuit son traitement hormonal et est désormais stable sur le plan neurologique.

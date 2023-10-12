@@ -1,0 +1,40 @@
+Anamnèse
+Homme de 66 ans avec les antécédents personnels suivants :
+- Aucune réaction allergique connue aux médicaments.
+- Fumeur de 5 cigarettes/jour depuis l'adolescence.
+- Antécédents médicaux : diabète de type II avec bon contrôle de la glycémie. Cardiopathie ischémique avec revascularisation percutanée en mars 2012 par mise en place d'un stent à élution médicamenteuse dans l'artère coronaire descendante antérieure et l'artère coronaire droite.
+- Pas d'antécédents chirurgicaux.
+- Traitement habituel : Atorvastatine 80 mg/24h ; Acide acétylsalicylique 100 mg/24h ; Candésartan 8 mg/24h ; Carvédilol 6,25 mg/24h ; Ranitidine 300 mg/24h ; Metformine1g/Sitagliptine 50 mg /24h ; Prasugrel 10 mg/24h.
+- Antécédents oncologiques : en août 2012, elle a remarqué une lésion hyperpigmentée dans la région deltoïde droite et a donc consulté son médecin traitant. Elle a consulté un dermatologue et une biopsie excisionnelle a été réalisée en février 2015, avec des résultats histopathologiques de mélanome épithélioïde et à cellules fusiformes, pigmenté, ulcéré et avec une croissance pagétoïde radiale (2,75 mm d'épaisseur, activité mitotique élevée). Une étude d'extension a été réalisée et a montré une atteinte axillaire. Il a donc subi un élargissement de la marge et une lymphadénectomie axillaire droite, avec des métastases dans 4 des 23 ganglions lymphatiques sans extension extracapsulaire. La tomodensitométrie et l'IRM n'ont montré aucun signe de maladie métastatique, de sorte qu'il a commencé un traitement adjuvant basé sur un essai clinique avec IPILIMUMAB 10 mg/kg le 18/6/2015.
+En juillet 2015, elle s'est présentée à une consultation d'oncologie médicale avec un syndrome diarrhéique allant jusqu'à 15 épisodes par jour pendant trois jours, sans produits pathologiques. Afébrile, pas de réponse au Lopéramide ou aux corticostéroïdes oraux. Pas d'autres symptômes associés.
+
+Examen physique
+Bon état général, conscient, orienté, coopératif. Eupnéique au repos. Température 36ºC ; tension artérielle 140/85 mmHg ; fréquence cardiaque 85lpm. Bonne hydratation de la peau et des muqueuses.
+ECHO 2
+Oropharynx normal, pas de ganglions cervicaux, axillaires ou sus-claviculaires palpables. Auscultation cardio-respiratoire : coeur rythmé à 85lpm sans souffle audible ; bon murmure vésiculaire bilatéral sans bruit additionnel. Abdomen : souple et dépressible, non douloureux à la palpation, pas de masses ou de mégalithes palpables, bruits hydro-aériques conservés. Membres inférieurs sans œdème ni signe de thrombose.
+
+Examens complémentaires
+-Hémogramme : hémoglobine 12,5 mg/dl, leucocytose 16.000/mm3 avec 85% de neutrophilie, plaquettes 185.000/mm3.
+- Biochimie : glycémie 195 mg/dl, urée 45 mg/dl, créatinine 1,05 mg/dl, sodium 131 mEq/dl, potassium 3,45 mEq/dl, calcium 9,16 mEq/dl, CRP 49 mg/dl.
+- Coloscopie : muqueuse avec exsudats abondants et œdème, ce qui a fait renoncer à l'exploration compte tenu du risque de complications et de l'existence d'une mauvaise tolérance. Des biopsies ont été réalisées pour étude anatomopathologique et cytomégalovirus.
+- Test intradermique de Mantoux : négatif.
+- Tomodensitométrie abdominale : colite non spécifique et contenu fécal abondant dans le côlon droit, sans autre observation.
+- Biopsie : colite de grade 2
+
+Diagnostic
+- Mélanome malin avec atteinte des ganglions lymphatiques (4/24) pT4N3M0 stade IIIC.
+- Syndrome diarrhéique de grade II secondaire à l'immunothérapie.
+- Colite de grade II.
+
+Traitement
+- Régime absolu, nutrition parentérale totale jusqu'à amélioration. Progression ultérieure vers un régime diabétique.
+- Dexaméthasone 8 mg toutes les 8 heures par voie intraveineuse. Par la suite, corticothérapie avec de la prednisone par voie orale selon un schéma décroissant pendant un mois.
+- Infliximab 5 mg/kg en dose unique, puis toutes les 2 semaines pour un total de trois doses.
+- Lavement quotidien à la mésalazine jusqu'à la sortie de l'hôpital.
+
+Évolution
+Au cours des premiers jours d'hospitalisation, le patient a présenté d'importants épisodes de diarrhée, allant jusqu'à 20 selles par jour, associés à des douleurs intenses de type colique, qui n'ont pas disparu avec l'administration de fortes doses de corticostéroïdes par voie intraveineuse. En outre, ces douleurs étaient associées à des nausées et à une hyporexie.
+Le patient a développé un état dépressif, refusant même les manœuvres thérapeutiques proposées par le personnel médical, car il ne constatait pas de nette amélioration.
+Pour cette raison, il a été décidé de commencer le traitement avec une dose unique d'INFLIXIMAB 5mg/kg à administrer en deux heures le 31/7/2015 après un test de Mantoux négatif. De cette manière, il a été possible de réduire la fréquence des selles, le patient a commencé à beaucoup mieux tolérer les repas et son humeur s'est également améliorée progressivement.
+Une semaine plus tard, le patient est sorti de l'hôpital avec un apport oral normal et une rémission complète de la diarrhée. Par la suite, le patient a reçu deux autres doses d'infliximab à deux semaines d'intervalle.
+Finalement, étant donné que le patient était indemne de la maladie et avait présenté la toxicité décrite, il a été décidé d'arrêter le traitement adjuvant et il est actuellement suivi sans aucun signe de rechute de la maladie.

@@ -1,0 +1,18 @@
+T1	pathologie 48 69	hipertensión arterial
+T2	pathologie 71 110	enfermedad pulmonar obstructiva crónica
+T3	pathologie 112 121	exfumador
+T4	pathologie 141 178	carcinoma papilar urotelial de vejiga
+T5	pathologie 225 230	tumor
+T6	pathologie 1091 1123	adenopatías gruesas calcificadas
+T7	pathologie 1141 1151	TBC miliar
+T8	pathologie 1210 1273	adenopatías groseras calcificadas en hilio y ligamento pulmonar
+T9	pathologie 1887 1898	adenopatías
+#1	SNOMED T1	38341003
+#2	SNOMED T2	13645005
+#3	SNOMED T4	255109008
+#4	SNOMED T7	47604008
+#5	SNOMED T8	127101005
+#6	SNOMED T3	8517006
+#7	SNOMED T6	191394000
+#8	SNOMED T9	30746006
+#9	SNOMED T5	55342001

@@ -1,0 +1,29 @@
+Anamnèse
+Homme de 45 ans. Sous traitement à la carbamazépine depuis 2007, suite à une intervention chirurgicale pour l'exérèse d'un cavernome cérébral, sans autres antécédents intéressants. Lors d'une analyse de routine, des transaminases élevées ont été détectées et il a été adressé au service de l'appareil digestif pour un examen plus approfondi. Asymptomatique.
+
+Examen physique
+Aucun résultat.
+
+Examens complémentaires
+- Examens de laboratoire : simples, rénaux, lipides, hémogramme, étude de la coagulation, protéinogramme, ESR, hormones thyroïdiennes et marqueurs tumoraux dans les limites de la normale. Profil hépatique avec GGT 232 UI/l, le reste étant normal.
+- Échographie abdominale : masse hypoéchogène de 4,5 cm dans le corps du pancréas avec des calcifications à l'intérieur, d'apparence néoplasique.
+- Tomodensitométrie thoraco-abdominale : thorax sans signes pathologiques. Néoplasie du corps pancréatique évoquant un cystadénocarcinome. Adénopathies péripancréatiques d'aspect réactif. Image hypodense de 1 cm dans le segment VIII hépatique évoquant une métastase.
+- IRM de l'abdomen : petite lésion hépatique droite compatible avec un hémangiome. Masse pancréatique solide compatible avec un adénocarcinome, n'affectant pas les structures voisines.
+
+Diagnostic
+Néoplasie pancréatique localisée évoquant un adénocarcinome.
+
+Traitement
+Splénopancréatectomie corporo-caudale + lymphadénectomie de l'artère hépatique, rétroportale, rétropéritonéale, du tronc cœliaque et de l'artère mésentérique supérieure. L'intervention a permis de visualiser une tumeur du col du pancréas respectant l'axe mésentérico-portal, identifiant une LOE hépatique dans le segment VIII, compressible et non évocatrice de métastases.
+L'anatomie pathologique confirme un carcinome à cellules acineuses de 5,5 cm de forme solide, s'étendant aux tissus mous péripancréatiques sans affecter le plan de résection. Les ganglions lymphatiques ne présentent aucun signe de néoplasie (0/16).
+Stade IIA (pT3 N0 M0).
+Le patient a été adressé au service d'oncologie médicale. Après une étude post-chirurgicale négative, il a subi une chimiothérapie adjuvante à base de gemcitabine x 6 cycles, qui s'est terminée en juin 2012 et il a commencé le suivi.
+
+Évolution
+Après un intervalle de 12 mois sans maladie, le patient s'est présenté à un scanner de contrôle avec un nodule pulmonaire de 8 mm dans le LSD et des adénopathies médiastinales, dont la plus grande mesurait 2 cm en sous-carcéral. Un PET-CT a alors été réalisé, qui a montré une captation métabolique positive dans les ganglions lymphatiques sus-claviculaires et hiliomédiastinaux, le poumon gauche et le corps vertébral C7, sans pouvoir préciser l'origine inflammatoire ou néoplasique. Le nodule pulmonaire droit visible au scanner présentait un faible taux de prolifération cellulaire.
+Sur le plan clinique, le patient présentait des douleurs cervicales irradiant vers les deux scapulae, sans altération neurologique ni autre symptôme supplémentaire. Une étude scintigraphique a également été réalisée, qui a révélé une augmentation très intense de l'activité ostéoblastique dans le corps vertébral C7, avec une image de destruction, et une origine métastatique n'a pas pu être exclue.
+Il a été décidé d'hospitaliser le patient dans le service d'oncologie pour une étude exhaustive du cas, étant donné la complexité du diagnostic différentiel : progression de la tumeur pancréatique avec atteinte systémique atypique, second néoplasme d'origine pulmonaire probable, ou étiologie non tumorale avec possible origine inflammatoire/infectieuse.
+Le suivi du patient a été assuré conjointement par l'oncologie médicale, la neurochirurgie et les maladies infectieuses.
+L'équipe des maladies infectieuses a procédé à une analyse bactérienne et virale complète et à une sérologie, à des examens d'imagerie et à une biopsie vertébrale cervicale avec étude anatomopathologique et microbiologique.
+Finalement, après les tests effectués, le patient a été diagnostiqué avec une tuberculose disséminée : spondylodiscite cervicale C6-C7 (anatomie pathologique compatible, PCR positive et culture de biopsie osseuse avec isolement de Mycobacterium tuberculosis sensible à tous les principaux tuberculostatiques) ; et probablement ganglionnaire (adénopathies médiastinales, cervicales profondes et intra-abdominales) ; pulmonaire (nodule de 8 mm dans le segment antérieur du LSD) et hépatique (deux lésions hypodenses avec rehaussement pathologique dans le segment VIII ; cholostase dissociée au cours des mois précédents).
+Il a ensuite commencé un traitement à base de rifampicine, d'isoniazide et d'éthambutol, qu'il suit actuellement. Incidemment, il a développé une toxicité hépatique due à l'isoniazide, ce qui a nécessité un changement de traitement en faveur de la moxifloxacine. Actuellement, il continue d'être suivi sans aucun signe de maladie néoplasique.

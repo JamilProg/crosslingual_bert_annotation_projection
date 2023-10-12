@@ -1,0 +1,34 @@
+Anamnèse
+Femme de 56 ans avec une allergie à l'acide acétylsalicylique et au produit de contraste à base d'iode, ex-fumeuse depuis 30 ans, avec une consommation cumulée de 2 ans/paquet. Pas d'autres antécédents médicaux intéressants.
+Asymptomatique. Suite à un dosage de l'antigène carcinoembryonnaire (ACE) de 7ng/ml (N : 0-4,7 ng/ml) en janvier 2013, qui a progressivement augmenté jusqu'en février 2014 (23ng/ml), elle a subi une gastro et une coloscopie, qui se sont révélées normales. TEP/TDM : nodule pulmonaire dans le lobe supérieur droit (LSD) mesurant 2,7x2,5x2,9 cm. L'étude a été complétée par un scanner thoraco-abdominal, une fibrobronchoscopie avec biopsie (carcinome à grandes cellules peu différencié). Le patient a été orienté vers un traitement chirurgical par VATS (chirurgie thoracique vidéo-assistée) avec la découverte d'une atteinte pleurale qui a été analysée en peropératoire avec le résultat d'un carcinome pulmonaire non à petites cellules (NSCLC) étendu de façon diffuse à la plèvre. La résection pulmonaire a été rejetée et une pleurodèse chimique a été réalisée en juin 2014. Sur la base de ce qui précède, un diagnostic de carcinome à grandes cellules LSD pulmonaire G3 cT1bN1M1a(PLEU) avec un phénotype moléculaire détectant une mutation du gène EGFR dans l'exon 21 (type L858R) a été posé.
+En juillet 2014, le patient s'est présenté avec un ECOG 0 et a débuté un traitement par Erlotinib 150mg/jour. Après 11 mois de suivi, le patient reste avec des critères cliniques/radiologiques de maladie stable.
+Les toxicités incluaient une dermatite g1, sans nécessité de réduction de dose.
+Le PET/CT réalisé en juin 2015 a montré une stabilité du nodule en LSD et l'apparition d'un nodule hypermétabolique sous-pleural de 1,4 mm dans la base pulmonaire droite. Lors de la consultation, la patiente présentait une discrète ptose de la paupière droite et une légère limitation du lever de l'œil droit, entraînant une diplopie binoculaire lors de ce mouvement. Suspectant une atteinte probable du nerf oculomoteur (3e nerf crânien), une IRM cérébrale a été demandée pour exclure une atteinte du système nerveux central (SNC), mais aucune lésion évocatrice de métastases n'a été trouvée. Une ponction lombaire a été effectuée, montrant une dissémination cellulaire compatible avec une carcinomatose leptoméningée.
+Compte tenu des critères de progression pulmonaire (basale droite) et méningée, au moyen d'une cytologie du liquide céphalorachidien, elle a débuté un traitement par Afatinib 50 mg/jour en juillet 2015.
+Elle a rapidement montré une amélioration clinique, restant paucisymptomatique, ECOG 1, avec une discrète parésie du troisième nerf crânien et aucun autre symptôme d'accompagnement. Trois mois plus tard, une TEP/TDM a été réalisée, montrant une maladie pulmonaire stable, et une IRM cérébrale avec apparition de rehaussements pathologiques, suggérant une atteinte métastatique leptoméningée, à la fois au niveau du troisième nerf crânien droit et des sillons cérébraux.
+Compte tenu de la progression méningée, la possibilité d'une inclusion dans un essai clinique avec un inhibiteur de tyrosine kinase (ITK) de troisième génération, actif contre la mutation de résistance T790M, a été envisagée.
+Nous avons rebiopsié le nodule de LSD en décembre 2015 et le patient n'est pas porteur de cette mutation, et la biopsie a été rapportée comme un adénocarcinome acineux G2. ALK négatif.mutation EGFR:Exon 19 (delec) : négatif ; Exon 21 (mut L858R) : positif ; Exon 20 (mut T790M) : négatif ; Insertions:Exon 18 (G719X) : négatif ; Exon 18 (S768i) : négatif ; Exon 21 (L861Q) : négatif.
+En janvier 2016, le patient a été admis dans le service hospitalier pour une histoire de deux semaines de vomissements matinaux, de somnolence et de maux de tête qui, au cours des dernières 48 heures, ont entraîné une détérioration rapide de l'état général avec des vomissements, à la fois spontanés et avec un mouvement minimal, et une prostration.
+
+Examen physique
+A l'admission :
+PS ECOG 2, conscient et orienté. Couleur normale et hydratation normale. Eupnéique
+Pas de rigidité nucale. Discrète ptose palpébrale droite avec parésie de la troisième paire droite avec diplopie binoculaire.
+Pas d'adénopathies périphériques.
+Auscultation cardio-pulmonaire : tonalités rythmiques sans souffle. Murmure vésiculaire conservateur.
+Abdomen : souple, dépressible, non douloureux à la palpation. Pas de masses ni de mégalithes. Péristaltisme conservé.
+Membres inférieurs sans œdème ni signes de thrombose.
+
+Examens complémentaires
+Analyse de sang du 24.01.16 : Hémoglobine 13,5g/mL, Leucocytes 8600 (77% Neutrophiles), Plaquettes 304000/mm3. IQuick 81%. Glucose 122mg/dL, Créatinine 1.01mg/dL, Sodium 140meq/L, potassium 3.7meq/L, calcium 8.1mg/dL, albumine 3.1g/dL. CRP 0,05mg/L. Gaz du sang veineux 24.01.16 : pH 7,46, pCO2 41,7mmHg, HCO3 29 meq/L.
+CT scan crânien 26.01.2016 : L'étude a été réalisée sans contraste intraveineux, en raison de l'allergie de la patiente à ce produit, ce qui n'a pas permis une évaluation adéquate de l'atteinte métastatique leptoméningée connue. Une comparaison a été faite avec un précédent examen du 18.01.2016, réalisé dans un autre centre, montrant une augmentation de la taille des ventricules aux dépens des astes frontaux et latéraux des ventricules latéraux, ainsi que du troisième ventricule. Aucune augmentation de la taille ventriculaire n'a été observée au niveau des cornes occipitales ou temporales des ventricules latéraux, ni au niveau du quatrième ventricule. Pas de lésions intraventriculaires. Augmentation du transsudat sous-épendymaire à proximité de la corne occipitale et temporale. Stabilité de l'atteinte leptoméningée. Repos stable.
+
+Diagnostic
+Adénocarcinome pulmonaire LSD de stade IV avec atteinte méningée, EGFR muté (L858R) ALK négatif, en progression clinique avec hydrocéphalie symptomatique.
+
+Traitement
+Le traitement par des mesures anti-oedémateuses n'ayant pas abouti, il a été décidé de procéder à une dérivation ventriculo-péritonéale et à une radiothérapie externe sur le neuroaxe.
+
+Évolution
+Après la réalisation d'une dérivation ventriculo-péritonéale, les symptômes cliniques de l'hypertension intracrânienne ont disparu, laissant le patient paucisymptomatique avec un ECOG 1. Quelques jours avant l'admission, un scanner thoraco-abdominal a été réalisé, montrant la persistance d'une maladie pulmonaire stable. La patiente a reçu une radiothérapie externe sur l'axe neurologique et a commencé un traitement par Nivolumab à la dose de 3mg/kg toutes les 2 semaines.
+Elle suit actuellement un traitement par Nivolumab, avec une très bonne tolérance et des critères de maladie stable.

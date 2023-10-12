@@ -1,0 +1,10 @@
+T1	pathologie 338 375	neuropatía del nervio ciático derecho
+T2	pathologie 634 663	neuropatía del nervio ciático
+T3	pathologie 1347 1353	lipoma
+T4	pathologie 1401 1426	liposarcoma de bajo grado
+T5	pathologie 1470 1534	compresión del nervio ciático a nivel de tercio distal del muslo
+#1	SNOMED T5	230638003
+#2	SNOMED T2	52585001
+#3	SNOMED T1	291931000119102
+#4	SNOMED T3	93163002
+#5	SNOMED T4	254828009

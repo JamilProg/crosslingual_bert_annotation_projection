@@ -1,0 +1,24 @@
+T1	pathologie 197 211	visión borrosa
+T2	pathologie 1048 1077	edema de ambos discos ópticos
+T3	pathologie 1082 1146	desprendimientos serosos de la retina, afectando a ambas máculas
+T4	pathologie 1217 1265	hemorragias en el polo posterior de los dos ojos
+T5	pathologie 1268 1318	estrechamientos focales de las arterias retinianas
+T6	pathologie 2194 2228	desprendimientos serosos maculares
+T7	pathologie 2274 2296	edema del disco óptico
+T8	pathologie 2302 2339	desprendimiento exudativo peripapilar
+T9	pathologie 2347 2393	ojo derecho existía un desprendimiento bulloso
+T10	pathologie 2596 2618	desprendimiento seroso
+T11	pathologie 2936 2958	desprendimiento seroso
+T12	pathologie 3077 3092	edema de papila
+#1	SNOMED T3	42059000
+#2	SNOMED T4	28998008
+#3	SNOMED T5	3506008
+#4	SNOMED T6	420030000
+#5	SNOMED T7	247201009
+#6	SNOMED T8	54767005
+#7	SNOMED T9	42059000
+#8	SNOMED T10	420030000
+#9	SNOMED T11	420030000
+#10	SNOMED T12	423341008
+#11	SNOMED T2	247201009
+#12	SNOMED T1	246636008

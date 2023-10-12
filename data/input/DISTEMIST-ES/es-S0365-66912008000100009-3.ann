@@ -1,0 +1,20 @@
+T1	pathologie 132 138	anemia
+T2	pathologie 140 174	varices en extremidades inferiores
+T3	pathologie 176 188	hipocalcemia
+T4	pathologie 191 215	gonartritis seronegativa
+T5	pathologie 239 295	OI se apreciaba un abceso marginal, epiteliopatía difusa
+T6	pathologie 298 325	queratinización conjuntival
+T7	pathologie 538 551	epiteliopatía
+T8	pathologie 848 875	queratinización conjuntival
+T9	pathologie 881 901	epiteliopatía difusa
+T10	pathologie 1029 1061	hiperqueratinización conjuntival
+#1	SNOMED T5	95679004
+#2	SNOMED T1	271737000
+#3	SNOMED T2	72866009
+#4	SNOMED T3	5291005
+#5	SNOMED T4	128136007
+#6	SNOMED T8	246874003
+#7	SNOMED T9	231929005
+#8	SNOMED T10	246874003
+#9	SNOMED T6	246874003
+#10	SNOMED T7	371405004

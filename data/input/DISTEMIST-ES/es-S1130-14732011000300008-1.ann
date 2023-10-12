@@ -1,0 +1,22 @@
+T1	pathologie 70 143	meningioma transicional (grado I de la OMS) parasagital frontal izquierdo
+T2	pathologie 189 222	infección de la herida quirúrgica
+T3	pathologie 699 727	colección purulenta epidural
+T4	pathologie 1096 1130	crisis tónico-clónica generalizada
+T5	pathologie 1347 1364	herida quirúrgica
+T6	pathologie 1388 1397	infección
+T7	pathologie 1508 1526	colección subdural
+T8	pathologie 1829 1845	empiema subdural
+T9	pathologie 1909 1948	colección subdural de aspecto purulento
+T10	pathologie 2132 2141	infección
+T11	pathologie 2789 2860	recidiva de empiema subdural postquirúrgico por Propionibacterium acnés
+#1	SNOMED T1	302820008
+#2	SNOMED T4	65155005
+#3	SNOMED T8	312682007
+#4	SNOMED T2	58126003
+#5	SNOMED T9	37660004
+#6	SNOMED T6	40733004
+#7	SNOMED T7	15758002
+#8	SNOMED T11	39473003+312682007
+#9	SNOMED T3	61974008
+#10	SNOMED T5	112633009
+#11	SNOMED T10	40733004

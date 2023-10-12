@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 68 ans sans antécédents médicaux ou chirurgicaux intéressants, jamais fumeur, qui a consulté en août 2016 pour une toux et une dyspnée progressives depuis deux mois, avec des efforts minimes dans la semaine précédant son arrivée aux urgences et sans autres symptômes associés.
+
+Examen physique
+ECOG PS 1, pas d'altérations pertinentes à l'examen physique à l'exception d'une tachycardie de 120 bpm et d'une légère tachypnée de 24 rpm.
+
+Examens complémentaires
+À son arrivée au service des urgences, l'hémogramme et la biochimie sont normaux, les gaz du sang artériel révèlent une hypoxémie et la radiographie du thorax montre une masse pulmonaire hilaire gauche associée à un schéma réticulaire nodulaire bilatéral avec atteinte de tous les lobes pulmonaires. Il a été admis en médecine interne.
+Un scanner thoraco-abdominal a été réalisé et a confirmé la présence d'une masse dans le lobe pulmonaire supérieur gauche, qui affilait les artères segmentaires du même lobe et entourait la bronche principale, associée à une atteinte interstitielle étendue évoquant une lymphangite carcinomateuse, des nodules pulmonaires millimétriques avec une distribution aléatoire, un épanchement pleural droit et une atteinte métastatique dans le squelette axial.
+Une bronchoscopie a été demandée, au cours de laquelle un épaississement de la carène et une infiltration de la muqueuse de la bronche principale gauche ont été observés ; des échantillons ont été prélevés pour une étude microbiologique et la masse hilaire gauche a fait l'objet d'une biopsie. Les cultures ont exclu tout processus infectieux, y compris les infections mycobactériennes.
+Cytologie du liquide pleural : adénocarcinome compatible avec une origine pulmonaire (napsine et TTF-1 positifs).
+Biopsie pulmonaire : adénocarcinome pulmonaire avec mutation de l'EGFR (délétion de l'exon 19 et S768I dans l'exon 20).
+Une biopsie liquide du sang et du liquide pleural a confirmé la présence de la mutation dans les deux cas.
+
+Diagnostic
+Adénocarcinome pulmonaire cT4cMxpM1b (stade IVb-TNM 7e éd.), avec mutation de l'EGFR, type délétion de l'exon 19.
+
+Traitement
+La patiente a débuté un traitement de première intention par afatinib 40 mg/jour en septembre 2016.
+
+Évolution
+Deux semaines après le début du traitement par afatinib, les symptômes de base du patient ont complètement disparu, ce qui lui a permis de se passer d'oxygène à domicile, et une radiographie pulmonaire de contrôle a montré une amélioration significative de l'atteinte pulmonaire interstitielle bilatérale et une diminution de la masse hilaire gauche.
+Le patient a présenté une toxicité cutanée de grade 2 (dermatite acnéiforme) et une toxicité intestinale de grade 2 (diarrhée). La dose d'afatinib a donc été réduite à 30 mg/jour et la toxicité a complètement disparu, ce qui a permis de maintenir la réponse clinique et radiologique confirmée par la tomodensitométrie et une diminution des copies circulantes de l'ADN tumoral dans le sang.
+Le suivi avec contrôles cliniques, tomodensitométrie et biopsie liquide dans le sang sans incidence est maintenu jusqu'en avril 2017, lorsqu'une discrète progression radiologique de l'atteinte pulmonaire et osseuse est observée, coïncidant avec la détection dans le sang périphérique de la mutation de résistance T790M dans l'exon 20 avec une fraction de l'allèle muté de 0,4% et, par conséquent, une survie sans progression de 8 mois. Considérant que la progression est minime, l'afatinib est maintenu ; cependant, le patient est admis pour une pneumonie FINE V bilatérale et un épanchement pleural droit accru nécessitant un traitement antibiotique à large spectre, un drainage ultérieur de l'épanchement pleural et une pleurodèse.
+Une étude de biopsie liquide a été réalisée sur le liquide pleural, détectant une augmentation de la fraction T790M dans ce avec l'absence de détection de la mutation S768I, donc après la résolution du processus infectieux, le traitement a été commencé avec osimertinib 80 mg/jour le 10 mai 2017 avec une excellente tolérance, une résolution complète des symptômes et une amélioration radiologique déterminée par tomodensitométrie, avec un temps sans progression d'au moins 2 mois avec osimertinib au moment de la description de ce cas.

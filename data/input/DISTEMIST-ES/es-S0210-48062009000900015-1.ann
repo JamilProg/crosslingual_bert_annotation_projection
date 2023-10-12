@@ -1,0 +1,18 @@
+T1	pathologie 55 82	diabetes mellitus de tipo 2
+T2	pathologie 120 151	hipertensión arterial sistémica
+T3	pathologie 197 219	insuficiencia cardíaca
+T4	pathologie 265 292	insuficiencia renal crónica
+T5	pathologie 433 459	descompensación metabólica
+T6	pathologie 912 955	pene con presencia de necrosis en el glande
+T7	pathologie 958 1003	secreción purulenta a través de meato uretral
+T8	pathologie 1023 1080	necrosis en el primero y el segundo ortejos de ambos pies
+T9	pathologie 1566 1641	necrosis isquémica distal del glande y prepucio asociada con microtrombosis
+#1	SNOMED T9	44902004
+#2	SNOMED T1	44054006
+#3	SNOMED T6	33958003
+#4	SNOMED T5	75934005
+#5	SNOMED T7	4985009
+#6	SNOMED T2	38341003
+#7	SNOMED T8	195302000
+#8	SNOMED T3	84114007
+#9	SNOMED T4	90688005

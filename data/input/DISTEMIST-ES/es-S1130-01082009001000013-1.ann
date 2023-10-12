@@ -1,0 +1,28 @@
+T1	pathologie 61 82	hipertensión arterial
+T2	pathologie 84 96	osteoporosis
+T3	pathologie 120 130	miomatosis
+T4	pathologie 219 248	carcinoma vesical infiltrante
+T5	pathologie 342 354	masa tumoral
+T6	pathologie 521 535	lesión vesical
+T7	pathologie 538 559	metástasis en columna
+T8	pathologie 697 709	rectorragias
+T9	pathologie 884 902	anemización severa
+T10	pathologie 1024 1042	proctitis actínica
+T11	pathologie 1055 1099	lesiones neovasculares friables y sangrantes
+T12	pathologie 1431 1443	rectorragias
+T13	pathologie 2384 2402	progresión tumoral
+T14	pathologie 2521 2533	rectorragias
+#1	SNOMED T13	55342001
+#2	SNOMED T1	38341003
+#3	SNOMED T10	3951002
+#4	SNOMED T2	64859006
+#5	SNOMED T3	1156875002
+#6	SNOMED T14	12063002
+#7	SNOMED T4	425066001
+#8	SNOMED T6	300457003
+#9	SNOMED T7	94602001
+#10	SNOMED T9	271737000
+#11	SNOMED T8	12063002
+#12	SNOMED T12	12063002
+#13	SNOMED T11	402761000
+#14	SNOMED T5	55342001

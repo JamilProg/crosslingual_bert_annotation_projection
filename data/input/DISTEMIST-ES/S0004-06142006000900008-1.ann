@@ -1,0 +1,20 @@
+T1	pathologie 86 121	infecciones urinarias de repetición
+T2	pathologie 157 171	hipotiroidismo
+T3	pathologie 173 194	hipertensión arterial
+T4	pathologie 245 253	fumadora
+T5	pathologie 549 590	vejiga de poca capacidad con neoformación
+T6	pathologie 1046 1093	adenomegalias mesentéricas ni retroperitoneales
+T7	pathologie 1235 1255	neoformación vesical
+T8	pathologie 1488 1509	neoformación vascular
+T9	pathologie 1959 2003	neurofibromatosis difusa de la pared vesical
+T10	pathologie 2130 2147	neurofibromatosis
+#1	SNOMED T1	197927001
+#2	SNOMED T2	40930008
+#3	SNOMED T3	38341003
+#4	SNOMED T4	77176002
+#5	SNOMED T5	126885006
+#6	SNOMED T6	127144009+127154008
+#7	SNOMED T7	126885006
+#8	SNOMED T8	699605009
+#9	SNOMED T9	81669005
+#10	SNOMED T10	19133005

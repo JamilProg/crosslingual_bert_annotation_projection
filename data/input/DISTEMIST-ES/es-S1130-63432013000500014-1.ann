@@ -1,0 +1,14 @@
+T1	pathologie 42 45	LLC
+T2	pathologie 517 539	reacción urticariforme
+T3	pathologie 554 578	eritrodermia descamativa
+T4	pathologie 751 788	reacción alérgica a dicho citostático
+T5	pathologie 1009 1043	reacción cutánea a la bendamustina
+T6	pathologie 1048 1060	toxicodermia
+T7	pathologie 1377 1389	toxicodermia
+#1	SNOMED T1	92814006
+#2	SNOMED T5	292202006
+#3	SNOMED T6	95326004
+#4	SNOMED T7	95326004
+#5	SNOMED T2	64305001
+#6	SNOMED T3	7297005
+#7	SNOMED T4	57302007

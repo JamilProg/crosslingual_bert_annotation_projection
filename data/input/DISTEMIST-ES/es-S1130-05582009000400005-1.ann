@@ -1,0 +1,16 @@
+T1	pathologie 155 192	molar inferior izquierdo semiincluido
+T2	pathologie 382 389	fumador
+T3	pathologie 738 755	lesión del nervio
+T4	pathologie 1515 1530	pericoronaritis
+T5	pathologie 1575 1581	herida
+T6	pathologie 1699 1738	complicación infecciosa de causa pulpar
+T7	pathologie 1944 1959	pericoronaritis
+T8	pathologie 3347 3353	herida
+#1	SNOMED T4	22240003
+#2	SNOMED T7	22240003
+#3	SNOMED T2	77176002
+#4	SNOMED T1	234947003
+#5	SNOMED T6	5494004
+#6	SNOMED T5	416462003
+#7	SNOMED T8	416462003
+#8	SNOMED T3	212349001

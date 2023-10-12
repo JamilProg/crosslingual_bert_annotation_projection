@@ -1,0 +1,27 @@
+Anamnèse
+Un homme de 61 ans sans antécédents familiaux de cancer. Ses antécédents médicaux sont les suivants : ex-fumeur depuis deux ans, hypertension artérielle et hypercholestérolémie, BPCO sans exacerbation, agénésie rénale congénitale droite, hyperthyroïdie subclinique depuis 2016 avec une étude d'auto-immunité négative, goitre multinodulaire et intervention chirurgicale pour des hémorroïdes. Il n'a pas d'allergies médicamenteuses connues.
+
+Examen physique
+L'examen physique du patient a révélé un bon état général avec un ECOG de 0 et un examen physique et neurologique normal.
+
+Tests complémentaires
+L'analyse de sang a révélé une LDH normale.
+
+Diagnostic
+Le patient décrit ci-dessus a été diagnostiqué avec un mélanome avec écoulement purulent en juin 2016 au niveau de la région lombaire gauche. Une excision et une biopsie ont été réalisées le 8/7/2016 avec pour résultat anatomopathologique un mélanome ulcéré mesurant 2,9 cm x 2,2 cm avec des bords libres, niveau IV de Clark, Breslow 4 mm, pT4N0M0, stade IIc. Une étude d'extension a été réalisée avec une tomodensitométrie cérébrale et une tomodensitométrie corporelle, qui s'est révélée négative.
+Le 14 septembre 2016, les marges ont été élargies et une biopsie du ganglion lymphatique sentinelle axillaire a été réalisée, qui s'est révélée négative pour les cellules malignes. Le traitement adjuvant à l'interféron a été rejeté en raison de l'intervalle de temps entre l'intervention chirurgicale et l'orientation vers le service d'oncologie, ainsi que du bénéfice limité dû au stade de la tumeur.
+Un scanner de suivi en octobre 2018 a révélé de multiples nodules pulmonaires bilatéraux et un nodule sous-cutané de 3 mm de diamètre entre l'épiderme et le fascia superficiel, de 7 mm de profondeur et de 7 cm à gauche de la ligne médiane au niveau de l'apophyse épineuse de L4. L'étude a été complétée par un PET-CT scan montrant des métastases pulmonaires, hépatiques et spléniques bilatérales et multiples, des implants mésentériques, des métastases dans la 9ème côte droite et un nodule hypermétabolique dans le grand fessier.
+L'excision de la lésion lombaire sous-cutanée a été réalisée, avec pour résultat anatomopathologique une métastase de mélanome de 5 mm en contact avec le bord chirurgical inférieur, mélan-A, HMB-45, S-100 et BRAF (V600K) positifs. La tomodensitométrie et l'IRM ont permis d'exclure la présence de métastases au niveau du système nerveux central.
+Le diagnostic de mélanome de stade IV ayant été posé, le patient a été adressé au service d'oncologie médicale pour évaluer le traitement.
+
+Traitement
+L'examen physique de la patiente a montré un bon état général avec un ECOG de 0, un examen physique et neurologique normal, avec une LDH normale dans le bilan sanguin.
+Un traitement par double thérapie ciblée par dabrafenib 150 mg/12 h et trametinib 2 mg/24 h a été décidé et débuté le 10 décembre 2018.
+En conséquence, le schéma thérapeutique a été modifié et une immunothérapie par pembrolizumab (200 mg/jour toutes les 3 semaines) a été initiée, débutant le premier cycle le 18/3/2019.
+
+Evolution
+Tomodensitométrie thoraco-abdominopelvienne : diminution de toutes les métastases pulmonaires, disparition des adénopathies médiastinales, absence de métastases hépatiques ou spléniques, absence de récidive de la lésion sous-cutanée lombaire.
+Malgré la réponse objective démontrée au scanner, la bithérapie ciblée a été suspendue en raison d'une intolérance due à une fièvre persistante qui ne répondait pas aux mesures habituelles d'association d'antipyrétiques et de stéroïdes. Cette toxicité a eu un impact négatif sur sa qualité de vie, entraînant des admissions récurrentes.
+Pour cette raison, le schéma thérapeutique a été modifié et elle a commencé une immunothérapie par pembrolizumab (200 mg/jour toutes les 3 semaines), initiant le premier cycle le 18/3/2019.
+Le 27/3/2019, elle s'est présentée au service des urgences avec une perte de force dans le membre inférieur droit et une déviation de la commissure labiale vers la gauche. Un scanner du cerveau a montré de multiples lésions supratentorielles occupant l'espace, dispersées dans les deux hémisphères cérébraux avec une légère prédominance du côté gauche, la plus grande étant située dans le lobe pariétal (15 x 8 x 13). Toutes ces lésions présentaient un œdème périlésionnel. Une forte dose de dexaméthasone a été administrée et la patiente a été adressée au service de radio-oncologie pour une radiothérapie holocrânienne, qui a été retardée en raison de la désorientation, de la nervosité et du malaise général de la patiente, qui a commencé le 10 avril et n'a reçu qu'une seule dose.
+Le patient s'est présenté aux urgences le 14/4/2019 en raison d'une insomnie, d'une désorientation et d'une agitation nocturne d'une durée de deux semaines, avec une aggravation marquée depuis 72 heures, avec exitus le 16 avril.

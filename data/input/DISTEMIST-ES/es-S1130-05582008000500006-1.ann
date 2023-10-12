@@ -1,0 +1,20 @@
+T1	pathologie 241 244	SMR
+T2	pathologie 558 578	QG asociada a un SMR
+T3	pathologie 813 822	epilepsia
+T4	pathologie 839 858	retraso mental leve
+T5	pathologie 860 874	hipotiroidismo
+T6	pathologie 876 901	resistencia a la insulina
+T7	pathologie 904 919	alergia al yodo
+T8	pathologie 1180 1197	lengua depapilada
+T9	pathologie 1266 1281	lengua fisurada
+T10	pathologie 1304 1315	macroglosia
+#1	SNOMED T3	84757009
+#2	SNOMED T4	86765009
+#3	SNOMED T5	40930008
+#4	SNOMED T6	763325000
+#5	SNOMED T7	294913003
+#6	SNOMED T2	215617000
+#7	SNOMED T9	52368004
+#8	SNOMED T10	25273001
+#9	SNOMED T1	37770007
+#10	SNOMED T8	59032001

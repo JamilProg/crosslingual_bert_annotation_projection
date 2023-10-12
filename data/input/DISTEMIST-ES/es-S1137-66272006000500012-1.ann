@@ -1,0 +1,16 @@
+T1	pathologie 33 51	fumadora ocasional
+T2	pathologie 316 338	picaduras de mosquitos
+T3	pathologie 685 757	exantema hemorrágico, simétrico, máculo-papular en tronco y extremidades
+T4	pathologie 941 1001	adenopatías latero y retrocervicales así como preauriculares
+T5	pathologie 1052 1072	hepatoesplenomegalia
+T6	pathologie 1143 1183	petequias en la fosa antecubital derecha
+T7	pathologie 2041 2047	dengue
+T8	pathologie 2083 2129	dengue hemorrágico grado 1 inducido por el AAS
+#1	SNOMED T7	38362002
+#2	SNOMED T1	77176002
+#3	SNOMED T8	409676000
+#4	SNOMED T3	271807003+128121009+128605003
+#5	SNOMED T2	283344005
+#6	SNOMED T4	127086001+127078001
+#7	SNOMED T5	36760000
+#8	SNOMED T6	423716004

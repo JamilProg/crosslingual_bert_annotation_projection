@@ -1,0 +1,23 @@
+Antécédents familiaux
+Pas d'intérêt. Antécédents personnels. Pas d'allergies médicamenteuses connues. Dyslipidémie. Maladie de Ménière. Arthrose. En attente d'une opération de la cataracte. Traitement habituel : Simvastatine, Bétahistine, budésonide nasal, Tizanidine.
+
+Maladie actuelle
+Un homme de 71 ans s'est présenté avec des céphalées, une instabilité et une détérioration progressive et insidieuse de l'état de conscience depuis un mois. Selon ses proches, il a également signalé une anorexie, une perte de poids non quantifiée et une lenteur dans l'accomplissement des tâches habituelles, avec une tendance à dormir de manière inappropriée.
+Au cours du dernier mois, elle avait pris des myorelaxants et de la bétahistine sans aucune amélioration. Il n'y a pas de fièvre associée. Après avoir interrogé le patient sur ses céphalées, il a indiqué qu'il y a un mois, il avait eu un épisode intense de céphalées fronto-pariétales gauches qu'il définissait comme des maux de tête lancinants accompagnés d'une perte de vision non récupérée de l'œil gauche qu'il attribuait à une cataracte pour laquelle il attendait une intervention chirurgicale ; depuis lors, sa situation de base s'était progressivement détériorée.
+
+Exploration
+T 36.8ºC, BP 131/72, HR 70lpm, SatO2 97%. État général acceptable, bien hydraté et perfusé, conscient et orienté, coopératif. Eupnéique au repos. Couleur normale. Pas d'altérations cutanées. ACP : rythmique sans souffle. Murmure vésiculaire conservé. Abdomen : souple, dépressible, pas de douleur à la palpation, pas de masse ni de mégalithes. EE : pas d'œdème ni de signes de thrombose veineuse profonde. Pouls périphériques conservés et symétriques. Examen neurologique : pas de signe de focalité sauf bradypsychique.
+
+Examens complémentaires
+Numération sanguine : les trois séries sont normales. Coagulation : pas d'altération. Biochimie : glycémie 84mg/dl, urée 12 mg/dl, créatinine 0,82 mg/dl, potassium 3,82 mEq/l, sodium 110 mEq/l, Omsp 224mOsm/kg, protéines totales 7,7g/dl. Urine : sodium 96 mEq/L, potassium 50 mEq/L.
+Gaz du sang veineux : normaux. ECG : RS à 64lpm. Radiographie du thorax : normale. Tomodensitométrie crânienne : pas de résultats significatifs. Chez un patient présentant des symptômes neurologiques accompagnés d'une hyponatrémie hypotonique euvolémique et d'un taux de sodium urinaire supérieur à 20 mmol/L, les diagnostics différentiels suivants doivent être envisagés.
+- Hypothyroïdie
+- Déficit en minéralocorticoïdes : primaire, secondaire (panhypopituitarisme), tertiaire (administration chronique de corticoïdes : patient sous traitement par budésonide nasal qui, malgré une faible dose, l'a utilisé de façon chronique, atteinte hypothalamique par des tumeurs, des infections et la RT).
+- SIADH
+La patiente a été admise en médecine interne pour une étude de l'hyponatrémie avec biochimie dans le service : sodium 131mEq/l, Omsp250 mOsm/Kg, TSH normale avec T4 libre 0,47. Cortisol basal 2,86. Échographie de l'abdomen : pas de résultats significatifs. Après avoir constaté une hypothyroïdie secondaire et un déficit en cortisol, ainsi que les symptômes cliniques du patient, nous avons complété la biochimie par un profil hormonal, demandé une campimétrie et une IRM de la selle turque, et mis en place un traitement substitutif à la thyroxine et un traitement à l'hydrocortisone. Biochimie : TSH : 1,37. LH : 0,21 (1,7-8,6).FSH : 0,95 (1,5-12,4). PRL : 37,9 (2,7-16,9).testostérone : 0,03 (2,8-8).aldostérone : 2,35 (1,76-23,6). Tous les autres paramètres sont normaux. Campimétrie : défaut presque total de l'œil gauche et défaut supérieur partiel de l'œil droit. IRM de la selle turcique : la selle turcique est occupée par une image lobulée, avec un signal similaire à celui du liquide céphalo-rachidien, montrant une croissance suprasellaire, suggérant un kyste arachnoïdien.
+
+Diagnostic
+Il a contacté l'hôpital de référence qui a diagnostiqué un craniopharyngiome adantinomateux et l'a opéré.
+
+Evolution
+Il est actuellement suivi par le service d'endocrinologie de notre hôpital avec un traitement substitutif de Desmopressine nasale, Hydrocortisone, Eutirox, Testogel, montrant une bonne évolution.

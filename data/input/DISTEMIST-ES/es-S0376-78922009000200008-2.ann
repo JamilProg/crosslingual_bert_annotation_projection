@@ -1,0 +1,6 @@
+T1	pathologie 62 80	extrofia de cloaca
+T2	pathologie 206 249	fístulas y cicatrices en la pared abdominal
+T3	pathologie 1095 1112	defecto abdominal
+#1	SNOMED T1	20815007
+#2	SNOMED T2	197263009+300398009
+#3	SNOMED T3	363024001

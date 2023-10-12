@@ -1,0 +1,23 @@
+Anamnèse
+Femme de 53 ans, originaire du Pérou, hypertendue et diabétique, diagnostiquée en avril 2010 avec une insuffisance rénale chronique de grade V secondaire à une néphrite interstitielle. Elle a nécessité une transplantation rénale en mai 2012, présentant un rejet aigu médié par les lymphocytes T comme complication immédiate. Depuis décembre 2013, il présente une détérioration de la fonction du greffon avec une protéinurie de l'ordre de la néphrologie. Son débit de filtration glomérulaire (DFG) initial est de 35. Il reçoit un traitement immunosuppresseur à base de tacrolimus et de prednisone à faible dose.
+
+En mars 2015, il est admis dans le service de néphrologie pour l'étude d'un syndrome constitutionnel constitué d'une asthénie, d'une anorexie et d'une perte de poids de 10 kg sur 2 mois d'évolution, ainsi que d'une dyspnée à l'effort minime.
+
+Examen physique
+Tension artérielle 127/67 mmHg, FC 80 bpm. Saturation 93% (avec NG à 1,5 bpm), ECOG 2. Conscient et orienté dans les trois sphères, normohydraté, normoperfusé. Eupnéique au repos. Auscultation pulmonaire : souffle vésiculaire aboli jusqu'aux deux tiers dans l'hémithorax droit, rhonchi isolé. Abdomen : souple et dépressible, pas de masse ni de mégalithes palpables. Examen cutanéo-muqueux : sans particularité.
+
+Examens complémentaires
+"La tomodensitométrie (TDM) montre un épanchement pleural droit massif, un épaississement nodulaire de la plèvre viscérale et des nodules pulmonaires bilatéraux en verre dépoli. Au niveau abdominal, on observe une large masse adénopathique autour du greffon rénal qui s'étend dans le rétropéritoine jusqu'au tronc cœliaque et au niveau inguinal gauche, occupant les chaînes iliaques ; une lésion solide est également observée dans le segment hépatique 7. La première option diagnostique était le lymphome.
+"Une thoracentèse et une biopsie pleurale ont été réalisées et les échantillons ont été envoyés au service d'anatomie pathologique (AP).
+"Les échantillons initialement envoyés au service d'anatomie pathologique étaient négatifs pour la malignité. Une biopsie échoguidée a donc été réalisée sur une adénopathie accessible, dans ce cas l'épigastrique gauche, excluant la présence d'un processus lymphoprolifératif et d'un carcinome rénal, car l'échantillon montrait un muscle squelettique abondant, du tissu conjonctif fibreux et des fragments avec une prolifération fusocellulaire fasciculée avec une légère atypie. L'étude immunohistochimique était positive pour les marqueurs endothéliaux (CD31 et CD34) et le virus de l'herpès humain 8 (HHV-8), compatible avec le sarcome de Kaposi (KS).
+
+Diagnostic
+Sarcome de Kaposi viscéral chez un receveur de greffe.
+
+Traitement
+Après l'admission, une thoracentèse évacuatrice a été réalisée, extrayant une petite quantité de liquide en raison de la présence de multiples trabécules dans l'espace. Étant donné la réapparition précoce de l'épanchement pleural, une queue de cochon pulmonaire et une pleurodèse à la bléomycine ont été réalisées. En revanche, une fois le diagnostic de KS viscéral avancé posé, la corticothérapie a d'abord été progressivement réduite et l'immunosuppression est passée du tacrolimus à l'évérolimus.
+
+Évolution
+Le patient évolue favorablement, avec une amélioration de l'état général (ECOG 1) et une diminution de la dyspnée, qui est le symptôme le plus invalidant. Il persiste une expectoration semi-solide brunâtre qui est référée à la PC et qui est également compatible avec le KS.
+
+La doxorubicine liposomale pégylée (PLD) a été demandée hors AMM, suite à un échocardiogramme normal (FEVG 65 %). Le traitement a débuté à une dose de 20 mg/m2 en avril 2015 et a été bien toléré.

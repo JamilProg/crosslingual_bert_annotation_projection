@@ -1,0 +1,39 @@
+Anamnèse
+Homme de 55 ans. Ex-fumeur 50 paquets-années. Syndrome d'apnée obstructive du sommeil.
+Profession : mécanicien. Pas de traitement médical habituel.
+
+Examen physique
+Pas de données pertinentes.
+
+Examens complémentaires
+Admis en médecine interne (juin 2013) pour l'étude d'une asthénie, d'une rectorragie et d'un ténesme d'évolution de 5 mois. Un scanner et une coloscopie ont été réalisés, révélant un adénocarcinome rectal-sigma KRAS natif, avec métastases hépatiques bilingues synchrones en limite de résécabilité (segments libres 4 et 1).
+
+Diagnostic
+Avec le diagnostic d'adénocarcinome de stade IV du rectum-sigmoïde, le Kras natif est orienté vers l'oncologie pour l'évaluation d'une chimiothérapie à visée néoadjuvante.
+
+Traitement
+Entre juin et septembre 2013, il a reçu FOLFOX + cetuximab x 7 avec une réponse partielle selon les critères RECIST. Il a été évalué par la chirurgie et placé sur la liste d'attente chirurgicale (résection et première étape de la chirurgie hépatique).
+
+Évolution
+Le 2 octobre 2013, elle se présente aux urgences pour une syncope avec cyanose faciale, sans douleur thoracique ni tachycardie, et une angio-TDM est demandée, qui confirme une thromboembolie pulmonaire (TEP) dans le tronc pulmonaire, les artères lobaires et les artères segmentaires bilatérales ; associée à une dilatation du ventricule droit (VD), signe de surcharge cardiaque. Aucun signe de thrombose veineuse profonde.
+
+Analyses : créatinine 0,74, troponine 0,884 ng/mL (limite 0,05), PO2 93,l actat 2,20 mmol/L. Leucocytes 6 700, hémoglobine 11,7, plaquettes 130 000. Electrocardiogramme : rythme sinusal à 116 bpm, schéma S1,Q III,T III.
+
+Une échocardiographie a été demandée, qui a montré une VR dilatée avec une légère régurgitation tricuspide et une pression systolique de l'artère pulmonaire estimée à 50 mm Hg (hypertension pulmonaire modérée).
+
+La semaine précédente, il avait présenté deux épisodes de rectorragie, ce qui constituait une contre-indication absolue à la fibrinolyse (sujet à discuter). Compte tenu de l'instabilité, il a été décidé d'admettre le patient aux soins intensifs, où un traitement anticoagulant a été instauré avec de l'héparine sodique, avec un objectif de temps de céphaline activé (TCA) de 60-70 secondes, et une thérapie liquidienne pour améliorer la précharge.
+
+Evolution clinique régulière dans les premières 24 heures avec plusieurs épisodes de rythme nodal avec fuite ventriculaire à 30 bpm et tendance à l'oligurie.
+
+Après une décision conjointe de la médecine intensive et de l'oncologie de ne pas intuber le patient comme mesure futile, il a été déchargé dans le service, avec une évolution favorable après une thérapie sérique, des diurétiques et de l'O2, en passant de l'héparine sodique à l'HBPM le 16/10/2013.
+
+La tinzaparine (14000 UI) a été choisie en raison d'une clairance de la créatinine de 28 ml/min.
+Compte tenu de la stabilité hémodynamique, avec un échocardiogramme dans les limites de la normale, le patient est sorti de l'hôpital et a été suivi en consultation, en maintenant le traitement à la tinzaparine aux doses susmentionnées.
+
+Compte tenu du délai de l'intervention chirurgicale et de la nécessité d'un intervalle de récupération après une PTE massive, deux cycles de FOLFOX-CETUXIMAB ont été administrés. Deux mois après l'épisode, une intervention chirurgicale a été réalisée (résection primaire et première étape de la chirurgie hépatique), avec mise en place préalable d'un filtre cave. L'anatomie pathologique a montré un adénocarcinome du sigma ypT3 N1b M1 V1 L0 R0 et une persistance tumorale hépatique <10%.
+
+Entre janvier et février 2014, il a subi un intervalle QT avec 5-fluorouracile + cetuximab x 2 avec une réponse radiologique (total 11 cycles, 9 folfox + 2 de gramont + cetuximab) et en mars 2014 il a subi une deuxième procédure chirurgicale avec hépatectomie droite + fermeture de l'iléostomie latérale.
+
+Une réévaluation par tomodensitométrie en juin 2014 a montré 3 lésions dans le segment 4 qui nécessitent un contrôle strict.
+
+Le filtre cave a été retiré et la tinzaparine a été maintenue à des doses thérapeutiques (14 000 UI) car une implication hépatique ne pouvait être exclue. En août 2014 et février 2015, des examens d'imagerie ont été répétés sans signe de récidive. Le traitement anticoagulant a donc été arrêté après 9 mois sans maladie active.

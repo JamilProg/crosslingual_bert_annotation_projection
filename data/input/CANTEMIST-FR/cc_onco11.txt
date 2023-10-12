@@ -1,0 +1,65 @@
+ANAMNÉSIE
+Homme de 58 ans ayant des antécédents personnels de tabagisme actif avec une consommation cumulée de 40 ans/pack, une consommation régulière de cannabis et de cocaïne, et une fibrillation auriculaire paroxystique anticoagulée par Enoxaparine 80mg toutes les 12 heures. Le patient a été évalué pour la première fois dans le service de pneumologie ambulatoire en août 2018 en raison de la détection d'une découverte fortuite d'une masse pulmonaire dans le lobe inférieur droit. Depuis le service de pneumologie ambulatoire, une tomodensitométrie et une biopsie à l'aiguille centrale (CNB) du poumon ont été réalisées, dans l'attente des résultats anatomopathologiques. Elle a consulté le service des urgences en septembre 2018 en raison d'une augmentation de sa dyspnée habituelle, de son orthopnée et de sa douleur thoracique avec des caractéristiques pleurales. Pas de toux, d'expectoration ou d'auto-écoute des bruits respiratoires. Aucun autre symptôme d'intérêt.
+
+EXAMEN PHYSIQUE AU SERVICE DES URGENCES
+- ECOG : 2, fréquence respiratoire : 24 respirations par minute, normotendu et afébrile, SatO2 : 83%.
+- Auscultation cardiaque : arythmique sans souffle.
+- Auscultation pulmonaire : Murmure vésiculaire diminué dans l'hémithorax droit.
+- Membres inférieurs : œdème de grade 2 aux deux membres inférieurs.
+
+TESTS COMPLÉMENTAIRES
+Analyses sanguines
+Biochimie : Protéine C-Réactive : 27,1 mg/L, NT-proBNP : 339 pg/mL, le reste normal.
+Hémogramme et hémostase normaux.
+Radiographie du thorax
+Opacification complète du champ pulmonaire droit avec déplacement médiastinal vers la gauche.
+
+ECG
+Rythme sinusal à 80 battements par minute. Aucune autre altération significative.
+
+Tomodensitométrie thoraco-abdominale (août 2018).
+Masse du lobe inférieur droit avec extension au lobe moyen de 116x86x83 mm d'aspect hétérogène avec aspect kystique-nécrotique. Contact avec la plèvre costale. Petits nodules satellites dans le lobe inférieur droit, le plus grand sous-pleural de 25mm. Léger épanchement pleural droit. La masse s'étend proximalement vers le hile droit, atteignant la veine pulmonaire inférieure droite et s'insinuant dans l'oreillette droite comme un thrombus tumoral.
+Masse dans le segment apicopostérieur du lobe supérieur gauche mesurant 45x34x35 mm. Contact avec la plèvre costale. Nodule satellite dans le même lobe mesurant 14 mm.
+Adénopathies kystiques-nécrotiques sous-aortiques et para-aortiques évocatrices de malignité. Petites adénopathies suspectes de malignité au niveau rétropéritonéal et dans le ligament gastro-hépatique. Pas d'autres lésions suspectes de malignité.
+
+PET-CT (septembre 2018)
+Lésions métaboliques malignes dans une grande masse dans le poumon droit s'étendant à travers le lobe inférieur droit et le lobe moyen jusqu'à la région sous-carénée, masse dans le lobe inférieur gauche et nodule adjacent. Implants pulmonaires droits.
+Épanchement pleural droit amétabolique. Lésion hypercapillaire dans le sinus piriforme gauche. Lésion hypermétabolique dans l'oreillette gauche dans le contexte d'un thrombus ou d'une métastase à évaluer par échocardiographie.
+
+Echocardiographie transthoracique
+Masse hétérogène mesurant 44x23cm dans le toit de l'oreillette gauche avec extension vers le plan valvulaire sans interférence avec la mobilité, qui semble provenir de la veine pulmonaire sans dépendre du septum interatrial. L'origine tumorale est la première possibilité diagnostique.
+
+IRM crânienne
+Angiome veineux frontal droit. Maladie ischémique des petits vaisseaux. Absence de lésions d'occupation de l'espace (LOE) évocatrices de métastases.
+
+
+ANATOMIE PATHOLOGIQUE
+BAG d'une lésion du lobe inférieur droit.
+Prolifération néoplasique représentant moins de 10% du matériel présenté, le reste correspondant à de la nécrose tumorale. Cellularité peu cohésive avec des noyaux modérément pléomorphes, hyperchromatiques, absence de nucléole et images d'apoptose fréquentes. Positivité focale pour la vimentine, la pan-cytokératine, l'ALC, l'EMA et la S100. Il n'est pas possible d'identifier l'origine primaire du néoplasme avec les données de l'échantillon, les principales options diagnostiques étant les suivantes : pleural (mésothéliome), tissu mou (sarcome) ou épithélial (carcinome sarcomatoïde).
+
+BAG de la lésion du lobe supérieur gauche
+Peu de tissu évaluable. Prolifération de grandes cellules épithéliales néoplasiques à cytoplasme clair sur un stroma sarcomatoïde. Le carcinosarcome ou le carcinome épidermoïde à cellules claires sont les options diagnostiques les plus probables, sans qu'il soit possible de confirmer le diagnostic étant donné la forte probabilité qu'il s'agisse d'une tumeur hétérogène. 80 % des cellules tumorales sont positives pour PD-L1.
+
+Biopsie d'une masse pleurale droite obtenue par chirurgie thoracique vidéo-assistée (VATS).
+Infiltration pleurale par une néoformation maligne à double composante cellulaire néoplasique. Composante principale de cellules indifférenciées avec positivité immunohistochimique pour p63, p40 et Vimentine représentant 85% de l'échantillon et seconde composante mésenchymateuse avec positivité immunohistochimique pour Vimentine, Pan-cytokératine, AML et SMA. Cette structure est compatible avec un carcinosarcome. Ki67 de 80 %.  Négatif pour l'expression de PD-L1.
+
+JUGEMENT DIAGNOSTIQUE
+Carcinosarcome pulmonaire de stade IV (poumon, ganglions lymphatiques et oreillettes)
+Épanchement pleural droit
+Masse du lobe supérieur gauche PD-L1 80 % PD-L1 négatif
+Masse du lobe inférieur droit PD-L1 négative
+
+TRAITEMENT
+Chimiothérapie de première intention avec Carboplatine et Paclitaxel
+O2 à domicile pendant 24 heures
+
+ÉVOLUTION
+Lors de l'évaluation au service des urgences, compte tenu de la présence d'une désaturation et d'un épanchement pleural droit massif à la radiographie du thorax, une queue de cochon thoracique a été mise en place et 3 litres de liquide de consistance sérohématique ont été extraits, avec une amélioration de ses symptômes. Le patient a été admis au service de pneumologie.
+Le résultat de l'AGB pulmonaire a montré la présence d'une tumeur indifférenciée avec une difficulté à obtenir un diagnostic définitif, et il a été recommandé d'obtenir plus de matériel pour une meilleure caractérisation. Une deuxième AGB a été réalisée sur la lésion du lobe supérieur gauche sans obtenir d'échantillon suffisant pour l'étude. Le cas a été discuté au sein du comité des tumeurs thoraciques et il a été décidé de contacter l'hôpital de référence de notre centre pour la chirurgie thoracique afin de réaliser une biopsie par VATS.
+Après la réalisation de la biopsie par VATS, le patient a été adressé au service d'oncologie, ce qui constituait le premier contact du patient avec notre service.
+Compte tenu de la présence d'un foyer hypermétabolique dans le sinus piriforme gauche qui pourrait correspondre à la tumeur primitive, l'histologie obtenue à partir du prélèvement de la masse pulmonaire dans le lobe supérieur gauche étant plus compatible avec une origine primitive dans l'hypopharynx, nous avons demandé un bilan ORL. Toutefois, l'examen ORL direct n'a révélé aucune lésion susceptible d'expliquer la cause du foyer métabolique, de sorte qu'il n'a pas été possible de pratiquer une biopsie.
+Après la sortie du patient, nous avons discuté du cas lors d'une séance commune. Il a finalement été décidé de commencer une chimiothérapie à base de carboplatine et de paclitaxel. Nous avons commencé le traitement antinéoplasique le 10 octobre 2018.
+Nous n'avons pas recommandé de traitement par anti-PDL1 en raison de l'absence d'expression de PD-L1 dans la masse pulmonaire droite (masse plus importante) et de la suspicion d'une tumeur avec une double composante cellulaire néoplasique dans laquelle la composante "supposée" plus agressive était négative pour PD-L1.
+La réévaluation par tomodensitométrie après le deuxième et le quatrième cycle de traitement a montré une diminution de la taille des deux masses pulmonaires (réponse partielle). En outre, le patient a montré une amélioration clinique avec une diminution du degré de dyspnée et une réduction des besoins en oxygène à domicile. Le patient a montré une bonne tolérance au traitement avec seulement une asthénie, des arthralgies et une neurotoxicité de grade 2. Il a bénéficié au total de 5 cycles de traitement avec ce schéma de chimiothérapie.
+Fin janvier 2019, le patient a présenté une progression de la maladie dans le système nerveux central avec l'apparition d'une métastase pariétale droite à contenu hématologique et a été réadmis en Oncologie. Lors de son admission, il a présenté une détérioration neurologique rapide et a nécessité un traitement symptomatique exclusif.
+Le patient est finalement décédé en février 2019.

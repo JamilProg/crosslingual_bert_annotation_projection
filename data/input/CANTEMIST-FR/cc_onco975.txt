@@ -1,0 +1,37 @@
+Anamnèse
+" Données personnelles : femme de 55 ans, femme au foyer, mariée avec 2 enfants en bonne santé.
+"Antécédents familiaux : père décédé d'un accident vasculaire cérébral (AVC) à l'âge de 91 ans. Mère vivante à 89 ans. Frère décédé d'un cancer du pancréas à l'âge de 55 ans. 8 frères et sœurs en bonne santé. Aucun autre antécédent intéressant.
+"Antécédents personnels : pas d'allergies médicamenteuses connues. Pas de métabolopathie. Fumeur d'environ 1 paquet par jour pendant 30 ans. Pas d'autres antécédents intéressants.
+"Pas d'autres interventions chirurgicales antérieures.
+"Pas de médication à domicile.
+"Maladie actuelle : en août 2011, la patiente a commencé à présenter une hématurie franche, elle a donc consulté le service d'urologie, où divers tests diagnostiques ont été effectués, notamment une échographie, une tomodensitométrie (CT) et une imagerie par résonance magnétique (IRM), montrant une masse rénale droite compatible avec un hypernéphrome et un thrombus dans la veine rénale droite et la veine cave inférieure.
+"Le patient a finalement été opéré en septembre 2011 par néphrectomie droite, lymphadénectomie et thrombectomie, avec une période postopératoire compliquée avec une insuffisance rénale aiguë oligoanurique, nécessitant une admission à l'unité de soins intensifs, avec une bonne évolution ultérieure.
+"L'anatomie pathologique définitive a montré un carcinome rénal avec atteinte veineuse, des métastases dans 3 adénopathies pré-aortiques et une infiltration de la capsule rénale sans la dépasser.
+
+Examen physique
+"État général : conscient, orienté et coopératif. Indice de Karnofsky (KK) K 70 %.
+"Examen neurologique : nerfs crâniens : normaux. Aucune autre focalité neurologique.
+"Tête et cou : pâleur de la peau et des muqueuses. Lymphadénopathie pathologique claire supraclaviculaire gauche. 2 x 2 cm. Pas d'adénopathie axillaire.
+"Cœur : bruits cardiaques rythmés. Poumons : bruits respiratoires conservés.
+"Abdomen : mou et dépressible avec cicatrice de laparotomie sus-ombilicale et de sternotomie. Pas de viscéro-mégalie, pas d'adénopathie inguinale, percussion rénale et vertébrale négative.
+"Membres inférieurs : pas d'œdème, de varices ou de signes de phlébite.
+
+Tests complémentaires
+"Cytologie (x3) : inflammatoire.
+"Echographie abdominale : rein droit (RD) non structuré de plus de 15 cm sans voir le hile rénal avec masse et zones kystiques avec infiltration de la veine rénale droite, qui se développe à travers la veine cave sans atteindre l'oreillette.
+"Tomodensitométrie abdominopelvienne : grosse masse rénale droite avec thrombus dans la veine cave infradiaphragmatique, jusqu'au dôme hépatique.
+"IRM : hypernéphrome rénal droit avec modifications secondaires à l'embolisation de la RD. Thrombus tumoral dans la veine rénale droite et dans la veine cave inférieure, qui ne s'étend pas à l'oreillette droite et n'infiltre pas les parois de la veine cave/foie.
+"Hémoculture (3/10/11) : négative.
+"Scanner post-chirurgical : présence d'un épanchement pleural bilatéral. Adénopathies médiastinales prétrachéales-rétrocaves et infracarinales.
+"Ponction aspiration à l'aiguille fine (FNA) adénopathie supraclaviculaire gauche : maligne, compatible avec une métastase d'un carcinome rénal.
+"Biochimie : glucose 108 mg/dl, urée 50 mg/dl, créatinine 1,3 mg/dl, sodium 141 mmol/l, potassium 4 mmol/l, calcium 2,4 mmol/l, lactate déshydrogénase (LDH) 200 U/l, albumine 46 g/l.
+"Hémoglobine 11 g/dl, leucocytes 9 350 (5 400 neutrophiles), plaquettes 230 000.
+
+Diagnostic
+Carcinome rénal à cellules claires, stade IV (pT3N2M1), en raison de l'atteinte des ganglions lymphatiques médiastinaux et sus-claviculaires.
+
+Traitement
+Après le diagnostic de carcinome rénal à cellules claires de stade IV, elle a été adressée au service d'oncologie médicale pour être traitée. Initialement, considérée comme ayant un pronostic moyen, elle a été mise sous sunitinib à raison de 50 mg toutes les 24 heures pendant 4 semaines, suivies de 2 semaines de repos.
+
+Évolution
+La patiente a reçu du sunitinib d'octobre 2011 à décembre 2014, obtenant une réponse partielle (RP) lors du premier scanner réalisé en 2012 et restant à " no change " (NC) jusqu'en décembre 2014. Depuis le début du repos thérapeutique, une diminution progressive des lésions ganglionnaires thoraciques et sus-claviculaires gauches a continué à être observée, sans aucun traitement systémique jusqu'à aujourd'hui (juin 2017).

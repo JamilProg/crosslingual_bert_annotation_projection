@@ -1,0 +1,21 @@
+T1	pathologie 70 86	ptosis palpebral
+T2	pathologie 99 108	proptosis
+T3	pathologie 169 190	hipertensión arterial
+T4	pathologie 229 243	ulcus duodenal
+T5	pathologie 264 282	poliposis laríngea
+T6	pathologie 333 358	adenocarcinoma prostático
+T7	pathologie 499 515	metástasis óseas
+T8	pathologie 838 854	ptosis palpebral
+T9	pathologie 873 890	protrusión ocular
+T10	pathologie 904 912	diplopía
+T11	pathologie 1031 1047	ptosis palpebral
+T12	pathologie 1062 1076	salida del ojo
+T13	pathologie 1117 1154	paresia del III y VI pares izquierdos
+T14	pathologie 1483 1519	lesiones isquémicas supratentoriales
+T15	pathologie 1959 1968	proptosis
+T16	pathologie 2121 2164	interrupción del suelo de la órbita derecha
+T17	pathologie 2403 2441	infiltración blástico-lítica vertebral
+T18	pathologie 2490 2568	metástasis de adenocarcinoma prostático en seno maxilar derecho y seno frontal
+T19	pathologie 2584 2615	afectación orbitaria extraconal
+T20	pathologie 2705 2712	ceguera
+T21	pathologie 3119 3128	proptosis

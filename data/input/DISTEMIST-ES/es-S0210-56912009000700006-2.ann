@@ -1,0 +1,14 @@
+T1	pathologie 184 212	traumatismo craneoencefálico
+T2	pathologie 315 319	coma
+T3	pathologie 495 522	hemiplejía derecha proximal
+T4	pathologie 963 1032	infarto agudo en el territorio de la arteria cerebral media izquierda
+T5	pathologie 1133 1183	disminución difusa del calibre de la ACI izquierda
+T6	pathologie 1188 1270	estenosis grave del segmento supraclinoideo C6-C7, secundaria a disección arterial
+T7	pathologie 1534 1639	hemiparesia 3/5 proximal en la extremidad superior derecha y 0/5 distal en la extremidad inferior derecha
+#1	SNOMED T3	278284007
+#2	SNOMED T7	278286009
+#3	SNOMED T1	82271004
+#4	SNOMED T4	432504007
+#5	SNOMED T5	838275008
+#6	SNOMED T6	870637009
+#7	SNOMED T2	371632003

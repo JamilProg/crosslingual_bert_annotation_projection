@@ -1,0 +1,32 @@
+Anamnèse
+La patiente est une femme de 77 ans qui se présente au service des urgences pour des douleurs abdominales. Elle n'a pas d'allergies médicamenteuses connues. Elle présente les antécédents suivants : obésité, diabète sucré de type 2, insulinodépendance, maladie rénale chronique de stade IIIA. Interventions chirurgicales : cholécystectomie, appendicectomie.
+Admis au service de médecine interne le 15/3/2019 pour 15 jours de distension abdominale, associée à des douleurs abdominales coliques et à une constipation. Pas de nausées ni de vomissements. Absence de symptômes constitutionnels.
+
+Examen physique
+État de performance (EP) 2, TA : 168/67 mm Hg, FC : 93 bpm, T : 36,6 °C. Conscient, orienté, coopératif. Pâleur cutanéo-muqueuse. Eupnéique au repos. Abdomen : distendu, dépressible, mou, non douloureux, matité des deux flancs, diminution des bruits hydro-aériques. Le reste de l'examen n'a révélé aucun signe pathologique.
+
+Examens complémentaires
+Les examens complémentaires suivants sont effectués au service des urgences :
+
+Analyses de sang
+Hémogramme : hémoglobine 8,6 g/dl, MCV 88 fl, plaquettes 109.000 x 103. Coagulation normale. Biochimie : urée 110 mg/dl, créatinine 1,5 mg/dl, DFG 33 ml/min, ions normaux. Marqueurs tumoraux : CEA 57,7 ng/ml.
+Radiographie abdominale : gaz et fèces abondants dans le cadre colique.
+Échographie abdominale : petit parenchyme hépatique aux contours multilobulés, pas de lésions occupant l'espace. Liquide ascitique abondant. Conclusion : ascite due à une probable maladie chronique du foie.
+Lors de l'admission, la patiente a présenté des selles mélaïques, des examens complémentaires digestifs ont donc été demandés :
+Gastroscopie : pas de résultat pathologique.
+Coloscopie : sténose néoplasique de l'angle hépatique empêchant le passage de l'endoscope, avec muqueuse irrégulière d'aspect infiltrant.
+"Biopsie du côlon : muqueuse du gros intestin avec infiltration par un adénocarcinome peu différencié. Immunohistochimie : CK 20, CDX2, PAX 8 et récepteurs de progestérone négatifs. CK 7, récepteurs d'œstrogènes et Gata 3 positifs.
+Une tomodensitométrie thoraco-abdominale-pelvienne a été demandée comme étude d'extension, qui a révélé des nodules dans les quadrants internes du sein droit. Adénopathies axillaires bilatérales suspectes. Foie polylobé, cirrhotique. Ascite généralisée. Épaississement asymétrique du côlon ascendant. Épaississement péritonéal avec rétraction douteuse des anses de l'intestin grêle dans la fosse iliaque droite. Multiples ganglions lymphatiques suspects de malignité dans tout l'abdomen. Lésions osseuses mixtes suspectes. Conclusion : néoplasme probable du côlon, métastases osseuses exclues.
+Sur la base du rapport immunohistochimique suggérant la présence d'une tumeur primaire du sein et avant les résultats décrits dans le scanner, une mammographie a été demandée, qui a révélé une masse mal définie mesurant 21 x 20 x 18 mm dans les quadrants inférieurs du sein droit. Un nodule spiculé mesurant 23 x 16 x 11 mm a été identifié dans le quadrant supérieur externe du sein gauche. Une lymphadénopathie pathologique a été observée dans les deux aisselles. BI-RADS 5. Une FNA des deux nodules et des ganglions lymphatiques bilatéraux a été réalisée.
+- Biopsie des nodules mammaires bilatéraux : carcinome lobulaire infiltrant. L'immunohistochimie est similaire dans les deux nodules : récepteurs d'œstrogènes 100 %, récepteurs de progestérone 80 %, Ki 67 10 %, HER2 négatif, E-cadhérine négatif.
+- FNA de l'aisselle droite : infiltration par un carcinome lobulaire du sein.
+
+Diagnostic
+Carcinome lobulaire IV du sein avec atteinte osseuse, carcinomatose péritonéale et infiltration colique.
+
+Traitement
+Une paracentèse évacuatrice a été effectuée et 8 litres ont été extraits, la cytologie montrant la présence de cellules suspectes d'adénocarcinome.
+Lors de son admission, la patiente a présenté une hémorragie gastro-intestinale inférieure secondaire au saignement de l'implant tumoral dans la paroi du côlon, nécessitant une transfusion de produits sanguins et l'administration de fer par voie parentérale. Elle est sortie de l'hôpital après un contrôle symptomatique et a été adressée au service de consultation externe du service d'oncologie médicale.
+
+Évolution
+Elle a été évaluée pour la première fois dans le service d'oncologie médicale le 9/4/2019 avec le diagnostic de carcinome lobulaire du sein IV et, compte tenu du PS de la patiente, un traitement a été proposé avec du paclitaxel hebdomadaire à 60 mg/m2, les jours 1, 8 et 15 de tous les 28 jours. La patiente a reçu deux cycles de traitement et, bien qu'elle ait signalé une amélioration de son état général, on a constaté une augmentation progressive du liquide ascitique, ce qui a nécessité une nouvelle paracentèse évacuatrice. Un nouveau scanner de réévaluation a été demandé après le troisième cycle de traitement.

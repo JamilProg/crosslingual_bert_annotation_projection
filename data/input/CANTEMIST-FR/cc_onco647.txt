@@ -1,0 +1,23 @@
+Anamnèse
+Homme, 68 ans, pas d'allergies médicamenteuses connues. Ex-fumeur avec un facteur d'exposition cumulé de 34 paquets-années. Ses antécédents médicaux comprennent une hypertension artérielle essentielle, une dyslipidémie, une cardiopathie ischémique (diagnostiquée en 2001, avec 2 stents et une fraction d'éjection du ventricule gauche de 59 %) et une bronchopneumopathie chronique obstructive (BPCO) (GOLD III, avec une moyenne de deux poussées par an). Il n'a pas d'antécédents familiaux de cancer.
+En septembre 2016, un adénocarcinome (ADC) du côlon gauche lui a été diagnostiqué suite à un épisode de rectorragies, et une hémicolectomie gauche urgente a été réalisée. L'étude anatomopathologique a montré un ADC avec infiltration de la couche séreuse (pT4a) et la présence d'un dépôt tumoral mésentérique (pN1c). L'étude a été complétée par une tomodensitométrie thoraco-abdomino-pelvienne (TC-TAP) qui a montré des nodules pulmonaires bilatéraux, compatibles avec des métastases.
+Le diagnostic final était un ADC du colon gauche de stade IV (pT4a pN1c M1). L'étude moléculaire a montré l'absence de mutation KRAS (dans les exons 2, 3 et 4) et NRAS (dans l'exon 4), la présence de la mutation V600E dans l'exon 15 de BRAF et l'expression conservée des gènes de réparation de l'ADN (expression nucléolaire par immunohistochimie de MLH1, MSH2, MSH6 et PMS2).
+Compte tenu des antécédents du patient et du profil moléculaire de la tumeur, il a été décidé de commencer un traitement de première ligne par irinotécan à 150 mg/m2 toutes les 2 semaines. La patiente a montré une bonne tolérance au traitement, atteignant une stabilité radiologique des lésions métastatiques selon les critères RECIST.
+En août 2017, après 16 cycles de traitement, la patiente s'est rendue à la clinique pour des douleurs mandibulaires et a été adressée à la chirurgie buccale et maxillo-faciale pour des examens complémentaires.
+
+Examen physique
+Au cours de l'examen physique, une lésion exophytique et friable a été observée sur la face vestibulaire de la gencive près de la deuxième molaire inférieure gauche (dent 37). Aucune adénopathie latérocervicale n'a été palpée lors de l'examen cervical. Le reste de l'examen n'a pas été modifié.
+Compte tenu de la suspicion d'une tumeur primaire de la cavité buccale, une biopsie de la lésion a été réalisée et une imagerie par résonance magnétique (IRM) de la tête et du cou a été demandée.
+
+Examens complémentaires
+L'IRM montre une lésion exophytique au niveau du trigone rétromolaire gauche avec une infiltration focale de l'os mandibulaire ainsi que deux adénopathies métastatiques dans les chaînes ganglionnaires lymphatiques ipsilatérales Ib et IIa. La biopsie a révélé un adénocarcinome (CK7 et CK20 négatifs) compatible avec une origine gastro-intestinale (CDX2 positif focal).
+Une étude NGS de la tumeur primaire et de la lésion métastatique a montré les mêmes altérations moléculaires : mutations dans BRAF (p.V600E), RNF43 (p.E187X) et TP53 (p.R282W).
+
+Diagnostic
+Métastase dans le trigone rétromolaire d'un adénocarcinome du côlon gauche avec mutation BRAF V600E.
+
+Traitement
+Le traitement antialgique a débuté par une radiothérapie au niveau du trigone rétromolaire (dose totale de 30 Gy en 10 fractions). La patiente a présenté une mucosite de grade 2 et a été évaluée par le service de cardio-oncologie, qui a déterminé que la patiente avait une fonction cardiaque optimale pour recevoir des fluoropyrimidines.
+
+Évolution
+Avant d'entamer le traitement de deuxième intention, le patient a été admis dans le service d'oncologie pour une exacerbation de sa BPCO. L'évolution a été défavorable, développant une insuffisance respiratoire aiguë avec des besoins élevés en oxygénothérapie. Le patient est finalement décédé le 30 janvier 2018.

@@ -1,0 +1,14 @@
+T1	pathologie 41 51	leiomiomas
+T2	pathologie 159 168	hematuria
+T3	pathologie 340 364	riñón izquierdo atrófico
+T4	pathologie 384 396	masa tumoral
+T5	pathologie 609 615	lesión
+T6	pathologie 714 732	carcinoma ureteral
+T7	pathologie 1413 1446	endometriosis ureteral intrínseca
+#1	SNOMED T1	146801000119103
+#2	SNOMED T2	34436003
+#3	SNOMED T3	197659005
+#4	SNOMED T6	448864006
+#5	SNOMED T7	129103003+87953007
+#6	SNOMED T5	417163006
+#7	SNOMED T4	55342001

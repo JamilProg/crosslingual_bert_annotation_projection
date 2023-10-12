@@ -1,0 +1,44 @@
+Anamnèse
+Homme de 61 ans, pas d'allergies médicamenteuses ni d'habitudes toxiques connues. Transplantation hépatique en 1997 en raison d'une cholangite sclérosante primitive (CSP) et retransplantation en 2015 en raison d'une récidive de la CSP, sous traitement par tacrolimus et mycophénolate. Il est chargé de cours à l'université.
+
+Antécédents oncologiques
+En juin 2002, un mélanome cutané malin de stade IB a été diagnostiqué sur l'omoplate droite ; la lésion a été réséquée et les marges élargies. Il a continué à être suivi par le service de dermatologie et est sorti de l'hôpital en 2012 sans aucun signe de maladie.
+En octobre 2016, il a présenté une récidive du ganglion lymphatique axillaire droit, associée à une thrombose des veines sous-clavières et axillaires droites. Une lymphadénectomie axillaire droite a été réalisée le 10/11/2016 mais elle n'a pas reçu de traitement adjuvant par interféron en raison de la comorbidité liée à la transplantation hépatique.
+Elle a continué à être surveillée jusqu'à ce qu'un scanner en mai 2018 montre de multiples lésions lytiques dans le squelette axial, ce qui a été confirmé par biopsie comme une récidive de mélanome malin (S100+, HMB45+, MELAN-A ; Ki67 25% ; mutation BRAF V600E.
+Le 16/07/2018 il a débuté un traitement par inhibiteurs de BRAF (iBRAF) et MEK (iMEK), Dabrafenib 15 mg/12 heures et trametinib 2 mg/24 heures par jour, associant de l'acide zolédronique 4 mg intraveineux toutes les 4 semaines en raison d'atteintes osseuses multiples. Le 6/08/2019, il a été évalué à l'hôpital de jour présentant un bon état général et avec une bonne tolérance, il a donc poursuivi son traitement et a été programmé pour un nouveau bilan dans 1 mois.
+
+Maladie actuelle
+Le 2/09/2018, elle se présente aux urgences avec une fièvre à 38,3º C d'évolution 5 jours, sans foyer infectieux et en bon état général.
+
+Examen physique
+ECOG 1 : conscient, orienté et coopératif. Bien nourri et hydraté, couleur normale. Eupnéique au repos. Auscultation cardiaque rythmée, sans souffle audible. Auscultation pulmonaire avec murmure vésiculaire préservé et sans bruit additionnel. Abdomen mou et dépressible, sans douleur à la palpation.
+Examens complémentaires
+" Analyses de sang et d'urine 2/09/2018 : pas d'altération à l'exception de la CRP 127,13.
+" Radiographie du thorax 2/09/2019 : aucun résultat pathologique.
+" Hémocultures 3/08/2019 : négatives.
+
+Diagnostic
+Syndrome fébrile sans foyer infectieux chez un patient traité par inhibiteurs BRAF et MEK.
+
+Traitement
+En l'absence de foyer infectieux clair après l'examen et les tests effectués au service des urgences, il a été admis dans le service pour étude avec un traitement antipyrétique et une thérapie sérique.
+Dans le service, en raison d'une fièvre persistante et d'une fièvre probablement secondaire à l'iBRAF et à l'iMEK, il a été décidé de retirer le Dabrafenib comme indiqué dans la fiche technique.
+
+Évolution
+Après plus de 48 heures d'afébrilité, le traitement par dabrafenib est repris le 7/09/2019, en maintenant les antipyrétiques.
+Le 9/09/2019, il a commencé à présenter une fièvre aiguë > 38,8º, associée à une détérioration neurologique aiguë avec Glasgow 3, mutisme, parésie des 4 membres et crises tonico-cloniques généralisées comiques.
+À ce moment-là, les tests suivants ont été effectués :
+" NFS 9/09/2019 : sodium 129, taux de tacrolimus et toutes les autres valeurs sans résultats.
+"Tomodensitométrie cérébrale 9/09/2019 : aucune métastase ou altération vasculaire n'a été observée.
+" Ponction lombaire 9/09/2019 : étude biochimique avec pléocytose lymphocytaire et protéinorachie. Étude microbiologique négative et cytologie négative à la recherche d'une tumeur maligne.
+" Échographie des troncs supra-aortiques 9/09/2019 : pas de sténose des vaisseaux.
+"EEG 9/09/2019 : activité globalement ralentie plus frappante dans l'hémisphère gauche, en rapport avec une encéphalopathie diffuse modérée.
+" Compte tenu des résultats des examens et de la dégradation de l'état général de la patiente, le dabrafenib et le trametinib sont retirés et le traitement est intensifié par l'initiation d'anticonvulsivants (lacosamide et levetiracetam) et d'antibiotiques (ampicilline et acyclovir).
+Malgré l'ajustement du traitement le 10/09/2019, la patiente a continué à présenter un mutisme et des crises comitiales persistantes associées à une fièvre > 38º, ainsi, après avoir éliminé les autres causes, une toxicité liée au dabrafenib et au trametinib a été suspectée et un traitement a été initié avec de la méthylprednisolone intraveineuse à la dose de 1,5 mg/kg/jour. D'autre part, l'étude a été achevée :
+" Tomodensitométrie cervico-thoracoabdominale 11/09/2019 : maladie stable sans autre résultat ".
+" Anticorps onconeuronaux dans le plasma et le LCR 12/09/2019 : négatifs.
+"IRM cérébrale 19/09/2019 : des lésions microangiopathiques ischémiques chroniques ont été observées.
+Vingt-quatre heures après le début des corticostéroïdes, il n'a pas de nouveaux épisodes de crises, est afébrile et est capable de prononcer des mots isolés ; cependant, il est agité et confus. L'état général du patient s'est progressivement amélioré et il a pu tenir une conversation et se déplacer une semaine après le début du traitement à ces doses. Le 19/09/2019, les corticostéroïdes ont donc été progressivement réduits sur une période d'un mois, avec une résolution complète des symptômes à la sortie de l'hôpital.
+Étant donné que l'étiologie métabolique, vasculaire, de progression radiologique, infectieuse ou paranéoplasique a été exclue comme cause de l'état neurologique du patient, et compte tenu de la résolution des symptômes après le début des corticostéroïdes à forte dose, il a été interprété comme une toxicité neurologique de grade 4 liée à l'iBRAF et à l'iMEK.
+Le traitement par dabrafenib et trametinib a été définitivement arrêté à l'hôpital de jour. Compte tenu de la double transplantation hépatique sous traitement immunosuppresseur, il a été jugé plus approprié de commencer un traitement avec d'autres inhibiteurs de BRAF et MEK, le vemurafenib et le cobimetinib, car ils ont d'autres effets indésirables.
+Actuellement, le patient présente une maladie stable sur le plan radiologique, un bon état général et une bonne tolérance au traitement, sans nouvel épisode neurologique.

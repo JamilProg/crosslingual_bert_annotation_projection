@@ -1,0 +1,27 @@
+Anamnèse
+Le cas présenté est celui d'une femme caucasienne de 54 ans au moment du diagnostic oncologique.
+Ses antécédents médicaux comprennent une allergie au ruban adhésif, un tabagisme actif (deux paquets par jour depuis l'âge de 20 ans), une hypercholestérolémie, un antécédent d'infarctus aigu du myocarde Killip I en août 2009 traité par revascularisation percutanée et mise en place de 3 stents enrobés dans l'artère coronaire droite.
+Elle a subi une hystérectomie pour un myome utérin en novembre 2005 et a subi en 2012 une excision radioguidée d'un carcinome lobulaire in situ (LCIS) au sein gauche. Ses antécédents familiaux de cancer comprennent un cancer des lèvres chez son père à l'âge de 58 ans (fumeur) et un cancer du poumon chez sa mère à l'âge de 89 ans (non-fumeuse).
+Traitement habituel : atorvastatine 40 mg un comprimé par jour, ézétimibe 10 mg un comprimé par jour, irbésartan 150 mg un comprimé par jour et clopidogrel 150 mg un comprimé par jour.
+
+Examen physique
+"Poids : 63 kg. Taille : 157 cm. Surface corporelle : 1,66 m2. Indice de masse corporelle (IMC) : 26 kg/m2 . État général : 0 (ECOG).
+"Conscient et orienté. Pas de lymphadénopathie palpable. Sein gauche avec cicatrice au niveau du quadrant supéro-interne sans érythème ni signe de surinfection. Sein droit sans altération notable. Pas d'adénopathie latérocervicale ou sus-claviculaire. Auscultation cardio-pulmonaire sans altération. Pas d'organomégalie ni de masse abdominale. Pas d'ascite. Pas d'œdème malléolaire. Le reste est sans intérêt.
+
+Examens complémentaires
+La patiente a été diagnostiquée à la suite d'une mammographie de contrôle réalisée le 3 novembre 2016 lors du suivi du CLIS. Celle-ci a révélé un nodule spiculé de 5 mm dans le tiers postérieur de la jonction du quadrant inférieur du sein gauche.
+Une biopsie à l'aiguille de la lésion a été réalisée, dans laquelle des cellules compatibles avec un carcinome infiltrant ont été détectées, et une immunohistochimie a été réalisée avec des résultats négatifs pour les récepteurs hormonaux (RH) (œstrogènes et progestérone), avec un indice de prolifération (KI 67) de 30 % et une surexpression positive du récepteur HER-2 (HERCEPTEST +++/+++).
+Sur le plan analytique, la patiente ne présentait pas d'altérations pertinentes ni d'élévation des principaux marqueurs tumoraux (CEA et Ca 15. 3).
+Le 5 décembre 2016, une IRM mammaire bilatérale a été réalisée pour compléter la stadification loco-régionale au cours de laquelle une lésion infiltrante de 7 mm a été identifiée dans le sein gauche à l'endroit indiqué précédemment, située à 1,2 mm du grand pectoral ipsilatéral et sans signe d'infiltration de ce dernier.
+
+Diagnostic
+Carcinome canalaire infiltrant de 7 mm du sein gauche de sous-type HER-2 enrichi avec stadification pré-chirurgicale cT1bN0Mx (stade I).
+
+Traitement
+Après évaluation par le comité des tumeurs mammaires, il a été décidé de procéder à une tumorectomie avec biopsie sélective du ganglion lymphatique sentinelle (BSGC). L'opération a été réalisée le 14 décembre 2016 sans complications. Au cours de l'intervention chirurgicale, un résultat négatif de la SLNB a été rapporté et n'a donc pas été étendu à la lymphadénectomie.
+Le résultat anatomopathologique de la pièce opératoire était un carcinome canalaire infiltrant de grade deux de 8 mm dans le quadrant-union inféro-interne des quadrants inférieurs du sein gauche. Aucune perméation vasculaire ou infiltration périneurale n'a été détectée, laissant les bords chirurgicaux libres. Le résultat de la BSGC a été l'isolement d'un seul ganglion lymphatique sans aucun signe de métastase (<100 nombre de copies).
+Par la suite, elle a bénéficié d'un traitement adjuvant de chimiothérapie selon le schéma hebdomadaire paclitaxel 80/m2 associé au trastuzumab (4 mg/kg en dose de charge, 2 mg/kg par la suite) pendant douze semaines (du 3 février 2017 au 28 avril 2017). Par la suite, il a débuté un traitement de radiothérapie locale le 31 mai 2017, dont la fin est prévue le 11 juillet 2017, et a poursuivi un traitement adjuvant par trastuzumab pendant un an (6 mg/kg) toutes les 3 semaines.
+
+Évolution
+Un ajustement de dose a été nécessaire, réduisant la dose de paclitaxel de 15% au 5ème cycle en raison d'une neurotoxicité de grade 2. Sinon, la tolérance au traitement par paclitaxel et trastuzumab a été bonne, sans détérioration significative de la fonction rénale, hépatique ou cardiaque, ni autre toxicité grave.
+Actuellement, la neurotoxicité est en rémission et elle poursuit le traitement radiothérapeutique, ayant reçu la dernière dose de trastuzumab intraveineux le 09/06/2017.

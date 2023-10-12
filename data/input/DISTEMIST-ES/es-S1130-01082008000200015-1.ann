@@ -1,0 +1,14 @@
+T1	pathologie 164 186	fístula biliar externa
+T2	pathologie 342 348	biloma
+T3	pathologie 487 501	fístula biliar
+T4	pathologie 665 687	fístula biliar externa
+T5	pathologie 1065 1087	fístula biliar externa
+T6	pathologie 1555 1561	lesión
+T7	pathologie 1808 1814	lesión
+#1	SNOMED T1	53206008
+#2	SNOMED T2	235932003
+#3	SNOMED T3	53206008
+#4	SNOMED T4	53206008
+#5	SNOMED T5	53206008
+#6	SNOMED T6	417163006
+#7	SNOMED T7	417163006

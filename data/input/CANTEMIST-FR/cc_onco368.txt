@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 83 ans ayant des antécédents d'hypertension sous traitement par Enalapril et Hydrochlorothiazide.
+En juillet 2009, elle a subi une hystérectomie, une double annexectomie, une omentectomie et le retrait d'implants péritonéaux, avec un diagnostic de carcinome ovarien peu différencié de stade IIIC. Elle a reçu 6 cycles de traitement adjuvant au carboplatine-paclitaxel avec des marqueurs tumoraux négatifs et a continué à subir des contrôles périodiques. Il est resté sans signe de maladie jusqu'en octobre 2013, lorsqu'une tomographie axiale informatisée (CAT) du corps a révélé une masse nécrotique de 4 cm de diamètre dans le ligament gastro-hépatique avec une faible élévation sérologique, de sorte qu'il a été décidé de maintenir une attitude d'attente.
+En avril 2014, elle a présenté des vertiges, une instabilité de la démarche et une faiblesse des membres inférieurs qui l'empêchaient de se tenir debout toute seule. Elle souffrait également de nausées et de vomissements, ainsi que de céphalées holocrâniennes constantes. Après avoir été évaluée par le service de neurologie, elle a été admise à l'hôpital pour des examens complémentaires.
+
+Examen physique
+L'examen neurologique révèle une désorientation temporelle, une inattention et une bradypsychie ; les tests fonctionnels cérébelleux révèlent une décomposition des mouvements avec une dysmétrie marquée des extrémités gauches, une impossibilité de se tenir debout sans aide et une démarche ataxique et instable avec une augmentation de la base d'appui sans entraînement préférentiel. Le reste de l'examen physique est sans particularité.
+
+Examens complémentaires
+L'hémogramme et la biochimie, y compris la vitamine B12 et l'acide folique, sont normaux. Cependant, des marqueurs tumoraux élevés sont documentés avec un CA125 de 54,3 U/mL, un CA 15.3 de 191 U/mL et un CA 19.9 de 108 U/mL. Une tomodensitométrie crânienne a été réalisée et n'a révélé que des signes modérés d'atrophie corticale et des lésions ischémiques de petits vaisseaux. L'imagerie par résonance magnétique (IRM) crânienne a corroboré ces résultats et un électroencéphalogramme vidéo a montré une activité cérébrale normale. L'examen neurologique a été complété par une ponction lombaire et une analyse du liquide céphalo-rachidien (LCR), qui a révélé la présence d'anticorps anti-neuronaux anti-Tr sans autre altération.
+Une tomographie par émission de positons (TEP) a mis en évidence une augmentation du métabolisme dans une adénopathie sus-claviculaire gauche (SUVmax 6,24) ainsi que dans la masse déjà connue du ligament gastro-hépatique (SUVmax 10,68) qui avait légèrement augmenté de taille par rapport à la tomodensitométrie d'octobre 2013. Compte tenu de ces résultats, il a été décidé de réaliser une biopsie échoguidée de la lésion située dans le ligament gastro-hépatique et le rapport d'anatomopathologie a exclu l'origine hématologique des lésions, décrivant un tissu infiltré par un carcinome compatible avec une origine gynécologique.
+
+Diagnostic
+Un diagnostic de dégénérescence cérébelleuse subaiguë d'origine paranéoplasique avec anticorps anti-Tr positifs est établi chez une patiente atteinte d'un carcinome ovarien peu différencié avec progression ganglionnaire.
+
+Traitement
+La patiente a commencé un traitement avec des corticostéroïdes intraveineux à forte dose et une nouvelle ligne de chimiothérapie avec du Carboplatine, dont elle a reçu un premier cycle le 05-06-2014.
+
+Évolution
+Malgré le traitement mis en place, l'évolution de la patiente a été marquée par l'absence d'amélioration de ses symptômes neurologiques et une détérioration clinique progressive qui a empêché sa prise en charge en ambulatoire. Elle a finalement été transférée dans un centre de soins chroniques où elle est restée jusqu'à son décès le 23-06-2014.

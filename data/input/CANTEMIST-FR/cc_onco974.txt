@@ -1,0 +1,35 @@
+Anamnèse
+Un patient de 71 ans, ayant des antécédents d'hypertension, a été envoyé en urologie en raison d'une découverte fortuite d'un PSA 8 lors d'une analyse sanguine de routine en septembre 2010. Il était asymptomatique sur le plan urologique. Une biopsie de la prostate a été réalisée et a révélé un adénocarcinome de Gleason 8 (3 + 5). Une étude d'extension a été demandée avec un scanner thoraco-abdominal et une IRM pelvienne, qui n'ont montré aucun signe de métastase à distance, et il a donc subi une prostatectomie radicale en novembre 2010. L'étude de la pièce a montré un adénocarcinome prostatique de Gleason 8 (3 + 5) avec extension au tiers moyen et crânien des deux lobes et avec atteinte de la capsule, mais en respectant la graisse périprostatique. Images multiples de l'invasion périneurale.
+Le patient a été adressé à la radio-oncologie, qui a commencé un blocage androgénique complet avec du bicalutamide et de la goséréline, ainsi qu'une radiothérapie externe. En juin 2014, alors que le patient était asymptomatique, le taux de PSA a été détecté à 0,35 et le bicalutamide a été retiré. Malgré cela, le taux de PSA a continué à augmenter, atteignant 0,76 en décembre 2014. Un scanner et une scintigraphie osseuse ont été demandés, montrant de multiples adénopathies cervicales, médiastinales et rétropéritonéales, ainsi que de multiples images de blast dans pratiquement tout le squelette en relation avec des métastases. Le patient a été adressé au service d'oncologie médicale en mars 2015, date à laquelle le taux de PSA était déjà de 2,95, soit une période de doublement du PSA de moins de 3 mois. Bien que le patient soit asymptomatique à ce moment-là, un traitement par docétaxel-prednisone est proposé. Le dénosumab est également administré en raison de la forte charge de la maladie dans les os porteurs.
+Son traitement a débuté en avril 2015 avec un PSA de base de 5,01. Elle a reçu 6 cycles avec une très bonne tolérance avec une diminution progressive du PSA jusqu'à 2,54 avec une réponse partielle de la maladie. Il a terminé 10 cycles avec une stabilisation de la maladie et des niveaux de PSA, qui sont restés à 2,52 en décembre 2015. Asymptomatique, du point de vue de la maladie métastatique à tout moment. Il a été décidé de poursuivre le traitement avec la goséréline et le denosumab.
+En février 2016 et avec l'incontinence comme seule manifestation clinique, PSA 6,33. Une nouvelle analyse a été effectuée un mois plus tard et le PSA s'est révélé être de 15,21. Une nouvelle tomodensitométrie et une scintigraphie osseuse n'ont montré aucun changement significatif par rapport à l'étude précédente, bien que certains ganglions lymphatiques aient montré une légère augmentation.
+Un traitement à l'abiratérone et à la prednisone a été mis en place et, après deux mois de traitement, en avril 2016, un PSA de 45,9 a été trouvé, ainsi qu'une Hb de 8,9, des leucocytes totaux de 2 260 avec 1 440 cellules polymorphonucléaires et 75 000 plaquettes. Elle présentait des douleurs osseuses accrues, une asthénie et une anorexie. Le traitement a été maintenu et l'analyse sanguine a été répétée avec un PSA de 44, une Hb de 7,5, des leucocytes totaux de 2 600 avec 1 700 cellules polymorphonucléaires et 68 000 plaquettes. Le patient a été transfusé et le traitement à l'abiratérone a été maintenu, bien que le corticostéroïde ait été remplacé par de la dexaméthasone et que la dose ait été augmentée pour tenter de contrôler la douleur osseuse.
+Au contrôle suivant, amélioration discrète de l'état général, PSA 32, Hb 8,4, leucocytes totaux 2 100 avec 1 100 polymorphonucléaires.
+1 100 polymorphonucléaires et 60 000 plaquettes. Compte tenu de la diminution du taux de PSA, le traitement a été maintenu à pleine dose et il a été supposé que, compte tenu de la charge élevée de la maladie osseuse, les chiffres de l'hémogramme pouvaient être justifiés.
+En septembre 2016, elle a consulté aux urgences pour une dégradation de l'état général, une asthénie, une dyspnée à l'effort modérée et une diarrhée liée à une gastro-entérite.
+
+Examen physique
+"Patient en bon état général, pâleur cutanéo-muqueuse et déshydratation muqueuse marquée.
+"Afebrile. TA 109/59 mm Hg. FC 90 bpm. SatO2 basale 96 %. Diurèse au cours des 12 dernières heures : 300 cc.
+"SVA de base 2/10.
+"Auscultation cardiorespiratoire normale.
+"Examen abdominal : normal.
+"Pas d'œdème périphérique.
+
+Tests complémentaires
+Examens de laboratoire :
+"Hémogramme : Hb 7,7, leucocytes 890 dont 440 polymorphonucléaires ; plaquettes 43 000.
+"Biochimie : créatinine 1,52 (normale auparavant), GOT 26, GPT 12, GGT 113, phosphatase alcaline 1 580, profil ionique normal, LDH 1 198, CRP 24.
+Échographie abdominale : foie légèrement hypertrophié sans LOE. Reste sans résultats pertinents.
+Au vu des résultats de l'hémogramme, le patient a subi une biopsie de la moelle osseuse. Le rapport d'anatomopathologie montre d'abondants nids de cellules tumorales avec expression de chromogranine, de synaptophysine et d'énolase et une négativité pour les récepteurs androgéniques et le PSA.
+
+Diagnostic
+Pancytopénie secondaire à une infiltration de la moelle osseuse par un carcinome de la prostate à différenciation neuroendocrine.
+
+Traitement
+Le traitement à l'abiratérone a été interrompu et un traitement de soutien avec fluidothérapie intensive et transfusion de concentrés de globules rouges a été administré. Une réévaluation de la maladie a été demandée avec une scintigraphie osseuse, qui a montré une progression de la maladie osseuse à plusieurs niveaux avec une atteinte de la quasi-totalité du squelette axial.
+
+Évolution
+Après une amélioration clinique initiale, le patient a commencé à présenter une détérioration de l'état de conscience et une fièvre fébrile sans foyer infectieux apparent. Une antibiothérapie à base de céfépime a été instaurée avec disparition de la fièvre, mais sans amélioration de l'état général. La diminution de l'état de conscience s'est progressivement aggravée et elle a commencé à présenter des épisodes d'agitation psychomotrice, si bien qu'un scanner crânien a été demandé.
+Celui-ci a montré une image d'environ 8 cm en extraaxial, probablement liée à un hématome sous-dural évolué, avec une image de rehaussement d'environ 1 cm, compatible avec un foyer hémorragique subaigu, sans qu'il soit possible d'exclure la présence de métastases.
+L'état du patient s'est rapidement détérioré et il est décédé 6 ans après le diagnostic initial et 19 mois après le diagnostic de la maladie métastatique.

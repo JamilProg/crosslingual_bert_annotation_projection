@@ -1,0 +1,32 @@
+T1	pathologie 129 135	lesión
+T2	pathologie 208 230	traumatismo penetrante
+T3	pathologie 426 440	quiste de iris
+T4	pathologie 542 558	cicatriz corneal
+T5	pathologie 736 742	lesión
+T6	pathologie 960 966	quiste
+T7	pathologie 971 977	lesión
+T8	pathologie 1015 1039	quiste epitelial de iris
+T9	pathologie 1101 1107	quiste
+T10	pathologie 1145 1151	quiste
+T11	pathologie 1513 1537	atrofia extensa del iris
+T12	pathologie 1582 1614	inflamación intraocular moderada
+T13	pathologie 1683 1701	sinequia posterior
+T14	pathologie 1737 1745	catarata
+T15	pathologie 1892 1949	pupila ovalada en sentido vertical con sinequia posterior
+T16	pathologie 2014 2020	lesión
+#1	SNOMED T3	37761009
+#2	SNOMED T4	95726001
+#3	SNOMED T8	414114004
+#4	SNOMED T11	95709007
+#5	SNOMED T14	193570009
+#6	SNOMED T15	79017007+111512005
+#7	SNOMED T1	417163006
+#8	SNOMED T5	417163006
+#9	SNOMED T7	417163006
+#10	SNOMED T16	417163006
+#11	SNOMED T2	417746004
+#12	SNOMED T6	441457006
+#13	SNOMED T9	441457006
+#14	SNOMED T10	441457006
+#15	SNOMED T12	128295000
+#16	SNOMED T13	111512005

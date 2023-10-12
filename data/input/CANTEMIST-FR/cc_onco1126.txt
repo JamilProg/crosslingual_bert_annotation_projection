@@ -1,0 +1,55 @@
+Anamnèse
+Motif de l'admission
+Patient de 67 ans signalant une perte de poids au cours des dernières semaines associée à une asthénie modérée, une insomnie et une douleur dans la région inguinale droite. Les examens de laboratoire ont révélé une hémoglobine de 11,2 g/dl [13,5 - 18 g/dl] et le reste de l'hémogramme était normal. Il a été adressé au service d'hématologie pour des examens complémentaires.
+
+Antécédents personnels
+Ex-fumeur. Hypertension contrôlée par Hydrochlorothiazide 25 mg/jour et Losartan 100 mg/jour. Ischémie coronarienne. Pas de diabète sucré ni de dyslipidémie.
+
+Evolution clinique et traitement
+Le médecin de premier recours revoit et adapte le traitement de sa pathologie coronarienne, en prescrivant : des patchs transdermiques de nitroglycérine 5 mg, de l'acide acétylsalicylique 100 mg/jour, de l'aténolol 50 mg/jour, de l'oméprazole 20 mg/jour, du sulfate de ferroglycine 100 mg/jour. Hydrochlorothiazide 25 mg/jour et Losartan 100 mg/jour.
+
+Le service d'hématologie a entamé une étude sur la suspicion d'anémie normocytaire et normochrome de nature régénérative. Les résultats les plus importants sont les suivants :
+
+- Examen physique : splénomégalie de 17 cm.
+
+- NFS : Hb : 11,2 g/dL, Ferritine 686 g/dL [30 - 400 g/dL], Lactate déshydrogénase LDH : 1178 UI/L [135 - 214 UI/L]. Phosphatase acide (PA) : 130 UI/L [2,5-11,7 UI/L], Antigène spécifique de la prostate (PSA) : 6,93 ng/ml [0,1-6,5 ng/ml].
+
+- Examen du sang périphérique : anisopoikilocytose, abondance de dacryocytes, de schistocytes et d'érythroblastes compatible avec un syndrome myélodysplasique.
+
+- Etude génétique : mutation V617F du gène JAK2 positive. Caryotype 46XY, t (8;12) (q24;q22), groupe de risque défavorable pour l'anomalie isolée +8.
+
+Un syndrome myéloprolifératif idiopathique de type myélofibrose a été diagnostiqué et classé à risque intermédiaire-1 selon l'index pronostique du Dynamic International Prognostic Scoring System (DIPPS). En raison de l'âge du patient et de son groupe de risque, une greffe allogénique n'était pas indiquée et il a été décidé de ne pas commencer de traitement car le patient était asymptomatique. Le patient est suivi tous les mois.
+
+Pendant un an, le patient est resté stable, avec une hémoglobine moyenne de 10,8 g/dl, une LDH de 1 122 UI/l et une splénomégalie asymptomatique.
+
+Deux ans après le diagnostic, les résultats les plus notables sont une anémie chronique avec une hémoglobine moyenne (9,64 g/dl), une augmentation de la LDH (1512 UI/L) et une splénomégalie croissante.
+
+Le patient est revenu à la clinique en signalant une asthénie, une diarrhée et une splénomégalie symptomatique importante de 14 cm à la palpation. Il a donc été décidé d'introduire un traitement cytoréducteur à l'hydroxyurée, qui a révélé une leucocytose importante de 14,72 x10e3/mcl [4-10 x10e3/mcl].72 x10e3/mcl [4-10 x10e3/mcl], bien qu'en raison de la diarrhée importante, de l'asthénie et de la faiblesse, il a été décidé d'attendre six mois jusqu'à ce que les symptômes s'améliorent, et 500 mg d'hydroxyurée ont été prescrits deux fois par jour.
+
+Après un mois de traitement, le Lenalidomide 10mg/12 heures a été remplacé par le Lenalidomide, l'utilisation hors AMM étant due à son effet immunomodulateur et au fait qu'il affecte moins la série rouge que les cytoréducteurs tels que l'hydroxyurée, et qu'il peut améliorer l'anémie. Le traitement a été maintenu pendant 11 jours, mais il a été décidé de l'interrompre en raison des effets secondaires du médicament, à savoir la fièvre et l'infection des voies respiratoires inférieures.
+
+Un mois plus tard, le traitement a été repris avec 500 mg/12 heures d'hydroxyurée pour réduire la splénomégalie symptomatique, en essayant de maintenir l'hémoglobine au-dessus de 10 g/dl.
+
+Deux ans et demi après le diagnostic et six mois après un traitement à l'hydroxyurée, la patiente a été réévaluée. L'analyse sanguine a montré : Hb 11,4 g/dl, plaquettes 276 x103/mcl. Les analyses du sang périphérique ont révélé la présence de myélocytes, de métamyélocytes, de 22 % d'érythroblastes et de 8 % de blastes d'aspect myéloïde. L'examen physique a révélé une splénomégalie palpable et symptomatique mesurant 24 cm.
+
+Compte tenu de l'augmentation des blastes, le patient est considéré comme appartenant au groupe de risque intermédiaire 2 et il est décidé de remplacer l'hydroxyurée par le Ruxolitinib, un médicament approuvé par la FDA et l'EMEA pour la myélofibrose.
+
+Le traitement commence par des doses initiales de 15 mg/12h pour tester la tolérance. Après un mois de traitement, la tolérance au médicament est bonne, il y a une réduction significative de la taille de la rate et les symptômes tels que l'asthénie et la faiblesse s'améliorent, il est donc décidé d'augmenter la dose à 20 mg /12 heures. Le patient est revu toutes les trois semaines pour un suivi plus étroit.
+
+Trois ans se sont écoulés depuis le diagnostic de la maladie et six mois depuis le début du traitement par Ruxolitinib. Les dernières analyses sanguines montrent une diminution de l'Hb de 11,8 g/dl à 8,8 g/dl, des plaquettes de 173 x10e3/mcl à 100 x10e3/mcl, de la LDH de 2 800 UI/ml à 850 UI/ml. En outre, la taille de la rate à la palpation a diminué de 17 cm à 8 cm.
+
+En raison de l'aggravation du tableau hématologique, il a été décidé de transfuser des concentrés de globules rouges. L'érythropoïétine 40 000 UI tous les dix jours et une prophylaxie antiherpétique à l'Acyclovir 800 mg/jour ont été ajoutées à son traitement.
+
+Deux mois plus tard, la patiente s'est présentée au service des urgences pour des évacuations liquides sans produits pathologiques, environ 15 fois par jour, sans association avec des aliments ou des médicaments.
+
+La NFS montre : Hb 9,3 g/dl, Ht 26,9, plaquettes 84 x10e3/mcl, leucocytes 5,14 x10e3/mcl, neutrophiles 37,2 x10e3/mcl, lymphocytes 41,4 x10e3/mcl.
+
+Le traitement par ruxolitinib peut entraîner des effets indésirables hématologiques, notamment une thrombocytopénie, une anémie et une neutropénie. Les doses de ruxolitinib sont ajustées en fonction de la sécurité et de l'efficacité. Selon l'étiquette, le traitement doit être interrompu lorsque le nombre de plaquettes est inférieur à 50 x10e3/mcl ou que le nombre absolu de neutrophiles est inférieur à 0,5 x10e3/mcl. Si le nombre de plaquettes tombe en dessous de 100 x10e3/mcl, une réduction de la dose doit être envisagée.
+
+Le service de pharmacie recommande de réduire la dose de Ruxolitinib à 10 mg/12 heures, d'administrer un concentré de globules rouges et de prescrire de l'érythropoïétine 40 000 UI deux fois par semaine.
+
+Après un mois, le patient présente une Hb de 11,1 g/dl, des plaquettes de 128 x10e3/mcl et des leucocytes de 8 490/mcl (2720 N). La dose de Ruxolitinib est à nouveau augmentée à 15mg/12 heures. Le patient a été programmé pour des contrôles hématologiques toutes les deux semaines.
+
+Le patient est maintenant sous traitement par Ruxolitinib depuis plus de trois ans et demi depuis le diagnostic et a été sous Ruxolitinib bien toléré pendant plus de six mois. Il n'y a pas eu de complications pendant cette période. La dernière analyse de sang montre : Hb : 12,1 g/dl, plaquettes 122 x103/mcl et LDH : 1111 UI. Il présente toujours une splénomégalie asymptomatique et continue d'être suivi par le service d'hématologie toutes les trois semaines.
+
+Le traitement actuel consiste en Ruxolitinib 15mg/12 heures ; Erythropoïétine 40,000 IU tous les 10 jours ; Nitroglycérine 5mg patchs transdermiques ; Acide acétylsalicylique 100mg/jour ; Atenolol 50mg/jour ; Omeprazole 20mg/jour ; Fesoterodine 4mg/jour.

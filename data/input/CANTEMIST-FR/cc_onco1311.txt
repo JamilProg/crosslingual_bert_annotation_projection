@@ -1,0 +1,21 @@
+Anamnèse
+Un homme de 63 ans, fumeur, a été admis pour investigation en février 2011 en raison de la présence d'une masse inguinale gauche, d'une toux peu productive, d'une asthénie et d'une perte de poids de 8 kg en l'espace d'un mois.
+
+Examen physique
+Des adénopathies dures et adhérentes ont été observées dans la région latérocervicale gauche, la région supraclaviculaire gauche et la région inguinale gauche, mesurant jusqu'à 1,5 cm. Il n'y a pas d'autres observations dignes d'intérêt.
+
+Tests complémentaires
+Un bilan sanguin complet a été réalisé, avec une Hb de 9,9 g/dl et une ESR de 120 mm, et une sérologie négative pour le VHC, le VHB et le VIH. La radiographie du thorax montre un épaississement hilaire bilatéral avec un nodule pulmonaire dans le lobe supérieur gauche. La tomodensitométrie (TDM) confirme la présence d'adénopathies pathologiques dans le médiastin et le rétropéritoine, ainsi qu'une masse spiculée dans le lobe supérieur gauche.
+Une biopsie de l'adénopathie cervicale confirme le diagnostic de lymphome diffus à grandes cellules B, de même qu'une aspiration transthoracique de la masse pulmonaire, qui est positive pour un carcinome épidermoïde modérément différencié.
+
+Diagnostic
+Lymphome B diffus à grandes cellules non hodgkinien de stade III B IPI 3.
+Carcinome pulmonaire non à petites cellules de stade IIIA, sous-type épidermoïde.
+
+Traitement
+Il a été traité par R-CHOP x 6 cycles entre février et juin 2011. La réévaluation par TEP-TDM a montré une réponse complète de toutes les lésions ganglionnaires, à l'exception de celles de la région hilaire gauche, ainsi qu'une progression due à l'augmentation de la taille de la tumeur pulmonaire, qui a été stadifiée comme EIIIA (cT3cN1M0).
+Entre juillet et août 2011, il a reçu une chimiothérapie néoadjuvante avec CDDP 80 mg/m2 iv + vinorelbine orale 60 mg/m2 x 3 cycles, suivie d'une lobectomie supérieure gauche et d'une lymphadénectomie confirmant l'atteinte ganglionnaire dans 1/14 ganglions isolés.
+
+Évolution
+En avril 2012, après 8 mois d'intervalle sans maladie, une masse de tissu mou a été détectée dans la cage thoracique gauche, avec une biopsie positive pour un carcinome épidermoïde. Après avoir écarté toute possibilité de résection par chirurgie thoracique, le patient a reçu un traitement par carboplatine AUC2-paclitaxel 80 mg/m2 iv hebdomadaire concomitant à une radiothérapie thoracique, avec une réponse radiologique complète.
+Le suivi n'a connu aucune progression jusqu'en février 2013, date à laquelle il a présenté une crise d'épilepsie, confirmant la présence d'une métastase cérébrale unique dans le lobe temporal gauche à l'imagerie par résonance magnétique (IRM) du cerveau, avec une étude d'extension négative. Le patient a été envoyé en neurochirurgie pour une résection de la tumeur, avec un diagnostic histologique de métastase de carcinome épidermoïde. Le patient a terminé le traitement par une radiothérapie holocrânienne palliative et a été suivi jusqu'à ce jour.

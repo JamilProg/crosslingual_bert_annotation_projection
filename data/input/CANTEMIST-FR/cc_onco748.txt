@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 26 ans sans antécédents médicaux ou chirurgicaux intéressants et sans antécédents familiaux de cancer. Il a été adressé au service de neurologie pour une étude en raison de trois crises d'absence autolimitées au cours de la semaine précédant l'étude. Il n'avait pas d'habitudes toxiques et ne prenait pas de médicaments régulièrement.
+
+Examen physique
+Patient avec un ECOG de 0, ne présentant pas d'anomalie à l'examen de l'appareil, ni de focalité neurologique.
+
+Examens complémentaires
+IRM (avril 2015) : tumeur intra-axiale dans la région temporale médiane droite provoquant un déplacement médial de l'hippocampe et un déplacement crânien de la corne temporale. Origine probable dans la substance cortico-sous-corticale parahippocampique temporale. Taille 31 x 31 x 37 mm. Hypersignal en séquences T2. Prise de contraste intense et homogène avec une zone de moindre prise et de petites zones kystiques dans sa zone périphérique postérieure. Oedème de voisinage au niveau de l'apex temporal antérieur. Pas de restriction de la diffusion.
+
+Diagnostic
+"Suspicion initiale avec les résultats de l'IRM : gliome temporal droit de bas grade.
+"Diagnostic final après confirmation pathologique : gangliogliome anaplasique temporal droit.
+
+Traitement
+Le 21 avril 2015, une craniotomie temporale droite et une excision totale de la lésion intra-axiale ont été réalisées. L'IRM post-IQ a confirmé l'absence de restes tumoraux.
+L'anatomie pathologique décrit une tumeur constituée d'une population mixte gliale et neuronale. La composante astrocytaire présente des zones de faible atypie nucléaire avec formation de microkystes, entrecoupées de zones de cellularité accrue, d'atypie, de prolifération microvasculaire et de quelques mitoses. La population neuronale est composée de neurones dysmorphiques disposés de manière inégale et formant de petits groupes. L'étude IHC montre une positivité focale et isolée pour P53, une négativité pour IDH1 et une expression diffuse d'ATRX. Le Ki67 dans les zones de plus forte cellularité est d'environ 15 %. Diagnostic concluant avec un gangliogliome anaplasique focal (grade III de l'OMS).
+
+Evolution
+Compte tenu de l'absence de reliquat tumoral après la chirurgie, il a été décidé de ne pas réaliser de traitement complémentaire et la patiente a effectué des contrôles avec une progression tumorale précoce 3 mois après la chirurgie (juillet 2015) avec l'apparition d'une zone de captation de 16,6 mmLL x 8,1 mmAP et 5,2 mmCC dans le site chirurgical, la patiente était asymptomatique. Le comité des tumeurs a décidé d'une radiothérapie (RT) par tomothérapie (60 Gy à 2 Gy/fraction), qui s'est terminée en septembre 2015, sans toxicité.
+Lors de la première IRM post-RT (octobre 2015), il y avait encore une zone de captation fusiforme de 23 mmLL x 18 mmAP et 15 mmCC dans la substance blanche collatérale du gyrus parahippocampique avec des rapports de perfusion maximaux de 5,1. Il a été évalué par le comité des tumeurs en vue d'un sauvetage chirurgical ; étant donné l'absence de symptômes associés, il a été décidé de suivre l'évolution du patient. A l'IRM de juillet 2016 (10 mois après RT) progression tumorale avec une lésion de 40 mmLL x 41 mmAP x 24 CC, une nouvelle intervention chirurgicale a été réalisée avec persistance de reliquats tumoraux dans la marge antéro-médiale du lit chirurgical.
+Après la chirurgie (août 2016), elle a commencé un traitement systémique palliatif par témozolamide 200 mg/m2 jours 1-5/28 jours avec une progression de la maladie après le 4e cycle (PFS 4 mois). Aucune toxicité liée au traitement, la patiente reste asymptomatique.
+Une étude BRAF a été demandée et une mutation V600 a été trouvée. Après revue de la littérature, un traitement par vemurafenib (960 mg/12 heures) a été décidé et débuté en décembre 2016. Réponse partielle après le 3e cycle avec une réduction de 40% du volume tumoral et réponse soutenue après le 6e cycle. Progression tumorale après le 9e cycle avec apparition d'un nouveau nodule tumoral, patient asymptomatique (PFS 10 mois). Bonne tolérance au traitement avec érythème de grade 1 et kératoacanthome sur la lèvre qui a été réséqué.
+En octobre 2017, alors qu'il était asymptomatique, il a débuté une nouvelle ligne de traitement par dabrafenib 150 mg/12 h, jours 1 à 28 + trametinib 2 mg/24h jours 1-28 tous les 28 jours avec une progression asymptomatique après le 3e cycle (janvier 2018). À ce moment-là, le patient a décidé d'arrêter le traitement.
+En avril 2018, il a été opéré en urgence pour une hypertension intracrânienne secondaire à un saignement tumoral et est actuellement en attente d'une évolution clinique pour évaluer son inclusion dans un essai clinique.

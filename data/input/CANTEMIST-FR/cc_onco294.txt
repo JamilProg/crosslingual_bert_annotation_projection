@@ -1,0 +1,25 @@
+Anamnèse
+Homme de 56 ans, ex-fumeur depuis 6 mois, avec les antécédents personnels suivants : hypertension, diabète sucré de type 2, hyperthyroïdie et a subi une hémicolectomie avec colostomie transverse en raison d'une obstruction intestinale et d'un anévrisme de l'aorte abdominale par chirurgie endovasculaire. Il n'avait pas d'antécédents familiaux intéressants.
+
+Le patient s'est présenté au service des urgences parce qu'il signalait des douleurs anales d'une durée de 2 à 3 mois qui ne s'amélioraient pas avec un traitement analgésique et des mesures hygiéno-diététiques, le diagnostic étant celui d'une fissure anale. La douleur est intermittente, irradie vers les testicules, n'est pas liée à la défécation, sans émission de sang ou de produits pathologiques, et s'accompagne d'une pollakiurie, d'une strangurie et d'une nycturie. Ces derniers jours, il a signalé des urgences rectales et vésicales. Pas de fièvre ni de syndrome constitutionnel.
+
+Examen physique
+Inspection anale normale, pas d'hypertonie du sphincter, pas de fissure anale. L'examen rectal révèle une prostate volumineuse et dure, très douloureuse à la palpation.
+Examens complémentaires
+- NFS : hémogramme, biochimie et coagulation dans les valeurs normales. CEA 745.7 PSA 1.79.
+- Imagerie par résonance magnétique (IRM) du bassin : masse tumorale d'environ 6,5 x 5,5 x 3 cm, dépendant du lobe prostatique droit, de morphologie irrégulière et d'intensité de signal hétérogène, avec extension extracapsulaire vers le faisceau neurovasculaire droit et vers les vésicules séminales droites et le plancher de la vessie.
+- Tomodensitométrie thoraco-abdomino-pelvienne : multiples images nodulaires subcentimétriques dans les deux champs pulmonaires en relation avec une métastase. Multiples images hypodenses dans les deux lobes hépatiques, suspectes de malignité. Adénopathies dans les chaînes iliaques externe et interne.
+- Scintigraphie osseuse (GGO) : augmentation de la captation dans l'omoplate droite, le fémur gauche, l'acétabulum droit et, pour compléter l'étude, des images ont été obtenues par SPECT-CT de la colonne lombaire montrant une hyper captation dans le corps vertébral de L4, S1, l'apophyse épineuse de L2, l'acétabulum droit et l'iliaque gauche.
+- Biopsie de la prostate : carcinome neuroendocrine à petites cellules de la prostate, avec infiltration périneurale et positivité pour les marqueurs neuroendocriniens (synaptophysine, chromogranine et énolase) et la cytokératine AE1/AE3.
+
+Diagnostic
+Carcinome neuroendocrine microcytaire de la prostate avec métastases pulmonaires, hépatiques et osseuses, stade IV (T4N2M1).
+
+Traitement
+Après le contrôle des symptômes, le premier et unique cycle de QT avec du cisplatine et de l'étoposide a été prescrit. Une consultation palliative avec l'oncologie radiologique a été effectuée pour évaluer la radiothérapie analgésique pelvienne en raison de la douleur qui ne disparaissait pas avec les dérivés de la morphine, mais son administration concomitante avec le QT a été exclue en raison de la toxicité.
+
+Évolution
+Le patient a été admis au service de chirurgie générale en raison d'une suspicion de fissure anale réfractaire au traitement. Après l'avoir exclue et avoir suspecté une prostatite, il a été adressé au service d'urologie, qui a demandé une IRM pelvienne dont les résultats ont révélé un probable carcinome de la prostate, qui a été confirmé par une biopsie. Une étude d'extension a été réalisée avec un scanner et un GGO, détectant des métastases osseuses, hépatiques et pulmonaires.
+Lors de l'admission, la douleur était incontrôlable, ce qui a nécessité une surveillance et un traitement par l'unité de traitement de la douleur. La douleur est si intense que la sédation est même envisagée.
+Après le diagnostic, le patient a été envoyé en oncologie pour commencer une chimiothérapie palliative (QT), mais celle-ci a été retardée en raison d'un mauvais contrôle de la douleur et d'une hyponatrémie secondaire à un SIADH.
+Le troisième jour après la QT, le patient a commencé à présenter des symptômes fébriles, des douleurs abdominales et des vomissements de marc de café, ce qui a fait suspecter une pathologie abdominale grave, mais en raison de son mauvais état général, il n'a pas pu être admis aux soins intensifs ni subir un scanner abdominal et est finalement décédé.

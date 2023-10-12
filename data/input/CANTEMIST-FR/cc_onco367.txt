@@ -1,0 +1,39 @@
+Anamnèse
+Patient masculin âgé de 71 ans adressé en avril 2014 au service d'oncologie pour évaluation du traitement.
+
+Antécédents familiaux : aucune référence, trois enfants en bonne santé.
+Antécédents personnels : pas d'allergies médicamenteuses connues. Fumeur de 30 paquets-années. Pas de buveur habituel. Diagnostiqué en 1985 avec une polyarthrite rhumatoïde suivie par un rhumatologue (il a reçu un traitement avec des anti-inflammatoires non stéroïdiens, des coticoïdes, du méthotrexate), une ostéopénie fémorale significative traitée avec du Denosumab (auparavant avec des bisphosphonates). Insuffisance rénale chronique secondaire à une néphropathie tubulointerstitielle chronique due aux AINS, diagnostiquée en 2009. Cardiopathie ischémique suivie par un cardiologue depuis 2010. Interventions chirurgicales antérieures : arthroplastie du genou droit et hernies inguinales. Exposition au soleil pendant les loisirs, coups de soleil dans sa jeunesse.
+Phototype III cheveux bruns (aujourd'hui gris) et yeux bruns, pas d'éphélides.
+
+Patiente qui, en septembre 2013, a commencé à remarquer des changements morphologiques dans une lésion pigmentée dans la région iliaque droite qu'elle avait toujours eue. La lésion a commencé à se soulever et à saigner. Son médecin généraliste l'a envoyé en dermatologie où, en raison d'une suspicion de mélanome, la patiente a subi une intervention chirurgicale le 09/10/2013, avec des résultats anatomopathologiques de mélanome à propagation superficielle, à 0,5 cm de la marge de résection, Breslow de 4 mm et 7 mitoses/mm2, stade pT3b. L'opération a été complétée par un élargissement des marges et une biopsie sélective du ganglion lymphatique sentinelle le 13/12/2013 (l'élargissement n'a montré aucun signe de néoplasie et le ganglion lymphatique était positif) et une lymphadénectomie subséquente le 14/02/2014. Stade T3, N1b, M0.
+Dans ce contexte, il a été adressé au service d'oncologie pour une évaluation du traitement.
+
+Examen physique
+Le patient était en bon état général avec un ECOG de 0, conscient, orienté et coopératif, bien hydraté et perfusé. Les cicatrices de la région iliaque droite et inguinale droite étaient en bon état, ne causaient pas de douleur et ne présentaient pas de lésions pigmentées suspectes. Auscultation cardio-respiratoire : rythmique à bonne fréquence, pas de souffle, murmure vésiculaire bilatéral préservé, pas de bruits supplémentaires. Abdomen souple, dépressible, non douloureux à la palpation, présence de bruits hydro-aériques. Membres inférieurs sans œdème ni signe de thrombose veineuse profonde. Pas d'adénopathie inguinale, axillaire ou cervicale palpable bilatéralement.
+
+Tests complémentaires
+Anatomie pathologique de la première intervention et de la lymphadénectomie :
+Chirurgie de la tumeur primaire : mélanome superficiel étalé, avec zone centrale nodulaire ulcérée (phase de croissance verticale), envahissant de 4 mm, situé à 0,5 cm de la marge de résection latérale.
+Réponse lymphocytaire péritumorale minimale. Absence d'images d'invasion tumorale vasculaire et périneurale. 7 mitoses/mm2. Stade de classification TNM pT3b.
+Lymphadénectomie inguinale : métastase de mélanome dans 1 des 7 ganglions lymphatiques isolés (1/7) sans extension extracapsulaire ni nécrose avec prédominance dans la zone sous-capsulaire.
+Le service d'oncologie a réalisé une étude d'extension par tomographie par émission de positons et tomodensitométrie (TEP-TDM, qui n'a pas montré d'atteinte à distance) et a demandé une étude de mutation BRAF.
+TEP/TDM 03/04/2014 : Étude montrant des séquelles probables de la chirurgie dans la région inguinale-iliaque gauche, des images d'aspect nodulaire/pseudonodulaire au niveau pleural/pulmonaire, prédominant à droite avec un faible taux de prolifération cellulaire, une accumulation douteuse du traceur dans le LSD et une accumulation du traceur dans la glande parotide gauche. Distribution hétérogène du traceur dans le parenchyme hépatique.
+Le reste de l'étude n'a pas donné lieu à des résultats pathologiques significatifs.
+Une analyse PCR en temps réel a détecté une mutation dans l'exon 15 du gène BRAF.
+Mutation : c. 1799T>A : p. Val600Glu (V600E).
+
+Diagnostics :
+Mélanome pT3bpN1b(2/8)M0 Stade IIIC à haut risque, BRAF muté.
+
+Traitement :
+Après l'intervention chirurgicale, le patient, en raison de ses comorbidités, n'a pas été considéré comme un candidat au traitement par interféron et il a été décidé de mettre en œuvre une stratégie de suivi actif par la dermatologie et l'oncologie, avec des échographies et des TEP tous les 6 mois. Ce suivi actif n'est pas clairement décrit dans la littérature. Des examens TEP semestriels sont en cours d'évaluation dans notre centre, en collaboration avec la dermatologie et la médecine nucléaire, et les résultats ne sont pas encore publiés.
+Après un intervalle sans maladie de 14 mois après la chirurgie, il a présenté une rechute lymphatique étendue qui a été révélée sur la TEP-TDM le 26/05/2015 dans la région iliaque externe gauche. Compte tenu de ces résultats et de la mise en évidence de la mutation BRAF (V600E), il a été proposé au patient de commencer un traitement par un médicament inhibiteur de BRAF (le patient n'étant pas candidat à l'immunothérapie en raison de sa polyarthrite rhumatoïde).
+Le patient a débuté un traitement par Vemurafenib 960mg/12 heures le 17/06/2015 présentant une toxicité éruption cutanée prurigineuse qui s'est améliorée sous corticoïdes et une détérioration aiguë de la fonction rénale du patient par rapport à sa maladie rénale chronique de base, ce qui a nécessité de suspendre le traitement et de réduire la dose à deux reprises jusqu'à finalement suspendre le traitement le 01/09/2015.
+Après ce traitement, le patient a présenté une réponse objective complète par TEP et est actuellement suivi avec une durée de réponse de 11 mois à ce jour.
+
+Évolution :
+L'évolution de la patiente est satisfaisante puisque depuis qu'elle a répondu au traitement, il n'y a aucun signe de nouvelle progression.
+Au cours des trois mois de traitement par le vémurafénib, la dose a dû être modifiée à deux reprises en raison de la détérioration de la fonction rénale du patient, qui souffrait déjà d'une maladie rénale chronique depuis 2009, avec un taux de créatinine de base d'environ 1,5 mg/dl, qui a dépassé 3 mg/dl après le début du traitement. Après une semaine de pause, les taux sont revenus à leur valeur de base (autour de 1,5mg/dl) et lors de la réintroduction du traitement, bien qu'à des doses plus faibles, il a d'abord été réintroduit à une dose de 720mg/12 heures, qui a dû être suspendue pendant une semaine après un mois en raison d'une détérioration similaire, puis à une dose de 480mg par jour, qu'il a finalement dû suspendre au bout de 10 jours.
+Le traitement a duré du 17/06/2015 au 01/09/2015. Une tentative a été faite pour poursuivre le traitement compte tenu de la réponse clinique et radiologique, mais avec une fonction rénale aussi détériorée, cela n'a pas été possible. Après avoir terminé le traitement, elle est retournée au service de néphrologie pour des contrôles, qui, après la normalisation des valeurs de créatinine suite à l'arrêt du médicament, n'a pas effectué d'action particulière, à l'exception d'un contrôle diététique.
+Le scanner en septembre a montré la réponse de la maladie rapportée comme une grande diminution de la taille de l'atteinte adénopathique iliaque externe gauche, et le PET-CT scan de réévaluation en décembre 2015 a montré une réponse complète.
+Suite à la réponse complète après 2 mois de traitement par Vemurafenib, le patient continue d'être surveillé, est asymptomatique et maintient cette réponse avec un nouveau PET/CT scan réalisé fin avril 2016, qui n'a pas montré de rechute de la maladie.

@@ -1,0 +1,25 @@
+Anamnèse
+Femme de 42 ans adressée en médecine digestive en juin 2016 pour un sang occulte fécal positif. Pas d'antécédents personnels intéressants et pas de traitement habituel. Elle n'a pas d'habitudes toxiques. Elle est autonome pour les activités de la vie quotidienne et travaille dans une boulangerie. Antécédents familiaux : sa mère est décédée d'un cancer du côlon à l'âge de 54 ans. Elle était en bon état général, avec un statut de performance 1, et l'examen physique était sans particularité.
+Antécédents oncologiques
+Le service de médecine digestive a effectué une analyse sanguine montrant des valeurs d'anodine et des marqueurs tumoraux dans les limites de la normale. La coloscopie a révélé une néoformation excroissante dans le côlon descendant, à 75 cm de la marge anale, couvrant la moitié de la circonférence, ulcérée au centre.
+Dans l'étude d'extension, une tomodensitométrie thoraco-abdominale-pelvienne a été réalisée, qui a montré une tumeur d'environ 4 cm, située au niveau du côlon descendant, sous l'angle splénique, intraluminale, sans atteinte apparente de la graisse adjacente. En outre, de multiples adénopathies hilaires, médiastinales et abdominales d'un diamètre allant jusqu'à 1,1 cm avec un axe court.
+Sur la base de ces résultats, une tomographie par émission de positons (PET-CT) a été réalisée, qui a également montré une activité dans les ganglions lymphatiques supra- et infradiaphragmatiques. Étant donné qu'un processus lymphoprolifératif associé ne pouvait être exclu, les adénopathies ont été étudiées par bronchoscopie ultrasonique et biopsie, et se sont révélées négatives pour les cellules malignes, avec pour résultat une lymphadénite granulomateuse correspondant à la sarcoïdose.
+Après avoir discuté du cas avec le comité multidisciplinaire, une hémicolectomie gauche par laparoscopie a été réalisée en septembre 2016. L'anatomie pathologique a révélé un adénocarcinome du côlon en fragments de tumeur villositaire, sans instabilité des microsatellites, avec une stadification finale pT2N0(0/12)M0, stade I.
+Compte tenu du bon pronostic, il a été décidé de suivre l'évolution du patient dans la clinique ambulatoire d'oncologie.
+
+Examen physique
+À ce stade, le patient a présenté un examen physique sans particularité, sans adénopathie palpable ni hépatomégalie.
+
+Examens complémentaires
+En décembre 2016, un PET-CT de suivi a été réalisé avec des signes évocateurs d'une progression de la maladie, en raison de l'apparition de neuf foyers hypermétaboliques dans le lobe hépatique droit et gauche, avec des SUV atteignant respectivement 7,6 et 7,9.
+
+Diagnostic
+Progression de la maladie au niveau hépatique avec de multiples métastases bilobaires, sans signe de maladie à d'autres niveaux.
+
+Traitement
+La chirurgie hépatique de notre hôpital de référence a été consultée, évaluant les métastases hépatiques comme potentiellement résécables, et selon le profil moléculaire de la tumeur (RAS et BRAF non mutés), un traitement de chimiothérapie par FOLFOX-panitumumab a été proposé, le premier cycle de traitement ayant été reçu en février 2017.
+
+Évolution
+En juillet 2017, après six cycles de chimiothérapie, le PET-CT a montré des signes morphométaboliques persistants de viabilité tumorale dans le parenchyme hépatique. L'équipe de chirurgie hépatique a demandé une IRM hépatique, qui a révélé neuf métastases hépatiques bilobaires, mesurant entre 10 et 32 mm, les segments 1, 6 et 7 restant indemnes.
+À ce stade, malgré le nombre élevé de lésions, la fonction hépatique restante a été évaluée avec des résultats satisfaisants, ce qui lui a permis de subir une intervention chirurgicale en août 2017. Une hépatectomie gauche étendue au segment 5, une résection limitée du segment 8, une cholécystectomie et une lymphadénectomie ont été réalisées. L'anatomopathologie a rapporté neuf métastases d'adénocarcinome de morphologie colique, avec des marges chirurgicales libres micro et macroscopiques dans toutes les pièces opératoires.
+Après l'intervention chirurgicale, un traitement par FOLFOX a été proposé, dont elle a suivi six cycles (douze au total), et la patiente est actuellement suivie, sans maladie.

@@ -1,0 +1,18 @@
+T1	pathologie 44 72	espondilitis anquilopoyética
+T2	pathologie 84 106	amiloidosis secundaria
+T3	pathologie 109 145	insuficiencia renal crónica terminal
+T4	pathologie 406 425	amiloidosis vesical
+T5	pathologie 648 674	parada cardiorrespiratoria
+T6	pathologie 1012 1051	atrofia renal bilateral por amiloidosis
+T7	pathologie 1053 1077	Amiloidosis vesical (AA)
+T8	pathologie 1074 1076	AA
+T9	pathologie 1105 1141	amiloidosis en los vasos prostáticos
+#1	SNOMED T1	9631008
+#2	SNOMED T2	281034005
+#3	SNOMED T3	723190009
+#4	SNOMED T4	17602002
+#5	SNOMED T5	410430005
+#6	SNOMED T6	197659005+17602002
+#7	SNOMED T7	274945004
+#8	SNOMED T9	111392005
+#9	SNOMED T8	281034005

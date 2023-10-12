@@ -1,0 +1,27 @@
+Anamnèse
+Nous présentons une femme de 67 ans, sans allergie médicamenteuse connue, avec une ménarche à l'âge de 13 ans et une ménopause à l'âge de 53 ans, sans antécédents familiaux intéressants et avec des antécédents d'adénocarcinome de l'endomètre en 2006 pour lequel une hystérectomie a été effectuée suivie d'une radiothérapie externe et d'une curiethérapie, et sans aucun signe de récidive à l'heure actuelle.
+En 2013, on lui a diagnostiqué un carcinome canalaire infiltrant de grade 3 du sein gauche, luminal B (récepteurs des œstrogènes positifs, récepteurs de la progestérone négatifs, indice de prolifération élevé : Ki67 59 %), HER-2 négatif, stade IV, en raison d'une métastase osseuse unique au niveau de la vertèbre D6. En juin 2013, elle a commencé un traitement palliatif de première ligne par docétaxel, dont elle a reçu 7 cycles avec une tolérance acceptable. La tomodensitométrie a montré une maladie stable. En novembre 2013, une hormonothérapie par létrozole a été débutée et, en décembre de la même année, l'acide zolédronique a été ajouté toutes les 4 semaines.
+En mars 2014, un scanner d'évaluation a été réalisé, montrant une maladie stable et des zones de verre dépoli dans les parties supérieures et moyennes des deux champs pulmonaires, évoquant une pneumopathie interstitielle. Sur le plan clinique, le patient était afébrile, sans toux ni expectoration, mais présentait une dyspnée à l'effort.
+
+Examen physique
+"PS ECOG 1, asthénie grade 1. Saturation basale en oxygène : 98 %. Afebrile.
+"Auscultation cardio-pulmonaire : rythmique, pas de souffle. Murmure vésiculaire préservé avec de légers crépitants télé-inspiratoires dans les champs moyens.
+"Abdomen : dépressible, non douloureux à la palpation, pas de signe d'irritation péritonéale et bruits intestinaux présents.
+"Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Tests complémentaires
+Analyses sanguines (mars 2014) :
+Numération sanguine et biochimie : dans les limites de la normale.
+Marqueurs tumoraux : BR 27.29 (Ca 15.3) 37.1 U/ml. Au moment du diagnostic : BR 27.29 (Ca 15.3) : 51.8 U/ml (valeurs de référence 0.0-31.0 U/ml).
+CT scan mars 2014 : la lésion scléreuse du côté gauche du corps vertébral D6 persiste sans changement significatif. En ce qui concerne la lésion située sur le sein gauche, on observe une réduction de 25 % du diamètre maximal. On observe de multiples zones de verre dépoli dans les parties supérieures et moyennes des deux champs pulmonaires, compatibles avec une pneumopathie interstitielle probablement due à la toxicité. De petites adénopathies dans le médiastin antérieur prévasculaire, dans les limites de la normale. Conclusion : maladie stable. Suspicion de pneumotoxicité.
+
+Diagnostic
+- Carcinome canalaire infiltrant du sein de stade IV dû à des métastases osseuses à D6 traité par létrozole + acide zolédronique.
+- Pneumonie interstitielle due aux bisphosphonates.
+
+Traitement
+Dans le but de traiter la toxicité inflammatoire, on commence à administrer 16 mg de méthylprednisolone deux fois par jour selon un schéma décroissant et, en cas de suspicion de toxicité des bisphosphonates, on arrête l'acide zolédronique.
+
+Évolution
+En cas de suspicion de pneumotoxicité due à l'acide zolédronique, le médicament a été arrêté et des glucocorticoïdes ont été prescrits, et la patiente a présenté une amélioration clinique. Une tomodensitométrie haute définition des poumons a été demandée un mois plus tard, avec une résolution complète des lésions parenchymateuses pulmonaires, bien que la lésion du sein gauche soit restée inchangée.
+Après avoir reçu 7 cycles de docétaxel, elle a commencé une thérapie hormonale avec du létrozole, maintenant la maladie stable pendant 38 mois. Par la suite, elle a progressé vers différentes lignes de traitement. En décembre 2018, un adénocarcinome du côlon de stade IV a été diagnostiqué en raison de métastases hépatiques, et elle est actuellement sous traitement actif par capécitabine, avec une bonne tolérance. A noter qu'après l'arrêt de l'acide zolédronique, la patiente n'a pas eu d'événements squelettiques liés à une maladie osseuse métastatique à ce jour.

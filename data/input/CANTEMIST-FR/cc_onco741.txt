@@ -1,0 +1,22 @@
+Anamnèse
+Patiente sans antécédents personnels intéressants et sans antécédents familiaux de tumeurs.
+En juin 2010, à l'âge de 58 ans, elle a subi une tumorectomie gauche + BSGC pour un Ca papillaire infiltrant T2N0M0, ER +++, RPg +++, HER-2 -, Ki67 : 15 %. Elle a reçu une CMF x 6 cycles, une radiothérapie complémentaire et une hormonothérapie par létrozole 2,5 mg/jour, qu'elle a commencée en décembre 2010.
+Pendant le traitement par QT, la patiente a présenté une élévation du Ca 15.3 accompagnée d'une douleur à l'HD, de sorte qu'une tomodensitométrie a été demandée, qui a révélé une lésion surrénalienne droite suspecte de lésion kystique par rapport à une tumeur primaire, en attendant la résection de la masse après l'achèvement du QT.
+Finalement, une surrénalectomie droite a été pratiquée le 27 mai 2011 avec un résultat anatomopathologique positif pour une métastase ADC provenant d'un sein hormono-sensible (ER ++). En l'absence de preuve d'une maladie à distance, il a été décidé de maintenir le traitement hormonal au létrozole, étant donné que la lésion existait déjà avant le début de ce traitement.
+La patiente a subi des contrôles normaux jusqu'en juin 2017, date à laquelle une tomodensitométrie de suivi de la glande surrénale gauche a révélé une lésion mesurant 3,2 x 2,7 cm avec un élargissement par rapport à l'image précédente (signalée comme kystique dans les examens complémentaires antérieurs).
+
+Examen physique
+Abdomen : mou, dépressible, non douloureux. RHA : normal. Pas de masses ni de mégalithes.
+
+Examens complémentaires
+Une étude d'extension a été réalisée par TEP-TDM en août 2017 avec une captation dans la surrénale gauche qui n'a pas suggéré de malignité, bien que l'augmentation de la taille ait été confirmée.
+Une IRM pelvienne a ensuite été demandée pour mieux caractériser la lésion, qui a montré un rehaussement dans l'étude dynamique du nodule surrénalien gauche après administration de contraste compatible avec une métastase, et la patiente a été inscrite sur la liste d'attente chirurgicale pour une résection en septembre 2017.
+
+Diagnostic
+Métastase tardive dans la glande surrénale gauche.
+
+Traitement
+Le 27 novembre 2017, une surrénalectomie totale gauche a été réalisée avec comme résultat AP une métastase ADC compatible avec un primitif mammaire (focal CK7 + ; CK20 - ; CDX2 - ; GATA3 +), étude immunohistochimique : mib1 + < 10 % ; ER +++ 90 % ; RP ++ 5 % ; HER-2 2+.
+
+Évolution
+Compte tenu de la positivité hormonale, de l'absence de lésions à d'autres niveaux et de la progression sous létrozole, il a été décidé de changer la ligne hormonale pour l'exemestane, que la patiente maintient actuellement sans preuve de maladie à distance.

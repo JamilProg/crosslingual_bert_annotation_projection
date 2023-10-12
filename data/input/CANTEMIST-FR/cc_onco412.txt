@@ -1,0 +1,18 @@
+Anamnèse
+Une femme sans antécédents pathologiques intéressants, dont les antécédents oncologiques ont commencé à l'âge de 23 ans à la suite d'une autopalpation d'un nodule dans son sein gauche. On lui a alors diagnostiqué un carcinome canalaire infiltrant du sein, de stade cT3N1, avec un profil immunohistochimique HER-2 luminal B positif. Elle a suivi un traitement néoadjuvant basé sur 4 cycles d'adriamycine et de cyclophosphamide, suivis de 12 cycles de carboplatine et de paclitaxel, avec une tolérance adéquate. Elle a subi une mastectomie radicale modifiée avec reconstruction immédiate, le stade post-chirurgical étant pT1N1 avec 3 ganglions axillaires atteints sur 30 enlevés. La patiente a suivi une radiothérapie adjuvante ainsi que 14 cycles de trastuzumab. Par la suite, elle a suivi pendant 5 ans un traitement hormonal adjuvant à base de tamoxifène et de triptoréline. Dans ses antécédents familiaux, sa grand-mère maternelle était atteinte d'une néoplasie mammaire. À l'époque, le statut BRCA1/2 a été déterminé et s'est avéré négatif.
+
+Examen physique
+Chez l'un des témoins, à l'âge de 31 ans et 5 ans après la fin de l'hormonothérapie, la patiente a présenté sa première récidive métastatique asymptomatique à la suite d'une augmentation des marqueurs tumoraux.
+
+Examens complémentaires
+Une TEP-TDM a été demandée et a montré une récidive confirmée histologiquement au niveau du hile pulmonaire droit, une adénopathie supradiaphragmatique et un os. Dans le même temps, les images TEP/TDM montraient une image intra-abdominale solide et hétérogène, et il a donc été décidé de procéder à une biopsie.
+
+Diagnostic
+L'histologie était compatible avec une tumeur mésenchymateuse connue sous le nom de PECome (néoplasme à cellules épithélioïdes périvasculaires). Comme il s'agissait d'une jeune femme avec un diagnostic de néoplasie mammaire et un diagnostic récent de PECome, la patiente a été adressée à l'unité de conseil génétique pour exclure le syndrome de Li-Fraumeni. Des tests génétiques ont été effectués sur la patiente et ses parents au premier degré : la patiente, sa grand-mère paternelle et le fils de la patiente sont porteurs de la mutation pR213Q du gène TP53, confirmant ainsi le syndrome de Li-Fraumeni.
+
+Traitement
+La patiente a commencé un traitement métastatique de première intention pour un cancer du sein avec du docétaxel et un double blocage anti-HER-2 avec du trastuzumab et du pertuzumab, obtenant une réponse complète au bout de 3 mois. Il a été décidé d'opérer le PEComa, ce qui était une chirurgie optimale en plus de l'ovariectomie.
+Par la suite, la patiente a été traitée avec un double blocage anti-HER-2 et du létrozole, avec une très bonne tolérance.
+
+Évolution
+Malheureusement, deux ans après l'intervention du PEComa, la patiente a présenté une récidive histologiquement confirmée dans le foie. Étant donné que la patiente a maintenu une réponse complète à sa néoplasie mammaire, et après avoir présenté le cas au comité multidisciplinaire, il a été décidé d'intervenir sur les lésions hépatiques. Lors de sa dernière évaluation, la patiente présentait toujours une réponse complète à sa néoplasie mammaire et aucun signe de récidive du PECome.

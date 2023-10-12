@@ -1,0 +1,31 @@
+Anamnèse
+Homme de 47 ans, fumeur (20 paquets-années), aux antécédents de tuberculose pulmonaire il y a 20 ans, traitée, sans autres données d'intérêt ; en mai 2016, il consulte en soins primaires pour une toux avec expectoration hémoptotique. Elle a nié toute douleur pleurétique. Elle n'avait pas de symptômes constitutionnels. Lors de l'étude diagnostique, une lésion est apparue dans la cavité buccale, excroissante, douloureuse et friable, qui a été biopsiée.
+
+Examen physique
+"Bon état général. Pas de signes de détresse respiratoire.
+"Cavité buccale : lésion excroissante au niveau du trigone rétromolaire gauche, de consistance élastique et friable, vascularisée et ferme au toucher.
+"Appareil cardio-respiratoire : bruits cardiaques rythmés, pas de souffle. Murmure vésiculaire diminué dans l'hémithorax supérieur gauche, quelques sifflements.
+"Le reste de l'examen était normal.
+
+Tests complémentaires
+"Radiographie thoracique : atélectasie du lobe supérieur gauche.
+"Fibrobronchoscopie : infiltration muqueuse de la bronche apicale sous-segmentaire du lobe supérieur gauche.
+"Tomodensitométrie : vaste zone de condensation avec pneumopathie périphérique affectant le segment apicopostérieur du lobe supérieur gauche, avec masse parahilaire associée à des adénopathies pré-vasculaires, dans la fenêtre aorto-pulmonaire et hilaire gauche.
+"TEP-TDM : captation hypermétabolique dans les territoires ganglionnaires para-aortiques (SUVmax 4,6 et 3,7) et sous-aortiques (SUVmax 2,3). Masse pulmonaire hypermétabolique parahilaire gauche (SUVmax 5,49) et pneumopathie amétabolique périlésionnelle. Atteinte métastatique osseuse multiple.
+
+Anatomie pathologique :
+"Biopsie : muqueuse bronchique infiltrée par un adénocarcinome pulmonaire. Immunohistochimie : CK7 +. TTF1 +. EGFR et ROS-1 négatifs, ALK positif par FISH (2p23). PD-L1 < 1 %.
+"Biopsie d'une lésion de la cavité buccale : métastase d'un adénocarcinome d'origine pulmonaire.
+
+Diagnostic
+Adénocarcinome pulmonaire E-IVB ALK-positif.
+
+Traitement
+Après le diagnostic, en juillet 2016, elle a commencé un traitement de première intention par crizotinib 250 mg toutes les 12 heures.
+
+Évolution
+Initialement, on a constaté une amélioration de la douleur osseuse et une réduction de la lésion du trigone rétromolaire. Le zolédronate a été associé à la prévention des événements osseux.
+Lors d'une étude de réévaluation après 4 cycles, un PET-CT a montré une réponse partielle, avec une réduction de la taille et du métabolisme de la masse parahilaire gauche, des adénopathies et des lésions osseuses.
+En décembre 2016, elle a signalé des douleurs mal contrôlées dans la région lombo-sacrée, et une IRM lombo-sacrée a été demandée, qui a montré une progression de la maladie osseuse multiple, avec une lésion dans l'hémisacrum gauche qui a envahi et infiltré le canal rachidien sacré, affectant les racines nerveuses S2 et S3, recevant un traitement local par radiothérapie palliative, 20 Gy en 5 séances. Compte tenu de la progression, un usage compassionnel du Brigatinib a été demandé.
+En février 2017, elle a débuté un traitement de seconde ligne par brigatinib à la dose de 180 mg par jour. Lors de la première évaluation de la réponse après 3 cycles de traitement (mai 2017), une réponse partielle a été observée au niveau pulmonaire et osseux ; cependant, des lésions hépatiques douteuses sont apparues, et cliniquement, une augmentation de la lésion dans la cavité buccale et une détérioration fonctionnelle ont été observées.
+Pour identifier les lésions hépatiques, une IRM a été demandée, qui a révélé des métastases, et étant donné la suspicion de résistance au Brigatinib, une biopsie du foie a été réalisée pour étude et analyse par séquençage de nouvelle génération (NGS), où la présence de 3 mutations de résistance a été détectée : G1202R avec résistance au crizotinib, au brigatinib, à l'alectinib et au ceritinib ; F1174V avec résistance au crizotinib et au ceritinib ; et F1174C avec résistance au crizotinib et au ceritinib ; tout en présentant une sensibilité au lorlatinib malgré l'expression de ces mutations. Compte tenu des résultats de l'ENM, une utilisation élargie du lorlatinib a été demandée, ce qui a finalement été accepté et, en juillet 2017, elle a commencé le traitement à la dose de 100 mg une fois par jour, avec une bonne tolérance, une amélioration clinique de la douleur et de l'état fonctionnel, mais, en septembre de la même année, elle a été admise en oncologie pour un sepsis sévère à focalisation respiratoire, réfractaire au traitement médical, et elle est décédée.

@@ -1,0 +1,26 @@
+T1	pathologie 100 116	fístula oronasal
+T2	pathologie 343 373	dehiscencia (fístula oronasal)
+T3	pathologie 356 372	fístula oronasal
+T4	pathologie 388 397	rinofonía
+T5	pathologie 400 430	reflujo nasal de los alimentos
+T6	pathologie 475 537	fístula oronasal en la unión del paladar primario y secundario
+T7	pathologie 625 632	fístula
+T8	pathologie 796 812	defecto palatino
+T9	pathologie 915 922	fístula
+T10	pathologie 1037 1044	fístula
+T11	pathologie 1605 1613	isquemia
+T12	pathologie 1710 1717	fístula
+T13	pathologie 1743 1754	dehiscencia
+#1	SNOMED T7	428794004
+#2	SNOMED T12	428794004
+#3	SNOMED T10	428794004
+#4	SNOMED T13	11108009
+#5	SNOMED T1	370485008
+#6	SNOMED T9	428794004
+#7	SNOMED T2	370485008
+#8	SNOMED T3	370485008
+#9	SNOMED T5	89488007
+#10	SNOMED T6	370485008
+#11	SNOMED T11	52674009
+#12	SNOMED T4	289190003
+#13	SNOMED T8	128337009

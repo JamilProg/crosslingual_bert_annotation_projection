@@ -1,0 +1,26 @@
+T1	pathologie 95 156	insuficiencia renal crónica secundaria a nefroangioesclerosis
+T2	pathologie 332 336	EPOC
+T3	pathologie 338 341	HTA
+T4	pathologie 344 358	ulcus duodenal
+T5	pathologie 363 381	estenosis pilórica
+T6	pathologie 466 576	lesión infiltrante que interesa los 2/3 superiores del riñón izquierdo con afectación del espacio pericapsular
+T7	pathologie 656 685	gammapatía monoclonal con IgM
+T8	pathologie 848 864	lesiones líticas
+T9	pathologie 918 943	gammapatía monoclonal IgM
+T10	pathologie 970 981	mieloma IgM
+T11	pathologie 1084 1128	infoma no-hodking B primario renal tipo MALT
+T12	pathologie 1130 1167	tumor linfoide asociado a las mucosas
+T13	pathologie 1638 1660	lesiones inflamatorias
+#1	SNOMED T11	445269007
+#2	SNOMED T9	285426000
+#3	SNOMED T2	13645005
+#4	SNOMED T3	38341003
+#5	SNOMED T4	51868009
+#6	SNOMED T5	367403001
+#7	SNOMED T6	126880001
+#8	SNOMED T12	277622004
+#9	SNOMED T1	49220004
+#10	SNOMED T10	109989006
+#11	SNOMED T7	285426000
+#12	SNOMED T8	43944003
+#13	SNOMED T13	708039003

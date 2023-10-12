@@ -1,0 +1,26 @@
+Anamnèse
+Homme de 37 ans sans antécédents médicaux familiaux ou personnels intéressants. Pas de traitement à domicile en cours. Fumeur de 15 paquets-années.
+En août 2017, il s'est présenté aux urgences de notre hôpital en raison d'une diplopie occasionnelle et de céphalées d'intensité croissante d'un mois d'évolution ne cédant pas à l'analgésie de première intention. Elle n'a pas présenté de fièvre, de raideur de la nuque ou de vomissements.
+
+Examen physique
+"Afebrile, stable sur le plan hémodynamique.
+"PS-O.
+"Examen neurologique : fonctions supérieures préservées. Pas de focalité neurologique apparente. Le patient a signalé une diplopie, bien qu'à l'examen il n'y ait pas de parésie des paires oculomotrices.
+
+Examens complémentaires
+Un scanner sans contraste du crâne a été réalisé au service des urgences et a montré une lésion temporo-pariétale droite isodense, avec du parenchyme cérébral entouré d'un œdème et d'un effet de masse.
+Le patient a été admis en neurochirurgie et une IRM du crâne a montré une masse de 3,4 x 3 cm avec un œdème vasogénique associé, provoquant une déviation de la ligne médiane de 9 mm.
+Compte tenu de la détérioration neurologique du patient, une exérèse tumorale macroscopiquement complète a été réalisée avec un diagnostic histologique de métastase d'un adénocarcinome d'origine pulmonaire probable, EGFR non muté, ALK non transloqué et PD-L1 faiblement positif à 5 %.
+Au vu de ces résultats, un scanner PET-CT a été demandé, qui a montré un nodule pulmonaire en LSD mesurant 1,2 x 1,3 cm et un conglomérat adénopathique médiastinal paratrachéal-parahilaire droit mesurant 6,6 x 5 cm, compatible avec un carcinome pulmonaire.
+
+Diagnostic
+Adénocarcinome du lobe supérieur droit du poumon (cT1acN2pM1b)-stade IV par résection d'un seul cerveau.
+
+Traitement
+En octobre 2017, le patient a reçu une SBRT sur le lit chirurgical du cerveau et a commencé un traitement par atezolizumab (immunothérapie anti-PD-L1) tous les 21 jours dans le cadre d'un essai clinique.
+
+Évolution
+Après 10 cycles, en mai 2018, la réponse globale a atteint 50%. Compte tenu du bon état général du patient, de son âge, de la réponse radiologique au niveau pulmonaire et de la réponse complète au niveau cérébral, le cas a été discuté au sein du comité des tumeurs thoraciques, optant pour une chirurgie de la tumeur primaire.
+En juin 2018, le patient a subi une lobectomie supérieure droite et une lymphadénectomie avec un diagnostic d'adénocarcinome de 1,5 cm et de métastases dans 4 des 13 ganglions lymphatiques retirés.
+En août 2018, le patient était indemne de la maladie et a subi une chimiothérapie adjuvante avec du cisplatine vinorelbine pendant quatre cycles suivie d'une radiothérapie sur le médiastin avec une excellente tolérance.
+Actuellement, le patient est toujours en cours d'examen, est indemne de la maladie et mène une vie normale.

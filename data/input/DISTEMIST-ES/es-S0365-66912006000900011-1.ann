@@ -1,0 +1,32 @@
+T1	pathologie 69 125	traumatismo ocular en su ojo izquierdo con un tirachinas
+T2	pathologie 246 257	microhifema
+T3	pathologie 264 280	uveítis anterior
+T4	pathologie 353 400	hemorragias retinianas redondeadas ecuatoriales
+T5	pathologie 517 555	isquemia retiniana periférica inferior
+T6	pathologie 602 613	traumatismo
+T7	pathologie 654 691	escotoma periférico temporal superior
+T8	pathologie 747 775	neovascularización retiniana
+T9	pathologie 932 965	enfermedad de células falciformes
+T10	pathologie 983 994	microhifema
+T11	pathologie 1001 1023	hemorragias retinianas
+T12	pathologie 1377 1388	microhifema
+T13	pathologie 1485 1513	trastornos de la coagulación
+T14	pathologie 1543 1572	déficit de factores VIII y XI
+T15	pathologie 1575 1596	déficit de vitamina K
+T16	pathologie 1601 1619	isquemia retiniana
+#1	SNOMED T1	282752000
+#2	SNOMED T3	410692006
+#3	SNOMED T4	28998008
+#4	SNOMED T5	26468004
+#5	SNOMED T7	246659002
+#6	SNOMED T10	75229002
+#7	SNOMED T12	75229002
+#8	SNOMED T16	26468004
+#9	SNOMED T13	64779008
+#10	SNOMED T2	75229002
+#11	SNOMED T8	61267008
+#12	SNOMED T11	28998008
+#13	SNOMED T14	234440005+767712006
+#14	SNOMED T15	124892003
+#15	SNOMED T6	417746004
+#16	SNOMED T9	127040003

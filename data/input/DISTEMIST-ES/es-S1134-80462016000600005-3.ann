@@ -1,0 +1,22 @@
+T1	pathologie 23 51	neuralgia del nervio pudendo
+T2	pathologie 23 136	neuralgia del nervio pudendo secundaria a una lesión directa posterior a una resección trans-ureteral de próstata
+T3	pathologie 69 136	lesión directa posterior a una resección trans-ureteral de próstata
+T4	pathologie 154 234	dolor de características neuropáticas (quemazón, parestesias) en genital externo
+T5	pathologie 699 708	depresión
+T6	pathologie 740 749	depresión
+T7	pathologie 752 765	ansiedad leve
+T8	pathologie 984 998	fístula de LCR
+T9	pathologie 1237 1246	depresión
+T10	pathologie 1285 1298	ansiedad leve
+T11	pathologie 1312 1321	depresión
+#1	SNOMED T1	427972000
+#2	SNOMED T3	12456005
+#3	SNOMED T6	394924000
+#4	SNOMED T7	70997004
+#5	SNOMED T8	230744007
+#6	SNOMED T10	70997004
+#7	SNOMED T11	394924000
+#8	SNOMED T5	394924000
+#9	SNOMED T9	394924000
+#10	SNOMED T2	427972000+213267001
+#11	SNOMED T4	247398009+77142006

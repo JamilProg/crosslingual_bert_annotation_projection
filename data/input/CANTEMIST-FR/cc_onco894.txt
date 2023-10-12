@@ -1,0 +1,29 @@
+Anamnèse
+Un homme de 63 ans s'est présenté dans notre service pour une évaluation du traitement adjuvant après avoir été opéré d'un cancer du sein.
+Ses antécédents personnels comprennent un père atteint d'un cancer de la prostate à l'âge de 60 ans.
+Il n'a pas d'allergies médicamenteuses ou d'habitudes toxiques connues, seulement de l'hypertension avec un bon contrôle hygiéno-diététique.
+En ce qui concerne les antécédents oncologiques, notre patient a été diagnostiqué en 1984 (à l'âge de 30 ans) avec un carcinome canalaire infiltrant (CDI) du sein gauche, traité par mastectomie radicale et vide axillaire gauche (T2N0M0), récepteurs hormonaux et statut HER-2 inconnu. Pas de traitement adjuvant ultérieur, sortie en 1989 après 5 ans de suivi sans aucun signe de rechute.
+
+Examen physique
+"Bon état général, ECOG 0. Eupnéique au repos.
+"Cicatrice bilatérale de mastectomie, pas de nodules cutanées ou cicatriciels. Pas de lymphadénopathie latéro-cervicale, supra-claviculaire ou axillaire.
+"Le reste de l'examen était sans particularité.
+
+Tests complémentaires
+En décembre 2013, elle remarque un nodule rétroaréolaire dans le sein droit et consulte son médecin traitant. Compte tenu de ses antécédents, il lui a demandé de passer une mammographie en priorité et le processus de diagnostic a commencé :
+"Mammographie droite (janvier 2014) : augmentation de l'aspect glandulaire.
+" Échographie du sein droit (janvier 2014) : nodule rétroaréolaire solide de 1 cm. Aucun ganglion lymphatique axillaire n'a été observé. Une BAG est réalisée.
+"Pathologie : carcinome invasif. Récepteurs d'œstrogènes 98%, progestérone >1%, Ki67 18%, histocore Hercep-test (1+) : surexpression négative.
+
+Diagnostic
+Carcinome mammaire métachrone bilatéral.
+
+Traitement
+En février 2014, la patiente a subi une mastectomie simple avec technique sélective du ganglion sentinelle, avec le résultat anatomopathologique suivant : carcinome canalaire infiltrant de 1,5 cm, grade histologique 3 (2 + 3 + 3) sans invasion lymphovasculaire. Bords chirurgicaux exempts de tumeur. Atteinte de la peau et du mamelon. Ganglion lymphatique sentinelle droit sans signe de métastase (pT4N0 (0/1) M0, stade IIIb). Un traitement adjuvant par chimiothérapie adriamycine-cyclophosphamide (123/1 236 mg) a été proposé pour un total de 4 cycles avec une bonne tolérance, qui s'est terminé en mai 2014. Par la suite, elle a débuté un traitement par tamoxifène et a reçu une radiothérapie adjuvante sur la paroi costale (50 Gy) avec boost intégré dans la cicatrice (60 Gy).
+
+Évolution
+En septembre 2015, son état a été évalué à l'unité de cancérologie familiale et il s'est avéré qu'il était porteur de la mutation pathogène BRCA 2 (c.8174_8185delGGTATGCTTAinsTT / p.Trp2725Phefs), et qu'il présentait donc le syndrome du cancer héréditaire du sein et de l'ovaire.
+Elle a poursuivi son traitement au tamoxifène et a été suivie lors de consultations semestrielles régulières, ne présentant aucun signe de récidive locorégionale.
+En octobre 2016, un PSA élevé de 5,84 ng/ml a été détecté (auparavant normal). Il a été adressé au service d'urologie, où il a subi un nouveau bilan avec les résultats suivants : PSA 6,67 ng/ml PSA libre 0,89ng/ml libre Rapport PSA/PSA : 13,34. Une biopsie a été réalisée et l'anatomie pathologique s'est révélée compatible avec un adénocarcinome prostatique de Gleason 8 (les examens d'imagerie de la prostate étaient absents).
+Une prostatectomie radicale + lymphadénectomie bilatérale a été réalisée en janvier 2017.
+Pathologie : adénocarcinome acineux de Gleason 9 avec infiltration bilatérale, avec extension extraprostatique multifocale au niveau du lobe prostatique gauche. Bords de résection libres. Absence d'invasion des vésicules séminales. Lymphadénectomie droite (3/10 ganglions avec atteinte métastatique) et lymphadénectomie gauche (0/6).

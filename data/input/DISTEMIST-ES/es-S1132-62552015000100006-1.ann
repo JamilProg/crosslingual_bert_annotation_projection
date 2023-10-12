@@ -1,0 +1,18 @@
+T1	pathologie 629 679	alergia a ácaros, gramíneas y epitelio de animales
+T2	pathologie 681 689	Fumadora
+T3	pathologie 903 953	lesiones papulares, rosáceas en dedos de las manos
+T4	pathologie 998 1014	Granuloma anular
+T5	pathologie 1266 1293	cuadro de carácter alérgico
+T6	pathologie 2852 2868	hábito tabáquico
+T7	pathologie 2908 2923	Histiocitosis X
+T8	pathologie 3885 3893	enfisema
+T9	pathologie 4117 4155	Histiocitosis de células de Langerhans
+#1	SNOMED T8	87433001
+#2	SNOMED T5	781474001
+#3	SNOMED T1	232350006+418689008+300911008
+#4	SNOMED T6	89765005
+#5	SNOMED T9	65399007
+#6	SNOMED T2	77176002
+#7	SNOMED T7	65399007
+#8	SNOMED T3	95324001
+#9	SNOMED T4	65508009

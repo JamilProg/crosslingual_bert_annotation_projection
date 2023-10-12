@@ -1,0 +1,32 @@
+Anamnèse
+Femme de 65 ans ayant des antécédents de diabète sucré de type II, d'obésité, d'hypercholestérolémie et d'hypertension. Elle a subi deux césariennes. Elle n'a pas d'antécédents familiaux intéressants d'un point de vue oncologique.
+Elle se présente aux urgences pour une douleur de la partie postérieure du membre inférieur droit évoluant depuis 4 jours, associée à une dyspnée à l'effort comme la montée d'escaliers. Pas de syndrome fébrile, de toux ou d'expectoration. Pas d'orthopnée, de palpitations ou de cortex végétatif. Récemment vacciné contre la grippe.
+
+Examen physique
+"Signes vitaux. Tension artérielle 156/96 mmHg. Pouls 96 bpm. Sat.O2 92% à l'air ambiant.
+"Bonne coloration de la peau et des muqueuses.
+"Pas d'ingurgitation jugulaire. Auscultation cardiaque rythmée et sans souffle.
+"Auscultation pulmonaire avec murmure vésiculaire physiologique sans bruits pathologiques.
+"Examen abdominal sans signe d'irritation péritonéale et avec un péristaltisme préservé. Distension avec sémiologie ascitique sans tension.
+"Œdème dans la CIVD avec induration dans la partie postérieure, douloureuse à la palpation. Pas de changement de couleur ni de température. Homans positif. Pouls palpables.
+
+Examens complémentaires
+"Radiographie pulmonaire : Poumons bien ventilés, sans altérations pathologiques significatives. Pas de condensation pneumonique.
+"Analyses sanguines : hémogramme et biochimie normaux. Elévation des marqueurs CEA (12 ng/mL, LSN 5), Ca 15.3 (59 U/mL, LSN 31) et Ca 125 (180 U/mL, LSN 35).
+"Echographie Doppler des membres inférieurs : dilatation de la veine musculaire surale, non collabable.
+Contenu échogène compatible avec une thrombose veineuse profonde.
+"Echographie abdominale : foie de taille normale avec stéatose. Lit de la vésicule biliaire avec cholélithiase, entourée d'une zone hypoéchogène mal délimitée. Quantité modérée de liquide libre intra-abdominal.
+La rate, le pancréas et les reins ne présentent aucune altération.
+"Tomodensitométrie thoraco-abdominale : défauts de réplétion dans les branches segmentaires de la LID, dans la LSD compatible avec une thromboembolie pulmonaire. Foie de taille et de morphologie normales, avec masse tumorale dans le parenchyme hépatique. Liquide intra-abdominal libre. Adénopathie située dans l'espace inter-aortocave de 11mm.
+
+Diagnostic
+La masse hépatique a fait l'objet d'une ponction à l'aiguille guidée par tomodensitométrie et d'une ponction à l'aiguille centrale pour étude cytologique et histologique. Le profil immunophénotypique de la biopsie a montré une positivité pour Villin (+++), CDX-2 (+++), CK20 (+++) et TTF-1 (+), ce qui était compatible avec des métastases d'origine colorectale.
+
+Traitement
+Un traitement anticoagulant a été mis en place avec Tinzaparin 14000U toutes les 24 heures. Un drainage ascitique a été demandé et une chimiothérapie bihebdomadaire a été mise en place avec Oxaliplatine 85mg / m2 + Capecitabine 3300mg / jour (schéma Xelox). Par la suite, la dose a été ajustée en fonction du poids.
+La tolérance au traitement a été acceptable, avec seulement de l'asthénie, des nausées et une neurotoxicité, tous des effets secondaires de grade I.
+
+Évolution
+L'état général de la patiente s'est progressivement amélioré jusqu'à l'ECOG 1, avec une diminution du débit du drainage ascitique jusqu'à son ablation. Elle a reçu un total de six cycles. La tomodensitométrie de réévaluation a montré une réponse partielle au niveau péritonéal, une diminution des ascites et de la carcinomatose omentale avec une légère augmentation des métastases hépatiques.
+Avant la visite de suivi, il a présenté une aphasie motrice d'apparition soudaine, sans autre symptôme neurologique. En outre, il présentait des vomissements persistants de nature bilieuse sans produits pathologiques, accompagnés d'une vision floue progressive. Un scanner crânien a été réalisé, montrant une lésion pseudonodulaire hétérogène dans la région frontale gauche d'environ 4 cm, avec un déplacement discret de la ligne médiane, un œdème périlésionnel et une hémorragie tentorielle droite avec une composante d'hémorragies sous-arachnoïdiennes et intraventriculaires. Ces observations sont compatibles avec une hémorragie intracérébrale dans le contexte d'une métastase, confirmée par l'IRM crânienne. L'IRM a également montré une autre lésion métastatique dans la région occipitale droite. Un traitement aux corticostéroïdes a été mis en place et l'énoxaparine a été arrêtée.
+Le patient a souffert d'un nouvel épisode syncopal avec une récupération spontanée et une saturation en oxygène de 89%. Compte tenu de l'hypercoagulabilité, une angioCT a été réalisée, qui a montré une nouvelle PTE avec des défauts de réplétion dans les branches segmentaires de la LSD et des bases pulmonaires. La contre-indication formelle à l'anticoagulation pharmacologique et la tendance procoagulante ont conduit à proposer comme alternative thérapeutique la mise en place d'un filtre temporaire de la veine cave inférieure, qui a été réalisée sans incident par radiologie interventionnelle. Malgré cela, la patiente a souffert d'une détérioration fonctionnelle et neurologique progressive (due à la progression des métastases cérébrales confirmée par IRM), et des mesures de confort ont été mises en place jusqu'à son décès.

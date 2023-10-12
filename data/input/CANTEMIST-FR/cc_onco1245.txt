@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 38 ans, pas d'allergies médicamenteuses, fumeur avec une dose cumulée de 10 paquets/an. Aucun antécédent pathologique intéressant.
+Premier symptôme : pneumonie en juillet 2013 avec radiographie du thorax montrant un élargissement médiastinal, pour lequel une étude a été initiée.
+Premier diagnostic : tomodensitométrie (TDM) thoracique avec contraste montrant une condensation pulmonaire dans le récessus pleuro-péricardique antérieur du segment médial du lobe moyen droit (LMD), diagnostic différentiel entre une condensation néoformative et inflammatoire et une adénopathie de 2 cm dans le hile droit et une masse adénopathique de 6 et 5 cm dans les espaces médiastinaux sous-carénaux et trachéo-bronchiques droits. Le diagnostic différentiel entre un processus néoformatif et inflammatoire a été envisagé.
+Une fibrobronchoscopie (FBS) a été réalisée, qui s'est révélée normale, avec un lavage broncho-alvéolaire négatif et une aspiration transthoracique à l'aiguille fine avec un matériel insuffisant pour le diagnostic.
+Par la suite, deux médiastinoscopies ont été réalisées, également insuffisantes pour le diagnostic, de sorte qu'il a finalement été décidé de procéder à une thoracotomie droite, d'obtenir une biopsie avec un diagnostic pathologique de sarcome synovial monophasique à cellules fusiformes avec un indice mitotique élevé, une EMA positive focale et faible dans quelques cellules, une CAM 5.2 positive dans quelques cellules, une vimentine positive diffuse, une CD 56 positive, une 013 positive ; le gène EWSR1 n'a pas été transloqué, le gène SS18 a été transloqué.
+Après avoir écarté la possibilité d'une maladie à distance grâce à l'étude d'extension et à l'intention chirurgicale, la résécabilité a été évaluée par imagerie par résonance magnétique, qui a révélé une infiltration de la plèvre et du parenchyme pulmonaire droit avec une sténose de l'artère pulmonaire droite, de ses branches, de la bronche pulmonaire droite et de la veine cave supérieure au niveau de l'ostium de l'auricule droit. En outre, il y avait un affaissement de plus de 50 % de l'oreillette droite avec une infiltration de ses parois postérieures et du septum interatrial, une sténose de la veine pulmonaire inférieure droite et un affaissement de la veine pulmonaire supérieure droite.
+Le diagnostic étant celui d'un sarcome synovial médiastinal non résécable dû à l'infiltration des grands vaisseaux, de la paroi de l'oreillette et du septum interauriculaire, une chimiothérapie d'intention néoadjuvante a été envisagée.
+Il est en attente de traitement,
+Il a été adressé par son médecin traitant pour une dyspnée progressive évoluant depuis trois jours, une orthopnée et une expectoration purulente.
+
+Examen physique
+État de performance 2. Oropharynx : érythème oropharyngé sans pustules. Auscultation respiratoire : souffle vésiculaire conservé avec hypophonie basale droite et quelques crépitants basaux droits, sémiologie d'épanchement pleural.
+Auscultation cardiaque : bruits cardiaques réguliers, sourds, pas de frottement, pas de souffle. Légère ingurgitation jugulaire, avec reflux hépatojugulaire et tendance au collapsus en deux temps, pas de signes de Kussmaul, pouls central normocinétique, pas de souffle, pouls périphériques présents et symétriques ; pouls paradoxal non significatif. Repos sans altération.
+
+Examens complémentaires
+- Radiographie thoracique (17/12/2013) : augmentation de l'index cardiothoracique et augmentation de l'épanchement pleural droit.
+- Échocardiographie (2/12/2013) : épanchement péricardique modéré avec de légers signes d'atteinte hémodynamique. Importante masse rétro-auriculaire en contact avec la paroi postérieure des oreillettes.
+
+Diagnostic
+Tamponnade cardiaque secondaire à un sarcome synovial.
+
+Traitement
+Un traitement à base d'antibiotiques, d'oxygénothérapie et de solution saline a été mis en place et le patient a montré une amélioration clinique progressive et est resté stable sans qu'il soit nécessaire de procéder à une péricardiocentèse, l'échocardiographie de suivi montrant une diminution de l'épanchement péricardique.
+
+Évolution
+Compte tenu de la stabilité clinique, la patiente a été renvoyée chez elle et a commencé un traitement oncospécifique ambulatoire avec une combinaison d'ifosfamide néoadjuvant 2 g/m2 et d'adriamycine 20 mg/m2 du 5 décembre 2013 au 3 février 2014. Après avoir reçu un total de 3 cycles, la maladie s'est avérée stable lors de la réévaluation, de sorte que la chirurgie a été exclue.
+Une nouvelle ligne de traitement a été décidée avec de l'ifosfamide à haute dose (10 g/m2 pendant 5 jours) pendant 3 cycles.
+Dans l'attente d'une réévaluation, elle a été réadmise en raison d'une nouvelle aggravation de sa dyspnée habituelle, qui a été contrôlée par une sérothérapie et un traitement symptomatique par chlorure de morphine, benzodiazépines et oxygénothérapie.
+Lors de l'admission, un scanner du thorax et de l'abdomen a été réalisé, qui a montré une nouvelle progression de la maladie au niveau médiastinal, sans extension à distance, et un traitement de troisième ligne par pazopanib a donc été commencé.

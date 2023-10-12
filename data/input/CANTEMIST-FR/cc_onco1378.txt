@@ -1,0 +1,20 @@
+Anamnèse
+Patient âgé de 54 ans, sans allergie connue, fumeur actif d'un paquet par jour ; pas de critères de bronchopathie, ni d'antécédents personnels ou familiaux intéressants. En décembre 2010, il consulte son médecin généraliste en raison d'un changement de rythme des selles et de douleurs abdominales à type de coliques, évoluant depuis 4 mois, sans syndrome toxique associé ni autre symptôme.
+
+Examen physique
+L'examen physique a révélé une hépatomégalie de 4 largeurs de doigt et une légère douleur à la palpation de l'hémiabdomen droit. Aucun signe d'irritation péritonéale et péristaltisme conservé. Auscultation cardiorespiratoire dans les limites de la normale. Pas de focalité neurologique ni d'adénopathie palpable.
+
+Examens complémentaires
+Les examens complémentaires suivants ont été effectués :
+Examens généraux de laboratoire : CEA 71 ng/ml, sans autres altérations.
+Fibrocolonoscopie (janvier 2011) : lésion sténosante ne permettant pas le passage de l'endoscope à 80 cm de la marge anale, réalisation de biopsies positives à l'adénocarcinome, KRAS natif, sans autre altération de l'intestin exploré. L'étude a été complétée par une tomodensitométrie (TDM), une tomodensitométrie thoraco-abdominale et une tomographie par émission de positons (TEP) (février 2011) : multiples lésions occupant l'espace et hypercapillaires dans les segments hépatiques II, III, IVb, V, VI, VII et VIII, avec épaississement des parois du côlon transverse au niveau de l'angle splénique (SUVmax 15) et des adénopathies locorégionales.
+
+Diagnostic
+Le patient a été diagnostiqué comme porteur d'un adénocarcinome du côlon transverse de stade IV, cT3N1M1 (métastases hépatiques multiples et bilobaires). Le cas a été discuté au sein du comité multidisciplinaire et les métastases hépatiques ont été considérées comme non résécables.
+
+Traitement
+La patiente a été incluse dans un essai clinique de phase II, commençant le traitement par FOLFOX4m + cetuximab bihebdomadaire. Après 4 cycles, une réponse radiologique partielle a été observée selon les critères RECIST. Après 8 cycles, une réponse partielle soutenue et une normalisation de l'ACE à 3,3 ng/ml ont été observées en juillet 2011. Après avoir terminé le 30ème cycle, il a été présenté à nouveau au Comité avec des résultats radiologiques et TEP, avec disparition des lésions hépatiques et réduction de la lésion colique (SUVmax 13), et a été considéré comme un candidat pour une chirurgie hépatique. En octobre 2012, une bipartition du foie en deux temps a été réalisée. Pathologie : adénocarcinome métastatique de bas grade, avec un grade de régression tumorale de >90%.
+
+Évolution
+Une hémicolectomie droite a été réalisée en janvier 2013.
+Anatomie pathologique : adénocarcinome de bas grade infiltrant le tissu adipeux, avec 0 ganglion lymphatique affecté sur 37 réséqués, etpT3 N0, CEA post-chirurgical 2,83 ng/ml. A suivi un traitement adjuvant à base de fluorouracil et de cétuximab. Aucun signe de récidive à l'heure actuelle.

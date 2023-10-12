@@ -1,0 +1,8 @@
+T1	pathologie 295 322	tumor de células fusiformes
+T2	pathologie 435 439	GANT
+T3	pathologie 468 526	recidiva doble situada en la transcavidad de los epiplones
+T4	pathologie 729 739	metástasis
+#1	SNOMED T3	360985001+79282002
+#2	SNOMED T4	128462008
+#3	SNOMED T1	363346000
+#4	SNOMED T2	128755003

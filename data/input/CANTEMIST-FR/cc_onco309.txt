@@ -1,0 +1,25 @@
+Anamnèse
+Patient âgé de 55 ans avec les antécédents personnels suivants : ouvrier en charpenterie métallique, fumeur de 60 paquets/an, buveur modéré.
+Il consulte le 19/03/16 pour une douleur (EVA 4) et une tuméfaction dans la région malaire droite évoluant depuis deux mois.
+
+Examen physique
+ÉCHO 1 : gonflement de la pommette droite, très douloureux à la palpation externe. La palpation intrabuccale du vestibule supérieur droit a révélé une tumeur de forme irrégulière, antérieure à la région malaire et adhérente à celle-ci. Aucune adénopathie locorégionale n'a été palpée. Le reste de l'examen n'a pas été modifié.
+
+Examens complémentaires
+Tomodensitométrie de la masse malaire et du cou (19/12/14) : Masse mesurant 41x35x26 mm, d'aspect solide, hétérogène, au niveau de l'os malaire droit, qui apparaît détruit. En surface, elle est limitée à la musculature zygomatique. En profondeur, la lésion atteint la fosse infratemporale avec atteinte de la musculature et de la partie antéro-crânienne du muscle masséter. Destruction de la paroi latérale et du bord externe de l'orbite droite, avec extension de la tumeur dans le sinus maxillaire et infiltration de la graisse de l'orbite. Au niveau de l'apex du poumon droit, il y avait une lésion nodulaire aux contours spiculés avec des extensions vers la plèvre.
+Le 13/01/15, une biopsie intrabuccale a été réalisée (biopsie de l'os zygomatique temporal).
+Anatomie pathologique (AP) : Adénocarcinome peu différencié.
+Immunohistochimie : CK 7 positive, TTF1 et CK20 négatives. Détermination du PSA négative.
+PET-CT (13/02/15) : masse malaire droite qui détruit cet os, la partie la plus antérieure de l'arcade zygomatique droite, ainsi que le plancher de l'orbite, qui a augmenté de taille par rapport au scanner, mesurant actuellement 49x48x62 mm (SUV 33,8). Nodule hypermétabolique au niveau de l'apex du poumon droit mesurant 13 mm (SUV 11,7).
+
+Diagnostic
+Adénocarcinome peu différencié du sinus maxillaire cT4acN0. Nodule pulmonaire hypermétabolique.
+
+Traitement
+Vu dans le service d'oncologie le 19/03/15, le patient a rapporté une douleur intense (VAS 7) secondaire à l'atteinte locorégionale importante. Compte tenu de la difficulté d'accès à la lésion pulmonaire pour la biopsie et du fait que la patiente était très symptomatique, il a été décidé de ne pas retarder le début du traitement. Une chimiothérapie d'induction (QT) a été débutée le 19/03/15 selon le schéma cisplatine 75mg/m2 plus docétaxel 75mg/m2 tous les 21 jours, recevant un total de 6 cycles (dernier le 02/07/15) avec une bonne tolérance (les seules toxicités ont été une neuropathie de grade 1-2 et une asthénie de grade 2).
+Après le sixième cycle de cisplatine-docétaxel, il a reçu une radiothérapie (RT) d'intention radicale au niveau locorégional et pulmonaire recevant une dose totale de 66 Gy sans traitement concomitant pour minimiser les toxicités (fin le 03/09/15). Le patient n'a pas eu de toxicité grave.
+
+Evolution
+Après le premier cycle, il y a eu une réponse clinique et une réponse radiologique partielle (au niveau local et pulmonaire) après le troisième cycle dans la tomodensitométrie de contrôle réalisée le 07/05/15.
+Après la fin du traitement par radiothérapie, un scanner de contrôle a été réalisé (26/10/15), montrant une réponse complète (CR) au niveau locorégional et une réponse partielle (PR) au niveau de la lésion pulmonaire. Le PET-CT réalisé le 14/12/15 a montré une réponse métabolique complète au niveau local et une réponse métabolique partielle au niveau pulmonaire.
+Le cas a été évalué par le comité des tumeurs thoraciques et il a été décidé de procéder à une résection en coin de la lésion pulmonaire, ce qui a été fait le 23/03/16. La biopsie peropératoire et l'anatomie pathologique définitive ont confirmé des changements fibrotiques sans détecter de cellules malignes, donc une RC au niveau malin et une réponse pathologique complète au niveau pulmonaire.

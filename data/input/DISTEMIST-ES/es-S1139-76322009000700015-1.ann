@@ -1,0 +1,28 @@
+T1	pathologie 81 101	exantema pruriginoso
+T2	pathologie 107 135	lesiones pápulo-eritematosas
+T3	pathologie 237 245	enantema
+T4	pathologie 360 375	neumonía en LII
+T5	pathologie 478 513	infección por Micoplasma pneumoniae
+T6	pathologie 515 530	exantema vírico
+T7	pathologie 541 565	mononucleosis infecciosa
+T8	pathologie 568 603	alergia medicamentosa a amoxicilina
+T9	pathologie 606 618	toxicodermia
+T10	pathologie 1180 1203	síndrome mononucleósico
+T11	pathologie 1412 1430	hepatitis A, B y C
+T12	pathologie 2112 2132	enfermedad de Wilson
+T13	pathologie 2279 2294	leve esteatosis
+T14	pathologie 2315 2335	enfermedad de Wilson
+#1	SNOMED T14	88518009
+#2	SNOMED T12	88518009
+#3	SNOMED T5	406595002
+#4	SNOMED T1	78934009
+#5	SNOMED T10	271558008
+#6	SNOMED T6	49882001
+#7	SNOMED T7	271558008
+#8	SNOMED T8	294505008
+#9	SNOMED T9	95326004
+#10	SNOMED T13	197321007
+#11	SNOMED T4	301000005
+#12	SNOMED T11	442374005+40468003
+#13	SNOMED T2	70831001
+#14	SNOMED T3	5862001

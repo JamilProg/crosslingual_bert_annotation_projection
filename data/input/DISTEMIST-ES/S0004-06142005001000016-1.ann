@@ -1,0 +1,12 @@
+T1	pathologie 39 72	síndrome obstructivo infravesical
+T2	pathologie 282 308	hernia inguinal reductible
+T3	pathologie 632 650	herniación vesical
+T4	pathologie 722 758	hernia vesical masiva en hemiescroto
+T5	pathologie 833 862	porción herniada de la vejiga
+T6	pathologie 910 925	hernia inguinal
+#1	SNOMED T1	416991005
+#2	SNOMED T2	396232000
+#3	SNOMED T3	410070006
+#4	SNOMED T4	410070006
+#5	SNOMED T6	396232000
+#6	SNOMED T5	410070006

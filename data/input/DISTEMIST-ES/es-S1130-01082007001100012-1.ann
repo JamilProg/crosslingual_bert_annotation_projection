@@ -1,0 +1,16 @@
+T1	pathologie 21 24	HTA
+T2	pathologie 26 29	IRC
+T3	pathologie 32 46	hipotiroidismo
+T4	pathologie 110 123	abdomen agudo
+T5	pathologie 128 141	shock séptico
+T6	pathologie 302 319	colitis isquémica
+T7	pathologie 429 434	shock
+T8	pathologie 600 629	hematoma del lecho quirúrgico
+#1	SNOMED T1	38341003
+#2	SNOMED T2	723190009
+#3	SNOMED T3	40930008
+#4	SNOMED T4	9209005
+#5	SNOMED T5	76571007
+#6	SNOMED T6	30588004
+#7	SNOMED T7	27942005
+#8	SNOMED T8	110265006

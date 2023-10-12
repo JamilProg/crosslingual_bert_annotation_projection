@@ -1,0 +1,33 @@
+Anamnèse
+Patiente âgée de 24 ans, avec des antécédents personnels de fibromyomes mammaires. Célibataire. Vit avec ses parents. Elle ne prend pas de médicaments régulièrement. Antécédents obstétricaux et gynécologiques : Ménarche à l'âge de 11 ans.
+Grossesses 2, Naissances 0, Avortements 2 (le premier interrompu volontairement et le second en cours). Date des dernières règles : novembre 2015.
+La patiente a subi un curetage obstétrique sous contrôle échographique le 12.1.2016 et le diagnostic anatomopathologique était compatible avec HIDATIFORM MOLA. La patiente a continué à présenter des taux élevés de β-sous-unité de β-gonadotrophine chorionique humaine (β-HCG) après le curetage, augmentant de >10 % en 3 déterminations sur 3 semaines, de sorte que le diagnostic de MALADIE TROPHBLASTIQUE DE GESTATION a été établi. Une étude d'extension a été réalisée et a permis d'exclure une maladie extra-utérine.
+Le système de stadification pour ce type de néoplasme est basé sur le système de la Fédération internationale de gynécologie et d'obstétrique (FIGO), bien que nous disposions également d'une échelle pronostique de l'Organisation mondiale de la santé (OMS) basée sur 8 facteurs de risque pour prédire une éventuelle résistance au traitement standard en monothérapie par le méthotrexate ou l'actinomycine D.
+La patiente était au stade I, défini par des taux de βHCG constamment élevés (dernière détermination 30136 mUl/ml) avec une tumeur confinée au corps utérin. Elle avait un score OMS de 4 points, suggérant un faible risque de résistance à la monothérapie (risque élevé avec un score ≥ 7).
+
+Il a donc été décidé de commencer un traitement de première intention par le méthotrexate en association avec l'acide folinique pour réduire la myélotoxicité, à une dose de 50 mg/m2 i.m. administrée chaque semaine, l'acide folinique étant administré 24 heures après chaque dose de méthotrexate. La tolérance au traitement a été excellente.
+La patiente a reçu 7 cycles de ce schéma, avec une diminution initiale des taux de β-HCG, mais a montré une augmentation lors de deux déterminations consécutives séparées par un intervalle de 2 semaines (diminution progressive jusqu'à 2043mUl/ml, et augmentations ultérieures à 2221 et 3470mUl/ml), et a donc été considérée comme réfractaire au traitement.
+Le cas a été discuté au sein du sous-comité des tumeurs gynécologiques de notre centre et il a été décidé de commencer un traitement par EMA/CO (Etoposide 100mg/m2 i.v. les jours 1 et 2, Methotrexate en bolus suivi de 200mg/m2 pendant 12 heures le jour 1, Actinomycine D 0.5mg i.v. en bolus les jours 1 et 2, Cyclophosphamide 600mg/m2 i.v. le jour 8 et Vincristine 1mg/m2 i.v. le jour 8) toutes les 2 semaines.
+
+Examen physique
+Patient en bon état général. Statut de performance 0. Poids 58 kg. Taille 152 cm. IMC 25,1.
+Surface corporelle 1,54. Exploration par appareil anodine à l'exception d'un abdomen discrètement distendu sans masse palpable.
+
+Tests complémentaires
+" IRM ABDOMEN ET PELVIS 15/02/2016 : Môle hydatiforme invasive avec kystes techalutés ovariens bilatéraux.
+* Une lésion est identifiée dans la cavité endométriale qui infiltre le myomètre au niveau du corps utérin gauche dans pratiquement toute son extension ; la lésion est mal définie mesurant environ 41 x 45 mm, elle est hétérogène avec des zones hyper et hypoéchogènes en son sein, et montre une vascularisation hétérogène supérieure au myomètre à l'étude dynamique, avec des zones de washout, étant compatible avec une MOLA HYDATIFORME INVASIVE.
+* Les ovaires situés au milieu de l'abdomen ont augmenté de taille, l'ovaire droit mesurant 11 cm et le gauche 12 cm, montrant des lésions kystiques multiseptales liées à un CYST TECALUTEINIQUE (voir les images ci-jointes). Le reste de la patiente ne présentait aucune altération.
+" Évolution des taux de βHCG après le début du traitement QT avec le schéma EMA/CO : 3470 mUL/ml => 649 mUL/ml => 108,4 mUL/ml => 4,2 mUL/ml (valeurs normales <5) => 1,7 mUL/ml => 0,9 mUL/ml => 0,1 mUL/ml.
+
+Diagnostic
+MALADIE TROPHOBLASTIQUE GESTATIONNELLE RÉFRACTAIRE AU MÉTHOTREXATE (GTD)
+
+Traitement
+Après trois cycles de traitement, la patiente a présenté une asthénie de grade 2 et après ce cycle, elle a présenté une anémie de grade 2 (hémoglobine 9 g/dl). Les contrôles hebdomadaires en série de la βHCG ont montré une normalisation, nous avons donc décidé de poursuivre trois cycles de traitement supplémentaires en tant que thérapie de consolidation afin de réduire le risque de rechute sur la base des données limitées de la littérature dans ce scénario.
+Nous avons commencé à administrer de l'érythropoïétine et du fer par voie orale et avons poursuivi la chimiothérapie selon le même schéma de traitement. Au 8ème jour du 5ème cycle, la patiente a continué à présenter des taux normaux de βHCG mais a commencé à souffrir de céphalées réfractaires à l'analgésie de premier niveau. Un scanner crânien hautement préférentiel a été demandé et, en attendant, la patiente a été admise dans notre unité pour une hémiparésie gauche d'apparition subaiguë.
+
+Evolution
+Une IRM veineuse crânienne et une IRM crânienne avec contraste ont montré des signes de THROMBOSE VÉNUSE INTRACRANIENNE AVEC AFFECTION EXTENSIVE, et une anticoagulation avec des héparines de faible poids moléculaire a donc été mise en place. Les céphalées se sont progressivement atténuées et le déficit neurologique s'est progressivement amélioré 48 heures après le début du traitement.
+Une évaluation a été demandée par la neurologie, qui a recommandé de répéter l'IRM crânienne dans 15 jours pour vérifier l'évolution de la thrombose.
+Etant donné la récupération clinique complète, la patiente a été libérée et nous attendons actuellement le résultat de l'IRM crânienne de contrôle, qui montrera probablement une amélioration des résultats thrombotiques, étant donné l'amélioration clinique.
+En ce qui concerne la maladie résiduelle au niveau de l'endomètre, elle a complètement disparu dans le scanner de contrôle récemment réalisé, qui montre une excellente réponse au traitement combiné EMA/CO, utilisé pour la première fois dans notre centre.

@@ -1,0 +1,10 @@
+T1	pathologie 65 146	lesiones vesículo-costrosas arracimadas pruriginosas periorbitarias y palpebrales
+T2	pathologie 174 197	herpes zóster palpebral
+T3	pathologie 539 574	lesión periorbitaria de tiña faciei
+T4	pathologie 789 797	lesiones
+T5	pathologie 846 856	queratosis
+#1	SNOMED T2	186544000
+#2	SNOMED T5	254666005
+#3	SNOMED T3	240696004
+#4	SNOMED T1	79893008+731869003
+#5	SNOMED T4	157670007

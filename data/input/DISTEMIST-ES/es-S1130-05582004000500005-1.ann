@@ -1,0 +1,30 @@
+T1	pathologie 101 109	disfagia
+T2	pathologie 275 293	retraso psicomotor
+T3	pathologie 401 411	talla baja
+T4	pathologie 414 428	hipotiroidismo
+T5	pathologie 658 670	ulceraciones
+T6	pathologie 685 707	adenopatías cervicales
+T7	pathologie 821 837	tiroides lingual
+T8	pathologie 821 878	tiroides lingual con obstrucción severa de la línea aérea
+T9	pathologie 1159 1175	tiroides lingual
+T10	pathologie 1229 1249	disfagia obstructiva
+T11	pathologie 1407 1433	tumoral en la base lingual
+T12	pathologie 1814 1820	lesión
+T13	pathologie 2066 2082	tiroides lingual
+T14	pathologie 2122 2145	tejido tiroideo lingual
+T15	pathologie 2243 2257	hipotiroidismo
+#1	SNOMED T13	21279007
+#2	SNOMED T15	40930008
+#3	SNOMED T14	21279007
+#4	SNOMED T11	126779009
+#5	SNOMED T2	1144814003
+#6	SNOMED T7	21279007
+#7	SNOMED T4	40930008
+#8	SNOMED T9	21279007
+#9	SNOMED T6	127086001
+#10	SNOMED T1	288939007
+#11	SNOMED T10	40739000
+#12	SNOMED T5	429040005
+#13	SNOMED T12	417163006
+#14	SNOMED T3	418519005
+#15	SNOMED T8	21279007+68372009

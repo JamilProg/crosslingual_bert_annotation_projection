@@ -1,0 +1,8 @@
+T1	pathologie 66 87	hipertensión arterial
+T2	pathologie 90 111	cardiopatía isquémica
+T3	pathologie 200 206	anemia
+T4	pathologie 415 463	perforación intestinal a nivel de colon sigmoide
+#1	SNOMED T1	38341003
+#2	SNOMED T2	194828000
+#3	SNOMED T3	271737000
+#4	SNOMED T4	712512004

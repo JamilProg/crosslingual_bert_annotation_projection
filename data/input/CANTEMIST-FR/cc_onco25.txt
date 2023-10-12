@@ -1,0 +1,26 @@
+Anamnèse
+Une femme de 48 ans, non-fumeuse, asthmatique et hypertendue, consulte pour des douleurs de la région lombaire irradiant vers la hanche droite depuis 6 mois, répondant mal au traitement antalgique et un syndrome général depuis 2 mois. Les examens appropriés ont été réalisés et le diagnostic a été posé : adénocarcinome pulmonaire avec atélectasie obstructive secondaire du lobe supérieur droit et stade IV en raison de l'atteinte pulmonaire, osseuse et cérébrale. Le phénotypage moléculaire a détecté une mutation du gène EGFR dans l'exon 21 (type L858R). Après l'administration d'une radiothérapie holocrânienne (10 fr, 300 cGy/fr), le gefitinib 250 mg par jour a été débuté en juillet 2014.
+
+Six semaines plus tard, elle s'est présentée au service des urgences avec une dyspnée accrue, une toux et une expectoration blanchâtre peu abondante. Aucune fièvre n'a été signalée.
+
+Examen physique
+Le patient présentait un ECOG-PS de 1. L'auscultation pulmonaire a révélé des crépitants télé-inspiratoires à la base droite avec un murmure vésiculaire diminué dans l'hémithorax gauche.
+
+Tests complémentaires
+" Les examens de laboratoire ont révélé une insuffisance respiratoire non hypercapnique et une légère leucocytose (12 800 leucocytes/μL) avec neutrophilie.
+" La radiographie thoracique a montré une résolution de l'atélectasie obstructive du DSL avec l'apparition d'un motif interstitiel dans le reste de l'hémithorax droit.
+"L'étude a été complétée par un scanner thoracique, confirmant la résolution de l'atélectasie obstructive et une diminution généralisée de l'atteinte métastatique pulmonaire multinodulaire bilatérale avec un remodelage osseux scléreux de multiples lésions lytiques. Cependant, malgré l'amélioration radiologique de la tumeur, on a observé le développement d'une maladie pulmonaire diffuse (en particulier basale droite), caractérisée par une augmentation diffuse de la radiodensité pulmonaire en verre dépoli, avec un épaississement de l'interstitium septal, suggérant une maladie interstitielle diffuse d'origine probablement toxique.
+"Études microbiologiques : cultures d'expectoration, hémocultures et sérologies pour Legionella pneumophila et Streptococcus pneumoniae négatives.
+
+Diagnostic
+Pneumopathie interstitielle secondaire au gefitinib.
+
+Traitement
+En cas de suspicion clinique de pneumopathie toxique due au géfitinib, l'administration de géfitinib a été interrompue et une corticothérapie à base de méthylprednisolone 60 mg/jour et un traitement antibiotique empirique à base de lévofloxacine ont été mis en place.
+
+Évolution
+Au cours de cette hospitalisation, l'évaluation de la réponse a été complétée par une tomodensitométrie cérébrale, qui a révélé une réponse radiologique complète. Le patient a montré une amélioration clinique et, après sa sortie, un nouveau scanner thoracique a été demandé deux semaines après le précédent. Ce scanner a montré une diminution des lésions associées à la toxicité du médicament (radiodensité persistant dans le verre dépoli) et une croissance pratiquement généralisée des nodules pulmonaires et de l'épanchement pleural. A ce stade, il a été décidé de commencer un traitement par cisplatine et permérexed à une dose de 75%. Toxicité : vomissements retardés de grade 1.
+
+La tomodensitométrie effectuée après le troisième cycle a révélé une progression. Il a donc été décidé d'entamer un traitement de troisième ligne à base de carboplatine, de paclitaxel et de bévacizumab. Après le début du traitement, il a conservé un ECOG-PS 2, avec une amélioration symptomatique de la dyspnée. Les toxicités comprenaient une asthénie, une neutropénie afébrile de grade III, une alopécie et une neuropathie périphérique, ce qui a conduit à une réduction de la dose de 30 %.
+
+Après le sixième cycle, un scanner a montré une réponse partielle avec résolution de la pneumopathie, et la patiente est passée au bévacizumab d'entretien, qui a été bien toléré.

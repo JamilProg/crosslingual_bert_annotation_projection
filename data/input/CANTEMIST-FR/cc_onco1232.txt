@@ -1,0 +1,39 @@
+Anamnèse
+Un thymome malin a été diagnostiqué chez un homme de 42 ans en octobre 1999, après qu'il eut présenté des difficultés à mâcher, une faiblesse faciale diffuse et une fatigue, principalement le soir, compatibles avec une myasthénie paranéoplasique. Elle a commencé un traitement à base de prednisone à faible dose et de mycophénolate 500 mg toutes les 12 heures, qui a complètement contrôlé ses symptômes et qui est toujours en cours à l'heure actuelle.
+Au moment du diagnostic, il a été décidé de commencer le traitement par trois cycles de chimiothérapie néoadjuvante de première intention à base de cisplatine, d'adriamycine et de cyclophosphamide, selon le schéma PAC. Il a répondu favorablement, puis une thoracotomie exploratrice a été pratiquée, montrant de nombreux implants pleuraux, diaphragmatiques et médiastinaux, et a donc été considéré comme non résécable. Il a poursuivi le traitement avec le schéma PAC jusqu'à la fin des 9 cycles et de la radiothérapie sur le lit tumoral, obtenant une réponse radiologique partielle majeure en juin 2000.
+En décembre 2004, il a présenté une rechute de la maladie au niveau pulmonaire, hépatique et osseux, pour laquelle il a commencé un traitement avec un schéma cisplatine-VP16 pendant 6 cycles, ce qui a stabilisé la maladie. En octobre 2005, une chimiothérapie de troisième ligne à base de docétaxel a été entamée, complétant 6 cycles avec une nouvelle stabilisation de la maladie. Par la suite, elle a été mise sous octeotride à libération prolongée à raison de 30 mg par voie intramusculaire tous les 28 jours, traitement qu'elle maintient à ce jour.
+En avril 2007, elle a consulté pour une forte fièvre de 39°C pendant plusieurs jours, des céphalées continues dans la région occipitale, une détérioration marquée de son état général et une perte de poids de 10 kg.
+
+Examen physique
+Mauvais état général, tension artérielle 3-4. Pâleur de la peau et des muqueuses, diaphorèse. Agitation psychomotrice, absence de réponse aux ordres simples, déconjugaison oculaire divergente et rigidité nucale. Abdomen globuleux, 2 hépatomégalies élastiques transversales et splénomégalie jusqu'à la ligne médiane de l'abdomen, toutes deux non douloureuses. L'auscultation cardio-pulmonaire était sans particularité.
+
+Examens complémentaires
+- Hémogramme : 1 500 leucocytes dont 70 % de neutrophiles, hémoglobine 11,3 g/dl avec MCV 92 fl et 37 000 plaquettes.
+- Biochimie et hémostase : pas de résultats significatifs.
+- Radiographie thoracique : perte de volume dans l'hémithorax droit. Image nodulaire évoquant une métastase.
+- Radiographie abdominale : hépatosplénomégalie.
+- Tomodensitométrie crânienne : pas de lésions aiguës dans les parenchymes cérébral, cérébelleux et du tronc cérébral. Pas de présence de collections hématologiques. Taille des ventricules dans les limites de la normale.
+- Liquide céphalo-rachidien : glucorrachie 18 mg/dl ; protéines totales 231 mg/dl ; cellules 63 cellules/mm ; mononucléaires 93% ; polynucléaires 7% ; liquide xanthochromique et trouble.
+- Culture du liquide céphalo-rachidien : positive pour Listeria monocytogenes type I.
+- Cytologie du liquide céphalo-rachidien : absence de cellules malignes.
+- Un dépistage de la méningite lymphocytaire a été effectué.
+- ADN d'entérovirus, d'herpèsvirus, d'arbovirus, de grippe, d'adénovirus : non détecté dans le liquide céphalorachidien.
+- Ziehl-Neesen dans le liquide céphalorachidien : négatif.
+- Hémoculture : positive pour Listeria monocytogenes type I.
+- Électrophorèse des protéines plasmatiques : hypergammaglobulinémie polyclonale.
+- Sérologie d'immunoglobuline M et d'immunoglobuline G pour Leishmania : positive.
+- Sérologie VIH : négative.
+- Ponction de moelle osseuse : présence de Leishmania intracorpusculaire et extracorpusculaire.
+
+Diagnostic
+Méningite aiguë à Listeria monocytogenes et leishmaniose viscérale.
+
+Traitement
+Au cours des premières 48 heures, il a reçu un traitement antibiotique empirique à base de méropénem et le mycophénolate a été retiré. Le patient s'est nettement amélioré, avec une disparition de la fièvre et un rétablissement complet de la conscience.
+Après l'isolement microbiologique positif de Listeria monocytogenes dans le liquide céphalo-rachidien et le sang, le régime antibiotique a été modifié et le traitement a commencé avec de l'ampicilline et de la gentamicine par voie intraveineuse. Il est resté apyrétique pendant 21 jours. Suite à l'arrêt du mycophénolate, il a présenté une exacerbation des symptômes myasthéniques, se manifestant par une diplopie binoculaire et une faiblesse faciale. En conséquence, le traitement a été maintenu avec 30 mg de prednisone toutes les 24 heures et le contrôle symptomatique a commencé avec 60 mg de pyridostigmine toutes les 8 heures, avec une nette amélioration.
+D'autre part, une ponction-aspiration de la moelle osseuse a été effectuée, qui a montré la présence de Leishmania à la fois intracorpusculaire et extracorpusculaire. Un traitement par amphotéricine B liposomale intraveineuse de 300 mg toutes les 24 heures et par aopurinol oral de 300 mg toutes les 8 heures a été instauré, qui a été bien toléré et le patient est resté totalement asymptomatique.
+
+Évolution
+En 2010, il a présenté une progression de la maladie au niveau cérébral, avec une seule métastase cérébrale et l'apparition de nouvelles lésions au niveau vertébral. Une métastasectomie cérébrale et une décompression neurochirurgicale ont été réalisées en raison d'une compression de la moelle épinière de D2 à D4.
+Le traitement a débuté par une chimiothérapie de quatrième intention à base d'adriamycine liposomale pégylée et une radiothérapie cérébrale palliative. Elle a montré une bonne tolérance au traitement, à l'exception d'une asthénie de grade 1.
+Enfin, en 2011, il a présenté une dyspnée et des douleurs thoraciques d'apparition soudaine. Les examens de laboratoire ont révélé la présence de D-dimères à 4 500 ng/ml. Une tomodensitométrie avec contraste des artères pulmonaires a montré un défaut de remplissage dans l'artère centrale du lobe inférieur gauche. On lui a diagnostiqué une thromboembolie pulmonaire et il est décédé deux jours plus tard en raison d'une insuffisance respiratoire.

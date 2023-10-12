@@ -1,0 +1,22 @@
+T1	pathologie 53 70	pérdida de visión
+T2	pathologie 171 186	carcinoma renal
+T3	pathologie 232 251	metástasis pulmonar
+T4	pathologie 669 694	desprendimiento de retina
+T5	pathologie 696 698	DR
+T6	pathologie 749 772	inflamación intraocular
+T7	pathologie 1279 1285	lesión
+T8	pathologie 1292 1294	DR
+T9	pathologie 1567 1596	metástasis de carcinoma renal
+T10	pathologie 1628 1651	infiltrar nervio óptico
+T11	pathologie 1860 1879	metástasis coroidea
+#1	SNOMED T2	254915003
+#2	SNOMED T3	94391008
+#3	SNOMED T5	42059000
+#4	SNOMED T8	42059000
+#5	SNOMED T9	702392008
+#6	SNOMED T11	94254004
+#7	SNOMED T4	42059000
+#8	SNOMED T7	417163006
+#9	SNOMED T1	267631003
+#10	SNOMED T6	128473001
+#11	SNOMED T10	312945001

@@ -1,0 +1,14 @@
+T1	pathologie 35 38	LES
+T2	pathologie 41 65	síndrome antifosfolípido
+T3	pathologie 416 436	hepatoesplenomegalia
+T4	pathologie 442 453	adenopatías
+T5	pathologie 657 677	hepatoesplenomegalia
+T6	pathologie 682 690	lesiones
+T7	pathologie 961 964	LES
+#1	SNOMED T1	55464009
+#2	SNOMED T2	26843008
+#3	SNOMED T4	30746006
+#4	SNOMED T7	55464009
+#5	SNOMED T3	36760000
+#6	SNOMED T5	36760000
+#7	SNOMED T6	157670007

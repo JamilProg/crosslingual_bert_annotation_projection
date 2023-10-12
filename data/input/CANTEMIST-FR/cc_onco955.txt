@@ -1,0 +1,33 @@
+Anamnèse
+Patiente âgée de 70 ans au moment du diagnostic, adressée au service d'oncologie médicale par l'unité de chirurgie mammaire après une biopsie d'une lésion ulcérée du sein gauche.
+Lors de la première consultation d'oncologie médicale (juillet 2016), les antécédents personnels de la patiente comprennent une hypertension depuis 20 ans et un traitement par losartan 100 mg vo c/24 heures, spironolactone 100 mg vo c/24 heures et amlodipine 10 mg vo c/24 heures. D'autre part, elle déclare avoir subi de multiples opérations pour un carcinome basocellulaire sur l'aile droite du nez, la dernière opération datant de février 2016. Elle nie également avoir des habitudes toxiques et des allergies médicamenteuses. Elle est indépendante pour les activités de base de la vie quotidienne.
+En avril 2016, elle a remarqué une tumeur ulcérée dans le sein gauche. Sa taille ayant augmenté, elle a décidé de se rendre aux urgences en juin 2016, d'où elle a été orientée vers l'unité de chirurgie mammaire.
+
+Examen physique
+À l'examen, le patient était en bon état général, avec un ECOG 1 (effort physique limité), un poids de 60 kg, une taille de 141 cm et une pâleur cutanée. L'auscultation cardiaque révèle la présence d'un souffle systolique panfocal de grade II/VI, prédominant au niveau du foyer aortique. L'examen des chaînes ganglionnaires n'a pas révélé d'adénopathies. L'auscultation pulmonaire n'a révélé aucune anomalie pathologique et l'abdomen ne présentait aucun signe de viscéro-mégalie. En revanche, le sein droit ne présentait aucune altération, mais le sein gauche présentait une tumeur érythémateuse d'environ 13 cm de diamètre maximum, avec des bords irréguliers et du tissu ulcéré et nécrotique dans le quadrant inférieur.
+
+Examens complémentaires
+" Biopsie-punch de la peau du sein gauche (juin 2016) : infiltration par un lymphome B non hodgkinien diffus à grandes cellules. Cellules néoplasiques positives pour le CD 20 et négatives pour les marqueurs épithéliaux et la lignée T.
+" PET-CT scan du thorax et de l'abdomen (juillet 2016) : lésion hypermétabolique avec taux de prolifération cellulaire élevé (SUVmax de 28,8) dans le sein gauche affectant l'ensemble de la glande et infiltrant la peau. Ganglion lymphatique axillaire gauche à faible taux de prolifération (SUVmax de 1,5), faible probabilité de malignité.
+" Echocardiographie (juillet 2016) : pathologie dégénérative aortique et mitrale sans lésion valvulaire hémodynamiquement significative. Bonne fonction systolique. Fraction d'éjection du ventricule gauche de 56 % (limite inférieure de la normalité : 55 %).
+"Sérologie négative pour l'hépatite B, l'hépatite C, la syphilis et le VIH.
+"Hémoglobine 9 mg/dl, leucocytes 11 460 mg/dl, neutrophiles 6 710 mg/dl, plaquettes 162 000 mg/dl.
+"Biochimie : créatinine 1,25 mg/dl, LDH 623 U/l.
+"Marqueur tumoral : bêta-2 microglobuline 7,7 mg/l (plage normale : 0,10-3,00).
+
+Diagnostic
+Lymphome primaire du sein.
+
+Traitement
+En juillet 2016, elle a commencé un traitement de première intention pour un lymphome non hodgkinien diffus à grandes cellules B de stade I du sein primaire gauche avec une chimiothérapie R-CHOP iv (rituximab 560 mg, cyclophosphamide 1 100 mg, doxorubicine 74 mg, vincristine 2 mg et prednisone 89 mg) en cycles de 21 jours avec un facteur de stimulation des colonies de granulocytes sc associé pendant 7 jours.
+Après le premier cycle, on a constaté une amélioration significative du gonflement du sein gauche, mais la patiente a présenté une asthénie g1 selon les critères terminologiques communs pour les événements indésirables version 4.0 (CTCAE-v 4.0).
+Après le deuxième cycle, la patiente a continué à présenter une asthénie de niveau 1, à laquelle se sont ajoutées une hyporexie de niveau 1, une alopécie de niveau 2 et une mucosite de niveau 1. En outre, la lésion mammaire a continué à s'améliorer progressivement et était désormais limitée au quadrant interne interne.
+Lorsqu'elle s'est présentée au service d'oncologie médicale pour évaluer le début du quatrième cycle de chimiothérapie, la patiente présentait un mauvais état général associé à une désorientation et à une dysarthrie, de sorte qu'un scanner du crâne a été réalisé, qui a révélé un infarctus lacunaire dans la couronne radiale gauche.
+Le quatrième cycle de chimiothérapie a été suspendu et la patiente a été admise dans l'unité des accidents vasculaires cérébraux.
+
+L'évolution
+Elle a été hospitalisée dans l'unité des accidents vasculaires cérébraux pendant 5 jours. L'échographie Doppler des troncs supra-aortiques n'a rien révélé de significatif et elle est sortie de l'hôpital avec un diagnostic d'AVC ischémique aigu dans le territoire de l'artère cérébrale moyenne gauche d'origine cardioembolique et de fibrillation auriculaire paroxystique. La trazodone 100 mg vo c/24 heures la nuit et l'enoxaparine sc 60 mg c/12 heures ont été ajoutées à son traitement habituel.
+La patiente a connu une amélioration clinique progressive mais lente, ce qui l'a empêchée de se rendre à la consultation d'oncologie médicale pour déterminer s'il fallait poursuivre la chimiothérapie.
+Une TEP-TDM de suivi a été réalisée en octobre 2016, qui a montré une diminution significative de la taille et du degré de captation de la lésion du sein gauche, avec une augmentation pathologique persistante de la captation du traceur, affectant principalement la région centrale et les quadrants inférieurs, avec des dimensions globales d'environ 8 x 2,5 x 5 cm et un SUVmax de 6,3 (SUV précédent de 28,8). On a considéré qu'il s'agissait d'une réponse métabolique partielle.
+Elle a été adressée au service de radio-oncologie et, une fois son état général amélioré, elle a été mise sous radiothérapie adjuvante. Du 13 décembre au 11 janvier 2017, 40 Gy ont été administrés sur le sein gauche et la lésion résiduelle plus la marge et 32 Gy sur les aires ganglionnaires axillaires (niveaux I-II-III et fosse supraclaviculaire), tous deux avec un fractionnement de 2 Gy/jour, 5 jours par semaine, en utilisant la technique 3DC avec des photons de 6 et 15 Mv.
+Enfin, en février 2017, la patiente est revenue au service d'oncologie médicale, asymptomatique, en bon état général, sans séquelle de l'infarctus cérébral et avec la lésion du sein gauche en très bon état et complètement cicatrisée.

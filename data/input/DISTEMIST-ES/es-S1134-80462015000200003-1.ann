@@ -1,0 +1,8 @@
+T1	pathologie 26 35	diabético
+T2	pathologie 38 48	hipertenso
+T3	pathologie 59 90	enfermedad renal crónica severa
+T4	pathologie 186 204	coxartrosis severa
+#1	SNOMED T1	73211009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	709044004
+#4	SNOMED T4	239872002

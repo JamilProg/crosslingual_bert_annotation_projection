@@ -1,0 +1,33 @@
+Anamnèse
+Femme de 50 ans, récemment diagnostiquée avec un carcinome canalaire infiltrant localement avancé du sein gauche (cT2N2M0), récepteurs hormonaux négatifs, HER2 négatif, indice de prolifération 70% et grade nucléaire III, en attente de traitement. Pas d'autres antécédents intéressants. Pas d'allergies médicamenteuses ni de traitement habituel.
+
+Le patient s'est présenté aux urgences après 10 jours de malaise général, de faiblesse musculaire et d'apparition de lésions cutanées.
+
+Il a fait état d'une faiblesse musculaire dans la région proximale des membres supérieurs et, plus tard, également dans les membres inférieurs, avec une limitation fonctionnelle importante (incapacité de lever les bras pour se coiffer ou monter les escaliers), ainsi qu'une asthénie intense. L'affection était associée à l'apparition de lésions papuleuses érythémateuses sur le visage, avec une dissémination ultérieure à la région du décolleté et au dos de la main droite. Elle n'avait pas présenté de fièvre ni d'autres symptômes d'origine infectieuse probable.
+
+Examen physique
+Hémodynamiquement stable. Afébrile. L'examen physique révèle une tumeur érythémateuse dure au niveau du sein gauche, d'environ 4 cm de diamètre. Limitation de la force des muscles proximaux des membres supérieurs (III-IV/V) et des membres inférieurs (IV/V). La peau présente des lésions érythémato-violacées desquamatives dans les régions périoculaires, frontociliaires et nasogéniennes et des lésions érythémato-décamatives sur le décolleté et le dos des métacarpophalanges de la main droite. Il n'y avait pas de lésions des ongles.
+
+Examens complémentaires
+Le patient est admis dans le service de rhumatologie où les examens suivants sont effectués :
+"Étude de l'auto-immunité : immunoglobulines normales. Facteur rhumatoïde négatif. Anti-CCP négatif. C4 et C3 normaux. ENAs, ANA, ANOEs, ANCAs, a-DNA, anti-B2GP et anticardiolipine : négatifs.
+"Sérologie : VIH, VHC, VHB négatifs. IgG EBV positives. IgG CMV positives (anti-core HBV positif. AgHBbs négatif. AcHBs négatif).
+"Marqueurs tumoraux : CEA et Ca 15.3 non élevés.
+"CT thoracique-abdomino-pelvien : masse hétérogène mixte, d'environ 4 cm, dans les quadrants internes du sein gauche. Adénopathie axillaire gauche évoquant une tumeur maligne.
+Il n'y a pas de résultats pathologiques au niveau pulmonaire, abdominal ou pelvien.
+"Échocardiographie transthoracique : aucun signe pathologique.
+"Electromyographie : dénervation minime du muscle deltoïde droit, compatible avec une activité inflammatoire.
+"Biopsie cutanée de la région du cou : dermatite lichénoïde périanale et périvasculaire superficielle et profonde, compatible avec une dermatomyosite.
+"Biopsie du muscle deltoïde : muscle squelettique avec de nombreuses fibres musculaires nécrosées à différents stades de développement. On observe également des fibres musculaires en régénération et des cellules inflammatoires mononucléaires isolées. L'immunohistochimie (IHC) avec un anticorps contre l'antigène d'histocompatibilité de type 1 montre un immunomarquage à la périphérie de certaines fibres. Ces altérations sont compatibles avec une myopathie inflammatoire.
+
+Diagnostic
+Dermatomyosite paranéoplasique.
+
+Traitement
+Le traitement a commencé par de fortes doses de corticostéroïdes, 60 mg de prednisone par jour, avec une certaine amélioration des symptômes. Étant donné la forte probabilité que les symptômes correspondent à une dermatomyosite paranéoplasique, il a été décidé de commencer un traitement néoadjuvant spécifique pour sa maladie oncologique avec du paclitaxel 80 mg/m2 et du carboplatine AUC6 pendant l'admission.
+
+Évolution
+Compte tenu de sa stabilité clinique, la patiente a été autorisée à poursuivre son traitement en ambulatoire au service d'oncologie médicale, où elle a été traitée par 12 cycles de carboplatine AUC6 et de paclitaxel 80 mg/m2 suivis de quatre cycles de doxorubucine 60 mg/m2 et de cyclophosphamide 600 mg/m2 avec une excellente tolérance et une résolution complète des symptômes paranéoplasiques. Les valeurs de CK se sont normalisées deux semaines après le début du traitement par corticostéroïdes et chimiothérapie.
+
+L'IRM mammaire, réalisée après le traitement néoadjuvant, montre une réponse partielle majeure avec une tumeur de 11 mm et une petite adénopathie axillaire gauche résiduelle.
+La patiente est actuellement en attente d'une intervention chirurgicale pour la tumeur du sein.

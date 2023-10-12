@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 65 ans, pas d'allergies médicamenteuses connues, fumeur de 30 cigarettes par jour depuis l'âge de 30 ans et alcoolique modéré. Pas d'antécédents pathologiques intéressants.
+Ses antécédents oncologiques ont commencé en décembre 2010 avec l'apparition d'un nodule douloureux dans la muqueuse jugale, accompagné d'un gonflement du visage. Les symptômes ont été diagnostiqués comme un phlegmon et une antibiothérapie empirique a été mise en place. Compte tenu de l'augmentation progressive de la taille de la tumeur et de la douleur qui l'accompagnait, il a été décidé d'adresser le patient au service de chirurgie maxillo-faciale de notre centre.
+Service de chirurgie maxillo-faciale de notre centre.
+
+Examen physique
+Bon état général. Indice de Karnofsky à 90%.
+Cavité buccale : absence de certaines dents.
+Tumeur de 5 cm dans la muqueuse jugale droite.
+Adénopathie sous-maxillaire droite d'environ 5 cm. Le reste de l'examen physique était sans particularité.
+
+Examens complémentaires
+- Biopsie de la muqueuse jugale (24 décembre 2010) : diagnostic anatomopathologique de carcinome indifférencié à petites cellules avec un profil immunohistochimique positif pour la synaptophysine et le CAM 5.2 et négatif pour le CD3, le CD20 et la vimentine.
+- L'IRM de la tête et du cou montre une lésion expansive de l'espace buccal droit provenant de la muqueuse jugale avec des diamètres de 3 x 4,2 x 3,4 cm, en contact avec le trigone rétromolaire droit, avec perte de la corticale osseuse de la branche mandibulaire, ainsi qu'une adénopathie dans la chaîne sous-maxillaire droite de plus de 4 cm.
+- Compte tenu de la possibilité d'un traitement radical et de l'agressivité de ce type de tumeur, il a été décidé de réaliser une étude d'extension avec PET-CT qui a confirmé l'existence d'une lésion tumorale primaire jugale droite, d'un conglomérat adénopathique hypermétabolique (SUV 10 g/mL) métastatique sous-maxillaire et jugulaire supérieure droite, d'un petit nodule jugulaire moyen droit compatible avec une origine métastatique et de multiples lésions osseuses métastatiques dans les corps vertébraux de D11, L2, l'iléon gauche et le tiers proximal du fémur.
+Une scintigraphie osseuse a été demandée pour le suivi, et aucune image pathologique hypercapillaire attribuable à une métastase n'a été observée, ce qui indique une faible réaction blastique.
+Compte tenu de l'incidence élevée des métastases cérébrales dans les lésions de cette histologie, une IRM crânienne a été réalisée, qui a permis d'exclure une dissémination à ce niveau.
+
+Diagnostic
+Il s'agit d'un carcinome indifférencié à petites cellules de la muqueuse jugale T4aN2bM1, stade IV en raison de métastases osseuses.
+
+Traitement
+Une chimiothérapie de première ligne a été mise en place avec 75 mg/m2 de cisplatine le premier jour et 100 mg/m2 d'étoposide les premier, deuxième et troisième jours tous les 21 jours, avec six cycles, qui ont été achevés le 18 mai 2011.
+Les complications du traitement comprenaient une asthénie de grade 3, une anémie de grade 3 nécessitant un soutien transfusionnel, une alopécie de grade 2 et une neutropénie afébrile de grade 3 à deux reprises, nécessitant des retards dans l'administration des 4ème et 5ème cycles, pour lesquels des facteurs de stimulation des colonies de granulocytes ont été administrés à partir du 5ème cycle. La patiente a présenté une réponse clinique locale depuis le premier cycle. L'évaluation après le 6ème cycle par IRM de la tête et du cou montre une réponse pratiquement complète de la tumeur primaire et une réponse partielle au niveau des ganglions lymphatiques. Le scanner PET-CT a montré une réponse complète de la tumeur primaire et de la dissémination osseuse et une réponse partielle des ganglions lymphatiques sous-mandibulaires droits.
+En raison du bénéfice clinique évident obtenu et de l'incidence élevée des métastases cérébrales dans ce type de tumeur, il a été décidé d'effectuer une radiothérapie prophylactique holocrânienne, avec une dose totale de 25 Gy en dix fractions, du 7 juillet 2011 au 21 juillet 2011.
+
+Évolution
+Lors du bilan de santé de septembre 2011, une lésion pierreuse blanchâtre exophytique de 2 x 2 cm a été observée dans la muqueuse jugale droite, s'étendant aux tissus mous de la musculature massétérine, sans présence claire d'adénopathie à la palpation, ce qui est compatible avec une progression. L'IRM de la tête et du cou confirme la progression de la maladie localement et dans les ganglions lymphatiques et la TEP-TDM montre une progression de la maladie localement et dans les ganglions lymphatiques, mais la réponse complète des métastases osseuses persiste. Une chimiothérapie de deuxième ligne à base de paclitaxel et de carboplatine a été mise en place sur une base hebdomadaire en raison de l'importante myélotoxicité antérieure, avec une réponse partielle après deux mois de traitement. Les complications comprenaient une neurotoxicité périphérique de grade 2 et une toxicité hématologique de grade 3 (anémie et plaquettes), qui a nécessité une réduction de 50 % de la dose.
+En novembre 2011, une nouvelle progression locale et ganglionnaire a été observée. En raison de la myélotoxicité persistante de la chimiothérapie, il a été décidé de réaliser une radiothérapie de 30 Gy en dix fractions sur la muqueuse jugale droite et l'adénopathie sous-maxillaire, qui s'est terminée le 28 décembre 2011 avec une réponse partielle, présentant une mucosite de grade 3 comme complication.
+En mars 2012, il a été admis dans notre centre en raison de la détérioration de son état général et d'une encéphalopathie avec altération de la fonction hépatique. Une progression du néoplasme a été observée avec la présence de lésions multiples dans le foie, des adénopathies mésentériques, rétropéritonéales et pelviennes, des nodules pulmonaires et l'apparition de nouvelles lésions osseuses. L'évolution du patient a été rapidement défavorable et il est décédé le 7 mars 2012.

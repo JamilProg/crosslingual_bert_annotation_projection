@@ -1,0 +1,20 @@
+T1	pathologie 164 228	síndrome de Klippel-Trenaunay, con afección del miembro inferior
+T2	pathologie 333 389	angioma plano a nivel de la cara anteroexterna del muslo
+T3	pathologie 391 466	varicosidades venosas llamativas, tanto a nivel del muslo como de la pierna
+T4	pathologie 478 506	trastornos tróficos cutáneos
+T5	pathologie 723 755	trastornos cutáneos de su pierna
+T6	pathologie 800 808	lesiones
+T7	pathologie 930 955	malformaciones vasculares
+T8	pathologie 1070 1114	afección cutánea por el éstasis circulatorio
+T9	pathologie 1305 1322	sufrimiento fetal
+T10	pathologie 2369 2394	fenómenos tromboembólicos
+#1	SNOMED T1	721105004
+#2	SNOMED T10	371039008
+#3	SNOMED T5	128137003
+#4	SNOMED T7	27550009
+#5	SNOMED T9	130955003
+#6	SNOMED T2	416377005
+#7	SNOMED T3	72866009
+#8	SNOMED T8	35498005
+#9	SNOMED T4	95324001
+#10	SNOMED T6	157670007

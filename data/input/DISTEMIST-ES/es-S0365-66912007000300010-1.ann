@@ -1,0 +1,18 @@
+T1	pathologie 69 137	corte sangrante en el cuello realizado al caerse sobre el escaparate
+T2	pathologie 180 245	traumatismo inciso en la región antero-lateral derecha del cuello
+T3	pathologie 470 476	herida
+T4	pathologie 498 512	visión borrosa
+T5	pathologie 767 783	ptosis palpebral
+T6	pathologie 954 965	traumatismo
+T7	pathologie 1031 1039	hematoma
+T8	pathologie 1207 1257	solución de continuidad en la vena yugular externa
+T9	pathologie 1322 1340	síndrome de Horner
+#1	SNOMED T1	283407006
+#2	SNOMED T2	90460009
+#3	SNOMED T5	11934000
+#4	SNOMED T7	385494008
+#5	SNOMED T8	5166001
+#6	SNOMED T9	271730003
+#7	SNOMED T3	416462003
+#8	SNOMED T6	417746004
+#9	SNOMED T4	246636008

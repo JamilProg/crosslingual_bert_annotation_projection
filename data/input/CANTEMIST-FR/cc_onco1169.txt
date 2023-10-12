@@ -1,0 +1,47 @@
+Anamnèse
+Femme de 47 ans sans antécédents médicaux ou chirurgicaux, ni antécédents familiaux intéressants.
+Elle a consulté en janvier 2010 pour des douleurs abdominales, des diarrhées et des rectorragies depuis un mois. Une coloscopie, une gastroscopie, une tomodensitométrie (CT) du thorax-abdomen-pelvis et une imagerie par résonance magnétique (IRM) abdomino-pelvienne ont été réalisées et ont révélé une colite ulcéreuse, une carcinomatose péritonéale et des tumeurs ovariennes bilatérales évocatrices d'une néoplasie primitive.
+Une intervention chirurgicale a été pratiquée : hystérectomie avec double annexectomie, omentectomie, lymphadénectomie pelvienne et iléostomie de décharge. Le résultat anatomopathologique de la pièce a montré une atteinte ovarienne bilatérale par un adénocarcinome avec des cellules en anneau de signet dans 75 % de la tumeur, compatible avec une tumeur de Krukenberg d'origine colique de stade IV.
+La coloscopie a été répétée et a confirmé l'origine primaire du néoplasme après résolution du processus inflammatoire. Dans la période postopératoire immédiate, la patiente a présenté une thromboembolie pulmonaire bilatérale et a été anticoagulée avec de l'héparine de faible poids moléculaire.
+Elle a commencé un traitement de chimiothérapie palliative selon le schéma FOLFOX-4 (5-fluorouracile, leucovorine et oxaliplatine), avec une réponse partielle après 6 cycles, pour lesquels elle a poursuivi le traitement, et des toxicités : neutropénie de grade 4, anémie de grade 2, mucosite de grade 2 et neuropathie périphérique de grade 1.
+Elle a consulté 7 jours après la perfusion du neuvième cycle en raison de céphalées oppressantes frontopariétales gauches (EVA 8/10) et d'une vision floue de l'œil gauche. Elle n'a pas signalé de douleur au mouvement des yeux ni de traumatisme antérieur. Elle n'avait pas présenté d'épisodes similaires auparavant.
+
+Examen physique
+Évaluation par l'ophtalmologue :
+- Pupilles isochoriques normoréactives. Réflexes pupillaires conservés. Cornée, conjonctive et chambre antérieure sans anomalie.
+- Acuité visuelle : œil droit 1, œil gauche visualise les doigts à 30 cm.
+- Pression intraoculaire 16 cm H2O.
+- Fond d'oeil bilatéral : pas d'oedème papillaire. Pas de signes de vascularite ou d'hémorragie. Intégrité rétinienne. Macula et fibres nerveuses sans signes pathologiques.
+Évaluation par la neurologie :
+- Sensibilité vibratoire absente au pied gauche, le reste ne présentant pas de signes de focalité neurologique.
+
+Examens complémentaires
+- Tomographie par cohérence optique : macula et papille dans les limites de la normale.
+- Analyses sanguines : Protéine C-réactive 14 mg/dl (< 5), vitesse de sédimentation des érythrocytes 120 mm/h (< 25), ACE 58 UI/l (8-55), protéines totales 6,05 g/dl (6,3-8,2), gamma glutamyltranspeptidase (GGT) 103 UI/l (12-43), phosphatase alcaline 198 UI/l (38-126), lactate déshydrogénase 452 UI/l (313-618), hémoglobine 10,4 g/dl (12-15,5), hématocrite 32,5 % (35-45), leucocytes 17,42 x 10³/ ?l avec 69% de neutrophiles (4-11). Les autres résultats sont normaux, y compris le facteur rhumatoïde, la fonction thyroïdienne, la vitamine B12 et l'acide folique.
+- Auto-immunité : ANCA, anti-ENA, anti-ADN, antineuronal, anti-Hu négatifs.
+- EEF sérique : diminution de l'albumine et de l'alpha-lipoprotéine, augmentation de l'alpha-1-antitrypsine et de l'haptoglobine.
+- Ponction lombaire : pression d'écoulement de 5 cm H2O. Biochimie : légère hyperprotéinorrachie de 64 mg/dl.
+- Sérologies pour Llúes, herpès 1 et 2, entérovirus, Epstein-barr, CMV, Borrellia, Brucella négatives dans le liquide céphalo-rachidien.
+- Électrocardiogramme : rythme sinusal à 80 bpm, sans altération de la repolarisation.
+- Radiographie pulmonaire : normale.
+- Tomodensitométrie crânienne : pas d'altérations significatives.
+- IRM crânienne : épaisseur plus importante du nerf optique gauche qui ne se rehausse pas au gadolinium par rapport au droit. Repos sans résultats significatifs.
+- IRM de la colonne cervicale : rectification de l'axe vertébral avec des changements dégénératifs minimes en C3-C4.
+- Potentiels évoqués : réponses polyphasiques désagrégées avec des latences accrues et des amplitudes réduites dans l'œil gauche. Étude compatible avec une atteinte de type mixte de la voie optique de l'œil gauche, avec une atteinte plus importante des faisceaux maculaires à un degré actuel sévère.
+
+Diagnostic
+Névrite optique postérieure gauche secondaire à un traitement cytostatique.
+
+Traitement
+Après le diagnostic initial de névrite optique, une corticothérapie systémique à base de méthylprednisolone intraveineuse à forte dose et un traitement top-down oral ont été mis en place.
+
+Évolution
+Le patient a présenté une progression du déficit visuel malgré une corticothérapie précoce. Le diagnostic de névrite optique postérieure secondaire à la chimiothérapie ayant été posé, il a été décidé d'arrêter l'oxaliplatine et de poursuivre le 5-fluorouracile en monothérapie.
+L'examen effectué par l'ophtalmologiste trois mois après le début de l'affection a révélé les signes suivants :
+- Pupilles isochoriques normoréactives. Réflexes pupillaires préservés. Cornée, conjonctive et chambre antérieure sans anomalie.
+- Acuité visuelle : œil droit 1,2. L'œil gauche ne perçoit ni ne projette la lumière : amaurose.
+- Réflexes pupillaires : œil droit conservé. Œil gauche : indirect aboli en présence de consensuel.
+- Fond d'œil : l'œil droit est normal. L'œil gauche présente des signes d'atrophie de la papille optique, sans autre particularité.
+Aucun autre signe de focalité neurologique. L'IRM crânienne ne montre aucune différence entre les deux nerfs optiques ou à d'autres niveaux.
+Le traitement au 5-fluorouracile a été poursuivi jusqu'à la progression au niveau du côlon droit et du péritoine, 20 mois après le début du traitement. Le traitement antinéoplasique spécifique a été interrompu et le traitement symptomatique a été poursuivi.
+Elle a présenté un épisode d'occlusion intestinale maligne, pour lequel un traitement médical a été mis en place, sans résolution de l'état, et est décédée en janvier 2012, 2 mois après la progression de la maladie.

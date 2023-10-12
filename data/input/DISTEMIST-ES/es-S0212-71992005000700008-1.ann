@@ -1,0 +1,16 @@
+T1	pathologie 57 65	alergias
+T2	pathologie 484 499	hernia de hiato
+T3	pathologie 504 514	esofagitis
+T4	pathologie 525 556	reflujo biliar duodeno-gástrico
+T5	pathologie 1095 1133	hiperpigmentación cutánea generalizada
+T6	pathologie 1955 1969	hiperpotasemia
+T7	pathologie 2045 2054	hipotenso
+T8	pathologie 2102 2119	crisis adisoniana
+#1	SNOMED T6	14140009
+#2	SNOMED T8	766986002
+#3	SNOMED T2	84089009
+#4	SNOMED T3	16761005
+#5	SNOMED T4	72950008
+#6	SNOMED T1	106190000
+#7	SNOMED T5	49765009
+#8	SNOMED T7	45007003

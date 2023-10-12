@@ -1,0 +1,36 @@
+ANAMNÈSE
+Patient de 56 ans aux antécédents de BPCO et fumeur de 36,9 paquets/an. Il a consulté en avril 2017 pour avoir présenté une douleur thoracique gauche à caractéristiques pleurales d'évolution de 2 semaines, accompagnée d'une majoration de sa dyspnée de base, qui est passée d'un effort modéré à un effort minime, associée à une toux non productive, sans fièvre et sans symptôme évocateur d'une insuffisance cardiaque.
+
+EXAMEN PHYSIQUE
+À l'examen, le patient est eupnéique au repos avec une SpO2 à 99 % (FiO2 0,21).
+L'auscultation pulmonaire montre un murmure vésiculaire diminué dans le tiers moyen de l'hémithorax gauche. Le reste de l'examen physique est normal.
+
+EXAMENS COMPLÉMENTAIRES
+- Radiographie thoracique : signes d'hyperinflation et de perte de volume évoquant une atélectasie de la lingula.
+- ECG : rythme sinusal à 80 bpm. Pas de signes d'ischémie aiguë.
+- NFS : leucocytes 10 400, neutrophiles 61,2 %, hémoglobine 13,7, hématocrite 39,6, plaquettes 603 000.
+- Fonctions rénale et hépatique normales.
+- Fibrobronchoscopie : bronche lingulaire supérieure avec lésion exophytique nécrotique.
+- CT TAP : Masse hilaire gauche de 61 x 45 mm associée à une atélectasie de la lingula. Nodule de 30 mm dans la fissure mineure, nodule controlatéral dans la LM de 9 mm. Pas de lésions métastatiques à distance.
+- PET-CT : masse adénopathique sous-aortique (SUV maximum 12,2). Masse parahilaire gauche (SUV maximum 15,6). Nodule pulmonaire controlatéral sur la fissure mineure (SUV maximum 1,3).
+
+
+ANATOMIE PATHOLOGIQUE
+Carcinome indifférencié largement nécrosé. EGFR, ALK, ROS-1 négatifs. PD-L1 (TPS < 1%).
+
+JUGEMENT DIAGNOSTIQUE
+Carcinome indifférencié du poumon, stade IV (T2bN2M1a), EGFR, ALK, ROS1 et PDL1 négatifs.
+
+TRAITEMENT
+Un traitement est prévu dans le cadre de l'essai clinique PIPSEN avec CDDP/VNR à partir du 09/06/2017.
+
+ÉVOLUTION
+Au cours du traitement, deux épisodes de neutropénie afébrile G-II et III sont survenus comme effet indésirable, rendant nécessaire la réduction de la dose à 75%, terminant 6 cycles le 03/10/17.
+Le scanner de réévaluation après 6 cycles a montré une réponse partielle plus importante (63% pour RECIST
+1.1) avec une réduction significative de la taille de la masse hilaire et de la fissure mineure gauche, ainsi que de l'atteinte médiastinale. Nodule LM stable (9 mm).
+
+Elle a été randomisée pour recevoir un traitement d'entretien dans le cadre de l'essai et a commencé le 09/11/17 à prendre de l'Olaparib 300 mg/ 12 heures/jour.
+Le 14/02/18, elle a présenté un PTE incident et a été mise sous anticoagulation avec Hibor 7500MU par jour pendant 6 mois. La patiente a conservé une stabilité radiologique, un bon état général, un PS0 et aucune toxicité liée au traitement.
+En juillet 2018, elle a présenté une progression de la maladie avec une augmentation de la masse hilaire et des nodules pulmonaires connus, de sorte qu'une deuxième ligne de traitement avec Atezolizumab a été lancée.
+Lors de la première évaluation après 3 cycles, il y avait des preuves d'une augmentation de la taille des lésions pulmonaires avec une augmentation de la charge tumorale de 48% selon RECIST1.1. La patiente est restée asymptomatique et sans toxicité associée, de sorte que le diagnostic différentiel de pseudoprogression par rapport à une véritable progression a été envisagé.
+Il a été décidé de poursuivre le traitement avec une nouvelle réévaluation après 5 cycles, présentant une réduction de la charge tumorale de 27%, confirmant le diagnostic de pseudoprogression et la poursuite du traitement par Atezolizumab. Il a actuellement reçu 9 cycles, conservant des critères radiologiques de maladie stable et continue d'être suivi en consultations d'oncologie médicale.

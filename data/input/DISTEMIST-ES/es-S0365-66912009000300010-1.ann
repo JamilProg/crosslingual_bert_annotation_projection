@@ -1,0 +1,20 @@
+T1	pathologie 209 222	cuadro gripal
+T2	pathologie 485 554	lesiones confluentes blanco-grisáceas en polo posterior en ambos ojos
+T3	pathologie 599 604	EPPMA
+T4	pathologie 918 926	lesiones
+T5	pathologie 1425 1444	vasculitis cerebral
+T6	pathologie 1587 1597	vasculitis
+T7	pathologie 1803 1831	diplopía en la visión lejana
+T8	pathologie 1865 1901	parálisis del VI par craneal derecho
+T9	pathologie 2118 2126	diplopía
+T10	pathologie 2148 2156	diplopía
+#1	SNOMED T10	24982008
+#2	SNOMED T7	24982008
+#3	SNOMED T5	427020007
+#4	SNOMED T8	398760006
+#5	SNOMED T1	6142004
+#6	SNOMED T6	31996006
+#7	SNOMED T9	24982008
+#8	SNOMED T3	89188001
+#9	SNOMED T2	262756006
+#10	SNOMED T4	157670007

@@ -1,0 +1,19 @@
+Anamnèse
+Nous présentons le cas d'une femme de 77 ans avec des antécédents familiaux de cancer du sein et de cancer de l'ovaire (2 cousines atteintes d'un cancer du sein à 35 et 57 ans et 1 cousine atteinte d'un cancer de l'ovaire à 71 ans, toutes deux du côté maternel), sans antécédents personnels intéressants, qui a été admise en médecine interne fin janvier 2016 pour être étudiée pour des douleurs abdominales de longue date et une ascite d'apparition récente.
+
+Examen physique
+Le patient présentait une ascite abondante, pas d'ascite de tension, pas d'œdème dans les membres inférieurs et pas d'autres résultats pertinents à l'examen physique.
+
+Tests complémentaires
+Son médecin traitant avait demandé une échographie montrant une ascite et un épaississement de l'épiploon évoquant un processus néoplasique sous-jacent, sans que l'examen et l'échographie gynécologique ne révèlent la présence d'une tumeur primaire. Une biopsie d'un implant omental guidée par tomodensitométrie a été réalisée et a révélé un carcinome séreux de haut grade d'origine ovarienne probable, ce qui correspondait à l'élévation sanguine du marqueur tumoral Ca 125 jusqu'à 631,10 UI/ml (normale < 35).
+
+Diagnostic
+Après avoir terminé l'étude d'extension (stade final : IIIC), la résécabilité a été évaluée par une laparotomie exploratrice, qui a révélé une atteinte étendue de toute la racine du mésentère, qui n'a pas été considérée comme résécable. Par la suite, la patiente a présenté une subocclusion intestinale en raison de l'atteinte étendue de la tumeur péritonéale, et il a donc été décidé de la transférer dans le service hospitalier d'oncologie médicale pour commencer le traitement par chimiothérapie (QT).
+
+Traitement
+Compte tenu de la fragilité à ce moment-là, avec un ECOG 2 de base, chez une patiente âgée avec une tumeur très chimiosensible, un traitement d'induction a été débuté avec du paclitaxel 80mg/m2 et du carboplatine AUC 2 fois par semaine le 2 mars 2016. En outre, du sang périphérique a été prélevé pour déterminer les mutations germinales BRCA 1 et 2 et 4 semaines après la laparotomie exploratoire, du bevacizumab 10mg/kg toutes les 2 semaines a été ajouté car il s'agissait d'une tumeur à haut risque.
+
+Evolution
+Dès le début du traitement, une diminution rapide des taux de Ca 125 a été observée jusqu'à ce qu'ils deviennent négatifs après 8 semaines de traitement, ce qui correspondait à une nette amélioration clinique et à la disparition des ascites au cours des premières semaines. Les complications ont consisté en un seul épisode de diarrhée de grade 1 et un épisode fébrile sans fièvre qui a disparu avec une antibiothérapie à base d'amoxicilline-acide clavulanique.
+Après avoir reçu 12 doses de paclitaxel-carboplatine (TC) par semaine et 6 doses de bevacizumab toutes les 2 semaines, les examens d'imagerie ont été répétés, montrant une nette réduction des implants péritonéaux et une résolution du gâteau omental. Le comité multidisciplinaire des tumeurs gynécologiques a donc discuté de l'option de réaliser une chirurgie d'intervalle pour le cancer de l'ovaire, qui a été réalisée le 8 juin 2016 sans complications immédiates.
+L'anatomie pathologique de la chirurgie n'a montré aucun signe d'infiltration néoplasique, seulement des corps de psammomes isolés, ce qui se traduit par une réponse pathologique complète (CRS-3) après chimiothérapie d'induction.

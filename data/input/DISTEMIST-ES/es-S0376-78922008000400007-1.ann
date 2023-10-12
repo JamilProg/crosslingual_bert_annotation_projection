@@ -1,0 +1,18 @@
+T1	pathologie 57 71	cáncer mamario
+T2	pathologie 118 138	fibroadenoma en mama
+T3	pathologie 310 316	cáncer
+T4	pathologie 891 927	dehiscencia de herida en ambas mamas
+T5	pathologie 1097 1104	heridas
+T6	pathologie 1539 1546	heridas
+T7	pathologie 3116 3133	ruptura protésica
+T8	pathologie 3153 3173	contractura capsular
+T9	pathologie 3213 3233	contractura capsular
+#1	SNOMED T9	271989003
+#2	SNOMED T1	254837009
+#3	SNOMED T2	254845004
+#4	SNOMED T7	271543000
+#5	SNOMED T8	271989003
+#6	SNOMED T3	363346000
+#7	SNOMED T4	410723003+76752008
+#8	SNOMED T5	416462003
+#9	SNOMED T6	416462003

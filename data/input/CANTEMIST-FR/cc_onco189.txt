@@ -1,0 +1,30 @@
+Anamnèse
+Le patient est un homme de 73 ans ayant des antécédents personnels d'hypertension artérielle sous traitement par doxazosine 8 mg par jour, d'hyperplasie bénigne de la prostate sous traitement par dutastéride 0,5 mg par jour et de syndrome anxio-dépressif sous traitement par lorazépam 1 mg par jour et escitalopram 15 mg par jour ; analgésie à la demande. Pas d'intervention chirurgicale antérieure. Pas d'antécédents familiaux intéressants.
+Il s'est présenté aux urgences le 2/7/2014 pour des symptômes de lombalgies avec irradiation au membre inférieur gauche depuis plus d'un an, avec aggravation ces derniers jours au point de ne plus pouvoir marcher.
+
+Examen physique
+Hémodynamiquement stable. Sédentaire. Auscultation cardio-pulmonaire normale. Abdomen souple et dépressible, non douloureux, pas de masse ni de mégalithes palpables. Examen neurologique : hypoesthésie L4 gauche et parésie du quadriceps gauche 3-4/5.
+
+Examens complémentaires
+Les examens complémentaires suivants ont été effectués dans le service des urgences :
+"Analyse de sang : pas d'altérations significatives.
+"Radiographie simple de la colonne dorso-lombaire : pas d'altérations significatives.
+"Tomodensitométrie (CT) : une volumineuse tumeur paravertébrale gauche a été observée au niveau de L4-L5, qui a pénétré par le foramen conjonctif ipsilatéral avec une implication de la racine L4.
+Au vu de ces résultats, il a été décidé de l'hospitaliser en médecine interne afin d'étudier et d'identifier la lésion :
+" En vue de compléter l'étude, une imagerie par résonance magnétique (IRM) a été demandée le 4/7/2014, dans laquelle une tumeur d'intensité de signal intermédiaire a été observée dans les deux séquences et de petits foyers de signal liquide sur son bord latéral, mesurant environ 6,9 x 4,8 x 4,7 cm, occupant l'espace psoas homolatéral avec une extension plus petite vers le foramen de conjonction L4-L5, en étroite dépendance avec la racine L4 ipsilatérale. Le rehaussement intense et homogène après l'administration de contraste suggère comme option un schwannome dépendant de la racine L4 gauche.
+" Une évaluation a été demandée par le service de neurochirurgie, incluant le patient sur la liste d'attente pour une intervention chirurgicale pour un schwannome probable. La chirurgie a été réalisée le 9/12/2014, sans incident, avec résection de la partie extraforaminale de la tumeur, et un échantillon a été envoyé pour filiation pathologique. Par la suite, une nette amélioration clinique de la douleur a été constatée.
+Le résultat anatomopathologique est résumé comme suit :
+"L'examen microscopique a montré une tumeur constituée de petites cellules rondes, monomorphes, au cytoplasme peu abondant, à la chromatine agglutinée, disposées en nappe et séparées par de fins canaux conjonctifs, avec des vaisseaux et quelques éosinophiles et globules rouges.
+Nombreux phénomènes d'apoptose. Infiltration des muscles squelettiques avec capsule incomplète.
+"L'immunohistochimie a montré une expression positive pour AE1-AE3, la vimentine, l'énolase focale, la racémase, CD-99 et CD-56 ; négative pour S100, CD-30, LCA, CD 136 et CD38, desmine, P40 et thrombomoduline et SOX-100, tous compatibles avec une tumeur maligne de la gaine du nerf périphérique (neurofibrosarcome).
+Une étude moléculaire par hybridation in situ en fluorescence (FISH) a été réalisée pour le gène EWS (22q12) avec deux sondes marquées flanquant le gène à ses extrémités, montrant dans 90% des noyaux un signal de fusion normal et un signal de séparation anormal, indiquant qu'il y avait une rupture dans la séquence du gène EWS dans l'un des deux chromosomes 22, et donc une translocation d'une partie de sa séquence à un autre point ; il a donc été conclu qu'il y avait une rupture dans le gène EWS (22q12).
+La patiente est adressée au service d'oncologie médicale.
+
+Diagnostic
+Tumeur neuroectodermique primitive périphérique (PNET-Ewing) avec perturbation du gène EWS (22q12).
+
+Traitement
+La patiente a débuté un traitement de chimiothérapie le 23/2/2015 selon le schéma VAC (vincristine-doxorubicine-cyclophosphamide) associé à des facteurs de stimulation des colonies (filgrastim 30 MU en sous-cutané pendant 7 jours) en cycles trihebdomadaires. Les toxicités secondaires comprenaient : asthénie G1 après le deuxième cycle, nausées G1 avec le troisième cycle et arthromyalgie généralisée non incapacitante secondaire à l'administration de filgrastim.
+
+Evolution
+Après le troisième cycle, un scanner de contrôle a été réalisé le 27/4/2015, qui a montré une légère diminution de la taille de la tumeur par rapport au dernier contrôle, il a donc été proposé de poursuivre avec le même schéma de chimiothérapie. Actuellement, la patiente a reçu le cinquième cycle de traitement le 22/5/2015 et un nouveau contrôle radiologique est prévu après le sixième cycle de chimiothérapie. Au moment de l'envoi du dossier, la patiente vient de recevoir le cinquième cycle de chimiothérapie, s'est améliorée cliniquement et un nouveau contrôle radiologique sera bientôt réalisé afin de pouvoir évaluer, en cas de maintien de la réponse, les thérapies locales telles que la chirurgie ou la radiothérapie. Cliniquement, elle est en bon état général (ECOG 1), avec une douleur pratiquement inexistante irradiant vers le membre inférieur gauche.

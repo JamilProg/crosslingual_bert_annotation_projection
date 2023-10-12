@@ -1,0 +1,40 @@
+Anamnèse
+Scénario clinique
+Un homme de 75 ans s'est rendu aux urgences pour la deuxième fois la semaine dernière en raison d'une détérioration de son état général et de symptômes respiratoires. Le service des urgences a demandé une évaluation par l'équipe de médecine interne de garde en raison d'une suspicion d'infection respiratoire n'ayant pas répondu à l'antibiothérapie.
+
+Antécédents personnels
+Patient ex-fumeur depuis un an (IPA 70) et hypertendu. Actuellement à la retraite, vie active, indépendant pour toutes les activités de base de la vie quotidienne.
+Anamnèse
+L'anamnèse est compliquée. Le patient n'était pas coopératif, de mauvaise humeur, irritable et inappétent.
+Le patient s'est rendu aux urgences le 12 février 2018 en raison d'une détérioration de son état général et de symptômes respiratoires. Il a rapporté un essoufflement, une toux et une expectoration blanchâtre, voire une hémoptysie. Elle est sortie sans hospitalisation avec un diagnostic d'infection respiratoire et a débuté une antibiothérapie par lévofloxacine à domicile.
+Deux jours plus tard, le 15 février, elle est revenue au service en raison d'une détérioration persistante de son état de base. Aucune amélioration clinique n'a été constatée ; au contraire, il était tellement affaibli qu'"il n'avait pas la force de marcher". Le patient insiste sur le fait que sa détérioration a un déclencheur clair : une fracture de la clavicule droite qu'il a subie en travaillant dans son potager il y a un mois et demi.
+Il affirme que, depuis lors, la position qu'il a dû adopter en raison de cette fracture de la clavicule l'empêche de dormir et commence également à lui causer des douleurs dorsales posturales. Ces douleurs s'intensifient au fil des jours, surtout la nuit, lorsqu'il doit dormir sur le côté.
+Il a consulté son centre de santé à plusieurs reprises, recevant des traitements analgésiques qui n'ont que partiellement soulagé la douleur.
+Le patient signale que l'impossibilité de se reposer correctement a détérioré son état général. Il est très fatigué, affaibli, ne mange presque pas, ce qui lui fait dire qu'il a perdu du poids, et ne sort pas de chez lui. Sa faiblesse est telle que depuis plusieurs jours, il "n'a plus la force de marcher". En outre, il souffre depuis plusieurs jours des symptômes respiratoires décrits ci-dessus, pour lesquels il reçoit un traitement antibiotique.
+
+Examen physique
+L'examen physique est sans particularité. Le patient est stable, eupnéique et tolère le décubitus. L'auscultation pulmonaire n'a détecté que de fins crépitants bibasaux. Il existe un œdème avec une légère fovéa à la pression jusqu'à la racine de la cuisse.
+Compte tenu des manifestations cliniques de "faiblesse" rapportées par le patient, un examen neurologique a été réalisé, mettant en évidence : des membres inférieurs avec paraparésie proximale, à prédominance droite, avec le membre inférieur droit (MID) à la partie proximale II/V et le membre inférieur gauche (MII) à la partie proximale III/IV. La force distale est préservée à V/V de façon symétrique. Fasciculations isolées au niveau proximal du membre inférieur droit. Diminution de la sensibilité tactile-algésique dans la cuisse gauche.
+
+Tests complémentaires
+A l'analyse, une plaquettopénie de 63 000/mm3, un temps de prothrombine de 66 %, un fibrinogène augmenté (551 mg/dl), une légère augmentation de la bilirubine totale (1,5 mg/dl), des transaminases élevées (GOT/GPT 179/240 U/l), une LDH de 6 460 mg/dl et une CRP de 60,9 mg/dl.
+La radiographie du thorax montre un élargissement médiastinal.
+
+Diagnostic
+Compte tenu des altérations cliniques et analytiques, il faut envisager un diagnostic différentiel au-delà d'une infection respiratoire qui n'a pas répondu à l'antibiothérapie.
+Le patient a présenté des symptômes de détérioration progressive de l'état général, qu'il a directement mis en relation avec un repos insuffisant, secondaire à la douleur lombaire causée par la posture antalgique qu'il a dû adopter après la fracture de la clavicule.
+Cependant, le facteur déclenchant apparent, la fracture de la clavicule, peut masquer le diagnostic. En éliminant cette composante, le symptôme clé est une lombalgie difficilement contrôlable par l'analgésie conventionnelle, qui s'aggrave la nuit, suivie d'une "difficulté à marcher" avec un temps d'évolution plus court, qui se traduit à l'examen neurologique par une altération motrice de la musculature proximale du MMII et une altération sensorielle. Chez un patient dont la radiographie thoracique montre un élargissement médiastinal et une altération de la fonction hépatique, notre première suspicion diagnostique est un processus néoplasique avec une implication métastatique qui débute par un syndrome de compression de la moelle épinière.
+Dans ce cas, le diagnostic différentiel comprend
+"anévrisme de l'aorte : élargissement médiastinal et dyspnée. Cependant, le niveau de la masse médiastinale n'est pas lié au niveau de la douleur dorsale/lombaire ni aux symptômes moteurs et sensoriels, les pouls fémoraux et pédieux sont normaux et, bien qu'ils puissent justifier la détérioration de l'état général et l'amaigrissement, ils ne justifient pas les altérations observées dans l'analyse.
+"Myasthénie grave : élargissement médiastinal pouvant correspondre à une néoplasie thymique et faiblesse proximale en MMII. Cependant, cette faiblesse ne fluctue pas et ne s'améliore pas au repos. Il n'y a pas non plus d'atteinte oculomotrice ni de symptômes bulbaires. Il ne justifie pas de lombalgies invalidantes.
+"Syndrome d'Eaton Lambert : élargissement médiastinal pouvant correspondre à un processus néoplasique et faiblesse proximale. Celle-ci reste cependant constante au cours de la journée et ne s'améliore pas avec l'activité. Les réflexes ostéotendineux (ROT) sont normaux. Elle ne justifie pas de lombalgies invalidantes.
+"Sclérose latérale amyotrophique : faiblesse musculaire avec contractions isolées. Le reste de l'examen (ROT conservés, altération sensorielle en MII, etc.) ne permet pas d'orienter vers cette maladie.
+
+Traitement
+Étant donné la forte suspicion de syndrome de compression de la moelle épinière, nous avons commencé un traitement aux corticostéroïdes avec 10 mg de dexaméthasone par voie intraveineuse et, étant donné que notre centre ne dispose pas d'imagerie par résonance magnétique (IRM) dans le service des urgences, nous avons demandé une IRM dès le matin.
+Le rapport d'IRM décrit une infiltration métastatique diffuse de la moelle osseuse de l'ensemble du squelette axial visualisé, ainsi qu'une masse des tissus mous dans le foramen conjonctival gauche et le renfoncement latéral gauche de l'espace D11-D12. En outre, la racine D12 gauche est touchée. La masse de tissu mou est en contact avec le sac thécal et la moelle, mais il n'y a aucun signe de myélopathie à l'heure actuelle.
+
+Evolution
+Au vu de ces résultats, la patiente a été admise dans le service d'oncologie médicale afin de réaliser une étude d'extension et un diagnostic histologique. Le cas a été discuté avec le service de radiothérapie oncologique qui, compte tenu de l'atteinte radiculaire sans signe de myélopathie et de l'absence de diagnostic histologique, a écarté la possibilité d'une radiothérapie urgente.
+La patiente a présenté une évolution très rapide et torpide, avec une aggravation progressive de la fonction hépatique, tendant vers le sommeil, dans une situation d'apatoabulie. Le 21 février, le patient a présenté une détresse respiratoire marquée, avec une déconnexion de l'environnement. Il ne répondait pas aux stimuli, était tachypnéique, avec un travail respiratoire important, cyanosé, avec un œdème du sphincter. Tout ceci était compatible avec un épisode de syndrome de la veine cave supérieure (SVS).
+Compte tenu de l'instabilité hémodynamique et des signes de souffrance chez un patient présentant des signes de néoplasie métastatique avancée, il a été convenu avec la famille d'initier une sédation palliative. La patiente est décédée sans qu'il soit possible d'initier une étude d'extension ou d'obtenir un diagnostic histologique.

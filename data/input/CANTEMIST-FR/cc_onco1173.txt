@@ -1,0 +1,31 @@
+Anamnèse
+Homme de 61 ans avec des antécédents personnels d'hypertension artérielle, de diabète sucré de type 2, d'hypercholestérolémie, de cardiomyopathie dilatée d'origine énolique, de fibrillation auriculaire permanente, de bronchopneumopathie chronique obstructive, de maladie hépatique énolique, d'ischémie artérielle chronique des membres inférieurs avec amputation du premier, du deuxième et du troisième orteil du pied droit et des quatre derniers orteils du pied gauche, de cataracte de l'œil droit avec cécité secondaire complète. Ex-fumeur et ex-buveur jusqu'à il y a 3 ans.
+Admis dans le service de médecine interne pour une sensation de vertige associée à une instabilité de la marche depuis 15 jours, sans tourner les objets, quotidiennement, qui ne changeait pas d'intensité et n'apparaissait que lorsqu'il se levait ou commençait à marcher. Il n'y avait pas d'hypoacousie associée, d'acouphène, de cortex végétatif, de céphalée ou d'autre focalité neurologique. L'anamnèse par appareil révèle une dyspnée progressive depuis 3 mois à l'occasion d'un effort modéré à minime.
+
+Examen physique
+État général normal. ECOG 2. Eupnéique au repos. Hémodynamiquement stable.
+Auscultation cardiorespiratoire : tonalités arythmiques, souffle vésiculaire conservé.
+Examen abdominal : hépatomégalie non douloureuse, pas d'autres signes.
+Examen neurologique : bradypsychie, parésie du droit externe de l'œil droit, dysmétrie et démarche ataxique. L'examen de ce patient est particulièrement compliqué en raison de sa cécité et de l'amputation de ses orteils.
+
+Examens complémentaires
+- Analyses sanguines : ont permis d'exclure la présence d'une hypoglycémie et d'autres anomalies hydriques et électrolytiques.
+- Tomodensitométrie cérébrale : pas d'altérations radiologiques notables.
+- Radiographie du thorax : augmentation de la densité dans le lobe supérieur gauche (LSI).
+- Tomodensitométrie thoraco-abdominale-pelvienne : masse de 3,5 cm dans le LSI, compatible avec une tumeur pulmonaire primitive. Présence d'adénopathies pathologiques médiastinales et hilaires gauches. Nodule pulmonaire dans le lobe supérieur droit, compatible avec une métastase.
+Compte tenu de l'existence d'un néoplasme pulmonaire à l'imagerie, l'étude diagnostique oncologique a été complétée et l'étude du tableau neurologique a été poursuivie. Lors de son admission, la patiente a présenté une détérioration neurologique progressive avec des altérations de la sensibilité superficielle et profonde (vibratoire) et une diminution des réflexes ostéotendineux.
+- La bronchoscopie a révélé la présence d'une masse endobronchique, dont l'étude histologique était compatible avec un carcinome neuroendocrine à cellules intermédiaires (variante du carcinome microcytaire).
+- Analyses sanguines complètes, avec détermination des toxines, sérologie, études métaboliques (y compris vitamine B12 et folate) : normales. Par conséquent, les causes métaboliques, toxiques ou infectieuses des symptômes neurologiques sont exclues.
+- IRM cérébrale et ponction lombaire : aucun résultat significatif.
+- Étude neuromusculaire : compatible avec une polyneuropathie axonale sensori-motrice.
+- Compte tenu du diagnostic de carcinome neuroendocrine du poumon et du tableau neurologique compatible avec une polyneuropathie sensitivo-motrice noniliée, des anticorps onconeuronaux ont été demandés, avec la possibilité d'un tableau paranéoplasique à l'esprit. Cette étude a révélé la présence d'anticorps anti-Hu (anti-Yo, anti-Ri et anti-Tr négatifs).
+
+Diagnostic
+Homme de 61 ans, avec des antécédents d'alcoolisme et de pathologies associées, diagnostiqué avec un carcinome neuroendocrine pulmonaire de stade IV associé à une polyneuropathie axonale sensori-motrice comme syndrome paranéoplasique.
+
+Traitement
+Compte tenu de l'extension de la tumeur et de l'ECOG, il a été décidé de commencer une chimiothérapie (QT) avec du carboplatine AUC 5 jour 1 et de l'étoposide 100 mg/m2 jours 1 à 3. Après le premier cycle, une adaptation de la dose a dû être faite en raison de l'insuffisance rénale.
+
+L'évolution
+Après le début du traitement de chimiothérapie, il a montré une amélioration significative de ses symptômes neurologiques, en particulier la récupération de l'ambulation, sans nécessiter d'assistance.
+En revanche, après quatre cycles de QT, une progression tumorale pulmonaire a été observée, entraînant une insuffisance respiratoire sévère qui a conduit à son décès.

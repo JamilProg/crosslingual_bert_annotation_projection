@@ -1,0 +1,29 @@
+Anamnèse
+Homme, 75 ans au moment du diagnostic, hypertendu, dyslipidémique, hypertrophie bénigne de la prostate, sans habitudes toxiques ni autres antécédents intéressants, diagnostiqué en 2003 avec un adénocarcinome bien différencié du sigma (pT1N0M0), stade I, traité par résection antérieure basse et anastomose de bout en bout, avec un suivi ultérieur effectué par le service de chirurgie générale et de l'appareil digestif.
+Il a été adressé au service ambulatoire d'oncologie médicale en 6/2007 pour une évaluation du traitement suite à la découverte d'une rechute pulmonaire lors des tests de suivi.
+
+Examen physique
+Statut de performance ECOG 0. Bon état général. Auscultation cardio-pulmonaire normale. Examen abdominal sans particularité.
+
+Examens complémentaires
+"CT scan thoraco-abdominal (4/2007) : image nodulaire dans le segment supérieur du lobe gauche, d'environ 2 cm, associée à une opacité du même nodule et évoquant une masse avec atélectasie, le tout compatible avec un processus néoformatif.
+"PET/CT (5/2007) : nodule parahilaire dans le LSI (lobe supérieur gauche), ainsi que dans le segment antérieur du LSD (lobe supérieur droit) suggérant la viabilité de la tumeur (SUVmax 4.1).
+"Fibrobronchoscopie (5/2007) : lésion néoformée exophytique d'aspect malin dans une bronche sous-segmentaire du segment antérieur du culmen.
+"Anatomie pathologique (AP) (5/2007) : adénocarcinome CK-7, TTF-1 négatif, CK-20 positif, suggérant une origine colorectale.
+
+Diagnostic
+Adénocarcinome du sigma, stade IV, en raison d'une atteinte pulmonaire oligométastatique.
+
+Traitement
+Après évaluation par le Comité des tumeurs thoraciques, une approche chirurgicale pulmonaire en deux temps a été envisagée. Une wedge résection de 2 nodules pulmonaires droits a donc été réalisée en 7/2007 et une lobectomie supérieure gauche plus lymphadénectomie médiastinale en septembre de la même année. L'AP confirme la nature métastatique des nodules d'origine colorectale et l'absence de ganglions lymphatiques médiastinaux atteints.
+Après le traitement chirurgical, nous avons proposé une chimiothérapie adjuvante par capécitabine en monothérapie, que nous avons maintenue pendant 8 cycles, avec une bonne tolérance au traitement.
+
+Evolution
+Un suivi étroit a été maintenu depuis la fin du traitement à la capécitabine. En 12/2009, après un intervalle sans maladie (ISM) de 24 mois, un examen d'imagerie a montré une nouvelle rechute pulmonaire située dans le segment antérieur du LSD, et donc, après une nouvelle évaluation par le Comité des tumeurs thoraciques, une lobectomie supérieure droite a été réalisée. L'AP a de nouveau confirmé l'origine colorectale.
+Après la chirurgie, un traitement adjuvant par Capecitabine a de nouveau été proposé pour 8 cycles, se terminant en 7/2010. À cette époque, une étude moléculaire du gène KRAS a été demandée et le résultat a été KRAS muté (7/2010).
+Elle a maintenu un suivi régulier jusqu'à ce que le scanner de 3/2014, après 44 mois de LIE, révèle l'apparition d'un nodule pulmonaire de 8 mm en LII et d'un goitre multinodulaire endothoracique. Nous avons demandé une TEP/TDM en 4/2014, qui a confirmé l'existence de la lésion de 8 mm dans cette localisation évocatrice de malignité (SUV 2,1). Un nodule thyroïdien avec un SUV de 10,1 a également été trouvé dans le lobe thyroïdien gauche (LTI).
+Présenté une nouvelle fois au comité thoracique, il a été décidé de l'adresser au service de radio-oncologie pour une radiochirurgie pulmonaire (SBRT), avec 8 fractions, 7,5 Gy/fraction.
+Dans le même temps, une ponction à l'aiguille fine guidée par échographie thyroïdienne a été demandée, qui a montré un nodule hypoéchogène, mal délimité, avec une vascularisation accrue. La cytologie suggère la nature métastatique de la lésion. Une hémithyroïdectomie gauche a été réalisée en 7/2014, l'AP confirmant la métastase d'un adénocarcinome de type entéroïde.
+Après chirurgie et SBRT pulmonaire, nous avons débuté un traitement adjuvant par capécitabine pendant 8 cycles jusqu'en 1/2015, présentant une bonne tolérance.
+Après la fin du traitement, il a connu une rechute précoce dans les poumons bilatéralement et localement dans le lit chirurgical de la thyroïde, de sorte qu'en 2/2015, il a commencé un traitement de première ligne pour la maladie avancée avec FOLFOX-Bevacizumab, qu'il a maintenu jusqu'à présent (6/2015), avec une RP pulmonaire maintenue et une maladie thyroïdienne stable avec une excellente tolérance en dépit de son âge actuel (87).
+Le patient est en vie et a une bonne qualité de vie 8 ans après le diagnostic de la maladie métastatique grâce à une prise en charge multidisciplinaire de la maladie.

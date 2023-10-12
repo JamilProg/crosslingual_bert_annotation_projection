@@ -1,0 +1,30 @@
+Anamnèse
+Jeune femme de 25 ans, sans antécédents pathologiques pertinents, fumeuse de 12 paquets/an, consommatrice occasionnelle d'alcool et d'autres drogues (non spécifiées). Née en Roumanie, elle vivait en Espagne depuis l'âge de 10 ans avec sa tante et travaillait comme femme au foyer. Dans ses antécédents familiaux, des parents maternels ont été diagnostiqués comme souffrant de polyarthrite rhumatoïde.
+Elle était suivie pour une dorsolombalgie depuis 4 ans, contrôlée par des analgésiques et des anti-inflammatoires non stéroïdiens, une douleur de caractéristiques mixtes qui durait 4 à 5 jours, tous les 2 à 3 mois.
+Elle s'est rendue aux urgences en mai 2013 en raison d'une augmentation de la douleur qui n'était pas contrôlée par les médicaments habituels, ainsi que de paresthésies et de paresthésies des deux membres inférieurs au cours de la dernière semaine.
+
+Examen physique
+L'examen a révélé : une sensibilité préservée dans les 4 membres, une force motrice préservée dans les membres supérieurs, une parésie de 3/5 du membre inférieur gauche et de 2/5 du membre inférieur droit, ainsi qu'une tache café-au-lait dans la région lombaire. Le reste de l'examen n'a rien révélé d'autre.
+
+Examens complémentaires
+"Colonne dorsolombaire : densité accrue du corps vertébral D5 (vertèbre ivoire) avec légère dépression du plateau vertébral supérieur en D5 et D6 compatible avec une fracture par écrasement.
+"Tomodensitométrie : masse d'apparence solide dans le médiastin postérieur en contact dans la région antérolatérale droite des corps vertébraux T4 à T8 (11 x 3,4 x 7 cm) avec érosion des vertèbres T5 et T6.
+"IRM : masse de 7,3 x 6,7 x 5,9 cm située dans le médiastin postérieur, occupant l'espace prévertébral et paravertébral droit, du bord inférieur de T3 au bord supérieur de T7, pénétrant dans le canal vertébral par les foramina neuraux droits T4-T5 et T5-T6. Masse épidurale entourant la moelle épinière, la comprimant à T5, avec d'importantes modifications du signal secondaires à une myélopathie compressive. Elle est située en infracarinal et en rétrocarinal, déplaçant la bronche principale droite en avant et l'œsophage en antérolatéral gauche, sans signe d'infiltration tumorale.
+"Biopsie percutanée : tumeur maligne de la gaine du nerf médiastinal.
+
+Diagnostic
+Tumeur maligne de la gaine du nerf médiastinal : Vvmentin et CD 99 positifs, S100, EMA, CKAE-13, CD34, CD45 et synaptofusine négatifs, ki-67 15%.
+
+Traitement
+Le 24 mai, une chirurgie décompressive a été pratiquée : arthrodèse et décompression, et un corset a été mis en place.
+
+Il a été décidé de commencer le traitement par une chimiothérapie d'induction avec deux cycles de doxorubicine (25 mg/m2)-Iphosphamide (1 250 mg/m2), qu'elle a reçus entre mai et juin 2013. Il a présenté une encéphalopathie de grade 2 secondaire à l'ifosfamide non liée à d'autres médicaments concomitants, qui s'est résolue. Une tomodensitométrie a été réalisée pour évaluer le traitement, où la taille de la masse n'a pas montré de variation, sans autre altération dans le reste de l'étude.
+
+Entre juillet et octobre 2013, une radiothérapie externe a été réalisée sur la tumeur et le médiastin, 60 Gy en fractionnement standard.
+
+Après deux cycles de chimiothérapie et de radiothérapie, la mobilité de la patiente s'est améliorée et elle a pu se déplacer sans soutien, mais avec une démarche spastique. Elle a continué à présenter un mauvais contrôle de la douleur, nécessitant de fortes doses de fentanyl et des ajustements constants des médicaments. Il a été proposé de poursuivre le traitement de consolidation avec deux cycles supplémentaires de doxorubicine-ifosfamide, mais avec une réduction de 30 % de la dose en raison de la radiothérapie précédente. Entre novembre et décembre 2013, la patiente a reçu un traitement sans complications immédiates ni toxicités notables. Après la fin du traitement, un scanner a été réalisé en janvier 2014, qui a montré une légère diminution (10 %) de la taille de la masse médiastinale, sans autre altération.
+
+Évolution
+Après un intervalle sans progression de 12 mois (juin 2014), le patient présente des métastases pulmonaires bilatérales, une chimiothérapie de seconde ligne est donc administrée selon le schéma suivant : Gemcitabine (1800 mg/m2) - DTIC (500 mg/m2). Entre juillet et août 2014, elle reçoit 4 cycles de gemcitabine-DTIC, nécessitant un report d'une semaine du second cycle en raison d'une neutropénie afébrile. Après 4 cycles, une tomodensitométrie d'évaluation a été réalisée, qui a rapporté une diminution significative de la taille des métastases pulmonaires, mais aucun changement dans la taille de la masse médiastinale. Compte tenu de la réponse pulmonaire partielle, il a été décidé de poursuivre le traitement avec deux cycles supplémentaires, qui ont été administrés en septembre 2014.
+
+La patiente a continué à être surveillée et à bénéficier d'avantages cliniques. La dernière évaluation a eu lieu en janvier 2015, lorsqu'elle a déménagé dans son pays d'origine, où elle se trouve toujours.

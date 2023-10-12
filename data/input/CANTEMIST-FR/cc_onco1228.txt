@@ -1,0 +1,29 @@
+Anamnèse
+Un homme de 62 ans, ancien fumeur et grand buveur. Il y a huit ans, il a été opéré d'un adénocarcinome de la jonction gastro-œsophagienne par oesophagogastrectomie, sans avoir reçu de traitement adjuvant (stade pathologique T3N0M0 avec 15 ganglions lymphatiques analysés). Il présente actuellement une récidive ganglionnaire non résécable de la maladie, de sorte qu'un traitement de chimiothérapie par trastuzumab + XELOX est entamé conformément à l'étude de phase II "HerXO".
+
+Examen physique
+État général : indice de Karnofsky 80%.
+Tête et cou : prothèse dentaire supérieure complète.
+Régions ganglionnaires : pas de ganglions lymphatiques palpables.
+Cœur : bruits cardiaques rythmiques sans souffle. Poumons : murmure vésiculaire conservé, sans bruits supplémentaires.
+Abdomen : large cicatrice thoraco-abdominale, pas de masse palpable, péristaltisme conservé.
+Extrémités : force et sensibilité préservées, pas de varices, de phlébite ou d'œdème.
+Examen neurologique : pas d'altération macroscopique ni de focalité.
+
+Examens complémentaires
+- Tomodensitométrie des lésions cibles (1/8/2013) : A) primitive : 5,8 cm ; B) métastase surrénalienne gauche de 4,4 cm ; C) adénopathie cava-thoracique gauche : 3,7 x 2,9 cm ; D) bloc adénopathique.
+- Electrocardiogramme (30/7/2013) : rythme sinusal, ancienne IAM antérolatérale et inférieure, retard de conduction ventriculaire gauche.
+- MUGA (30/7/2013) : FEVG 51%.
+- Hématologie (30/7/2013) : normale.
+- Biochimie sanguine (30/7/2013) : normale sauf potassium : 5,2 mmo/l (normale : 3,5-5,1).
+- Clairance de la créatinine (30/7/2013) : 88 ml/min.
+- Marqueur : CEA (30/7/2013) : *18,9 ng/ml (< 6), CA-19.9 *39 U/Iml (< 37), CA-72.4 1,4 UI/ml (< 6,9).
+
+Diagnostic
+Adénocarcinome de la jonction gastro-œsophagienne de stade IIA (pT3pN0 [0 ganglion atteint sur 15 analysés]) G2 au moment du diagnostic et actuellement de stade IV en raison d'une récidive des ganglions lymphatiques positifs à l'erbB2.
+
+Traitement
+La patiente reçoit 6 cycles de traitement par trastuzumab + capécitabine + oxaliplatine et est ensuite maintenue sous trastuzumab seul pendant 10 mois et continue actuellement.
+
+Évolution
+Le patient a connu une amélioration significative de ses symptômes, avec un retour de l'appétit et une prise de poids progressive. Les toxicités les plus notables au début du traitement étaient une neuropathie de grade 1, une asthénie de grade 1, une anémie de grade 1 et une diarrhée de grade 2. Un scanner de réévaluation à 3 mois a montré une réponse partielle de la maladie, et les contrôles ultérieurs ont montré une stabilisation de la maladie, selon les critères RECIST. Après 8 mois de traitement, alors uniquement par trastuzumab d'entretien, la patiente a commencé à présenter un syndrome général accompagné d'une fièvre fébrile et d'une toux persistante, sans foyer infectieux initial clair. Le diagnostic différentiel envisageait alors trois diagnostics principaux possibles : une progression de la maladie au niveau pulmonaire, une pneumopathie secondaire à la toxicité du médicament et, enfin, un processus infectieux broncho-pulmonaire intercurrent. Après avoir terminé les études, y compris une réévaluation par tomodensitométrie, on a constaté qu'il n'y avait pas de progression de la maladie et que les manifestations cliniques étaient dues à une pneumonie nécessitant une hospitalisation, qui a été traitée avec de la ceftriaxone et de la lévofloxacine, ainsi que des corticostéroïdes et des bronchodilatateurs, avec une résolution des symptômes. Le patient, après avoir passé la phase aiguë, est revenu à son état de base antérieur et est actuellement asymptomatique.

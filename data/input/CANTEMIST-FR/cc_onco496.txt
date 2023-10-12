@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 75 ans présentant une intolérance aux anti-inflammatoires non stéroïdiens. Antécédents personnels d'hypertension artérielle, de fibrillation auriculaire, de colon spastique et de hernie hiatale. Après avoir été examinée pour une hémoptysie, elle a été diagnostiquée en mai 2016 avec un adénocarcinome pulmonaire de stade IV en raison d'une seule métastase surrénalienne droite.
+En juin 2016, elle a subi une lobectomie du lobe supérieur droit et une surrénalectomie droite en août 2016. Les deux biopsies ont révélé une mutation de l'EGFR (L858R).
+En septembre 2016, la patiente a été adressée au service d'oncologie en raison d'une nouvelle étude d'imagerie, qui a révélé une métastase surrénalienne droite. Après avoir évalué les options de traitement local, étant donné que le patient n'aurait plus qu'une seule glande surrénale et que l'indication d'un traitement par un inhibiteur de la tyrosine kinase (ITK) aurait été la même, il a été décidé de ne pas traiter la lésion par une seconde intervention chirurgicale. La patiente a commencé à prendre de l'erlotinib à raison de 100 mg/jour, présentant une toxicité cutanée et gastro-intestinale de grade III et nécessitant donc un ajustement de la dose à 75 mg/jour.
+En juillet 2017, un scanner de réévaluation a montré une réponse complète et, en novembre 2017, un résultat négatif à la biopsie liquide de suivi. En août 2018, un scanner a montré une nouvelle lésion sous-pleurale latérale de 7 mm dans le lobe inférieur droit (LID) et une biopsie liquide positive pour la mutation L858R. La patiente étant asymptomatique avec un ECOG 0, le traitement par erlotinib a été maintenu et un suivi rapproché a été décidé. La tomodensitométrie réalisée en mars 2019 a montré une hypertrophie de la glande surrénale gauche avec une stabilisation de la lésion dans le LID.
+
+Examen physique
+Bon état général. Examen physique dans les limites de la normale.
+
+Examens complémentaires
+Une biopsie de la glande surrénale par écho-endoscopie est décidée.
+
+Diagnostic
+Résultat pathologique de la biopsie de la glande surrénale par écho-endoscopie : positif pour une métastase de carcinome à petites cellules et étude immunohistochimique : CAM 5.2 +, synaptophysine +, chromogranine +, CD 56 +, Ki 67 80 %.
+
+Traitement
+Le patient commence un traitement au carboplatine et à l'étoposide.
+
+Évolution
+Actuellement en cours de traitement par carboplatine et étoposide, en attente d'une étude de réévaluation.

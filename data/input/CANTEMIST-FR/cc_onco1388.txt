@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 72 ans, diagnostic de lymphome B folliculaire non hodgkinien, grade 3a, stade IIIA, FLIPI = 4. Porteur chronique asymptomatique du virus de l'hépatite B. Il a commencé un traitement prophylactique au ténofovir et une chimiothérapie R-CHOP.
+Il s'est rendu au service des urgences après le 7e cycle en raison d'une fièvre et d'une détérioration de l'état général évoluant depuis 3 jours, et une neutropénie fébrile de grade IV a été détectée sans symptômes focaux, ce qui a motivé son admission.
+
+Examen physique
+A l'admission, hémodynamiquement stable, eupnéique, fébrile. Bon état général. Candidose buccale. Aucun résultat pertinent dans le reste de l'examen par l'appareil.
+
+Examens complémentaires
+Numération sanguine : leucocytes 0,32 x 10^3 u/l, neutrophiles 0,08 x 10^3 u/l, lymphocytes 0,2 x 10^3 u/l.
+Hémocultures, culture d'urine, culture de selles et galactomannane : négatifs.
+Sérologie du virus de l'immunodéficience humaine (VIH) : négative.
+PCR du cytomégalovirus (CMV) : 4 070 copies.
+Gaz du sang artériel à l'admission : normaux.
+Radiographie du thorax : infiltrats alvéolaires bilatéraux et diffus compatibles avec une pneumonie due à des germes opportunistes, résultats similaires à ceux de la tomodensitométrie (TDM) thoracique à haute résolution.
+Fibrobronchoscopie : normale. Lavage bronchioloalvéolaire où ont été isolés des kystes de Pneumocystis jirovecii et d'Haemophilus influenzae A.
+
+Diagnostic
+Neutropénie fébrile.
+Pneumonie bilatérale à Pneumocystis jirovecii avec co-infection à Haemophilus influenzae A.
+Infection active à CMV.
+
+Traitement
+L'antibiothérapie empirique habituelle et les facteurs de stimulation des colonies de granulocytes ont été instaurés avec une bonne récupération hématologique, mais la fièvre a persisté malgré l'extension de la couverture des germes Gram(+) et des champignons.
+À la suite des résultats microbiologiques et des examens d'imagerie, un traitement par triméthoprime-sulfaméthoxazole (TMP-SM) et ganciclovir i.v. a été instauré, et le patient est resté en bon état général et eupnéique.
+
+Évolution
+Soixante-douze heures après le début du nouveau traitement, la situation clinique s'est aggravée avec une dyspnée sévère et une détérioration rapide avec une insuffisance respiratoire hypoxémique.
+Un diagnostic de syndrome de reconstitution immunitaire (SRI) a été établi chez un patient immunodéprimé non VIH après une neutropénie fébrile et l'initiation du DM-TMP-SM.
+Compte tenu de l'aggravation clinico-radiologique, le patient a été transféré à l'unité de soins intensifs où il a bénéficié d'une ventilation non invasive avec BiPAP, d'une stéroïdothérapie, d'une antibiothérapie empirique et d'un traitement par MS-PTMP.
+Il a bien progressé et a été transféré à nouveau dans le service après 9 jours, puis est sorti de l'hôpital avec un traitement prophylactique au DM-TMP-SM et à la lamivudine. Il a actuellement commencé un traitement d'entretien au rituximab et reste en rémission partielle de son lymphome d'après le dernier scanner réalisé.

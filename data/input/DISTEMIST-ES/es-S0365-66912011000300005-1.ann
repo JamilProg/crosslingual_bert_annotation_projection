@@ -1,0 +1,15 @@
+T1	pathologie 32 64	pérdida brusca de agudeza visual
+T2	pathologie 278 284	lesión
+T3	pathologie 341 365	macroaneurisma retiniano
+T4	pathologie 675 693	fibrina premacular
+T5	pathologie 857 899	macroaneurisma en arcada temporal superior
+T6	pathologie 988 1017	hialoides posterior despegada
+T7	pathologie 1039 1048	aneurisma
+T8	pathologie 1196 1219	trombosis del aneurisma
+T9	pathologie 1421 1445	hemorragia prerretiniana
+T10	pathologie 1575 1629	macroaneurisma arterial en arcada temporal inferior OD
+T11	pathologie 1659 1708	despegamiento de la hialoides posterior en mácula
+T12	pathologie 1752 1761	aneurisma
+T13	pathologie 1843 1869	cataratas corticonucleares
+T14	pathologie 1979 1982	HTA
+T15	pathologie 1985 2006	fibrilación auricular

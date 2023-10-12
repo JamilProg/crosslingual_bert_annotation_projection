@@ -1,0 +1,18 @@
+T1	pathologie 21 40	enfermedad de Crohn
+T2	pathologie 611 632	perforación ileocecal
+T3	pathologie 668 680	fístula anal
+T4	pathologie 685 702	absceso en glúteo
+T5	pathologie 778 811	infección perianal polimicrobiana
+T6	pathologie 1096 1134	convulsión tónico-clónica generalizada
+T7	pathologie 1677 1716	convulsión tónico-clónica, generalizada
+T8	pathologie 2181 2195	deshidratación
+T9	pathologie 2198 2210	desnutrición
+T10	pathologie 2556 2577	episodios convulsivos
+T11	pathologie 3041 3069	desnutrición de grado severo
+T12	pathologie 3105 3139	deshidratación cutáneo-mucosa leve
+T13	pathologie 3232 3288	malnutrición energético-proteica mixta de grado moderado
+T14	pathologie 3459 3471	hipocalcemia
+T15	pathologie 3475 3489	hipomagnesemia
+T16	pathologie 3878 3892	deshidratación
+T17	pathologie 3937 3968	elevado débito de la ileostomía
+T18	pathologie 4908 4933	episodios de convulsiones

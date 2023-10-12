@@ -1,0 +1,37 @@
+Anamnèse
+La patiente était une femme de 72 ans, originaire de Barcelone, sans réaction allergique connue aux médicaments, sans habitudes toxiques ni antécédents familiaux intéressants, et sans antécédents familiaux de cancer. Antécédents personnels d'hypertension artérielle et de dyslipidémie, sous traitement d'énalapril 10 mg/jour et de simvastatine 20 mg/jour.
+Antécédents oncologiques : en 1980, on lui a diagnostiqué un carcinome canalaire infiltrant du sein gauche T2N0M0 (stade IIA). Cette année-là, elle a subi une mastectomie de type Patey et un curage des ganglions lymphatiques axillaires, sans recevoir de traitement adjuvant par la suite. Après un intervalle sans maladie (ISM) de 69 mois, la tumeur a récidivé en 1985 avec l'apparition d'adénopathies métastatiques sus-claviculaires gauches. Elle a alors commencé une hormonothérapie (HT) avec du tamoxifène 20 mg/24 heures, obtenant une rémission complète. En 1990, la maladie a progressé après un intervalle sans progression de 54 mois. Elle a commencé une hormonothérapie de deuxième intention avec de la médroxyprogestérone par voie orale 500 mg/24 heures, ce qui lui a permis d'obtenir une rémission complète. En octobre 2001, elle a présenté une récidive tumorale après un intervalle sans progression de 136 mois, avec apparition d'une adénopathie axillaire, extirpée le 28 décembre 2001, avec un résultat histologique de carcinome canalaire infiltrant avec des récepteurs d'œstrogènes (ER) à 100 %, Ki67 à 20 % et c-erbB2 (-). Elle a commencé une HT de 3e ligne avec 25 mg d'exémestane toutes les 24 heures. En 2010, des marqueurs tumoraux (MT) élevés et une scintigraphie osseuse douteuse (métastases osseuses M1 possibles) ont été détectés, de sorte que l'HT de quatrième intention a été entamée avec du fulvestrant 500 mg tous les 28 jours.
+En décembre 2013, une atteinte annexielle gauche a été détectée (qui a été retirée et dont l'origine mammaire a été confirmée) ainsi qu'une atteinte rétropéritonéale. Compte tenu de la nouvelle progression de la maladie, il a été décidé le 10/01/2014 d'arrêter le fulvestrant. Le 28/01/2014, une chimiothérapie de première ligne (QT) a été débutée avec de la capécitabine en présence d'un cancer du sein métastatique (CSM), à la dose de 1 000 mg/m2 (1 300 mg dose totale) toutes les 12 heures pendant 14 jours en cycles tous les 21 jours, jusqu'en mars 2015, date à laquelle une progression est survenue et une 5ème ligne d'HT a été débutée avec du létrozole 2,5 mg toutes les 24 heures. Lors de la révision du 01/07/2015, elle a présenté une progression et a été mise sous évérolimus 10 mg par voie orale et exémestane 25 mg toutes les 24 heures sans interruption, traitement qui a été maintenu jusqu'à son admission dans le service hospitalier en juin 2016.
+
+Examen physique
+État général acceptable. État de performance (EP) 1 : conscient, orienté et coopératif. Malnutrition calorique et protéique. Normohydraté et normoperfusé. Auscultation cardio-pulmonaire sans signes pathologiques. Abdomen mou, dépressible, avec gêne diffuse à la palpation, sans masse ni mégalithe, sans signe de péritonisme. Membres inférieurs sans œdème ni signe de thrombose veineuse profonde.
+
+Épreuves complémentaires
+À L'ADMISSION 13/06/2016
+" Numération sanguine : hémoglobine 10,5 g/ml, hématocrite 31 %, reste normal.
+" Biochimie : urée 302 mg/ml, créatinine 10,76 mg/ml, reste normal.
+"Gaz du sang veineux : pH 7,23, pCO2 34,5, pO 29,9, potassium 4,8, sodium 138, HCO3 14,3.
+"Echographie abdominale : hydronéphrose gauche avec atrophie rénale gauche. Images nodulaires dans le bassin déjà visibles dans les études précédentes.
+À LA SORTIE 01/07/2016
+" Numération sanguine : hémoglobine 8,4 g/ml. Reste de la série normal.
+" Biochimie : créatinine 0,87 mg/ml. Reste normal.
+
+Diagnostic
+"Carcinome mammaire canalaire infiltrant de stade IV, polytome.
+"Insuffisance rénale aiguë avec hydronéphrose gauche due à une compression extrinsèque.
+
+Traitement
+La patiente a suivi les lignes de traitement suivantes depuis 1985 :
+1ère ligne hormonale : tamoxifène 20 mg/24 heures pendant 54 mois avec une excellente tolérance.
+2ème ligne hormonale : médroxyprogestérone 500 mg/24 heures pendant 136 mois sans effets secondaires notables.
+3ème ligne hormonale : exemestane 25 mg/24 heures pendant 108 mois sans toxicité notable.
+4ème ligne hormonale : fulvestrant 500 mg/28 jours pendant 36 mois avec comme principal effet secondaire une asthénie de grade I.
+5ème ligne : capécitabine (1ère chimiothérapie) 1 300 mg/12 heures x 14 jours en cycles de 21 jours pendant 14 mois, avec comme toxicité principale une érythrodysesthésie palmoplantaire (EPP) de grade I et une diarrhée de grade I.
+6ème ligne hormonale : létrozole 2,5 mg/24 heures pendant 4 mois sans effets secondaires.
+7ème ligne : everolimus 10 mg/24 heures et exemestane 25 mg/24 heures pendant 11 mois sans toxicité significative.
+8ème ligne : cyclophosphamide métronomique 50 mg/24 heures, traitement actuellement maintenu avec une excellente tolérance.
+
+Evolution
+En juin 2016, la patiente a commencé à présenter une toxicité digestive avec syndrome émétique et diarrhéique, une insuffisance rénale aiguë secondaire pré- et post-rénale par compression extrinsèque des adénopathies rétropéritonéales (créatinine 10,76 mg/dl), ce qui a conduit à la suspension de l'évérolimus + exémestane et à son admission dans le service d'oncologie médicale, où une néphrostomie percutanée droite a été réalisée. L'évolution a été favorable, avec un bon état général et asymptomatique à la sortie, avec une normalisation de la fonction rénale dans les tests analytiques. A la sortie, après son admission et en raison d'une toxicité digestive, le QT a été réintroduit à des doses réduites d'évérolimus 5 mg vo toutes les 48 heures et d'exémestane.
+Au cours de son évolution, il a présenté un état général acceptable et une stabilisation de la MT autour de CA 15,3 300 U/ml (valeurs normales inférieures à 31 U/ml) jusqu'en mars 2017, date à laquelle il a signalé une distension abdominale, une hyporexie et une détérioration clinique, avec un statut de performance (PS) à 2 et une élévation du CA 15,3 à 464 U/ml. Compte tenu de l'évolution clinique et analytique, le traitement en cours a été suspendu et un traitement par cyclophosphamide 50 mg/vo/jour en métronomie ininterrompue a été débuté. Au vu de ces symptômes, une échographie abdominale a été réalisée, qui a montré une ascite généralisée avec œdème des anses intestinales, si bien que de la prednisone 30 mg/vo/jour et de l'acétate de mégestrol 160 mg/vo/jour ont été ajoutés au traitement.
+Actuellement, en juin 2017 et 37 ans après le diagnostic, la patiente suit le traitement décrit ci-dessus, présentant un bon état général, avec un PS de 0, et ne rapportant qu'une légère hyporexie comme seule symptomatologie. Au dernier scanner abdominal, stabilisation de la maladie métastatique, avec un CA 15.3 à 433 U/ml.

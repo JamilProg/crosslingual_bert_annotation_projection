@@ -1,0 +1,16 @@
+T1	pathologie 31 42	hepatitis B
+T2	pathologie 281 296	visceromegalias
+T3	pathologie 1890 1912	fibroadenoma del uraco
+T4	pathologie 2067 2097	tumor morfológicamente benigno
+T5	pathologie 2202 2207	tumor
+T6	pathologie 2628 2651	tumor epitelial maligno
+T7	pathologie 3264 3269	tumor
+T8	pathologie 3852 3875	tumor fibroso solitario
+#1	SNOMED T1	66071002
+#2	SNOMED T3	126893006
+#3	SNOMED T4	55342001
+#4	SNOMED T6	68453008
+#5	SNOMED T7	55342001
+#6	SNOMED T8	128736003
+#7	SNOMED T2	28543008
+#8	SNOMED T5	55342001

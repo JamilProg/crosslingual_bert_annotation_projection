@@ -1,0 +1,15 @@
+T1	pathologie 37 130	daño neurológico grave secundario a accidente cerebrovascular agudo (ACV) isquémico perinatal
+T2	pathologie 106 109	ACV
+T3	pathologie 403 419	daño neurológico
+T4	pathologie 486 513	artritis crónica idiopática
+T5	pathologie 618 646	problema óseo en las muñecas
+T6	pathologie 747 781	no tiene los huesos de las muñecas
+T7	pathologie 938 954	daño neurológico
+T8	pathologie 1108 1157	hemiplejia izquierda derivada de su ACV perinatal
+T9	pathologie 1144 1157	ACV perinatal
+T10	pathologie 1391 1409	rasgos dismórficos
+T11	pathologie 1869 1897	ausencia bilateral del carpo
+T12	pathologie 1966 1985	osteólisis carpiana
+T13	pathologie 1988 2022	lesiones en el escafoides tarsiano
+T14	pathologie 2132 2204	osteólisis multicéntrica carpotarsal de transmisión autosómica dominante
+T15	pathologie 2132 2219	osteólisis multicéntrica carpotarsal de transmisión autosómica dominante sin nefropatía

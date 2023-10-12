@@ -1,0 +1,14 @@
+T1	pathologie 112 186	traumatismo abierto en codo derecho secundario al impacto de arma de fuego
+T2	pathologie 596 602	lesión
+T3	pathologie 901 979	herida de arma de fuego con orificio de entrada en codo sin orificio de salida
+T4	pathologie 1016 1041	fractura distal de húmero
+T5	pathologie 1057 1084	fractura proximal de cúbito
+T6	pathologie 1097 1123	fractura proximal de radio
+T7	pathologie 2893 2899	herida
+#1	SNOMED T1	10907441000119101
+#2	SNOMED T3	10907441000119101
+#3	SNOMED T4	263192005
+#4	SNOMED T5	263203001
+#5	SNOMED T6	263195007
+#6	SNOMED T2	417163006
+#7	SNOMED T7	416462003

@@ -1,0 +1,22 @@
+Anamnèse
+Femme de 73 ans ayant des antécédents d'hypertension, de dyslipidémie, de diabète sucré non insulino-dépendant et n'ayant jamais fumé, bien qu'elle ait été une fumeuse passive (son mari était un fumeur actif qui est décédé d'un cancer du poumon). Chirurgie de remplacement du genou bilatéral. Traitement chronique par atorvastatine 20 mg, glimépiride 4 mg et ramipril 2,5 mg. Pas d'allergies médicamenteuses. Elle est à la retraite après avoir travaillé comme boulangère. Antécédents oncologiques familiaux d'un frère atteint d'un cancer du poumon non à petites cellules.
+En juin 2018, elle a présenté un épisode d'épanchement péricardique, pour lequel elle a été admise en cardiologie où une péricardiocentèse de 1 500 l de liquide sérohématique a été effectuée, avec une cytologie négative pour la malignité. Elle a ensuite présenté à nouveau des douleurs thoraciques et une dyspnée.
+
+Examen physique
+État général normal, hypotension, tachycardie, tachypnée, régurgitation jugulaire, pouls paradoxal. Bruits cardiaques étouffés.
+
+Examens complémentaires
+"Radiographie thoracique : augmentation de la silhouette cardio-médiastinale.
+"Échocardiographie : épanchement péricardique important.
+"Cytologie et biopsie de la fenêtre péricardique : adénocarcinome avec un échantillon insuffisant pour les déterminations moléculaires.
+"Tomodensitométrie (CT) thoraco-abdominale-pelvienne : masse de 80 x 20 mm dans le lobe supérieur gauche, nodule dans le lobe moyen et adénopathies hilaires et sous-carénaires bilatérales.
+"Fibrobronchoscopie et biopsie : adénocarcinome pulmonaire EGFR négatif, ALK et ROS-1 négatifs, PDL-1 5%.
+
+Diagnostic
+Tamponnade cardiaque. Adénocarcinome pulmonaire E-IVa (c T4N3M1a), EGFR, ALK, ROS-1 négatif, PDL-1 5%.
+
+Traitement
+Étant donné que le patient avait un statut de performance (PS) 0 après la résolution de l'épanchement, il a été décidé d'entamer un traitement par carboplatine-pemetrexed, qui a débuté le 15/9/2018.
+
+Évolution
+Après 3 cycles, la patiente a présenté une maladie stable, terminant 4 cycles puis le pemetrexed d'entretien, avec une bonne tolérance au traitement, sans toxicité secondaire. Après 7 cycles de maintenance, en février 2019, une progression de la maladie pulmonaire et hépatique et une aggravation clinique ont été observées, avec récurrence de la dyspnée et de la toux, des douleurs thoraciques et du syndrome constitutionnel. À cette époque, un séquençage massif en biopsie liquide a montré la présence d'une mutation driver BRAF V600E positive. Étant donné que le patient présentait une mutation BRAF, un traitement par dabrafenib + trametinib a été demandé et le traitement a été débuté le 15/3/2019. Depuis le début du traitement, le patient a montré une amélioration clinique, avec disparition de la toux et de la douleur thoracique, amélioration de la dyspnée et de l'appétit, avec prise de poids, sans toxicité dérivée du traitement. Lors de la dernière visite, en juin 2019, après 3 cycles, une réponse partielle a été observée. Actuellement, la patiente a reçu le quatrième cycle, avec un excellent état général, PS0 et une bonne tolérance au traitement.

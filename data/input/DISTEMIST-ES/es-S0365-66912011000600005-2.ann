@@ -1,0 +1,10 @@
+T1	pathologie 17 54	ex-adicto a drogas por vía parenteral
+T2	pathologie 74 114	hepatitis crónica por virus C genotipo 4
+T3	pathologie 316 330	visión borrosa
+T4	pathologie 333 361	«manchas» en el campo visual
+T5	pathologie 553 572	retinopatía por IFN
+#1	SNOMED T1	228388006
+#2	SNOMED T2	768126006
+#3	SNOMED T5	232032008
+#4	SNOMED T3	246636008
+#5	SNOMED T4	15013002

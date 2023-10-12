@@ -1,0 +1,61 @@
+Anamnèse
+Homme, 59 ans, marié, deux enfants, originaire de Bolivie, travaillant en Espagne depuis plus de 10 ans.
+
+Motif de la consultation
+Faiblesse du membre supérieur droit.
+Antécédents personnels
+"Aucune mention d'allergie médicamenteuse.
+"Hypertension artérielle chronique, dyslipidémie, hyperuricémie.
+"Habitudes toxiques : ex-fumeur de 9 paquets/an.
+"Insuffisance rénale chronique attribuée à l'utilisation d'AINS et de produits de contraste iodés, en plus d'une néphropathie angiosclérosante avec une clairance de la créatinine d'environ 30 ml/min.
+"Cardiopathie ischémique chronique.
+"Angine instable en septembre 2009 avec maladie tronculaire, LAD et circonflexe, traitée par revêtement de stent dans le tronc, LAD et circonflexe.
+"Fibrillation auriculaire paroxystique diagnostiquée en 2011, traitée par anticoagulation orale.
+"Sténose de la carotide droite de 60 % due à une plaque ulcérée, traitée par angioplastie et pose d'une endoprothèse carotidienne en 2010.
+"Anévrisme aortique artérioscléreux de l'aorte infrarénale d'un diamètre transversal majeur de 36 mm, suivi par le service de radiologie interventionnelle.
+"Au départ : indépendant pour les activités de la vie quotidienne. Karnofsky : 80%. Dyspnée à l'effort. Profession : Homme d'affaires.
+"Médicaments chroniques : furosémide 40 mg (2-1-0), bisoprolol 5 mg (1-0-0), ramipril 5 mg (1-0-0), nifédipine 30 mg (1-0-1), doxazosine 4 mg (0-0-1), atorvastatine 40 mg (0-0-2), oméprazole 20 mg (1-0-0), acide valproïque 500 mg (1-1-1), allopurinol 100 mg (1-0-0), acénocoumarol 1 mg par jour.
+
+Maladie actuelle
+Amené au service des urgences pour des symptômes cliniques apparus au réveil, il se plaint d'une faiblesse du membre supérieur droit avec des difficultés à soulever ou à saisir tout type d'objet, associée à une vision floue de l'œil droit et à de légers troubles de l'élocution. Il ne signale pas de fièvre, de douleurs thoraciques, de palpitations ou d'autres symptômes associés. La veille, la dose d'acénocoumarol avait été réduite à 1 mg (contre 4 mg auparavant) en raison d'un surdosage.
+
+Examen physique
+"Signes vitaux : tension artérielle de 140/93 mmHg ; fréquence cardiaque de 77 bpm ; température de 36,9 ºC.
+"Auscultation cardiaque : bruits cardiaques rythmiques sans souffle.
+"Auscultation pulmonaire : normale.
+"Abdomen : mou, dépressible, pas de masses ni de mégalithes.
+"Extrémités inférieures : œdème jusqu'au genou quittant la fovéa, pouls +.
+"Membres supérieurs : œdème dans le membre supérieur droit.
+"Examen neurologique : conscient et orienté dans les trois sphères. Langage courant, nomme, comprend, répète, obéit aux ordres axiaux et appendiculaires. Quadrantanopsie homonyme supérieure droite, en campimétrie conflictuelle. Pas d'anosognosie. Pas de négligence. Pupilles isochores, normoréactives à la lumière. Mouvements oculaires non limités, V moteur et sensitif normaux, VII normal, paires inférieures normales. Motricité : 4/5 au bras droit avec prédominance distale et 4+/5 au membre inférieur droit, et 5/5 aux extrémités gauches. ROT +++/++++, clonus achilléen bilatéral épuisable. RCP indifférent à droite, fléchisseur à gauche. Légère hypoesthésie tactoalgique brachio-crurale droite, hypopalesthésie modérée des membres inférieurs. Pas de dysmétrie.
+
+Examens complémentaires
+"Radiographie du thorax : masse dans le LID.
+" Tomodensitométrie crânienne (18/6/2014) : hématome intraparenchymateux de morphologie nodulaire dans le lobe frontal gauche, d'une taille de 16 mm. Petit œdème périlésionnel. Aucun effet de masse ou déplacement de la ligne médiane n'a été observé. Système ventriculaire normal. Le reste de l'étude n'a rien révélé de significatif. Conclusion : hématome intraparenchymateux frontal gauche.
+" Tomodensitométrie thoracique (20/6/2014) : néoformation pulmonaire inférieure droite avec multiples adénopathies médiastinales et implantation tumorale rétropéritonéale droite (T2bN2M1b). Petit épanchement pleural.
+" IRM cérébrale (23/6/2014) : hématome prérolandique gauche avec œdème périlésionnel et pas d'effet de masse significatif. Il n'est pas possible d'exclure complètement à l'heure actuelle que la lésion corresponde à une métastase avec hémorragie secondaire.
+" Urine de 24 heures (23/6/2014) : protéines de 24 heures : 17,35 g.
+" Echographie rénale (27/6/2014) : reins de taille et d'échostructure normales, sans dilatation de leur système excréteur. Epaisseur cortico-médullaire normale. Pas de signes de masses ou d'images de lithiases. Les artères et les veines rénales conservent un flux normal, ce qui permet d'exclure une thrombose. Épanchement pleural droit.
+"Étude de thrombophilie (25/6/2014) : Claus fibrinogène 422 mg/dl, antithrombine III 44%, protéine C 118%, protéine S libre 59,6%, anticoagulant lupique négatif.
+" PET-CT scan " (30/6/2014) : masse pulmonaire dans le LID, conglomérats adénopathiques médiastinaux et implant péritonéal infrarénal postérieur droit, avec caractéristiques métaboliques malignes. Épanchement pleural bilatéral prédominant à droite.
+" FNA de la masse pulmonaire (1/7/2014) : carcinome à grandes cellules.
+"IRM cérébrale (15/7/2014) : lésions multiples dans l'hémisphère cérébral gauche avec œdème périlésionnel modéré. Pas d'effet de masse significatif. Ces résultats sont compatibles avec une métastase.
+
+Diagnostic
+"Carcinome pulmonaire à grandes cellules de stade IV (T2B N3 M1B)
+"Syndrome néphrotique d'origine paranéoplasique.
+"AT III et déficit secondaire en protéine S.
+
+Traitement
+Première ligne de traitement (10/7/2014) selon taxol + gemcitabine 100/1000, DT 192/1920 mg tous les 15 jours, pour un poids de 80 kg, une taille de 1,70 m et une SC de 1,92 m2. Il a bénéficié de 10 cycles avec des critères cliniques de maladie stable.
+Deuxième ligne de traitement (19/11/2014) par vinorelbine à la dose de 30 mg (m2). DT 57,6 mg. A reçu deux cycles sans bénéfice clinique.
+
+Evolution
+Initialement admis en neurologie, au vu des résultats des examens d'imagerie et du diagnostic histologique de la lésion pulmonaire, nous avons été consultés pour compléter les études de stadification et commencer le traitement cytostatique.
+
+Pendant son séjour, on a observé une anasarque progressive avec prise de poids (8 kg), une tension artérielle élevée et une détérioration de la fonction rénale (créatinine 2,8 mg/dl) avec protéinurie (17,35 g/24 h), hypercholestérolémie et hypertriglycéridémie. Il a consulté un néphrologue, qui a suggéré un diagnostic de syndrome néphrotique, probablement paranéoplasique, et a commencé un traitement symptomatique avec restriction hydrique, diurétiques de l'anse et albumine, obtenant une amélioration clinique en quelques jours, avec perte de poids et amélioration de la pression artérielle. Dans le cadre d'une étude d'extension du syndrome néphrotique, une étude de thrombophilie a été demandée, qui a révélé un déficit en antithrombine III et en protéine S, sans aucun signe de thrombose dans les études d'imagerie (échographie rénale, tomodensitométrie thoraco-abdominale).
+
+Deux semaines après son admission, il a commencé à présenter des déficits neurologiques progressifs caractérisés par des céphalées, des troubles de la conscience, une hémiplégie droite, une déviation du regard vers la droite et un nystagmus horizontal. Un scanner cérébral a été réalisé en urgence et a révélé de nouvelles lésions occipitales bilatérales. Il a été examiné par un neurologue, qui a diagnostiqué un état partiel complexe et l'a mis sous phénytoïne. L'évolution clinique a été bonne après 24 heures, avec une récupération complète de la force motrice du membre inférieur droit et une récupération partielle du membre supérieur ipsilatéral ; comme séquelle, il a signalé un léger défaut campimétrique. Après stabilisation clinique, la première ligne de chimiothérapie a été administrée le 10/7/2014 selon le schéma taxol 100 mg (m2) + gemcitabine 1 000 mg (m2), dose totale 192/1920 mg tous les 15 jours, pour un poids de 80 kg, une taille de 1,70 m2 et un SC de 1,92 m2 avec une tolérance adéquate, sans toxicité notable. Elle a été renvoyée chez elle avec une prophylaxie anticonvulsivante à base de phénytoïne.
+
+Trois jours plus tard, il a été réadmis pour des mouvements tonico-cloniques dans le membre supérieur droit, le diagnostic étant celui d'une crise motrice focale dans le membre supérieur droit avec un taux sous-thérapeutique de phénytoïne. Une IRM cérébrale a été réalisée sans contraste, qui a montré des lésions multiples dans l'hémisphère cérébral gauche avec un œdème périlésionnel modéré compatible avec une métastase. Une radiothérapie holocrânienne a été réalisée (dose totale de 20 Gy) en 10 fractions, avec une tolérance adéquate et sans nouveaux épisodes convulsifs. Le retour à domicile sous acide valproïque a été décidé.
+
+Elle a poursuivi ses contrôles à la clinique externe, recevant 10 doses du schéma taxol/gemcitabine, avec des critères radiologiques de maladie stable jusqu'au 19/11/2014, date à laquelle il y a eu des preuves de progression des ganglions lymphatiques, des os et du péritoine dans le PET-CT scan. Une deuxième ligne de traitement palliatif a été initiée avec de la vinorelbine à la dose de 25 mg (m2), recevant deux doses sans aucun bénéfice clinique. Il a été orienté vers l'équipe de soins palliatifs et d'accompagnement à domicile. Le patient est décédé le 20 décembre 2014.

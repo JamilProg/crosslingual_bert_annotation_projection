@@ -1,0 +1,20 @@
+T1	pathologie 37 58	cardiopatía isquémica
+T2	pathologie 77 109	artritis reumatoide seronegativa
+T3	pathologie 126 167	poliartritis crónica, simétrica y erosiva
+T4	pathologie 446 464	anemia normocítica
+T5	pathologie 485 522	neuropatía periférica sensitivomotora
+T6	pathologie 525 539	esplenomegalia
+T7	pathologie 671 703	macroglobulinemia de Waldenström
+T8	pathologie 1392 1423	derrame a tensión en la rodilla
+T9	pathologie 2858 2877	esteatosis hepática
+T10	pathologie 2889 2903	esplenomegalia
+#1	SNOMED T1	194828000
+#2	SNOMED T2	239792003
+#3	SNOMED T3	225655006
+#4	SNOMED T4	300980002
+#5	SNOMED T5	789588003+95663000
+#6	SNOMED T7	190818004
+#7	SNOMED T8	202381003
+#8	SNOMED T9	197321007
+#9	SNOMED T6	16294009
+#10	SNOMED T10	16294009

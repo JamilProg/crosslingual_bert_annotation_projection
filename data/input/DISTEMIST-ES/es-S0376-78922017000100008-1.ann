@@ -1,0 +1,8 @@
+T1	pathologie 132 191	traumatismo contundente en mano izquierda en hiperextensión
+T2	pathologie 296 305	fracturas
+T3	pathologie 528 566	fractura de polo distal del escafoides
+T4	pathologie 1101 1140	necrosis del polo distal del escafoides
+#1	SNOMED T1	125599006
+#2	SNOMED T3	31975004
+#3	SNOMED T2	125605004
+#4	SNOMED T4	240196003

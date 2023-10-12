@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 24 ans qui, alors qu'elle allaitait son premier enfant, a remarqué la présence d'un nodule dans le quadrant supéro-interne du sein gauche. Elle avait fait deux fausses couches et sa mère était décédée d'un cancer du sein à l'âge de 26 ans, raison pour laquelle elle avait effectué un test BRCA-1 et 2 deux ans auparavant, dont les résultats étaient "non informatifs".
+
+Examen physique
+Au cours de l'examen, un nodule dur, non douloureux, profond et non adhérent d'environ 2 cm a été palpé dans le quadrant supéro-interne du sein gauche, ainsi qu'une adénopathie axillaire gauche de 1 cm. Le reste de l'examen physique était tout à fait normal.
+
+Examens complémentaires
+La mammographie a confirmé la présence d'un nodule dans le quadrant supéro-interne du sein gauche mesurant 2 cm, de catégorie BIRADS 6. L'échographie axillaire a révélé la présence de deux ganglions axillaires gauches suspects d'infiltration néoplasique. L'IRM mammaire a exclu la présence d'autres nodules mammaires. L'étude d'extension n'a pas montré la présence de métastases. Sur la base de toutes ces données, il a été décidé de procéder à une biopsie du nodule mammaire et des ganglions lymphatiques axillaires.
+
+Diagnostic
+L'examen anatomopathologique a révélé un carcinome canalaire infiltrant du sein gauche, de grade 3, fortement positif aux récepteurs d'œstrogènes, négatif aux récepteurs de progestérone, HER-2 positif et Ki67 de 40 %. La biopsie axillaire a confirmé l'infiltration du carcinome. Le stade était donc cT1c cN1 cM0 (stade IIa).
+
+Traitement
+Après avoir présenté le cas au Comité multidisciplinaire du cancer du sein, il a été décidé de procéder à une chimiothérapie néoadjuvante avec carboplatine, docétaxel, trastuzumab et pertuzumab pendant 6 cycles. La patiente a bien toléré le traitement, avec des nausées, des vomissements et une alopécie de grade 1. Par la suite, une tumorectomie du sein gauche et une biopsie sélective du ganglion lymphatique sentinelle ont été réalisées, avec une réponse pathologique complète (ypT0 ypN0 [0/2]).
+
+Progrès
+La patiente termine actuellement un traitement adjuvant dans le cadre d'un essai clinique avec du trastuzumab et du pertuzumab sous-cutanés, ainsi que du tamoxifène, présentant une excellente tolérance et menant une vie tout à fait normale, ayant repris son travail.
+Compte tenu des antécédents familiaux de la patiente, et bien qu'elle ait subi une étude des mutations BRCA 1 et 2 dans un centre privé il y a deux ans, qui s'est avérée "non informative", nous avons décidé d'adresser la patiente à l'unité de conseil génétique de l'hôpital.
+Finalement, l'étude génétique a détecté la présence de la mutation pathogène c.311delA dans l'exon 4 du gène TP53, qui a généré un codon stop prématuré et, par conséquent, des protéines tronquées qui perdent des domaines fonctionnels essentiels, constitutifs du syndrome de Li-Fraumeni.
+Après avoir informé la patiente de ces résultats, nous avons entamé un programme de diagnostic précoce des tumeurs associées à ce syndrome, consistant en un examen physique complet annuel, un examen dermatologique annuel, des analyses sanguines tous les 4 mois, une échographie abdominopelvienne semestrielle, des IRM mammaires, céphaliques et corporelles rapides annuelles, une gastroscopie et une coloscopie tous les 5 ans, ainsi que la recommandation d'effectuer une mastectomie bilatérale prophylactique. En outre, après avoir discuté du cas avec le service de radio-oncologie, nous avons décidé de ne pas administrer de radiothérapie adjuvante en raison de la présence de la mutation génétique.

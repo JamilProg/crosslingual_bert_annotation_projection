@@ -1,0 +1,35 @@
+Anamnèse
+Homme, 63 ans, hypertendu, avec un historique de tabagisme de 40 ans/pack. Pas d'autres habitudes toxiques. Il a consulté le service ORL en octobre 2010 pour une dysphonie de 3 mois. Il n'avait pas de toux, d'hémoptysie, de syndrome constitutionnel ou d'autres symptômes.
+
+Examen physique
+Niveau de performance de 0
+Bon état général. Dysphonie.
+Examen ORL : lésion tumorale de l'épiglotte avec cordes vocales mobiles.
+Auscultation cardio-pulmonaire normale et le reste de l'examen est normal.
+
+Examens complémentaires
+- Imagerie par résonance magnétique (IRM) : tumeur de la région supraglottique touchant la partie infrahyoïdienne de l'épiglotte avec infiltration apparente de la graisse pré- et paraglottique, remodelage, peut-être dû à l'infiltration, de la face interne des cartilages thyroïdiens antérieurs. Epaississement de la commissure antérieure avec atteinte possible de la glotte.
+- Tomodensitométrie thoraco-abdominale-pelvienne (TAP-CT) : tumeur de la supraglotte au stade radiologique T3-T4 (érosion du cartilage thyroïde) N0 et lésion pulmonaire du lobe supérieur gauche (LSI) évocatrice d'un carcinome broncho-pulmonaire au stade radiologique T2N0M0.
+- Pathologie de la lésion épiglottique obtenue par fibrobronchoscopie : carcinome épidermoïde bien différencié (épidermoïde).
+- Anatomie pathologique du nodule pulmonaire obtenu par aspiration à l'aiguille fine : images cytologiques compatibles avec un carcinome non à petites cellules. Carcinome épidermoïde probable.
+- Analyse de sang avec des marqueurs tumoraux normaux.
+- Pathologie du nodule pulmonaire après lobectomie et lymphadénectomie du lobe supérieur gauche : adénocarcinome peu différencié avec infiltration focale de la plèvre et sans atteinte des 13 ganglions lymphatiques prélevés (pT3 N0 M0).
+
+Diagnostic
+Double néoplasme synchrone : carcinome épidermoïde du larynx T4N0M0 (stade IV) et adénocarcinome du poumon pT3N0M0 (stade IIb).
+
+Traitement
+Un traitement chirurgical du néoplasme pulmonaire et un traitement ultérieur de la lésion laryngée par chimiothérapie et radiothérapie concomitantes ont été envisagés. En décembre 2010, une lobectomie supérieure droite a été réalisée sans complications.
+En janvier 2011, il a été évalué pour la première fois dans le service ambulatoire d'oncologie médicale, programmant le début d'un traitement par cisplatine 100 mg/m2 tous les 21 jours en concomitance avec une radiothérapie pour un total de trois cycles.
+
+Évolution
+La toxicité après la première dose de cisplatine a été un vomissement de grade 3, qui a contraint le patient à se rendre aux urgences et qui s'est résolu avec des antiémétiques conventionnels. En outre, il a présenté une radiodermite et une mucosite de grade 1, qui se sont largement améliorées avec un traitement topique.
+Après l'administration du troisième cycle de cisplatine et la fin de la radiothérapie, le traitement concomitant a été interrompu. La toxicité accumulée était une radiodermite de grade 2 et une mucosite de grade 2. À ce moment-là, une évaluation CT-PAI et ORL de la maladie a été demandée.
+L'imagerie a montré une réduction significative de la lésion supraglottique. Les autres examens, y compris l'examen du thorax, n'ont révélé aucun signe pathologique, d'où une rémission partielle de la maladie.
+La patiente a suivi son traitement de manière très irrégulière, sans se rendre aux consultations externes prévues. Six mois après la fin du traitement concomitant, il a de nouveau été suivi par les services d'oncologie médicale, d'oto-rhino-laryngologie, de chirurgie thoracique et de radiothérapie. Le suivi a consisté en un examen physique, des examens d'imagerie et des analyses de sang, y compris le profil des hormones thyroïdiennes en raison des antécédents d'irradiation du cou. Dans tous les cas, il y a eu une rémission complète de la maladie supraglottique et pulmonaire. Le patient était en très bon état général, avec une dysphonie persistante comme seul symptôme. Il n'y a pas eu de toxicité résiduelle.
+Il a poursuivi les contrôles habituels et n'a pas eu de maladie pendant 25 mois. En mai 2013, une tomodensitométrie de routine a révélé un nodule pulmonaire dans le lobe inférieur droit, polylobé, très évocateur d'une néoplasie pulmonaire, avec une stadification radiologique T1a, N0, MX.
+Compte tenu de la suspicion d'un troisième néoplasme primaire (et d'un deuxième poumon), une tomographie par émission de positons (TEP) et une biopsie par FNA de la lésion pulmonaire ont été demandées.
+La TEP-TDM a montré un nodule hypermétabolique dans la LID suggérant une tumeur maligne. Stadification métabolique-radiologique T1a, N0, M0.
+En août 2013, et après présentation du dossier au Comité des tumeurs thoraciques, une lobectomie inférieure droite a été réalisée, l'anatomie pathologique étant un carcinome épidermoïde modérément différencié, pT1b N0 Mx (stade Ia).
+Compte tenu du stade précoce, aucun traitement oncologique adjuvant actif n'a été nécessaire. Il a ensuite entamé un suivi clinique.
+La dernière visite à la clinique ambulatoire d'oncologie médicale a eu lieu fin mai 2014, date à laquelle le patient était asymptomatique, en très bon état général et exempt de maladie pour la tumeur laryngée et l'adénocarcinome pulmonaire depuis 37 mois et pour le carcinome épidermoïde du poumon depuis 10 mois.

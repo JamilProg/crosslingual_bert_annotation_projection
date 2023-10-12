@@ -1,0 +1,12 @@
+T1	pathologie 118 134	sangrado vaginal
+T2	pathologie 395 407	abuso sexual
+T3	pathologie 497 519	cuerpo extraño vaginal
+T4	pathologie 532 544	abuso sexual
+T5	pathologie 605 627	cuerpo extraño vaginal
+T6	pathologie 784 796	abuso sexual
+#1	SNOMED T1	399131003
+#2	SNOMED T2	225826001
+#3	SNOMED T3	34124000
+#4	SNOMED T4	225826001
+#5	SNOMED T5	34124000
+#6	SNOMED T6	225826001

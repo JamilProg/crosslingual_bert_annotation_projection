@@ -1,0 +1,14 @@
+T1	pathologie 85 101	ptosis palpebral
+T2	pathologie 261 279	proceso infeccioso
+T3	pathologie 552 618	parálisis de la supraducción y de la aducción de la mirada del ojo
+T4	pathologie 632 648	ptosis palpebral
+T5	pathologie 1077 1100	síndrome de Tolosa-Hunt
+T6	pathologie 1273 1286	oftalmoplejia
+T7	pathologie 1320 1341	ptosis palpebral leve
+#1	SNOMED T1	11934000
+#2	SNOMED T3	1534008
+#3	SNOMED T2	40733004
+#4	SNOMED T4	11934000
+#5	SNOMED T5	95794005
+#6	SNOMED T6	16110005
+#7	SNOMED T7	11934000

@@ -1,0 +1,26 @@
+Anamnèse
+Une femme de 62 ans, sans antécédents personnels intéressants, a consulté en août 2004 pour des douleurs sus-pubiennes. Une échographie abdominale a été réalisée, montrant une grosse masse pelvienne dépendant des appendices. Compte tenu de ces éléments, elle a bénéficié en septembre 2004 d'une laparotomie, d'une hystérectomie totale et d'une salpingo-ovariectomie bilatérale, d'une omentectomie, d'une résection de la masse dans la poche de Douglas et d'un lavage péritonéal. L'étude anatomopathologique a montré un cystoadénocarcinome papillaire séreux de haut grade avec des zones de transformation anaplasique pT3cN0, et le bilan d'extension était négatif pour les métastases, donc stade IIIC de la FIGO. Elle a reçu un traitement de chimiothérapie : carboplatine AUC 5 et paclitaxel 175 mg/m2 jour 1 tous les 21 jours jusqu'à la fin des six cycles, avec une tolérance médiocre et une normalisation du Ca 125 (il était élevé avant et après l'opération). Depuis lors, elle est soumise à des contrôles réguliers.
+
+En novembre 2012, après un intervalle sans maladie (ISM) de 8 ans, la patiente a consulté pour un érythème et une induration du sein gauche qui couvrait tout le sein. Une échographie a été réalisée, qui a montré un épaississement important de la peau et un œdème dans le tissu cellulaire sous-cutané, et une biopsie cutanée a révélé un carcinome inflammatoire du sein, donc cT4N0 et une étude d'extension négative (M0). Les marqueurs tumoraux (Ca 125 et Ca 15.3) sont normaux. Elle a débuté un traitement néoadjuvant par AC pendant quatre cycles (doxorubicine 60 mg/m2 + cyclophosphamide 600 mg/m2 jour 1 tous les 21 jours), suivi de docétaxel 100 mg/m2 jour 1 tous les 21 jours pendant quatre cycles, avec une mauvaise tolérance en raison d'une mucite de grade 3 et d'un zona, ce qui a contraint à une réduction de la dose et à une réponse clinique partielle à la fin du traitement. En juin 2013, elle a subi une mastectomie simple et une dissection axillaire et a été à nouveau adressée à notre clinique.
+
+Examen physique
+Sein gauche : cicatrice de mastectomie en bon état. Papules violacées éparses sur la paroi costale suggérant une infiltration dermique.
+
+Sein droit : érythémateux, induré, sans tumeur définie. Pas d'adénopathie axillaire palpable. Aucune autre lésion sur le reste du tégument cutané. Le reste de l'examen physique par organes et appareils n'a révélé aucun signe pathologique.
+
+Tests complémentaires
+"Pathologie de la pièce opératoire : images multiples d'invasion des vaisseaux sanguins et lymphatiques par un carcinome de haut grade de type papillaire séreux. Envahissement focal des lymphatiques du derme.
+Aisselle : métastases du carcinome dans 6 des 8 ganglions lymphatiques isolés avec de multiples images d'invasion des vaisseaux sanguins et lymphatiques.
+"Profil immunohistochimique : positif pour WT-1 et p53. Négativité pour les récepteurs des œstrogènes, de la progestérone et des androgènes, la mammaglobine, le GCDFP-15, la CK-5/6 et Her-2.
+"Biopsie des lésions cutanées : infiltration carcinomateuse des lymphatiques du sein avec un profil immunohistochimique similaire à celui de la pièce de mastectomie.
+"Analyse sanguine postopératoire : Ca 15.3 élevé à 46 UI/ml. Les autres marqueurs, l'hémogramme et la biochimie n'ont pas été modifiés.
+"TEP-TDM : absorption diffuse dans la région du sein droit correspondant à l'épaississement de la peau sur les images tomodensitométriques. Pas d'autres foyers.
+
+Diagnostic
+Invasion dermique métastatique du sein bilatéral par un carcinome ovarien séreux.
+
+Traitement
+Compte tenu de la mauvaise tolérance au traitement antérieur par le docétaxel, une chimiothérapie de deuxième intention par carboplatine AUC 5 + doxorubicine liposomale pégylée 30 mg/m2 tous les 28 jours est instaurée.
+
+Évolution
+La patiente a reçu six cycles avec une bonne tolérance et une légère amélioration de la composante inflammatoire après le troisième cycle, qui s'est aggravée après le sixième cycle avec une augmentation de la masse du sein. Un PET-CT a été réalisé après le sixième cycle, qui a montré une captation plus importante dans le sein droit qu'avant le traitement. La patiente a été considérée comme résistante au platine (PIL < 6 mois) et une troisième ligne de traitement a été mise en place avec paclitaxel 80 mg/m2 jours 1, 8, 15 + bevacizumab 7,5 mg/kg jours 1, 15 tous les 28 jours. Elle a reçu des cycles avec une bonne tolérance et une progression clinique de la maladie avec des léthargies dans les deux seins, la région sternale s'étendant au membre supérieur gauche avec des sécrétions séro-hématiques et le sein droit dans une coque douloureuse et très prurigineuse. Compte tenu de la progression, une nouvelle ligne de chimiothérapie a été décidée avec carboplatine AUC 2 + gemcitabine 1 000 mg/m2 jours 1 et 15 tous les 28 jours. La patiente a reçu trois cycles avec une légère amélioration. Après le quatrième cycle, la patiente a consulté en raison de la progression de la maladie, de la fièvre, de douleurs incontrôlées et d'un écoulement purulent à travers les lésions. Elle a été admise dans le service d'oncologie et est décédée quelques jours plus tard.

@@ -1,0 +1,31 @@
+Anamnèse
+Le patient est un homme de 76 ans, pêcheur à la retraite, hypertendu et diabétique non insulinodépendant sans médication active. Il est un ancien fumeur depuis l'âge de 60 ans. Il n'a pas d'antécédents familiaux intéressants.
+Il a consulté le service d'urologie pour la première fois en février 2010 pour une hématurie persistante. Après diagnostic par tomodensitométrie (TDM) d'une lésion rénale, il a subi une néphrectomie partielle du rein droit, l'anatomopathologie montrant un carcinome à cellules claires de 1,4 cm pT1pN0M0, grade IV de Fuhrman.
+Au cours du suivi en août 2014, une masse de tissu mou mesurant 3 x 3,9 x 4 cm a été détectée sur le muscle psoas droit. Il a été décidé de l'exciser, avec des résultats similaires à l'anatomie pathologique décrite précédemment, bien qu'il y ait eu des images d'invasion vasculaire, ainsi qu'un contact focal de la tumeur avec le bord de résection.
+Deux ans plus tard, un seul implant péritonéal a été observé dans la région pré-hépatique, ainsi qu'une masse de 3 cm dans la grande courbure de l'estomac. Des examens complémentaires ont permis d'exclure une maladie à d'autres niveaux. La lésion gastrique était compatible avec une tumeur stromale gastro-intestinale (GIST). Après discussion du cas en comité, les deux lésions ont été opérées, avec des résultats histopathologiques compatibles avec une GIST à faible indice mitotique (1/5 mm2), la masse abdominale étant une métastase d'un carcinome rénal à cellules claires. Un suivi a été indiqué.
+
+Examen physique
+Malgré son âge, le patient présente un indice de Karnofsky de 90 % et un examen minimal sans altération neurologique. Il n'y a pas de perte de poids ni de syndrome constitutionnel, l'appétit est conservé et les selles sont normales.
+L'auscultation cardiaque est rythmée, sans souffle, et l'auscultation pulmonaire ne révèle aucun bruit pathologique. L'abdomen est souple et dépressible sans douleur, les cicatrices post-chirurgicales présentant un bon aspect. Il n'y a pas d'œdème dans les membres inférieurs.
+
+Examens complémentaires
+Le scanner de février 2017 a montré une récidive au niveau périhépatique inférieur avec une masse de 3 x 4 cm compatible avec un implant péritonéal, ainsi que des métastases pulmonaires suspectes dans le lobe supérieur droit (LSD) et des kystes hépatiques dans les segments II et IV. La TEP-TDM a exclu un hypermétabolisme dans les lésions hépatiques.
+Les examens de laboratoire n'ont révélé aucune anomalie, à l'exception de l'hémoglobine, dont les valeurs étaient de 11 mg/dl.
+
+Diagnostic
+Compte tenu des examens et interventions précédents, le patient a été diagnostiqué avec un carcinome rénal métastatique à cellules claires (mRCC), et a été placé dans le groupe de risque intermédiaire car il avait un score de 1 sur l'échelle du Memorial Sloan-Kettering Cancer Center (MSKCC).
+
+Traitement
+En avril 2017, un traitement de première intention par sunitinib 50 mg a été initié selon un schéma de traitement de 4 semaines suivi de 2 semaines de repos. Au cours du deuxième cycle, la patiente a développé une anémie de grade 2 et une hypertension de grade 3 non contrôlée par 20 mg d'énalapril par jour et 40 mg/jour d'olmésartan, ce qui a nécessité une réduction du sunitinib à 37,5 mg poursuivie selon le même schéma.
+Une ferrothérapie a été nécessaire pour maintenir l'anémie au grade 1, ainsi qu'une analgésie de première intention pour contrôler la douleur.
+Lors de la première réévaluation de la maladie par tomodensitométrie, une progression pulmonaire a été observée. Au vu de la rechute, un traitement par nivolumab à la dose de 3 mg/kg toutes les deux semaines a été débuté en septembre 2017.
+
+Évolution
+Après sept cycles de nivolumab :
+" Le premier scanner de contrôle en novembre 2017 a observé une progression de la maladie due à l'apparition d'amas adénopathiques à plusieurs niveaux et de métastases hépatiques dans les segments VI et À son tour, il y avait une croissance significative de la masse dans la paroi abdominale sous-hépatique (une augmentation de 66 % par rapport à l'étude précédente) et des nodules sous-cutanés d'apparition récente. Tous les nodules pulmonaires sont devenus millimétriques.
+"En revanche, le patient a conservé un indice de Karnofsky de 100 %, avec une amélioration significative de la qualité de vie avec moins d'asthénie, ayant supprimé toute médication à domicile. Il n'a plus qu'un prurit de grade 1 contrôlé par des antihistaminiques. L'hémoglobine a atteint des niveaux normaux de 13,5 mg/dl.
+"Avec la suspicion d'une pseudo-progression, le même traitement a été maintenu.
+Après douze cycles de nivolumab :
+"Dix semaines plus tard, une réponse pulmonaire complète est évidente, ainsi que des adénopathies multiples dans différentes localisations. Au niveau hépatique, les deux lésions ont diminué de 50 %.
+"Le scanner montre l'évolution de la plus grande lésion mesurable après l'initiation du nivolumab, sans changement de ligne de traitement.
+Le patient a maintenu le traitement par nivolumab et a subi un nouveau scanner à 30 semaines, montrant une réponse complète à tous les niveaux. En décembre 2019, le schéma a été modifié à une dose mensuelle de 480 mg4. Il reste asymptomatique et présente une réponse complète depuis plus d'un an, la dernière consultation datant d'avril 2019.

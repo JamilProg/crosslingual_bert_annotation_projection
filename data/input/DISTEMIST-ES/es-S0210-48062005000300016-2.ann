@@ -1,0 +1,46 @@
+T1	pathologie 245 267	hematuria macroscópica
+T2	pathologie 342 354	Hipertensión
+T3	pathologie 421 452	accidente isquémico transitorio
+T4	pathologie 526 543	arritmia cardíaca
+T5	pathologie 546 558	valvulopatía
+T6	pathologie 570 595	episodios tromboembólicos
+T7	pathologie 638 655	litiasis urinaria
+T8	pathologie 711 727	abuso de cocaína
+T9	pathologie 751 766	hepatitis B o C
+T10	pathologie 1321 1351	dilatación del tracto urinario
+T11	pathologie 1594 1619	isquemia miocárdica aguda
+T12	pathologie 1840 1848	isquemia
+T13	pathologie 1923 1941	dilatación aórtica
+T14	pathologie 1944 1970	aneurisma de arteria renal
+T15	pathologie 2272 2291	episodios embólicos
+T16	pathologie 2481 2520	patología del aparato valvular cardiaco
+T17	pathologie 2540 2563	vegetaciones valvulares
+T18	pathologie 2586 2607	discinesia miocárdica
+T19	pathologie 2843 2918	macro/ microaneurismas o alteraciones de la arteria renal principal o aorta
+T20	pathologie 2950 2985	enfermedad protrombótica y vascular
+T21	pathologie 3300 3309	embolismo
+T22	pathologie 3331 3351	enfermedad sistémica
+T23	pathologie 3404 3416	hipertensión
+#1	SNOMED T10	128606002
+#2	SNOMED T16	368009
+#3	SNOMED T1	197941005
+#4	SNOMED T11	413444003
+#5	SNOMED T3	266257000
+#6	SNOMED T4	698247007
+#7	SNOMED T5	368009
+#8	SNOMED T6	371039008
+#9	SNOMED T7	95566004
+#10	SNOMED T13	26660001
+#11	SNOMED T14	36184004
+#12	SNOMED T8	78267003
+#13	SNOMED T9	442374005
+#14	SNOMED T15	414086009
+#15	SNOMED T2	38341003
+#16	SNOMED T21	414086009
+#17	SNOMED T22	56019007
+#18	SNOMED T23	38341003
+#19	SNOMED T17	459055004
+#20	SNOMED T12	52674009
+#21	SNOMED T18	25437005
+#22	SNOMED T19	67362008+36184004
+#23	SNOMED T20	76612001

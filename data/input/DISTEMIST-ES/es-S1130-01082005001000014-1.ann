@@ -1,0 +1,16 @@
+T1	pathologie 137 163	adenocarcinoma de próstata
+T2	pathologie 720 731	adenopatías
+T3	pathologie 1025 1040	hipoalbuminemia
+T4	pathologie 1091 1103	malabsorción
+T5	pathologie 1833 1849	colitis actínica
+T6	pathologie 2037 2048	adenopatías
+T7	pathologie 2576 2594	enteritis actínica
+T8	pathologie 3490 3508	enteritis actínica
+#1	SNOMED T1	399490008
+#2	SNOMED T8	73817000
+#3	SNOMED T7	73817000
+#4	SNOMED T3	119247004
+#5	SNOMED T5	55809007
+#6	SNOMED T2	30746006
+#7	SNOMED T6	30746006
+#8	SNOMED T4	32230006

@@ -1,0 +1,33 @@
+Anamnèse
+Femme de 58 ans avec des antécédents d'hypoparathyroïdie primaire idiopathique sous contrôle endocrinologique, sous traitement chronique par rocaltrol 0,25 mg par jour et calcium 500 mg toutes les 8 heures.
+En mars 2012, on lui a diagnostiqué un carcinome canalaire infiltrant du sein gauche (CDI) de 2 x 1,5 cm avec présence d'un carcinome in situ de haut grade (comédonécrose) avec infiltration vasculolymphatique et atteinte des berges chirurgicales. Scarff de grade III (D3 P2 M2) avec métastases dans 2 adénopathies, récepteurs d'œstrogènes +++, progestérone négative, C erb B2 négatif, Ki 67 25%. Sur la base de tous ces éléments, un diagnostic d'IDC luminal de stade B cT3 N1 M0 a été posé. Il a été présenté au Comité des tumeurs et un traitement néoadjuvant à base d'anthracycline x 4 cycles avec taxane-trastuzumab x 4 cycles a été décidé, qui s'est terminé en août 2013, avec une toxicité maximale d'asthénie de grade 4 et de vomissements de grade 2. En septembre 2013, une mastectomie radicale modifiée et l'ablation des ganglions axillaires gauches (niveaux I, II et III) ont été réalisées, suivies d'une RT sur la paroi costale (50 Gy ; 200 cGy/session ; 5 séances/semaine) et sur le creux sus-claviculaire (50 Gy ; 200 cGy/session ; 5 séances/semaine), avec une toxicité maximale de grade 1 radiodermite, laissant la patiente indemne de toute maladie. Depuis, elle est suivie tous les six mois par le service d'oncologie.
+Elle est adressée par l'Endocrinologie en avril 2017 pour un syndrome constitutionnel d'évolution de 3 mois avec des résultats analytiques d'anémie et de leucopénie avec une hémoglobine (Hb) à 7,7 g/dl, un MCV à 99,1 fl, des leucocytes (L) à 3 400/l et des plaquettes (P) à 152 000/l. La patiente signale une asthénie, une perte d'appétit et une perte de poids de 5 kg depuis 3 mois, avec des nausées occasionnelles sans vomissements. Elle ne signale aucune modification de ses habitudes en matière de selles ou de syndrome mictionnel, aucun symptôme infectieux ni aucune fièvre. Aucun épisode de douleur osseuse ou articulaire n'a été signalé. Deux concentrés de globules rouges ont été transfusés et la patiente a été admise pour des examens complémentaires.
+
+Examen physique
+Statut de performance ECOG (Eastern Cooperative Oncology Group Performance Status) 1 et examens cardio-pulmonaire, abdominal et des membres inférieurs sans particularité. L'examen de la peau n'a rien révélé.
+
+Tests complémentaires
+"Biochimie : glucose et ions normaux. Fonction hépatique normale. Fonction rénale normale. Calcium 9,1 mg/dl. Acide urique 7,3 mg/dl, protéines 8,7 g/dl, lactate déshydrogénase (LDH) 649 U/l.
+" Étude de l'anémie : ferritine 1 038 μg/l, fer 189 μg/dl, TSI 66,8 %, capacité totale de fixation du Fe 94,1 ug/dl. Vitamine B12 313 pg/ml, acide folique 7,3 ng/ml.
+"Tomodensitométrie thoracique et abdominopelvienne : infiltrat dans le lobe supérieur gauche (LSI) avec de multiples nodules pulmonaires bilatéraux (distribués de façon diffuse et prédominant dans les lobes supérieurs) associés à des résultats évoquant une atteinte métastatique. Le thorax ne présente aucune lésion osseuse évocatrice d'une tumeur maligne. Il y avait une lésion lytique avec une masse de tissu mou associée sur le versant supérieur de l'hémisacrum gauche, compatible avec une métastase.
+"IRM de la colonne lombaire et sacrée : atteinte diffuse de l'intensité du signal de la moelle épinière de la colonne lombaire, du bassin et de la partie visualisée des deux fémurs, avec un schéma disparate de restriction de la diffusion ; résultats compatibles avec une atteinte métastatique diffuse.
+"TEP/TDM : étude scintigraphique osseuse sans signe d'ostéoblaste osseux M1.
+Au vu de ces résultats, il a été décidé de poursuivre l'étude afin d'identifier l'origine de la lésion pulmonaire et sacrée :
+"Biopsie du cylindre pulmonaire : dyscrasie plasmocytaire avec sécrétion monoclonale de chaînes légères kappa. Technique du rouge Congo négative. Etude immunohistochimique : CD38 +, CD79a -, vimentine +, ALC - et présente une sécrétion de chaînes légères Kappa. Matériel amyloïde amorphe P+ et A-. Cellularité négative pour les marqueurs épithéliaux et ER, RP, C erb-B2 négatifs.
+"Immunologie : immunoglobulines IgG 3670 mg/dl, IgA 8 mg/dl, IgM 4 mg/dl.
+"Chaînes libres sériques : Kappa 202 mg/l, lambda 4 mg/l, indice kappa/lambda 50,5.
+" Protéinogramme sérique : albumine 39,6 %, α-1 globuline 6-9 %, α-2 globuline 10,8 %, B;-globuline 9,7 %, gamma globuline 33 %, rapport albumine/globuline 0,7, quantification du pic monoclonal 2,84 g/dl.
+"Immunofixation : bande monoclonale IgG-kappa.
+"ß2-microglobuline : 5 781 ug/l.
+"Biopsie de la moelle osseuse : plasmocytose de 58% aux dépens de plasmocytes atypiques avec sécrétion monoclonale de chaînes Kappa. Dans l'étude immunohistochimique sont exprimés CD130, CD38, CD70 15%, CD20 5%. Marqueurs épithéliaux négatifs. Rouge Congo : négatif.
+Echocardiographie : pas de suspicion d'hypertrophie ventriculaire gauche ou de cardiomyopathie infiltrante.
+"Troponines 0,0 et NTpro-BNP 115,2 pg/ml.
+
+Diagnostic
+Myélome multiple (MM) IgG kappa avec plasmocytome pulmonaire.
+
+Traitement
+Triplet avec bortezomib, thalidomide et dexaméthasone (VTD) pendant 6 cycles.
+
+Évolution
+Le patient a maintenant reçu le deuxième cycle de VTD avec une bonne tolérance.

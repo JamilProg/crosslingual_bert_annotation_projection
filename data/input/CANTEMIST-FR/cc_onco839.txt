@@ -1,0 +1,22 @@
+Anamnèse
+Le patient rapporte une gêne abdominale généralisée liée à une distension abdominale, avec un syndrome général important (asthénie, perte d'appétit et amaigrissement progressif). Dyspnée à l'effort modérée. Aucun symptôme infectieux pour le moment.
+
+Examen physique
+ECOG 2, hémodynamiquement stable et afébrile. Jaunisse sur la peau, les muqueuses et les conjonctives. Auscultation cardiaque : tonalités rythmiques, pas de souffle audible. Auscultation pulmonaire : hypoventilation globale. Abdomen : très distendu, inconfortable à la palpation, grosse hépatomégalie jusqu'à 15 cm sous le rebord costal droit. Membres inférieurs : pas d'œdème.
+
+Examens complémentaires
+Analyses sanguines avant le début du traitement cytostatique : Hb 7,8 g/dl, leucocytes 36 800 mmc, plaquettes 547 000 mmc, créatinine 0,71 mg/dl, bilirubine totale 4,7 mg/dl, sodium 127 mEq/l, potassium 4,9 mEq/l, calcium 9 mg/dl. Les jours précédents, le taux d'acide urique était de 10,4 mg/dl. En ce qui concerne les marqueurs des tumeurs neuroendocrines, il avait 309,3 ng/ml d'énolase neuronale spécifique et 914,4 ng/ml de chromogranine A.
+
+Diagnostic
+Avec un diagnostic de G3 NEC (ki-67 : 90 %) de stade IV cardia, avec atteinte multisystémique, le patient a été admis en oncologie médicale et a commencé un traitement cytostatique de première ligne pour une maladie avancée avec carboplatine AUC-4 (jour 1) + étoposide 80 mg/m2 (jours 1, 2, 3) tous les 21 jours, avec réduction de la dose en fonction de l'ECOG et de l'atteinte hépatique. Une transfusion de 2 concentrés de globules rouges a également été réalisée.
+Le lendemain, le patient a présenté une détérioration clinique significative, avec une dyspnée au repos et une saturation en oxygène inférieure à 90 %, nécessitant une oxygénothérapie à l'aide d'un réservoir. Des tests de laboratoire ont été effectués, montrant : acide urique 15,4 mg/dl, créatinine 1,02 mg/dl, phosphore 4,1 mg/dl, cholestérol total 577 mg/dl, LDL 522 mg/dl, sodium 125 mEq/l, potassium 5,7 mEq/l, calcium 8,6 mg/dl. Les gaz du sang artériel montrent un pH de 7,31, une pCO2 de 25 mm Hg, une pO2 de 56 mm Hg, un bicarbonate de 12,6 mmol/l, un excès de bases de 12,1 mmol/l et une saturation en oxygène de 86 % (avec MKV à 50 %).
+Un traitement par allopurinol 100 mg/8h par voie orale, rasburicase 0,2 mg/kg/jour par voie intraveineuse en doses uniques, furosémide 20 mg/8 h par voie intraveineuse et sérothérapie intensive a été instauré, en maintenant un traitement antifongique par fluconazole, débuté suite à l'isolement de Candida albicans lors d'un brossage œsophagien réalisé au cours d'une gastroscopie.
+Analyses sanguines et gaz du sang veineux : acide urique 4,7 mg/dl, créatinine 1,61 mg/dl, calcium 8,2 mg/dl, sodium 132 mEq/l, potassium 6 mEq/l, phosphore 8,1 mg/dl, pH 7,28, bicarbonate 16,9 mmol/l, pCO2 36 mm Hg, excès de bases 9,1 mmol/l.
+Au vu de la détérioration clinique progressive, la médecine intensive a été prévenue et le patient a été transféré dans son service avec un diagnostic d'insuffisance respiratoire aiguë et de syndrome de lyse tumorale avec insuffisance rénale aiguë et acidose métabolique.
+
+Traitement
+Poursuite de l'assistance en soins intensifs, nécessitant une ventilation mécanique non invasive continue, une thérapie sérique intensive avec remplacement des ions, ainsi qu'une antibiothérapie empirique à base de pipéracilline-tazobactam, avec maintien d'un traitement antifongique à base de fluconazole.
+La présence d'infiltrats pulmonaires bilatéraux diffus sur la radiographie pulmonaire portable a été notée, établissant le diagnostic différentiel entre le syndrome de détresse respiratoire aiguë, l'hémorragie pulmonaire et une complication infectieuse.
+
+Évolution
+Le patient a évolué favorablement, l'assistance respiratoire ayant été interrompue et les taux de créatinine, d'acide urique, de phosphore, de calcium et de potassium étant normaux. Après 8 jours en soins intensifs, il a été transféré en oncologie médicale. Nous avons effectué une nouvelle radiographie thoracique de contrôle avec une grande amélioration par rapport à la précédente. Elle a présenté une récupération progressive de son état général et il a été décidé de la renvoyer chez elle dans les jours suivants.

@@ -1,0 +1,14 @@
+T1	pathologie 46 70	síndrome coronario agudo
+T2	pathologie 248 262	edema cerebral
+T3	pathologie 498 515	muerte encefálica
+T4	pathologie 652 669	muerte encefálica
+T5	pathologie 771 780	asistolia
+T6	pathologie 888 897	asistolia
+T7	pathologie 1143 1159	broncoaspiración
+#1	SNOMED T1	394659003
+#2	SNOMED T6	397829000
+#3	SNOMED T4	230802007
+#4	SNOMED T5	397829000
+#5	SNOMED T2	2032001
+#6	SNOMED T3	230802007
+#7	SNOMED T7	427827009

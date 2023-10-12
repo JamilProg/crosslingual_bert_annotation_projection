@@ -1,0 +1,10 @@
+T1	pathologie 37 49	hipertensión
+T2	pathologie 52 67	hernia de hiato
+T3	pathologie 925 931	lesión
+T4	pathologie 1059 1064	tumor
+T5	pathologie 1083 1116	carcinoma urotelial de alto grado
+#1	SNOMED T2	84089009
+#2	SNOMED T1	38341003
+#3	SNOMED T5	27090000
+#4	SNOMED T3	417163006
+#5	SNOMED T4	55342001

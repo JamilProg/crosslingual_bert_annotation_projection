@@ -1,0 +1,32 @@
+Anamnèse
+En 2009, un homme de 29 ans a été référé à l'hôpital pour des manifestations cliniques de douleurs lombaires. Les examens pratiqués (échographie, tomodensitométrie [TDM] et TEP) ont montré de grosses masses rétropéritonéales occupant la quasi-totalité du rétropéritoine évoquant des conglomérats adénopathiques avec déplacement du pancréas et des anses intestinales, une obstruction urétérale avec hydronéphrose bilatérale, ainsi que des adénopathies de taille significative dans le méso-intestin, le hile hépatique et splénique, le péripancréas et les chaînes iliaques bilatérales, évoquant en premier lieu un syndrome lymphoprolifératif, pour lequel une biopsie des ganglions lymphatiques a été effectuée, avec le résultat anatomopathologique (AP) de métastases d'un carcinome embryonnaire. Le patient présentait une lésion testiculaire gauche ; une orchidectomie gauche a été pratiquée avec le résultat anatomopathologique d'une tumeur brûlée, un néoplasme germinatif intratubulaire. Marqueurs tumoraux (MT) AFP : 215, B-HCG 173, LDH 2105, diagnostiqué en décembre 2009 d'une tumeur germinale non séminomateuse (TGNS) de bon pronostic et traité par trois cycles de bléomycine + étoposide + cisplatine (BEPx3) avec MT négatif et chirurgie ultérieure des masses résiduelles avec AP sans preuve de tumeur viable. Par la suite, la patiente a continué à subir des examens de contrôle, sans aucun signe de récidive depuis 4 ans.
+
+Le patient a été examiné pour des adénopathies rétropéritonéales suspectes de récidive de sa tumeur germinale et a été diagnostiqué avec un sarcome rétropéritonéal de haut grade.
+
+Examen physique
+État général acceptable, conscient et orienté, pâleur de la peau. Bruits cardiaques rythmés et absence de souffle. Auscultation respiratoire : murmure vésiculaire diminué dans les deux bases, sans bruits pathologiques ajoutés. Abdomen avec cicatrice de laparotomie en bon état, souple et dépressible, sans signes de péritonisme. Cathéter de dialyse péritonéale.
+
+Examens complémentaires
+" Tomodensitométrie de l'abdomen et du bassin avec contraste intraveineux (5/11/2014) : élargissement significatif de la tumeur rétropéritonéale, mesurant actuellement 8,5 x 6,5 cm.
+"Angio-CT scan de l'abdomen. Tomodensitométrie abdominale avec contraste intraveineux en phase néphrographique (12/1/2015) : absence de vascularisation du rein gauche ; en phase néphrographique, on observe une ischémie de la quasi-totalité du rein, avec persistance d'un parenchyme faiblement perfusé dans le mésorenchyme et le pôle inférieur.
+
+Conclusion : ischémie aiguë du rein gauche due à l'obstruction du tiers proximal de l'artère rénale gauche avec reperméabilisation partielle des artères segmentaires.
+"Scanner du thorax, de l'abdomen et du bassin sans contraste intraveineux : aucun contraste n'a été administré en raison du refus de la patiente. Aucun signe pathologique n'a été observé dans le thorax. Une formation d'environ 5 x 5 cm de diamètre est observée dans le rétropéritoine, qui s'imprime à la surface du rein gauche, sans qu'il soit possible d'en déterminer la nature en l'absence de contraste intraveineux, ce qui pourrait correspondre à des restes tumoraux, à un hématome post-chirurgical, etc.
+" TEP-TDM corps entier (F18.FDG) (11/3/2015) : volumineuse masse rétropéritonéale gauche modérément hypermétabolique, avec une large zone centrale hypométabolique probablement nécrotique de taille approximative 62 x 87 x 95 mm, d'aspect pseudo-encapsulé. Compatible avec une récidive tumorale rétropéritonéale gauche progressive.
+
+Diagnostic
+Sarcome des tissus mous, localisation rétropéritonéale, 18 x 15 cm, avec différenciation neuronale (tumeur maligne de la gaine du nerf périphérique), grade histologique 3, contact important avec le bord chirurgical.
+
+Traitement
+Il a subi une intervention chirurgicale en janvier 2015, révélant une masse rétropéritonéale gauche de consistance dure et très vascularisée, englobant la glande surrénale gauche, attachée au pédicule rénal, avec déplacement du côlon gauche.
+La biopsie peropératoire était compatible avec un processus néoplasique de haut grade, peut-être un sarcome. La chirurgie a été réalisée sur la lésion rétropéritonéale macroscopiquement complète avec des marges affectées dans l'anatomie pathologique.
+Risque élevé de récidive du sarcome rétropéritonéal avec des marges affectées, sans possibilité d'élargissement chirurgical. Le patient est adressé au service de radio-oncologie pour une évaluation du traitement adjuvant, mais il refuse la radiothérapie. Le traitement par chimiothérapie adjuvante n'étant pas indiqué, un suivi étroit est assuré.
+Récidive locale d'un sarcome rétropéritonéal, avec un intervalle sans progression (ISP) de 2 mois. Il a été décidé de procéder à une intervention chirurgicale, au cours de laquelle il a été constaté que la tumeur touchait les vaisseaux mésentériques et n'était pas résécable.
+Le traitement de chimiothérapie a commencé par du taxol 100 mg/m2, avec une réduction de 25 % les jours 1, 8 et 15 tous les 28 jours, avec la possibilité d'ajouter de la gemcitabine si elle est bien tolérée.
+
+L'évolution
+Il a subi une intervention chirurgicale pour la tumeur rétropéritonéale gauche en janvier 2015. Comme complication chirurgicale, le patient a souffert d'une thrombose massive de l'artère rénale gauche avec ischémie artérielle du rein gauche, à la suite de laquelle il a développé une insuffisance rénale sévère, nécessitant une hémodialyse pendant l'admission, avec une prise en charge conservatrice ultérieure.
+Le diagnostic définitif de l'AP était un sarcome rétropéritonéal de haut grade avec des marges positives.
+Le patient ayant refusé la radiothérapie adjuvante, un suivi a été effectué, avec des signes de récidive au scanner et à la TEP/TDM à deux mois.
+Le cas a été présenté au comité d'uro-oncologie et au comité des tumeurs digestives et il a été décidé de procéder à une intervention conjointe, la tumeur s'étant avérée non résécable.
+Le patient suit actuellement un programme de dialyse péritonéale tous les deux jours et a commencé un traitement de chimiothérapie.

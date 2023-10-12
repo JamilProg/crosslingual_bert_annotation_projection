@@ -1,0 +1,35 @@
+ANTÉCÉDENTS PERSONNELS
+- Hyperplasie bénigne de la prostate, opérée par photovaporisation prostatique le 7/7/16.
+- Ex-fumeur depuis plus de 40 ans (indice de paquet-année 8,8).
+
+ANTÉCÉDENTS ONCOLOGIQUES
+Homme de 82 ans, suivi par l'urologie après diagnostic en juin 2017 d'un adénocarcinome de la prostate à forte charge tumorale. Staging T4 N1 M1 en raison d'une atteinte adénopathique rétropéritonéale et iliaque et de multiples métastases osseuses.
+Gleason 10 (5+5) avec un PSA de 7,4 ng/ml au moment du diagnostic.
+En tant que patient avec un diagnostic de carcinome de la prostate métastatique hormono-sensible, une privation androgénique a été débutée avec un analogue de la LH-RH tous les six mois en juin 2017 et de l'abiratérone en septembre 2017, sur la base des données publiées par Latitud, dans lesquelles l'association de l'abiratérone à la privation androgénique a apporté un bénéfice en termes de survie globale et de survie sans progression de la maladie. Les patients devaient répondre à deux des critères suivants : trois métastases osseuses ou plus, Gleason > 8, atteinte viscérale.
+Novembre 2017 ; PSA nadir 0,12
+
+MALADIE ACTUELLE
+Un scanner de contrôle réalisé en janvier 2018 a montré une diminution des adénopathies et de la tumeur prostatique. À noter l'apparition d'un nodule dans le lobe supérieur droit mesurant
+18 mm.
+PSA 0,13 ng/mL Testostérone 15 ng/mL
+L'étude a été complétée par une scintigraphie osseuse au cours de laquelle 9 nouveaux foyers osseux métastatiques ont été observés. A cette époque, nous avons trouvé un patient atteint d'un carcinome métastatique de la prostate en phase de résistance à la castration, avec une progression radiologique au niveau osseux, dans lequel un nouveau nodule pulmonaire est apparu.
+
+ÉVOLUTION
+Le patient était cliniquement asymptomatique, ECOG 1, sans altération à l'examen physique.
+Après discussion avec le Comité des tumeurs urologiques, il a été décidé de demander une biopsie du nodule pulmonaire, obtenant un diagnostic anatomopathologique d'adénocarcinome d'origine pulmonaire.
+* Pas de mutation EGFR ou BRAF. Pas de réarrangement ALK/ROS1. Expression de PD-L1 > 50 %.
+Compte tenu du second néoplasme synchrone d'origine pulmonaire, localisé au moment du diagnostic, un traitement radical par SBRT a été décidé (réception d'un total de 7 Gy en 9 fractions du 23/05/18 au 12/06/18).
+Dans le cadre de la maladie de la prostate, chez un patient atteint d'un carcinome de la prostate métastatique en phase de résistance à la castration avec progression osseuse et apparition d'un second néoplasme, nous avons décidé de débuter une chimiothérapie de première ligne par docétaxel-prednisone.
+En juillet 2018, après 4 cycles de chimiothérapie par docétaxel-prednisone, un scanner et une scintigraphie osseuse ont montré l'apparition de 3 nouvelles lésions osseuses avec augmentation de l'intensité de certains foyers connus. Il existe une stabilité au niveau ganglionnaire et pulmonaire, avec une nouvelle adénopathie dans la zone de bifurcation de la veine cave inférieure de 1 cm de diamètre.
+PSA 0,76 ng/mL Testostérone < 3 ng/mL
+Face à un patient présentant une progression radiologique (osseuse et ganglionnaire), clinique et biochimique de la maladie, un traitement de seconde ligne par cabazitaxel a été débuté.
+En septembre 2018, après 4 cycles de cabazitaxel-prednisone, un scanner et une scintigraphie osseuse ont montré l'apparition d'une lymphadénopathie rétropéritonéale et l'apparition d'une nouvelle lésion au niveau de la surrénale gauche. On observe également une progression osseuse avec de nouvelles lésions et une augmentation des lésions antérieures.
+À ce stade, compte tenu de la rareté de l'atteinte métastatique de la glande surrénale dans le cancer de la prostate, il a été décidé de demander une biopsie du nodule surrénalien afin de clarifier le diagnostic. Nous avons ainsi obtenu un échantillon compatible avec une métastase d'adénocarcinome pulmonaire.
+*Pas de mutation EGFR ou BRAF. Pas de réarrangement ALK/ROS1. Expression de PD-L1 > 50 %.
+PSA 6,94 ng/mL
+
+Compte tenu de la progression biochimique et radiologique de la maladie prostatique au niveau osseux et ganglionnaire, nous nous sommes retrouvés avec peu d'options thérapeutiques. Après avoir obtenu le diagnostic de progression de l'adénocarcinome pulmonaire, avec une expression de PD-L1 > 50%, il a été décidé de débuter un traitement de première ligne par Pembrolizumab (octobre 2018). Au scanner de contrôle de décembre 2018 et après 3 cycles de Pembrolizumab, il y avait une réponse partielle avec une diminution des lésions pulmonaires, une disparition des adénopathies rétropéritonéales et du nodule surrénalien gauche et une augmentation de la densité des lésions blastiques osseuses (sclérose probablement secondaire à la réponse).
+
+Après 5 cycles de Pembrolizumab lors de la dernière scintigraphie osseuse réalisée (février 2019), la stabilité persiste dans les métastases osseuses connues.
+En résumé, le patient présente une maladie stable selon les critères RECIST 1.1 pour ses deux néoplasmes synchrones, avec une diminution de la captation dans les foyers existants.
+PSA 0,09 ng/mL

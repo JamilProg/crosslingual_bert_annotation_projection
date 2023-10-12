@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 79 ans, aux antécédents d'hydatidose hépatique et pulmonaire réséquée en 1994, de gastrite chronique atrophique avec carence en B12 et anémie mégaloblastique sous traitement substitutif intramusculaire bimensuel. Antécédents gynéco-obstétricaux : ménarche à 12 ans, règles à 51 ans, G2 A0 V2. Pas de traitement hormonal. Pas d'antécédents familiaux intéressants.
+
+Lors d'un scanner thoraco-abdominal réalisé dans le cadre du suivi d'une hydatidose (septembre 2013), une lésion suspecte de malignité a été détectée au niveau du sein gauche avec une atteinte axillaire homolatérale. La patiente a été adressée au service de CGyD pour des examens complémentaires et un traitement. Elle a rapporté un inconfort gastrique d'une durée d'un mois consistant en une sensation de bol alimentaire dans l'épigastre et une digestion lourde, associée à une hyporexie et à une perte de poids de 5 kg.
+
+Examen physique
+ECOG 0. Hémodynamiquement stable. Tumeur palpable à la jonction du quadrant supérieur (UCS) du sein gauche mesurant 2 cm et adénopathie axillaire mesurant 1 cm. Niveau abdominal : double cicatrice paramédiane et sous-costale de chirurgies antérieures. Masse épigastrique palpable, non douloureuse, sans autre particularité.
+
+Tests complémentaires
+"Marqueurs tumoraux : CEA 15,3 ng/ml ; CA 15-3 43,6 UI/ml ; CA 19-9 3413,1 UI/ml ; CA 125 28 UI/ml.
+"Mammographie et échographie axillaire gauche : nodule spéculatif de 2,5 cm dans le SCU, biopsié. Adénopathie axillaire gauche de 2,7 cm sur laquelle une FNA est réalisée. BI-RADS 5.
+"Biopsie du sein : carcinome canalaire infiltrant de grade II-III. Récepteurs d'œstrogènes positifs (75 %), récepteurs de progestérone négatifs. Indice de prolifération moyen (20 %). Her2 IHQ (++) limite, FISH pas d'amplification.
+"FNA de l'aisselle : métastase de carcinome.
+"Echoendoscopie + biopsies : épaississement hypoéchogène de la paroi du corps gastrique (12 mm), avec perte de l'aspect stratifié habituel et atteinte circonférentielle, compatible avec une lymphite gastrique. Une infiltration en dehors de la séreuse gastrique a été observée en plusieurs points. Aucune adénopathie périgastrique ou ascite significative n'a été identifiée.
+"Biopsie gastrique (1) : fragments de muqueuse gastrique de type corporel montrant une métaplasie intestinale étendue avec un infiltrat inflammatoire chronique modéré dans le chorion, compatible avec une gastrite atrophique chronique.
+"Endoscopie gastro-intestinale supérieure : des plis épaissis et une absence de distension à l'insufflation sont identifiés dans la cavité gastrique, le tout compatible avec un processus néoplasique de type lymphoïde plastique. Des biopsies sont réalisées.
+"Biopsie gastrique (2) : fragments de muqueuse gastrique avec métaplasie intestinale marquée montrant dans un petit fragment un petit groupe de cellules épithéliales avec des signes évocateurs d'infiltration, insuffisants pour un diagnostic concluant.
+"CT thoracique-abdomino-pelvien : aucun signe de maladie à distance.
+
+Diagnostic
+Bien que les biopsies ne soient pas concluantes, compte tenu des antécédents de gastrite chronique atrophique et des images endoscopiques de lymphite plastique, il y a une forte suspicion de tumeur gastrique primaire synchrone chez une patiente chez qui on a diagnostiqué un carcinome canalaire infiltrant du sein gauche de sous-type luminal B avec atteinte axillaire.
+
+Traitement
+Après avoir discuté du cas au sein d'un comité multidisciplinaire, il a été décidé de commencer un traitement néoadjuvant pour les deux tumeurs avant de procéder à un sauvetage chirurgical avec une intention radicale. Ainsi, en octobre 2013, la patiente a débuté un traitement hormonal par Letrozole 2,5 mg/24 h pour la tumeur mammaire ; et une chimiothérapie FOLFOX6 (oxaliplatine 85 mg/m2, leucovorine 400 mg/m2, 5-fluoroacyl 400 mg/m2 en bolus, jour 1 et 5-Fluoroacyl 2 400 mg/m2 en perfusion continue pendant 48 h, tous les 14 jours) pour la tumeur gastrique.
+La patiente a reçu 4 cycles avec une mauvaise tolérance due à une toxicité digestive (nausées et vomissements de grade 1) et hématologique (neutropénie de grade 2), mais avec une réponse radiologique significative et une normalisation des marqueurs tumoraux après 3 cycles de chimiothérapie et 2 mois d'hormonothérapie.
+
+Evolution
+En janvier 2014, elle a été opérée par gastrectomie D3, avec la surprise de constater que le diagnostic histologique était celui d'un carcinome lobulaire métastatique de haut grade (pléomorphe) d'origine mammaire, avec une positivité modérée dans 30 % des cellules tumorales pour les récepteurs aux œstrogènes et aucune expression des récepteurs à la progestérone, une positivité HER-2 modérée (++), FISH non amplifiée. La tumeur était CK7+/CK20-. Les bords chirurgicaux, les ganglions lymphatiques et la graisse périnodale n'ont pas été touchés.
+Avec ces résultats, la chimiothérapie a été suspendue, continuant avec Letrozole jusqu'à ce qu'en avril 2014, une mastectomie radicale gauche modifiée soit effectuée avec une anatomie pathologique de carcinome infiltrant mixte (lobulaire avec des zones ductales) de grade 2 de 3 cm, métastase de carcinome mammaire dans 5 des 24 ganglions lymphatiques, sans invasion lymphovasculaire. E-cadhérine négative. Evaluation de la réponse pathologique (S. de MILLER et PAYNE) G3 : Diminution significative de la cellularité tumorale invasive, entre 30 et 90% de la masse tumorale. Stade ypT2ypN2.
+Enfin, un diagnostic de carcinome mammaire infiltrant mixte (lobulaire classique avec des zones ductales) de stade ypT2ypN2pM1 a été posé en raison d'une métastase gastrique sous forme de lymphite plastique, HR positive, HER-2 négative, traitée radicalement après une prise en charge multidisciplinaire.
+La patiente, actuellement âgée de 81 ans, a poursuivi son traitement hormonal de première ligne, bien toléré, avec un ECOG de 0. Elle subit des examens trimestriels sans aucun signe de maladie à ce jour.

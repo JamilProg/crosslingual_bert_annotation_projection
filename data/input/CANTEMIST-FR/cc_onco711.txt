@@ -1,0 +1,27 @@
+Anamnèse
+Un homme de 51 ans, d'origine étrangère, ayant des antécédents de sarcome testiculaire de stade I en 2005, diagnostiqué et traité dans son pays d'origine par orchidectomie gauche avec contrôle ultérieur par tomographie axiale computérisée du thorax-abdomen-pelvis (CAT scan) sans aucun signe de la maladie. Aucun autre antécédent personnel ou familial n'a été signalé.
+En juin 2014, il a consulté notre centre pour une douleur de la première articulation carpo-métacarpienne de la main gauche, d'intensité progressive, d'évolution de deux mois, qui n'a pas répondu au traitement antalgique de première intention (paracétamol 1 g/ 8 heures). Il a été évalué par le service de traumatologie, où une radiographie simple, une scintigraphie articulaire et une imagerie par résonance magnétique (IRM) de la main gauche ont été réalisées, définissant une lésion lytique de l'os scaphoïde, avec destruction osseuse et perte de plans avec les os adjacents, sans pouvoir discerner s'il s'agissait d'une lésion osseuse primaire ou d'une lésion des tissus mous adjacents à l'os.
+En septembre 2014, le cas clinique a été présenté au Comité multidisciplinaire sur les tumeurs osseuses et les sarcomes des tissus mous (CMTOSPB) après avoir effectué une biopsie à l'aiguille de carotte (CNB) de la lésion du scaphoïde avec le résultat anatomopathologique d'une tumeur maligne indifférenciée à cellules rondes qui n'a pas pu être classée, raison pour laquelle il a été référé au département d'oncologie médicale.
+
+Examen physique
+Tumeur solide de 2 cm de diamètre dans la région dorsale de la main gauche, adhérente aux plans profonds, douloureuse à la palpation superficielle et à la mobilisation active et passive du poignet avec limitation partielle de la mobilité.
+Orchidectomie gauche, avec examen normal du testicule droit. Le reste de l'examen physique complet par organes et appareils était dans la normalité.
+
+Tests complémentaires
+"Hémogramme complet : hémogramme complet ; biochimie avec fonction rénale et hépatique, ions, lactate déshydrogénase, gonadotrophine chorionique humaine (bêtaHCG), alpha-fœtoprotéine (aFP) et antigène prostatique spécifique dans les limites de la normale.
+"Échographie du testicule droit : aucun résultat pathologique.
+"CT TAP et tomographie par émission de positons (PET) : multiples métastases osseuses, ganglions lymphatiques supra et infradiaphragmatiques, métastases pulmonaires bilatérales, des tissus mous, rénales et surrénaliennes gauches, sans qu'il soit possible d'identifier une tumeur primaire.
+"Anatomie pathologique de la BAG de la lésion rénale gauche : probable tumeur neuroendocrine (TNE) de primitif inconnu versus (vs.) récidive tumorale d'un sarcome testiculaire avec un Ki-67 : 30-40 %.
+
+Diagnostic
+Tumeur maligne à cellules rondes indifférenciées inclassable stade (E) IV vs NST de primitif inconnu E IV vs récidive de sarcome testiculaire E IV.
+
+Traitement
+Il a été décidé de commencer une chimiothérapie à base de cisplatine (90 mg/m2 le jour 1) et d'étoposide (150 mg/m2 les jours 1 à 3) par voie intraveineuse tous les 21 jours, avec une bonne tolérance.
+
+Évolution
+Après le troisième cycle de chimiothérapie, bien toléré, un scanner TAP de contrôle a été réalisé qui a montré une maladie stable, avec une progression probable au niveau abdominal.
+Un test génétique (CUPRINT) a été demandé, qui n'a pas été concluant. Devant le doute diagnostique d'un probable sarcome, il a été décidé de débuter un traitement par chimiothérapie selon le schéma VAC (vincristine 1,5 mg/m2 ; actinomycine D 1,5 mg/m2 ; cyclophosphamide 1 200 mg/m2) tous les 21 jours, avec une bonne tolérance à l'exception d'une asthénie de grade 2.
+Après le troisième cycle de traitement, l'imagerie de contrôle par tomodensitométrie (CT TAP) a montré une stabilisation de la maladie. Cependant, une masse solide indurée de 0,5 cm de diamètre est apparue sur le cuir chevelu, indurée, non douloureuse. Une biopsie de la lésion a été réalisée, avec des résultats anatomopathologiques compatibles avec une TNE, et il a donc été décidé de reprendre le traitement par chimiothérapie avec un schéma cisplatine-étoposide tous les 21 jours.
+Au début, la patiente présentait un PS de 1 et, après le premier cycle, une toxicité hématologique avec anémie et leucopénie de grade 3 et thrombocytopénie soutenue de grade 3-4 qui, après l'étude hématologique, a été diagnostiquée comme toxique-immune, de sorte qu'un traitement par immunoglobulines a été commencé, permettant de stabiliser les niveaux de plaquettes jusqu'à une thrombocytopénie de grade 1. Cependant, en moins de 48 heures, le patient a développé une large lésion palpébrale gauche qui, après biopsie, a été anatomopathologiquement décrite comme non compatible avec une NER : tumeur corticosurrénalienne probable.
+Patient avec un PS de 2 à ce moment-là, nouvelle ligne de traitement basée sur l'adriamycine à doses métronomiques (20 mg/m2) hebdomadaires ; cependant, le patient a commencé une détérioration clinique rapide et progressive jusqu'à son décès en avril 2016.

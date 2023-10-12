@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 67 ans avec des antécédents personnels de CCR en 1981 (stade B-Dukes) traité par hémicolectomie droite, arthroplastie du genou, appendicectomie et amygdalectomie. Aucune habitude toxique notable. On lui a diagnostiqué un syndrome de Lynch avec une mutation pathogène de MLH-1. Il était suivi par l'unité de conseil génétique avec coloscopie, gastroscopie, dosage de l'ACE, analyses générales, cytologie urinaire et échographie abdominale annuelle, le dernier contrôle datant de février 2016, avec des paramètres dans la normalité.
+Le patient s'est présenté aux urgences en mars 2017 avec des douleurs abdominales prédominant dans l'épigastre, d'intensité modérée, irradiant vers la taille, d'une durée d'un mois, qui n'ont pas cédé malgré l'analgésie prescrite par son PAM. Les examens de laboratoire ont révélé des taux élevés de lipase et de protéine C-réactive. Une échographie abdominale a montré un pancréas légèrement augmenté de volume, avec une image mal définie au niveau de la tête et du cou mesurant 25,8 x 26,8 mm, d'origine probablement inflammatoire sans pouvoir exclure une origine infiltrative, et pour cette raison il a été admis au service digestif avec le diagnostic de pancréatite aiguë alliacée.
+
+Examen physique
+Le patient avait un indice ECOG (Eastern Cooperative Oncology Group) de 1 et était stable sur le plan hémodynamique. L'abdomen était mou, dépressible, douloureux à la palpation de l'épigastre et de l'hypochondre droit, Murphy négatif, bruits normaux, sans signe d'irritation péritonéale. Le reste de l'examen physique était tout à fait normal.
+
+Examens complémentaires
+"Une tomodensitométrie (CT scan) a identifié une tumeur étendue, mal définie avec des marges infiltrantes mesurant 6 x 5,8 x 4,6 cm à la jonction biliopancréatique avec une infiltration de la plaque hilaire hépatique, du tronc cœliaque et de la porte principale, provoquant une dilatation de la voie biliaire intrahépatique.
+En outre, il existe une autre lésion de caractéristiques similaires en contact avec le lobe caudé et en dépendant de façon douteuse, mesurant 3 cm, ainsi que de multiples nodules dans la graisse mésentérique suggérant une carcinomatose péritonéale.
+"Lors de l'échoendoscopie, les résultats de la tomodensitométrie au niveau du hile hépatique ont été confirmés et une ponction-aspiration à l'aiguille fine a été réalisée, dont les résultats de l'anatomie pathologique (AP) étaient positifs pour les cellules malignes, l'adénocarcinome.
+"Coloscopie : exploration jusqu'au cæcum, normale.
+"Une caractérisation histopathologique plus poussée est demandée, ainsi que la détermination de l'IHC des protéines de réparation de l'ADN, dont les résultats montrent une positivité pour CK19, CK 17 et une négativité pour CK 20 et CDX2, indiquant une tumeur d'origine pancréatobiliaire comme première possibilité. L'IHC des protéines de réparation MLH1, MSH2, MLH6 et PMS2 a montré une expression conservée de toutes ces protéines.
+
+Diagnostic
+Adénocarcinome d'origine biliaire "sporadique" de stade IV chez une patiente atteinte du syndrome de Lynch.
+
+Traitement
+Un traitement de première intention a été instauré avec du cisplatine 25 mg/m2 et de la gemcitabine 1 000 mg/m2 d1, d8 tous les 21 jours. Il a présenté une toxicité gastro-intestinale de grade 2 et, après le premier cycle, une thrombose veineuse profonde dans le membre inférieur droit (que nous avons traitée avec de l'héparine de faible poids moléculaire).
+
+Évolution
+En mai 2017, après le deuxième cycle, elle a été admise dans le service d'oncologie médicale en raison d'un mauvais contrôle analgésique, nécessitant une évaluation par l'unité de la douleur pour la mise en place d'un réservoir intradural pour l'administration d'une analgésie de troisième stade, avec un contrôle analgésique adéquat.
+De même, une nouvelle biopsie a été effectuée, cette fois avec une aiguille épaisse guidée par échographie, sur des masses péritonéales palpables, pour répéter la détermination IHC des protéines de réparation de l'ADN, car on espérait que la tumeur avait un SL et qu'un traitement par immunothérapie pourrait être proposé ; cependant, le résultat a été répété et l'échantillon a confirmé la présence de toutes les protéines de réparation.
+Un scanner de réévaluation a été réalisé après le deuxième cycle en raison d'une suspicion de progression et d'une détérioration progressive de l'état général, qui a montré une progression locorégionale marquée, ainsi qu'au niveau des implants péritonéaux. Après progression en première ligne, il a été décidé de commencer un traitement par 5-fluorouracile 3 g/m2 en perfusion continue hebdomadaire, mais après deux semaines de traitement, il a dû être hospitalisé à nouveau en raison d'une décompensation oedémoascique et d'un mauvais contrôle analgésique, avec une évolution torpide, en adoptant des mesures de contrôle symptomatique. Le patient est exitus letalis en juin 2017.

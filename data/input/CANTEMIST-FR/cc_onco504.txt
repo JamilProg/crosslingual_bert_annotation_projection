@@ -1,0 +1,25 @@
+Anamnèse
+Il s'agit d'une patiente de 68 ans aux antécédents de sténose mitrale rhumatismale modérée, de dilatation modérée de l'oreillette gauche, de fonction systolique préservée et de fibrillation auriculaire paroxystique, sous traitement par dabigatran.
+Consultation en avril 2014 en raison de myodésopsies à l'œil droit de mois d'évolution.
+Après un examen ophtalmologique et une IRM oculaire, un diagnostic de mélanome choroïdien cT2aN0M0 (stade IIA) a été posé. La TEP-TDM n'a pas révélé de lésions à distance.
+Il a reçu un traitement par curiethérapie jusqu'à 72,4Gy et a continué à être suivi.
+
+Examen physique
+La patiente n'a pas présenté d'altérations notables à l'examen au cours du suivi, ni lors de la visite de mars où la rechute métastatique a été observée.
+
+Examens complémentaires
+Alors qu'il est asymptomatique avec un ECOG 0, un scanner thoraco-abdomino-pelvien (TAP) réalisé en mars 2018 révèle l'apparition de nodules pulmonaires subcentimétriques, d'une lésion des tissus mous de 1 cm dans le médiastin en topographie pré-aortique et rétrosternale, d'une lésion surrénalienne gauche de 1,2 cm et de multiples lésions hépatiques, tous évocateurs de métastases.
+
+Diagnostic
+La biopsie hépatique réalisée le 29/03/2018 confirme le diagnostic de métastase due à un mélanome malin, sans mutation BRAF.
+
+Traitement
+La patiente est en bon état général, sans signe d'insuffisance cardiaque, ECOG 0. Elle a débuté un traitement de première intention par ipilimumab à la dose trihebdomadaire de 3 mg/kg par voie intraveineuse en mai 2018.
+
+Evolution
+Au jour +21 du 2ème cycle, il a présenté une augmentation de l'AST (215 UI/l) et de l'ALT (209 UI/l), avec une bilirubine normale, sans répercussion symptomatique, et une échographie abdominale urgente a été réalisée, n'identifiant que les lésions hépatiques connues, sans changement.
+La sérologie hépatique était négative. Avec le diagnostic d'hépatite immunorélée de grade 2, l'administration d'ipilimumab a été interrompue, avec une correction analytique au bout de 3 jours et une normalisation au bout de 9 jours. Le troisième cycle d'ipilimumab est débuté, et au jour +21, la patiente étant asymptomatique, avec un ECOG 0, elle présente des ASAT : 587 UI/l et des ALAT : 595 UI/l, (hépatite immunorégulée de grade 3) et donc le traitement par ipilimumab est définitivement suspendu et de la méthylprednisolone 2 mg/kg intraveineux par jour est prescrite, corrigeant les transaminases dans les premiers jours et maintenant ensuite une corticothérapie orale selon un schéma décroissant pendant 4 semaines. Du cotrimoxazole prophylactique est prescrit.
+Lors de la tomodensitométrie d'août 2018, la lésion rétrosternale a disparu, les lésions hépatiques ont diminué de taille, de même que la métastase surrénalienne gauche et il n'y a pas de changement au niveau des poumons.
+Sous traitement par prednisone 10 mg/jour, il est admis en cardiologie en octobre 2018 pour avoir présenté une fibrillation auriculaire symptomatique, des signes cliniques d'insuffisance cardiaque : dyspnée au moindre effort, orthopnée, conservant une stabilité hémodynamique, avec un peptide natriurétique : 858 pg/ml. A l'admission, un CT-PAT et un échocardiogramme ont été réalisés, montrant un épanchement pleural bilatéral et un épaississement interstitiel en rapport avec l'insuffisance cardiaque, un épanchement péricardique modéré-sévère. Le reste du bilan thoraco-abdomino-pelvien était inchangé par rapport à l'étude précédente. L'échocardiographie a montré une diminution de la fraction d'éjection du ventricule gauche (FEVG), avec une FEVG estimée par la méthode de Simpson à 50 % à l'admission, avec une FEVG estimée à 64 % lors de l'échocardiographie réalisée en janvier 2018, sans modification de la morphologie structurelle de la valve mitrale ni des gradients ou pressions d'écoulement à travers celle-ci.
+Un traitement par digoxine, bisoprolol, furosémide et spironolactone a été instauré. Devant la persistance des symptômes cliniques, et après évaluation par l'oncologie médicale, et la suspicion d'une cardiotoxicité due à l'ipilimumab, le traitement de l'insuffisance cardiaque a été ajusté, et des corticoïdes à forte dose ont été prescrits (méthylprednisolone intraveineuse 40 mg toutes les 12 heures), avec une amélioration clinique et une réduction ultérieure du BNP (200 pg/ml) après plusieurs semaines. La corticothérapie a été poursuivie à des doses décroissantes jusqu'à la fin des 6 semaines de traitement. Lors du scanner de contrôle de janvier 2019, aucun épanchement pleural n'a été observé, l'épanchement péricardique était mineur, la métastase surrénalienne gauche a été réduite, aucune lésion hépatique métastatique n'a été observée et les nodules pulmonaires sont restés inchangés.
+Actuellement, le patient continue d'être suivi, en maintenant un ECOG 1, et avec une maladie stable persistante lors de la dernière évaluation par CT TAP en mai 2019 après la réponse initiale.

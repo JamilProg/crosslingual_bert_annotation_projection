@@ -1,0 +1,23 @@
+Anamnèse
+Patiente de 61 ans, jamais fumeuse, sans allergie médicamenteuse connue. Avec des antécédents d'hypertension, de dyslipidémie et opérée d'une fistule de liquide céphalorachidien avec syndrome de la sella vide.
+Diagnostiqué en mars 2019 avec un adénocarcinome pulmonaire de stade IV, une masse cavitaire de 2 x 1,5 cm dans le lobe supérieur gauche, des nodules pulmonaires bilatéraux, des adénopathies médiastinales et une masse péricardique de 2 cm avec un épanchement péricardique associé. L'étude moléculaire n'a révélé aucune mutation de l'EGFR ni translocation de l'ALK, avec une forte expression de PDL1 TPS 80 %. Marqueurs tumoraux sériques : antigène du carcinome embryonnaire (CEA) 11,5 mg/ml (0-5) et énolase spécifique des neurones 45,9 ng/ml (1-20).
+Le 11 avril, avec un indice de Karnofsky (IK) de 80 % et des signes cliniques de dyspnée à l'effort, il a été mis sous cisplatine 140 mg (75 mg/m2), pemetrexed 935 mg (500 mg/m2) et pembrolizumab 200 mg.
+Après l'insertion du cathéter central inséré par voie périphérique (PICC), elle a présenté une thrombose veineuse profonde dans la veine sous-clavière droite, axillaire et humérale le 21/4/2019, elle a commencé un traitement anticoagulant avec de la bémiparine 10 000 UI toutes les 24 heures.
+La patiente a été admise le 26/4/2019 pour une dyspnée croissante jusqu'au moindre effort, avec toux, sans expectoration ni fièvre.
+
+Examens complémentaires
+A l'examen, le seul paramètre en dehors de la normale est le D-dimère à 3 278 ng/ml (0-230). La radiographie du thorax a montré une silhouette cardiaque élargie avec le signe de la "carafe d'eau".
+Un scanner a révélé un thrombus d'embolie pulmonaire bilatéral, une masse du lobe supérieur gauche, des nodules pulmonaires de moins de 1 cm, une lymphadénopathie médiastinale, une masse péricardique de 2 cm similaire à celle du scanner précédent et un épanchement péricardique plus important. L'échocardiographie confirme l'existence d'un épanchement péricardique sévère avec des signes d'atteinte hémodynamique.
+
+Diagnostic de l'épanchement péricardique bilatéral
+Diagnostic d'une PTE bilatérale et d'un épanchement péricardique tumoral chez un patient atteint d'un adénocarcinome pulmonaire de stade IV.
+
+Traitement
+Une péricardiocentèse évacuative a été réalisée avec l'élimination de 1 600 ml de liquide hématique sans complications secondaires.
+
+Évolution
+La cytologie du liquide péricardique était positive pour des cellules malignes compatibles avec un adénocarcinome. L'étude microbiologique était négative. Lors de la dernière analyse de l'hospitalisation, elle présentait un ACE de 4,1 ng/ml et la radiographie thoracique de contrôle montrait une diminution de la silhouette cardiaque, sans autre résultat.
+Elle a été renvoyée chez elle avec un diagnostic de TEP bilatérale et un épanchement tumoral péricardique résolu.
+Lors du suivi pour le deuxième cycle, elle est restée asymptomatique, avec une diminution de l'ACE à 1,7 ng/ml ; la radiographie du thorax ne montrait pas d'épanchement péricardique.
+Examen physique
+L'examen physique n'a révélé aucune altération significative.

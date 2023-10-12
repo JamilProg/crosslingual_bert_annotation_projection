@@ -1,0 +1,16 @@
+T1	pathologie 530 541	adenopatías
+T2	pathologie 679 745	desdentamiento parcial por ausencia de canino y molares inferiores
+T3	pathologie 706 745	ausencia de canino y molares inferiores
+T4	pathologie 1027 1033	lesión
+T5	pathologie 1299 1305	lesión
+T6	pathologie 1743 1749	lesión
+T7	pathologie 1819 1825	lesión
+T8	pathologie 2478 2483	tumor
+#1	SNOMED T2	444818007
+#2	SNOMED T3	109673006
+#3	SNOMED T1	30746006
+#4	SNOMED T8	55342001
+#5	SNOMED T4	417163006
+#6	SNOMED T5	417163006
+#7	SNOMED T6	417163006
+#8	SNOMED T7	417163006

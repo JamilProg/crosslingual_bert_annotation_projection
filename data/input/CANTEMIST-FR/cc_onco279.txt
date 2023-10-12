@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 40 ans sans antécédents particuliers. En mars 2014, on lui a diagnostiqué un carcinome canalaire infiltrant enrichi en HER2 du sein gauche, cT3N1M0. Elle a reçu une chimiothérapie néoadjuvante selon le schéma Doxurrobicine-Cyclophosphamide x 4 cycles --> Trastuzumab-Paclitaxel hebdomadaire x 4 cycles avec une réponse clinique complète. En septembre 2014, une tumorectomie a été réalisée avec localisation pré-chirurgicale et lymphadectomie axillaire gauche, la stadification définitive étant ypT0N0(0/5)M0. Elle a poursuivi le traitement au trastuzumab trois fois par semaine pendant un an, jusqu'en mai 2015. Le dernier examen a eu lieu en octobre 2015 et n'a révélé aucun signe de la maladie.
+En janvier 2016, elle s'est rendue aux urgences pour un œdème et un érythème du sein droit évoluant depuis deux semaines. Soupçonnant une mastite, elle a été admise en gynécologie et traitée par Amoxicilline-acide clavulanique par voie intraveineuse. Au cours de son hospitalisation, elle a présenté une aggravation progressive au niveau locorégional et a commencé à souffrir d'insuffisance respiratoire, raison pour laquelle le service de médecine interne a été sollicité pour l'évaluer.
+
+Examen physique
+Sat 02 90 % (GN à 3lpm). TA 135/75 mmHg HR 110 bpm. Sein gauche en peau d'orange, oedémateux et augmenté de volume. Conglomérat adénopathique axillaire gauche (d'apparition nouvelle lors de l'admission). Ascultation pulmonaire avec crépitants dans les bases.
+
+Examens complémentaires
+- IRM mammaire (15/01/16) : Epaississement et captation de la peau du sein gauche. Captation diffuse intense du parenchyme mammaire gauche, sans masse. Adénopathie axillaire gauche de 20 x 16 mm.
+Autour du ganglion lymphatique axillaire gauche, il y a un tissu flou et spiculé suspect de processus néoplasique infiltrant. Adénopathie axillaire droite de 18 x 8 mm.
+- Angiographie tomodensitométrique thoracique (17/01/2016) : pas de TEP.Adénopathie pathologique dans la région axillaire gauche, prévasculaire, précarinale et souscarinale. Épanchement pleural bilatéral. Atteinte interstitielle diffuse dans les deux champs pulmonaires avec épaississement septal et kystique. Condensation en verre dépoli dans les deux bases pulmonaires. Résultats probablement liés à l'œdème pulmonaire.
+- CBC (17/01/2016) : CRP 62,8 mg/L, Dimero D 4340 ng/ml, reste sans altération.
+- Culture des expectorations (17/01/2016) : négative.
+- Marqueurs tumoraux (18/01/2016) : CEA 0,8 ng/ml, Ca 15,3 15 U/ml.
+- Échocardiographie (19/01/16) : VG non dilaté avec FE 65%.
+- Ponction du sein gauche (19/01/2016) : infiltration cutanée lymphovasculaire par un carcinome. Biomarqueurs : ER 0%, PR 0%, Ki57 50%, HER2 (3+).
+
+Diagnostic
+- Récidive locale, ganglionnaire et pulmonaire d'un carcinome mammaire enrichi en HER2.
+- Insuffisance respiratoire aiguë sévère d'origine multifactorielle : œdème pulmonaire aigu, infection respiratoire, lymphangite carcinomateuse.
+
+Traitement
+Le 17 janvier, au vu de la détérioration respiratoire avec des saturations de base de 80 % et des résultats de la tomodensitométrie, la médecine interne a commencé un traitement avec du furosémide 20 mg i.v/6 heures, de la pipéracilline-tazobactam 4/0.5mg/6h et Methylprednisolone 40mg/8h en dépit d'une aggravation persistante du point de vue respiratoire pendant 48 heures, Devant la suspicion d'une détérioration respiratoire secondaire à une lymphangite carcinomateuse dans une tumeur enrichie en HER2 à évolution rapide, il a été décidé de débuter un traitement de chimiothérapie par Docetaxel (75mg/m2)-Trastuzumab (8mg(mg/kg)-Pertuzumab (840mg) à raison de trois fois par semaine.
+
+Évolution
+Pendant la perfusion de chimiothérapie, la patiente a présenté des épisodes répétés de dyspnée avec des désaturations allant jusqu'à 80 % sous oxygénothérapie de réservoir, qui se sont améliorés sous corticothérapie et la patiente a pu terminer le traitement. Vingt-quatre heures après la chimiothérapie, la patiente a présenté une amélioration respiratoire à la fois clinique et radiographique, permettant une diminution progressive des corticoïdes et des diurétiques, et a pu sortir le 30 janvier 2016. La seule toxicité de la chimiothérapie a été une entérite de grade 1.
+
+Le scanner réalisé après le 6e cycle ne montre pas d'adénopathies axillaires de taille pathologique ni d'altérations du parenchyme pulmonaire. Les adénopathies médiastinales persistent.
+Au 14/06/2016 la patiente a reçu 8 cycles de traitement avec une réponse partielle au niveau mammaire et une réponse complète au niveau pulmonaire. ECOG 0

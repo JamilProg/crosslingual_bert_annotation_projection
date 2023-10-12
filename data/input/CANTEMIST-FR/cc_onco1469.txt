@@ -1,0 +1,22 @@
+Anamnèse
+Un homme de 37 ans, sans allergies médicamenteuses connues et sans antécédents médicaux ou chirurgicaux intéressants, à l'exception d'un antécédent de lithiase rénale, qui, en mars 2011, a consulté pendant trois mois en raison de douleurs lombaires persistantes irradiant vers les membres inférieurs et ne s'améliorant pas avec un traitement analgésique. En rapport avec ces douleurs, elle avait une déambulation limitée.
+
+Examen physique
+Le patient était hémodynamiquement stable et afébrile, conscient et orienté dans l'espace, le temps et la personne. Il avait un ECOG de 1, compte tenu de la limitation due à la douleur. Aucun ganglion lymphatique cervical n'était palpable. Les auscultations cardiaques, pulmonaires et abdominales étaient dans les limites de la normale et il présentait une douleur à la palpation des apophyses épineuses des vertèbres lombaires.
+
+Tests complémentaires
+- Biochimie : glucose 125,0 mg/dL ; urée 34,0 mg/dL ; créatinine 1,4 mg/dL ; acide urique 5,1 mg/dL ; calcium 8,4 mg/dL ; sodium 136,0 mEq/L ; potassium 3,9 mEq/L.
+- Hémocytes : leucocytes 6,56 x 10^9/L ; érythrocytes 3,88 mill/mm³ ; hémoglobine 10,7 g/dL ; hématocrite 32,6% ; MCV 83,9 mm³ ; MCH 27,6 pg ; MCHC 32,9 g/dL ; plaquettes 215,0 x 10^9/L ; MPV 8,1% ; lymphocytes % 10,1% ; monocytes % 6,6% ; neutrophiles % 72,3% ; éosinophiles % 9,6% ; basophiles % 0,2% ; LUC/LYC 1,3% ; lymphocytes 0,66 X 10^9/L ; monocytes 0,43 X 10^9/L ; neutrophiles 4,74 X 10^9/L ; éosinophiles 0,63 X 10^9/L ; basophiles 0,01 X 10^9/L.
+- Coagulation : T. prothrombine (ratio) 1,15 ; aPTT (ratio) 1,03. Dans la cortico-médullaire postérieure de la région interpolaire du rein gauche, on visualise une tumeur solide, peu vascularisée, d'environ 2,5 cm. Lésion partiellement calcifiée, pouvant correspondre ou non à un calcul, située dans le bassinet du rein gauche, mesurant 1,1 cm.
+Adénopathies rétropéritonéales au niveau du hile rénal, la plus grande mesurant 2 cm. Grosses métastases ostéolytiques affectant le corps vertébral de L5, le pédicule et l'apophyse transverse droite. Métastase dans l'os iliaque droit transgressant l'articulation sacro-iliaque et affectant l'ala sacrée. L'examen thoracique a montré deux nodules subcentimétriques non spécifiques dans le poumon gauche. Le patient a été opéré d'une néphroureterectomie gauche.
+- Anatomie pathologique de la pièce opératoire de la néphrectomie et de l'urétérectomie gauche : carcinome du canal collecteur de 2 cm, avec extension vers les calices et le bassinet rénal, touchant focalement les parois de la jonction urétéro-pelvienne. Les berges chirurgicales sont libres. L'adénopathie hilaire gauche est un conglomérat de ganglions lymphatiques, tous métastatisés par le carcinome du canal collecteur.
+
+Diagnostic
+Carcinome rénal de Bellini de stade IV avec atteinte osseuse métastatique.
+
+Évolution et traitement
+Après l'intervention chirurgicale et le diagnostic de carcinome du canal collecteur de stade IV, il a été adressé au service ambulatoire d'oncologie. Il a été décidé de commencer un traitement cytostatique selon le schéma de première ligne approuvé pour la prise en charge du cancer des cellules transitionnelles, basé sur un doublet de platine (carboplatine AUC 6 + gemcitabine 1 250 mg/m2). Après le deuxième cycle, il a dû être associé à l'aprepitant, en raison de nausées et de vomissements de grade 3.
+Associé au régime cytostatique, l'acide zolédronique a été administré à une dose de 4 mg tous les 28 jours en relation avec la maladie osseuse.
+Après le deuxième cycle, elle a été hospitalisée pour une thromboembolie pulmonaire et a commencé un traitement anticoagulant à la tinzaparine.
+Après cinq cycles de traitement et une réponse objectivable au niveau de la lésion osseuse après le troisième cycle, un nouveau scanner de contrôle a été réalisé, montrant une progression de la maladie avec l'apparition de métastases dans les deux glandes surrénales, mesurant 1,8 cm dans la glande surrénale gauche et 7,8 x 6,7 cm dans la glande surrénale droite. La maladie osseuse est restée stable et il n'y a eu à aucun moment d'altération du métabolisme phosphocalcique.
+Il a été décidé de commencer une deuxième ligne avec la vinflunine à une dose de 280 mg/m2, dont il a reçu un total de trois cycles jusqu'à une nouvelle progression de la maladie tumorale, cette fois avec l'apparition d'une maladie pulmonaire. À ce stade, et compte tenu de la détérioration clinique du patient, qui présentait un ECOG 3, un traitement symptomatique a été décidé, avec des sorties 15 mois après le diagnostic.

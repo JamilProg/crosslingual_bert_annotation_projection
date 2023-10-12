@@ -1,0 +1,45 @@
+Anamnèse
+Nous présentons le cas d'une patiente de 37 ans, sans allergie médicamenteuse ni habitudes toxiques connues, qui a été opérée en 2007 d'une rupture du ligament croisé antérieur du genou gauche à la suite d'une blessure sportive.
+En 2011, le patient a présenté une inflammation articulaire douloureuse du genou gauche, avec une légère impotence fonctionnelle, pour laquelle il a consulté son chirurgien orthopédiste et, après avoir subi une imagerie par résonance magnétique (IRM) en 2012, il a été diagnostiqué une synovite chronique.
+Devant l'absence d'amélioration clinique, il a été décidé en février 2013 de réaliser une arthroscopie diagnostique et thérapeutique et un résultat anatomopathologique compatible avec une synovite villonodulaire pigmentée a été obtenu. Après le diagnostic, le patient a été traité avec des anti-inflammatoires, des corticostéroïdes systémiques oraux et des arthrocentèses évacuatives successives.
+En décembre 2015, une synovectomie fermée a été réalisée et le diagnostic anatomopathologique s'est révélé négatif pour la malignité. Cependant, devant l'aggravation clinique du patient, avec une inflammation de l'articulation et une incapacité à réaliser ses activités habituelles, une nouvelle IRM a été demandée en février 2017, qui a montré la présence d'une maladie synoviale diffuse avec un épanchement articulaire et un épaississement de la synoviale, avec des dépôts d'hémosidérine compatibles avec une synovite villonodulaire pigmentée.
+Il a été orienté vers l'oncologie médicale pour l'évaluation d'un traitement systémique.
+
+Examen physique
+Au service d'oncologie : patient conscient et orienté, couleur normale, hydratation normale.
+L'auscultation pulmonaire montre une normofonésie dans tous les champs, pas de rhonchi ni de respiration sifflante.
+À l'auscultation cardiaque, on n'entend ni murmure ni extratonos. Les battements cardiaques sont rythmés à une fréquence d'environ 65 bpm.
+L'abdomen est souple, dépressible et non douloureux à la palpation. Il n'y a pas de masses ou de mégalithes. Les bruits péristaltiques sont normaux.
+L'examen des membres inférieurs révèle un gonflement de l'articulation du genou gauche, avec une douleur à la flexion active et passive. La force et la sensibilité sont préservées dans les deux membres inférieurs, mais le patient est incapable de fléchir complètement le genou gauche en raison de la tuméfaction et de la douleur.
+L'examen neurologique n'a révélé aucune altération des nerfs crâniens ni aucun déficit moteur ou sensoriel.
+
+Examens complémentaires
+Résonance magnétique nucléaire 2012 : synovite chronique avec détritus et pannus à l'intérieur.
+Rapport pathologique après arthroscopie diagnostique et thérapeutique (mai 2013) : Prolifération papillaire de la muqueuse synoviale sous laquelle on observe une prolifération d'histiocytes et de cellules géantes multinucléées alternant avec des phagocytes contenant de l'hémosidérine. Résultats compatibles avec une synovite villonodulaire pigmentée.
+En 2015, une scintigraphie osseuse de contrôle a été réalisée, qui a montré une hypercaptation osseuse notable au niveau des surfaces articulaires du genou gauche avec une augmentation du pool vasculaire dépassant les structures osseuses. Compatible avec une ostéopathie et une synovite associée.
+IRM de février 2017 : maladie synoviale diffuse avec épanchement articulaire et épaississement de la synovie, avec dépôts d'hémosidérine.
+Suite à ces constatations, la patiente a été adressée au service d'oncologie médicale et a débuté un traitement systémique par imatinib.
+L'IRM réalisée en juin 2017 a montré la persistance d'un rehaussement synovial diffus, mais la présence de zones nodulaires associées identifiées dans la région rétro-patellaire et la récession fémorale latérale était moins évidente. Les résultats radiologiques indiquaient donc un certain degré de réponse partielle.
+L'IRM de novembre 2017 a montré une réduction marquée de l'épanchement articulaire, de la taille du tissu synovial (en particulier dans la région infrapatellaire) et une diminution du degré de rehaussement, autant d'éléments qui suggèrent une bonne réponse au traitement.
+L'IRM d'avril 2018 n'a montré aucun changement significatif par rapport aux études précédentes, ce qui indique que la maladie s'est stabilisée.
+La dernière IRM, réalisée en mars 2019, montre des zones d'épaississement synovial avec des dépôts d'hémosidérine qui n'ont pas changé par rapport à la dernière étude. Il existe une zone d'œdème de la moelle osseuse sous-chondrale au niveau du condyle fémoral interne compatible avec une fracture de stress dans la zone de charge.
+En ce qui concerne les études analytiques, des contrôles successifs ont été effectués tout au long du suivi dans les consultations d'oncologie, y compris la biochimie de base, le profil thyroïdien, le profil hépatique et l'hémogramme.
+Le seul résultat notable a été une élévation des transaminases (GOT 89 UI/l et GGT 113 UI/l), sans élévation de la bilirubine totale ou directe, en novembre 2017. Le reste des déterminations analytiques n'a montré aucune altération au cours du suivi.
+
+Le diagnostic
+Le diagnostic de la maladie est réalisé à l'aide d'examens d'imagerie qui permettent une étude détaillée des tissus mous, c'est pourquoi l'imagerie par résonance magnétique est recommandée. En outre, l'étude doit être complétée par des examens histologiques qui confirment le diagnostic.
+Dans notre cas, les examens diagnostiques qui ont permis de confirmer le diagnostic sont les suivants :
+" Arthroscopie diagnostique en 2013 dont le résultat anatomopathologique suivant a été obtenu : prolifération papillaire de la muqueuse synoviale sous laquelle on observe une prolifération d'histiocytes et de cellules géantes multinucléées, alternant avec des phagocytes contenant de l'hémosidérine.
+" L'examen d'imagerie réalisé en 2012 (IRM) n'a pas confirmé le diagnostic, mais a suggéré une synovite chronique. Ce n'est qu'en 2017 qu'une nouvelle IRM a montré une atteinte synoviale diffuse avec épanchement articulaire et épaississement de la synovie, avec des dépôts d'hémosidérine, le tout compatible avec le diagnostic de synovite villonodulaire pigmentée.
+
+Traitement
+Depuis le début de l'affection, le patient a eu besoin d'un traitement analgésique, généralement à base d'AINS (dexkétoprofène), avec un contrôle partiel de la douleur, mais sans qu'il soit nécessaire de recourir à des analgésiques de deuxième ou troisième niveau selon l'échelle de l'Organisation mondiale de la santé (OMS) ou à d'autres adjuvants.
+En outre, le patient a reçu des corticostéroïdes oraux (méthylprednisolone) pour réduire l'inflammation des articulations.
+En avril 2017, le patient a commencé un traitement par mésylate d'imatinib à une dose de 400 mg par jour par voie orale. Après avoir présenté un muguet buccal et une mucosite de grade 2, il a été décidé de réduire la dose d'imatinib à 300 mg par jour par voie orale avec une bonne tolérance sans qu'il soit nécessaire de réduire davantage la dose.
+
+Évolution
+Une IRM réalisée en juin 2017 a montré une réponse partielle de la maladie.
+Après deux mois de traitement, le patient a développé des aphtes douloureux, il a donc été décidé de réduire la dose d'imatinib à 300 mg par jour.
+Une IRM réalisée en novembre 2017 a montré une nette amélioration radiologique, avec une réduction marquée de l'épanchement articulaire et de la taille de la synovie (en particulier dans la zone infrapatellaire), ainsi qu'une réduction du degré de rehaussement.
+Le même mois, suite à une demande d'analyse de contrôle, une élévation des transaminases a été observée avec un GOT de 89 UI/l et un GPT de 113 UI/l, et le patient est resté asymptomatique. Aucune élévation de la bilirubine n'a été détectée. Il a été décidé de poursuivre le même régime d'imatinib et d'effectuer des contrôles analytiques périodiques, en observant une normalisation des taux de transaminases après trois semaines.
+La patiente fait maintenant état d'une nette amélioration clinique et les examens radiologiques montrent une bonne réponse au traitement. Malgré cela, le patient n'a pas pu reprendre son activité antérieure, car l'IRM de mars 2019 a montré la présence d'une petite fracture de stress et d'un œdème dans le condyle interne du fémur dans la zone de mise en charge, pour lesquels il lui est recommandé un repos relatif.

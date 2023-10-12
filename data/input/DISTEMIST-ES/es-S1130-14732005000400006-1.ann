@@ -1,0 +1,16 @@
+T1	pathologie 372 393	hipertensión arterial
+T2	pathologie 610 650	neuropraxia del ciático poplíteo externo
+T3	pathologie 825 858	lesión intramedular a nivel de L1
+T4	pathologie 1129 1155	ependimoma de cono medular
+T5	pathologie 1197 1208	astrocitoma
+T6	pathologie 1903 1944	metástasis de carcinoma de células claras
+T7	pathologie 2122 2157	metástasis abdominales y pulmonares
+T8	pathologie 2279 2290	paraparesia
+#1	SNOMED T6	254915003
+#2	SNOMED T1	38341003
+#3	SNOMED T7	94391008
+#4	SNOMED T2	370509002+399107008
+#5	SNOMED T3	129139009
+#6	SNOMED T4	254949006
+#7	SNOMED T5	87151000119105
+#8	SNOMED T8	1845001

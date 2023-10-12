@@ -1,0 +1,25 @@
+Anamnèse
+Patiente de 46 ans avec ménarche à l'âge de 15 ans. Deux grossesses : une fausse couche et un accouchement naturel à terme. Endométriose, avec laparoscopie au Pérou en 2006. Suivi ultérieur en Espagne, avec cystectomie bilatérale laparoscopique pour les kystes endométriosiques en 2011. Elle n'a pas d'allergies ni d'autres antécédents personnels ou familiaux dignes d'intérêt.
+Lors d'un contrôle gynécologique de routine, une image annexielle de 10 cm avec Ca125 élevé (71 U/ml) a été observée, sans autres résultats dans les études d'imagerie, de sorte que la chirurgie a été programmée. Le 16 juillet 2015, une laparotomie a été pratiquée et a révélé un carcinome à cellules claires de l'ovaire droit, de sorte qu'une chirurgie de stadification a été réalisée avec une cytoréduction optimale. L'anatomie pathologique définitive a montré un adénocarcinome à cellules claires de l'ovaire droit, l'ovaire gauche présentant une endométriose. L'utérus, les deux oviductes et l'épiploon sont normaux. Métastases de l'adénocarcinome à cellules claires dans 2/4 ganglions lymphatiques pelviens droits, 0/6 ganglions lymphatiques pelviens gauches et 1/9 ganglions lymphatiques para-aortiques. Lymphadénite granulomateuse nécrosante de type sarcoïde dans toutes les localisations ganglionnaires. Elle est considérée comme étant au stade IIIA1 de la FIGO.
+La patiente a été adressée au service d'oncologie médicale, où une étude post-chirurgicale a été réalisée avec des tests de laboratoire normaux, notamment l'hémogramme, la biochimie et le CA125, ainsi qu'un scanner du thorax et de l'abdomen qui n'a rien révélé. Elle a reçu une chimiothérapie selon le schéma carboplatine AUC 5 + paclitaxel 175 mg/m2 pendant 6 cycles, nécessitant une réduction de la dose de paclitaxel en raison de la neurotoxicité G2 après le cycle 4, qui s'est terminé en janvier 2016. Elle a commencé des examens trimestriels.
+En septembre 2016, la patiente étant asymptomatique, des analyses sanguines normales ont été réalisées et un scanner du thorax et de l'abdomen a montré des adénopathies médiastinales et de nouveaux nodules millimétriques pulmonaires bilatéraux et spléniques multiples. Étant donné le doute d'une récidive tumorale en raison du modèle atypique de dissémination sans élévation du CA125 et de l'existence dans le PC précédent d'une lymphadénite granulomateuse sarcoïdosique, les images ont été revues avec la radiologie, qui les a jugées compatibles avec une sarcoïdose, de sorte que la patiente a été adressée à la pneumologie pour des études plus approfondies.
+
+Examen physique
+ECOG 0, bon état général. Eupnéique au repos et à la parole. SatO2 98 % sans apport. Hémodynamiquement stable. Afébrile. Pas d'adénopathies périphériques palpables. Auscultation cardio-respiratoire, abdomen et membres inférieurs sans résultat.
+
+Examens complémentaires
+TDM thoraco-abdominale avec contraste (27/09/16) : légère augmentation des adénopathies pré-vasculaires et paratrachéales, supérieures à 1 cm. Apparition de nodules pulmonaires millimétriques bilatéraux, et de multiples nouveaux nodules spléniques sans pouvoir exclure une métastase. Deux micronodules hépatiques compatibles avec des kystes.
+Examens de laboratoire (24/11/16) : hémogramme et biochimie normaux. Légère lymphopénie. Calcémie et calciurie normales. Enzyme de conversion de l'angiotensine (ECA) 110 U/l (normale 18-55).
+ECG (22/11/16) : rythme sinusal. Trigeminy. Bloc de branche droit incomplet de Hiss.
+Fibrobronchoscopie (2/12/16) : aucun résultat endoscopique. Lavage broncho-alvéolaire AP : alvéolite lymphocytaire CD4/CD8 > 3,5.
+Mantoux (15/12/16) : négatif.
+Fonction pulmonaire (30/11/16) : spirométrie, volumes et diffusion normaux.
+
+Diagnostic
+Adénocarcinome ovarien à cellules claires de stade FIGO IIIA, opéré par chirurgie cytoréductive optimale et traité par QT de première intention. Micronodules pulmonaires et spléniques compatibles avec une sarcoïdose.
+
+Traitement
+Après évaluation par le service de pneumologie et réalisation d'études analytiques et d'imagerie, ainsi qu'une biopsie antérieure des ganglions lymphatiques, le diagnostic a concordé avec celui de la sarcoïdose. Le patient est resté asymptomatique et, compte tenu du rapport risque/bénéfice d'une confirmation pathologique par biopsie splénique, il a été décidé de ne pas faire de biopsie et de commencer un traitement à la prednisone à raison de 10 mg par jour.
+
+Evolution
+Après 3 mois de traitement à la prednisone, un scanner de contrôle a été réalisé et a montré une amélioration radiologique avec disparition des lésions spléniques et réduction de la taille des nodules pulmonaires et des adénopathies médiastinales. La patiente a également continué à être suivie conjointement par les services d'oncologie médicale et de gynécologie, le dernier bilan montrant un taux de Ca125 normal et un examen physique et gynécologique sans signe de récidive.

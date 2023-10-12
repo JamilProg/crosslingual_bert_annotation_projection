@@ -1,0 +1,27 @@
+Anamnèse
+Un homme de 67 ans a consulté pour une diarrhée avec des selles liquides, sans produits pathologiques, 5-7 par jour, d'une durée de 2 semaines. Il présentait également des douleurs abdominales de type colique et un syndrome constitutionnel.
+
+Examen physique
+État général normal. Peau et muqueuses sèches. Auscultation pulmonaire : diminution du murmure vésiculaire dans l'hémithorax gauche. Abdomen normal. Œdème des membres inférieurs.
+
+Examens complémentaires
+Examens de laboratoire : insuffisance rénale aiguë (Cr 1,8 mg/dl ; GFR 40 ml/min), hypoprotéinémie (Prot Tot 4,17 g/dl et Alb 1,7 g/dl) et protéinurie dans l'intervalle néphrotique (21 g/24 heures), avec protéinurie de Bence-Jones négative. Anémie (Hb 11,1 g/dl) microcytaire et hypochrome.
+Radiographie abdominale : normale.
+Radiographie du thorax : masse dans l'hémithorax gauche.
+Culture de selles et toxine C. difficile négatives.
+Coloscopie : normale.
+Tomodensitométrie thoraco-abdominale-pelvienne : masse pulmonaire compatible avec un néoplasme primaire dans le LSI. Contact avec l'arc aortique et la paroi costale. Épanchement pleural gauche. Opacités nodulaires parenchymateuses dans le LII et l'hémithorax droit, compatibles avec des métastases. Rein en fer à cheval. Le reste est normal.
+Biopsie endobronchique : carcinome épidermoïde.
+
+Diagnostic
+Carcinome épidermoïde pulmonaire de stade IV et syndrome néphrotique.
+
+Traitement
+Chimiothérapie.
+
+Évolution
+Au cours de l'admission, on a constaté une détérioration progressive de la fonction rénale (Cr 3,34 mg/dl) ; une prise en charge conjointe a été effectuée avec le service de néphrologie, qui a déterminé l'existence d'une insuffisance rénale aiguë accompagnée d'une protéinurie dans la fourchette néphrotique.
+Une biopsie rénale était nécessaire pour déterminer l'origine, mais elle n'a pas été réalisée en raison du risque de rein en fer à cheval. La présence d'un syndrome néphrotique secondaire à une probable glomérulonéphrite membraneuse d'origine paranéoplasique a été supposée, et un traitement par inhibiteurs de l'ECA a été instauré.
+Dans le même temps, la diarrhée a persisté, ce qui a conduit à un trouble de la malabsorption.
+Il s'agissait d'un patient présentant un carcinome épidermoïde disséminé du poumon, un syndrome néphrotique et une diarrhée avec trouble de la malabsorption ; à ce stade, il a été décidé de demander une FNA de la graisse abdominale pour exclure une amyloïdose, dont le résultat s'est avéré négatif. Cependant, la biopsie de la muqueuse rectale a montré des dépôts amyloïdes et un rouge Congo positif. Le diagnostic définitif est une amylose secondaire avec atteinte rénale et digestive.
+Le patient présentait un ECOG 3. Discuté en séance clinique, il a été décidé de débuter le traitement de la cause déclenchante : néoplasie pulmonaire (en évitant les platines en raison de l'insuffisance rénale). Il a reçu le premier cycle de chimiothérapie à base de vinorelbine et de gemcitabine. Malgré les mesures thérapeutiques adoptées, l'évolution du patient a été torpide et il a finalement succombé.

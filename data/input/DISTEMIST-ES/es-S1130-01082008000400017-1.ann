@@ -1,0 +1,32 @@
+T1	pathologie 56 80	tumor de ciego perforado
+T2	pathologie 56 111	tumor de ciego perforado que obstruía el íleon terminal
+T3	pathologie 162 183	cardiopatía isquémica
+T4	pathologie 191 194	IAM
+T5	pathologie 428 447	metástasis hepática
+T6	pathologie 538 560	absceso intraabdominal
+T7	pathologie 598 612	adenocarcinoma
+T8	pathologie 657 677	infiltración tumoral
+T9	pathologie 728 799	lesión nodular de carácter sólido de 3,5 cm en el segmento 8 del hígado
+T10	pathologie 935 949	tumor primario
+T11	pathologie 1000 1019	metástasis hepática
+T12	pathologie 1485 1503	lesión metastásica
+T13	pathologie 1605 1611	lesión
+T14	pathologie 1891 1897	lesión
+T15	pathologie 1956 1962	lesión
+T16	pathologie 2221 2235	lesión tumoral
+#1	SNOMED T9	126851005
+#2	SNOMED T1	126839008
+#3	SNOMED T2	126839008+281255004
+#4	SNOMED T3	194828000
+#5	SNOMED T4	57054005
+#6	SNOMED T10	372087000
+#7	SNOMED T12	128462008
+#8	SNOMED T5	94381002
+#9	SNOMED T6	75100008
+#10	SNOMED T7	443961001
+#11	SNOMED T8	128462008
+#12	SNOMED T16	55342001
+#13	SNOMED T11	94381002
+#14	SNOMED T13	417163006
+#15	SNOMED T14	417163006
+#16	SNOMED T15	417163006

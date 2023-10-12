@@ -1,0 +1,27 @@
+Anamnèse
+Homme de 53 ans, allergique à la pénicilline. Obésité de type I (IMC 31). Pas d'habitudes toxiques ni d'autres antécédents pathologiques intéressants.
+Antécédents oncologiques :
+Consultation en janvier 2016 pour céphalée frontale droite à caractère pulsatile irradiant au niveau occipital de longue évolution réfractaire à l'analgésie conventionnelle. Une tomodensitométrie crânienne urgente a été réalisée montrant une tumeur temporo-pariétale droite évoquant une néoformation primaire.
+Elle a été admise en neurochirurgie où l'étude a été complétée par une imagerie par résonance magnétique (IRM), classant la lésion comme glioblastome. La chirurgie a été réalisée à l'aide d'un neuronavigateur avec une résection de 85% de la lésion. Les résultats anatomopathologiques ont montré un glioblastome à cellules géantes, IDH-1 négatif et MGMT non méthylé.
+La patiente a été adressée au service d'oncologie et a commencé le protocole Stupp12 (témozolamide concomitant à la radiothérapie) du 21/3/16 au 3/5/16. Par la suite, le témozolamide adjuvant a été administré, complétant 5 cycles jusqu'au 20/9/16.
+Avec un intervalle sans progression de 6 mois, en octobre 2016, il a présenté une progression radiologique (l'IRM a rapporté une progression locale sans œdème), de sorte qu'il a commencé un traitement de deuxième ligne avec la fotémustine (selon le protocole Addeo11). Le 22/11/16, après avoir effectué huit cycles, elle a consulté pour des douleurs lombaires irradiant vers les membres inférieurs ; un diagnostic de cyatalgie a été posé et un traitement antalgique a été mis en place.
+Cependant, les symptômes persistent et fin décembre, une anesthésie en selle est ajoutée, sans amélioration malgré les opioïdes ; incontinence urinaire et impuissance fonctionnelle des membres inférieurs. Elle a été admise en oncologie médicale le 9/1/17 pour un diagnostic et un contrôle de la douleur.
+
+Examen physique
+ECOG 3, indice de Karnofsky 40%, échelle de douleur d'Edmonton N1I1P0A0C0.
+Examen neurologique : douleur à la palpation des lombaires inférieures L4-L5. Paraparésie des deux membres inférieurs, avec altération de la force 3/5 et du niveau sensoriel à partir de L1. Réflexes ostéotendineux conservés.
+
+Examens complémentaires
+NFS d'admission : Hb 13 g/dl, Ht 38%, plaquettes 193 000 K/mcl, leucocytes 6 520 K/mcl, neutrophiles 5.000 K/mcl, lymphocytes 500 K/mcl, urée 41 mg/dl, créatinine 0,67mg/dl, CRP 0,21 IRM rachidienne (5/1/17) : deux lésions en queue de cochon ont été observées : l'une en L2-L3 et la seconde à la jonction lombo-sacrée avec un hypersignal en T1 et un hyposignal en T2 compatibles avec des métastases rachidiennes entraînant une sténose du canal rachidien.
+IRM crânienne au moment du diagnostic (28/1/16) : lésion infiltrante temporo-insulaire droite avec lésion hyperintense périlésionnelle. Résultats évocateurs d'un glioblastome.
+
+Diagnostic
+1) Compression de la moelle épinière due à des métastases endomédullaires.
+2. glioblastome à cellules géantes.
+
+Traitement
+Lors de l'admission, le patient est traité symptomatiquement avec 4 mg/8 heures de dexaméthasone.
+
+Évolution
+Pendant son séjour à l'hôpital, il a présenté une hyperkaliémie de 8 mEq/l due à une rétention aiguë d'urine et une insuffisance rénale post-rénale avec une créatinine de 6, nécessitant un cathétérisme vésical.
+Sur le plan neurologique, il s'est partiellement rétabli avec une amélioration de la force des membres inférieurs après un traitement aux corticoïdes et une rééducation.

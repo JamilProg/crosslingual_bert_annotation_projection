@@ -1,0 +1,10 @@
+T1	pathologie 78 112	crisis generalizada tónico-clónica
+T2	pathologie 124 142	proceso infeccioso
+T3	pathologie 950 981	metabolitos de cocaína en orina
+T4	pathologie 1164 1192	fumador habitual de cannabis
+T5	pathologie 1225 1243	consumo de cocaína
+#1	SNOMED T1	54200006
+#2	SNOMED T3	442184000+387085005
+#3	SNOMED T4	723933008
+#4	SNOMED T5	78267003
+#5	SNOMED T2	40733004

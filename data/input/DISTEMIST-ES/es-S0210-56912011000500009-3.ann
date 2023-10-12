@@ -1,0 +1,8 @@
+T1	pathologie 134 206	síndrome coronario agudo con ascenso del segmento ST en la cara anterior
+T2	pathologie 288 359	lesión en la porción media de la arteria coronaria descendente anterior
+T3	pathologie 636 647	hematemesis
+T4	pathologie 849 872	lesión de Mallory Weiss
+#1	SNOMED T1	394659003
+#2	SNOMED T2	414024009
+#3	SNOMED T3	8765009
+#4	SNOMED T4	307131005

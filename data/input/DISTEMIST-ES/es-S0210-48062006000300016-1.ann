@@ -1,0 +1,38 @@
+T1	pathologie 81 111	uropatía obstructiva bilateral
+T2	pathologie 218 228	dislipemia
+T3	pathologie 230 261	hiperplasia benigna de próstata
+T4	pathologie 263 289	infarto agudo de miocardio
+T5	pathologie 291 332	diabetes mellitus no insulino dependiente
+T6	pathologie 1541 1570	dilatación del colector renal
+T7	pathologie 2061 2074	Hidronefrosis
+T8	pathologie 2229 2252	hidronefrosis bilateral
+T9	pathologie 2513 2533	urotelioma bilateral
+T10	pathologie 2755 2774	Dilatación de riñón
+T11	pathologie 3502 3527	tumores de ambos uréteres
+T12	pathologie 3573 3615	carcinoma urotelial papilar, de bajo grado
+T13	pathologie 3805 3825	infiltración tumoral
+T14	pathologie 3846 3851	tumor
+T15	pathologie 3980 3985	tumor
+T16	pathologie 4207 4220	tumor papilar
+T17	pathologie 4258 4285	Carcinoma urotelial papilar
+T18	pathologie 4461 4475	neumonía basal
+T19	pathologie 4572 4587	ileo paralítico
+#1	SNOMED T11	126882009
+#2	SNOMED T7	43064006
+#3	SNOMED T3	266569009
+#4	SNOMED T4	57054005
+#5	SNOMED T1	7163005
+#6	SNOMED T5	44054006
+#7	SNOMED T18	300999006
+#8	SNOMED T19	55525008
+#9	SNOMED T9	126882009
+#10	SNOMED T2	370992007
+#11	SNOMED T17	128639004
+#12	SNOMED T12	12400006
+#13	SNOMED T13	128462008
+#14	SNOMED T8	95581005
+#15	SNOMED T6	197820003
+#16	SNOMED T10	300444006
+#17	SNOMED T14	55342001
+#18	SNOMED T15	55342001
+#19	SNOMED T16	108369006

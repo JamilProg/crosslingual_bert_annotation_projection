@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 64 ans aux antécédents d'hypercholestérolémie et de lupus érythémateux disséminé, tous deux non traités. Elle a été traitée pour des hémorroïdes.
+Elle est séparée, a fait des études supérieures et est ex-fumeuse avec un IPP de 4.
+En avril 2015, après avoir été admise dans un hôpital privé pour une infection respiratoire consolidée compliquée, d'autres tests diagnostiques ont été effectués.
+
+Examen physique
+Le patient est en bon état général, avec une apparence soignée. L'état de performance est de 0.
+Conscient, orienté dans les trois sphères et coopératif. L'auscultation cardiaque est rythmée, sans souffle, et l'auscultation pulmonaire est normale. L'abdomen n'est pas décrit et les membres inférieurs ne présentent ni œdème ni altération trophique.
+
+Examens complémentaires
+Une tomodensitométrie (TDM) du corps entier a été réalisée, montrant une masse dans le lobe inférieur du poumon gauche (LII) mesurant 4,2 cm et des adénopathies hilaires suspectes.
+Un PET-CT a été réalisé, montrant une atteinte maligne au niveau sous-pleural et des adénopathies locorégionales (médiastin, sous-carcinal), ainsi qu'une atteinte osseuse métastatique (troisième côte gauche, colonne vertébrale dorsale et os sacré).
+
+Diagnostic
+Une biopsie de la masse au niveau de l'épaule gauche a été réalisée et le résultat anatomopathologique était un adénocarcinome pulmonaire, TTF1 positif.
+Elle a subi une segmentectomie du LII et des biopsies pleurales ont été réalisées, qui se sont révélées positives pour la malignité, avec un diagnostic d'adénocarcinome pulmonaire de stade IV.
+À la suite de ce diagnostic, elle a été adressée au service d'oncologie médicale. Une analyse des mutations EGFR, ALK et ROS-1 a été demandée dans la pièce opératoire, montrant une délétion dans l'exon 19 de l'EGFR, avec des résultats négatifs pour ALK et ROS-1.
+
+Traitement
+Premier traitement
+Avec un excellent état général, l'erlotinib a été débuté en mai 2015, obtenant une réponse partielle selon les critères RECIST 1.1 lors des réévaluations radiologiques.
+La patiente a présenté une toxicité cutanée de grade 1. Elle a poursuivi le même traitement jusqu'au scanner de septembre 2016, qui a montré un intervalle sans progression (PFI) de 16 mois. Ainsi, une progression de la masse principale a été observée, associée à de nouvelles lésions pulmonaires et des glandes surrénales.
+Compte tenu de la difficulté d'accès aux lésions malignes, une biopsie liquide a été demandée pour évaluer la mutation de résistance à l'EGFR, qui s'est révélée négative.
+Deuxième traitement
+Deuxième ligne de traitement par carboplatine-pemetrexed pendant quatre cycles, avec réponse partielle de la maladie.
+Par la suite, maintenance avec pemetrexed pour six cycles supplémentaires jusqu'en juin 2017, où il y avait une nouvelle progression pulmonaire et adénopathique, avec une nouvelle lésion hépatique (ILP 8 mois).
+Objectivement, il n'y a pas eu de toxicité, bien que le patient ait rapporté une mauvaise tolérance au traitement intraveineux.
+La PDL-1 a été demandée, avec un résultat de < 1 % de cellules positives. Il a été décidé de refaire une biopsie de la masse pulmonaire avec un résultat positif pour la mutation de résistance T790M (exon 20) en utilisant la technique cobas.
+Troisième traitement
+L'osimertinib en troisième ligne a été débuté en août 2017. Après 30 jours de traitement, celui-ci a été interrompu en raison d'une toxicité cutanée aiguë, nécessitant une hospitalisation. Le coup de poing cutané était compatible avec une poussée de lupus érythémateux subaigu.
+Après un traitement par corticostéroïdes topiques et systémiques, la toxicité a complètement disparu, bien que le patient ait développé une psychose lupique induite par les stéroïdes.
+L'osimertinib a été réintroduit, avec maintien d'une toxicité cutanée de grade 1, et maintien de la réponse lors de la dernière réévaluation en avril 2018 (ILP à ce jour de 8 mois). De plus, elle présente une neutropénie de grade 1, et une réduction de dose n'est pas nécessaire. Depuis le diagnostic de la maladie, il a une survie globale de 3 ans.
+
+Évolution
+Dix jours après l'admission, l'osimertinib est réintroduit avec une toxicité cutanée contrôlée de grade 1. Les réévaluations radiologiques continuent de répondre à la dernière réévaluation en avril 2018 (ILP à ce jour 8 mois). De plus, il présente une neutropénie de grade 1, sans réduction de dose nécessaire. Depuis le diagnostic de la maladie, il a une survie globale de 3 ans.

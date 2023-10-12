@@ -1,0 +1,35 @@
+Anamnèse
+
+Antécédents personnels
+Homme de 73 ans sans allergie médicamenteuse connue. Antécédents personnels de bronchopneumopathie chronique obstructive (BPCO), de fibrillation auriculaire paroxystique, de syndrome d'apnée obstructive du sommeil (SAOS) et de claudication intermittente des membres inférieurs.
+Traitement habituel : Tovanor Breezhaler® inh/24h. Bisoprolol 5 mg/24 h. Simvastatine 20 mg ½/24 h.
+Enalapril 20 mg/24 h. Oméprazole 20 mg/24 h. Edoxaban 60 mg inh/24h. Fentanyl patch 100 mcg TTS/72 h. Paracétamol 1 g/8 h. Métamizole en ampoules toutes les 8 heures.
+Pas d'antécédents familiaux oncologiques intéressants.
+
+Antécédents oncologiques
+Patient diagnostiqué en février 2018 avec un carcinome épidermoïde pulmonaire de stade IV en raison d'une atteinte surrénalienne gauche et d'une atteinte osseuse au niveau de l'épine iliaque antéro-supérieure gauche. PDL-1 + dans 40% des cellules tumorales et 5% des cellules immunitaires (macrophages et lymphocytes). EGFR natif, ALK non réarrangé, ROS-1 non muté. Elle a été traitée par radiothérapie analgésique au niveau de la lame iliaque gauche. Il est décidé de débuter un traitement de chimiothérapie systémique par cisplatine/vinorelbine avec progression ganglionnaire et pulmonaire après 4 cycles. En juillet 2018, une deuxième ligne de traitement a été initiée avec nivolumab 200 mg toutes les 2 semaines, dont elle a reçu 13 cycles. Un scanner de réévaluation en février 2019 a montré une progression avec une croissance de la masse dans la LID, une nouvelle lésion dans la paroi costale droite et une augmentation de la lésion dans la lame iliaque gauche. En attendant le début d'un nouveau plan de traitement.
+
+Antécédents
+Elle se présente au service des urgences en raison d'un mauvais contrôle analgésique au niveau de la lame iliaque gauche, secondaire à sa maladie sous-jacente, et se plaint de selles mélaïques évoluant depuis plusieurs jours.
+
+Examen physique
+"Le patient avait un ECOG-PS 2. Avec une pâleur de la peau et des muqueuses.
+"AP : hypoventilation globale. AC : arythmie à 89 bpm sans souffle.
+"Abdomen : mou, dépressible, non douloureux à la palpation. Aucun signe d'irritation péritonéale. Examen rectal : zone périanale érythémateuse mais ne saignant pas. Non douloureuse. Pas de sang frais ni de méléna. Pas de caillots.
+"IIJS : pas d'œdème ni de signes de TVP.
+
+Examens complémentaires
+"NFS : Hb : 6,9 g/dl ; leucocytes : 11.340/mcl ; neutrophiles : 9.190/mcl (81 %) ; plaquettes : 524.000/mcl. Cr : 1,48 mg/dl ; CRP : 15,81. Le reste sans altérations significatives.
+"Radiographie du thorax : masse dans le LID. Pas d'autres signes de condensation ou d'épanchement pleural.
+"Coloscopie : préparation médiocre qui permet seulement d'exclure des altérations macroscopiques de la muqueuse.
+"Ulcères dans le côlon droit. Fragilité capillaire diffuse dans le cæcum et le rectum, sans constituer d'angiodysplasie. Polype de 60 cm. Polypectomie endoscopique.
+"Gastroscopie : de 15 cm de l'arcade dentaire à 30 cm de l'arcade dentaire, muqueuse œsophagienne avec perte de substance, stigmates d'hémorragie, ulcération occupant 75 % de la circonférence évoquant une nécrose œsophagienne. Elle ne nécessite pas de traitement endoscopique.
+
+Diagnostic
+Nécrose du tiers supérieur de l'œsophage. Anémie de grade 3 secondaire à l'hémorragie.
+
+Traitement
+Compte tenu de ces résultats, la patiente a été hospitalisée. Un traitement de soutien, un repos digestif, une alimentation parentérale, un soutien transfusionnel, des inhibiteurs de la pompe à protons à forte dose et une antibiothérapie à large spectre (pipéracilline-tazobactam) ont été mis en place.
+
+Évolution
+Lors de l'admission, une évaluation a été demandée par le service de chirurgie générale, qui a exclu toute intervention chirurgicale. Malgré les mesures adoptées, le patient a présenté une détérioration clinique progressive, avec une augmentation des réactifs de phase aiguë et une insuffisance respiratoire globale, et est finalement décédé d'une défaillance multi-organique 12 jours après son admission. Nous avons contacté le département de pharmacovigilance de Bristol-Myers Squibb Espagne pour l'informer de ce qui s'était passé et du nouvel effet indésirable possible du nivolumab. La réponse que nous avons reçue était qu'il n'y avait pas de rapports antérieurs sur un lien entre la nécrose de l'œsophage et le traitement par le nivolumab.

@@ -1,0 +1,18 @@
+T1	pathologie 49 69	retraso mental grave
+T2	pathologie 72 106	sordomudez secundaria a meningitis
+T3	pathologie 96 106	meningitis
+T4	pathologie 751 770	cavidades quísticas
+T5	pathologie 822 830	orquitis
+T6	pathologie 1075 1095	neoplasia testicular
+T7	pathologie 1577 1597	hipoespermatogénesis
+T8	pathologie 1664 1692	proceso inflamatorio crónico
+T9	pathologie 2144 2173	MLP testicular y epididimaria
+#1	SNOMED T5	29077001
+#2	SNOMED T9	716766007
+#3	SNOMED T1	40700009
+#4	SNOMED T2	698614006+7180009
+#5	SNOMED T3	7180009
+#6	SNOMED T6	126900000
+#7	SNOMED T7	713919009
+#8	SNOMED T4	367643001
+#9	SNOMED T8	84499006

@@ -1,0 +1,46 @@
+Anamnèse
+Femme de 62 ans, retraitée.
+
+Antécédents personnels
+"Pas d'allergies médicamenteuses, hypertension, cardiomyopathie dilatée avec fraction d'éjection réduite.
+"Ménarche : 13 ans. Ménopause : 35 ans en raison d'une chimiothérapie. 2E-0A-2P.
+"Porteuse d'une mutation (délétion des exons 1 et 2) du gène BRCA-1.
+
+Traitement habituel
+Inhibiteur de la pompe à protons, ARA-2, bêta-bloquant et AAS.
+
+Antécédents familiaux
+Une tante paternelle et une cousine paternelle, âgées respectivement de 45 et 35 ans, ont développé un carcinome mammaire.
+
+Antécédents oncologiques
+En 1988, on lui a diagnostiqué un carcinome du sein gauche (T2a N0 M0, stade IIA), traité par mastectomie, radiothérapie et chimiothérapie adjuvante (schéma CMF : mitoxantrone, cyclophosphamide et 5-FU).
+En 1995, elle a présenté une deuxième tumeur, un carcinome canalaire infiltrant du sein droit (controlatéral) (pT1c pN0 [0/10] M0 G3, récepteurs hormonaux négatifs), traité par chirurgie conservatrice, radiothérapie et 6 cycles de chimiothérapie (schéma CMF).
+En 2012, elle a présenté un troisième néoplasme ; la tomodensitométrie a montré une ascite et des implants liés à une carcinomatose péritonéale. Une biopsie de la masse annexielle droite a révélé une tumeur maligne compatible avec une origine ovarienne. La cytologie péritonéale était négative.
+Avec le diagnostic de carcinome ovarien de stade IIIA, ECOG 2, elle a commencé un traitement par carboplatine en monothérapie (AUC-5) en raison d'un mauvais état de performance pendant 4 cycles de juin à août 2012, obtenant une réponse partielle. Par la suite, en raison d'une amélioration clinique, un doublet a été commencé avec carboplatine + paclitaxel 175 mg/m2, schéma standard toutes les trois semaines pour 3 cycles supplémentaires, jusqu'en octobre 2012.
+En novembre 2012, elle a subi une hystérectomie, une double annexectomie et une omentectomie. L'examen anatomopathologique définitif a révélé un carcinosarcome (tumeur müllérienne mixte maligne) de l'ovaire droit et un pT3c FIGO IIIC.
+Elle a reçu 3 cycles supplémentaires de carboplatine-paclitaxel adjuvant jusqu'en janvier 2013.
+Elle a quitté le service d'oncologie médicale le 15/5/2015 car elle n'avait plus de signe de la maladie et était toujours suivie par le service de gynécologie.
+
+Exploration physique
+"ECOG 1. Conscient et orienté dans les trois sphères. Bien hydraté et perfusé. Peau et muqueuses pâles. Elle reste eupnéique au repos.
+"Tête et cou : pas d'adénopathies latérocervicales ou supraclaviculaires palpables. Pas de rigidité nucale ni d'autres signes méningés. Légère ingurgitation jugulaire.
+"Poitrine. Auscultation cardiaque : rythmique, tachycarde, avec souffle systolique ++/++++ panfocal, à prédominance aortique. Auscultation pulmonaire : diminution globale du murmure vésiculaire, avec hypoventilation de la base gauche.
+"Abdomen : globuleux, distendu. Dépressible, sans douleur à la palpation ni signe d'irritation péritonéale. Les bruits hydro-aériques sont rares. Pouls fémoral perméable et symétrique.
+"Membres inférieurs : pas d'œdème. Aucun signe de thrombose veineuse profonde. Pouls périphériques présents et symétriques.
+
+Examens complémentaires
+" Biopsie de l'utérus, des trompes et des ovaires en novembre 2012 : carcinosarcome (tumeur müllérienne mixte maligne) de l'ovaire droit envahissant le hile. Trompe non infiltrée. Multiples implants tumoraux dans l'épiploon, le péritoine de la poche de Douglas, la fosse iliaque gauche et le mésoappendice.
+" Tomodensitométrie en novembre 2015 : nouveaux nodules omentaux sur les deux flancs, avec épaississement des fascias et des langues dans le bassin, liés à la progression de la carcinomatose péritonéale.
+
+Diagnostic
+6 mois après sa sortie du service d'oncologie médicale (novembre 2015), la patiente a présenté une élévation du marqueur tumoral ovarien Ca 125. La tomodensitométrie a montré une progression de la carcinomatose péritonéale (intervalle sans maladie [ISM] de 23 mois).
+
+Traitement
+Compte tenu de l'ILE de 23 mois et de la faible toxicité, il a été décidé de retraiter avec le même schéma carboplatine + paclitaxel. Elle a reçu 6 cycles de décembre 2015 à avril 2016, avec une réponse partielle.
+En raison de la toxicité et de la réponse accumulées, il a été décidé d'arrêter le traitement par chimiothérapie, en attendant l'évolution.
+En novembre 2016, elle a présenté une progression péritonéale (ILP de 8 mois), et une deuxième ligne pour la maladie systémique a été envisagée avec le carboplatine AUC-5-Caelyx 30 mg/m2, qu'elle a reçu de janvier à septembre 2017. Elle a présenté une réponse partielle après 9 cycles, avec la persistance d'un implant péritonéal de 12 mm.
+À ce moment-là, conformément à la fiche technique, une maintenance avec iPARP a été entamée. Elle a débuté un traitement par olaparib 50 mg 8-0-8 en octobre 2017.
+
+Évolution
+Après 3 cycles, la patiente a été réévaluée et a de nouveau présenté une réponse partielle avec une diminution de l'implant connu de 12 à 5 mm. À ce jour, elle a reçu 8 cycles avec une tolérance adéquate, soulignant une asthénie G1 qui n'affecte pas la qualité de vie (rappelons que la précédente ILP obtenue était de 8 mois). Lors du dernier scanner de contrôle (avril 2018) après 8 cycles de traitement par olaparib, aucun implant péritonéal n'a été observé.
+Compte tenu des bons résultats, l'ancienne biopsie a été revue, qui a confirmé une tumeur müllérienne mixte ou un carcinosarcome.

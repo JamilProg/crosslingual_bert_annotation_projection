@@ -1,0 +1,22 @@
+T1	pathologie 59 76	fallo renal agudo
+T2	pathologie 190 211	hipertensión arterial
+T3	pathologie 214 216	DM
+T4	pathologie 323 337	deshidratación
+T5	pathologie 1150 1173	líquido libre abdominal
+T6	pathologie 1189 1207	pancreatitis aguda
+T7	pathologie 1247 1259	pancreatitis
+T8	pathologie 1272 1292	hipertrigliceridemia
+T9	pathologie 1294 1307	hipercalcemia
+T10	pathologie 1309 1320	alcoholismo
+T11	pathologie 1322 1337	litiasis biliar
+#1	SNOMED T1	236424009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	73211009
+#4	SNOMED T6	197456007
+#5	SNOMED T7	75694006
+#6	SNOMED T8	302870006
+#7	SNOMED T9	66931009
+#8	SNOMED T10	7200002
+#9	SNOMED T11	266474003
+#10	SNOMED T5	389026000
+#11	SNOMED T4	34095006

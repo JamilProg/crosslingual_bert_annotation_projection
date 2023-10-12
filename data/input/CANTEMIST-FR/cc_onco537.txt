@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 50 ans, originaire du Paraguay, bien qu'elle vive en Espagne avec son mari depuis 13 ans. Elle a 4 enfants, elle vit avec 2 d'entre eux. Elle mène une vie active et indépendante.
+Elle n'a pas d'habitudes toxiques et, comme seuls antécédents médicaux et chirurgicaux notables, elle a subi 4 opérations et une césarienne. Elle ne prend qu'occasionnellement du paracétamol en cas de douleur.
+La patiente a consulté le service des urgences d'un hôpital régional en raison d'une symptomatologie clinique évoluant depuis plusieurs semaines et consistant en une dyspnée à l'effort d'évolution progressive avec aggravation dans les 4 jours précédant la consultation du fait de l'apparition d'une orthopnée. Elle a également signalé qu'au cours des 3 à 4 mois précédents, elle avait présenté une douleur sourde non spécifique mais continue au niveau du plancher abdominal supérieur irradiant dans le dos, qu'elle associait à l'alimentation. La perte de poids non quantifiée est liée à la réduction volontaire de l'apport alimentaire en raison de l'augmentation de la douleur, la patiente faisant état de sa "peur de manger".
+
+Examen physique
+Bon état général. ECOG : 0. Eupnéique au repos. Couleur normale. Bien hydraté et perfusé.
+Pas d'adénopathies cervicales ou sus-claviculaires palpables. PCA. Tonalités rythmiques et pas de souffle. Murmure conservé. Abdomen douloureux à la palpation profonde et induré dans l'épigastre et l'hypochondre droit. Pas de signe de péritonisme. Bruits hydro-aériques normaux. Percussion rénale droite douteuse et percussion rénale gauche négative.
+Membres inférieurs sans œdème ni impaction.
+
+Examens complémentaires
+Les analyses sanguines effectuées au service des urgences montrent une hémoglobine à 10,7 mg et une CRP à 219.
+Une échographie abdominale réalisée en urgence a montré une masse sous-diaphragmatique droite d'au moins 13 cm avec des caractéristiques extra-hépatiques qui semblaient dépendre du pôle supérieur du rein droit, entraînant un déplacement du parenchyme hépatique et de la veine cave inférieure intra-hépatique. En outre, une masse adénopathique interaortocave de 4,4 cm.
+Tomodensitométrie thoraco-abdomino-pelvienne : thorax vide. Abdomen : grosse masse rétropéritonéale mesurant au moins 14 x 12 cm entraînant un déplacement antérieur de la veine cave inférieure et un probable envahissement de celle-ci, un déplacement postéro-inférieur du rein droit et un déplacement antérieur de l'ensemble du foie. La lésion présente de multiples zones de nécrose à l'intérieur et une néovascularisation périphérique avec néo angiogenèse et une irrigation prioritaire à travers l'artère surrénale droite, ce qui est très suggestif d'un carcinome surrénalien.
+IRM de l'abdomen : masse rétropéritonéale d'environ 12 x 12 x 15 cm dans l'espace de Morrison droit, qui, par sa localisation, semble être d'origine surrénalienne. Intérieur hétérogène, avec des zones de nécrose et de saignement à différents stades d'évolution. Suggestion de carcinome surrénalien, bien qu'un phéochromocytome ne puisse être exclu.
+
+Diagnostic
+Neuroblastome peu différencié (classification INPC/OMS 2017) avec atteinte ganglionnaire rétropéritonéale et hépatique, ainsi qu'atteinte des marges chirurgicales (masse et foie). Stade 4S (INSS-CAP), L2 (INRG).
+
+Traitement
+Une laparotomie exploratrice a été pratiquée 20 jours après les examens d'imagerie. Une masse infiltrant la cava sous les veines sus-hépatiques moyenne et gauche a été découverte et une résection d'environ 3 cm de la cava a été réalisée. Anastomose cavo-cave termino-terminale et ablation de la pièce : tumeur rétropéritonéale de 1 072 g et 19 x 13 x 7 cm avec hépatectomie partielle droite.
+Résumé de l'intervention : Debulky + hépatectomie droite + résection de la cava rétrohépatique.
+Résultat histopathologique des pièces opératoires : neuroblastome peu différencié, pauvre en stroma schwannien. Métastases dans 3 ganglions lymphatiques rétropéritonéaux péritumoraux avec infiltration/métastase du parenchyme hépatique et implication des marges chirurgicales de la tumorectomie rétropéritonéale et de l'hépatectomie. Diamètre de la tumeur : 16 cm. Indice mitotique / karyorexie (MKI) : intermédiaire.
+
+Évolution
+La patiente est restée en Unité de Soins Intensifs pendant 2 jours après l'intervention et a été transférée dans le service hospitalier sans incident, à l'exception d'une anémie qui a nécessité la transfusion de 2 concentrés érythrocytaires.
+Au vu des résultats histopathologiques, elle a été présentée au comité multidisciplinaire qui a décidé de prolonger l'étude d'extension en demandant une scintigraphie à la méta-iodobenzol-guanidine (i 123 MIBG) sans résultats gammagraphiques significatifs à l'exception des changements post-chirurgicaux et d'un petit épanchement pleural droit.
+Une étude MYCN (amplification), une étude de séquençage et la détermination d'ALK par immunohistochimie (DF53) ont également été demandées. Dans l'attente des résultats, un traitement adjuvant RT+/- QT (schéma à base de platine et d'étoposide) a été mis en place.
+Lors du premier scanner abdomino-pelvien après le début de la RT, plusieurs images nodulaires ont été observées dans le site chirurgical, une image nodulaire solide dans le pôle supérieur du rein droit (43 x 28 mm) et des adénopathies dans le hile hépatique et dans le creux diaphragmatique antérieur droit, en relation avec la récidive tumorale.
+Compte tenu du résultat de l'immunophénotype ALK positif, il a été décidé d'inclure le patient dans un essai clinique pour un traitement avec un inhibiteur d'ALK ; le patient ne répondait pas aux critères d'inclusion à l'heure actuelle.

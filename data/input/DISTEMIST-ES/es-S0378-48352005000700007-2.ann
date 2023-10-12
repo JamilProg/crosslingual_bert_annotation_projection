@@ -1,0 +1,16 @@
+T1	pathologie 74 90	Carcinoma pulmón
+T2	pathologie 92 101	Sinusitis
+T3	pathologie 523 543	estesioneuroblastoma
+T4	pathologie 600 615	masa polipoidea
+T5	pathologie 729 755	lesión ocupante de espacio
+T6	pathologie 1170 1190	estesioneuroblastoma
+T7	pathologie 1237 1298	seno maxilar derecho un engrosamiento polipoideo de la mucosa
+T8	pathologie 1774 1826	toxicidad máxima cutánea G1, mucosa G2 y orofaríngea
+#1	SNOMED T1	448993007
+#2	SNOMED T6	422886007
+#3	SNOMED T2	36971009
+#4	SNOMED T8	399119000
+#5	SNOMED T3	422886007
+#6	SNOMED T5	56002005
+#7	SNOMED T4	441456002
+#8	SNOMED T7	29074008

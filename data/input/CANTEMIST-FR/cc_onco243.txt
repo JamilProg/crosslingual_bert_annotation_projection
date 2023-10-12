@@ -1,0 +1,43 @@
+Anamnèse
+Femme de 77 ans ayant des antécédents de diabète sucré, d'asthme bronchique modéré, de dextrocardie et d'alopécie cicatricielle. Son traitement habituel comprend : montelukast, salmétérol/fluticasione en aérosol et pioglitazone. Elle n'a pas d'antécédents familiaux intéressants.
+La patiente a consulté le service d'ophtalmologie en janvier 2014 pour une diplopie binoculaire intermittente et une énophtalmie. Après l'examen initial, un scanner crânien a été réalisé, qui a révélé une altération de la densité graisseuse de l'œil droit, avec un tissu enveloppant et épaississant le muscle droit interne et atteignant le droit inférieur.
+Face à cette constatation, afin de poser le diagnostic différentiel d'une énophtalmie d'apparition récente, des examens complémentaires ont été demandés. Les possibilités de diagnostic comprennent les processus post-inflammatoires et les lésions néoplasiques qui provoquent une rétraction oculaire.
+
+Examen physique
+ECOG1. L'examen ophtalmologique révèle une énophtalmie droite évidente et une limitation partielle du regard supérieur et externe de cet œil. Le reste de l'examen est normal.
+
+Tests complémentaires
+"Analyses sanguines avec hémogramme, biochimie et coagulation : pas d'altération.
+"Étant donné que l'une des causes de l'énophtalmie est la métastase d'un néoplasme mammaire, une échographie mammaire et une mammographie ont également été réalisées : asymétrie nodulaire de la densité dans le quadrant supérieur externe du sein droit et lymphadénopathie axillaire droite suspecte. Les deux ont fait l'objet d'une biopsie.
+L'étude a ensuite été complétée :
+"NFS avec marqueurs tumoraux : CEA de 14,6 ng/ml et CA15.3 de 459 UI/ml.
+"IRM mammaire : en plus du nodule dans le quadrant supérieur externe du sein droit, il y a une asymétrie glandulaire dans la région rétro-aléolaire gauche, qui est également biopsiée.
+"CT thoracique-abdominal-pelvien avec contraste : aucun signe de maladie à d'autres niveaux.
+"Scintigraphie osseuse : pas de prise pathologique.
+Sur la base de ces résultats, le cas a été discuté avec le comité des tumeurs mammaires et le service d'ophtalmologie et il a été décidé de réaliser une biopsie orbitaire pour confirmer le diagnostic.
+
+Diagnostic
+Néoplasie mammaire synchrone bilatérale :
+"Sein droit : carcinome lobulaire infiltrant G2 cT2N1M1 (confirmation d'une métastase orbitale du carcinome lobulaire). Récepteurs d'œstrogènes positifs (3+, 99%), progestérone positive (3+, 90%). Her2 négatif. Ki67 8%.
+"Sein gauche : Carcinome canalaire infiltrant G2 cT1cN0M0. Récepteurs d'œstrogènes positifs (3+, 100%), progestérone positive (3+, 100%). Her2 négatif. Ki67 10%.
+
+Traitement
+En mars 2014, une hormonothérapie de première intention a été mise en place avec un inhibiteur de l'aromatase (létrozole 2,5 mg par jour).
+Après deux mois de traitement hormonal, des analyses sanguines ont été demandées, dans lesquelles les marqueurs tumoraux sont restés stables, ainsi qu'une mammographie et un scanner thoraco-abdomino-pelvien, qui n'ont pas montré de changements significatifs. La maladie a été jugée cliniquement et radiologiquement stable.
+Six mois après le début du traitement systémique, une chirurgie conservatrice bilatérale a été pratiquée avec lymphadénectomie droite et biopsie sélective du ganglion lymphatique sentinelle dans l'aisselle gauche.
+
+Étude anatomo-pathologique :
+"Sein droit : carcinome infiltrant canalaire-lobulaire ypT2 ypN2 (9/10) R1 (bord supérieur). G1. Récepteurs d'œstrogènes positifs (3+, 85%), progestérone positive (3+, 70%). Her2 négatif. Ki67 3%.
+"Sein gauche : carcinome canalaire ypTx N1 (mic).
+Après la chirurgie, l'ACE et le CA 15.3 restent tous deux à un plateau (7,6 ng/ml et 452,7 respectivement).
+En août 2014, elle a reçu une radiothérapie locorégionale bilatérale : 50 Gy dans le sein droit et les régions ganglionnaires et un boost de 12,5 Gy le long du bord chirurgical affecté, et un autre 50 Gy dans le sein gauche et les régions ganglionnaires. Une fois la radiothérapie terminée, elle a commencé au niveau oculaire, où 46 Gy ont été administrés en 23 séances en utilisant la radiothérapie à modulation volumétrique (VMAT) et deux arcs dans l'orbite droite avec la stéréotaxie.
+
+Évolution
+Le traitement hormonal par létrozole se poursuit, avec une surveillance trimestrielle par scanner thoraco-abdomino-pelvien (TAP), scintigraphie osseuse et marqueurs tumoraux. Ces derniers montrent une diminution progressive, avec un taux de CA 15.3 à 282,5 UI/ml et un CEA à 7,3 ng/ml en janvier 2016.
+La patiente présente une bonne tolérance au traitement, et la symptomatologie prédominante est la persistance de symptômes oculaires, qui s'améliorent progressivement, jusqu'à la disparition de la diplopie en mars 2015, laissant comme symptômes résiduels une vision floue et, comme effet secondaire de la radiothérapie, une conjonctivite de grade 2 avec un ulcère cornéen et une baisse de l'acuité visuelle, qui est surveillée par le service d'ophtalmologie.
+Vingt-sept mois après le début de l'hormonothérapie, elle a signalé une légère augmentation du périmètre abdominal. Dans les examens :
+"Les analyses de laboratoire ont montré une augmentation marquée du CA 15.3 (1112,4 UI/ml).
+"CT TAP : petite quantité de liquide ascitique et épaississement de la graisse mésentérique et du grand omentum. Aucune autre anomalie.
+"Scintigraphie osseuse sans résultat.
+"IRM de l'orbite : les changements actiniques persistent.
+Une cytologie du liquide ascitique a alors été demandée, qui s'est révélée négative, mais compte tenu des symptômes de la patiente, de l'élévation du marqueur et de l'image tomodensitométrique, une progression de la maladie a été envisagée et une hormonothérapie de deuxième intention a été mise en place avec du fulvestrant : dose de charge de 500 mg les jours 1, 14 et 28, puis 500 mg tous les 28 jours.

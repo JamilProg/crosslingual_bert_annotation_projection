@@ -1,0 +1,18 @@
+T1	pathologie 415 421	lesión
+T2	pathologie 1478 1484	lesión
+T3	pathologie 1643 1649	lesión
+T4	pathologie 1705 1730	crecimientos adenopáticos
+T5	pathologie 1791 1801	metástasis
+T6	pathologie 2047 2053	lesión
+T7	pathologie 2337 2343	lesión
+T8	pathologie 2556 2576	infiltración tumoral
+T9	pathologie 2946 2962	recidiva tumoral
+#1	SNOMED T5	128462008
+#2	SNOMED T9	25173007
+#3	SNOMED T8	128462008
+#4	SNOMED T1	417163006
+#5	SNOMED T2	417163006
+#6	SNOMED T3	417163006
+#7	SNOMED T6	417163006
+#8	SNOMED T7	417163006
+#9	SNOMED T4	30746006

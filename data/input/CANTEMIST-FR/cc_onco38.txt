@@ -1,0 +1,40 @@
+Anamnèse
+Femme de 61 ans avec des antécédents personnels de hernie hiatale, de tuberculose dans l'enfance et de virus de l'hépatite B correctement traité.
+
+Ses antécédents gynécologiques comprennent une annexectomie droite en 2001 pour un tératome mature kystique.
+
+En 2006, elle a subi une appendicectomie dans un autre hôpital, où du mucus a été visualisé dans la cavité abdominale. L'examen anatomopathologique a révélé un cystadénome mucineux de l'appendice, avec des marges de résection chirurgicale exemptes de lésions.
+
+En janvier 2013, elle s'est rendue à la consultation externe de gynécologie pour des métrorragies post-ménopausiques, ainsi que pour une gêne abdominale accompagnée d'une légère distension abdominale postprandiale. Pas de nausées ni de vomissements. Pas d'altération des habitudes intestinales. Aucun autre symptôme.
+
+Examen physique
+Signes vitaux dans les limites de la normale. État général acceptable, normohydraté et normoperfusé. Eupnéique. PCA : non décrite. Abdomen : distendu, gêne à la palpation dans l'hypogastre et la fosse iliaque droite. Pas de masse ni de viscéro-mégalie palpable. Bruits hydro-aériens présents. Blumberg négatif. Murphy négatif. MMII : œdème périmalléolaire. Examen vaginal : col postérieur long, pas de douleur à la mobilisation cervicale ni à la poche de Douglas. La taille et la consistance de l'utérus semblent normales. Aucune masse annexielle n'est palpable.
+
+Examens complémentaires
+Compte tenu de l'âge et de l'état clinique de la patiente, au vu de l'examen anodin, des examens complémentaires ont été demandés afin d'exclure une pathologie gynécologique :
+"Analyses sanguines : Hb 10,2 g/dl, tous les autres paramètres dans les limites de la normale.
+"Marqueurs tumoraux : CEA 9,5 ; CA 19,9 : 120,4 ; HE4 54,4. Ca 125 112,4.
+"Une échographie transvaginale a été réalisée, montrant un liquide libre dans le bassin et une image hyperéchogène de 37 mm dans la zone annexielle gauche.
+"Au vu de ces résultats, une tomodensitométrie abdominopelvienne a été demandée, qui a révélé des résultats compatibles avec une carcinomatose péritonéale, une atteinte étendue du grand épiploon infiltré par de multiples masses et une lymphadénopathie péritonéale ; une annexe gauche élargie a été visualisée.
+"Suite au rapport de tomodensitométrie faisant état d'une carcinomatose péritonéale avec altération de l'annexe gauche, l'adénocarcinome ovarien est la première possibilité.
+
+Le diagnostic
+Sur la base des résultats radiologiques décrits ci-dessus, une laparatomie diagnostique avec biopsie peropératoire a été préférentiellement réalisée en février 2013. L'anatomie pathologique a révélé une infiltration des implants péritonéaux, de la trompe, de l'ovaire gauche et du méso-intestin par un adénocarcinome mucineux. Des études immunohistochimiques ont été réalisées, montrant une forte positivité pour la CK20 et une négativité pour la CK7, suggérant une origine intestinale primaire ; il n'y avait pas de mutations de KRAS et NRAS.
+
+Avec ces données, le diagnostic de carcinomatose péritonéale due à un pseudomyxome péritonéal a été établi et le cas a été présenté au comité des tumeurs, et il a été décidé d'envoyer le patient à l'hôpital de référence pour évaluer la possibilité d'une périnectomie de Sugarbarker et d'une chimiothérapie intrapéritonéale hyperthermique (HIPEC).
+
+Traitement
+Le 15 mai 2013, une laparotomie a été pratiquée, constatant une carcinomatose péritonéale due à un pseudomyxome péritonéal très avancé, avec un indice de carcinomatose supérieur à 30, une maladie disséminée dans l'ensemble de l'intestin grêle, et une chirurgie radicale a donc été exclue.
+
+Des résections palliatives des deux épiploon, une cholécystectomie et des nodules de plus de 5 cm ont ensuite été réalisées, et une chimiothérapie hyperthermique intrapéritonéale peropératoire à visée palliative à base de mitomycine à une dose de 10 mg/m2 en perfusion de 90 minutes et de cisplatine 50 mg/m2 a été administrée, avec une bonne évolution postopératoire.
+
+Évolution
+Le premier scanner post-chirurgical (juillet 2013) a montré une progression de la maladie par rapport à l'étude de février, avec une faible réponse à la chimiothérapie.
+
+D'un point de vue clinique, la patiente était asymptomatique, donc après avoir envisagé diverses options, une chimiothérapie palliative FOLFOX 6 a été administrée, à partir du 13/8/2013, dont elle a reçu 13 cycles, à partir du cycle 7 sans oxyplatine en raison du maintien d'une neurotoxicité de grade 2.
+
+Un scanner de contrôle après 10 cycles a montré une progression pelvienne minime, mais en accord avec la patiente, il a été décidé de poursuivre le traitement.
+
+Dernier cycle le 9 février 2014, avec un CT à ce moment-là stable en taille par rapport à l'étude précédente.
+
+En mars 2015, le scanner de contrôle a montré une progression légère/modérée de la maladie par rapport à l'étude précédente. La question a été rediscutée au sein du comité des tumeurs, contre-indiquant une nouvelle chirurgie, de sorte qu'une chimiothérapie de deuxième ligne avec XELIRI a été envisagée à ce moment-là, avec une réduction de la dose en raison de la toxicité antérieure. Commencé le 14/4/2015.

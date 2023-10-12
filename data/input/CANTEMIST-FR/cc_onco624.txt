@@ -1,0 +1,27 @@
+Anamnèse
+Le patient était un homme de 67 ans sans antécédents familiaux ni réactions médicamenteuses indésirables connues. Il fumait 15 cigarettes par jour et ne buvait pas.
+
+Antécédents personnels : hypertension artérielle (HTN) bien contrôlée par énalapril 20 mg/hydrochlorothiazide 12,50 mg par jour et hémorragie digestive haute due à un ulcère duodénal opéré il y a 25 ans, sans complication ultérieure.
+La patiente a consulté aux urgences en novembre 2017 pour des rectorragies intermittentes, un ténesme rectal et des proctalgies d'une durée de quatre mois, associés à une asthénie et un amaigrissement non quantifié, sans autre symptôme cible.
+
+Examen physique
+État général acceptable avec un statut de performance (PS) 1 et une stabilité hémodynamique.
+L'abdomen est souple et dépressible, avec des bruits hydro-aériques, non douloureux à la palpation, sans masse ni mégalithes. Au toucher rectal, une masse mamelonnée a été palpée à partir de la marge anale, avec un bout de doigt taché de sang.
+
+Examens complémentaires
+Initialement, un test sanguin a été effectué et l'antigène carcinoembryonnaire (ACE) était normal. Une radiographie de l'abdomen n'a révélé aucune anomalie pathologique pertinente. Par la suite, une coloscopie diagnostique a été réalisée, qui a exploré jusqu'au côlon ascendant et a révélé une lésion excroissante et mamelonnée dans le rectum, de la marge anale jusqu'à 8 cm du rectum, qui occupait plus de la moitié de la circonférence, l'anatomie pathologique confirmant un adénocarcinome infiltrant (ADC).
+L'imagerie par résonance magnétique (IRM) du bassin avec contraste intraveineux a montré un épaississement circonférentiel irrégulier de la muqueuse du canal anal et du bas rectum avec une intensité de signal intermédiaire à environ 2,5 cm de la marge anale, limitant considérablement la diffusion, d'une épaisseur maximale d'environ 15 mm et d'une longueur d'environ 7,5 cm, avec des foyers sur la marge antérieure d'infiltration superficielle de la graisse mésorectale sans envahissement de la capsule prostatique. Il y a également des signes d'infiltration du sphincter interne gauche et, sur le bord gauche, un épaississement du levator ani au niveau du muscle puborectal avec des signes d'infiltration néoplasique probable. Enfin, de multiples ganglions lymphatiques présacrés sont visualisés, les plus gros mesurant environ 6 mm en petit axe, dont certains sont suspects de malignité. La tomodensitométrie (TDM) du thorax et de l'abdomen montre des signes de CRLA, sans signe de M1 à distance.
+
+Diagnostic
+ADC infiltrant du bas rectum cT4 cN2a M0, stade III.
+
+Traitement
+Le cas a été discuté au sein du comité CRC et a été considéré comme un candidat au traitement par TRRT néoadjuvante. En décembre 2017, le traitement a commencé avec XELOX (capécitabine + oxaliplatine), avant le début du QTRT.
+
+Évolution
+Après deux cycles d'induction de QT selon XELOX, et dans l'attente du début du traitement concomitant par RT, il a bénéficié d'un QTRT avec capécitabine à la dose de 50,4 Gy au total du 12 janvier 2018 au 23 février 2018, sans toxicité pertinente et amélioration des symptômes cibles (disparition de la rectorragie et du ténesme rectal).
+Il était programmé pour une intervention chirurgicale en avril 2018 par amputation abdominopérinéale étendue, ce que le patient a refusé ; sans réaliser l'IRM pré-chirurgicale et en interrompant le suivi dans notre unité.
+Un an plus tard, le patient a demandé une évaluation urgente en oncologie pour des douleurs abdominales d'une évolution de deux mois, associées à une incontinence fécale. L'analgésie a été adaptée et une nouvelle étude a été entreprise pour évaluer l'état actuel du néoplasme.
+Dans l'IRM pelvienne, une réduction significative de la néoplasie du bas rectum décrite dans l'étude de 2017 a été observée, montrant un épaississement asymétrique de la marge droite de la paroi du bas rectum, avec une épaisseur maximale de 10 mm et une extension de 3 cm, située à environ 3 cm de la marge anale, sans signe d'extension sous-séreuse. Dans l'étude actuelle, il n'y a pas d'infiltration claire du sphincter anal externe ni de perte de signal dans les plans graisseux intersphinctériens. Une hyperintensité diffuse du signal T2 des parois du bas rectum et de la graisse de l'espace mésorectal, probablement liée à des changements en réponse à la radiothérapie. La tomodensitométrie thoracique et abdominale a montré de nombreuses formations ganglionnaires rétropéritonéales, la plus grande mesurant 12,4 mm dans la région para-aortique gauche, stables depuis le diagnostic. La tomographie par émission de positons (TEP) a exclu toute malignité dans ces ganglions lymphatiques rétropéritonéaux.
+Après avoir présenté à nouveau le cas au comité des tumeurs, il a été classé comme un néoplasme du bas rectum, au moins cT2cN0, malgré un an après la fin de la TTCT d'induction. Il a donc été décidé de procéder à une TSA et, en avril 2019, une amputation abdominopérinéale laparoscopique a été réalisée sans complications. Le diagnostic histopathologique définitif était un ADC du bas rectum, bien différencié (G1) avec infiltration de la paroi intestinale atteignant la muscularis propria sans signe d'invasion vasculaire, pT3, pN0, R0.
+Après la TSA, le patient est asymptomatique, avec un PS 1 et attend le début de la capecitabine adjuvante pour 6 mois.

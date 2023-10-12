@@ -1,0 +1,27 @@
+Anamnèse
+Une femme de 45 ans, sans antécédents médicaux ou chirurgicaux significatifs, fumeuse d'un paquet de cigarettes par jour depuis l'âge de 20 ans et sans antécédents familiaux de cancer, a consulté pour une douleur au sein gauche, associée à une rougeur et à un œdème cutané, qui a été initialement traitée comme une mastite avec de la cloxacilline, sans amélioration clinique. Compte tenu de la réfractarité au traitement antibiotique, il a été décidé de réaliser une biopsie cutanée.
+
+Examen physique
+L'examen révèle un sein gauche dur et nodulaire avec un épaississement cutané accompagné d'une peau d'orange et d'un érythème généralisé ; des adénopathies dures et mobiles d'environ 2 cm sont palpées dans l'aisselle ipsilatérale. Sur le sein droit, on palpe un nodule d'environ 2 cm dans le quadrant inféro-externe mobile, sans lymphadénopathie palpable dans la région axillaire.
+
+Tests complémentaires
+"Ponction cutanée du sein gauche : cylindres cutanés avec de multiples emboles lymphatiques de carcinome canalaire peu différencié (carcinome inflammatoire), avec récepteurs hormonaux négatifs, Her-2 non amplifié et Ki-67 de 40 %.
+"IRM mammaire : prise diffuse du sein gauche avec œdème et épaississement de la peau compatible avec le diagnostic histologique de carcinome inflammatoire (BRADS6), associé à une lymphadénopathie axillaire suspecte. Sur le sein droit, lésions avec distorsion parenchymateuse dans le quadrant supéro-externe et probable fibroadénome dans le quadrant supéro-externe inférieur.
+"BAG du sein droit : SCC, carcinome intraductal solide de haut grade. CIE, tumeur phyllode, histologiquement bénigne.
+"Une étude d'extension a été réalisée avec une tomodensitométrie et une scintigraphie osseuse, qui se sont révélées négatives.
+
+Diagnostic
+Carcinome canalaire inflammatoire du sein gauche pT4cN1M0 (stade IIIB).
+
+Tumeur phyllode bénigne du sein droit associée à un carcinome intraductal solide de haut grade.
+
+Traitement
+Avec le diagnostic de carcinome canalaire inflammatoire du sein gauche pT4cN1M0 (stade IIIB), elle a commencé une chimiothérapie à visée néoadjuvante, avec du taxol hebdomadaire (80 mg/m2) pendant 12 cycles, avec une neurotoxicité de grade 2 comme effet indésirable majeur, suivie de quatre cycles de FEC (5-FU 600 mg/m2 + épirubicine 90 mg/m2 + cyclophosphamide 600 mg/m2).
+
+À l'issue du traitement néoadjuvant, elle a été opérée d'une mastectomie bilatérale et d'une lymphadénectomie axillaire gauche, dont les résultats anatomopathologiques sont les suivants :
+"Mastectomie gauche : persistance post-néoadjuvant d'un carcinome canalaire infiltrant dans tout le sein sous forme d'agrégats dispersés (le plus grand de 2,5 mm), avec invasion tumorale lymphatique dans le parenchyme mammaire et le derme du fuseau cutané inclus. Avec un grade de régression tumorale par chimiothérapie néoadjuvante d'au moins 50 % (catégorie R1) et une implication de 3 des 9 ganglions lymphatiques isolés de la lymphadénectomie axillaire.Stade tumoral AJCC/UICC, 7e édition : ypT4d N1a.
+"Mastectomie droite : modifications stromales compatibles avec une chimiothérapie néoadjuvante. Stade tumoral AJCC/UICC, 7e édition : pT0 Nx. Dans la pièce de mastectomie droite, aucun lit tumoral ou carcinome intraductal de haut grade ou infiltrant n'a été identifié, bien que des zones présentant un motif fibroadénomatoïde aient été observées, ce qui peut expliquer le diagnostic antérieur de tumeur phyllode bénigne. En comparant la morphologie des lésions observées dans la pièce de mastectomie avec les biopsies initiales de la BAG, il est évident que les images de la pièce chirurgicale pourraient être compatibles avec une extension tumorale résiduelle aux lobules, ce qui est finalement ce qui reste de la tumeur originale après la chimiothérapie néoadjuvante.
+Après le traitement chirurgical, la patiente a reçu un traitement de radiothérapie sur la paroi thoracique gauche et les aires ganglionnaires sus-claviculaires, interpectorales et infraclaviculaires et les niveaux ganglionnaires axillaires I à III avec une dose totale de 50 Gy, avec une surimpression supplémentaire de 10 Gy sur la zone de la paroi thoracique gauche.
+
+L'évolution
+Le patient subit actuellement des examens réguliers sans incident.

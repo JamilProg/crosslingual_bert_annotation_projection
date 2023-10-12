@@ -1,0 +1,20 @@
+Anamnèse
+Un homme de 67 ans, sans antécédents médicaux ou chirurgicaux intéressants, à l'exception d'un diabète sucré de type II et d'une hypertriglycéridémie.
+En avril 2004, on lui a diagnostiqué une tumeur rénale gauche. Une néphrectomie gauche a été réalisée avec des résultats anatomopathologiques compatibles avec un carcinome rénal à cellules claires (hypernéphrome), limité au parenchyme. La graisse périnéale était libre, de même que les berges chirurgicales (stade I de Robson). La patiente a été suivie régulièrement par le service d'urologie jusqu'en juillet 2009, date à laquelle une tomodensitométrie thoraco-abdominale-pelvienne de contrôle a montré une image nodulaire de 3,2 x 2,6 cm dans la paroi du ventricule gauche, qui prenait le contraste.
+
+Examen physique
+État général ECOG 0 ; tension artérielle (TA) 145/75 ; température (T°) 36 ; fréquence cardiaque (FC) 90 bpm ; fréquence respiratoire (RR) 15 rpm ; saturation basale en oxygène 98 %. Auscultation cardiaque (AC) : rythmique, pas de souffle. Pas de frottement péricardique. Auscultation pulmonaire (AP) : murmure vésiculaire préservé. Abdomen : souple, dépressible, non douloureux ; pas de masse ou de mégalithe palpable ; RHA+ : bruits hydro-aériques présents et de caractéristiques normales, percussion du poing rénal (PPR) négative. Extrémités : pas d'œdème ; pas de thrombose veineuse profonde (TVP). Examen neurologique normal.
+
+Examens complémentaires
+Imagerie par résonance magnétique (IRM) cardiaque : masse intramyocardique de 33 x 28 mm dans le segment basal moyen-antérieur, à proximité de l'artère coronaire descendante antérieure, infiltrant toute l'épaisseur de la paroi. Compte tenu des antécédents du patient, la première possibilité était une métastase, sans pouvoir exclure une tumeur primaire (sarcome). Le cas a été discuté avec le service de chirurgie cardiaque, considérant que la masse non résécable et la biopsie cardiaque par sternotomie présentaient un taux de mortalité proche de 50 %, sans tenir compte des complications post-chirurgicales.
+
+Diagnostic
+Néoformation cardiaque unique non résécable compatible avec une métastase à cellules rénales claires.
+
+Le traitement
+Un traitement actif a été proposé, mais le patient a refusé car il était asymptomatique. Un suivi rapproché a été effectué jusqu'en novembre 2010, date à laquelle le patient a été admis en cardiologie pour une tachycardie ventriculaire d'origine irritative secondaire à la tumeur intraventriculaire de 7 x 6,5 cm. Elle a été contrôlée par une cardioversion pharmacologique.
+Le bilan d'extension a également montré l'apparition de multiples nodules pulmonaires.
+Le sunitinib a été débuté, présentant une toxicité de grade IV (GIV) (diarrhée sévère, pancytopénie, ictère et signes de rétention d'eau), a été interrompu et laissé aux soins de l'unité de soins palliatifs.
+
+Évolution
+L'état général de la patiente s'étant nettement amélioré, le dossier a été reconsidéré et suivi de près, et la maladie est restée stable jusqu'en octobre 2012, date à laquelle le pazopanib a été débuté avec une tolérance aiguë acceptable et une réponse partielle, avec une diminution des nodules pulmonaires et de la tumeur intracardiaque.

@@ -1,0 +1,27 @@
+Anamnèse
+Une femme de 35 ans, sans allergie médicamenteuse connue ni habitudes toxiques, avec des antécédents d'hypertension artérielle depuis plus de 10 ans, avec deux épisodes de pré-éclampsie sévère nécessitant une césarienne d'urgence, une dyslipidémie, un diabète sucré de type 1 avec un contrôle métabolique chronique régulier (sans rétinopathie ni microalbuminurie) et une hyperparathyroïdie normocalcémique avec carence en vitamine D. Elle présentait également des antécédents d'hypercalcémie ventriculaire et d'hypercalcémie tumorale.
+Elle avait également des antécédents de cardiopathie ventriculaire extrasystolique avec un échocardiogramme dans les limites de la normalité en 2016, et dans l'anamnèse par appareil, la patiente rapportait des épisodes de palpitations ainsi que des épisodes de diaphorèse, principalement la nuit.
+La patiente a consulté aux urgences le 05/01/2018 pour un épisode de douleur thoracique centrale oppressante, liée à un effort physique léger (soulever sa fille dans les bras), irradiant au membre supérieur gauche et associée à une diaphorèse importante.
+
+Examen physique
+À son arrivée au service des urgences, la patiente avait une tension artérielle de 141/88 mm Hg, une fréquence cardiaque de 113lpm, une saturation en oxygène de base de 98 % et était afébrile.
+Elle était en bon état général, consciente, orientée et diaphorétique. Peau chaude. Bonne perfusion distale. Eupnéique au repos, tolérant le décubitus. Murmure vésiculaire bilatéral conservé. Bruits du cœur réguliers et rapides, souffle systolique éjectif 2/6 dans le mésocarde qui n'augmente pas avec Valsalva. Aucun signe d'insuffisance cardiaque congestive. Pouls périphériques présents et symétriques. Pouls central normocinétique et sans souffle. Abdomen souple et dépressible, non douloureux à la palpation, pas de masses ou de mégalithes palpables, péristaltisme préservé. Pas de signes de TVP.
+
+Tests complémentaires
+"ECG : tachycardie sinusale à 110 bpm, PR constant à 120msec, aQRS 30º, QRS 80msec avec morphologie de bloc de branche droit incomplet en V1-V2, rectification ST en DI-aVL. QTc 416 ms (Bazett).
+"Radiographie du thorax : silhouette cardiaque normale sans signe d'insuffisance cardiaque.
+"Examens de laboratoire : marqueurs de lésions myocardiques : CK 131 U/l, CK-MB 2,9 ng/ml, troponine 442,4 pg/ml. Hémogramme et hémostase normaux. Biochimie : fonction rénale, sodium, potassium et profil hépatique normaux. Toxines urinaires négatives. THS et T4 normaux.
+"Coronarographie : artères coronaires sans lésions significatives.
+"Échocardiographie : ventricule gauche (VG) de taille normale, fraction d'éjection (FE) de 64 %, gradient hyperdynamique et mésoventriculaire.
+"Résonance magnétique cardiaque : VG normal avec FE préservée et petite nécrose dans le territoire latéral. Les observations extracardiaques comprennent une masse surrénalienne mesurant 49 x 37 x 41 mm qui semble dépendre de la glande surrénale gauche.
+Au vu des résultats de l'IRM, l'étude a été complétée par un dosage des catécholamines (1er dosage : noradrénaline 3007 ug/24 h (0-76), adrénaline 13 ug/24 h (0-18), dopamine 370 ug/24 h (0-390), vanillylmandelic A. 5,5 mg/24 h. 2ème dosage : noradrénaline 3007 ug/24 h (0-76), adrénaline 13 ug/24 h (0-18), dopamine 370 ug/24 h (0-390), vanillylmandelic A. 5,5 mg/24 h. 2ème détermination : noradrénaline 1.936 ug/24 h, adrénaline 16 ug/24 h, dopamine 169 ug/24 h), et métanéphrines dans les urines de 24 heures (excrétion de 3-méthoxyadrénaline 0,642 mg/24 h (0,020-0,350), excrétion de 3-méthoxynoradrénaline 11,112 mg/24 h [0,030-0,440]) ainsi qu'une IRM des surrénales montrant la tumeur au niveau bilobé de la surrénale gauche avec un signal T2 élevé et de petites zones kystiques.
+
+Diagnostic
+STEMI mineur Killip I avec angor post-infarctus dans le territoire latéral dans le cadre d'une situation hyperdynamique probablement secondaire à un phéochromocytome gauche.
+
+Traitement
+Compte tenu du diagnostic présumé de phéochromocytome surrénalien gauche, le traitement a été initié par des α-bloquants (doxazosine) dont la dose a été progressivement augmentée et par la suite, en raison d'une tachycardie persistante, les ß-bloquants ont été associés à la résolution des symptômes et à une bonne tolérance.
+Après avoir été évalué par les services d'anesthésie, d'endocrinologie et de chirurgie générale, le patient a été opéré le 13/04/2018 par une surrénalectomie gauche laparoscopique ultérieure sans incident. Le rapport anatomopathologique définitif est le suivant : phéochromocytome, avec deux nodules de 45 et 35 mm avec la présence d'un pléomorphisme cellulaire, d'un motif diffus focal et d'une extension microscopique aux tissus mous péri-surrénaliens ; ainsi que la présence d'une invasion vasculaire et d'une hémorragie ; aucune mitose ou nécrose n'a été observée.
+
+Évolution
+Après la surrénalectomie, la tension artérielle de la patiente est revenue à la normale, sans nécessiter de traitement, ses besoins en insuline ont progressivement diminué et les métanéphrines urinaires sont devenues négatives. En conséquence, la patiente a présenté une amélioration de ses symptômes et de sa qualité de vie.

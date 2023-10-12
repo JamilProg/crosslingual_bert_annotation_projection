@@ -1,0 +1,4 @@
+T1	pathologie 60 79	esguince de tobillo
+T2	pathologie 148 169	SDRC de tobillo y pie
+#1	SNOMED T1	44465007
+#2	SNOMED T2	734986006

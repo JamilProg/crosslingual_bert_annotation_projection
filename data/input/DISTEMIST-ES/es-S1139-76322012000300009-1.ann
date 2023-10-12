@@ -1,0 +1,12 @@
+T1	pathologie 362 379	apendicitis aguda
+T2	pathologie 500 539	dilatación de asas de intestino delgado
+T3	pathologie 613 625	íleo reflejo
+T4	pathologie 885 918	suboclusión u oclusión intestinal
+T5	pathologie 1018 1046	malformación linfática ileal
+T6	pathologie 1090 1126	cavidad abdominal, múltiples quistes
+T7	pathologie 1170 1176	quiste
+T8	pathologie 1237 1270	íleon adyacente a la malformación
+T9	pathologie 1297 1308	volvulación
+T10	pathologie 1412 1459	ileal, incluyendo completamente la malformación
+T11	pathologie 1545 1576	linfagioma quístico mesentérico
+T12	pathologie 1593 1606	masa quística

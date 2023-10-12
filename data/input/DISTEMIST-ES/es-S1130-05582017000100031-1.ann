@@ -1,0 +1,6 @@
+T1	pathologie 77 113	edentulismo parcial de ambas arcadas
+T2	pathologie 116 196	atrofia alveolar severa clase III de Seibert1 en la región de premaxila edéntula
+T3	pathologie 673 679	herida
+#1	SNOMED T1	371084005+371083004
+#2	SNOMED T2	75721000
+#3	SNOMED T3	416462003

@@ -1,0 +1,27 @@
+Anamnèse
+Homme, 68 ans, ex-fumeur de 60 paquets-années, diagnostiqué avec un adénocarcinome bronchioloalvéolaire mucineux T3N0M0, stade IIB, en 2010. Il a subi une lobectomie inférieure droite étendue à la plèvre pariétale et une chimiothérapie adjuvante avec quatre cycles de cisplatine/vinorelbine. L'analyse moléculaire de l'échantillon (EGFR, EML4-ALK et mutation k-ras) s'est révélée négative.
+Une sœur est décédée à l'âge de 67 ans d'un adénocarcinome pulmonaire.
+Elle a été suivie trimestriellement après un traitement complémentaire.
+Elle s'est présentée en mai 2012 pour un examen.
+
+Examen physique
+ECOG 0. Eupnéique au repos. L'ascultation cardio-pulmonaire a montré un murmure vésiculaire diminué à la base du poumon droit. Le reste de l'examen n'a rien révélé de pertinent.
+
+Examens complémentaires
+Tomodensitométrie thoracique : image nodulaire polylobée à bords irréguliers de 12 mm dans la région apicale du LSD précédemment observé, avec une croissance discrète. Nombreuses images nodulaires dans les deux hémithorax entre 3 et 14 mm, compatibles avec une métastase.
+TEP-TDM : captation de F18-FDG dans le champ supérieur droit, en relation avec la lésion mentionnée dans la tomodensitométrie, avec un SUV maximal de 2, probablement de nature maligne. Prise de F18-FDG dans la région de la prostate avec une activité métabolique intense.
+Le patient a signalé des symptômes prostatiques et, compte tenu de ces résultats, un toucher rectal a été effectué :
+Toucher rectal : prostate de volume II/IV, de consistance dure.
+Détermination du PSA : 34.
+Biopsie de la prostate guidée par ultrasons.
+
+Diagnostic
+Pathologie : adénocarcinome de la prostate, score de Gleason combiné 7.
+Après avoir considéré le diagnostic différentiel des nodules pulmonaires (le patient avait été diagnostiqué avec deux tumeurs primaires, le poumon et la prostate), il a été décidé de réaliser une biopsie nodulaire pulmonaire par tomodensitométrie avec des résultats histologiques compatibles avec un adénocarcinome d'origine pulmonaire. Etude immunohistochimique : Ck7 (+) ; TTF-1 (+) ; PSA (-) ; p540s (-).
+
+Traitement
+Le patient a commencé un blocage hormonal complet avec du bicalutamide et du leuprolide.
+Il a été décidé de commencer un traitement, avec une chimiosensibilité prouvée pour les deux tumeurs, par docétaxel 75 mg/m2 d1 et cisplatine 75 mg/m2 d1 tous les 21 jours, et l'échantillon histologique de la métastase pulmonaire a été renvoyé pour étude de l'EGFR. Le résultat a été une mutation avec délétion dans l'exon 19. Dans ces conditions, le traitement a été modifié, en suspendant la chimiothérapie et en commençant un traitement avec 150 mg d'erlotinib toutes les 24 heures.
+
+Évolution
+Le patient est actuellement bien toléré, avec une éruption cutanée de grade I. L'état de la prostate s'est amélioré et le PSA est de 0,06. Après deux mois de traitement à l'erlotinib, une réponse partielle a été décrite dans le scanner de contrôle.

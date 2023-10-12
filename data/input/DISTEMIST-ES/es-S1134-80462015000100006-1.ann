@@ -1,0 +1,28 @@
+T1	pathologie 368 471	lesiones eritematosas, vesiculares con distribución dermatómica en la piel de la región lumbar y glúteo
+T2	pathologie 546 563	discopatía lumbar
+T3	pathologie 565 586	hipertensión arterial
+T4	pathologie 589 603	hipotiroidismo
+T5	pathologie 660 676	enfermedad renal
+T6	pathologie 779 797	neuritis herpética
+T7	pathologie 1435 1441	emesis
+T8	pathologie 1457 1466	disartria
+T9	pathologie 1501 1536	efecto secundario a los analgésicos
+T10	pathologie 1997 2017	edema pulmonar agudo
+T11	pathologie 2024 2043	insuficiencia renal
+T12	pathologie 2190 2209	acidosis metabólica
+T13	pathologie 2246 2271	insuficiencia renal aguda
+T14	pathologie 2246 2312	insuficiencia renal aguda secundaria a administración de aciclovir
+#1	SNOMED T6	282741006
+#2	SNOMED T9	292040004
+#3	SNOMED T1	53788007
+#4	SNOMED T2	443700006
+#5	SNOMED T3	38341003
+#6	SNOMED T4	40930008
+#7	SNOMED T10	40541001
+#8	SNOMED T11	723188008
+#9	SNOMED T5	90708001
+#10	SNOMED T12	59455009
+#11	SNOMED T13	723189000
+#12	SNOMED T14	236429004+372729009
+#13	SNOMED T8	8011004
+#14	SNOMED T7	300359004

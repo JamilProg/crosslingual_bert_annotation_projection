@@ -1,0 +1,20 @@
+T1	pathologie 27 34	fumador
+T2	pathologie 77 100	alergias medicamentosas
+T3	pathologie 159 183	síndrome coronario agudo
+T4	pathologie 215 222	SCACEST
+T5	pathologie 255 273	angina postinfarto
+T6	pathologie 328 379	obstrucción del 90% de la arteria coronaria derecha
+T7	pathologie 1918 1929	hipotensión
+T8	pathologie 2918 2943	vasoplejía postoperatoria
+T9	pathologie 3857 3870	fracaso renal
+T10	pathologie 4043 4057	fallo hepático
+#1	SNOMED T1	77176002
+#2	SNOMED T3	394659003
+#3	SNOMED T5	314116003
+#4	SNOMED T4	401303003
+#5	SNOMED T8	7431000175109
+#6	SNOMED T2	416098002
+#7	SNOMED T10	59927004
+#8	SNOMED T9	236423003
+#9	SNOMED T7	45007003
+#10	SNOMED T6	123642008

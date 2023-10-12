@@ -1,0 +1,14 @@
+T1	pathologie 81 90	trombosis
+T2	pathologie 960 986	trombosis de la vena porta
+T3	pathologie 960 1020	trombosis de la vena porta y de la vena mesentérica superior
+T4	pathologie 1235 1246	trombofilia
+T5	pathologie 1262 1326	heterocigosis para la mutación G20210A del gen de la protrombina
+T6	pathologie 1635 1649	esplenomegalia
+T7	pathologie 1759 1789	vasos colaterales periportales
+#1	SNOMED T1	439127006
+#2	SNOMED T2	17920008
+#3	SNOMED T3	197001004+17920008
+#4	SNOMED T4	234467004
+#5	SNOMED T5	441421001
+#6	SNOMED T6	16294009
+#7	SNOMED T7	67307004

@@ -1,0 +1,22 @@
+Anamnèse
+La patiente est âgée de 35 ans et n'a pas d'habitudes toxiques ni d'antécédents intéressants. Elle n'a pas d'antécédents familiaux de cancer.
+Elle consulte en février 2009 pour des rectorragies depuis un mois, associées à des selles diarrhéiques, des douleurs abdominales avec augmentation du périmètre, une hyporexie et une perte de poids non quantifiée.
+
+Examen physique
+L'examen physique a révélé l'abolition du murmure vésiculaire dans le tiers inférieur de l'hémithorax droit à l'auscultation respiratoire, une ascite à la palpation abdominale et des traces de sang au toucher rectal.
+
+Examens complémentaires
+Tomodensitométrie (CT) thoraco-abdomino-pelvienne : masse annexielle gauche mesurant 15 x 10 x 18 cm avec un liquide ascitique abondant et un épanchement pleural droit.
+Endoscopie gastro-intestinale inférieure : tumeur dans le rectum à 12 cm de l'anus occupant toute la lumière, biopsiée et rapportée histologiquement comme un adénocarcinome de type intestinal.
+Une thoracentèse diagnostique a été effectuée et les résultats du transsudat étaient les suivants : liquide clair, rapport protéines liquides/sériques de 0,3, rapport LDH liquides/sériques de 0,4, triglycérides de 12 mg/dl et absence de cellules malignes. Une paracentèse diagnostique a également été effectuée et a permis d'obtenir un liquide clair, des leucocytes de 130 mm2, du glucose à 70 mg/dl, des protéines à 1,2 g/dl et une cytologie négative pour les cellules malignes.
+
+Diagnostic
+En mars 2009, une résection antérieure du rectum jusqu'à 8 cm de la marge anale et une résection en bloc du péritoine de la poche de Douglas, une hystérectomie et une double annexectomie ont été réalisées. L'intervention chirurgicale a révélé la présence de liquide ascitique dans la cavité abdominale, sans implants péritonéaux ou d'épiploon. L'étude histologique a confirmé un adénocarcinome du haut rectum avec métastases ovariennes bilatérales, pT3pN2M1.
+
+Traitement
+Le traitement adjuvant comprend 12 cycles du schéma FOLFOX. Disparition progressive de l'ascite et de l'épanchement pleural évaluée par l'examen physique et, par la suite, au cours du suivi, par des examens d'imagerie.
+
+Évolution
+En mars 2010, une progression pulmonaire a été observée, une résection atypique des deux nodules a donc été réalisée et 6 cycles de FOLFIRI-bevacizumab ont été administrés.
+Une nouvelle progression pulmonaire a été observée et un traitement de seconde ligne a été mis en place avec FOLFOX-panitumumab. Du 8ème au 11ème cycle, il a présenté une toxicité hématologique consistant en des plaquettes de grade 4, les valeurs précédentes étant comprises entre 250 et 340 x 109/l et sans affecter les séries érythrocytaires et leucocytaires. Après le dernier cycle, elle a consulté le service des urgences pour une hématurie qui a nécessité une hospitalisation et une transfusion de concentrés plaquettaires. Dans ces conditions, avec une suspicion de réaction à l'oxaliplatine et des critères radiologiques de réponse complète, le traitement a été interrompu et elle a été adressée au service d'allergologie pour des examens complémentaires. Des tests cutanés ont été effectués avec le carboplatine, le cisplatine, l'oxaliplatine, le Sf négatif et l'histamine avec des résultats négatifs : aucune réaction médiée par les IgE n'a été trouvée.
+Par la suite, deux nouvelles progressions au niveau pulmonaire avec des schémas de traitement excluant les dérivés du platine.

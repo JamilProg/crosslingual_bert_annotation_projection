@@ -1,0 +1,29 @@
+Anamnèse
+Patient âgé de 62 ans, fumeur de 30 cigarettes/jour depuis l'âge de 16 ans et consommateur de 2 à 3 bières par semaine, sans autres antécédents médicaux ou familiaux intéressants. ECOG 1.
+Il s'est présenté aux urgences en mai 2015 pour une diarrhée et une rectorragie d'une durée de 2-3 mois avec aggravation progressive.
+
+Examen physique
+Le toucher rectal a révélé une tumeur végétative de consistance caoutchouteuse, avec des selles normales.
+
+Examens complémentaires
+Lors d'une coloscopie longue, deux polypes ont été enlevés (l'un dans l'angle hépatique de 5 mm et l'autre à 25 cm de la marge anale de 20 mm), avec la découverte à une hauteur de 5 à 10 cm de la marge anale d'une lésion occupant 100 % de la circonférence, permettant le passage de l'endoscope sans difficulté, avec des caractéristiques friables et des zones de fibrine et de nécrose évoquant une néoplasie rectale, qui a été biopsiée, avec le résultat d'un adénocarcinome entéroïde avec KRAS et NRAS : Non muté (type sauvage).
+
+En analyse, hémoglobine 11,1 gr/dL avec V.C.M. 101,2, plaquettes 347 Miles/mm3, leucocytes 7,07 Miles/mm3, fer 26 ug/dL transferrine 212 mg/dL ferritine 23 ng/ml saturation de transferrine 10 %, avec marqueurs tumoraux CEA 53,99 ng/mL CA 19,9 8,71 U/mL.
+
+Le 20.05.15, tomodensitométrie thoraco-abdominale avec découverte d'un néoplasme non obstructif dans le moyen rectum, localement infiltrant, avec des ganglions non significatifs dans le mésorectum. Lésion hépatique focale qui ne peut être correctement caractérisée, sans exclure une métastase. Avec extension de l'étude IRM hépatique le 21.05.15 avec une lésion occupant l'espace dans le segment VI du foie avec des caractéristiques de métastase (3,3 cm) avec une petite lésion de nature indéterminée dans la partie sous-phrénique, sans pouvoir exclure une métastase, recommandant son contrôle.
+IRM rectale le 21.05.15 avec une tumeur rectale située à 5-6 cm de la marge anale externe cT3N1.
+
+Diagnostic
+Adénocarcinome rectal T3N1M1, avec une seule métastase hépatique dans le segment VI, stade IVa, Ras natif.
+
+Traitement
+Après discussion du cas au sein du comité des tumeurs digestives, le patient a commencé une chimiothérapie d'induction et a été considéré comme potentiellement résécable, recevant 6 cycles de FOLFOX-Panitumumab.
+Après avoir terminé le traitement, il a commencé une radiothérapie à cycle court avec une dose totale de 25 Gy.
+
+Evolution
+Une réponse des lésions est mise en évidence par un scanner thoraco-abdominal en octobre 2015, avec une diminution du volume de la tumeur primitive, pas d'adénopathies clairement significatives actuellement et une réduction de la taille de la métastase hépatique (1,5cm).
+Une amputation abdominopéritonéale a été réalisée le 29.10.15 et la résection simultanée de la LOE hépatique a été rejetée en raison du temps chirurgical prolongé. Un adénocarcinome résiduel de 2 cm infiltrant le muscle et le tissu adipeux périrectal a été observé, avec une atteinte de 4/18 ganglions lymphatiques, dont un avec une atteinte extranodale et une infiltration périneurale, avec des bords libres de l'atteinte néoplasique.
+Complication post-chirurgicale : abcès périanal nécessitant un drainage, avec une bonne évolution ultérieure. La tomodensitométrie thoraco-abdominale de novembre a montré des modifications secondaires à la chirurgie de résection abdominopéritonéale et à la colostomie terminale dans la fosse iliaque gauche. En ce qui concerne la lésion du segment VI du foie, il n'y a pas de changement (1,5 cm). Deuxièmement, une chirurgie hépatique a été réalisée avec une résection atypique par laparoscopie, avec la découverte d'une métastase d'adénocarcinome de 2 cm de diamètre qui touchait la marge chirurgicale, avec une régression tumorale de grade 3, selon le schéma de Mandart.
+La tomodensitométrie thoraco-abdominale post-chirurgicale a montré une lésion hypodense mal définie dans le segment VI du foie mesurant environ 4,4 cm, sans autre altération. Compte tenu de la bonne réponse au traitement par chimiothérapie et antiEGFR, après six mois sans traitement systémique, le traitement a été repris par QT avec FOLFOX-Panitumumab.
+Après le quatrième cycle, elle a eu une réaction anaphylactique à l'oxaliplatine, le QT a été maintenu avec 5FU-Panitumumab.
+Elle a terminé le traitement en recevant 5 cycles jusqu'à aujourd'hui. Le scanner de contrôle actuel montre une métastase droite connue dans le segment V-VI qui a diminué de taille (3,3 cm) avec une atténuation principalement liquide suggérant une dévitalisation au moins partielle.

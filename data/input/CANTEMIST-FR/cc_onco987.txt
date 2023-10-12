@@ -1,0 +1,48 @@
+Anamnèse
+La patiente est une Espagnole de 64 ans, à la vie active, sans troubles cognitifs, qui vit chez elle avec son mari.
+Elle n'a pas d'antécédents familiaux intéressants.
+Antécédents personnels : syndrome de Carney avec myxomes cardiaques auriculaires récurrents opérés en 1985 et 2008, acromégalie due à un macroadénome hypophysaire opéré en 2010, confirmation génétique en 2011 (présence d'une délétion de 20 paires de bases dans l'exon 7 du gène PRKAR1A). Crises partielles complexes de contrôle pharmacologique difficile (1985) secondaires à des accidents emboliques d'origine cardiaque. Multiples carcinomes basocellulaires réséqués.
+Antécédents oncologiques :
+Quadrantectomie du sein gauche en 1991 pour une tumeur papillaire intrakystique de 2 cm de grade I, avec 14 ganglions lymphatiques libres, suivie d'une radiothérapie de 50 Gray (Gy) dans le lit thoracique. En 1998, elle a présenté une récidive locale, une mastectomie gauche a été réalisée, avec un diagnostic de carcinome canalaire infiltrant de 8 mm, avec des récepteurs hormonaux négatifs et un c-erb-b2 positif, et il a été décidé d'effectuer des contrôles ambulatoires.
+En 2006, une mastectomie droite a été pratiquée en raison de calcifications suspectes, dont le caractère malin a été écarté dans la pièce opératoire.
+En juin 2016, elle a présenté des douleurs dans le membre inférieur gauche qui résistaient au traitement analgésique et l'imagerie par résonance magnétique (IRM) a montré une image évoquant une métastase au niveau de la quatrième vertèbre lombaire (L4) avec des signes de compression radiculaire. La tomographie par émission de positons (TEP) a révélé une lésion dans le nasopharynx et une lésion lytique dans le corps vertébral L4 qui faisait saillie dans le canal rachidien. Une biopsie a été pratiquée au niveau de L4, et le résultat anatomopathologique était une métastase de carcinome mammaire, avec une expression intense de cytokératine 19, de GATA-3 et d'œstrogènes, avec des résultats négatifs pour la cytokératine 20, le CDX-2, la progestérone et le c-erb-b2. Elle a reçu 50 Gy de radiothérapie palliative pendant un mois au niveau L4 avec une amélioration de la douleur et a commencé un traitement par fulvestrant (500 mg intramusculaire [im] dose de charge, 500 mg [im] 2 semaines après le début et 500 mg im toutes les 4 semaines par la suite) et zolédronate intraveineux (iv).
+En novembre 2016, une TEP de suivi a été réalisée, qui a montré la persistance de la lésion dans le nasopharynx et une diminution de la captation en L4. La lésion nasopharyngée a été étudiée par IRM et biopsie, qui s'est révélée négative pour la malignité.
+En mars 2017, une nouvelle TEP a été demandée, qui a montré une amélioration des lésions, avec une diminution de la lésion dans le nasopharynx et une normalisation de la captation au niveau de L4.
+Depuis onze mois, la patiente poursuit son traitement par fulvestrant et zolédronate, qu'elle tolère bien, sans effets secondaires notables.
+Antécédents actuels :
+Après la dernière dose de fulvestrant et de zolédronate, la patiente présente des douleurs aux poignets et aux chevilles, qui sont attribuées au traitement reçu, et de l'ibuprofène par voie orale est prescrit avec une amélioration de la douleur. Dix jours plus tard, l'état général de la patiente s'aggrave, avec une tendance à la somnolence, une diminution de la diurèse, une dyspnée à l'effort et des œdèmes dans les membres inférieurs. Elle n'a pas eu de fièvre, de céphalées, de symptômes catarrhaux, de douleurs thoraciques, de douleurs abdominales, de gêne urinaire, d'altération du rythme des selles. Pas de dyspnée paroxystique nocturne ni de palpitations.
+Traitement habituel (inchangé ces derniers mois) : valproate de sodium 500 mg (1-0-1), valproate de sodium 300 mg (0-0-1), prégabaline 100 mg (1-0-1), carbonate de calcium/cholécalciférol 1 250 mg/400 UI (0-2-0), pérampanel 8 mg (0-1-0), octréotide 20 mg tous les 2 mois (en raison d'un antécédent de macroadénome hypophysaire produisant de l'hormone de croissance).
+
+Examen physique
+Tension artérielle : 131/75 mm Hg, pouls : 59 x, température axillaire : 35,5 ºC, saturation en oxygène : 96 % à l'air ambiant.
+État général : passable, somnolent.
+Tête et cou : pâleur de la peau et des muqueuses, légère ingurgitation jugulaire.
+Poitrine : cicatrice de sternotomie en bon état. Auscultation cardiaque : rythmique, souffle systolique (décrit précédemment). Auscultation pulmonaire : crépitants minimes dans les bases. Seins : présence de prothèses bilatérales.
+Abdomen : souple, dépressible, non douloureux, pas de masse ni de viscéro-mégalie palpable, présence de bruits hydro-aériques.
+Dos : aspiration rénale négative. Spinopercussion des apophyses épineuses non douloureuse. Extrémités : pouls pédieux présents et symétriques. Oedème avec fovéa jusqu'aux genoux ++/++++. Examen neurologique
+ Niveau de conscience : conscient, désorienté dans le temps, reconnaît son compagnon. Langage dysarthrique.
+"Tonus musculaire des extrémités supérieures : maintenu, claudication dans l'extrémité supérieure gauche déjà présente auparavant.
+ Force musculaire : plus faible dans le membre supérieur gauche (déjà connue), le reste des membres est normal. Sensibilité préservée.
+ Réflexes : diminution des réflexes bicipital, styloradial et rotulien.
+Examens complémentaires
+Initialement, une décompensation de l'insuffisance cardiaque a été suspectée, et un traitement intraveineux au furosémide a été mis en place. Le patient a présenté une aggravation clinique au fil des jours, consistant en une plus grande somnolence, une dysarthrie, une ataxie, de sorte que l'étude a été prolongée, à la recherche de causes pouvant justifier ce tableau d'encéphalopathie.
+Examens sanguins à l'admission : hémoglobine 9,9 g/dl (12-15), protéines 5,7 g/dl (6,4-8,3), calcium 8 mg/dl (8,4-10,2), calcium corrigé par les protéines totales 8,81 mg/dl, protéine c-réactive (CRP) 189,6 mg/l (0-5), peptide natriurétique B 299 pg/ml (0-119), avec formule leucocytaire, foie, reins, thyroïde, sodium, potassium, chlore, procalcitonine et sédiment urinaire normaux.
+Les sérologies de la syphilis, du virus de l'herpès simplex, de l'herpès varicelle zona et du cytomégalovirus étaient négatives.
+Examens sanguins ultérieurs : hémoglobine 9,9 g/dl, hypoprotéinémie 4,8 g/dl (6,4-8,3), hypoalbuminémie 2,5 g/dl (3,5-5,2), hyponatrémie 131 mmol/l, osmolalité plasmatique 265 mOsmol/kg (275-295), CRP maximale 203,3 mg/l (0-5). Les taux d'ammonium, de pression partielle de dioxyde de carbone et de valproate étaient normaux. Il convient de noter qu'à d'autres occasions, le patient avait présenté ces niveaux d'hyponatrémie sans symptômes neurologiques associés.
+Tomodensitométrie crânienne montrant des lésions vasculaires chroniques, sans signe de pathologie intracrânienne aiguë.
+IRM crânienne avec contraste montrant des lésions vasculaires similaires aux précédentes ; aucun signe suspect de métastases intraparenchymateuses ou leptoméningées n'est trouvé et une lésion suspecte de métastase blastique dans l'os pariétal est décrite.
+Électroencéphalogramme montrant un ralentissement frappant de l'activité de fond, sans activité épileptiforme.
+PET scan montrant une réapparition de l'activité métabolique dans la lésion osseuse située dans la région postérieure de L4, suggérant une récidive tumorale à ce niveau, sans autre résultat. Échocardiographie transthoracique, avec des résultats normaux.
+Ponction lombaire avec extraction d'un liquide céphalo-rachidien (LCR) clair et normal, avec des résultats biochimiques, de lactate déshydrogénase (LDH) et d'adénosine désaminase normaux et des résultats négatifs pour les cellules néoplasiques.
+Grâce à ces examens complémentaires, l'encéphalopathie hépatique et carbonique, l'intoxication au valproate, le dysfonctionnement cardiaque, les métastases cérébrales, la carcinomatose leptoméningée et l'infection systémique ont été écartés comme causes du tableau clinique.
+
+Diagnostic
+Syndrome neurologique paranéoplasique.
+Ce diagnostic est posé par l'exclusion des principales causes d'encéphalopathie et l'amélioration clinique lors de l'instauration d'une corticothérapie intraveineuse.
+
+Traitement
+On commence à administrer de la méthylprednisolone par voie intraveineuse, à raison de 20 mg toutes les 8 heures, lorsque les symptômes sont revenus à leur niveau de base.
+
+Évolution
+La méthylprednisolone intraveineuse a été mise en place, à raison de 20 mg toutes les 8 heures, avec une amélioration des symptômes jusqu'à la ligne de base.
+Initialement, la patiente a été diagnostiquée comme une décompensation d'insuffisance cardiaque dans le contexte de la prise d'anti-inflammatoires mais, étant donné l'absence d'amélioration avec le traitement par diurétique intraveineux et l'aggravation du tableau clinique, d'autres options causales ont été étudiées. Finalement, après avoir exclu d'autres causes, un processus à médiation immunitaire est suspecté en relation avec son cancer du sein, et une corticothérapie intraveineuse (méthylprednisolone 20 mg c/8h) est mise en place de manière empirique. Le tableau clinique est revenu en moins de 24 heures à la situation initiale de la patiente, et elle est sortie de l'hôpital neuf jours plus tard, avec une corticothérapie orale (prednisone 30 mg 1-0-1) selon un schéma descendant. En ce qui concerne le traitement oncologique, quelques jours après la sortie, il a été décidé de passer à une deuxième ligne de traitement en raison de la progression de la tumeur : vinorelbine 60 mg/m2 les jours 1 et 8 toutes les 3 semaines.

@@ -1,0 +1,8 @@
+T1	pathologie 683 702	cistitis infecciosa
+T2	pathologie 1554 1592	vejiga, existía una imagen de litiasis
+T3	pathologie 1770 1820	pelvis, comprobándose la presencia de una litiasis
+T4	pathologie 2088 2125	litiasis, situada en el fondo vesical
+#1	SNOMED T4	70650003
+#2	SNOMED T3	386102003
+#3	SNOMED T1	236620008
+#4	SNOMED T2	168053004

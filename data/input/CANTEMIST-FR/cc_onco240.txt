@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 40 ans, ex-fumeuse depuis 7 ans (Index années/pack : 30) sans autres antécédents médicaux ou familiaux intéressants.
+Consultation en décembre 2003 en oto-rhino-laryngologie, adressée par les soins primaires, pour une obstruction de la narine gauche de 4 mois d'évolution qui ne répondait pas au traitement médical.
+
+Examen physique
+À l'examen, le patient était en bon état général. Une rhinoscopie antérieure a été réalisée, montrant une tumeur hémorragique à surface blanchâtre qui occupait toute la narine gauche en dehors du cornet moyen, empêchant le passage de l'endoscope. La narine droite ne présentait aucune altération et aucune adénopathie cervicale homolatérale ou cotralatérale n'a été palpée.
+
+Examens complémentaires
+"CT scan de la face et des sinus :
+Masse nasale gauche produisant une occupation de la narine gauche avec occlusion de la choane et partiellement de la lumière du cavum. Cette masse produit un remodelage du septum interne du sinus maxillaire gauche avec résorption des cellules ethmoïdales de ce côté. Le sinus sphénoïde est libre ainsi que les sinus frontaux. Occlusion de l'ostium de drainage des sinus maxillaires gauche et droit.
+"Examens de laboratoire et tomodensitométrie du thorax et de l'abdomen : aucune anomalie.
+Une biopsie de la tumeur a révélé un carcinome indifférencié et, en janvier 2004, elle a subi une rhinotomie paralatéronasale avec excision complète de la masse tumorale.
+
+Diagnostic
+Résultats pathologiques après la chirurgie : îlots et travées de petites cellules rondes avec un halo cytoplasmique clair et un noyau central, une chromatine laxiste, avec peu de polymorphisme. L'activité mitotique est modérée (4 mitoses/10HPF), sans nécrose tumorale. Stroma fibreux, avec des vaisseaux ectatiques. L'étude immunohistochimique montre une forte positivité pour les cytokératines (Cam 5.2, CK 22 et CK 20). La population présente quelques marqueurs de différenciation neuronale (Chromogranine, Enolase spécifique neuronale et Sérotonine). Elle est négative pour la vimentine, l'ACL, la synaptophysine et les neurofilaments.
+Conclusion : stésioneuroblastome de Hyams de grade III.
+
+Traitement
+Avec le diagnostic de stésioneuroblastome de grade III de Hyams et de groupe B de Kadish, elle a été évaluée par le comité multidisciplinaire pour les tumeurs de la tête et du cou et il a été décidé d'administrer une radiothérapie comme traitement adjuvant.
+Du 03.03.04 au 22.04.04, elle a reçu une irradiation du lit tumoral jusqu'à une dose totale de 60 Gy (fractionnement de 2 Gy/fraction, 5 fractions/semaine) avec une bonne tolérance globale, présentant une dermite G1 et une mucosite G1 comme toxicités pertinentes.
+
+Évolution
+La patiente a commencé à être suivie par le service ORL, qu'elle a suivi régulièrement et sans aucun signe de maladie.
+En mai 2015, dans le cadre du suivi annuel et avec un intervalle sans maladie de 11 ans, elle a consulté le service ORL pour noter une tumeur cervicale gauche non douloureuse présente depuis 3 mois. À l'examen, une tumeur mal définie a été palpée dans la région jugulodigastrique gauche.
+L'échographie cervicale a révélé de multiples adénopathies sous-mandibulaires et latérocervicales gauches avec perte du hile graisseux et augmentation du flux à l'intérieur. La plupart étaient subcentimétriques, la plus grande mesurant 34 mm dans la région rétromandibulaire, ce qui correspond à la tumeur palpable. Ces résultats n'étaient pas présents dans l'étude précédente de novembre 2014.
+Une ponction aspiration à l'aiguille fine de la tumeur a été demandée, avec des résultats compatibles avec une métastase d'une tumeur à petites cellules peu différenciée, et donc, après avoir exclu une maladie à d'autres niveaux, le 29.6.15 une cervicotomie gauche a été réalisée avec excision de 4 ganglions lymphatiques pour étude anatomopathologique.
+L'anatomie pathologique a révélé des masses solides avec un motif rostéoïde formé par des cellules rondes avec un pléomorphisme nucléaire notable et un index mitotique élevé avec des zones de nécrose dans les quatre adénopathies référencées. L'immunohistochimie montre une intense positivité pour les cytokératines AE1/AE3, 5/6, 9 et 14 avec une coloration positive pour les marqueurs neuroendocriniens (Chromogranine et Enolase spécifique neuronale) ; Synaptophysine et S-100 négatifs. Ki 67 80%.
+Cela a conduit à un diagnostic de métastase ganglionnaire due à un carcinome neuroendocrine de haut grade. Étant donné la difficulté de poser un diagnostic différentiel entre l'esthésioneuroblastome et le carcinome neuroendocrine de haut grade en raison de leurs similitudes histologiques et immunohistochimiques, l'échantillon actuel et celui du diagnostic initial de 2004 ont été envoyés pour examen à un pathologiste expert qui a conclu que les deux pouvaient être compatibles avec un carcinome neuroendocrine de haut grade.
+Le cas a ensuite été évalué par le comité multidisciplinaire pour les tumeurs de la tête et du cou, qui a décidé, sur la base de l'histologie, de traiter avec une QT-RT concomitante.
+En juillet 2015, elle a commencé un traitement par QT Cisplatine-Etoposide, qu'elle a reçu au total 4 cycles en concomitance avec la RT à partir du deuxième cycle (dose totale de 60 Gy dans les chaînes ganglionnaires cervicales gauches). La toxicité la plus notable a été une pancytopénie G2 et une mucosite G3 après le troisième cycle, qui a nécessité une admission à l'hôpital et s'est rétablie sans incident. La patiente a terminé le traitement en novembre 2015 et subit actuellement des contrôles trimestriels au service d'oncologie sans aucun signe de maladie.

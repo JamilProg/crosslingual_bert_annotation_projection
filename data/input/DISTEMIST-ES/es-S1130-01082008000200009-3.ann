@@ -1,0 +1,10 @@
+T1	pathologie 47 65	enfermedad celiaca
+T2	pathologie 157 175	enfermedad celiaca
+T3	pathologie 205 224	abortos espontáneos
+T4	pathologie 230 270	accidente isquémico transitorio cerebral
+T5	pathologie 459 486	alteraciones protrombóticas
+#1	SNOMED T1	396331005
+#2	SNOMED T2	396331005
+#3	SNOMED T3	17369002
+#4	SNOMED T4	266257000
+#5	SNOMED T5	234467004

@@ -1,0 +1,20 @@
+T1	pathologie 31 49	síndrome de Alport
+T2	pathologie 131 162	pérdida moderada de la audición
+T3	pathologie 164 185	hipertensión arterial
+T4	pathologie 215 223	obesidad
+T5	pathologie 336 348	dislipidemia
+T6	pathologie 351 364	hiperuricemia
+T7	pathologie 381 391	Ex-fumador
+T8	pathologie 540 567	glomerulopatía esclerosante
+T9	pathologie 955 975	enfermedad de Alport
+T10	pathologie 1007 1043	glomerulonefritis esclerosante focal
+#1	SNOMED T1	770414008
+#2	SNOMED T2	21451000119101
+#3	SNOMED T3	38341003
+#4	SNOMED T4	414916001
+#5	SNOMED T5	370992007
+#6	SNOMED T6	35885006
+#7	SNOMED T7	8517006
+#8	SNOMED T8	13335004
+#9	SNOMED T9	770414008
+#10	SNOMED T10	13335004

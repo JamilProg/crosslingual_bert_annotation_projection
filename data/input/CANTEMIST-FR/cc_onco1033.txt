@@ -1,0 +1,36 @@
+Anamnèse
+Femme au foyer, avec des antécédents familiaux d'un frère atteint de leucémie et d'une sœur atteinte d'un carcinome papillaire de la thyroïde, sans antécédents personnels dignes d'intérêt.
+En novembre 2015, la patiente a été adressée en gynécologie pour des saignements vaginaux d'une durée d'un mois. Une colposcopie, une échographie transvaginale et une biopsie cervicale ont été réalisées et un diagnostic de carcinome épidermoïde non kératinisant a été posé. Une imagerie par résonance magnétique (IRM) a été demandée pour l'extension, montrant une atteinte des chaînes iliaques, auquel cas il a été considéré comme étant au stade IIIC1 de la FIGO. Présentée au comité des tumeurs gynécologiques et la chirurgie ayant été refusée, elle a été adressée au service d'oncologie médicale et a commencé un traitement radical basé sur le QT avec cisplatine hebdomadaire 40 mg/m2, associé à une RT à une dose totale de 50,4 Gy, suivie de 5 séances de curiethérapie endocavitaire à une dose de 25 Gy, qui s'est terminée le 29 janvier 2016.
+Par la suite, l'IRM de réévaluation en avril 2016 a confirmé une bonne réponse au traitement avec une diminution de la taille de la masse cervicale et des adénopathies, mais une lésion métastatique osseuse de 3 cm est apparue dans l'ischion droit, ce qui a été confirmé par la scintigraphie osseuse (GGO) et la ponction à l'aiguille fine (FNA) de la lésion. À ce moment, une nouvelle ligne de QT a été envisagée selon l'AUC du carboplatine 5-paclitaxel 175 mg/m2-bevacizumab 15 mg/m2 tous les 21 jours, avec asthénie, épistaxis et rectorragie autolimitée, paresthésie et neutropénie fébrile comme effets secondaires du traitement, ce qui a conduit à retarder le cinquième cycle. Elle a terminé en septembre 2016 et a poursuivi le traitement d'entretien au bevacizumab.
+En octobre, elle est venue à la clinique pour signaler une douleur inguinale droite, et la réévaluation de l'OGTT a détecté une augmentation de l'activité ostéoblastique dans la lésion métastatique de l'ischion droit, ce qui pourrait être lié au phénomène de flare. En outre, en raison du fait qu'il avait présenté des proctalgies et des rectorragies à plusieurs reprises, une coloscopie a été demandée, au cours de laquelle une lésion ulcérée et fibrineuse a été rapportée, évoquant une proctite actinique.
+Début décembre 2016, elle a été évaluée en gynécologie pour des métrorragies et des signes d'infiltration dans le vagin avec une possible fistule recto-vaginale ont été observés, avec une biopsie et une cytologie négatives. En raison d'une progression clinique et biochimique due à une augmentation du marqueur antigène du carcinome épidermoïde (SSC) à 16,0 ng/ml (valeurs normales [VN] de 0-2), le traitement par bevacizumab a été interrompu et une nouvelle ligne de traitement par topotécan 3 mg/m2 et dénosumab mensuel a été mise en place.
+
+Examen physique
+ Au début du diagnostic : Eastern Cooperative Oncology Group (ECOG 0), douleur dans l'hypogastre avec extension aux deux fosses iliaques et à la région sacrée, avec légers saignements vaginaux.
+ Admission en janvier 2017 : ECOG 1, hypotension, pâleur cutanéo-muqueuse, légère déshydratation des muqueuses, douleur à la palpation dans la région sus-pubienne avec durcissement de la zone, qui ne semble pas être un ballon vésical. Pas d'œdème au niveau des membres inférieurs.
+ Admission mars 2017 : ECOG 2, pâleur cutanéo-muqueuse, poche de colostomie fonctionnelle, légère douleur à la palpation de l'hypogastre, avec percussion du poing rénal bilatéral négative.
+
+Épreuves complémentaires
+1- Admission janvier 2017 :
+ NFS : hémoglobine 6,7 g/dl, leucocytes 17 940/L avec 97 % de polymorphonucléaires, activité prothrombique 45 %, créatinine 1,61 mg/dl, aspartate aminotransférase 251 U/l, alanine aminotransférase 208 U/l et protéine C-réactive 177 mg/l.
+ IRM pelvienne : absence de cloison recto-vaginale sur 5 cm d'axe longitudinal, avec image de tissu mou au niveau du col de l'utérus en relation probable avec la persistance de la tumeur.
+ Coloscopie : à 2-3 cm en distalité du bas rectum, il existe une lésion nécrotique-ulcérée touchant la ligne pectinéale avec des bords érythémateux et friables, qui semble correspondre à une fistule rectovaginale, sans pouvoir exclure une infiltration néoplasique.
+2- Admission mars 2017 :
+ Bilan sanguin : hémoglobine 8,2 g/dl, plaquettes 53 000/l et protéine C réactive 67 mg/l.
+ Culture d'urine et culture de drainage d'abcès intra-abdominal : positive à Enterococcus faecium.
+ Tomodensitométrie (CT) de l'abdomen et du pelvis : une collection multiloculée a été observée dans la gouttière paracolique droite s'étendant de l'espace sous-hépatique à la région pelvienne avec un diamètre approximatif plus grand de 22 cm.
+ Cystoscopie : une zone fistuleuse érythémateuse a été observée dans le fond de l'utérus vers le côté latéral gauche, ainsi qu'une possible infiltration tumorale dans le fond de l'utérus.
+
+Diagnostic
+1- Carcinome du col de l'utérus de stade IIIC-1.
+2- Rectorragie et hématurie secondaires à une fistule recto-vagino-vésicale.
+3- Infection urinaire basse et abcès intra-abdominal à Enterococcus faecium.
+
+Traitement
+Lors de la première admission, suite à la détection d'une fistule rectovaginale secondaire à la radiothérapie et au traitement antiangiogénique, une colostomie palliative a été réalisée dans le but d'améliorer la qualité de vie de la patiente.
+Lors de la deuxième admission, après confirmation de la progression de la fistule recto-vaginale vers la vessie, le traitement chirurgical a été exclu en raison du mauvais pronostic à court terme. Une approche conservatrice a été décidée avec une sonde urinaire permanente et une antibiothérapie à la vancomycine, et la patiente est restée sous traitement symptomatique.
+
+Évolution
+En janvier 2017, elle a été admise dans le service pour un choc septique d'origine urinaire, une rectorragie et des douleurs pelviennes et rectales mal contrôlées en lien avec une suspicion de fistule rectovaginale, confirmée en cours d'hospitalisation suite à une coloscopie et une IRM pelvienne. Le cas a été discuté au sein du comité des tumeurs colorectales et il a été décidé de réaliser une colostomie transverse droite pour la sortie, la patiente améliorant ses douleurs et sa rectorragie dans les jours suivants, et elle est sortie.
+En mars 2017, elle a été réadmise au service d'oncologie pour une hématurie et une dysurie de deux semaines. Après mise en place d'une sonde de lavage, avec culture urinaire positive à E. faecium et traitement antibiotique ciblé, le syndrome mictionnel a disparu. Le cas a été présenté au comité des tumeurs génito-urinaires en raison de la suspicion clinique et tomodensitométrique que la fistule recto-vaginale avait progressé vers la vessie. Après évaluation par les services d'urologie et de gynécologie, cette évolution a été confirmée, ce qui exclut toute intervention chirurgicale à ce stade, compte tenu de l'état général et du pronostic de la patiente.
+En outre, un scanner de l'abdomen et du bassin a révélé une importante collection intra-abdominale, qui a été drainée par la radiologie interventionnelle avec un contenu purulent et positif pour E. faecium.

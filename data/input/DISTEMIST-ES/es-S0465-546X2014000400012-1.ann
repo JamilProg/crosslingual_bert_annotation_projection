@@ -1,0 +1,10 @@
+T1	pathologie 70 94	Diabetes Mellitus tipo I
+T2	pathologie 97 123	Síndrome de Túnel Carpiano
+T3	pathologie 432 497	lesiones ampollosas en región dorsal de 4tº dedo de pie izquierdo
+T4	pathologie 808 835	osteomielitis de la falange
+T5	pathologie 1220 1226	lesión
+#1	SNOMED T1	46635009
+#2	SNOMED T2	57406009
+#3	SNOMED T3	444659003
+#4	SNOMED T4	60168000
+#5	SNOMED T5	417163006

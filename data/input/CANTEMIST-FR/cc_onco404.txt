@@ -1,0 +1,27 @@
+Anamnèse
+Dans ce cas, il s'agit d'une femme de 33 ans, asymptomatique, avec une vie active normale, originaire de Vitoria. Elle n'a pas d'antécédents familiaux ou personnels intéressants, à l'exception d'un tabagisme actif avec un taux cumulé de 7 paquets-années. Elle ne prend pas de médicaments, à l'exception du lorazépam, si nécessaire pour l'insomnie.
+En janvier 2014, elle a été opérée d'un mélanome cutané ulcéré de l'omoplate droite, Breslow 2,3 mm, et après élargissement des marges et du ganglion lymphatique sentinelle, il s'est avéré être pT3N0M0 (E-IIB), de sorte qu'il a été décidé de le suivre.
+Presque deux ans plus tard, en décembre 2015, lors d'un des contrôles, une image suspecte a été trouvée au niveau du muscle droit antérieur, de sorte qu'une résection compartimentale de ce muscle a été réalisée (portant un filet), la chirurgie étant R0, avec des résultats évocateurs d'un mélanome métastatique, qui a infiltré le muscle, l'aponévrose et le tissu adipeux. Une étude BRAF a été réalisée et les résultats étaient négatifs.
+Par la suite, la patiente n'ayant plus de maladie, elle a continué à subir des examens de contrôle.
+
+Examen physique
+ECOG : 0. Excellent état général. Lors de l'examen physique, pas de résultats notables, pas de lésions cutanées suspectes et des cicatrices en bon état.
+
+Examens complémentaires
+En février 2016, un scanner thoraco-abdomino-pelvien de contrôle a été réalisé, montrant une récidive tumorale avec plusieurs implants péritonéaux dans le flanc droit et une rechute au niveau adénopathique dans le hile pulmonaire gauche. Un scanner PET-CT a ensuite été réalisé, confirmant la prise pathologique du produit radiopharmaceutique dans les lésions précédemment décrites.
+L'étude a été complétée par une IRM cérébrale qui a exclu toute pathologie à ce niveau.
+
+Diagnostic
+Suite aux résultats des examens d'imagerie demandés, un mélanome disséminé de stade IV a été diagnostiqué chez la patiente.
+
+Traitement
+Compte tenu du diagnostic ci-dessus, il a été décidé d'entamer un traitement par immunothérapie, plus précisément par un anti-PD-1, le nivolumab (BRAF négatif dans l'histologie de la lésion réséquée du muscle droit antérieur).
+
+Evolution
+En mars 2016, un traitement systémique par nivolumab a été débuté, avec une très bonne tolérance, ne présentant quasiment pas d'effets secondaires durant les 3 premiers cycles. Après l'administration du quatrième cycle, la patiente a commencé à présenter une toxicité gastro-intestinale sous forme de diarrhée (entérocolite), qui a atteint le grade 2. L'immunothérapie a donc été arrêtée et un traitement avec de fortes doses de corticostéroïdes a été mis en place. En raison des manifestations cliniques du patient, un scanner thoraco-abdomino-pelvien a été demandé afin d'exclure une pathologie aiguë sous-jacente et d'évaluer la réponse, où une grande réponse a été observée, avec une résolution presque complète des lésions décrites dans les tests demandés au début du traitement.
+Après la résolution de l'entérite, il a été décidé de poursuivre le traitement par nivolumab. Le 5e cycle a été administré, ce qui a nécessité une admission ultérieure à l'hôpital pour une entérocolite de grade 3. Pendant l'admission, une légère thyroïdite asymptomatique a également été observée, avec une TSH de 0,29 et une légère transaminite. Un traitement par corticostéroïdes à la dose de 1 mg/kg de méthylprednisolone a été instauré. Par la suite, une amélioration clinique progressive a été observée, avec une normalisation des altérations analytiques et une résolution graduelle de l'entérite. Il a été décidé d'interrompre le traitement par immunothérapie.
+En août 2016, une tomodensitométrie d'évaluation a été réalisée, montrant une réponse complète, qui a également été confirmée comme étant métabolique par TEP.
+En septembre de la même année, une laparoscopie diagnostique a été réalisée et des prélèvements ont été effectués (résection d'épiploon et biopsie d'une adénopathie du mésocôlon droit), tous exempts de maladie.
+Quelques mois plus tard, en janvier 2017, alors que la patiente était asymptomatique, une IRM cérébrale de contrôle a diagnostiqué une métastase de mélanome, elle a donc subi une exérèse par neurochirurgie puis une radiochirurgie stéréotaxique (dose cumulée de 27,5 Gy).
+Elle a continué à se faire suivre et, un an plus tard, en mars 2018, un PET-scan a décrit une adénopathie hypermétabolique dans la chaîne iliaque externe droite, et une lymphadénectomie iliaque droite a été réalisée, sans infiltration tumorale.
+Depuis, il continue d'être suivi, sans maladie.

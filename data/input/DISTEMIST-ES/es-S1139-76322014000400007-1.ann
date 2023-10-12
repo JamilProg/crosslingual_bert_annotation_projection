@@ -1,0 +1,18 @@
+T1	pathologie 249 268	sinovitis de cadera
+T2	pathologie 676 740	lesiones cutáneas, una en el glúteo y otra en el cuero cabelludo
+T3	pathologie 1297 1308	pediculosis
+T4	pathologie 1315 1366	lesión nodular, inflamada, ambas en cuero cabelludo
+T5	pathologie 2215 2239	Enfermedades Infecciosas
+T6	pathologie 2573 2589	absceso de psoas
+T7	pathologie 2656 2683	absceso en el músculo psoas
+T8	pathologie 2698 2735	osteomielitis del cuerpo vertebral L4
+T9	pathologie 2788 2815	absceso del cuero cabelludo
+#1	SNOMED T6	266463007
+#2	SNOMED T7	266463007
+#3	SNOMED T1	202926002
+#4	SNOMED T8	203241002
+#5	SNOMED T3	20848007
+#6	SNOMED T9	31399009
+#7	SNOMED T2	95324001
+#8	SNOMED T5	394807007
+#9	SNOMED T4	871000119100

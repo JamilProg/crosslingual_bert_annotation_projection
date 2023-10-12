@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 58 ans, ex-fumeur de 50 paquets/an, hypertension récemment diagnostiquée. Aucun autre antécédent intéressant. Il s'est présenté aux urgences le 10 octobre 2014, rapportant une dyspnée au moindre effort et un œdème facial d'une semaine d'évolution.
+
+Examen physique
+Œdème de l'esclave avec circulation collatérale dans la région thoracique centrale supérieure, impaction cervicale droite, œdème marqué au niveau du membre supérieur droit et diminution du murmure vésiculaire à la base de l'hémithorax droit.
+
+Examens complémentaires
+"CT scan thoracique urgent, qui montre un défaut de remplissage de la veine cave supérieure s'étendant aux deux veines jugulaires internes, des micronodules dans les LID et LII, et de multiples adénopathies cervicales, supraclaviculaires, axillaires, pré-vasculaires, parahilaires bilatérales, etc. Il faut noter la présence d'un grand conglomérat de ganglions lymphatiques sous-carénaires mesurant jusqu'à 4,5 cm.
+
+Diagnostic
+Syndrome de la veine cave supérieure (SVCS) avec thrombose associée s'étendant aux deux veines jugulaires d'origine probablement tumorale.
+
+Traitement
+Admis en médecine interne pour un traitement aux corticostéroïdes, une oxygénothérapie et une anticoagulation par HBPM.
+
+Évolution
+L'étude a été complétée par un scanner abdominal qui n'a montré aucun signe de lésion et une biopsie de l'adénopathie axillaire droite, qui s'est révélée positive pour une métastase ADC compatible avec un primitif pulmonaire (EGFR non muté, ALK négatif) et une IHC positive pour CKAE1, CK7 et TTF-1.
+
+Après confirmation histologique, le patient a été transféré en oncologie médicale le 22 octobre pour évaluer le début du traitement. Au cours des premiers jours, il a présenté une aggravation clinique et une évaluation par la radiothérapie et la chirurgie vasculaire a été demandée. La chirurgie vasculaire a recommandé la mise en place d'une endoprothèse, mais après plusieurs tentatives, il n'a pas été possible de la poser. Compte tenu de la détérioration clinique progressive, il a été décidé d'entamer un traitement QT. Le premier cycle de cisplatine-pemetrexed a été administré le 28 octobre, avec une très bonne tolérance.
+Par la suite, la radiothérapie a rejeté le traitement en raison de son efficacité douteuse, car il a été considéré que la thrombose bilatérale des deux veines jugulaires était la principale cause de l'état clinique de la patiente. Le patient a montré une amélioration clinique significative, avec une réduction évidente de l'œdème cervico-facial et des TMS, et a été autorisé à sortir de l'hôpital le 11 novembre.
+
+Évolution après la sortie : la patiente a reçu au total six cycles de cisplatine-pemetrexed en ambulatoire entre novembre 2014 et février 2015, avec disparition de l'œdème facial et diminution de la circulation collatérale, avec une réponse partielle plus importante au scanner de décembre.
+
+En février, une réponse complète a été démontrée lors de la tomodensitométrie de réévaluation et en mars, il a été mis sous pemetrexed en monothérapie, qu'il a maintenu jusqu'à présent. Lors du dernier examen en mai 2015, le patient était asymptomatique et ECOG 0.

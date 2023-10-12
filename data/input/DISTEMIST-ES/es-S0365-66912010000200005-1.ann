@@ -1,0 +1,12 @@
+T1	pathologie 102 121	blefaritis anterior
+T2	pathologie 221 230	chalazion
+T3	pathologie 285 308	adenopatía preauricular
+T4	pathologie 420 437	carcinoma sebáceo
+T5	pathologie 822 889	adenopatías de aspecto necrótico en diversos territorios linfáticos
+T6	pathologie 1071 1111	cambios tumorales en el párpado inferior
+#1	SNOMED T1	41446000
+#2	SNOMED T2	1482004
+#3	SNOMED T3	127078001
+#4	SNOMED T5	274741002
+#5	SNOMED T4	126491004
+#6	SNOMED T6	278697001

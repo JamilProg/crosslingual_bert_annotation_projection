@@ -1,0 +1,31 @@
+Anamnèse
+Une femme de 36 ans, d'origine roumaine, a consulté son médecin traitant pour une odynophagie qui durait depuis deux semaines. Le seul antécédent médical intéressant est la consommation de 10 cigarettes par jour. Elle ne prend aucun médicament.
+Examen physique
+L'examen de la cavité buccale révèle une lésion ulcérée de la glotte. Une adénopathie paratrachéale gauche indurée est palpée. Le reste de l'examen physique ne révèle aucune altération. La patiente a été orientée de préférence vers le service d'ORL.
+Examens complémentaires
+Une nasofibroscopie a été réalisée montrant une néoformation ulcérée de la muqueuse de la face laryngée de l'épiglotte qui descend jusqu'à la commissure des cordes vocales.
+Le scanner du cou a montré une lésion compatible avec un carcinome glottique avec une adénopathie jugulaire nécrotique bilatérale.
+Compte tenu de ces résultats, l'oto-rhino-laryngologiste a pratiqué une microchirurgie du larynx avec biopsie.
+
+Diagnostic
+"L'histologie révèle un carcinome neuroendocrine/à cellules de tourbe de haut grade peu différencié.
+"La tumeur présente des marqueurs épithéliaux (kératine AE1/AE3) et neuroendocriniens (CD56, synaptophysine, chromogranine) positifs.
+"L'étude d'extension ne montre pas de maladie à distance.
+"Le diagnostic définitif est le suivant : carcinome supraglottique de type microcytaire localisé.
+
+Traitement
+La patiente a été adressée au service ambulatoire d'oncologie et un traitement par cisplatine-étoposide et radiothérapie concomitante a été décidé. Après le premier cycle, elle a présenté des nausées et une asthénie de grade 1.
+
+Évolution
+Après deux cycles de traitement, la patiente a présenté des symptômes aigus d'hémiplégie gauche et d'hyposthésie, pour lesquels elle s'est rendue au service des urgences.
+Un scanner crânien a été réalisé, qui a révélé un accident ischémique de l'artère cérébrale moyenne droite.
+Le traitement par fibrinolyse a été exclu car il s'agissait d'une tumeur maligne sous traitement actif et d'une thrombectomie en raison d'un infarctus avéré.
+La patiente a été admise en soins intensifs. Après 48 heures de stabilité neurologique, elle a été transférée en neurologie et 48 heures plus tard dans le service d'oncologie.
+L'admission de la patiente s'est prolongée avec de nombreuses complications liées à sa maladie sous-jacente et à l'accident vasculaire cérébral, ce qui a nécessité une approche multidisciplinaire et l'attention de professionnels de différents services (11) : urgences, neurologie, soins intensifs, radiologie, endocrinologie, oncologie médicale, radio-oncologie, oto-rhino-laryngologie, rééducation, médecine préventive et travail social.
+Lors de son admission, elle a suivi une thérapie de réadaptation qui a permis d'améliorer la mobilité de l'hémicorps gauche.
+Elle a été évaluée par un endocrinologue et a subi un test de dysphagie, qui a révélé une tolérance à la viscosité de la gélatine, mais une intolérance à la viscosité des liquides, ce qui a nécessité une gastrostomie percutanée pour couvrir les besoins nutritionnels.
+Le traitement par radiothérapie a été repris et toutes les séances ont été achevées pendant l'hospitalisation. Une mucosite et une épithéliite/radiodermite cervicale de grade 1-2 sont apparues.
+Elle a présenté une douleur dans l'hémicorps parétique, réfractaire à l'analgésie conventionnelle, qui a nécessité une évaluation par la neurologie. On lui a diagnostiqué un syndrome thalamique et on lui a prescrit de la gabapentine et de la fluoxétine, avec une amélioration des symptômes.
+Les autres complications survenues pendant l'hospitalisation ont été des diarrhées et des nausées secondaires à une alimentation hyperprotéique par gastrostomie, une diarrhée pseudomembraneuse due à Clostridium difficile, qui a nécessité un isolement par contact et du métronidazole par voie orale, et une infection des voies urinaires due à Escherichia coli.
+À la fin de son séjour à l'hôpital, et après avoir terminé le traitement par radiothérapie, elle a été réévaluée par l'oto-rhino-laryngologie au moyen d'une nasofibroscopie. Une réponse macroscopique complète a été observée, avec disparition de la tumeur et des ganglions lymphatiques.
+Après presque deux mois d'hospitalisation, la patiente a été renvoyée chez elle. Elle présente une hémiplégie résiduelle, une dysphagie et une dysarthrie qui font l'objet d'un traitement de rééducation, ainsi qu'une gastrostomie permanente.

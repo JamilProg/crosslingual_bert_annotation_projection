@@ -1,0 +1,47 @@
+Anamnèse
+Homme de 55 ans, indépendant dans les activités de la vie quotidienne. Il a travaillé comme employé de bureau.
+"Antécédents personnels : syndrome de Wolff-Parkinson-White, hypercholestérolémie, sinusites répétées et toxoplasmose en 1997.
+"Interventions chirurgicales : opéré pour excision et agrandissement d'un naevus mélanocytaire dans la zone dorsale en 2012. Angiome sur le doigt et fracture du tibia.
+"Antécédents familiaux : pas d'antécédents familiaux intéressants.
+"Habitudes toxiques : ex-fumeur depuis 1995. Buveur occasionnel.
+"Pas d'antécédents connus d'allergies.
+"Il ne prend aucun médicament.
+Il a commencé en octobre 2016 avec des douleurs lombaires avec une mauvaise réponse aux anti-inflammatoires, pour lesquelles il a été évalué par son médecin de premier recours. En outre, une masse dans la région axillaire avec une gêne à la palpation d'apparition progressive. Le patient est afébrile et n'éprouve pas de sensation de dysthermie. Pas de toux ni d'expectoration. Pas de dysurie ni d'altération du rythme mictionnel. Elle a conservé son appétit et son ingestion sans perte de poids.
+
+Examen physique
+"Poids : 61 kg. Taille : 164 cm. Eupnéique. ECOG 0.
+"Peau sans altération de la coloration. Cicatrice au niveau dorsal de bonne apparence.
+"Pas d'adénopathie cervicale ou sus-claviculaire.
+"Masse axillaire fixe d'environ 4-5 cm, adhérente aux plans profonds, douloureuse à la palpation.
+"Auscultation cardiaque : bruits cardiaques rythmés sans souffle.
+"Auscultation pulmonaire : souffle vésiculaire physiologique.
+"Abdomen mou et dépressible, sans masse ni viscéro-mégalie. Péristaltisme normal.
+"Aspiration rénale positive avec masse des tissus mous de la sacro-iliaque droite.
+"Pas d'œdème dans les extrémités inférieures, pas de focalisation neurologique sensori-motrice.
+
+Examens complémentaires
+Bilan sanguin, imagerie par résonance magnétique lombaire, échographie avec ponction-aspiration à l'aiguille fine du bultome axillaire, et étude d'extension par scanner thoraco-abdominal.
+"Examens sanguins : hémogramme, fonctions hépatique et rénale sans altération. Ionogramme dans les limites de la normale. LDH = 431 U/l.
+"IRM : lésion des tissus mous mesurant 4 x 4,4 x 4,9 cm (T x AP x CC) située sur le bord postérieur de l'os iliaque droit, affectant l'articulation sacro-iliaque, le muscle érecteur de l'épine dorsale, le grand et le moyen fessier et le tissu cellulaire sous-cutané profond. La lésion se rehausse après l'administration de produit de contraste et présente une intensité intermédiaire en T1 avec quelques zones d'intensité plus élevée suggérant des zones hémorragiques et hétérogènes en T2. Il y a un léger affaissement des deux plateaux du corps vertébral de L5, montrant une image arrondie dans le corps vertébral (17 x 18 mm) qui est hypointense en T1 avec quelques zones d'intensité plus élevée, et hyperintense en séquence STIR, suggérant une lésion métastatique.
+"Échographie axillaire : conglomérat adénopathique axillaire gauche, hypoéchogène, 3 x 5 cm. Le conglomérat a été aspiré et l'échantillon a été envoyé au service de pathologie.
+"L'aisselle controlatérale a été explorée sans résultat. La région cervicale ne présente pas d'adénopathie significative.
+"Scanner : artère sous-clavière droite aberrante. Adénopathie dans le médiastin antérieur de 12 mm. Ganglions hilaires droits de petite taille. Conglomérat de ganglions lymphatiques axillaires gauches.
+"Dans le parenchyme pulmonaire, un granulome calcifié est observé dans le LM sans autre altération.
+"Pancréas, rate, glandes surrénales et reins sans altérations. Foie de taille et de morphologie normales avec un simple kyste dans le lobe caudé de 7 mm, sans preuve d'autres lésions focales. Pas d'adénopathie intra ou rétropéritonéale.
+"Lésion lytique avec petite masse de tissu mou dans l'arc postérieur de la 9e côte gauche. Il existe une autre lésion lytique connue dans l'os iliaque droit dans la partie postérieure de l'articulation sacro-iliaque de 5 cm de diamètre et une autre lésion probable dans le corps vertébral de L5.
+"Anatomie pathologique : extensions à fond hématique avec une représentation lymphocytaire minimale, avec une grande cellularité abondante d'habitus épithélioïde montrant des atypies nucléaires franches, disposées de façon lâche, accompagnées de nombreux macrophages pigmentés avec du matériel ressemblant à des mélanocytes.
+"Immunohistochimie : expression de HMB45 et Melan A, avec négativité pour les cytokératines à large spectre (AE1/AE3) ; faible positivité pour S100. Présence de la mutation V600E du gène BRAF.
+
+Diagnostic
+"Mélanome de stade IV TxN2bM1c avec présence d'une mutation BRAF.
+"Métastases osseuses sacro-iliaques et lombaires.
+
+Traitement
+Compte tenu de la présence d'une mutation du gène BRAF, un traitement oral a été instauré avec 150 mg de dabrafenib toutes les 12 heures et 2 mg de trametinib toutes les 24 heures.
+Une évaluation par le service de radio-oncologie a été demandée pour un traitement palliatif localisé de la lésion sacro-iliaque, et 30 Gy ont été administrés à des fins analgésiques.
+
+Evolution
+La patiente a commencé les contrôles à l'hôpital de jour, les analyses en série ne montrant pas d'altération des enzymes hépatiques. Meilleur contrôle analgésique dans la région lombo-sacrée. Après deux mois de traitement, la patiente a présenté une pyrexie avec des pics de fièvre allant jusqu'à 40 ºC avec des frissons et un malaise général intense, de sorte que, conformément à la fiche technique(1), la dose de dabrafenib a été réduite à 100 mg toutes les 24 heures, en maintenant la dose de trametinib inchangée.
+En raison de l'apparition d'une adénopathie latérocervicale, le 2 février 2017 (après un total de 4 mois de traitement), un scanner de réévaluation a été réalisé, qui a montré une croissance du conglomérat supraclaviculaire gauche et de nouvelles lésions osseuses au niveau des vertèbres dorsales D8 et D9, le tout étant interprété comme une progression tumorale. Ceci a été confirmé par l'imagerie par résonance magnétique de la colonne vertébrale dorsale. L'étude du niveau osseux a été complétée par une scintigraphie qui a montré des foyers hypercapillaires en D8 et dans le gril costal droit (arcs latéraux des 5e, 6e et 9e côtes).
+Le patient était en bon état général, avec l'apparition de douleurs au niveau du sternum, de la colonne dorsolombaire et de la région des ganglions lymphatiques axillaires, contrôlées par des analgésiques de troisième niveau. Un traitement de deuxième ligne a donc été entamé avec le pembrolizumab, mais la réponse a été médiocre, avec l'apparition de lésions cutanées sur le cuir chevelu et l'aggravation de la douleur. Il a été réévalué par le service de radio-oncologie et une seconde radiothérapie a été réalisée sur la zone axillaire-spraclaviculaire et la lésion sacro-iliaque avec une dose totale de 20 Gy.
+Suite à cela, une amélioration clinique significative et une réduction de la lésion sus-claviculaire gauche, des lésions cutanées crâniennes et une réduction des besoins en analgésie ont été observées. Actuellement, elle a reçu 6 cycles et continue le traitement, en conservant un excellent état général.

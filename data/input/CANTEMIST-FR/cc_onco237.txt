@@ -1,0 +1,36 @@
+Anamnèse
+Homme de 59 ans, sans réaction allergique connue aux médicaments, fumeur de deux cigares par jour, sans autres habitudes toxiques, avec des antécédents d'hypertension traitée à l'énalapril et ayant subi une herniorraphie inguinale. Il n'avait pas d'antécédents oncologiques.
+Le patient a consulté pour une sciatique évoluant depuis plus d'un an et réfractaire au traitement par l'analgésie habituelle, si bien que son médecin traitant a demandé une IRM lombaire en janvier 2016 où une tumeur rectale a été détectée et le patient a été adressé au service de chirurgie générale ambulatoire.
+Il a signalé une modification de ses habitudes intestinales, une perte de poids de 10 kg, des rectorragies occasionnelles et des proctalgies qui l'empêchent de s'asseoir depuis la fin de l'année 2015.
+
+Examen physique
+Bon état général, TA 0, auscultation cardio-pulmonaire sans signes pathologiques, abdomen mou et dépressible, douloureux à la palpation dans l'hypogastre, au toucher rectal une grosse tumeur occupant presque toute la circonférence à 4 cm de la marge anale, sans identification du puborectum à la palpation.
+
+Examens complémentaires
+Une IRM de stadification a été réalisée et a permis d'identifier une volumineuse masse de 9x10 cm de diamètre dépendant de la paroi postérieure du rectum, avec une excroissance vers la pente postérieure du mésorectum, occupant la totalité de l'espace présacré. La masse présente une importante composante nécrotique, avec un niveau hydro-aérien à l'intérieur, suggérant une fistulisation/abcès. Elle est en contact pratiquement circonférentiel avec le fascia mésorectal, situé sous le reflet péritonéal. Il existe une atteinte de la face latérale gauche du pubo rectalis, sans atteinte de la ligne intersphinctérienne ni du sphincter externe. Le muscle levator ani est bilatéralement dépalmé, avec des zones focales d'infiltration du muscle. De multiples adénopathies pathologiques péritumorales sont visualisées ainsi qu'en relation avec les vaisseaux rectaux supérieurs, sans qu'aucune croissance ganglionnaire iliaque ou rétropéritonéale n'ait été identifiée.
+RAPPORT FINAL DE STAGING : T4 N2b Mx.
+
+L'étude d'extension a été complétée par un scanner thoraco-abdomino-pelvien où, en plus de la masse déjà connue, un nodule pulmonaire de 19 mm en LSI et de multiples lésions hépatiques évoquant de simples kystes ont été observés.
+La TEP/TDM confirme la présence d'une volumineuse masse rectale (SUV maximum 18,9) par rapport à la masse primaire connue, avec des implants présacrés (SUV maximum 3). Nodule pulmonaire supérieur gauche amétabolique et lésions kystiques dans le foie sans répercussion métabolique.
+
+Lors de la coloscopie, un néoplasme végétant, ulcéré et friable a été observé à 5 cm de la marge anale, occupant toute la circonférence sans sténose de la lumière, et de multiples biopsies ont été réalisées.
+
+Pathologie : tumeur fusiforme évoquant une GIST. Une étude IHC a montré que les cellules tumorales étaient positives pour le CD117, le h-caldesmon et la vimentine, avec un indice de prolifération ki67 de 15 %. Les cellules tumorales étaient négatives pour la desmine, l'actine musculaire lisse, le S-100, le HMB45, le CKAE1-AE3, le CK5/5, la chromogranine et la synaptophysine. Ce profil confirme le diagnostic de tumeur stromale gastro-intestinale (GIST).
+
+GEN KIT : séquençage direct des exons 9, 11 et 17 du gène du récepteur tyrosine kinase KIT. [Séquence de référence génomique NT022853.14 (Gene Bank)] Détection négative des mutations étudiées.
+
+PDGFRA GEN : Séquençage direct de l'exon 18 du gène du récepteur du facteur de croissance dérivé des plaquettes (polypeptide alpha) (séquence génomique de référence NT022853.14 (GeneBank)).
+Détection négative des mutations étudiées.
+
+L'échocardiographie et les examens de laboratoire étaient normaux.
+
+Diagnostic
+GIST rectale localement avancée de type sauvage (WT).
+
+Traitement
+En février 2016, le cas a été présenté au comité des tumeurs colorectales. Étant donné qu'il s'agissait d'une tumeur non résécable au départ, il a été prévu un traitement par imatinib en intention néoadjuvante (400 mg c/24 heures) et une réévaluation de la réponse précoce pour évaluer la résécabilité ultérieure.
+
+Évolution
+Une semaine après le début du traitement, le patient rapporte une nette amélioration clinique avec normalisation du rythme intestinal, disparition des proctalgies et des resctorragies. Bonne tolérance à l'Imatinib avec un œdème palpébral minime comme seule toxicité, qui ne nécessite pas de traitement.
+Une IRM de suivi en mars 2016 a montré une réduction du volume de la tumeur rectale d'environ 40 % par rapport à l'examen précédent (diamètre supérieur à 60 mm). Réduction volumétrique des adénopathies mésorectales avec disparition d'une partie d'entre elles.
+Le traitement systémique par imatinib a été poursuivi et, en mai 2016, un nouveau bilan IRM a été réalisé, au cours duquel aucune réduction significative de la tumeur n'a été observée. La patiente a été présentée à nouveau au comité des tumeurs, et il a été décidé de l'orienter vers une intervention chirurgicale, compte tenu des caractéristiques moléculaires de la tumeur, du fait que la réponse maximale avait été atteinte et que la tumeur était résécable. Le traitement par imatinib est maintenu jusqu'à l'opération, puis 3 ans de traitement seront complétés en cas de chirurgie optimale.

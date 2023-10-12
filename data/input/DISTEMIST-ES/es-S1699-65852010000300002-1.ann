@@ -1,0 +1,12 @@
+T1	pathologie 147 184	pérdida del incisivo central superior
+T2	pathologie 247 272	quiste radicular residual
+T3	pathologie 447 453	quiste
+T4	pathologie 477 489	defecto óseo
+T5	pathologie 1384 1400	quiste radicular
+T6	pathologie 1601 1613	defecto óseo
+#1	SNOMED T1	37320007
+#2	SNOMED T2	89988002
+#3	SNOMED T5	89988002
+#4	SNOMED T4	76069003
+#5	SNOMED T6	76069003
+#6	SNOMED T3	441457006

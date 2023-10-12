@@ -1,0 +1,8 @@
+T1	pathologie 62 154	lesiones cutáneas descamativas en cuero cabelludo y exudativas en pliegues y región perianal
+T2	pathologie 218 221	HCL
+T3	pathologie 368 407	gingivitis localizada a nivel del 83,84
+T4	pathologie 1426 1475	histiocitosis de células de Langerhans multifocal
+#1	SNOMED T1	419735006
+#2	SNOMED T2	65399007
+#3	SNOMED T3	714485009
+#4	SNOMED T4	128811003

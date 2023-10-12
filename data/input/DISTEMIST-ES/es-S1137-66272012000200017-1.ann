@@ -1,0 +1,8 @@
+T1	pathologie 298 363	estenosis de unos 3 cm de longitud en el tercio medio del esófago
+T2	pathologie 1403 1411	disfagia
+T3	pathologie 1426 1449	reflujo gastroesofágico
+T4	pathologie 1574 1593	leiomioma esofágico
+#1	SNOMED T4	276805005
+#2	SNOMED T1	63305008
+#3	SNOMED T3	235595009
+#4	SNOMED T2	288939007

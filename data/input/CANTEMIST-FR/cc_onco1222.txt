@@ -1,0 +1,21 @@
+Anamnèse
+Un homme de 68 ans avec des antécédents personnels de dyslipidémie et fumeur de 20 cigarettes/jour, suivi par le service d'urologie depuis avril 2010 pour rétention urinaire. En mars 2011, il a commencé à souffrir d'hématurie et a subi une échographie et une TUR, qui ont révélé une tumeur occupant toute la vessie droite. La tomodensitométrie thoraco-abdominale a montré deux adénopathies de 3 cm de diamètre dans la chaîne iliaque externe gauche et dans la chaîne iliaque commune ipsilatérale, ainsi qu'un conglomérat adénopathique rétropéritonéal de 4 x 4 cm de diamètre. En juin 2012, le patient a subi une cystoprostatectomie et un Bricker, dont la pathologie a révélé un carcinome urothélial solide à différenciation malpighienne infiltrant plus de 50 % de la paroi musculaire, sans affecter la graisse périvésicale. Les ganglions lymphatiques n'ont pas pu être retirés car ils touchaient les vaisseaux iliaques (pT4N2M1). La patiente a été adressée à notre centre en août 2012, où un traitement palliatif a été débuté avec du cisplatine 70 mg/m2 jour 1 et de la gemcitabine 1 000 mg/m2 jours 1 et 8 tous les 21 jours. Après deux cycles de chimiothérapie, la patiente s'est présentée aux urgences avec un œdème des membres inférieurs et une cyanose des phalanges distales des doigts des deux mains, avec une douleur intense et une dysesthésie, et a été admise pour un examen plus approfondi.
+
+Examen physique
+TA 157/91 mmHg, FC 98 bpm, SatO2 96%, afébrile. ECOG 1, conscient et orienté. Coloration et hydratation adéquates des muqueuses. Cyanose importante au niveau des phalanges distales des doigts des deux mains. Auscultation cardiorespiratoire sans altération. Abdomen : mou, dépressible, non douloureux à la palpation. Pas d'organomégalie.
+Urétérostomie perméable. Membres inférieurs : léger œdème, pas de signes inflammatoires aigus. Doigts teintés de cyanose.
+
+Tests complémentaires
+- Capillaroscopie : capillaires fourchus. Rare.
+- Électrocardiogramme : rythme de 90 battements par minute, ondes P présentes dans toutes les dérivations, suivies d'un complexe QRS étroit. Pas d'anomalie de repolarisation.
+- Examens sanguins généraux : en biochimie, créatinine 1,3 mg/dl, lactate déshydrogénase 547,2 UI/l et protéine C-réactive 63,89 mg/l. L'hémoglobine 11 g/dl est notée dans la numération de l'hémoglobine. Vitesse de sédimentation des érythrocytes 73 mm/h. Coagulation sans altération.
+- Test d'auto-immunité : anticorps anticardiolipine négatifs, anticorps antinucléaires négatifs. Valeurs des immunoglobulines et du complément dans les limites de la normale. Test de cryoglobuline négatif.
+
+Diagnostic
+Toxicité vasculaire de grade IV consistant en une maladie de Raynaud avec cyanose distale, probablement secondaire au traitement par gemcitabine.
+
+Traitement
+Lors de l'admission à l'hôpital, un traitement par prostaglandines intraveineuses (alprostadil 120 mcg/12 h) et vasodilatateurs oraux (diltiazem 120 mg/24 h) est mis en place, ainsi qu'une analgésie de troisième niveau.
+
+Progrès
+Après l'administration du traitement, une réponse favorable a été obtenue et l'amputation d'un doigt a été évitée. Un nouveau scanner abdominal a été réalisé, qui a montré la stabilité de la maladie oncologique à ce moment-là. Malgré la stabilisation de la maladie néoplasique, compte tenu du risque élevé d'aggravation du phénomène de Raynaud, il a été décidé, avec le patient, de ne pas reprendre le traitement par chimiothérapie à ce moment-là et de poursuivre les contrôles réguliers. Le patient a été renvoyé chez lui avec un traitement vasodilatateur oral. Il a été réadmis un mois plus tard pour un cas de septicémie d'origine urinaire qui n'a pas répondu au traitement antibiotique intraveineux administré, provoquant son décès.

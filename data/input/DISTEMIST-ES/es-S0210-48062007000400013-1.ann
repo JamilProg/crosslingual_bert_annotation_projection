@@ -1,0 +1,12 @@
+T1	pathologie 37 78	carcinoma papilar urotelial de alto grado
+T2	pathologie 666 679	conjuntivitis
+T3	pathologie 740 745	aftas
+T4	pathologie 755 783	lesiones orales ni genitales
+T5	pathologie 1047 1056	hepatitis
+T6	pathologie 1505 1552	poliartritis secundaria a instilaciones con BCG
+#1	SNOMED T1	118287003
+#2	SNOMED T6	116431000119103+42284007
+#3	SNOMED T2	9826008
+#4	SNOMED T3	429040005
+#5	SNOMED T4	1071000119107+724386005
+#6	SNOMED T5	128241005

@@ -1,0 +1,40 @@
+Anamnèse
+
+Homme de 73 ans ayant des antécédents de cancer du poumon traité par chirurgie il y a 20 ans. Il n'avait pas d'autres antécédents intéressants.
+Une coloscopie a été réalisée et une masse a été trouvée dans le sigma qui occupait 100% de la circonférence, et une endoprothèse a été mise en place. Quelques jours plus tard, elle a présenté des vomissements fécaloïdes et a été admise aux urgences, nécessitant une admission urgente et une intervention chirurgicale en raison d'une perforation intestinale au niveau de l'endoprothèse. L'intervention chirurgicale a également révélé une autre masse dans le côlon transverse, suggérant une tumeur synchrone.
+Les résultats de l'anatomie pathologique étaient les suivants :
+"Masse du sigmoïde : adénocarcinome entéroïde bien différencié avec 10% de composante mucosécrétoire. pT3N0.
+"Masse du côlon transverse : adénocarcinome entéroïde bien différencié. Infiltre toute la paroi en perforant la séreuse viscérale et envahit la paroi gastrique (pT4). Métastases dans 2/18 ganglions et implants dans la séreuse (pN1c).
+Aucun signe de maladie métastatique à distance.
+Après l'opération, il a été adressé au service d'oncologie et il a été décidé de commencer une chimiothérapie adjuvante avec XELOX (capécitabine + oxaliplatine).
+Il a présenté une bonne tolérance au traitement, avec seulement des symptômes de neurotoxicité (paresthésie dans les mains et les pieds 3-4 jours après la perfusion). Un mois après le début de la chimiothérapie, il a commencé à présenter des pertes de mémoire et des oublis fréquents, alors qu'il était auparavant asymptomatique et sans antécédents de troubles cognitifs.
+Au cours des semaines suivantes, l'évolution a été torpide, avec une détérioration croissante, une plus grande désorientation avec une sensation de vertige et d'instabilité, ainsi que des chutes en marchant. Au cycle de chimiothérapie suivant, il s'est retrouvé en fauteuil roulant, il a été décidé d'interrompre le traitement et il a été admis pour un examen plus approfondi.
+
+Examen physique
+"ECOG 2, patient cachectique. État général normal. Stabilité hémodynamique.
+"Neurologique : Glasgow 15/15. Partiellement orienté dans le temps, l'espace et la personne. Légère dysarthrie.
+"Pas de paralysie faciale, reste des nerfs crâniens préservé. Déficits sensori-moteurs et campimétriques gauches.
+"Force et sensibilité sans altération dans les 4 membres. Pas de dysmétrie ni de dysdiadochokinésie. Autonomie en position debout. Démarche un peu instable. Romberg négatif. Réflexes ostéotendineux normaux.
+"Auscultation cardiaque : tonalités cardiaques rythmiques sans souffle audible.
+"Auscultation respiratoire : murmure vésiculaire conservé avec crépitations isolées aux bases.
+"Abdomen : mou, dépressible, non douloureux à la palpation. Pas de signes de défense ou de péritonisme.
+"MMII : œdème périmalléolaire de la cheville droite.
+
+Tests complémentaires
+"Examens de laboratoire : biochimie avec des paramètres dans la fourchette normale. Pas d'altérations ioniques. L'hémogramme montre une opacité plaquettaire.
+"TDM thorax-abdomen-pelvis : pas de résultats significatifs ou de signes de récurrence/dissémination de la tumeur au scanner.
+IRM crânienne
+"Dilatation du système ventriculaire et de l'espace sous-arachnoïdien suggérant une atrophie.
+"Quelques petites lésions hyperintenses dans les séquences pT2 qui ne prennent pas le contraste dans la substance blanche sous-corticale d'apparence non spécifique, bien que suggérant une origine vasculaire.
+"Pas de masses, d'hémorragies ou d'infarctus récents.
+
+Diagnostic
+Le patient a été examiné par le service de neurologie, qui a procédé à une nouvelle étude analytique dont les résultats se sont révélés normaux pour tous les paramètres. Après avoir exclu toute atteinte tumorale ou ischémique par des examens d'imagerie, et compte tenu de la relation étroite entre le début du traitement et l'apparition des symptômes, ils ont suggéré que les troubles cognitifs subaigus étaient probablement secondaires à la toxicité de la chimiothérapie : leucoencéphalopathie réversible due au 5-fluorouracile.
+
+Traitement
+La chimiothérapie (capécitabine + oxaliplatine) est interrompue, après un total de 5 cycles. Un traitement de l'agitation est ajouté avec 25 mg de quétiapine et 100 mg de trazodone.
+
+Évolution
+Lors de l'admission, l'évolution du patient était stable, avec une détérioration cognitive persistante et quelques épisodes d'agitation nocturne qui ont été contrôlés par le traitement. Il a besoin d'aide pour toutes les activités de base de la vie quotidienne et ne peut vivre qu'au lit, bien qu'il soit capable de se déplacer avec de l'aide.
+Dans les semaines qui suivent sa sortie, elle montre une amélioration clinique progressive avec une orientation dans les trois sphères, moins d'oublis et une plus grande indépendance. La dysarthrie et les épisodes de confusion ont disparu.
+Elle continue d'être suivie en oncologie et en neurologie.

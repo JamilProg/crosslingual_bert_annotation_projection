@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 70 ans, avec des antécédents de dépression, d'hypertension et d'appendicectomie. Elle suit actuellement un traitement à base de venlafaxine, de losartan/hydrochlorothiazide et de manidipine. Ses antécédents familiaux de cancer comprennent un père décédé d'une néoplasie du côlon.
+Elle a été opérée en 1989 d'un mélanome choroïdien par énucléation. En juillet 2011, elle a présenté une récidive métastatique au foie, et la métastase de 4 cm a été réséquée, avec confirmation anatomopathologique d'une infiltration massive des marges. Il a ensuite reçu 8 cycles de dacarbazine à une dose de 850 mg/m2 tous les 21 jours avec une bonne tolérance, se terminant en mars 2012.
+Il a continué à subir des contrôles périodiques dans notre service, sans signe de progression tumorale jusqu'en décembre 2015, date à laquelle la tomodensitométrie a montré une lésion occupant l'espace (LOE) de 2,2 cm dans le segment II, qui avait augmenté de taille, et une autre nouvelle LOE dans le segment VIII, mesurant 1,2 cm, compatible avec une métastase.
+
+Examen physique
+"Le patient était en bon état général, ECOG 0.
+"Aucun résultat pertinent à l'examen.
+
+Tests complémentaires
+Une étude BRAF a été demandée, avec un résultat non muté.
+
+Diagnostic
+Progression tumorale du mélanome uvéal.
+
+Le traitement
+Dans cette situation, un patient en bon état général, ECOG-0, diagnostiqué avec un mélanome avancé avec atteinte hépatique, de type BRAF sauvage, il a été décidé de proposer un traitement par immunothérapie. Le traitement chirurgical n'a pas été envisagé car il avait déjà été tenté auparavant, laissant des résidus tumoraux. Compte tenu du fait que les résultats d'efficacité, tant en termes de réponses que de survie, sont supérieurs avec un anticorps anti-PD-1 qu'avec un anticorps anti-CTLA-4, l'utilisation du nivolumab, approuvé par l'Agence européenne des médicaments (EMA) pour cette indication, à une dose de 3 mg/kg toutes les 2 semaines par voie intraveineuse, a été demandée.
+
+Évolution
+La patiente a commencé un traitement par nivolumab en janvier 2016, avec une première réévaluation par tomodensitométrie après 4 cycles, qui a montré une stabilisation de la maladie. Actuellement, elle continue à avoir une maladie stabilisée, la dernière réévaluation ayant eu lieu en avril 2017 et elle a reçu un total de 39 cycles, le dernier ayant eu lieu le 22 juin 2017.
+En tant que toxicité secondaire au traitement, elle a eu un épisode d'herpès simplex après le deuxième cycle et un épisode de diarrhée de grade 2 après le troisième cycle qui a nécessité une admission à l'hôpital. Le 23e cycle a été retardé jusqu'à la résolution par un traitement topique à la fluticasone d'une éruption cutanée sur la paroi thoracique antérieure. Lors des visites répétées, le patient a manifesté une asthénie de grade 1. Le profil des hormones thyroïdiennes, ainsi que l'amylase et la lipase, sont restés dans les valeurs normales tout au long du traitement.

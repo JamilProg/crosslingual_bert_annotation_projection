@@ -1,0 +1,19 @@
+Anamnèse
+Patiente de 51 ans qui, en octobre 2013, était une ex-fumeuse de 20 paquets-années, sans autre antécédent d'intérêt ni antécédent familial de cancer. La patiente s'est rendue aux urgences en octobre 2013 pour une crise d'épilepsie. Un scanner et une IRM du cerveau ont révélé une lésion frontale gauche unique de 12 mm avec un œdème vasogénique adjacent, et elle a été admise en neurochirurgie où l'étude a été complétée par un scanner thoraco-abdomino-pelvien (TAP CT), qui a révélé une importante masse dans le lobe supérieur droit (LSD) mesurant 70 x 59,6 mm de diamètre. Au vu de ces résultats, le patient a été transféré en oncologie médicale.
+
+Examen physique
+L'examen neurologique effectué dans le service d'oncologie a révélé une parésie du bras droit et une incoordination motrice, sans autre crise.
+
+Examens complémentaires
+Une biopsie de la lésion de LSD a été réalisée, avec confirmation histopathologique d'un adénocarcinome du poumon.
+
+
+Diagnostic
+Il s'agit donc d'un cas d'adénocarcinome pulmonaire (T2BN0M1b E-IVa de la septième édition de l'AJCC) EGFR, ALK négatif avec des métastases cérébrales, une seule frontale gauche.
+
+Traitement
+Une radiothérapie cérébrale stéréotaxique à visée curative et une chimiothérapie-radiothérapie pulmonaire concomitante à base de cisplatine-vinorelbine (CDDP/VNR) ont été effectuées. Le patient a reçu 6 cycles de traitement avec une réponse partielle (RP) et une bonne tolérance au traitement.
+
+Evolution
+En mai 2014, une progression de la maladie cérébrale a été observée avec une augmentation du volume de la lésion frontale gauche connue, qui a atteint 2 cm, avec l'apparition de 2 nouvelles lésions : frontale droite et pariétale gauche. Dans l'abdomen, un nouveau conglomérat adénopathique rétropéritonéal est apparu. Le PET-CT a également confirmé l'existence d'une nouvelle masse rétropéritonéale hypermétabolique de grande taille. Une biopsie a été réalisée par échoendoscopie et les résultats de l'anatomie pathologique ont confirmé la présence de métastases d'un adénocarcinome pulmonaire EGFR et ALK négatif. Le traitement de première intention de la maladie métastatique a commencé par carboplatine-paclitaxel-bevacizumab, 4 cycles avec une réponse partielle au traitement, complétant avec le bevacizumab d'entretien jusqu'à la fin de 14 cycles en juin 2015. Il souffre d'une thrombopénie de grade I secondaire au bevacizumab. Une RT holocrânienne a également été réalisée.
+Il est actuellement en attente d'une réévaluation.

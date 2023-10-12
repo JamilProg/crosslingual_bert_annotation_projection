@@ -1,0 +1,24 @@
+T1	pathologie 188 192	PLGA
+T2	pathologie 236 268	adenopatía a nivel submandibular
+T3	pathologie 372 427	patología no catalogada en la región de cabeza y cuello
+T4	pathologie 537 573	lesión a nivel de fosa nasal derecha
+T5	pathologie 594 596	Mx
+T6	pathologie 639 663	adenopatía submandibular
+T7	pathologie 688 692	PLGA
+T8	pathologie 862 867	tumor
+T9	pathologie 1198 1202	PLGA
+T10	pathologie 1208 1280	invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha
+T11	pathologie 1314 1338	adenopatías metastásicas
+T12	pathologie 1594 1610	restos tumorales
+#1	SNOMED T9	128702009
+#2	SNOMED T10	254935002
+#3	SNOMED T4	232340005
+#4	SNOMED T5	14799000
+#5	SNOMED T1	128702009
+#6	SNOMED T11	94392001
+#7	SNOMED T12	300848003
+#8	SNOMED T2	127084003
+#9	SNOMED T7	128702009
+#10	SNOMED T8	55342001
+#11	SNOMED T6	127085002
+#12	SNOMED T3	274751001

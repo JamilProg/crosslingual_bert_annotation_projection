@@ -1,0 +1,26 @@
+Anamnèse
+
+HISTOIRE PERSONNELLE
+Un homme de 30 ans originaire de Colombie, sans habitudes toxiques, avec des antécédents d'hépatite dans l'enfance et deux accidents de moto.
+Antécédents familiaux : mère décédée d'un CCR à l'âge de 55 ans, tante maternelle diagnostiquée d'un CCR à l'âge de 45 ans avec un petit-fils diagnostiqué d'un CCR à l'âge de 22 ans, tante maternelle diagnostiquée d'un CCR à l'âge de 56 ans, tante maternelle décédée d'un cancer de l'endomètre à l'âge de 41 ans, tante maternelle décédée d'un CCR à l'âge de 32 ans avec un fils atteint d'un lymphome médiastinal à l'âge de 30 ans, oncle maternel décédé d'un CCR à l'âge de 45 ans, et son fils a probablement eu un cancer de l'estomac à l'âge de 29 ans. La grand-mère paternelle est décédée d'un cancer de l'endomètre à 59 ans, le cousin paternel d'un cancer du cerveau à 12 ans. Père, une sœur et deux neveux en bonne santé.
+
+Examen physique
+ECOG 0, sans signe distinctif.
+
+Tests complémentaires
+L'étude a été initiée en mars 2016 à la suite d'un dépistage du CCR demandé par son médecin traitant. Une néoformation couvrant 40 % de la circonférence a été découverte à 60 cm de la marge anale.
+L'anatomie pathologique (AP) était compatible avec un adénocarcinome infiltrant modérément différencié avec des zones colloïdes (mucineuses).
+Un examen complémentaire a été effectué avec des tests de laboratoire et des marqueurs tumoraux normaux, et un scanner du corps entier a montré un épaississement de 2 cm dans le côlon transverse et de petites adénopathies locorégionales.
+
+Diagnostic
+Le diagnostic d'adénocarcinome mucineux du côlon ayant été posé chez un homme de 30 ans présentant une agrégation familiale significative, le patient a été adressé en priorité à l'unité de cancérologie familiale. L'immunohistochimie (IHC) des protéines MMR a d'abord été réalisée et a montré une perte d'expression de MHL1 et PMS2, avec une expression conservée de MSH2 et MSH6. La mutation BRAF par PCR en temps réel est négative.
+À ce stade, étant donné la nécessité d'un résultat urgent du diagnostic de SL en raison de l'intervention chirurgicale et de la forte suspicion, le séquençage du gène MLH1 a été demandé, montrant une mutation MLH1 pathogène c.790+1>A. Parallèlement, les résultats de la méthylation du promoteur du gène MLH1 par PCR spécifique ont été reçus et se sont révélés positifs.
+
+Traitement
+Le 14 avril, il a été opéré et une colectomie subtotale a été pratiquée. L'AP était un adénocarcinome mucineux modérément différencié, avec une réponse lymphocytaire intratumorale légère-modérée et péritumorale marquée. Il n'y a pas de bourgeonnement tumoral, d'invasion lymphovasculaire ou périneurale. Les marges de la tumeur sont libres. Stade I, pT2N0 (0/87).
+Le 16 avril, il a été réopéré en raison d'une déhiscence de l'anastomose iléorectale, et une iléostomie a été pratiquée.
+
+Évolution
+Après sa sortie, le patient est adressé au service d'oncologie : il a perdu 12 kg lors de son admission en chirurgie et présente une asthénie à l'effort.
+L'absence d'indications pour un traitement adjuvant a été expliquée, et des examens futurs ont été programmés, y compris une gastroduodénoscopie, compte tenu des antécédents de cancer gastrique.
+Un conseil génétique pour les membres de la famille et un soutien psychologique ont également été fournis.

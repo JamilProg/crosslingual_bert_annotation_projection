@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 53 ans aux antécédents de cancer d'un carcinome canalaire du sein gauche il y a 11 ans (HERB-2 négatif, récepteurs hormonaux positifs) traité par tumorectomie et vide axillaire ipsilatéral, puis traitement adjuvant (chimiothérapie, radiothérapie et hormonothérapie).
+Depuis, elle présente un lymphœdème chronique du membre supérieur gauche, conséquence du traitement.
+Début 2016, elle a consulté en dermatologie pour avoir présenté des lésions indolores, non prurigineuses, en plaques rougeâtres sur le bras gauche sur un lymphœdème présent depuis un mois.
+
+Examen physique
+Lésions papulonodulaires, érythémateuses, infiltrées sur un lymphœdème chronique du membre supérieur gauche. Pas de ganglions lymphatiques palpables ni de lésions à un autre niveau.
+
+Examens complémentaires
+Une tomodensitométrie cervicothoracoabdominale a été réalisée sans aucun signe radiologique d'intérêt.
+Parallèlement, une mammographie du sein droit a été réalisée, sans modification mammographique significative ni image de suspicion de malignité à l'heure actuelle. Bi-rads mammaires 2. Densité mammographique ACR-2.
+L'IRM du membre supérieur gauche n'a pas pu être réalisée en raison d'une claustrophobie.
+La lésion a été biopsiée et une néoformation et une angiomatose de type solide ont été observées dans le derme. Les zones angiomateuses sont composées d'une prolifération de petits espaces vasculaires irréguliers avec des endothéliums proéminents. Les cellules endothéliales et celles qui constituent les zones solides présentent des atypies nucléaires évidentes et un indice Ki-67 élevé (40-50 %). L'épiderme ne présente aucune lésion pertinente. L'immunophénotype est le suivant : vimentine (+), CD45 (-), CKAE1/AE3 (+ focal faible) ; CD31 (+), facteur VIII (+), D2-40 (+), CD34 (-), S-100 (-) et HHV8 (-).
+
+Diagnostic
+Angiosarcome peu différencié.
+
+Traitement
+La patiente s'est vu proposer la possibilité d'une amputation, qu'elle a refusée. Une résection élargie et une reconstruction par lambeau libre vascularisé de l'épigastrique inférieur (DIEP) sont prévues, après une échographie des tissus mous pour délimiter la lésion.
+La biopsie peropératoire a montré des marges de résection supéro-internes et supéro-externes plus proches des lésions, exemptes de néoplasie. Au microscope, la peau présente une prolifération néoplasique multifocale infiltrant le derme et le tissu cellulaire sous-cutané, constituée de zones de canaux vasculaires tapissés de cellules atypiques, entremêlées d'autres cellules plus diffuses et à prédominance épithélioïde, bien qu'également fusiformes. Dans la zone inférieure, on observe une lésion initiale avec une prolifération de cellules fusiformes et des canaux vasculaires qui n'infiltrent que le derme. On observe une composante lymphocytaire abondante. En immunohistochimie, les cellules expriment focalement et faiblement CKAE1/AE3, et intensément et de façon diffuse le CD31 et le facteur VIII ; une positivité plus ponctuelle pour le CD34 et le D240. Les autres marqueurs étudiés sont négatifs (actine, CD45, HHV8). L'index prolifératif (ki67) est de 60-70 %. Aucune nécrose n'a été identifiée. Le nombre de mitoses est de 3 par EGC.
+La patiente a été orientée vers une radiothérapie adjuvante. La patiente a présenté une nouvelle lésion rougeâtre sur l'avant-bras. Elle a été examinée par les services de traumatologie et de dermatologie et une biopsie a été pratiquée, qui s'est révélée à nouveau positive pour un angiosarcome. Compte tenu de la claustrophobie de la patiente, une échographie du membre supérieur gauche a été réalisée, montrant au moins 8 lésions nodulaires sur l'avant-bras.
+Après discussion au sein du comité des sarcomes, il a été décidé de demander une nouvelle étude d'extension et d'orienter le patient vers un traitement par chimiothérapie.
+Le scanner d'extension cervicothoracique-abdominal-pelvien a montré une stabilité radiologique.
+Un traitement par ifosfamide-adriamycine et deux cycles de doxorubicine ont été instaurés.
+
+Evolution
+Deux mois après le début de la chimiothérapie, un bilan d'extension a été réalisé avec un scanner thoraco-abdomino-pelvien montrant un nodule hypodense d'environ 18 mm en position rétrocrurale droite.
+Un PET scan de contrôle a été réalisé et les images obtenues ont montré une image nodulaire hypermétabolique dans le tissu sous-cutané de la paroi abdominale de la fosse iliaque gauche (SUV maximum 3,3, environ 12 mm dans l'axe transversal) correspondant à l'implantation de la tumeur. On observe également une augmentation diffuse du métabolisme dans toutes les structures osseuses et une augmentation diffuse dans la rate (SUVmax 2,3). Par rapport au pool hépatique de référence (SUVmax 1,8), cela suggère une origine réactive due au traitement QT. Sur le membre supérieur gauche, plusieurs foyers hypermétaboliques cutanés ont été observés, principalement dans la région de l'avant-bras (SUV maximum 10,6) en relation avec l'infiltration.
+Compte tenu de la progression de la maladie, il a été décidé de changer de ligne de chimiothérapie et de commencer par gemcitabine-docetaxel.
+En attente de réévaluation.

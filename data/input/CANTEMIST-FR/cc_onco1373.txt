@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 31 ans, avec des antécédents familiaux : un carcinome du colon a été diagnostiqué chez son père à l'âge de 70 ans et un carcinome ovarien a été diagnostiqué chez sa mère à l'âge de 58 ans. Un mois avant sa première visite au service d'oncologie, la patiente a commencé à ressentir une asthénie et une dyspnée à effort moyen. Quelques jours plus tard, elle a commencé à ressentir une diplopie binoculaire, raison pour laquelle elle s'est rendue au service des urgences, où une radiographie du thorax et un scanner du crâne ont été effectués avec des résultats normaux. Deux jours plus tard, elle a consulté à nouveau en raison d'une détérioration de son état général, d'une asthénie intense, d'une dyspnée progressive et d'un ptosis palpébral, ce qui a permis de poser le diagnostic de myasthénie grave et de l'adresser à notre hôpital pour admission.
+Un traitement à base de prostigmine, d'atropine et de phlébogamma a été mis en place, avec une amélioration limitée, et elle a été admise quelques jours plus tard dans l'unité de soins intensifs en raison d'une désaturation qui a nécessité une trachéotomie percutanée.
+
+Examen physique
+Examen neurologique : ptosis palpébral prédominant à droite, parésie oculomotrice complexe bilatérale avec diplopie dans toutes les directions du regard, fatigabilité généralisée. Réflexes (ROT) normaux.
+
+Examens complémentaires
+Tomodensitométrie (TDM) du thorax : masse médiastinale antérieure de plus de 12 cm, avec des foyers de calcification et de nécrose à l'intérieur, envahissant le médiastin, entourant et englobant les troncs supra-aortiques, sténosant la veine cave supérieure sans l'obstruer et envahissant également le péricarde avec un épanchement modéré associé. Multiples adénopathies hilaires et médiastinales bilatérales. Infiltrat interstitiel avec des caractéristiques suggérant la possibilité d'une lymphangite carcinomateuse dans le segment apical postérieur du LSI.
+Ponction à l'aiguille fine : prolifération de cellules atypiques suggérant, mais ne concluant pas à un processus lymphoprolifératif atypique.
+Biopsie à l'aiguille de carotte (CNB) : prolifération cellulaire compatible avec un lymphome agressif avec un indice prolifératif d'environ 100 %, compatible avec un LNH lymphoblastique T.
+Ponction lombaire : négative.
+Sérologie : AntiHBc et antiHBs +. Ag HBs négatif.
+
+Diagnostic
+Lymphome lymphoblastique T non hodgkinien.
+
+Traitement
+HyperCVAD/MTX-ARA-C (cyclophosphamide, vincristine, doxorubicine, dexaméthasone, méthotrexate, cytarabine) avec ARA-C/méthotrexate intrathécal.
+
+Évolution
+La patiente a présenté une amélioration progressive du ptosis palpébral et de la diplopie avec des épisodes répétés de neutropénie et de thrombopénie post-chimiothérapie, nécessitant plusieurs hospitalisations avec un épisode de choc septique et d'insuffisance respiratoire.
+Après le quatrième cycle, on a constaté une réduction très significative de la masse médiastinale et la disparition des adénopathies hilaires.
+Malgré la mise en place d'un traitement dirigé contre la myasthénie, il semble que le traitement antinéoplasique ait été directement impliqué dans la résolution complète des symptômes neurologiques, avec une excellente réponse du lymphome et de la myasthénie avec une chimiothérapie concomitante.

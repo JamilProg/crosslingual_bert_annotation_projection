@@ -1,0 +1,50 @@
+Anamnèse
+Patient présentant ses antécédents personnels :
+- Profession : chimiste.
+- Ménarche : 13 ans. FM : 4/28. FO : 0. Ménopause : 54 ans. Pas de traitement hormonal.
+- Poliomyélite : trois interventions suite à cette maladie.
+- NAMC.
+- Cancer du col de l'utérus stade Ib en décembre 2012 traité par chirurgie (dans un autre centre) puis chimiothérapie : taxol + cisplatine et radiothérapie, qui s'est terminée en mai 2013, avec des contrôles sans signe de la maladie.
+- Depuis août 2013, il présente une tumeur dans le dos dont la taille augmente progressivement. Un diagnostic de lipome a été posé et le patient a été adressé au service de chirurgie.
+Une biopsie-excision a été réalisée le 2/12/2013 ; les résultats de l'anatomie pathologique étaient les suivants : carcinome peu différencié avec expression de certains marqueurs neuroendocriniens (CD56, P6P5, et focalement à la synaptophysine et à la chromogranine).
+Après l'intervention, la lésion s'est à nouveau développée. Le patient a été adressé au service d'oncologie médicale pour évaluation.
+
+Examen physique
+Tumeur de 5 x 5 cm sur le dos, bien délimitée, dure, de couleur violacée, n'adhérant pas aux plans profonds.
+Le reste de l'examen ne révèle rien d'autre.
+
+Examens complémentaires
+- Hémogramme, biochimie avec profil hépatique, catécholamines et métabolites dans les limites de la normale.
+- PET-CT SCAN :
+- Formation hypermétabolique située dans la région scapulaire gauche, cutanée-sous-cutanée, s'enfonçant dans les tissus mous jusqu'au plan osseux, bien que sans invasion claire de celui-ci, et présentant un taux de captation élevé (SUVmax = 13,9). Elle est compatible avec une activité tumorale hautement proliférative ou de haut grade histologique (probablement indifférenciée).
+- Adénopathie axillaire gauche avec une captation légère mais clairement pathologique qui pourrait être une métastase de la lésion scapulaire.
+- Nodule hypermétabolique situé dans la fosse rénale gauche suggérant une métastase.
+- Petit nodule hypermétabolique dans le hile rénal gauche qui pourrait être une métastase ganglionnaire de la lésion pararénale.
+- Dans la colonne vertébrale, on observe une légère prise irrégulière, mais pas de focalisation claire pouvant être classée comme métastase.
+- Les fibromes mammaires bilatéraux à rétromyélinisation grossière sans captation pathologique par TEP-FDG ne sont pas suspects, mais doivent être soigneusement évalués par d'autres moyens.
+- Aucune lésion hypermétabolique hépatique ou pulmonaire suspecte d'implication métastatique n'est actuellement appréciée.
+Conclusion : métastases probables du cancer indifférencié pelvien réséqué en première option, bien que nous ne puissions pas exclure complètement la possibilité qu'il puisse y avoir un autre primitif entre l'une des localisations décrites.
+- Une scintigraphie au 111In-Pentetreotide (Octreoscan) a été réalisée :
+- Un foyer d'hyperabsorption du traceur situé sur une lésion cutanée-sous-cutanée située dans les tissus mous de la région scapulaire gauche. Cela suggère une néoplasie avec une expression positive des récepteurs de la somatostatine.
+- Les images SPECT-CT montrent la lésion nodulaire déjà observée dans le scanner PET/CT dans la fosse rénale gauche, qui ne présente pas d'expression des récepteurs de la somatostatine.
+- Le reste du corps n'a révélé aucun signe de maladie néoplasique.
+Conclusion : tumeur cutanée avec expression positive des récepteurs de la somatostatine.
+- Une biopsie à l'aiguille guidée par échographie de l'aisselle gauche a été réalisée et le résultat anatomopathologique a été le suivant : fragment minime correspondant au parenchyme lymphoïde des ganglions lymphatiques sans signe d'infiltration néoplasique aux limites de l'échantillon.
+- Un scanner de l'abdomen et du bassin a été réalisé sans et avec contraste intraveineux en phase portale et en phase tardive.
+Une formation multinodulaire mesurant 28 x 20 mm a été observée dans la région rétropéritonéale gauche, au-dessus et en arrière du rein gauche, bien qu'indépendante de celui-ci et adjacente à la crura gauche. Elle présente un rehaussement nodulaire périphérique de caractéristiques malignes suggérant une métastase avec une nécrose centrale.
+Adénopathie de 10 mm adjacente à la veine rénale gauche. Ces deux lésions sont compatibles avec celles décrites dans le PET scan.
+De petits kystes hépatiques simples persistent dans le foie.
+Modifications post-chirurgicales après hystérectomie, sans autres observations dans le bassin.
+Scoliose marquée avec rotation des corps vertébraux.
+- Une biopsie de la cavité péritonéale guidée par tomodensitométrie et une biopsie à l'aiguille de la cavité péritonéale ont été effectuées, avec des résultats anatomopathologiques de : métastase d'un carcinome neuroendocrine. Son immunophénotype exprimait (p63 négatif, cd56, pgp9.5, chromogranine et synaptophysine positifs), Ki67 +++ 80%.
+L'étude a été complétée par une mammographie et une cytologie vaginale : aucun résultat pathologique.
+
+Diagnostic
+Compte tenu des résultats de l'étude d'extension et des biopsies réalisées à la fois sur la lésion cutanée du dos, les ganglions lymphatiques et la masse rétropéritonéale, il s'agit d'une tumeur neuroendocrine cutanée de stade IV.
+
+Traitement
+Le cas est présenté à la session d'oncologie médicale et un traitement par cisplatine + étoposide est décidé.
+
+Evolution
+La patiente a reçu 3 cycles de cisplatine-étoposide avec une toxicité gastro-intestinale due à des vomissements de grade 2 et des diarrhées de grade 1. Bonne tolérance clinique et amélioration considérable de la lésion cutanée.
+Réévaluation PET-CT scan : zone d'augmentation du métabolisme d'intensité modérée située dans la région scapulaire gauche, au niveau sous-cutané et cutané. Elle présente un SUVmax de 2,15. Par rapport à l'étude précédente (27/1/2014), la lésion décrite au niveau de l'omoplate gauche a significativement diminué en taille et en intensité de captation, et les lésions axillaires gauches et celles du hile gauche et de la fosse rénale ont disparu. L'étude suggère une réponse métabolique presque complète au traitement administré. Dans le reste de l'étude, aucune autre lésion hypermétabolique suggérant une atteinte tumorale macroscopique n'est évidente.

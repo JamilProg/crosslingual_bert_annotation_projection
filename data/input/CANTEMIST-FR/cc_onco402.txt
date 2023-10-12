@@ -1,0 +1,40 @@
+Anamnèse
+Le patient est un homme marié de 78 ans avec quatre enfants. Ses antécédents médicaux comprennent un diabète sucré de type II, qu'il contrôle par un régime alimentaire. Il a été opéré d'une hernie inguinale bilatérale en 2005. Il ne fume pas et ne boit pas. Il n'a pas d'antécédents de transfusions. Il n'a pas d'antécédents familiaux. Il ne prend pas de médicaments régulièrement.
+Suite à une gêne abdominale diffuse et un syndrome constitutionnel avec perte de poids (12-14 kg en 3-4 mois), avec hyporexie et asthénie depuis trois mois, il s'est présenté aux urgences adressé par son médecin traitant.
+
+Une échographie abdominale a été réalisée, montrant des lésions occupant de l'espace dans le parenchyme hépatique, avec une distribution bilobaire, compatible avec une métastase, et il a été décidé d'admettre le patient pour une étude plus approfondie. Une tomodensitométrie thoraco-abdominale a été réalisée, montrant, en plus des lésions hépatiques, une sténose de l'angle splénique du côlon. L'étude a été complétée par une coloscopie, au cours de laquelle une lésion végétative, sténosée et infranchissable a été visualisée à 40 cm de la marge anale, et une prothèse métallique a été placée à cet endroit. La lésion tumorale a été biopsiée, avec une histologie d'adénocarcinome bien différencié, avec des protéines d'instabilité des microsatellites normales, RAS/BRAF natif.
+Les marqueurs tumoraux étaient les suivants : Ca 19.9 4 740 U/ml (valeur normale [VN] 0-37), antigène carcinoembryonnaire (ACE) 9 375 ng/ml (VN 0-5).
+La patiente a été évaluée par le service d'oncologie médicale et a commencé un traitement systémique par XELOX (capécitabine 1 000 mg/m2/12 h jours 1-14, oxaliplatine 130 mg/m2 j1, tous les 21 jours). La tolérance au traitement est acceptable, avec une asthénie de grade 1 pendant les deux premiers jours, une diarrhée de grade 1 contrôlée avec du lopéramide, et une neurotoxicité de grade 1 dans les doigts.
+Après avoir reçu un total de 4 cycles de traitement, dans l'attente d'un nouveau scanner pour réévaluation, le patient se présente aux urgences car il signale une augmentation du périmètre abdominal, ainsi que des œdèmes des membres inférieurs, évoluant depuis 15 jours.
+
+Examen physique
+Lors de l'examen physique, on note l'augmentation du périmètre abdominal, la grisaille changeante compatible avec la présence d'ascite et la présence d'une tuméfaction ascitique. Elle présentait également un œdème avec fovéa au niveau des chevilles jusqu'à la racine des membres inférieurs.
+Il n'y avait pas de signe d'ingurgitation jugulaire, l'auscultation cardio-pulmonaire était normale, il n'y avait pas de circulation collatérale dans l'abdomen et il n'y avait pas de stigmates cutanés d'une maladie hépatique chronique.
+L'orientation clinique de l'ascite devant être étudiée, la patiente a été admise en oncologie médicale.
+
+Tests complémentaires
+Les tests de laboratoire ont révélé une hémoglobine de 13,3 g/dl, des plaquettes de 89.000 x 109/l (VN 150-200), une bilirubine totale de 2,3 mg/dl (VN 0,2-1,2), avec une bilirubine estérifiée de 0,9 mg/dl (VN 0-0,5), une aspartate transférase (AST) de 63 U/l (VN 5-34), une phosphatase alcaline (ALP) de 176 U/l (VN 40-150), avec une ALANINE TRANSFERASE (ALT) et une gamma-glutamyl-transférase (GGT) normales.
+Une paracentèse diagnostique a été effectuée, avec une sortie de liquide clair, avec des protéines < 0,8 g/dl, de l'albumine < 0,4 g/dl, avec un gradient calculé sérum-albumine-ascitique (GASA) de 2, et 134/mm3 de leucocytes. Le liquide était compatible avec un transsudat, sans signe d'infection, et avec un GASA > 1,1, orientant le diagnostic différentiel vers des processus impliquant l'hypertension portale (PHT). Dans les jours qui ont suivi, divers tests ont été effectués, ce qui a permis de se rapprocher du diagnostic final :
+"Les sérologies des virus de l'hépatite B et de l'hépatite C se sont révélées négatives, ce qui a permis d'écarter l'hypothèse d'une maladie virale du foie. Un profil ferrique complet et une mesure de la céruloplasmine ont également été demandés ; ils se sont révélés normaux, excluant respectivement l'hémochromatose et la maladie de Wilson.
+
+Échographie Doppler hépatique : on a observé une perméabilité et un affinement des veines sus-hépatiques, avec une tendance à l'aplatissement de l'onde de flux, et une perméabilité de la veine porte avec un flux hépatopétal, avec une vitesse de flux vers la limite inférieure de la normalité, avec une splénomégalie de 15 cm, le tout compatible avec les signes indirects de la PHT.
+"Tomodensitométrie thoraco-abdominale, qui n'a pas non plus montré de signes de thrombose des veines sus-hépatiques, et qui a également montré une diminution significative de la taille des lésions hépatiques par rapport à la tomodensitométrie initiale.
+"Échocardiographie : la fraction d'éjection s'est révélée normale, sans signe d'insuffisance cardiaque, et les collecteurs veineux n'étaient pas dilatés.
+"Mesure des taux sanguins de TSH (thyrotropine) et de T4 (thyroxine) pour exclure une hypothyroïdie, qui étaient normaux.
+"Mesure des protéines urinaires, qui étaient normales, de sorte qu'il ne s'agissait pas non plus d'un syndrome néphrotique.
+"La cytologie du liquide ascitique s'est révélée négative pour les cellules malignes.
+"La culture du liquide ascitique était également négative.
+D'un point de vue oncologique, le patient présentait une diminution des lésions hépatiques et une diminution des marqueurs tumoraux : Ca 19,9 979 U/ml (contre 4 740 auparavant) et CEA 3 019 ng/ml (contre 9 375 auparavant).
+Par conséquent, avec une ascite d'apparition récente, des données de PHT, des résultats négatifs pour les principales causes de PHT et aucun antécédent de consommation d'alcool, une origine toxique de la chimiothérapie, en particulier de l'oxaliplatine, a été suspectée.
+Une biopsie du parenchyme hépatique non affecté par la tumeur a été réalisée, mettant en évidence la présence d'une dilatation sinusoïdale distribuée de façon diffuse. La technique de Masson a montré une fibrose réticulaire péricellulaire et la technique de la réticuline a montré la présence de quelques travées d'hépatocytes effondrés, avec une disproportion du noyau-cytoplasme qui contrastait avec des hépatocytes hypertrophiques situés à proximité, le tout compatible avec un SOS et un HNR.
+
+Diagnostic
+Après avoir exclu d'autres causes d'ascite, il a été conclu que la patiente avait présenté une décompensation œdémoascitique secondaire à la toxicité de l'oxaliplatine sous la forme d'un SOS et d'une HNR, avec le développement consécutif d'une PHT, d'une splénomégalie et d'une ascite.
+
+Traitement
+Une paracentèse évacuatrice de 8 litres a été réalisée, et parallèlement à l'étude diagnostique, un régime avec restriction hydrosodée de 1 litre par jour et un traitement diurétique par furosémide oral 40 mg/24 h et spironolactone oral 100 mg/24 h ont été prescrits.
+
+Évolution
+L'évolution au cours de l'hospitalisation a été favorable, avec une bonne évolution de l'ascite sous diurétiques oraux et restriction hydrique et saline. La patiente n'a pas eu besoin d'une nouvelle paracentèse d'évacuation et est sortie de l'hôpital après 9 jours d'hospitalisation.
+Compte tenu de la complication développée par l'oxaliplatine, et malgré la réponse tumorale des lésions hépatiques, le traitement par ce médicament a été suspendu, et la capécitabine a été maintenue.
+Il n'a pas eu besoin d'autres hospitalisations, ni d'autres paracentèses évacuatrices. Elle a reçu un total de 8 cycles depuis le début du traitement, avec une tolérance acceptable, et attend une réévaluation par tomodensitométrie.

@@ -1,0 +1,18 @@
+T1	pathologie 106 114	obesidad
+T2	pathologie 169 183	lesión medular
+T3	pathologie 189 206	accidente laboral
+T4	pathologie 227 283	fractura vertebral y paraplejia incompleta a nivel de L1
+T5	pathologie 285 292	Fumador
+T6	pathologie 334 355	hipertensión arterial
+T7	pathologie 426 446	hipertrigliceridemia
+T8	pathologie 1235 1270	complicaciones en el postoperatorio
+T9	pathologie 1569 1587	déficit vitamínico
+#1	SNOMED T1	414916001
+#2	SNOMED T2	146251000146109
+#3	SNOMED T4	721494003+290411000119106
+#4	SNOMED T6	38341003
+#5	SNOMED T9	85670002
+#6	SNOMED T7	302870006
+#7	SNOMED T3	65339005
+#8	SNOMED T5	77176002
+#9	SNOMED T8	385486001

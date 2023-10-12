@@ -1,0 +1,8 @@
+T1	pathologie 97 125	visión borrosa en ambos ojos
+T2	pathologie 183 197	hipotiroidismo
+T3	pathologie 1509 1529	cierre angular agudo
+T4	pathologie 2452 2552	miopización e hipertensión ocular por cierre angular agudo secundarios al tratamiento con topiramato
+#1	SNOMED T3	30041005
+#2	SNOMED T4	4210003
+#3	SNOMED T2	40930008
+#4	SNOMED T1	246636008

@@ -1,0 +1,18 @@
+T1	pathologie 80 90	varicocele
+T2	pathologie 688 698	varicocele
+T3	pathologie 1086 1102	metástasis óseas
+T4	pathologie 1571 1583	masa tumoral
+T5	pathologie 1717 1743	sarcoma fibromixoide renal
+T6	pathologie 2135 2182	recidiva local extensa, una masa en celda renal
+T7	pathologie 2385 2465	infiltraba bazo, la cola de páncreas, la curvatura mayor gástrica y el diafragma
+T8	pathologie 2764 2825	recidiva abdominal y retroperitoneal de sarcoma de alto grado
+T9	pathologie 2842 2854	fibrosarcoma
+#1	SNOMED T2	51070004
+#2	SNOMED T3	94222008
+#3	SNOMED T8	2424003
+#4	SNOMED T1	51070004
+#5	SNOMED T6	314967004
+#6	SNOMED T5	6250003+64033007
+#7	SNOMED T7	94603006+94459006+94606003+94272005
+#8	SNOMED T9	443250000
+#9	SNOMED T4	55342001

@@ -1,0 +1,33 @@
+Anamnèse
+Une femme de 61 ans dont les antécédents oncologiques ont commencé en août 1998, lorsqu'elle a consulté pour l'apparition d'une zone de rétraction dans le quadrant interne-externe (IQE) du sein gauche.
+
+À l'époque, il s'agissait d'une patiente préménopausée de 45 ans, sans antécédents pathologiques personnels ou familiaux dignes d'intérêt. Par la suite, au cours de sa maladie, deux des sœurs de la patiente, âgées de 48 et 50 ans, ont été diagnostiquées avec un cancer du sein, raison pour laquelle elle a été récemment orientée vers l'unité de conseil génétique (résultats en attente).
+
+Examen physique
+L'examen physique a révélé la présence d'une zone indurée mal définie englobant le quadrant supéro-externe (SEQ) et la CIM du sein gauche, avec une rétraction associée de ce dernier. L'examen axillaire a révélé une lymphadénopathie ipsilatérale.
+
+Examens complémentaires
+La mammographie et l'échographie ont montré la présence d'un nodule prolifératif d'un diamètre maximal de 1,6 cm, avec des microcalcifications associées englobant le CID et le CSC du sein gauche, classé BIRADS 4c. Le résultat de la biopsie à l'aiguille était un carcinome canalaire infiltrant (CDI).
+
+Diagnostic
+Une mastectomie et une lymphadénectomie ont été réalisées, avec le résultat suivant : IDC, Grade III, Ki-67:10%, taille : 1,2 cm, ER+++, PR++, HER2-. La lymphadénectomie a permis d'isoler 18 ganglions, dont 7 étaient positifs pour l'IDC (pT1cN2aM0, stade IIA).
+
+Traitement
+Après l'intervention chirurgicale, une chimiothérapie adjuvante de type CAF (cyclophosphamide, doxorubicine et 5-fluorouracile) a été administrée pendant six cycles. Par la suite, elle a reçu une radiothérapie et a commencé un traitement au tamoxifène, tout en entamant des contrôles de routine. Après cinq ans d'hormonothérapie, en janvier 2004, et après avoir confirmé l'existence d'une ménopause établie, il a été décidé de poursuivre le traitement adjuvant avec un inhibiteur non stéroïdien de l'aromatase (létrozole).
+
+Évolution
+En juillet 2007, alors qu'elle était sous traitement au létrozole, on a diagnostiqué chez la patiente une métastase osseuse unique au niveau du sacrum, confirmée par la scintigraphie osseuse, l'imagerie par résonance magnétique (IRM) et une biopsie ultérieure de la zone [anatomie pathologique (AP) : infiltration par un adénocarcinome (ADC), avec ER négatif et faible expression de RP].
+
+En raison de la localisation métastatique unique et de la faible expression des récepteurs hormonaux, la radiothérapie est administrée avec une intention radicale et un traitement ultérieur par capécitabine en monothérapie. Après quatre cycles, l'IRM montre une diminution de l'hyperintensité de la lésion. Compte tenu de la réponse partielle (RP) et de la bonne tolérance au traitement, la capécitabine a été maintenue.
+
+En décembre 2008, la patiente a présenté des douleurs lombosacrées. Une progression a été exclue, mais il a été décidé d'ajouter un bisphosphonate (acide zolédronique) au traitement, qui a été maintenu sur une base mensuelle jusqu'en février 2010, date à laquelle les administrations ont été espacées.
+
+En juin 2011, compte tenu de la stabilité de la maladie, et après 45 mois de traitement, il a été décidé avec le patient de procéder à un "repos thérapeutique" et à un suivi rigoureux.
+
+En mai 2013, après presque deux ans, une nouvelle scintigraphie osseuse a montré une nouvelle prise au niveau de la branche gauche de la mandibule, confirmée par la suite par la tomodensitométrie faciale. En raison d'un traitement antérieur prolongé à l'acide zolédronique, une biopsie de la lésion a été réalisée pour établir un diagnostic différentiel entre une métastase osseuse et une ostéonécrose de la mandibule comme effet indésirable des bisphosphonates. La PA était compatible avec une métastase ADC, RE+, RP++. Une TEP-TDM a été demandée afin d'optimiser les options thérapeutiques en fonction de la localisation unique ou multiple de la maladie. Les images ont montré une prise pathologique dans le ramus mandibulaire gauche, dans la vertèbre D8 et dans la diaphyse du fémur droit, tous compatibles avec une progression osseuse multiple. Étant donné que l'os est le seul organe touché et que la biopsie de la mandibule montre une expression plus intense des récepteurs hormonaux, un traitement à base de fulvestrant et d'acide zolédronique a été mis en place. Ce schéma a permis d'obtenir une réponse partielle (RP), avec une diminution de l'intensité de la captation de toutes les lésions osseuses.
+
+La patiente est restée sous traitement pendant 19 mois jusqu'en novembre 2014, date à laquelle une nouvelle progression osseuse a été observée lors de la TEP-TDM (augmentation de l'activité métabolique au niveau de la vertèbre D8). L'IRM qui a suivi a montré de multiples métastases vertébrales à D7, D8, D9 et L2. Il a donc été décidé de changer la ligne de traitement par exemestane et everolimus en décembre 2014, avec une bonne tolérance, à l'exception de l'apparition d'un rash de grade 1.
+
+En avril 2015, après la première réévaluation par PET-CT, il a présenté une RP avec une nette diminution de l'activité métabolique au niveau D8.
+
+Le patient est actuellement en cours de traitement en attendant des examens complémentaires.

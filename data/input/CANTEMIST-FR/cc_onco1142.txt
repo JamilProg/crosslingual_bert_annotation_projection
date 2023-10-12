@@ -1,0 +1,31 @@
+Anamnèse
+ANTÉCÉDENTS ET ANTÉCÉDENTS ONCOLOGIQUES
+Homme de 58 ans, hypertendu bien contrôlé, porteur du virus de l'hépatite C et antécédents récents de cardiopathie ischémique (IAM sans sus-décalage du segment ST). On lui a diagnostiqué un adénocarcinome gastrique HER2-positif (Herceptest : +++/+++) de stade IV en raison de la présence d'une atteinte des ganglions lymphatiques supra- et infradiaphragmatiques. Après le diagnostic, une radiothérapie (RT) a été administrée avec une intention hémostatique (37,5 Gy) en raison d'une hémorragie gastro-intestinale supérieure d'origine tumorale. Après la fin de la RT, il a été évalué dans une clinique d'oncologie médicale et a commencé un traitement de chimiothérapie (QT) avec du cisplatine 80 mg/m2 i.v. le premier jour, de la capécitabine 1 000 mg/m2 par voie orale les jours 1 à 14 et du trastuzumab (dose de charge : 8 mg/kg ; doses suivantes : 6 mg/kg) tous les 21 jours.
+
+ANAMNÉSIE
+La patiente s'est présentée aux urgences 4 jours après le premier cycle de QT en raison de nausées et de vomissements (jusqu'à 5 par jour) qui ont commencé 24 heures après le début du QT, sans amélioration malgré le métoclopramide et avec une intolérance à la voie orale secondaire. Un régime absolu a été instauré et une sérothérapie ainsi que du métoclopramide par voie parentérale ont été mis en place, avec une résolution des symptômes émétiques.
+Vingt-quatre heures après son admission, il a commencé à présenter une altération progressive de l'articulation de la parole, à laquelle se sont ajoutées une inattention et une confusion au cours des 48 heures suivantes, rendant impossible toute conversation avec le patient.
+
+Examen physique
+Lors de l'examen neurologique, le patient était désorienté dans le temps (année de rupture : "1954") et présentait une diminution de l'attention. Une dysarthrie scandée sévère et une dysmétrie marquée ont été observées dans les tests orteil-nez et talon-genou, avec une instabilité du tronc en position assise et une augmentation de la base d'appui en position debout, ce qui rendait la marche impossible. Les nerfs crâniens et le reste de l'examen physique n'ont rien révélé.
+
+Examens complémentaires
+- Examens de laboratoire : urée 128 mg/dl, Cr 2,72 mg/dl, ClCr 25,7 ml/min, K 2,9 mmol/l. Reste de l'ionogramme, de l'hémogramme, de la coagulation et du profil hépatique sans altération.
+- Radiographie du thorax et de l'abdomen : pas d'altérations pertinentes.
+- Échographie des voies urinaires : ectasie pyélocalicielle droite avec bassin rénal de 10 mm.
+- Tomodensitométrie cérébrale (sans contraste) : aucun résultat pathologique.
+- Étude du LCR : leucocytes 3/ul, protéines 20 mg/dl, glucose 74 mg/dl (pour une glycémie de 126), ADA normal.
+- Anticorps antineuronaux (sérum) : anti-Hu, anti-Yo, anti-Ri, anti-PNMA2, anti-CV2, anti-amphiphysine négatifs.
+- Orientation vers le service de neurologie (3 jours après l'admission) : "Jugement clinique : possible encéphalopathie de Wernicke en cours de résolution. Le patient présentait un syndrome d'inattention et cérébelleux qui s'était amélioré progressivement après le début du traitement à la thiamine. Il présente actuellement une légère inattention et les autres symptômes neurologiques ont disparu. En outre, les autres causes ont été raisonnablement exclues, bien qu'il soit en attente d'une IRM cérébrale".
+- IRM cérébrale (4 jours après l'admission) : aucun résultat pathologique.
+
+Diagnostic
+- Syndrome de Wernicke atypique (sans ophtalmoparésie et avec dysmétrie des membres).
+- Insuffisance rénale aiguë de cause mixte (prérénale due à la déshydratation, parenchymateuse due au cisplatine et postrénale due à une uropathie obstructive).
+
+
+Traitement
+Après évaluation par le service de neurologie du département des urgences et après avoir écarté les autres causes possibles des symptômes de la patiente, un traitement à la thiamine par voie intraveineuse a été instauré en cas de suspicion de syndrome de Wernicke, ainsi que des suppléments oraux de vitamines B6 et B12.
+
+Évolution
+Dans les 12 heures suivant le début du traitement, le patient a connu une amélioration clinique significative (dysarthrie modérée, absence de persévération et amélioration de la dysmétrie), avec une récupération complète à 72 heures. La sérothérapie intraveineuse a été maintenue en raison de la détérioration aiguë de la fonction rénale, sans qu'aucune amélioration ne soit observée. Après qu'une échographie abdominale ait montré une uropathie obstructive, il a été décidé de placer un cathéter double J droit, après quoi il s'est amélioré avec des niveaux de créatinine autour de 1,42 mg/dl.

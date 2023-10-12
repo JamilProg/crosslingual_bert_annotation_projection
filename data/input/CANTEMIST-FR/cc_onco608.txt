@@ -1,0 +1,41 @@
+Anamnèse
+Homme de 52 ans, pas d'allergie médicamenteuse connue, informatisée. Ex-fumeur (IPA : 30). Antécédents personnels : acouphènes bilatéraux. Pas de traitement régulier. Antécédents familiaux : néoplasie du colon et glioblastome multiforme diagnostiqués chez la mère.
+
+Antécédents oncologiques
+En février 2019, en raison d'une toux et d'une sensation d'oppression cervicale, un scanner thoracique a été réalisé montrant une volumineuse masse médiastinale antérieure polylobée mesurant 12 x 14 x 15 cm avec un contact important avec l'aorte ascendante et la veine cave supérieure. Une TEP-TDM a été réalisée, confirmant ces résultats et montrant une activité métabolique de la lésion (SUV 8,3), sans aucun signe d'adénopathie ou d'atteinte viscérale à un autre niveau. Une biopsie a été pratiquée et le rapport d'anatomopathologie a révélé la présence de cellules épithéliales CKAE1/3, kératine, p63 et PAX8, avec une composante lymphoïde CD45 et TdT positive et une synaptophysine négative, ce qui est compatible avec un carcinome thymique.
+Compte tenu du diagnostic de carcinome thymique avec un contact étendu avec les gros vaisseaux, le cas a été présenté au comité multidisciplinaire des tumeurs et un traitement par chimiothérapie d'induction a été décidé.
+Le 11/03/2019, elle a commencé un traitement par carboplatine-étoposide, administrant 2 cycles (dernier reçu le 03/04/2019), avec une tolérance régulière, présentant comme effets secondaires des nausées de grade 2 et des thrombopénies et neutropénies de grade 4.
+
+Maladie actuelle
+Elle s'est présentée au service des urgences le 18/04/2019 en raison d'une douleur au mollet gauche depuis 5 jours et d'une fièvre avec frissons depuis 1 heure, sans autre symptôme d'accompagnement.
+
+Examen physique
+Hémodynamiquement stable. Tº 37,7ºC, saturation en O2 respiré à l'air ambiant de 98%. Conscient et orienté dans les trois sphères, Glasgow 15, fonctions supérieures préservées, pupilles isochoriques et normoréactives, sans altération des nerfs crâniens et avec réflexes ostéotendineux, symétriques et force et sensibilité préservées.
+Auscultation cardio-pulmonaire normale et abdomen sans masse ni viscéro-mégalie ni signe de péritonisme.
+Membres inférieurs sans œdème, mettant en évidence dans les MICI un érythème à deux niveaux à la palpation du cordon veineux, pas d'augmentation de la température et signe de Homans négatif.
+
+Tests complémentaires
+"Analyses sanguines : leucocytes 1 600, neutrophiles 310, hémoglobine 8,8, plaquettes 14 000, D-dimères 576, CRP 224,4, procalcitonine 0,17. Autres résultats biochimiques et coagulation normaux.
+"Échographie Doppler veineuse des membres inférieurs : aucun signe de thrombose veineuse superficielle ou profonde dans le cadre d'une MDI ou d'une MICI.
+"Culture d'urine : Escherichia coli sensible.
+"Hémocultures : négatives.
+
+Diagnostic
+"Carcinome thymique de stade III de Masaoka.
+"Neutropénie fébrile.
+"Douleur du jumeau gauche sans rapport.
+
+Traitement
+Compte tenu de la pancytopénie fébrile, des cultures ont été demandées, une antibiothérapie empirique a été instaurée avec de la pipéracilline-tazobactam, du G-CSF a été administré et l'admission dans le service d'oncologie médicale a été décidée. En ce qui concerne la douleur liée aux MICI, une thrombose veineuse profonde a été exclue et une analgésie intraveineuse a été mise en place avec du paracétamol et du dexkétoprofène.
+
+Évolution
+La douleur du mollet gauche a complètement disparu après 48 heures sous l'effet de l'analgésie prescrite. Pendant l'admission, le patient s'est remis de la pancytopénie, mais il a continué à présenter des pics fébriles, de sorte que le spectre des antibiotiques a été élargi.
+Le 7e jour d'admission, le patient a subi un arrêt respiratoire dû à une insuffisance respiratoire hypercapnique ; une intubation a donc été pratiquée et le patient a ensuite été admis dans l'unité de soins intensifs.
+L'extubation a été tentée à deux reprises, nécessitant une réintubation, en raison de l'acidose respiratoire et de la diminution de l'état de conscience (Glasgow 3). Une dysautonomie avec hypersudation et une instabilité hémodynamique avec fibrillation auriculaire rapide ont également été observées. Par la suite, une limitation motrice des membres proximaux et supérieurs a été observée.
+Compte tenu de la suspicion de maladie neuromusculaire, les examens complémentaires suivants ont été réalisés :
+"Ponction lombaire : pas de pléiocytose ni de dissociation albumine-cytologie.
+"EMG : signes de dénervation de la musculature bulbofaciale, cervicale proximale et lombaire avec atteinte périphérique des nerfs crâniens (absence de R1 dans le réflexe de clignement), absence de réponses bilatérales du nerf phrénique, conduction motrice avec amplitudes réduites, et neurographie sensorielle normale.
+"Auto-immunité : anticorps anti-récepteurs de l'acétylcholine positifs (titres de 2,64 nmol/l) et antititine. Tous les autres anticorps anti-neuronaux, anti-MAG, anti-MUSH, anti-MAG, anti-nucléaires, anti-Ro, anti-gangliosides et anti-canaux sodiques et potassiques étaient négatifs.
+"Un scanner thoraco-abdomino-pelvien a été réalisé pour exclure toute progression et/ou complication, visualisant la masse médiastinale antérieure d'environ 8 cm de diamètre, avec un large contact avec la veine cave supérieure et l'aorte ascendante, sans signes évidents d'infiltration médiastinale.
+Avec ces résultats, le cas est classé comme une myasthénie paranéoplasique chez un patient atteint d'un carcinome thymique. Le test de Tensilon (test à l'édrophonium) n'a pas pu être réalisé en raison de la dysautonomie du patient.
+Le 30/04/2019, un traitement par immunoglobulines a été instauré et, devant l'absence de réponse après cinq jours, un traitement par méthylprednisolone en bolus a été mis en place. Par la suite, la pyridostigmine a été ajoutée, mais malgré tout, le patient a évolué défavorablement, sans preuve d'amélioration, de sorte que le retrait de la ventilation mécanique et le début de la sédoanalgésie palliative ont été convenus avec la famille, et il est finalement décédé le 21 mai 2019.

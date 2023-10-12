@@ -1,0 +1,8 @@
+T1	pathologie 171 201	metástasis hepáticas bilobares
+T2	pathologie 296 332	tumor formado por células fusiformes
+T3	pathologie 423 427	GANT
+T4	pathologie 582 602	metástasis hepáticas
+#1	SNOMED T1	94381002
+#2	SNOMED T4	94381002
+#3	SNOMED T2	363346000
+#4	SNOMED T3	128755003

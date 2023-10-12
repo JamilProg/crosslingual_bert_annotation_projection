@@ -1,0 +1,20 @@
+Anamnèse
+Une femme de 32 ans, chez qui on avait diagnostiqué une polypose adénomateuse familiale, s'est présentée au service des urgences avec de fortes douleurs abdominales et la sensation d'une masse abdominale.
+
+Examen physique
+L'état général est moyen. Abdomen distendu, rigide, décompression douloureuse soudaine de l'abdomen, avec sensation d'une masse dure dans le mésogastre. Le reste de l'examen clinique est normal.
+
+Tests complémentaires
+Numération sanguine et biochimie sans altération.
+Échographie abdominale : masse de 14 x 10 cm, située dans l'hypogastre et s'étendant au mésogastre, montrant des zones solides avec vascularisation, avec une zone de bulles à l'intérieur suggérant une matière gazeuse.
+Tomodensitométrie (TDM) abdominopelvienne : masse avec gaz à l'intérieur dans le méso-hypogastre avec fuite de gastrografine d'une anse de l'iléon terminal, suggérant une perforation de l'anse de l'intestin grêle.
+
+Diagnostic
+Devant la suspicion de perforation intestinale, une intervention chirurgicale d'urgence a été pratiquée, révélant une tumeur dépendant du mésentère de l'intestin grêle mesurant 20 x 15 cm qui a englouti et perforé l'intestin grêle. Une tumorectomie mésentérique complète a été pratiquée en association avec une anastomose intestinale. La biopsie de la pièce opératoire était compatible avec un myxofibrosarcome de bas grade.
+
+Traitement
+Dans ce cas, comme pour les autres sarcomes péritonéaux, une résection complète avec des marges négatives est le facteur pronostique le plus important pour la rechute locale et la survie, donc en raison du faible grade, aucune radiothérapie ou chimiothérapie adjuvante n'a été administrée, et un suivi a été mis en place.
+
+Évolution
+Onze mois après l'intervention chirurgicale, alors que le patient était asymptomatique, une masse mésentérique de 4,6 cm a été observée au scanner, adjacente à la zone de résection chirurgicale intestinale, ainsi que d'autres nodules mésentériques, suggérant une récidive de la tumeur. Pour cette raison, et après présentation au Comité des tumeurs du côlon, une laparotomie exploratoire a été pratiquée pour évaluer le sauvetage chirurgical, et une sarcomatose péritonéale étendue a été observée, ce qui la rendait non résécable. La biopsie des nodules a montré la présence d'une tumeur mésenchymateuse de bas grade et d'indice prolifératif (Ki67 < 5 %), compatible avec un myxofibrosarcome.
+Un traitement de première intention de la maladie avancée a été proposé avec de la doxorubicine, à raison de trois cycles, la tomodensitométrie montrant une augmentation significative de la taille de la masse. Compte tenu de la progression de la tumeur, un traitement de deuxième intention a été envisagé. L'absence d'essais cliniques ouverts à l'époque, la forte vascularisation de la tumeur et la préférence de la patiente pour un traitement oral, ainsi que les données disponibles de l'essai PALETTE, nous ont amenés à opter pour l'utilisation du pazopanib, qui est le traitement qu'elle reçoit actuellement.

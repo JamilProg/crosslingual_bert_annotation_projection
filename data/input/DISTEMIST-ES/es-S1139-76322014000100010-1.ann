@@ -1,0 +1,8 @@
+T1	pathologie 574 587	abdomen agudo
+T2	pathologie 753 770	apendicitis aguda
+T3	pathologie 1259 1277	cuadro obstructivo
+T4	pathologie 2008 2047	apéndice cecal con signos inflamatorios
+#1	SNOMED T4	74400008
+#2	SNOMED T3	81060008
+#3	SNOMED T1	9209005
+#4	SNOMED T2	85189001

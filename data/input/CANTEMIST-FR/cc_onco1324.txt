@@ -1,0 +1,23 @@
+Anamnèse
+Une femme de 63 ans, sans antécédents familiaux ou personnels intéressants, a été examinée en août 2010 pour un goitre nodulaire avec un nodule hypoactif dans l'hémithyroïde gauche, associé à une hyperthyroïdie auto-immune. Le nodule mesurait 7,5 cm à l'échographie (avec une extension intrathoracique). Une ponction à l'aiguille fine (FNA) n'a pas révélé de cellules malignes. En juin 2011, une nouvelle échographie a été demandée, confirmant la croissance du nodule, de sorte qu'une nouvelle FNA a été réalisée : positive pour les cellules malignes d'origine mammaire probable. Une thyroïdectomie totale a été réalisée, découvrant une métastase d'un carcinome lobulaire infiltrant (ILC) du sein.
+En août 2011, elle a été examinée dans l'unité mammaire, où l'on a découvert un nodule dans le sein droit mesurant 36 x 29 mm (par écho et mammographie), dont la biopsie a été rapportée comme un ILC [positif pour les récepteurs d'œstrogènes (290), la progestérone (100), ki67 de 60 % et HER2 positif (3+)].
+
+Examen physique
+Bon état général. Cou : cicatrice de thyroïdectomie sans adénopathie palpable ni signe d'atteinte cutanée. Sein droit : nodule de 4 cm dans le quadrant supérieur externe. L'aisselle est négative. Le reste de l'examen est sans particularité.
+
+Tests complémentaires
+TSH < 0,01 mU/l, T4 libre 75,2 pmol/l ; anticorps anti-TPO (AC) 137,2 U/ml ; anti TSI AC 9,8 U/l.
+FNA thyroïdienne : cellules atypiques avec cytoplasme vacuolaire. Immunohistochimie : thyroglobuline -, TTF1-, calcitonine -, p53 -, S100 -, CK20- , e-cadhérine - ; CK 7 et 19+, récepteurs des oestrogènes+, mammaglobine+. FNA axillaire et rétroaréolaire : positif pour la CLI.
+Mastectomie : pas de cellules néoplasiques viables. Réponse au traitement, indice de Miller-Payne 5. Ganglions lymphatiques 0/19, ypT0N0 ; marges libres.
+Imagerie par résonance magnétique (IRM) du sein : multiples foyers dans le sein droit dans le quadrant supéro-externe (plus de 33 x 25 mm et un rétro-aréolaire de 13 mm).
+Étude d'extension (tomodensitométrie et scintigraphie osseuse) : métastases osseuses multiples.
+
+Diagnostic
+Carcinome lobulaire infiltrant du sein cT2N1M1, stade IV (métastases osseuses et thyroïdiennes).
+
+Traitement
+Chimiothérapie métastatique de 1ère ligne : docétaxel 75 mg/m2 + trastuzumab (dose de charge 8 mg/kg puis 6 mg/kg) / 3 semaines pendant 4 cycles + zolédronate 4 mg par mois (septembre à novembre 2011).
+
+Évolution
+Un PET scan a été demandé pour réévaluation, qui a montré une réponse partielle, de sorte que le comité des tumeurs a décidé de procéder à une chirurgie de sauvetage : mastectomie radicale droite modifiée avec vidange des ganglions lymphatiques. Le rapport anatomopathologique a montré une réponse pathologique complète (CRp) sans atteinte ganglionnaire. Le traitement a été maintenu avec du trastuzumab et du zolédronate, avec l'ajout d'un inhibiteur de l'aromatase. Lors du dernier examen en avril 2013, la patiente était asymptomatique et la tomographie par émission de positons (TEP) de contrôle a montré une stabilité des métastases osseuses.
+Elle conserve le même traitement.

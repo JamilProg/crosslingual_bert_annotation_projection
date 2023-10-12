@@ -1,0 +1,42 @@
+Anamnèse
+Nous présentons le cas d'une femme de 73 ans aux antécédents d'HTA, de DM2 et d'anémie des troubles chroniques, traitée par l'endocrinologie pour un carcinome thyroïdien à cellules de Hürthle (HCC) depuis octobre 2016, qui a été admise en oncologie pour une complication qui s'est avérée être une entité indépendante plus sévère et peu fréquente qu'initialement suspectée, et qui a finalement conditionné son pronostic péjoratif.
+Il s'agissait d'un CHC de stade IVc (pT3NxM1 en raison de métastases pulmonaires et dans un arc costal, selon la 8e édition TNM/AJCC) avec une mutation TERT positive et BRAF négative. L'endocrinologie a traité la patiente par : thyroïdectomie totale, lévothyroxine (T4) à des doses suppressives, traitement ablatif par 131I (iode 131) à une dose de 120 mCi par la suite, au cours duquel des critères de résistance à l'iode ont été détectés (l'ECR ou la scintigraphie corporelle totale a montré des lésions pulmonaires et costales sans avidité pour l'iode 131). Elle a été adressée au service d'oncologie. Entre-temps, un scanner corporel de réévaluation a été réalisé et un rendez-vous a été pris avec le service d'endocrinologie pour une analyse de contrôle le 19/12/2017, où des résultats non présents dans les précédents ont été observés : créatinine (Cr) 2,60 mg/dl, urée 80 mg/dl et exacerbation de l'anémie (anémie normocytaire normochrome de 8,1 g/dl). En outre, le patient a signalé une semaine d'asthénie, de dyspnée, de douleur à la paroi thoracique antérieure, lancinante, exacerbée par la palpation, et un épisode de diarrhée spontané.
+Le patient a été admis en oncologie sur la base de jugements cliniques :
+"Insuffisance rénale aiguë/subite probablement multifactorielle (contraste iodé iv, déshydratation, possibilité de néphroangiosclérose et de néphropathie diabétique).
+"Douleur incontrôlée de la paroi thoracique.
+"Anémisation progressive.
+"Progression morphologique et clinique de l'HCC.
+
+Examen physique
+"Pression artérielle 147/91 mm Hg, fréquence cardiaque 115 bpm, saturation 02 basale 98 %.
+"État général correct, pâleur générale de la peau, muqueuse buccale sèche sans lésion, cou sans ganglions lymphatiques palpables.
+"Douleur lors de la pression du doigt sur la paroi thoracique antérieure au-dessus du sternum.
+"Auscultation cardio-pulmonaire, abdomen et extrémités sans résultats.
+
+Tests complémentaires
+Admission le 19/12/2017 :
+" NFS : Cr 2,60 mg/dl sans dyselectrolytemias. Anémie normochrome normochrome de 7,5 g/dl. Systémique urinaire : hématurie 1+ et leucocytes 1+. Ions urinaires : OSM, sodium et potassium dans les limites de la normale, Cr 17 mg/dl (VN 30-200).
+"Écho néphrologique : reins normaux, échogénicité corticale accrue et perte de différenciation corticomédullaire.
+"En outre, en raison de la douleur thoracique, les examens ont exclu l'angine de poitrine, l'étiologie infectieuse et la thromboembolie pulmonaire.
+
+Diagnostic
+Carcinome thyroïdien à cellules de Hürthle (HCC) de stade IVc évoluant avec :
+"Insuffisance rénale aiguë/subite probablement multifactorielle.
+"Douleur incontrôlée de la paroi thoracique.
+"Anémisation progressive.
+
+Traitement
+Mesures générales en cas d'insuffisance rénale, hydratation intraveineuse (IV) intensifiée, transfusion de concentrés de globules rouges (après prélèvement à la recherche d'une anémie), analgésie de première intention prescrite sans AINS.
+
+Évolution
+Après 48 heures de traitement, le patient a présenté une amélioration partielle de la douleur (EVA 5 / EVA 7 avant l'admission) et une mauvaise évolution de la fonction rénale avec une augmentation de la Cr jusqu'à 4 g/dl, associée à une légère hyperkaliémie et au maintien d'un bon taux de diurèse. La néphrologie a été consultée et des mesures anti-potassiques, des suppléments de phosphore et de vitamine D ont été ajoutés, suspectant une nécrose tubulaire aiguë établie (ischémique-toxique) d'étiologie multiple. Au bout de 72 heures, il a fallu instaurer une analgésie de troisième niveau pour une douleur croissante (oxycodone/naloxone).
+La fonction rénale ne s'est pas normalisée, atteignant une Cr maximale de 5,2 g/dl et des chiffres en plateau le 27/12/2017 (Cr 3,1 g/dl).
+Le 03/01/2018, l'hémogramme de routine a montré des petits lymphocytes atypiques matures, et la cytométrie de flux a montré 28% de plasmocytes.
+
+EXAMENS COMPLÉMENTAIRES II
+Des examens complémentaires ont été demandés en raison de la suspicion de néoplasie plasmocytaire. Urines de 24 heures : protéinurie de 2 g. Chaînes légères urinaires de Bence Jones : positives. Aspiration de moelle osseuse > MO < 60 % de plasmocytes. Pic monoclonal minime dans le sang périphérique > SP < (très suggestif d'un myélome peu sécrétant). Tomodensitométrie à faible dose pour myélome multiple : lésion osseuse douteuse à l'extrémité distale de la clavicule droite.
+
+DIAGNOSTIC, PRISE EN CHARGE ET EVOLUTION FINALE
+En ajoutant les critères cliniques (insuffisance rénale, douleurs osseuses, anémie normocytaire et normochromatique) et la confirmation par des tests complémentaires (en particulier le % de plasmocytes dans le SP et le MO), un diagnostic de myélome leucémique ou de leucémie à plasmocytes a été posé et le patient a été référé en hématologie. Un traitement par bortézomib + lénalidomide (avec réduction de la dose en raison d'un DFG de 11 ml/min/m2) et dexaméthasone (schéma VRD) a été mis en place.
+Elle a rapidement présenté une détérioration de l'état général, une persistance de la douleur difficile à contrôler malgré les opioïdes et les coadjuvants, avec une exacerbation de l'anémie, nécessitant de nouvelles transfusions.
+Finalement, il est décédé suite à une hémorragie digestive haute lors de son admission le 01/02/2018.

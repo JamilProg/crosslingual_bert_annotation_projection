@@ -1,0 +1,14 @@
+T1	pathologie 20 28	afáquica
+T2	pathologie 48 57	cataratas
+T3	pathologie 81 115	rotura capsular y salida de vítreo
+T4	pathologie 267 280	edema corneal
+T5	pathologie 566 569	BML
+T6	pathologie 582 633	desprendimiento y rotura de la membrana de Descemet
+T7	pathologie 826 848	edema macular quístico
+#1	SNOMED T1	24010005
+#2	SNOMED T2	193570009
+#3	SNOMED T3	784306000+3044008
+#4	SNOMED T6	95738005+42312000
+#5	SNOMED T7	193387007
+#6	SNOMED T5	419325003
+#7	SNOMED T4	27194006

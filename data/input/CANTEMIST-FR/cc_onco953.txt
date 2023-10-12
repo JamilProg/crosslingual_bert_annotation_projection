@@ -1,0 +1,31 @@
+Anamnèse
+Patient de 35 ans, sans antécédent intéressant, admis pour des œdèmes du visage, du cou et du bras droit d'évolution 24 heures ; associés à une dyspnée, une odynophagie et des modifications du timbre de la voix. Il a nié toute sémiologie infectieuse, tout syndrome constitutionnel ou tout autre symptôme.
+
+Examen physique
+"Examen cardio-pulmonaire, abdominal et neurologique : aucun résultat pertinent.
+"Examen des extrémités : œdème modéré au niveau du TMS et léger au niveau du MSI, œdème facial modéré, circulation collatérale au niveau du thorax, œdème au niveau de la cuisse.
+"Examen des organes génitaux : testicules de taille et de morphologie adéquates, sans lésions à la palpation, non douloureux.
+
+Examens complémentaires
+"Analyses sanguines : leucocytes 17,7-10 9 /l, bilirubine totale 1,64.
+"Marqueurs tumoraux : B-HCG 0, AFP 13383, LDH 1336.
+"CT-CT scan : masse médiastinale graisseuse de 13 x 9,6 x 11 cm, intraluminale, en contact intime, sans plan de clivage, avec l'oreillette droite, s'étendant au SVC impliquant l'arc azygos et le tronc innominé, avec une circulation collatérale. Adénopathies pathologiques médiastinales, prévasculaires, paratrachéales droites et sous-carénaires.
+"IRM thoracique : confirme les résultats de la tomodensitométrie thoracique.
+"Échocardiographie : compression extrinsèque des structures cardiaques avec masse faisant saillie dans l'oreillette droite à partir de la VCS, sans l'effondrer.
+"Échographie testiculaire : aucun signe pathologique.
+"AP : FNA médiastinale : corps de Schiller-Duval et périvasculaires, papillaires et réiformes, CK CAM 5.2 et expression de TTF-1, dans la membrane CD-117 (c-kit), dans le cytoplasme AFP dans 30-40 % des cellules tumorales ; sans expression de CD30. Toutes ces caractéristiques sont celles d'une tumeur endodermique du sein (tumeur du sac vitellin).
+
+Diagnostic
+"Tumeur germinale non séminomateuse de type sinus endodermique (tumeur du sac vitellin) médiastinale extragonadale de mauvais pronostic selon l'IGCCCG.
+"Syndrome de la veine cave supérieure débutant.
+
+Traitement
+À l'admission, pose d'une endoprothèse vasculaire dans la VCS, avec résolution des symptômes cliniques associés. Les résultats de l'examen de l'AP, évalués par le comité des tumeurs, excluent la possibilité d'une résection. Le traitement a été planifié avec une chimiothérapie, BEP x 4 cycles + EP x 2 cycles et, en fonction de la réponse, une réévaluation de la résécabilité.
+
+Évolution
+Début du BEP (bléomycine 30 mg jours 1-8-15 ; cisplatine 20 mg/m2 jours 1-5 ; et étoposide 100 mg/m2 jours 1-5) x 4 cycles ; bonne tolérance.
+1-5) x 4 cycles ; bien toléré. Après 4 cycles, les taux d'AFP et de LDH ont diminué jusqu'à devenir pratiquement négatifs ; la tomodensitométrie a montré une diminution de la taille de la masse médiastinale (77,7 x 107,4 mm) et de l'atteinte de l'oreillette droite. Compte tenu de la réponse biologique et radiologique partielle, le traitement a été complété par une PD (cisplatine 25 mg/m 2 jours 1-5 ; étoposide 100 mg/m2 jours 1-4) x 2 cycles.
+Lors de la réévaluation, les marqueurs tumoraux étaient négatifs, la réponse partielle maintenue (74 x 61 mm) et l'atteinte de l'oreillette douteuse. Le cas a été réévalué par le comité des tumeurs et il a été proposé d'opérer la masse médiastinale résiduelle.
+L'opération a été un succès, avec une résection R0 et l'excision de la masse (70 x 54 x 65 mm) sans infiltration des structures médiastinales.
+L'anatomie pathologique a révélé une tumeur avec une paroi fibreuse et un centre complètement nécrosé sans aucun signe de cellularité viable ; les bords de résection étaient exempts de lésions tumorales.
+Le patient est actuellement soumis à des contrôles trimestriels sans aucun signe de récidive de la tumeur, que ce soit sur le plan biologique ou sur le plan de l'imagerie.

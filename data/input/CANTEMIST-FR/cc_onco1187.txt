@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 67 ans, fumeur de 70 paquets-années et buveur modéré jusqu'à il y a 30 ans ; AHT ; maladie alcoolique du foie (2009) avec signes échographiques d'hypertension portale ; hémochromatose (2007) traitée par saignées ; tératome thymique ayant fait l'objet d'une thoracotomie gauche (1987) qui a dû être réopérée en raison d'un pneumothorax. Polyarthrite rhumatoïde avec RF positif et anti-CCP (2000) traitée par corticostéroïdes et rituximab ; en 2012, des nodules pulmonaires rhumatoïdes ont été documentés (biopsie), en plus d'une pleurite granulomateuse. En juillet 2013, un épanchement pleural droit a été détecté avec une cytologie du liquide pleural négative pour une tumeur maligne.
+En août 2013, il a commencé à ressentir une dyspnée à l'effort modérée, ce qui a été attribué à sa maladie rhumatologique. En octobre 2013, elle s'est rendue au service des urgences pour une dyspnée au repos, une douleur pleurétique et une expectoration jaunâtre, sans autre symptôme d'accompagnement.
+
+Examen physique
+Poids : 75 kg. Taille : 175 cm. ECOG : 1. Eupnéique au repos. Pas d'augmentation de la pression veineuse jugulaire. Auscultation pulmonaire : diminution du murmure vésiculaire généralisé. Repos normal.
+
+Tests complémentaires
+- Une radiographie du thorax a été réalisée, qui a révélé un épanchement pleural droit.
+- Le 9/10/2013, l'étude a été complétée par un scanner thoracique qui a également montré un épanchement péricardique modéré, des images nodulaires dans le LSD et le LSI, des zones de condensation dans le LSD et le LM et des septa épaissis dans les bases pulmonaires suggérant une fibrose naissante.
+- La cytologie du liquide pleural suggère un adénocarcinome (TTF1 positif, calrétinine et CK 20 négatifs) d'origine pulmonaire probable.
+- Le 14/10/2013, un PET scan a été réalisé, décrivant des nodules plus importants dans l'hémithorax droit qui convergent pour former une masse hypermétabolique (SUV max. 15,94) en contact avec la plèvre, un épanchement pleural et péricardique important, un épaississement pleural, des adénopathies supraclaviculaires droites (SUV max. 4,51), paratrachéale droite (SUV max. 6,59), des lésions métastatiques osseuses dans le bassin, des nodules intrapéricardiques et un foyer douteux dans la glande surrénale gauche. Mutation de l'EGFR et translocation ALK négatives.
+
+Diagnostic
+Adénocarcinome pulmonaire probable, stade IV (poumon, plèvre, péricarde, os), EGFR et ALK négatifs.
+
+Traitement
+Chimiothérapie à base de carboplatine et de pemetrexed et supplémentation en acide folique et en vitamine B12.
+
+Évolution
+Compte tenu de ce diagnostic basé sur la cytologie du liquide pleural, il a été décidé de procéder à une biopsie de la masse pulmonaire dans le lobe supérieur droit. Le 5/11/2013, une biopsie pulmonaire guidée par tomodensitométrie a été réalisée, montrant une augmentation de l'épanchement pleural et une tamponnade cardiaque, nécessitant une thoracentèse et une péricardiocentèse.
+Le 3/12/2013, il est revenu à la clinique pour un traitement complémentaire et a été à nouveau admis en raison d'une aggravation de la dyspnée. En outre, une échocardiographie a révélé un épanchement péricardique modéré avec un compromis hémodynamique des cavités droites, ainsi qu'un épanchement pleural récurrent. Dans l'intervalle de deux semaines, une nouvelle admission a été nécessaire, cette fois avec une fenêtre péricardique et une tentative infructueuse de pleurodèse.
+Le résultat du prélèvement histologique a été revu et était compatible avec un "blastome pulmonaire à différenciation rhabdomyosarcomateuse" (TTF-1, CK7, myoD1, myogénine positifs ; p40, myosine et marqueurs de différenciation neuroendocrine négatifs) et il a été décidé, en l'absence d'amélioration clinico-radiologique, de changer de traitement, de sorte que l'adriamycine a été mise en place en monothérapie. Le patient a reçu un total de 3 cycles (le dernier en mars 2014), avec une bonne tolérance. Il s'est rendu aux urgences pour des œdèmes des membres inférieurs, une dyspnée progressive et des palpitations, avec une insuffisance cardiaque documentée et une fibrillation auriculaire rapide. Un traitement à base de digoxine et de diurétiques a été instauré et, en l'absence d'amélioration, des bêta-bloquants et de l'amiodarone à haute dose ont été ajoutés. Le patient a subi une détérioration franche et, étant donné le caractère réfractaire des symptômes, une sédoanalgésie a été mise en place. Il est décédé le 21/3/2014 et la famille n'a pas donné l'autorisation de pratiquer l'autopsie.

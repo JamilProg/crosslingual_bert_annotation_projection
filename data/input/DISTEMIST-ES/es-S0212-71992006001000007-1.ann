@@ -1,0 +1,33 @@
+T1	pathologie 61 66	ictus
+T2	pathologie 196 204	embólico
+T3	pathologie 359 381	facial central derecho
+T4	pathologie 386 422	déficit motor braquio-crural derecho
+T5	pathologie 510 559	petequias en región tibial de extremidad inferior
+T6	pathologie 570 623	hemorragias en astilla en varios dedos de ambas manos
+T7	pathologie 868 891	foramen ovale permeable
+T8	pathologie 893 908	prolapso mitral
+T9	pathologie 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T10	pathologie 985 1005	insuficiencia mitral
+T11	pathologie 1007 1009	IM
+T12	pathologie 1038 1070	endocarditis bacteriana subaguda
+T13	pathologie 1445 1456	adenopatías
+T14	pathologie 1475 1500	linfangitis carcinomatosa
+T15	pathologie 1515 1533	proceso neoplásico
+T16	pathologie 1874 1886	endocarditis
+T17	pathologie 2158 2175	embolia esplénica
+T18	pathologie 2233 2248	cuadro sincopal
+T19	pathologie 2270 2301	accidente isquémico transitorio
+T20	pathologie 2416 2515	cuadro ictal con afectación total de la circulación anterior de la arteria cerebral media izquierda
+T21	pathologie 2552 2570	hemiplejía derecha
+T22	pathologie 2634 2642	lesiones
+T23	pathologie 2659 2700	verruga en la cara auricular de la mitral
+T24	pathologie 2781 2785	ETNB
+T25	pathologie 2842 2856	adenocarcinoma
+T26	pathologie 2934 2938	ETNB
+T27	pathologie 2941 2960	hipercoagulabilidad
+T28	pathologie 2992 3028	coagulación intravascular diseminada
+T29	pathologie 3030 3033	CID
+T30	pathologie 3124 3140	crioglobulinemia
+T31	pathologie 3420 3460	adenocarcinoma primario en mama y ovario
+T32	pathologie 3637 3661	adenocarcinoma de pulmón
+T33	pathologie 3680 3733	fenómenos embolígenos en el contexto de paraneoplasia

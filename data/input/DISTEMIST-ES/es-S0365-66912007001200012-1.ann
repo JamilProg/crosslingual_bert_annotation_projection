@@ -1,0 +1,14 @@
+T1	pathologie 73 101	visión borrosa en ambos ojos
+T2	pathologie 314 336	coroiditis serpiginosa
+T3	pathologie 672 769	atrofia y cicatrización coriorretiniana que presentaba en el polo posterior, incluyendo la mácula
+T4	pathologie 892 959	ojo presentaba múltiples lesiones de forma geográfica cicatriciales
+T5	pathologie 965 1029	atrofia e hipertrofia variable del EPR en todo el polo posterior
+T6	pathologie 1079 1087	lesiones
+T7	pathologie 1781 1801	hepatitis autoinmune
+#1	SNOMED T5	421506003+425217005
+#2	SNOMED T7	408335007
+#3	SNOMED T3	95686007+246181000119100
+#4	SNOMED T2	312491004
+#5	SNOMED T4	301905003
+#6	SNOMED T6	157670007
+#7	SNOMED T1	246636008

@@ -1,0 +1,38 @@
+Anamnèse
+Il s'agit d'une patiente de 64 ans qui a consulté notre service après la résection d'une tumeur utérine dans un autre centre. L'anatomie pathologique était compatible avec un sarcome indifférencié avec une atteinte du col de l'utérus et de l'utérus transmural avec une atteinte ovarienne et paramétriale bilatérale et une cytologie positive du liquide péritonéal.
+Antécédents personnels
+Femme de 64 ans, professeur d'université, travailleuse active, en attente de retraite à la fin de l'année. Célibataire. Aucune allergie médicamenteuse connue, dermatite de contact non étudiée par l'allergologie (elle évoque des marques de doigts sur la peau en relation avec le parfum). Habitudes toxiques : ex-fumeuse depuis 25 ans avec un taux de paquets-année de 13, buveuse active de 5 g d'éthanol par jour.
+Pas d'hypertension ni de diabète sucré. Hypercholestérolémie contrôlée par des mesures hygiéno-diététiques. Pas de maladie cardiaque ou de bronchopathie connue.
+Antécédents gynécologiques
+Ménopause à 51 ans. Elle n'a jamais pris de contraceptifs. Polype endométrial en 2012 asymptomatique, détecté lors d'un contrôle de routine et réséqué par laparoscopie.
+Antécédents familiaux
+Le père est décédé d'un infarctus aigu du myocarde à l'âge de 74 ans. Trois oncles atteints d'un cancer de la prostate, du poumon et du côlon, âgés de plus de 65 ans. Un parent direct est porteur de la mutation c.129G > A(W43*) du gène SDHD.
+Traitement habituel : antihistaminiques à la demande.
+En novembre 2017, la patiente a commencé par ressentir des douleurs abdominales et lombaires non spécifiques. Elle avait déjà présenté des taches vaginales brunâtres sur une base mensuelle (une fois par mois), mais en novembre, la quantité et la fréquence des saignements se sont intensifiées et elle a consulté un autre centre. Un examen gynécologique a révélé une hypertrophie de l'utérus, confirmée par un examen d'imagerie (échographie). Compte tenu des antécédents de polypes endométriaux hyperplasiques de la patiente, la situation a été interprétée comme une métrorragie post-ménopausique avec hyperplasie endométriale et une intervention chirurgicale a été planifiée (hystérectomie plus double annexectomie). Compte tenu de la découverte chirurgicale d'un utérus tumoral globulaire avec adénopathies, une hystérectomie subtotale a été pratiquée avec ablation ultérieure du col de l'utérus et double annexectomie.
+Elle est venue dans notre centre pour une évaluation.
+
+Examen physique
+"ECOG PS 3.
+"Conscient et orienté. Diplopie due à une parésie de l'oeil gauche, lymphadénopathie supra-claviculaire gauche palpable.
+"Auscultation cardiaque : rythmique, pas de souffle audible.
+"Auscultation pulmonaire : murmure vésiculaire conservé. Aucun autre bruit pathologique n'a été entendu.
+"Examen abdominal : cicatrice d'hystérectomie dans l'hypogastre. Souple et dépressible, pas de douleur à la palpation ni de signes d'irritation péritonéale, pas de masse ni de viscéro-mégalie.
+"Extrémités : œdème bilatéral sans signe de thrombose veineuse profonde.
+
+Examens complémentaires
+"Échographie gynécologique : endomètre hyperplasique avec utérus myomateux élargi mesurant 11 x 10 x 8 cm sans myome clairement défini.
+"Scanner thoraco-abdominal pelvien post-chirurgical : hystérectomie et double annexectomie avec collection hydro-aérienne secondaire à la chirurgie. Conglomérats adénopathiques rétropéritonéaux avec extension vers les chaînes iliaques commune et externe. Adénopathie sus-claviculaire gauche de 1,5 cm avec suspicion de malignité.
+"Scintigraphie Tektrotyd® : multiples hypercaptations distribuées le long du squelette en relation avec une dissémination métastatique osseuse. Des accumulations pathologiques du radionucléide sont également observées dans le lobe hépatique gauche (segments II-III) et de façon plus douteuse dans le segment VI. Accumulations ponctuelles dans la zone cardiaque, qui semblent être situées dans les deux ventricules et n'ont pas pu être complètement différenciées en localisation intracardiaque/paracardiaque. Hypercaptations sur la ligne médiane de la région mésogastrique qui pourraient correspondre à des adénopathies métastatiques.
+"IRM cérébrale : multiples lésions osseuses compatibles avec des métastases : les plus importantes dans les écailles occipitales et la pointe du cervelet gauche.
+"Biopsie de l'adénopathie sus-claviculaire : carcinome neuroendocrine avec Ki67 : 99%. L'expression immunohistochimique de la protéine PD-L1 était nulle, et les mutations du gène EFGR étaient négatives. Après examen de la pièce opératoire fournie par la patiente, il a été confirmé qu'il s'agissait d'un carcinome neuroendocrine étendu de stade IV du col de l'utérus.
+
+Diagnostic
+Il s'agit d'un carcinome neuroendocrine du col de l'utérus de stade IV étendu (métastases osseuses, hépatiques et ganglionnaires) qui avait été initialement étiqueté à tort comme un sarcome indifférencié avec atteinte cervicale et utérine, ovarienne bilatérale et paramétriale.
+La biopsie de l'adénopathie sus-claviculaire gauche de la patiente et la réalisation d'une nouvelle étude anatomopathologique de la pièce opératoire avec une étude complète des mutations ont été déterminantes pour le diagnostic.
+Le traitement
+Un traitement cytostatique à base de carboplatine-paclitaxel et d'octréotide mensuel a été instauré dès l'admission. Initialement, un total de 4 à 6 cycles était prévu, à évaluer en fonction de l'évolution.
+Après trois cycles, la patiente a montré une amélioration clinique significative avec le PS1, une normalisation de ses tests de laboratoire à l'exception d'une légère anémie et une diminution de la LDH de 5 188 à 615 U/l.
+En attente d'une réévaluation par tomodensitométrie.
+
+Évolution
+En attendant les résultats des examens complémentaires, elle s'est présentée aux urgences avec un fécalome, une insuffisance rénale aiguë, des œdèmes, une hypoalbuminémie, une hypercalcémie et une hyperuricémie. Grâce à un traitement de soutien et symptomatique, son état s'est amélioré et un traitement cytostatique a été instauré avec du carboplatine-paclitaxel et de l'octréotide tous les mois.

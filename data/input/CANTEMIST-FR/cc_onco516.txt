@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 45 ans, ex-fumeuse depuis 2 ans avec un IPP de 25 paquets-années, et antécédents chirurgicaux de fracture kystique de l'astragale droit ayant nécessité de multiples opérations. Une masse cervicale droite a été palpée en mai 2018 qui grossissait progressivement depuis deux mois, elle s'est donc rendue chez son médecin traitant et, en l'absence d'amélioration après antibiothérapie, il a été décidé de la référer en hématologie pour compléter les études.
+
+Examen physique
+ECOG 0. Conscient, orienté et coopératif. Bien hydraté, couleur normale, profondeur normale.
+Nodule cervical droit < 2 cm au niveau II et adhérant aux plans profonds. Le reste de l'examen physique était normal.
+
+Examens complémentaires
+Une échographie cervicale a été réalisée (7/8/2018) qui a décrit, dans la région latérocervicale supérieure droite, quatre nodules d'aspect échographique solide, compatibles avec des adénopathies pathologiques d'une taille de 13 x 20 x 16 mm, pour le plus grand d'entre eux, et de 4 x 10 x 14 mm pour le plus petit. Au vu de ces résultats, le patient a été envoyé en oto-rhino-laryngologie, qui a réalisé une nasofibroscopie décrivant une lésion surélevée de 1 cm dans la partie postérieure de la bande ventriculaire droite, Le 22/8/218, une microchirurgie laryngée diagnostique est pratiquée et une biopsie est effectuée, qui révèle un carcinome indifférencié infiltrant à petites cellules, avec une immunohistochimie positive pour CK8, CD56 et synaptophysine, partiellement positive pour la chromogranine, négative pour TTF-1 et CD45, et un ki67 de 85%. L'étude est complétée par un scanner cervical (13/8/2018) et un scanner thoracique (13/8/2018) décrivant un épaississement focal et un hyperenhancement muqueux du bord antérieur de la bande ventriculaire droite mesurant 6 x 3 mm et un conglomérat adénopathique dans la zone latérocervicale II droite mesurant 14 x 21 mm dans son grand axe.
+
+Diagnostic
+On diagnostique donc un carcinome neuroendocrine à petites cellules (microcytaire) du larynx (bande ventriculaire droite) T1 N2 M0, stade IVa (AJCC 8e édition).
+
+Traitement
+En l'absence de maladie à distance, il a été décidé de réaliser une laryngectomie partielle le 1/10/2018 avec laser CO2 et vidange laryngée fonctionnelle droite sans incident postopératoire et avec le résultat de l'anatomie pathologique : carcinome neuroendocrine à petites cellules (microcytaire) avec ulcération superficielle de la muqueuse : 6 mm en extension et 2 mm en profondeur (mesurée sur préparation histologique) : pT1 avec perméation vasculo-lymphatique et sans perméation périneurale identifiée à bords libres. Le résultat du curage ganglionnaire est une métastase dans quatre des dix-neuf ganglions examinés (4/2019) pour un carcinome neuroendocrine à petites cellules (microcytaire) sans extension extranodale : pN2b.
+Le traitement a été complété par une chimiothérapie à base de cisplatine trois fois par semaine à la dose de 100 mg/m2 pendant 4 cycles concomitamment à une radiothérapie externe avec un total de 60 Gy en 30 séances à 2 Gy/séance.
+
+Évolution
+Les toxicités les plus pertinentes ont été une diarrhée G1, une mucosite G2 avec une radiodermite G1 et des vomissements G1, qui ont évolué favorablement 1 mois après la fin du traitement en février 2019. Un scanner cervico-thoracoabdominal a été réalisé 8 semaines après la fin du traitement, ne montrant aucun signe de rechute locale ou systémique.
+Elle est actuellement soumise à des contrôles réguliers sans toxicité résiduelle.

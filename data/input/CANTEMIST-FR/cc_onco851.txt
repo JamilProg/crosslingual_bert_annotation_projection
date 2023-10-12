@@ -1,0 +1,28 @@
+Anamnèse
+Un homme de 71 ans qui vit avec sa femme, mène une vie active et a préservé ses fonctions supérieures. Il n'a pas d'antécédents familiaux ou personnels intéressants, à l'exception d'un tabagisme de 40 paquets-année, et est traité par lormétazépam à raison de 1 mg par jour.
+Elle s'est présentée au service des urgences pour un trouble de la parole d'une durée de 2 heures.
+
+Examen physique
+Le patient était stable sur le plan hémodynamique et les seuls résultats notables de l'examen neurologique étaient des blocages, des paraphasies et une hypoesthésie hémicorporelle droite avec effacement du sillon nasogénien droit. Le reste de l'examen physique était sans particularité.
+
+Examens complémentaires
+Une tomodensitométrie multimodale du cerveau a montré un accident ischémique partiel du territoire antérieur, aux dépens de la branche postérieure de l'artère cérébrale moyenne gauche, et le patient a été transféré à l'unité des accidents vasculaires cérébraux (AVC).
+Une fois dans l'unité, une augmentation des marqueurs de lésions myocardiques a été observée, de sorte qu'une échocardiographie a été effectuée, qui a révélé un épanchement péricardique. Celui-ci a été drainé par péricardiocentèse sous-xiphoïde sans incident, et 1 350 ml de liquide sérohématique ont été extraits, négatifs pour les cellules malignes.
+Au cours des 24-48 premières heures d'admission à l'unité d'AVC, le patient s'est aggravé sur le plan neurologique (avec l'apparition d'une hémianopsie droite, et une perte de force et une anesthésie des membres droits) et respiratoire, nécessitant une oxygénothérapie avec ventilation mécanique. Un scanner thoraco-abdomino-pelvien a été réalisé, révélant des adénopathies hilaires, médiastinales, supraclaviculaires gauches et latérocervicales droites mesurant entre 1,5 et 2 cm, ainsi qu'un épanchement pleural bilatéral et des lésions ischémiques aiguës au niveau de la rate, des reins et du foie.
+À la recherche de la cause des lésions ischémiques multi-organes, une échocardiographie transœsophagienne a été réalisée, visualisant une image verruqueuse au niveau de la valve mitrale avec une insuffisance mitrale modérée, et le patient a été transféré à l'unité coronarienne. Un foyer infectieux possible a été traité empiriquement avec de la gentamicine, de l'ampicilline et de la daptomycine. Des hémocultures ont été demandées, qui se sont révélées négatives à plusieurs reprises, ainsi que la détermination des réactifs sériques de phase aiguë, qui se sont révélés normaux. Compte tenu de ces résultats et du fait que le patient est resté afébrile pendant toute la durée de l'hospitalisation, le service des maladies infectieuses a considéré que la suspicion d'endocardite infectieuse était faible, mais il a décidé d'administrer une antibiothérapie par voie intraveineuse pendant six semaines.
+En outre, parmi les paramètres analytiques sériques, il y avait un fibrinogène légèrement diminué, des plaquettes de grade 2, un indice de prothrombine légèrement prolongé et un temps de thromboplastine partielle activée (TTPA) normal. Au vu de ces résultats et du tableau clinique de thrombose systémique multiple, une CIVD a été suspectée et une anticoagulation à l'héparine de bas poids moléculaire a été mise en place.
+Par la suite, le ganglion lymphatique latérocervical droit a également fait l'objet d'une biopsie, qui s'est révélée positive pour l'infiltration par un adénocarcinome modérément différencié d'origine pulmonaire probable, et a donc été diagnostiqué comme TxN3M1a pulmonaire, ALK négatif et EGFR non muté, PD-L1 50 %.
+
+Diagnostic
+"Adénocarcinome pulmonaire de stade IV. ALK négatif et EGFR non muté.
+"Endocardite thrombotique non bactérienne.
+"Coagulation intravasculaire disséminée.
+"Infarctus artériels multiples (rénaux, hépatiques et spléniques).
+"Accident vasculaire cérébral ischémique de la branche postérieure de l'artère cérébrale moyenne gauche.
+"Tamponnade cardiaque résolue par péricardiocentèse.
+
+Traitement
+L'anticoagulation par héparine de bas poids moléculaire est maintenue. Progressivement, le patient a montré une amélioration neurologique, avec une aphasie motrice légère persistante, une hémianopsie droite et des déficits moteurs ipsilatéraux (3/5 dans le membre supérieur droit et 4/5 dans le membre inférieur droit). Dans cette situation, et après avoir répété la tomodensitométrie de base dans laquelle seules les adénopathies légèrement élargies susmentionnées et les cicatrices corticales dans le pôle inférieur des deux reins sans autres altérations ont été observées, la patiente a commencé une chimiothérapie de première ligne avec une intention palliative selon le carboplatine 5 AUC jour 1 tous les 21 jours en monothérapie en raison de la fragilité.
+
+Progrès
+À ce jour, le patient n'a reçu qu'un seul cycle de chimiothérapie. En fonction de l'évolution, le traitement par biothérapies à base de composés de platine devrait être poursuivi, si l'amélioration clinique constatée jusqu'à présent se maintient.

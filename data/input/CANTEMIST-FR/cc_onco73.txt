@@ -1,0 +1,45 @@
+Anamnèse
+Femme de 29 ans, pas d'allergie médicamenteuse connue, fumeuse et buveuse sociale, obésité de grade 3 (indice de masse corporelle 36). Pas de traitement habituel. La grand-mère maternelle est décédée à l'âge de 78 ans avec un diagnostic de néoplasie utérine.
+
+Elle s'est présentée aux urgences en juillet 2014 en raison d'une douleur précordiale d'intensité accrue en décubitus dorsal et en inspiration profonde, qui s'est améliorée avec l'inclinaison vers l'avant. Une échocardiographie transœsophagienne (ETO) a été réalisée et a révélé un épanchement péricardique modérément sévère nécessitant une admission et une péricardiocentèse évacuatrice avec une cytologie négative pour la malignité.
+
+En août 2014, il a consulté à nouveau pour des épigastralgies, des nausées et une dyspnée progressive, et un nouvel examen tomodensitométrique a documenté un épanchement péricardique très sévère avec un compromis hémodynamique. Il a dû être réadmis et a subi une péricardiocentèse évacuatrice dont la cytologie s'est révélée négative pour une tumeur maligne. Au cours de cette admission, une tomodensitométrie (TDM) du corps a permis d'exclure la présence d'images évoquant un processus néoplasique.
+
+Un nouvel épisode d'épanchement péricardique sévère avec compromis hémodynamique et dyspnée progressive en septembre 2014 a nécessité une péricardiocentèse d'évacuation associée à cette occasion à une fenêtre péricardique et à une biopsie par vidéothoracoscopie (VATS). Le rapport d'anatomopathologie n'a révélé aucun signe de malignité. Un nouveau scanner du corps a montré une masse médiastinale antérieure mesurant 3,8 x 2 cm, un large épanchement pleural gauche, un défaut de remplissage de 3 cm dans l'appendice droit d'origine péricardique probable et une lésion hypodense dans le lobe hépatique droit (LHD) mesurant 1,8 cm.
+Une radiographie thoracique de contrôle réalisée en octobre 2014 a montré un épanchement pleural gauche massif avec une déviation controlatérale du médiastin nécessitant un drainage pleural avec mise en place d'un drain thoracique.
+
+Examen physique
+ECOG 1. Fréquence cardiaque 104 bpm. Hémodynamiquement stable. Bon état général. Obèse. Pâleur discrète de la peau et des muqueuses. Pression veineuse jugulaire non mesurable en raison de la morphologie cervicale large. L'auscultation cardio-pulmonaire ne met en évidence qu'une hypophonie dans la base pulmonaire droite. Les membres inférieurs présentent un œdème sans fovéa jusqu'aux genoux. Le reste de l'examen physique est sans particularité.
+
+Examens complémentaires
+Admis le 14/10/2014 de nouveau dans le service de cardiologie :
+" Hémogramme, biochimie de base, troponines et coagulation (14/10/2014) : Hb 10,5 g/dL ; reste : dans les limites de la normale.
+" Profil biochimique, alpha-fœtoprotéine, bêta-hCG, hormones thyroïdiennes (27/10/2014) : LDH 377 U/L ; reste : dans la normale.
+" Immunologie (24/10/2014) : ANA, anti-DNA natif et anti-sm négatifs.
+" Biochimie du liquide pleural (29/10/2014) : glucose 71 mg/dL ; LDH 319 U/L ; protéines totales 4 g/dL ; ADA 54 U/L.
+"Cytologie du liquide pleural (16/10/2014) : pas de signe de malignité.
+"Biopsie de graisse médiastinale et pleurale par VATS (16/10/2014) : hyperplasie lymphoïde thymique et pleurite fibreuse éosinophile avec hyperplasie mésothéliale.
+" Tomodensitométrie corporelle (24/10/2014) : épaississement péricardique nodulaire englobant les vaisseaux principaux et infiltrant l'oreillette droite, trois lésions hépatiques occupant l'espace et évoquant des métastases et de multiples métastases osseuses.
+
+A la recherche d'un diagnostic histologique, les examens suivants ont été réalisés :
+" Biopsie de la moelle osseuse (30/10/2014) : pas de preuve d'infiltration néoplasique.
+" Biopsie hépatique échoguidée (05/11/2014) : Prolifération cellulaire constituée de cellules cohésives formant des structures canaliculaires simples et complexes avec des atypies cellulaires intenses et de nombreuses mitoses. Infiltration angiosarcomateuse (CD 31 et CD 34 positifs ; CD3 et CD20 négatifs).
+
+Au vu des résultats, elle a été transférée au service d'oncologie médicale le 5/11/2014, étant cliniquement asymptomatique.
+
+Diagnostic
+Angiosarcome d'origine péricardique de stade IV probable en raison d'une atteinte hépatique et osseuse.
+Épanchement péricardique répété d'étiologie tumorale probable.
+Épanchement pleural gauche massif.
+
+Traitement
+À son arrivée au département d'oncologie médicale, le cas a été présenté au comité multidisciplinaire sur les sarcomes, qui a décidé d'entamer un traitement de chimiothérapie à visée palliative.
+
+La première dose du premier cycle de paclitaxel a été administrée chaque semaine à une dose de 80 mg/m2 sans incident, et la patiente a été renvoyée chez elle avec un suivi ambulatoire.
+
+Evolution
+Il a terminé un total de quatre cycles de paclitaxel hebdomadaire, se terminant le 02/03/2015 avec une bonne tolérance et une réponse clinique évidente sans nouvel épisode d'épanchement péricardique.
+
+Le scanner de réévaluation (16/03/2015) a montré un épaississement péricardique stable avec une infiltration de l'oreillette droite englobant les vaisseaux principaux et comprimant le tronc de l'artère pulmonaire, une augmentation du nombre et de la taille des métastases hépatiques, la plus grande mesurant 85 x 40 mm dans le LHI, ainsi que de multiples images hypodenses au niveau des vertèbres iliaques, sacrées et lombaires en relation probable avec des métastases osseuses déjà présentes et stables par rapport à l'étude précédente.
+
+Au vu de la nette progression hépatique, une nouvelle ligne de chimiothérapie a été initiée avec de la doxorubicine à la dose de 75 mg/m2 dont il a jusqu'à présent reçu un total de deux cycles (le dernier le 13/5/2014) avec une toxicité sous la forme d'une anémie de grade 3 nécessitant le report de la seconde administration.

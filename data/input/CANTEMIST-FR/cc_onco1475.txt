@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 62 ans, sans allergie médicamenteuse connue, avec des antécédents personnels de dyslipidémie mixte, de syndrome anxio-dépressif, d'hypertransaminasémie attribuée à des médicaments. Elle a subi une méniscectomie, l'ablation d'un kyste épidermique mandibulaire et une appendicectomie il y a 40 ans. Elle fume 40 cigarettes par jour.
+En janvier 2007, une hypothyroïdie subclinique lui a été diagnostiquée après avoir consulté pour une prise de poids progressive, et un traitement hormonal substitutif a été mis en place.
+Une FNA d'un nodule de 3 cm dans le lobe gauche de la thyroïde était indiquée, ce que la patiente n'a pas fait, et elle ne s'est pas présentée aux consultations jusqu'en juillet 2009.
+
+Examen physique
+Poids 120 kg ; taille 162 cm ; IMC 42,67 kg/m2.
+PS 0, ECOG 0. Conscient, orienté. Bonne coloration de la peau et des muqueuses, bien perfusée, thyroïde palpable avec un nodule d'environ 3 cm dans le lobe gauche. Pas de ganglions lymphatiques cervicaux palpables. Le reste du patient ne présente aucune altération.
+
+Examens complémentaires
+- Analyses sanguines : hémogramme et coagulation normaux, biochimie montrant TSH 7,530 mIU/L, T4 0.46 ng/dL ; le reste sans altérations.
+- Échographie thyroïdienne (juillet 2009) : Glande thyroïde globalement augmentée, de morphologie polylobée, avec des nodules isoéchogènes avec la glande, d'environ 1 cm, à droite des nodules de plus de 1,3 cm, tous en relation probable avec un goitre multinodulaire, accompagnés d'adénopathies latérocervicales bilatérales, plus nombreuses dans la chaîne jugulocarotidienne, d'aspect inflammatoire, la plus grande du côté gauche mesurant 1,3 cm. Une FNA a été réalisée qui a montré un matériel insuffisant et la patiente a refusé de la refaire jusqu'en février 2010.
+- Echographie thyroïdienne (février 2010) : goitre multinodulaire. Dans le lobe gauche de la thyroïde, il y avait un gros nodule kystique rond mesurant 0,9 x 0,8 x 0,8 cm qui n'a pas été ponctionné. Dans le lobe droit, un important nodule au pôle inférieur mesurant 1,4 x 1,32 x 1,71 cm, hypoéchogène, non vascularisé avec des bords irréguliers qui est ponctionné. Adénopathies latérocervicales bilatérales, plus nombreuses dans la chaîne jugulocarotidienne droite, d'aspect inflammatoire et préservant le hile, bien que certaines aient une morphologie arrondie, la plus grande mesurant 0,86 cm.
+- Résultat de la FNA du nodule du lobe thyroïdien droit (mars 2010) : thyroïdite lymphocytaire chronique de type Hashimoto avec signes prolifératifs folliculaires de cellules de Hürthle.
+Le 3 novembre 2010, elle a subi une lobectomie de la thyroïde droite et l'échantillon a été envoyé à l'anatomie pathologique, qui a rapporté un lymphome de la zone marginale de type MALT avec une différenciation plasmocytaire proéminente. Thyroïdite de Hashimoto.
+
+Diagnostic
+Lymphome de la zone marginale de type MALT et thyroïdite d'Hashimoto.
+
+Évolution et traitement
+Elle a d'abord été adressée au service d'oncologie le 21 janvier 2011, et les examens suivants ont été réalisés :
+- Analyses sanguines : NFS et coagulation normales, ESR 30 mm, cholestérol total 269 mg/dL, LDL 174 mg/dL, triglycérides 250 mg/dL, GGT 69, U/L, TSH 24 800 mIU/L, T4 libre 0,42 ng/dL, CEA 1,1 ng/mL, CA-19.9 15,8 U/mL, autres analyses biochimiques négatives, sérologie négative pour le virus de l'hépatite, le VIH, le CMV, l'EB.
+- L'aspiration de la moelle osseuse et l'anatomie pathologique sont normales.
+- Tomodensitométrie du cou, du thorax et de l'abdomen (9 février 2011) : pas de visualisation du lobe thyroïdien droit et de l'isthme thyroïdien. Augmentation du diamètre du lobe thyroïdien gauche, avec des contours lobulés et homogènes du point de vue radiologique. Des adénopathies ont été trouvées dans presque tous les compartiments cervicaux, toutes inférieures à 1 cm, de morphologie ovoïde, radiologiquement non spécifiques et probablement de nature inflammatoire.
+Elle a été mise sous rituximab hebdomadaire, quatre cycles, du 28 février 2011 au 23 mars 2011 et radiothérapie sur le reste de la thyroïde du 26 mai 2011 au 23 juin 2011, dose totale de 36 Gy et fraction de 1,8 Gy.
+Une scintigraphie évolutive du cou, du thorax et de l'abdomen a été réalisée le 3 novembre 2011 : changements post-chirurgicaux, lobe thyroïdien gauche globalement augmenté en taille sans images de nodules, lymphadénopathie dans l'espace sous-mandibulaire, la plus grande du côté gauche, avec un diamètre maximal dans le petit axe de 5,7 mm. Il n'y a aucun signe de récurrence de la maladie.
+Asymptomatique jusqu'à présent.

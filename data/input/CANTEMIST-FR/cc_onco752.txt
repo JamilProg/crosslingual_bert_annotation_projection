@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 63 ans, non fumeuse, ayant des antécédents de carcinome canalaire infiltrant du sein droit T1N0M0, opéré en 1996, sans signe de récidive.
+Elle a consulté son médecin traitant pour une toux irritante en octobre 2017. Une radiographie pulmonaire simple a été demandée, montrant une atélectasie du hile droit.
+
+Examen physique
+Le patient présentait une hypoventilation dans l'hémithorax droit, le reste de l'examen physique étant sans particularité, avec un bon état général (ECOG 0).
+
+Examens complémentaires
+L'étude est complétée par un scanner thoraco-abdomino-pelvien décrivant une masse hétérogène du lobe moyen mesurant 39 mm, s'étendant vers le hile avec infiltration de l'artère lobaire supérieure droite et de l'artère interlobaire, avec de nombreux nodules pleuraux bilatéraux.
+Une fibrobronchoscopie a été réalisée avec une biopsie bronchique non significative, et le brossage bronchique a montré un adénocarcinome, compatible avec une origine pulmonaire.
+Une étude moléculaire a été réalisée sur le bloc cellulaire du brossage et a mis en évidence une mutation de l'EGFR avec délétion de l'exon 19 et une mutation T790M dans l'exon 20.
+Comme il a été initialement considéré que l'échantillon de brossage pourrait ne pas être significatif pour le diagnostic moléculaire, une biopsie pleurale a été réalisée, qui était concordante avec celle de la biopsie bronchique (délétion de l'exon 19, mutation T790M). Une étude des mutations du gène de l'EGFR dans l'ADN libre circulant a également été réalisée et a révélé la présence d'une délétion de l'exon 19.
+En outre, au moment du diagnostic, avant de recevoir ces résultats, il a été proposé à la patiente de participer à l'essai BFAST, dans le cadre duquel une NGS a été réalisée sur du sang (Foundation medicine®), détectant une altération de l'EGFR R574Q, en tant que variante de signification incertaine, ne répondant pas aux critères d'inclusion de l'essai.
+
+Diagnostic
+Avec le diagnostic clinique d'un adénocarcinome pulmonaire de stade IVa avec mutation de l'EGFR, délétion de l'exon 19 et mutation de l'exon 20 T790M, un traitement de première ligne par osimertinib 80 mg/jour est demandé.
+
+Traitement
+Le traitement de première ligne par osimertinib 80 mg/jour a débuté en décembre 2017.
+
+Évolution
+Le patient a montré une excellente tolérance au traitement médical. La réévaluation par tomodensitométrie à deux mois a montré une réponse partielle. Elle poursuit actuellement son traitement par osimertinib, maintenant une réponse partielle.

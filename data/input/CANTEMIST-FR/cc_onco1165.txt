@@ -1,0 +1,31 @@
+Anamnèse
+Patient de 75 ans, sans habitudes toxiques, antécédents de mélanome cutané à l'âge de 59 ans avec exérèse complète.
+Antécédents familiaux de cancer : père atteint d'un cancer du poumon, frère atteint d'un cancer du nasopharynx et un autre frère atteint d'un cancer du côlon.
+En juillet 2013, elle consulte pour une insuffisance respiratoire nasale gauche de 3 mois d'évolution associée à une dysosmie et une rhinorrhée, parfois une hémorragie. S'ajoutaient une perte progressive de l'acuité visuelle de l'œil gauche, une diplopie et des céphalées oppressives frontales.
+
+Examen physique
+L'état de performance (PS) est de 1. Aucune adénopathie cervicale n'a été palpée, et aucune lésion n'a été observée dans la cavité buccale ou la cavité nasale par rhinoscopie antérieure.
+Une endoscopie nasale a été réalisée, montrant une tumeur obstructive au niveau de l'ethmoïde gauche, violacée, friable au contact.
+L'examen ophtalmologique a montré une amaurose de l'œil gauche avec défaut de pupillarité afférente et restriction à la lévogyre. Le reste de l'examen neurologique n'a révélé aucun symptôme focal.
+
+Examens complémentaires
+- Un scanner des sinus paranasaux a été demandé, qui a montré une masse centrée sur les sinus ethmoïdes mesurant 8 x 6 x 4 cm avec une extension intracrânienne et aux fosses nasales, avec un remodelage osseux.
+- Compte tenu de l'atteinte du système nerveux central, une IRM a été réalisée qui a confirmé l'extension à l'endocrâne frontobasal bilatéral avec infiltration du parenchyme encéphalique, provoquant un œdème étendu avec effet de masse sur les cornes frontales et atteinte des deux cavités orbitaires et infiltration des muscles droits internes.
+- Le bilan d'extension a été complété par une tomographie par émission de positons, qui a permis d'exclure une atteinte des ganglions lymphatiques et des métastases à distance. La masse décrite présentait un métabolisme glycidique accru avec une absorption standard (SUV) de 17,3 g/ml.
+
+Diagnostic
+La pathologie a été décrite comme un carcinome indifférencié non à petites cellules, l'origine mélanocytaire ayant été exclue par immunohistochimie. Le diagnostic définitif a été celui d'un carcinome indifférencié d'origine nasosinusienne (SNUC).
+
+Traitement
+Le cas a été présenté à un comité multidisciplinaire et il a été décidé de commencer par une chimiothérapie d'induction et de poursuivre avec une chimio-radiothérapie d'intention radicale en fonction de la réponse.
+Le traitement a débuté le 19/9/2013 par une chimiothérapie d'induction à base de cisplatine 80 mg/m2-paclitaxel 175 mg/m2, administrée en quatre cycles toutes les 3 semaines ; les deux derniers cycles, la dose de cisplatine a dû être réduite à 80 % en raison de l'apparition d'une insuffisance rénale. Au cours du troisième cycle, une réponse partielle a été observée par imagerie par résonance magnétique.
+Le 10/12/2013, il a commencé un traitement de radiothérapie (IMRT, 60 Gy à 2 Gy par séance, 5 séances hebdomadaires) et du carboplatine a été administré en concomitance (150 mg par semaine, total de 7 cycles). Le traitement s'est achevé le 24/1/2014.
+
+Évolution
+La patiente a eu une bonne réponse clinique, avec une résolution de la rhinorrhée et une amélioration franche de l'encombrement nasal, ainsi qu'une récupération de la mobilité oculaire. Il n'y a pas eu d'amélioration de l'acuité visuelle.
+Le contrôle radiologique à 2 mois par imagerie par résonance magnétique a montré une très bonne réponse morphologique, avec une nette réduction de la taille de la masse et une stabilité de l'atteinte orbitaire. Le scanner PET-CT à 3 mois a montré une réponse métabolique complète.
+Le patient s'est rendu à la clinique avec les résultats de la TEP-TDM le 28 avril, où il a fait état de céphalées holocrâniennes depuis trois semaines, accompagnées de somnolence et d'une instabilité de la démarche. Au cours des dernières 72 heures, des douleurs lombaires avec hypoesthésie dans la région périnéale et une altération de la fonction sphinctérienne sont venues s'ajouter.
+L'examen physique a révélé une détérioration fonctionnelle importante avec une somnolence pendant la visite, une occupation hypogastrique compatible avec un ballon vésical, un toucher rectal avec un sphincter anal hypotonique et une ampoule rectale vide. Examen neurologique avec hypoesthésie dans la région périnéale, absence de réflexe crémastérien, force 5/5 dans les membres inférieurs, hypopalesthésie et réflexes ostéotendineux diminués. Réflexe bilatéral cutanéo-fléchisseur plantaire.
+Les principales options du diagnostic différentiel étaient les suivantes : compression de la moelle épinière, progression de la maladie et carcinomatose méningée.
+Compte tenu de cette suspicion, un traitement par corticostéroïdes intraveineux (dexaméthasone) a été mis en place et une IRM de l'ensemble de la colonne vertébrale et du cerveau a été demandée. L'IRM a montré une stabilité de la lésion primaire et des signes de carcinomatose méningée le long de toute la moelle, du conus medullaris et des racines de la cauda equina.
+Malgré un traitement médical intensif, l'évolution a été torpide, avec une diminution progressive du niveau de conscience, et le patient est décédé 72 heures après le diagnostic.

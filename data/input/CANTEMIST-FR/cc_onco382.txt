@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 44 ans, ex-fumeuse, avec un taux de tabagisme cumulé de 15 paquets-années, sans autres antécédents dignes d'intérêt.
+
+ANTÉCÉDENTS ONCOLOGIQUES :
+Diagnostiquée en mars 2014 avec un carcinome malpighien de stade IVB FIGO du vagin en raison d'une atteinte pleurale, ganglionnaire pelvienne, rétropéritonéale et axillaire. À cette époque, elle a présenté une thrombose veineuse profonde (TVP) et une thromboembolie pulmonaire (TEP). Il a été décidé de commencer un traitement à base de cisplatine et de gemcitabine.
+Compte tenu de la faible réponse clinique, la patiente est passée au Cisplatine-Paclitaxel en mai 2014, qui a été maintenu jusqu'en octobre 2014 avec une réponse partielle et le développement d'une neurotoxicité de grade 2.
+En avril 2015, en raison d'une réponse soutenue, une hystérectomie a été réalisée en raison d'une lésion intraépithéliale squameuse de haut grade (SHIL) secondaire à un papillome au niveau du col de l'utérus.
+En novembre 2015, elle a commencé un traitement par Topotécan Cisplatine en raison d'une progression pleurale et d'un nouvel épisode de thrombose (veine sous-clavière), recevant 3 cycles. En février 2016, elle a subi le 4e cycle de Cisplatine-Topotécan, rapportant une dyspnée intense lors d'un effort minime.
+
+Examen physique
+À l'examen, le patient présentait un ECOG 2, avec des tonalités sourdes et tachycardes (environ 100 battements par minute) et une hypoventilation basale plus prédominante du côté gauche. Il présentait également une lésion cutanée érythémateuse, surélevée et indurée sur l'avant-bras, dans ce qui semblait être le trajet de la veine céphalique. Le reste de l'examen était sans particularité.
+
+Examens complémentaires
+Une radiographie pulmonaire (CXR) urgente a été réalisée, qui, comparée aux précédentes, a révélé des signes d'insuffisance cardiaque : cardiomégalie, augmentation de l'épanchement gauche et infiltrat interstitiel. Des tests de laboratoire urgents ont révélé une anémie de 9,2 et une protéine C-réactive de 102 avec une procalcitonine normale. Enfin, un électrocardiogramme a été réalisé et a révélé une tension basse. Sur la base de la présentation clinique du patient et des résultats des examens complémentaires, l'étude a été complétée par un angioCT scan, qui a montré une thrombose de la veine innominée, un épanchement péricardique sévère et un léger épanchement pleural bilatéral, prédominant à gauche.
+
+Le diagnostic
+Après les examens complémentaires réalisés, nous avons posé le diagnostic d'épanchement péricardique sévère avec atteinte hémodynamique.
+
+Traitement
+Compte tenu de la situation clinique du patient, le cas a été discuté avec l'intensiviste de garde et il a été décidé de procéder à une péricardiocentèse évacuatrice avec mise en place d'un drainage péricardique prolongé (PDP), en évacuant 500 centimètres cubes (cc) de liquide hématique sur place et par la suite jusqu'à 750 cc supplémentaires.
+Comme l'avait suggéré l'inspection visuelle du liquide, qui était hémorragique, l'examen pathologique s'est révélé positif pour les cellules malignes, aucun germe ne s'étant développé à l'examen microbiologique.
+
+Évolution
+Après la péricardiocentèse et la mise en place du DPP, le patient a présenté un épisode de désaturation et de fibrillation auriculaire avec réponse ventriculaire rapide (RVARF) qui a nécessité l'utilisation de médicaments antiarythmiques et une oxygénothérapie avec un masque de ventilation à 35 %, avec un rétablissement ultérieur au bout d'environ 48 heures. Une fois l'absence d'épanchement confirmée par échocardiographie, plus ou moins 72 heures après la mise en place du DPP, celui-ci a été retiré sans complications immédiates.
+De façon programmée dans le service, une échographie Doppler du membre supérieur droit a été demandée, qui a montré des signes compatibles avec une thrombophlébite de la veine céphalique ainsi qu'une thrombose de la veine jugulaire. La radiographie de contrôle ne montre pas de signes d'insuffisance cardiaque et l'épanchement pleural a disparu.
+La patiente est actuellement oligoasymptomatique, sous administration quotidienne d'héparine de bas poids moléculaire et mène une vie normale. Elle a exprimé le souhait de ne pas poursuivre le traitement par chimiothérapie pour le moment et a donc été orientée vers l'unité de soins palliatifs.

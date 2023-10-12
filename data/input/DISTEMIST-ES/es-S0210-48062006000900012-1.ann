@@ -1,0 +1,8 @@
+T1	pathologie 70 105	carcinoma de células transicionales
+T2	pathologie 229 254	carcinoma in situ vesical
+T3	pathologie 363 382	prolapso del estoma
+T4	pathologie 853 873	infiltración tumoral
+#1	SNOMED T1	27090000
+#2	SNOMED T2	92546004
+#3	SNOMED T3	235797004
+#4	SNOMED T4	128462008

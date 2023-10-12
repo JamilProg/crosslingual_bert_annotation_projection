@@ -1,0 +1,33 @@
+Anamnèse
+Actuellement une femme de 54 ans, avec un antécédent pertinent de thyroïdectomie pour microcarcinome papillaire en novembre 2010, actuellement sous traitement de substitution, fumeuse de 20 cigarettes par jour depuis 30 ans avec un indice paquet-année (IPP) de 30, sans autres antécédents d'intérêt.
+Elle n'a pas d'antécédents familiaux pertinents.
+Elle a consulté pour la première fois le service des urgences en octobre 2015 en raison de paresthésies dans les deux membres supérieurs, pour lesquelles une tomodensitométrie (TDM) crânienne a été demandée.
+
+Examen physique
+"Bon état général, eupnéique au repos sans signe de détresse respiratoire, bien hydraté et perfusé.
+"Hémodynamiquement stable et afébrile.
+"Neurologique : conscient et orienté dans les 3 sphères, pupilles isochores et normoréactives, pas d'altération des nerfs crâniens, force et sensibilité préservées dans les 4 extrémités ; pas de dysmétrie ni de dysdiadochokinésie.
+"Auscultation cardio-pulmonaire : aucun résultat pertinent.
+"Examen abdominal normal : pas de ganglions lymphatiques palpables ni de viscéro-mégalie.
+
+Examens complémentaires
+Un scanner crânien urgent a été réalisé, qui a révélé une lésion supratentorielle paramédiane frontale gauche avec œdème vasogénique et effet de masse entraînant une hernie sous-faciale et un déplacement de la ligne médiane. L'étude a été complétée par une imagerie par résonance magnétique (IRM) cérébrale qui a confirmé les résultats du scanner, en plus de visualiser une deuxième lésion dans le cervelet droit, ainsi que par une radiographie du thorax montrant une lésion dans l'hémithorax gauche, de sorte que le patient a finalement été admis en médecine interne pour compléter l'étude.
+Lors de l'admission, un scanner thoraco-abdominal a été réalisé, montrant une masse pulmonaire dans la lingula avec une extension hilaire, des nodules pulmonaires bilatéraux et des adénopathies de taille significative dans la région paratrachéale bilatérale.
+Une bronchoscopie a également été réalisée, permettant d'obtenir une biopsie de la masse dans le lobe supérieur gauche (LSI) et une lymphadénopathie paratrachéale droite avec un diagnostic anatomopathologique d'adénocarcinome, pour lequel une étude mutationnelle a été demandée.
+
+Diagnostic
+Finalement, un diagnostic d'adénocarcinome pulmonaire cT2b N3 M1b (stade IV TNM 8e édition en raison de l'atteinte bilatérale du cerveau et des poumons), avec mutation de l'EGFR (19) a été posé.
+
+Traitement
+Lors de son admission en médecine interne, le patient a été évalué par la radio-oncologie et compte tenu de l'atteinte du système nerveux central (SNC) avec hernie et œdème vasogénique associé important, avec des symptômes neurologiques secondaires, il a été décidé de débuter un traitement par radiothérapie.
+Une radiochirurgie a été réalisée sur la lésion cérébelleuse le 3/11/2015, administrant une dose de 18Gy, ainsi qu'une radiothérapie stéréotaxique (RT) sur la lésion frontale, administrant une dose de 35Gy.
+Compte tenu de la découverte de la mutation de l'EGFR (19), un traitement a été débuté par afatinib 40 mg/jour le 18/11/2015, nécessitant une réduction de dose en raison d'une diarrhée de grade 2, avec une bonne tolérance par la suite, maintenant une réponse partielle lors des examens d'imagerie de réévaluation.
+
+Évolution
+Au cours du suivi, après 20 mois de traitement ciblé par afatinib 30mg/24 heures, sans signe de progression, le patient a présenté en juillet 2017 une progression radiologique minime au niveau pulmonaire lors du scanner de réévaluation. Une biopsie liquide a été réalisée qui n'a pas montré de mutation de résistance, il a donc été décidé de réaliser une biopsie par bronchoscopie, avec le résultat d'un adénocarcinome pulmonaire positif à la mutation EGFR (19), ainsi qu'à la mutation de résistance T790M positive. Étant donné qu'elle restait asymptomatique, il a été décidé de maintenir le traitement par afatinib pour le moment.
+De nouveau, en février 2018, lors d'un scanner de réévaluation, une progression a été observée dans les poumons avec une atteinte stable du SNC, de sorte qu'une étude mutationnelle a été demandée dans une biopsie liquide, avec des résultats négatifs pour les mutations. Compte tenu des données d'oligoprogression, le patient a été adressé à la radio-oncologie pour évaluer le traitement local, mais le PET scan de planification a montré une progression locale plus importante, ainsi qu'une progression systémique avec une implication de la glande surrénale gauche.
+À ce moment-là, il a été décidé de réaliser une nouvelle biopsie liquide avec un résultat négatif pour la mutation de résistance T790M, raison pour laquelle une biopsie tissulaire a été demandée par bronchoscopie, qui a été réalisée le 23/4/2018, avec un résultat anatomopathologique de carcinome à petites cellules.
+Compte tenu des données de transformation histologique de la tumeur et des preuves de progression, le 9/5/2018 un traitement a été commencé avec carboplatine AUC-5 + étoposide 100 mg/m2, suspendant le traitement après 3 cycles en raison de la progression au niveau du SNC. La patiente a été à nouveau adressée à la radio-oncologie, recevant, en août 2018, une RT holocrânienne de 30 Gy avec un fractionnement de 3 Gy.
+Une nouvelle biopsie liquide a été réalisée avec détection de la délétion de l'exon 19, mais pas de la mutation de résistance T790M, de sorte qu'une nouvelle biopsie tissulaire a été réalisée avec le résultat d'un adénocarcinome pulmonaire positif pour la mutation de l'EGFR (19) et avec l'apparition de la mutation de résistance acquise T790M.
+Au vu de ces résultats, elle a commencé le 7/11/18 un traitement par osimertinib 80 mg, qu'elle a maintenu pendant 2 mois avec des signes de progression lors de la tomodensitométrie de réévaluation. Une nouvelle biopsie tissulaire a donc été décidée avec un résultat anatomopathologique de néoplasie avec des zones de carcinome à petites cellules et d'adénocarcinome avec mutation de l'EGFR (19), mais sans mutation T790M.
+Compte tenu de ces résultats, étant donné qu'il s'agissait d'un jeune patient avec ECOG 0, il a été décidé de commencer le traitement par carboplatine AUC-5 + gefitinib 250 mg le 5/2/2019, ayant reçu 4 cycles à ce jour avec une bonne tolérance et une maladie stable.

@@ -1,0 +1,36 @@
+Anamnèse
+Une femme de 38 ans, sans antécédents personnels intéressants, s'est présentée en consultation en raison de métrorragies après le premier mois de puerpéralité. Elle a été examinée par un gynécologue qui a d'abord diagnostiqué des débris endocavitaires et a été traitée avec du maléate de méthylergométrine par voie intramusculaire. Malgré le traitement, les métrorragies se sont aggravées. Dans le même temps, elle a commencé à développer une fièvre, principalement nocturne, d'une durée de 6 jours, accompagnée d'une douleur pleurétique sur le flanc droit, raison pour laquelle elle est revenue à la clinique.
+
+Examen physique
+ ECOG 0. Hémodynamiquement stable avec une saturation en oxygène de 97%. Conscient et orienté. Couleur normale et bonne perfusion. Eupnéique au repos.
+"Pas d'adénopathies, pas d'ingurgitation jugulaire. Abdomen et membres inférieurs normaux.
+"Auscultation cardiaque : souffle systolique au foyer aortique.
+"Auscultation pulmonaire : hypoventilation dans la base droite et crépitations éparses dans les deux bases, principalement à droite.
+"Examen vaginal : col perméable, non douloureux à la palpation. Utérus antéversé.
+
+Examens complémentaires
+"Radiographie thoracique : nodulations bilatérales compatibles avec un relâchement du ballonnet.
+"NFS : hémoglobine 12,1 g/dl, LDH 313, protéine C-réactive 60,3 mg/l. Hémostase normale. B-hCG : 59.631 IU/l.
+"Échographie vaginale : image de contours imprécis dans le myomètre mesurant 26 x 24 mm, s'étendant du tiers moyen du myomètre à l'espace intracavitaire et avec une vascularisation abondante au Doppler. Kyste lutéal dans l'ovaire gauche.
+"CT cérébral, cervical et thoraco-abdominal-pelvien : métastases pulmonaires bilatérales allant jusqu'à 48 mm dans le lobe inférieur droit, avec centre nécrotique. Petit épanchement pleural droit. Lésions hépatiques de 9 et 11 mm compatibles avec des hémangiomes. Prominence du plexus veineux parautérin, probablement liée à un accouchement récent, sans extravasation de produit de contraste.
+"Echographie abdominale : confirme que les lésions hépatiques sont compatibles avec des hémangiomes.
+"Echocardiographie : fonction biventriculaire préservée. FEVG 60%.
+"Hystéroscopie : dans la cavité utérine, il y avait une formation irrégulière sur la surface latérale droite mesurant environ 2,5 cm qui empêchait la visualisation de l'ostium. Dans le canal endocervical, formation vésiculaire de 5 mm, sur laquelle une biopsie a été effectuée.
+"IRM pelvienne : lésion endométriale compatible avec un foyer primaire de maladie trophoblastique.
+
+Diagnostic
+Néoplasie trophoblastique gestationnelle de stade III (en raison d'une atteinte pulmonaire), risque élevé (9 points).
+
+Traitement
+Après une hystéroscopie et une biopsie endocervicale, la patiente a présenté une hémorragie utérine nécessitant la mise en place d'un cathéter utérin et l'embolisation des deux artères utérines et des branches cervico-vaginales droites.
+Selon le score pronostique de la FIGO : +0 point pour un âge inférieur à 40 ans, +2 points pour une grossesse à terme 1 mois plus tôt, +2 points pour une B-hCG > 104, +1 point pour des métastases pulmonaires < 5 cm, +4 points pour des métastases pulmonaires bilatérales multiples. SCORE 9.
+Compte tenu du diagnostic clinique de néoplasie trophoblastique gestationnelle à haut risque de stade III-score 9, avant même la confirmation histologique, une chimiothérapie a été mise en place selon le schéma bimensuel EMA-CO : étoposide 100 mg/m2/jour et dactinomycine 0,5 mg intraveineux jours +1 et +2 ; méthotrexate 300 mg/m2 intraveineux jour +1 ; cyclophosphamide 600 mg/m2 et vincristine 1 mg/m2 intraveineux jour +8.
+La biopsie endocervicale a confirmé histologiquement la présence d'un choriocarcinome.
+Le deuxième cycle a été retardé en raison d'une neutropénie fébrile de grade 4, qui a nécessité une admission et un traitement par soutien factoriel avec une dose unique de filgrastim et une transfusion en raison d'une anémie de grade 2, sans obtenir d'isolement microbiologique. Les tests de laboratoire ont confirmé une chute de la B-hCG à la moitié de la valeur précédente (facteur de pronostic).
+Après le deuxième cycle, elle a présenté une nouvelle neutropénie fébrile de grade 4, de sorte qu'elle a reçu le troisième cycle avec deux semaines de retard et sans jour +2 d'étoposide ou de daptomycine, conformément aux indications des directives cliniques.
+La B-hCG s'est normalisée après les 4 premiers cycles, ce qui a permis de compléter un total de 7 cycles de traitement conformément aux directives, qui recommandent 2 à 3 cycles supplémentaires après que le marqueur soit négatif.
+Autres toxicités notables : alopécie et asthénie de grade 2 ; et un nouvel épisode de neutropénie afébrile de grade 3 après le 7ème cycle.
+
+Evolution
+Après la fin du traitement, elle a présenté une réponse biochimique et radiologique complète ; une réponse pelvienne complète a été observée à l'IRM, ainsi qu'une diminution significative des lésions pulmonaires, dont la plus grande était de 25 mm en LID.
+Conformément aux directives, les taux de B-hCG ont d'abord été contrôlés toutes les semaines, puis toutes les deux semaines et enfin tous les mois au cours de la première année suivant la fin du traitement, et elle est restée asymptomatique avec des taux de B-hCG dans la fourchette normale à tout moment.

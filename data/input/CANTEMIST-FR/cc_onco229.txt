@@ -1,0 +1,34 @@
+Anamnèse
+Femme de 24 ans, professionnelle de l'administration et de la finance, pas d'allergies médicamenteuses connues, pas d'habitudes toxiques, pas d'antécédents personnels d'intérêt. Pas de médication habituelle. Antécédents familiaux de cancer : grand-père paternel atteint d'un cancer du larynx à l'âge de 56 ans, grand-mère maternelle atteinte d'un cancer du sein à l'âge de 47 ans, cousin paternel atteint d'un cancer de la thyroïde à l'âge de 11 ans et mère atteinte d'une leucémie aiguë lymphoblastique à l'âge de 48 ans.
+
+À l'âge de 14 ans, en décembre 2003, après une ponction biopsie du foie, on a diagnostiqué chez elle un hépatoblastome embryonnaire avec différenciation cholangiolaire. La tumeur était localisée dans le lobe hépatique gauche, le caudé et les segments 5 et 8 du lobe hépatique droit, après avoir été cliniquement exclue en tant que néphroblastome ou blastome d'un autre organe.
+
+Le traitement a débuté par une chimiothérapie néoadjuvante selon le schéma SIOPEL III pour les tumeurs à haut risque (Cisplatine à haute dose en alternance avec Adriamycine-Carboplatine). Le 24 juin 2004, elle a subi une intervention chirurgicale, avec hépatectomie des segments II et III. L'étude pathologique a montré un hépatoblastome mixte : épithélial (embryonnaire et fœtal), stroma sans caractéristiques tératoïdes. Les berges chirurgicales ont été respectées. Aucune infiltration vasculaire, lymphatique ou capsulaire n'a été observée. En revanche, la nécrose était inférieure à 10 %.
+
+Le traitement adjuvant a été complété par le même calendrier, qui s'est terminé le 26 août 2004. Les doses cumulées des trois médicaments étaient de 2500 mg/m2, 300 mg/m2 et 400 mg/m2 pour le carboplatine, l'adramycine et le cisplatine, respectivement.
+Elle a été suivie par l'oncologie pédiatrique ; elle avait un cathéter veineux central (Port-a-Cath) jusqu'au 09/01/2009, date à laquelle il a été retiré sans complications.
+
+En 2010, une lésion hépatique a été détectée dont le diagnostic radiologique (échographie et IRM hépatique) a suggéré une hyperplasie nodulaire focale, sans pouvoir exclure d'autres diagnostics (rechute d'hépatoblastome ; adénome). Un suivi a été décidé. La lésion a montré une croissance lente, mais en octobre 2014, une croissance significative de la lésion a été observée, de sorte qu'une biopsie de confirmation a été effectuée, qui a abouti à une récidive de l'hépatoblastome. La patiente a été adressée à la clinique ambulatoire d'oncologie médicale. À ce moment-là, elle était asymptomatique et menait une vie normale.
+
+Examen physique
+ECOG-PS 0.
+Très bon état général.
+L'examen de l'appareil et des systèmes ne révèle aucune pathologie.
+
+Examens complémentaires
+-Anatomie pathologique (décembre 2003) : on observe des amas de petites cellules rondes bleues dans un stroma fibreux. Ce stroma montre également des canaux bordés par un épithélium monostratifié, cubique, à gros noyaux, hyperchromatique. Aucune cellule rappelant les hépatocytes fœtaux ou adultes n'est observée. Pas d'érythropoïèse extramédullaire ; compatible avec un hépatoblastome embryonnaire à différenciation cholangiolaire.
+-Échographie du foie (22.10.2014) : Croissance de la tumeur située dans le segment VIII du lobe hépatique droit par rapport au contrôle précédent en 2012. Volume actuel d'environ 489 cc (98 x 87 x 109mm). Il s'agit d'une lésion échogène avec une zone centrale de morphologie réticulaire hypoéchogène évocatrice (non concluante à l'échographie) de FNH. Aucune autre lésion hépatique. Doppler hépatique dans les limites de la normale. Vessie, reins, rate, vessie, sans altération morphologique.
+-IRM hépatique (26.11.2014) (FIGURE 1) : Augmentation de la taille de la lésion déjà connue située dans le segment 8, qui présente actuellement des axes maximaux de 101 x 66 x 82 mm (craniocaudal, transverse, antéropostérieur). Malgré cette modification, son comportement en imagerie dans les différentes séquences et renforcements est stable, ainsi que dans l'étude dynamique après administration de gadolinium. Ses contours sont bien définis, sans altération du parenchyme adjacent. Il a un effet de masse, déplaçant les structures vasculaires adjacentes, sans les infiltrer.
+- Biopsie percutanée de la masse hépatique (26.12.2014) : Hépatoblastome embryonnaire. Les techniques immunohistochimiques réalisées (CK-7, CD99 et B-Caténine) confirment le diagnostic histologique.
+- Hémogramme, biochimie et hémostase sans altération. Alpha-fœtoprotéine dans les limites de la normale.
+- Étude d'extension négative.
+
+Diagnostic
+Récidive hépatique tardive d'un hépatoblastome embryonnaire.
+
+Traitement
+Le cas a été discuté au sein du comité multidisciplinaire des tumeurs en janvier 2015 et a fait l'objet d'une évaluation par des experts de la gestion des tumeurs rares (SIOPEL : Liver Tumour Study Group of the International Society of Paediatric Oncology) ; il a été considéré que la tumeur était difficile à réséquer avec des marges sûres, il a donc été décidé de traiter par chimiothérapie néoadjuvante par Ifosfamide-Carboplatine-Etoposide pendant 3 cycles avec prophylaxie primaire de la fièvre neutropénique par G-CSF pégylé, suivie d'une évaluation en vue d'une intervention chirurgicale, voire d'une transplantation hépatique.
+
+Évolution
+La patiente a commencé le traitement le 25 février 2015. Trois cycles de chimiothérapie ont été administrés avec une évaluation ultérieure. La tomodensitométrie a montré une maladie stable, inchangée par rapport à la précédente. Le cas a été réévalué par le Comité des tumeurs hépatiques le 11 mai 2015 ; compte tenu de la stabilité de la maladie après trois cycles de QT avec Ifosfamide-Carboplatine-Etoposide, le patient a été considéré comme un candidat à la transplantation hépatique, étant donné la difficulté d'obtenir une résection R0. Deux cycles supplémentaires de chimiothérapie ont été administrés (5 cycles au total, le dernier cycle ayant eu lieu le 30 juin 2015).
+Des nausées de grade 1 et une alopécie, très bien tolérée, se sont distinguées comme toxicité. Elle a bénéficié d'une mise en route préopératoire et a été inscrite sur la liste d'attente pour une transplantation hépatique le 24 juin 2015. Elle est actuellement suivie à la fois par l'hépatologie et l'oncologie médicale, dans l'attente d'une transplantation hépatique. Les IRM de contrôle ne montrent pas de changements significatifs par rapport aux études précédentes.

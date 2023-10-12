@@ -1,0 +1,36 @@
+Anamnèse
+Allergique à la pénicilline
+- Ex-fumeuse depuis février 2014 (30 cigarettes/jour). Pas d'habitude alcoolique.
+- Hypertriglycéridémie. Pas d'hypertension, pas de diabète.
+- Pas de pathologie cardiaque, respiratoire ou digestive.
+- Interventions chirurgicales : cryptorchidie (orchidopexie à l'âge de 15 ans).
+Masse testiculaire indolore au niveau du testicule gauche dont l'étude s'est conclue par une orchidectomie inguinale en juin 2011. Le diagnostic était celui d'une tumeur germinale séminomateuse (SGGT) de stade IIc sans élévation des marqueurs.
+Après la chirurgie, le patient a reçu 3 cycles de BEP (bléomycine, étoposide et cisplatine), obtenant une réponse complète. Par la suite, le patient a subi des examens périodiques tous les trois mois et des tomodensitométries tous les six mois, sans aucun résultat ni symptôme.
+Le 8 janvier 2014 (2 ans et demi après le diagnostic initial), il s'est rendu au service des urgences de son hôpital de référence en raison d'une paresthésie des membres inférieurs accompagnée d'une paraparésie, d'une constipation et d'une perte de contrôle du sphincter.
+Une IRM de la colonne vertébrale a été réalisée en urgence et a révélé une lésion d'extension intra-extradurale au niveau D6 avec une atteinte sévère de la moelle épinière.
+
+Examen physique
+ECOG 1, bon état général.
+Poids : 71,6 kg. Taille : 1,78 mètre. Conscient et orienté. Score de Glasgow 15/15.
+Auscultation cardio-pulmonaire sans résultats significatifs.
+L'abdomen n'a rien révélé de significatif. Hypo-anesthésie avec niveau sensoriel D6 à gauche et D8 à droite. Paraparésie avec force bilatérale 4/5 dans tous les groupes musculaires. Réflexes ostéotendineux exaltés. Réflexe extenseur cutané-plantaire bilatéral.
+
+Tests complémentaires
+- 20/2/2014 : alpha-fœtoprotéine 2,5 nag/ml [1-20]. Gonadotrophine bêta chorionique 0,1 UI/l [0-5].
+- 17/1/2014 : IRM du rachis dorsal : lésion extramédullaire intradurale-extradurale au niveau D6 avec atteinte médullaire sévère (fort degré de compression médullaire, déplacement vers la droite, croissance à travers la conjonctive du foramen D6-D7 gauche).
+
+Diagnostic
+Tumeur extramédullaire intra-extradurale D6-D7 chez un patient aux antécédents de tumeur germinale testiculaire séminomateuse opéré en 2011.
+
+Traitement
+Le patient a été transféré dans notre centre où une intervention chirurgicale urgente a été réalisée au moyen d'une incision médiane centrée sur D6 et d'une laminectomie. Une lésion épidurale avec atteinte de la moelle épinière a été découverte, introduite par le foramen D6-D7 gauche. Après résection de la partie extradurale, l'échographie a été introduite, montrant une composante intradurale qui comprimait sévèrement la moelle épinière, et la partie intradurale a également été réséquée, laissant la moelle épinière libre.
+Anatomie pathologique : métastase extramédullaire de la région dorsale d'un séminome. Etude immunohistochimique : CD117 et PLAP : expression dans les cellules néoplasiques.
+
+Évolution
+Après un rétablissement initial satisfaisant, quelques jours après l'opération, le patient a commencé à éprouver des difficultés à élaborer son discours avec une bradypsychie, qui a été initialement attribuée au traitement médical prescrit.
+Le tableau clinique évolue vers une dysarthrie, une diplopie avec baisse de la vision et une instabilité marquée. Il y a une diminution de la force dans le membre supérieur droit avec une amyotrophie associée 3+/5. L'équilibre moteur des membres inférieurs est de 5/5. Légère dysmétrie droite au test de l'index du nez. Difficulté à marcher et à se tenir debout en augmentant la base d'appui. Romberg positif. Contrôle sphinctérien adéquat.
+Une IRM a été réalisée, montrant trois lésions occupant l'espace (LOE) de nature probablement métastatique avec une composante hématique dans la région pinéale, le cervelet avec extension au IVe ventricule et au niveau épidural paracentral droit C4-C5 et dorsal.
+La patiente a débuté un traitement par chimiothérapie de rattrapage selon le schéma TIP pendant 4 cycles du 26/2/2014-30/4/2014 sans incident et avec une bonne tolérance.
+Après le premier cycle, une amélioration clinique très notable a été constatée avec une résolution partielle des déficits neurologiques précédemment rapportés.
+L'IRM de réévaluation a montré une réponse partielle avec une réduction significative de la taille de la lésion cérébelleuse et une disparition quasi complète des lésions pinéales et cervicales, avec des reliquats millimétriques à ces niveaux. La lésion dorsale opérée n'a pas évolué. Le patient a été adressé à la radio-oncologie pour envisager une irradiation complémentaire du système nerveux central.
+Dernière révision en oncologie le 21/5/2014 : pas de toxicité pertinente après la chimiothérapie et avec persistance d'une certaine diplopie avec le regard inférieur. Elle marche actuellement avec l'aide d'un déambulateur et son état fonctionnel est estimé à ECOG 1, en attendant le début du traitement de rééducation dans son centre de référence.

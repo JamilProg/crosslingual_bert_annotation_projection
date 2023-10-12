@@ -1,0 +1,26 @@
+Anamnèse
+Il s'agit d'une femme de 69 ans, sans habitudes toxiques, avec des antécédents d'hypertension et d'hypercholestérolémie, originaire de Barcelone. En avril 2014, elle a présenté un épisode d'hémorragie gastro-intestinale haute.
+
+Examen physique
+Au moment du diagnostic, l'examen physique a révélé que le patient présentait un ECOG PS 1
+Aucun résultat notable à l'examen physique.
+
+Examens complémentaires
+Lors du diagnostic en avril 2014, une étude endoscopique a été réalisée montrant la présence d'une lésion ulcérée au niveau du corps gastrique avec une biopsie positive pour un adénocarcinome intestinal.
+L'herceptest était négatif.
+Un scanner abdominal a été réalisé, montrant une lymphadénopathie péri-régionale, des hémangiomes hépatiques et une image hépatique non spécifique de 14 mm dans le segment VI, ce qui a conduit à recommander une étude par IRM. L'IRM a montré une prise de contraste annulaire en phase tardive et a donc conclu à une métastase hépatique unique probable.
+
+Diagnostic
+Une patiente de 69 ans en bon état général a été jugée atteinte d'un adénocarcinome gastrique du corps intestinal de stade IV Her-2-neu négatif en raison de la présence de métastases hépatiques, seul candidat à un traitement par chimiothérapie de première intention.
+
+Traitement
+Le 30/06/2014 il a commencé le traitement selon le schéma cisplatine 80mg/m2 - capecitabine 1500mg dose totale toutes les 12 heures pendant 14 jours en cycles de 21 jours.
+
+Evolution
+Après le premier cycle, il a été hospitalisé pour une toxicité digestive de grade III, une insuffisance rénale de grade I et une toxicité hématologique de grade I. Après récupération clinique, il a été décidé de poursuivre le deuxième cycle du même traitement avec une réduction de dose de 20%.
+Le scanner abdominal d'octobre 2014 après 4 cycles a montré une diminution de la lésion hypodense du segment VI hépatique, qui a atteint un diamètre maximal de 9mm. L'épaississement focal de la petite courbure gastrique de 22 mm n'a pas montré de changements appréciables par rapport à l'étude de base. Il a été décidé de poursuivre le traitement avec une deuxième réduction de dose de 20 % en raison de l'asthénie, des nausées et de la toxicité hématologique de grade 2. La patiente a terminé un total de 6 cycles. Une tomodensitométrie abdominale ultérieure (janvier 2015) n'a pas montré de maladie mesurable, de sorte que le comité multidisciplinaire a décidé d'envisager une intervention chirurgicale pour la tumeur primaire.
+Le 02/02/2015, une gastrectomie totale laparoscopique avec lymphadénectomie a été réalisée. La biopsie périopératoire de la lésion hépatique a montré la présence de changements stéatosiques sans preuve de cellules malignes. Il n'y avait pas non plus de signes de carcinomatose péritonéale et le lavage péritonéal était négatif pour les cellules malignes. Les résultats anatomopathologiques étaient compatibles avec un adénocarcinome peu différencié (4 cm) de type intestinal infiltrant toutes les couches de la paroi et sous-séreux (ypT3) à une distance de la séreuse <1mm). Il y avait des signes d'invasion vasculaire mais pas d'invasion périneurale. Les marges de résection ne présentent aucun signe de néoplasie. Vingt-et-un ganglions lymphatiques ont été isolés dans la petite courbure et sept dans la grande courbure, sans signe de néoplasie (pN0).
+Il a été décidé de poursuivre la surveillance jusqu'en avril 2015, date à laquelle un scanner de l'abdomen a montré un élargissement de 26 mm de la lésion du segment VI hépatique suggérant la présence de métastases. Le PET-CT a montré la présence d'un nodule hypodense et hypermétabolique (SUVmax : 11,01) d'un diamètre maximal de 3 cm.
+La progression hépatique a été évaluée à 3 mois après la chirurgie et à 5 mois après la fin de la première ligne de chimiothérapie, il a donc commencé un traitement de deuxième ligne avec ramucirumab 8 mg/kg les jours 1 et 15, plus paclitaxel 80 mg/m² les jours 1, 8 et 15 dans des cycles de 28 jours. Elle a commencé le traitement le 17/06/15 et a terminé un total de 7 cycles avec une bonne tolérance, ne présentant qu'une neuropathie de grade I et une asthénie.
+Lors de la tomodensitométrie d'évaluation de la réponse après le troisième cycle, elle a montré une réponse partielle avec une réduction de la taille de la lésion hépatique, qui mesurait 17 mm. Cette réponse a été maintenue après le 7e cycle, de sorte qu'après avoir évalué le cas au sein du comité des tumeurs hépatiques, il a été décidé de réaliser une métastasectomie hépatique le 22/02/2016. Le résultat anatomopathologique était des zones étendues de nécrose et un petit foyer de 0,4 cm de tumeur viable compatible avec une métastase de carcinome peu différencié d'origine gastrique connue, avec des marges libres.
+Par la suite, le patient a été suivi dans notre centre sans aucun signe de récidive (dernière tomodensitométrie réalisée le 29/03/16).

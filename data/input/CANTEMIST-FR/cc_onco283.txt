@@ -1,0 +1,22 @@
+Anamnèse
+Nous présentons le cas d'un homme de 28 ans, dont les antécédents personnels comprennent la maladie de Scheuermann. Il n'y a pas d'antécédents familiaux intéressants.
+Il a consulté aux urgences le 25 septembre 2012 en raison de symptômes de paresthésie et de diminution de la force des membres inférieurs, d'une évolution d'environ deux semaines. De même, le patient recevait un traitement antalgique pour des douleurs lombaires depuis environ 3 mois.
+
+Examen physique
+L'examen physique a révélé une perte de force des membres inférieurs (3/5) et une abolition des réflexes.
+
+Examens complémentaires
+Une imagerie par résonance magnétique (IRM) du rachis dorsal a été réalisée en urgence, montrant une infiltration au niveau des vertèbres C7-D4, associée à une masse de tissus mous provoquant une atteinte de la moelle épinière et des foramens.
+
+Diagnostic
+Il a été opéré en urgence par le service de neurochirurgie, avec laminectomie des vertèbres D3 à D6 et ablation de la tumeur épidurale. Le résultat anatomopathologique (AP) était compatible avec une métastase de séminome (CAM 5.2 (-) ; CD30 (-) ; ACL (+) ; OCT4 (+) ; HMB-45 (-)).
+Auparavant, le patient était étudié pour une lésion testiculaire. Au cours de l'étude, une échographie scrotale a été réalisée (20/09/2012) qui a confirmé la présence d'une tumeur au niveau du testicule gauche. Au vu de ces constatations et du résultat de l'AP de la précédente intervention chirurgicale, une orchidectomie radicale gauche a été réalisée le 1er octobre. Le résultat histologique de l'opération était une tumeur germinale testiculaire mixte, composée d'un séminome typique (85 %), d'un tératome monodermique mature (5 %) et d'un néoplasme germinal intratubulaire (GIN ou CIS, 10 %) avec de multiples images d'invasion vasculo-lymphatique, respectant l'albuginée et le vagin, et classée au stade pT2.
+Après l'opération, et pour compléter l'étude d'extension, un scanner thoraco-abdomino-pelvien (TAP CT) a été réalisé le 3 octobre, qui a détecté la présence d'une masse para-aortique rétropéritonéale gauche mesurant 8x7 cm, compatible avec une atteinte métastatique. Marqueurs tumoraux post-orchiectomie : LDH : 682 U/L (135-225 U/L), Alpha-1 Fœtoprotéine : 1,79 ng/ml (0-20), HCG : 72,5 mU/ml (0-1).
+
+Traitement
+Avec le diagnostic de tumeur germinale mixte de stade IIIC (pT2 cN3 M1b S2) et l'appartenance au groupe à haut risque selon le système de classification pronostique des maladies disséminées (IGCCCG), un traitement par chimiothérapie a été programmé. Avant le début du traitement, il a été évalué par le service de radio-oncologie pour terminer le traitement de la compression de la moelle épinière, recevant 20 Gy de D4 à D7. Par la suite, et après cryoconservation du sperme, une chimiothérapie a été entamée selon le schéma BEP pour 4 cycles (Bléomycine 30 unités les jours 1, 8 et 15 ; Etoposide 100 mg/m2 les jours 1 à 5 ; Cisplatine 20mg/m2 les jours 1 à 5), qu'il a reçu sans incident, avec normalisation du LDH et du BHCG après le premier cycle.
+
+Évolution
+Après la fin du traitement par chimiothérapie, un scanner CT TAP de réévaluation a été réalisé, montrant une masse rétropéritonéale persistante d'environ 2,5 cm. Les marqueurs tumoraux se situaient alors dans la fourchette normale.
+Au vu de ces résultats, une chirurgie de sauvetage a été réalisée, avec excision de la masse rétropéritonéale. L'anatomie pathologique n'a révélé aucun reste de tumeur.
+Depuis lors, le patient est suivi et n'a plus de maladie, 45 mois après le début de son traitement. Il n'y a pas de toxicité à long terme dérivée du traitement, ni de séquelles neurologiques.

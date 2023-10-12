@@ -1,0 +1,24 @@
+T1	pathologie 49 70	tuberculosis pulmonar
+T2	pathologie 131 147	bebedor moderado
+T3	pathologie 581 600	esteatosis hepática
+T4	pathologie 603 622	hipertensión portal
+T5	pathologie 658 665	ascitis
+T6	pathologie 702 741	consumo excesivo de bebidas alcohólicas
+T7	pathologie 767 776	hepatitis
+T8	pathologie 823 841	varices esofágicas
+T9	pathologie 865 880	hernia de hiato
+T10	pathologie 883 930	gastropatía secundaria a la hipertensión portal
+T11	pathologie 984 1011	enfermedad pierde proteínas
+T12	pathologie 1226 1245	hipertensión portal
+#1	SNOMED T1	154283005
+#2	SNOMED T11	66972006
+#3	SNOMED T12	34742003
+#4	SNOMED T3	197321007
+#5	SNOMED T4	34742003
+#6	SNOMED T5	389026000
+#7	SNOMED T8	28670008
+#8	SNOMED T9	84089009
+#9	SNOMED T10	303082009
+#10	SNOMED T2	7200002
+#11	SNOMED T7	128241005
+#12	SNOMED T6	160592001

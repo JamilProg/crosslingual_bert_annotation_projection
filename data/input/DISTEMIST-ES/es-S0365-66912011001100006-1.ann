@@ -1,0 +1,8 @@
+T1	pathologie 35 75	queratopatía lipoidea bilateral primaria
+T2	pathologie 467 545	neovascularización superficial y profunda extendiéndose al centro de la córnea
+T3	pathologie 702 710	catarata
+T4	pathologie 1018 1053	neovascularización corneal profunda
+#1	SNOMED T4	2102007
+#2	SNOMED T1	231908001
+#3	SNOMED T2	346481000119100
+#4	SNOMED T3	193570009

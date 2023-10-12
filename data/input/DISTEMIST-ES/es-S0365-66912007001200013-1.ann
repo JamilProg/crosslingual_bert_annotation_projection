@@ -1,0 +1,32 @@
+T1	pathologie 29 56	pérdida de visión bilateral
+T2	pathologie 255 262	fumador
+T3	pathologie 311 329	neoplasia pulmonar
+T4	pathologie 542 573	vitritis moderada en ambos ojos
+T5	pathologie 704 713	papilitis
+T6	pathologie 704 736	papilitis con vitritis bilateral
+T7	pathologie 718 726	vitritis
+T8	pathologie 1187 1197	vasculitis
+T9	pathologie 1268 1291	neuropatía axonal en OI
+T10	pathologie 1596 1619	síndrome paraneoplásico
+T11	pathologie 1692 1732	hilio derecho, compatible con adenopatía
+T12	pathologie 1896 1906	adenopatía
+T13	pathologie 2187 2195	neuritis
+T14	pathologie 2255 2286	carcinoma microcítico de pulmón
+T15	pathologie 2392 2423	carcinoma microcítico de pulmón
+T16	pathologie 2468 2489	carcinoma microcítico
+#1	SNOMED T15	254632001
+#2	SNOMED T10	49783001
+#3	SNOMED T9	386033004
+#4	SNOMED T16	11010461000119101
+#5	SNOMED T11	87500009
+#6	SNOMED T2	77176002
+#7	SNOMED T3	126713003
+#8	SNOMED T12	30746006
+#9	SNOMED T4	95802009
+#10	SNOMED T5	73221001
+#11	SNOMED T7	95802009
+#12	SNOMED T13	21018002
+#13	SNOMED T14	254632001
+#14	SNOMED T6	344891000119109+95802009
+#15	SNOMED T8	31996006
+#16	SNOMED T1	105597003

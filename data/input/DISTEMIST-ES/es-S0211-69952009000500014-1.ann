@@ -1,0 +1,14 @@
+T1	pathologie 309 311	EC
+T2	pathologie 638 672	lesiones cutáneas con micropápulas
+T3	pathologie 847 872	pápulas en codos y brazos
+T4	pathologie 1464 1485	proteinuria nefrótica
+T5	pathologie 1566 1568	NM
+T6	pathologie 1584 1603	lesiones vasculares
+T7	pathologie 2043 2063	enfermedad sistémica
+#1	SNOMED T1	396331005
+#2	SNOMED T2	25694009
+#3	SNOMED T3	95320005
+#4	SNOMED T4	264867001
+#5	SNOMED T6	27550009
+#6	SNOMED T5	722119002
+#7	SNOMED T7	56019007

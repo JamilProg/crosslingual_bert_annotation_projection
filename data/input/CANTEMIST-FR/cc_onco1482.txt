@@ -1,0 +1,30 @@
+Anamnèse
+Une patiente de 16 ans a signalé des symptômes cliniques évoluant depuis plusieurs mois et apparaissant progressivement : hirsutisme, prise de poids de 14 kg avec répartition centrale des graisses et stries abdominales blanc-rougeâtre. Elle a présenté une douleur dans la fosse rénale droite, évoquant une colique néphrétique, raison pour laquelle une échographie de l'abdomen a été réalisée et une masse surrénalienne droite a été trouvée.
+
+Exploration physique
+Faciès de la pleine lune. Répartition des graisses au niveau du tronc. Hirsutisme facial prédominant. Abdomen avec stries rouges et cicatrice de laparotomie. Oedème bimalléolaire.
+
+Examens complémentaires
+- Examens de laboratoire : LDH 816 U/L. Le reste de la biochimie est normal.
+- Profil hormonal : testostérone 1,07 pg/ml ; œstradiol 117 pg/ml ; progestérone 0,4 ng/ml ; SDHEA 574,2 mg/dl ; ACTH <1 ; cortisol basal 20,5 mg/dl ; TSH et T4 libre normaux, hémogramme et coagulation également normaux.
+- Échographie abdominale : une masse hétérogène d'origine surrénalienne droite probable avec des caractéristiques malignes a été observée, avec une thrombose associée de la veine cave inférieure, suggérant un carcinome surrénalien, ce qui a été confirmé par la tomodensitométrie.
+- Tomodensitométrie thoraco-abdominale : masse surrénalienne droite de 10 x 10 cm envahissant la veine cave avec thrombus tumoral, avec nodule pulmonaire LMD (1,1 x 1 cm) et lésion hépatique de 1,2 x 2 cm.
+
+Diagnostic
+Diagnostiqué en mars 2009 avec un carcinome surrénalien droit, en fonctionnement, stade IV, avec métastases pulmonaires et hépatiques uniques et syndrome de Cushing secondaire.
+
+Traitement
+L'intervention chirurgicale a consisté en une surrénalectomie droite et une lobectomie pulmonaire segmentaire, puis en une hépatectomie droite.
+En postopératoire, des œdèmes ont persisté dans les membres inférieurs et une angiographie abdominale par tomodensitométrie a montré une veine cave sans défaut de réplétion, mais avec deux nouvelles métastases hépatiques dans le segment VI. Un traitement médical au mitotane a été décidé, avec un suivi à court terme par tomodensitométrie.
+Après six mois de traitement au mitotane, une progression hépatique de la maladie a été observée2.
+
+Progrès
+Une chimiothérapie de première ligne à base de doxorubicine et de cisplatine est mise en place, avec huit cycles.
+Une tomodensitométrie de réévaluation finale est réalisée en avril 2010, montrant une stabilisation de la maladie comme meilleure réponse.
+Une TEP est demandée pour évaluer la viabilité de la maladie, et des signes métaboliques sont observés dans le foie qui, malgré leur comportement (diminution du SUV sur l'image tardive), suggèrent une progression hépatique.
+Compte tenu de ces faibles signes de progression et du fait que le patient était asymptomatique, une surveillance a été proposée pendant deux mois ainsi qu'une nouvelle TEP, ce que la famille a accepté.
+Lors de l'examen TEP de suivi en août 2010, la progression de la maladie était clairement démontrée, avec l'apparition d'un autre nodule hépatique et de deux nodules extra-hépatiques, rétro-péritonéal et parahilaire rénal droit. Le patient conserve un ECOG 0.
+Après avoir examiné la littérature, nous avons trouvé des références anecdotiques de réponse au sorafenib3, et nous avons commencé une deuxième ligne avec ce médicament, avec une toxicité intestinale et cutanée de grade 3 apparaissant avec le deuxième cycle. Étant donné que dans de nombreuses occasions l'efficacité et la toxicité vont de pair, nous avons demandé un nouveau PET scan, observant la progression de toutes les lésions et l'apparition de nouveaux nodules dans le dôme hépatique et dans les adénopathies du hile hépatique.
+Après avoir discuté du cas en séance clinique, et en l'absence de preuves dans la littérature en faveur d'une troisième ligne, nous avons commencé un traitement par doxorubicine-ifosfamide. Trois cycles ont été administrés, avec un scanner de contrôle montrant une nouvelle progression hépatique et une infiltration filiforme de la veine cave inférieure.
+La patiente présentant des œdèmes de plus en plus proximaux dans les membres inférieurs, nous avons discuté du cas avec la radiologie interventionnelle pour la mise en place d'une endoprothèse de la veine cave inférieure. L'état général restant bon, nous avons décidé de débuter une quatrième ligne, composée de cisplatine et d'étoposide4. Nous avons maintenu cette ligne pendant dix mois avec une stabilisation de la maladie. En mars 2012, nous sommes passés à la cisplatine-doxorubicine liposomale en raison de la bonne réponse à ce moment-là et de la légère toxicité de la ligne précédente.
+Le traitement au mitotane a été maintenu pendant toute cette période et le syndrome de Cushing n'est pas réapparu.

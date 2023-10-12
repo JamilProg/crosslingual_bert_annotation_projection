@@ -1,0 +1,23 @@
+Anamnèse
+Patient âgé de 63 ans au moment du diagnostic, avec des antécédents personnels de rhinite allergique, sans habitudes toxiques ni allergies médicamenteuses.
+Antécédents familiaux : une sœur a été opérée d'un cancer du sein à l'âge de 45 ans.
+Antécédents actuels : la patiente a subi une mammographie de dépistage qui a révélé un nodule irrégulier de 1 cm dans le quadrant interne externe droit du sein. Une échographie a été réalisée et a décrit une lésion solide Breast Imaging Reporting And Data System (BIRADS) 4. Une biopsie a été effectuée et a révélé un carcinome canalaire infiltrant RE+++ 90 %, RP-, Ki67+++ 10 %, cytokératine 19 +++ 100 %.
+
+Examen physique
+ECOG : 0. Seins : pas de nodules palpables. Les aisselles ne présentent pas d'anomalie.
+Auscultation : normale. Abdomen : normal. Pas de ganglions lymphatiques périphériques palpables.
+
+Examens complémentaires
+Imagerie par résonance magnétique (IRM) du sein : nodule mesurant 11 x 9 x 9 mm, BIIRADS 6, sein controlatéral négatif. Axillae et chaînes mammaires internes sans altération. L'étude réalisée comprend partiellement le thorax et l'abdomen où une masse pulmonaire et des lésions hépatiques sont suspectées.
+Tomodensitométrie du thorax et de l'abdomen : masse pulmonaire dans le segment postérieur du lobe supérieur gauche, de 5,5 cm de diamètre. Épaississement pleural avec rehaussement nodulaire suggérant une atteinte pleurale localisée. Adénopathies hilaires ipsilatérales et dans la fenêtre aorto-pulmonaire. Images hépatiques multiples évoquant des kystes simples.
+Fibrobronchoscopie : brossage et biopsie. Résultat histologique : adénocarcinome bien différencié, CK7+, CK20-, TTF1+, RE-, RP-. Mammoglobuline négative, suggérant une origine pulmonaire.
+Tomographie par émission de positons (PET-CT) : aucun autre signe de maladie à distance.
+
+Diagnostic
+Carcinome du sein cT1N0M0 et adénocarcinome du poumon cT3N2M1.
+
+Traitement
+Il a été décidé que, malgré l'atteinte pleurale, une approche chirurgicale de la tumeur pulmonaire pouvait être tentée (lobectomie étendue à la paroi thoracique), après un traitement néoadjuvant. Il a été décidé d'opérer la tumeur du sein par tumorectomie et biopsie du ganglion lymphatique sentinelle, avec pour résultat un carcinome canalaire infiltrant de grade 2 d'un diamètre maximal de 12 mm ER+, RP-, Ki67 12%, HER2-. Un traitement adjuvant a été mis en place avec 2,5 mg/jour de létrozole et une radiothérapie.
+
+Évolution
+Suite à cette intervention chirurgicale, un traitement néoadjuvant du cancer du poumon par carboplatine/paclitaxel a été envisagé. Après deux cycles, la patiente est venue consulter pour une dyspnée à l'effort modérée. Une radiographie du thorax a été effectuée et a révélé un épanchement pleural. Une thoracentèse a été effectuée et s'est révélée compatible avec un exsudat. Cette situation a été classée comme une progression et un traitement systémique a été proposé. La détermination des mutations du gène du récepteur du facteur de croissance épidermique (EGFR) a été effectuée avec un résultat positif (mutation L858R), de sorte qu'une deuxième ligne de traitement avec le gefitinib a été entamée.

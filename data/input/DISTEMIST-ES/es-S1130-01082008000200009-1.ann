@@ -1,0 +1,8 @@
+T1	pathologie 47 65	enfermedad celiaca
+T2	pathologie 155 198	enteropatía con atrofia vellocitaria severa
+T3	pathologie 380 392	muerte fetal
+T4	pathologie 616 643	alteraciones protrombóticas
+#1	SNOMED T1	396331005
+#2	SNOMED T2	75581001
+#3	SNOMED T3	84122000
+#4	SNOMED T4	234467004

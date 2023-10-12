@@ -1,0 +1,21 @@
+Anamnèse
+Ce cas illustre un cas de microangiopathie thrombotique de type purpura thrombocytopénique thrombotique chez un patient sous traitement par sunitinib ; son importance réside dans le peu de cas publiés de cet effet secondaire.
+Une femme de 56 ans, fumeuse, avec des antécédents de bronchite chronique et de duplicité pyélo-urétérale complète avec des infections urinaires répétées. Diagnostiquée avec un carcinome rénal à cellules claires avec dissémination hépatique, pulmonaire et adénopathique en mai 2013. Elle a été évaluée comme un néoplasme rénal de mauvais pronostic selon les critères du MSKCC (Motzer), tout en conservant un bon ECOG. Un traitement systémique a été instauré avec du sunitinib à la dose de 50 mg/jour.
+Avant le début du traitement, les analyses sanguines ont révélé une hémoglobine de 6,7 g/dl, des plaquettes de 621 000, des leucocytes de 27 500, avec une fonction rénale dans les valeurs normales.
+Dix jours après le début du traitement, le patient s'est rendu aux urgences pour une asthénie de grade 3, une dyspnée à effort moyen, une épistaxis bilatérale et une diarrhée de grade 2.
+
+Examen physique
+Une fièvre allant jusqu'à 38 °C a été observée au service des urgences. L'examen physique a révélé une pâleur cutanéo-muqueuse, des pétéchies et des ecchymoses sur la peau, le reste de l'examen étant sans particularité.
+
+Tests complémentaires
+- Une analyse de sang a révélé une hémoglobine de 6,5 g/dl, des plaquettes de 5 000, une créatinine de 1,7 mg/dl, une coagulation normale, le reste se situant dans les valeurs normales.
+
+Diagnostic
+Il a été initialement orienté vers une bicytopénie et une toxicité digestive secondaires au sunitinib, ainsi qu'une insuffisance rénale pré-rénale secondaire à une diarrhée.
+
+Traitement
+Le traitement par sunitinib a été interrompu et un traitement par sérothérapie, transfusion de concentrés de globules rouges et de plaquettes et antibiotiques à large spectre a été instauré sur la base des antibiogrammes précédents. 48 heures plus tard, le patient a présenté une aggravation clinique avec l'apparition de symptômes neurologiques : bradypsychie et myoclonie. Un examen de suivi a montré une bicytopénie persistante de grade 4 et une aggravation de la fonction rénale avec une créatinine à 2,3 mg/dl et une LDH élevée. Le sang périphérique a été examiné et 3 schistocytes par champ ont été observés. La suspicion d'un purpura thrombocytopénique thrombotique a conduit à un traitement par échange plasmatique et corticostéroïdes.
+
+Evolution
+Après trois recharges de plasma, la patiente a montré une amélioration clinique et analytique partielle, mais après six recharges de plasma, elle a présenté une nouvelle aggravation de ses tests sanguins malgré une stabilité clinique, et il a été décidé d'interrompre le traitement. La corticothérapie et le traitement de soutien ont été poursuivis, avec une amélioration progressive des tests sanguins jusqu'à la normalisation des paramètres de l'hémogramme et de la fonction rénale ; compte tenu de la persistance de l'ECOG 3, un traitement oncospécifique a été exclu.
+La patiente a été réadmise un mois et demi après sa sortie avec une détérioration de l'état général secondaire à la progression de la maladie oncologique, et est décédée 72 heures plus tard. Elle ne présentait aucun signe clinique ou analytique de récidive du purpura thrombocytopénique thrombotique.

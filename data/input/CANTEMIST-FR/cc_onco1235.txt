@@ -1,0 +1,30 @@
+Anamnèse
+Patient de 55 ans souffrant de dyslipidémie et de SAHS sous traitement CPAP depuis 1998.
+En juillet 2013, une lésion arrondie de 6 mm, sombre, avec des bords réguliers a été observée. Une excision a été réalisée au Centre de santé selon la technique du losange le 19/7/2013 avec un diagnostic de mélanome nodulaire avec un indice de Breslow de 1,4 mm, niveau III de Clarck, sans ulcération ni régression ni invasion vasculaire ou périneurale, avec une légère infiltration lymphocytaire intratumorale et des marges chirurgicales <1 mm. Par la suite, les marges ont été élargies sans implication tumorale et une biopsie du ganglion lymphatique sentinelle inguinal droit a été réalisée, avec 2 ganglions négatifs pour la maladie.
+
+Examen physique
+ECOG 0 ; cicatrice chirurgicale dans la région lombaire droite de bonne apparence.
+
+Tests complémentaires
+- Examens de laboratoire : normaux.
+- ECG : rythme sinusal à 65 battements par minute, sans altération de la repolarisation.
+- Tomodensitométrie du corps (28/8/2013) : collection dans le tissu cellulaire sous-cutané adjacent à la crête iliaque droite, probablement liée à un sérome ou à un hématome, sans signe de maladie à distance.
+
+Diagnostic
+Mélanome nodulaire dans la région lombaire droite (pT2 pN0[0/2]M0).
+
+Traitement
+La patiente n'a pas eu besoin de traitement adjuvant et a subi des contrôles en chirurgie plastique et en dermatologie. Lors du premier examen en décembre 2013, aucun signe de la maladie n'a été observé.
+
+Evolution
+En mars 2014, elle a été admise en médecine interne pour des manifestations cliniques de douleurs lombaires et à la cuisse d'une semaine d'évolution, associées à une perte de poids non quantifiée depuis un mois.
+L'examen physique n'a révélé aucun élément notable. Une étude a été entamée. Les examens de laboratoire ont révélé une leucocytose avec déviation à gauche, des altérations des tests de la fonction hépatique et une élévation de la lactate déshydrogénase.
+Un scanner de la colonne lombaire a été réalisé avec une rectification de la lordose lombaire physiologique avec des protrusions discales médianes L4-L5 et L5-S1, sans compression radiculaire, et un scanner corporel montrant de multiples images nodulaires millimétriques dans les deux poumons, de multiples métastases dans les deux lobes hépatiques, de petites adénopathies dans le mésentère, le hile hépatique, le ligament gastroduodénal et rétropéritonéal jusqu'à 2,7 cm, une masse surrénalienne gauche de 4,5 cm.
+Sur la base de ces résultats, une analgésie a été mise en place avec des opioïdes mineurs, avec une amélioration progressive de la douleur. Le 18 mars 2014, il s'est présenté à notre clinique, toujours hospitalisé. Compte tenu de la stabilité du patient et de l'évolution du cas, il a été décidé de réaliser une biopsie du foie pour confirmer histologiquement les métastases et BRAF a été demandé dans la tumeur primaire, qui s'est révélée négative.
+Le 19/4/2014, le patient est sorti de l'hôpital avec une antibiothérapie pour une possible infection urinaire (hématurie macroscopique, nitrites positifs et fièvre fébrile).
+Après 72 heures, il a été réadmis pour détérioration progressive avec malaise, repos au lit, hyporexie et asthénie. En outre, il présentait une tendance au sommeil, des épisodes occasionnels de désorientation et une hématurie persistante.
+L'examen physique a révélé une hypotension, un ictère, une hépatomégalie battante et douloureuse.
+Les tests de laboratoire ont révélé une pancytopénie, une insuffisance rénale, une hyponatrémie, une hyperkaliémie, une détérioration des tests de la fonction hépatique et une élévation des réactifs de phase aiguë.
+Une sérothérapie, une substitution hydrique et électrolytique, un cathétérisme urinaire, une antibiothérapie empirique avec couverture du foyer urinaire et l'ajout de vitamine K ont été mis en place. Malgré ces mesures, l'hypoglycémie, l'hyponatrémie, l'hyperkaliémie et l'hypotension réfractaire ont persisté. Compte tenu de la possibilité d'une insuffisance surrénale, des corticostéroïdes ont été ajoutés et du cortisol a été demandé.
+Soudain, le patient a commencé à souffrir de dyspnée et de tachypnée. Une angio-TDM a été réalisée, qui a exclu la présence d'une thromboembolie pulmonaire et a révélé une atteinte multiple des ganglions lymphatiques médiastinaux et parahilaires bilatéraux, avec des signes de lymphangite carcinomateuse et un épanchement pleural bilatéral minime. Des diurétiques, une oxygénothérapie et de la morphine ont été ajoutés, mais malgré ces mesures, le patient est décédé le 24/3/2014. Une nécropsie a été demandée, ce qui a été accordé par la famille.
+Les résultats de l'autopsie décrivent un décès dû à une défaillance de plusieurs organes secondaire à la progression de la maladie ; des métastases de mélanome malin ont été trouvées dans le cerveau, le cœur, les poumons, la thyroïde, l'œsophage, l'estomac, l'intestin grêle et le gros intestin, l'omentum, le foie, le pancréas, les reins, les glandes surrénales et l'infiltration de la moelle osseuse.

@@ -1,0 +1,26 @@
+T1	pathologie 69 85	asimetría facial
+T2	pathologie 379 418	desdentada completa superior e inferior
+T3	pathologie 577 591	telangectasias
+T4	pathologie 657 704	cortical vestibular y perforación de la lingual
+T5	pathologie 772 811	compromiso del nervio alveolar inferior
+T6	pathologie 877 883	lesión
+T7	pathologie 1036 1042	lesión
+T8	pathologie 1331 1334	LCG
+T9	pathologie 1626 1632	lesión
+T10	pathologie 1878 1884	lesión
+T11	pathologie 1934 1940	lesión
+T12	pathologie 2019 2022	LCG
+T13	pathologie 2164 2170	lesión
+#1	SNOMED T3	276328002
+#2	SNOMED T4	128233005
+#3	SNOMED T8	443790001
+#4	SNOMED T12	443790001
+#5	SNOMED T6	417163006
+#6	SNOMED T7	417163006
+#7	SNOMED T9	417163006
+#8	SNOMED T10	417163006
+#9	SNOMED T11	417163006
+#10	SNOMED T13	417163006
+#11	SNOMED T1	301311009
+#12	SNOMED T2	278650002
+#13	SNOMED T5	106155008

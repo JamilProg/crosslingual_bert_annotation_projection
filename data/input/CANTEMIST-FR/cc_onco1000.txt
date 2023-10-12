@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 33 ans, sans allergies médicamenteuses connues ni antécédents médicaux intéressants, a consulté en avril 2010 en raison de la palpation d'une grosseur dans les deux seins, présente depuis plusieurs jours.
+
+Examen physique
+Normal.
+
+Tests complémentaires
+Le 14/04/2010, il a subi une tumorectomie bilatérale, avec un diagnostic anatomopathologique de lymphome diffus à grandes cellules B (DLBCL) extranodal.
+Étude d'extension normale.
+
+Diagnostic
+DLBCL stade IIAE (sein), aaIPI 0.
+
+Traitement
+Il a reçu 6 cycles de R-CHOP de mai à septembre 2010. Par la suite, en octobre 2010, il a reçu un cycle de méthotrexate à haute dose, mais n'a pas pu recevoir le deuxième cycle en raison d'une très mauvaise tolérance au premier. Cette mauvaise tolérance consistait en une sensation de malaise général, une sensation prurigineuse généralisée avec des lésions circinées sur le décolleté et une éruption cutanée généralisée d'une durée d'un mois malgré un traitement antihistaminique et corticostéroïde, raison pour laquelle elle a été étudiée par la médecine interne et classée comme ayant un lupus cutané subaigu (probablement d'origine médicamenteuse), un syndrome de Gougerot-Sjögren et un syndrome de Raynaud secondaire.
+
+Évolution
+En février 2014, la patiente a commencé à présenter des douleurs et une induration de la queue du sein droit, avec une échographie mammaire normale et un PET-CT scan avec une augmentation de la captation dans le sein droit suggérant une infiltration tumorale. Une biopsie de cette région a été réalisée, avec une anatomie pathologique compatible avec une DLBCL. Suite à cette découverte, la patiente a reçu une nouvelle ligne de traitement avec 6 cycles de R-GPD et une radiothérapie locale.
+Rechute ultérieure en juillet 2015 dans le sein gauche avec une nouvelle biopsie (anatomie pathologique compatible avec un DLBCL), traitée avec une radiothérapie locale exclusive.
+Le suivi ultérieur a commencé sans aucun signe de maladie jusqu'en janvier 2016, date à laquelle une nouvelle tumeur a été palpée dans le sein gauche. Une nouvelle biopsie a été réalisée et a révélé un carcinome canalaire infiltrant triple négatif (uT2 [40 mm] N négatif), avec une étude d'extension négative. La patiente a reçu une chimiothérapie néoadjuvante avec AC pendant 2 cycles suivis de docetaxel pendant 4 cycles. Elle a subi une mastectomie bilatérale en août 2016 (sur décision de la patiente), avec une réponse pathologique complète dans le sein gauche et aucun signe de néoplasie dans le sein droit.
+Lors de la tomodensitométrie de réévaluation post-chirurgicale (octobre 2016), de nouvelles lésions suspectes de métastases ont été détectées, avec des examens TEP-TDM concordants : épaississement cutané nodulaire dans la paroi thoracique gauche de 1,9 cm (SUVmax 16,9), dans le lobe hépatique droit lésion hypermétabolique de 4,6 x 4,2 cm (SUVmax 14,7), hypertrophie surrénalienne gauche de 3 x 2,2 cm (SUVmax 12,1), une lymphadénopathie iliaque externe droite pathologique de 1,4 cm (SUVmax 14) et une lymphadénopathie de la racine de la cuisse droite de 1 cm (SUVmax 8,4), toutes d'apparition récente et compatibles avec des métastases. Étant donné la discordance entre l'apparition de métastases et l'excellente réponse pathologique du carcinome canalaire infiltrant à la chimiothérapie, une biopsie de la paroi thoracique gauche a été pratiquée avec un résultat anatomopathologique de lymphome diffus à grandes cellules B de sous-type ABC. Elle a commencé une nouvelle ligne de traitement avec R-ICE en novembre 2016, présentant une excellente réponse clinique initiale après le premier cycle, mais avec une progression immédiate avant le deuxième cycle avec l'apparition d'une masse indurée d'environ 10 cm dans la cuisse droite, de sorte qu'elle a commencé une nouvelle ligne de chimiothérapie avec R-GEMOX. Après deux cycles de traitement, on a constaté une progression de la lésion de la paroi thoracique (avec une stabilité des autres lésions au scanner).
+Une tentative a été faite pour inclure la patiente dans un essai clinique de phase 1, mais elle n'a finalement pas été incluse en raison de l'absence de mutations spécifiques dans l'échantillon de la tumeur. L'approbation a été demandée pour une nouvelle ligne de traitement par rituximab-lénalidomide, mais elle n'a pas été initiée en raison d'une détérioration respiratoire en lien avec la progression probable de la tumeur vs une pneumonie avec exitus le 29/04/2017.

@@ -1,0 +1,10 @@
+T1	pathologie 50 58	fumadora
+T2	pathologie 113 136	alergias medicamentosas
+T3	pathologie 659 665	lesión
+T4	pathologie 730 736	lesión
+T5	pathologie 1314 1330	fascitis nodular
+#1	SNOMED T1	77176002
+#2	SNOMED T2	416098002
+#3	SNOMED T5	400138001
+#4	SNOMED T3	417163006
+#5	SNOMED T4	417163006

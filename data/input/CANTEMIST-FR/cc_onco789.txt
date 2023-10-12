@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 57 ans chez qui on a diagnostiqué en novembre 2010 un adénocarcinome endométrioïde modérément différencié et qui a subi une hystérectomie et une double annexectomie avec lymphadénectomie pelvienne (pT1b1N0M0). Par la suite, la patiente a poursuivi des examens réguliers dans notre service sans signe de progression de la tumeur.
+En février 2011, une récidive a été détectée dans le moignon vaginal et un traitement par QT/RT avec carboplatine a été entamé, se terminant en mars 2011, avec des contrôles ultérieurs sans signe de maladie.
+Lors de l'examen de septembre 2014, une récidive a été détectée dans les tissus mous (implant de 6 x 5 cm dans la paroi abdominale antérieure), la lésion a été réséquée et elle a ensuite reçu un traitement systémique par QT (paclitaxel plus carboplatine). Ayant prévu 6 cycles, elle n'en a reçu que 5 car elle a présenté une réaction anaphylactique au carboplatine avec un test intradermique positif, mettant fin au traitement en novembre 2015.
+En octobre 2016, elle a présenté une nouvelle récidive locorégionale avec atteinte recto-sigmoïdienne et une résection antérieure a été réalisée, l'anatomie pathologique montrant une infiltration transmurale par un adénocarcinome tubulo-papillaire avec métaplasie malpighienne focale compatible avec un primitif endométrial, présentant une infiltration vasculaire et lymphatique, ainsi qu'une atteinte de la marge chirurgicale circonférentielle.
+En décembre 2017, après récupération de la chirurgie, un traitement systémique par paclitaxel plus cisplatine a été débuté, avec une réaction anaphylactique sévère lors de la troisième perfusion de cisplatine, qui a conduit à l'arrêt du traitement.
+À ce moment-là (février 2017), il a été décidé de réévaluer la maladie tumorale.
+
+Examen physique
+Patient de niveau 1 de l'Eastern Cooperative Oncology Group (ECOG), stable sur le plan hémodynamique. À l'examen, l'abdomen était mou et dépressible, légèrement douloureux dans l'hypogastre, avec des bruits hydro-aériques normaux et aucun signe d'irritation péritonéale. Le reste de l'examen physique n'a pas montré d'altérations significatives.
+
+Examens complémentaires
+" Une réévaluation par TEP/TDM a été réalisée en mars 2017, montrant un foyer hypermétabolique rétrovésical droit avec un SUV de 9,62 de nature maligne douteuse, pour lequel une imagerie par résonance magnétique (IRM) abdomino-pelvienne a été recommandée.
+"Lors de l'IRM abdomino-pelvienne, une lésion de 3 x 3 x 3 x 3 cm de tissu mou a été visualisée en relation avec le moignon d'hystérectomie.
+"La lésion de tissu mou mesurant 3 x 2,8 cm avec une morphologie polylobée, qui est en contact antérieur avec la paroi postéro-supérieure de la vessie, est légèrement épaissie et avec la région postérieure du moignon rectal.
+Un consensus a été atteint au sein du comité des tumeurs gynécologiques et du comité de coloproctologie, et un effort chirurgical maximal a été réalisé (laparotomie exploratrice plus résection de l'iléon distal plus réparation de l'éventration avec un filet en polypropylène), avec une résection incomplète de la maladie tumorale, l'anatomie pathologique étant compatible avec un adénocarcinome endométrioïde dans des implants tumoraux intestinaux. Une étude immunohistochimique (IHC) des protéines de réparation de l'ADN a été réalisée, confirmant la perte d'expression de MSH2. Compte tenu de ces résultats, elle a été adressée à l'unité de conseil génétique, et l'étude de l'exon 14 du gène MSH2 a été réalisée par PCR puis séquençage avec des Big Dye Terminators dans l'analyseur génétique ABI 3100, ce qui a permis de déterminer qu'elle était porteuse de la mutation MSH2 c.2240_2241delTA/p.Ile747ArgfsX1.
+
+Diagnostic
+Patiente ayant des antécédents d'anaphylaxie aux platines, diagnostiquée avec une récidive non résécable d'un carcinome de l'endomètre (dMMR dû à la perte de MSH2) avec présence d'implants tumoraux dans l'intestin grêle.
+
+Traitement
+Face à cette situation, en juin 2017, et compte tenu des caractéristiques cliniques de la femme, des précédentes lignes de traitement administrées, de son anaphylaxie aux platines et du statut de déficit germinal et somatique en MSH2, il a été décidé, après information de la patiente et recueil de son consentement, d'opter pour un traitement par immunothérapie à l'aide d'un anti-PD1.
+
+Évolution
+La patiente a commencé un traitement par pembrolizumab (2 mg/kg c/21 jours) avec une excellente tolérance. Après 16 semaines de traitement, une réévaluation par tomodensitométrie a révélé une régression tumorale et l'IRM pelvienne a confirmé une réponse clinique complète.
+Lors de la dernière réévaluation, après 46 semaines de traitement par pembrolizumab, sans toxicité pertinente et avec un ECOG de 0, l'IRM pelvienne a été réalisée sans aucun signe de la maladie.

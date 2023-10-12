@@ -1,0 +1,34 @@
+Anamnèse
+Homme, 59 ans, pas d'allergies. Ex-fumeur. Buveur. Diabète sucré 2 traité par glicazide. Pas d'antécédents familiaux de cancer. En mai 2010, il a été examiné pour une tumeur de la parotide gauche évoluant depuis 3 mois, non douloureuse, et une lymphadénopathie cervicale gauche.
+
+Examen physique
+Tumeur préparotidienne gauche de 1,4 cm, attachée au bord antérieur du masséter et lâche à l'intérieur de la bouche.
+Adénopathies dans la chaîne jugulaire, la cellule sous-maxillaire et la région sus-claviculaire.
+
+Examens complémentaires
+Tomodensitométrie : masse latéro-cervicale gauche. Adénopathies sous-mandibulaires et dans la chaîne jugulaire interne gauche.
+IRM : lésion au niveau de la graisse mastérienne aux limites mal définies, avec de multiples adénopathies latérocervicales et sus-claviculaires gauches.
+FNA du ganglion lymphatique : cellules malignes de haut grade.
+Biopsie de la peau et des tissus mous : carcinome canalaire infiltrant de haut grade de la glande parotide avec invasion périneurale et vasculaire, cErb2 : négatif.
+
+Diagnostic
+Carcinome canalaire salivaire de la parotide T3N2bM0, stade IVa.
+
+Traitement
+En juin 2010, il a commencé le traitement d'induction PPT : (docétaxel 75 mg/m2 jour 1, CDDP [cisplatine] 75 mg/m2 jour 1, 5-fluoruracil 750 mg/m2 en perfusion continue jours 1-5) plus GCSF x 2 cycles ; avec une neutropénie et une asthénie de grade III.
+Après réponse clinique, la chimioradiothérapie s'est poursuivie : IMRT concomitante à 3 cycles de CDDP 100 mg/m2 trois fois par semaine. Les 2ème et 3ème cycles avec une réduction de dose de 50% en raison d'une augmentation transitoire de la créatinine.
+Évaluation IRM : disparition de toutes les lésions, à l'exception d'un rehaussement dans la région génienne gauche. Biopsie excisionnelle dans 12/10, positive pour un carcinome avec un bord affecté.
+
+Évolution
+Après une réponse partielle, il a continué les contrôles périodiques sans traitement.
+Avril 2011 : exophtalmie et nodules sous-cutanés latérocervicaux gauches.
+Tomodensitométrie : masse dans l'orbite gauche s'étendant dans le tissu cellulaire sous-cutané.
+TEP : absorption pathologique dans l'orbite gauche, l'aisselle et le sacrum.
+IRM : lésion de l'orbite gauche.
+Début du traitement par docétaxel 75 mg/m2 avec une réponse clinique précoce.
+Tomodensitométrie après le cycle 11 : lésions osseuses blastiques asymptomatiques dans le bassin et les côtes.
+Elle a maintenu le docétaxel 21c. jusqu'en novembre 2012 avec une bonne tolérance, à l'exception de quelques épisodes de syncope et d'une légère polyneuropathie.
+En janvier 2013, une progression des lésions décrites a été observée, de sorte que le CDDP 75 mg/m2 a été commencé. Après le deuxième cycle, il y a eu une progression des nodules sc, le traitement a donc été interrompu. Progression osseuse au scanner montrant des lésions blastiques dans la colonne vertébrale dorsale. Le Tegafur a été débuté en 3ème ligne sans toxicité apparente.
+En mai 2013, le patient a demandé un deuxième avis dans un autre centre, où l'immunohistochimie a été élargie avec une expression nucléaire intense des récepteurs androgéniques.
+Étude PET-CT comparée à celle d'avril 2011 : diminution de la captation orbitaire gauche, disparition de la captation axillaire, persistance au niveau du sacrum.
+L'association Tegafur plus bicalutamide à 150 mg/j est recommandée. Au dernier contrôle, le patient est ambulatoire avec une bonne qualité de vie.

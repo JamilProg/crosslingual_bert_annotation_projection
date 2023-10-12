@@ -1,0 +1,18 @@
+T1	pathologie 139 219	úlcera de aspecto necrótico de 4-5 cm de diámetro en pilar amigdalino y amígdala
+T2	pathologie 263 284	carcinoma epidermoide
+T3	pathologie 310 394	adenopatías laterocervicales ipsilaterales tanto submaxilares como yugulodigástricas
+T4	pathologie 500 555	carcinoma epidermoide localmente avanzado de orofaringe
+T5	pathologie 564 566	M0
+T6	pathologie 1109 1120	hematemesis
+T7	pathologie 1388 1409	carcinoma epidermoide
+T8	pathologie 1425 1459	metástasis de carcinoma de laringe
+T9	pathologie 1938 1962	diseminación metastásica
+#1	SNOMED T1	16485001
+#2	SNOMED T6	8765009
+#3	SNOMED T2	402815007
+#4	SNOMED T3	127087005+127082004
+#5	SNOMED T7	402815007
+#6	SNOMED T8	276975007
+#7	SNOMED T9	128462008
+#8	SNOMED T4	423464009
+#9	SNOMED T5	89474008

@@ -1,0 +1,8 @@
+T1	pathologie 53 56	HTA
+T2	pathologie 90 108	neoplasia de recto
+T3	pathologie 329 377	broncoaspiración durante la inducción anestésica
+T4	pathologie 1891 1911	fracaso respiratorio
+#1	SNOMED T1	38341003
+#2	SNOMED T2	126847008
+#3	SNOMED T3	764873005
+#4	SNOMED T4	409623005

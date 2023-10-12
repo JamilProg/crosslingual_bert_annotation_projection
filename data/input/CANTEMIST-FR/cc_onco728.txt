@@ -1,0 +1,17 @@
+Anamnèse
+Après deux cycles d'immunothérapie, le patient s'est présenté au service des urgences avec une asthénie d'une semaine, une perte de force du membre supérieur droit, un ptosis palpébral bilatéral et une diplopie. Les symptômes prédominaient le soir et s'amélioraient considérablement après le repos. Elle nie avoir eu de la fièvre ou des symptômes infectieux. Il n'y a pas d'autres symptômes neurologiques.
+
+Examen physique
+Le patient était afébrile et hémodynamiquement stable, sans anomalie à l'examen cardio-pulmonaire ou abdominal. Il a été évalué par le service de neurologie, qui a observé les signes suivants : ptose bilatérale asymétrique des paupières, plus évidente dans l'œil gauche ; limitation de l'abduction des deux yeux ; et force 4/5 dans le membre supérieur droit. Les deux premiers signes ont été aggravés après des manœuvres de fatigue. Aucune autre altération neurologique n'a été observée.
+
+Examens complémentaires
+Des analyses sanguines ont été demandées, mettant en évidence un taux élevé de fibrinogène (588 mg/dl) et une altération du profil hépatique (ALT 201 U/l, AST 228 U/l). Compte tenu des symptômes neurologiques, un examen d'imagerie crânienne a été réalisé par tomodensitométrie (CT) et imagerie par résonance magnétique (IRM), ce qui a permis d'exclure des altérations morphologiques autres que celles liées à l'âge de la patiente. Étant donné la suspicion de pathologie au niveau de la jonction neuromusculaire, l'étude analytique a été étendue en demandant un profil auto-immun, avec des résultats positifs pour les anticorps anti-récepteurs cholinergiques (9,64 nmol/l). Une ponction lombaire a été effectuée et a révélé une protéinurie (60 mg/dl) ainsi qu'un rapport albumine et un index IgM élevés. L'étude a été complétée par un électromyogramme monofibre, montrant une latence individuelle dans 5 des fibres, avec une latence moyenne accrue et un bloc dans l'une d'entre elles, des résultats compatibles avec un trouble de la jonction neuromusculaire. Une étude de la fonction respiratoire a également été réalisée et une différence significative a été observée entre la CVF en spirométrie assise et en spirométrie en décubitus.
+
+Diagnostic
+Diagnostic d'un trouble myasthéniforme en relation probable avec une immunothérapie (anti-CTLA-4 et anti-PDL-1) chez un patient atteint d'un carcinome urothélial de la vessie de stade pT2N1M1.
+
+Traitement
+Compte tenu des symptômes présentés par le patient, celui-ci a été admis dans le service d'oncologie médicale et un traitement par corticostéroïdes (prednisone 1 m/kg/jour) a été instauré. Après avoir obtenu les résultats des tests diagnostiques, un traitement par immunoglobulines IV à la dose de 0,4 g/kg/jour a été mis en place. L'évolution clinique du patient a été favorable, avec une récupération partielle de la force du membre supérieur droit et une disparition presque complète de la ptose des paupières. Après 5 jours de traitement, le patient est sorti de l'hôpital avec un traitement au bromure de pyridostigmine.
+
+Evolution
+En raison des effets indésirables du traitement, le patient quitte l'essai clinique et poursuit un traitement standard par chimiothérapie (cisplatine-gemcitabine).

@@ -1,0 +1,24 @@
+Anamnèse
+Patient de 52 ans ayant des antécédents de tabagisme actif avec un indice paquet-année de 35, d'alcoolisme actif avec une consommation quotidienne d'un litre de bière, d'hypertension sous traitement médicamenteux, de dyslipidémie sous traitement par statines, d'infarctus lacunaire protrubérantiel d'étiologie indéterminée sous traitement par antiagrégant plaquettaire, stéatose hépatique de cause inconnue depuis 1 an, hémangiome hépatique suivi par la médecine interne avec des contrôles annuels, phimosis depuis 2 ans avec des épisodes fréquents de balanite et hypertrophie bénigne de la prostate (HBP) depuis 1 an suite à une hématurie.
+
+Examen physique
+"Tension artérielle : 138/42 mm Hg ; fréquence cardiaque : 78 bpm.
+"Conscient et orienté. Bon état général. Statut de performance (PS) : 1.
+"Examen neurologique : pas de données sur la latéralité.
+"Examen oto-rhino-laryngologique : aucun résultat.
+"Examen cardiaque : rythmé et sans souffle.
+"Examen abdominal : mou et dépressible. Pas de masses ni de mégalithes. Péristaltisme conservé. Pas de signes d'irritation péritonéale.
+"Examen des membres inférieurs : pas d'œdème.
+
+Examens complémentaires
+Diagnostic d'hypertrophie bénigne de la prostate en raison d'une hématurie et d'un syndrome prostatique. Le patient a été admis au service d'urologie pour une rétention urinaire aiguë (RUA) et une résection transurétrale (RTU) a été effectuée pendant l'admission. Le résultat anatomopathologique a fait état d'un carcinome urothélial papillaire de haut grade (PTC) pT1. Le patient a ensuite reçu un traitement adjuvant par injections intravésicales de bacille de Calmette-Guéring (BCG). La patiente a subi des examens TUR tous les six mois avec un rapport AP de métaplasie malpighienne immature. Après trois TUR pathologiques, une tomodensitométrie (CT scan) a été réalisée, montrant des lésions dans les deux pelvis rénaux et la lésion hépatique déjà connue dans le segment VIII, compatible avec un hémangiome. L'étude s'est poursuivie par une tomographie par émission de positons (TEP-TDM), qui n'a révélé aucun signe de captation suggérant une tumeur maligne à quelque niveau que ce soit. L'étude a été complétée par une endoscopie transurétrale bilatérale (URS) au cours de laquelle une biopsie à l'aiguille a été pratiquée sur les deux tumeurs du bassin rénal. Le résultat de la biopsie était un carcinome urothélial de haut grade pT1.
+
+Diagnostic
+Carcinome urothélial pT1cN0cM0 stade I (bilatéral).
+
+Traitement
+Après le diagnostic de carcinome urothélial de stade I pT1cN0cM0 (bilatéral), le cas a été présenté au comité des tumeurs urologiques, qui a proposé une "néphro-urétérostomie" par laparoscopie bilatérale avec cystoprostatectomie radicale, mais sans lymphadénectomie car aucun ganglion lymphatique n'a été trouvé affecté. Dans son rapport, il a fait état d'un cancer de l'urètre de haut grade de stade pT3 dans le rein droit avec invasion vasculolymphatique. L'uretère droit présente un carcinome urothélial papillaire non invasif de haut grade et des foyers de carcinome in situ (stades pTa et pTis). Rein gauche avec carcinome urothélial infiltrant de stade pT1. uretère gauche avec un carcinome urothélial papillaire de haut grade focalement invasif et des foyers de carcinome in situ (stades pT1 et pTis). Au niveau de la prostate, on observe un adénocarcinome acineux prostatique de stade pT2.
+
+Évolution
+En raison de l'entrée du patient dans un programme de dialyse et du peu de preuves d'un traitement adjuvant à ce moment-là, un suivi étroit a été choisi. Avec un intervalle sans maladie (ISM) de 9 mois, il a présenté une progression unique au niveau du foie et des poumons. Une chimiothérapie de première intention à base de cisplatine et de gemcitabine a été mise en place. Le patient étant sous hémodialyse, un schéma de 35 mg/m2 de cisplatine à une dose de 50 % (recevant 17,5 mg/m2) et 1 000 mg/m2 de gemcitabine tous les 21 jours et avant l'hémodialyse a été proposé. Après 6 cycles, la maladie a été réévaluée et a montré une réponse partielle, de sorte qu'il a recommencé le suivi. Avec un intervalle sans progression de 3 mois, la maladie a progressé au niveau de la lésion hépatique.
+Suite à ce diagnostic, les options thérapeutiques ont été convenues avec le patient : un traitement de deuxième ligne avec l'atezolizumab a été proposé, bien qu'aucune preuve n'ait été trouvée chez les patients sous hémodialyse, ou un traitement par radiothérapie stéréotaxique extracrânienne (SBRT) sur la lésion hépatique puisqu'il s'agit d'une maladie oligométastatique. Après avoir discuté des avantages et des inconvénients des deux approches thérapeutiques, il a été décidé de commencer le traitement par SBRT.

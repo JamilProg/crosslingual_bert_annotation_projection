@@ -1,0 +1,22 @@
+T1	pathologie 711 750	luxación horizontal inferior de patella
+T2	pathologie 1158 1166	hematoma
+T3	pathologie 1389 1417	foco hemorrágico en LLE, LLI
+T4	pathologie 1617 1649	artrosis evidente fémoro-patelar
+T5	pathologie 1654 1685	osteofitosis condílea y patelar
+T6	pathologie 1733 1780	osteofitos rotulianos y del surco intercondíleo
+T7	pathologie 1952 1963	traumatismo
+T8	pathologie 2151 2204	rodilla con artrosis predominantemente fémoro-patelar
+T9	pathologie 2298 2304	lesión
+T10	pathologie 2513 2536	artrosis fémoro-patelar
+T11	pathologie 2590 2598	luxación
+#1	SNOMED T1	58320001
+#2	SNOMED T10	450521003
+#3	SNOMED T8	450521003
+#4	SNOMED T11	87642003
+#5	SNOMED T3	281523003
+#6	SNOMED T4	450521003
+#7	SNOMED T5	235231000119100
+#8	SNOMED T7	417746004
+#9	SNOMED T2	385494008
+#10	SNOMED T9	417163006
+#11	SNOMED T6	128136007

@@ -1,0 +1,48 @@
+Anamnèse
+Un homme de 39 ans a été opéré en urgence en janvier 2008 pour des symptômes abdominaux aigus secondaires à une perforation intestinale avec résection de 22 cm de l'iléon terminal. AP : maladie de Crohn (modèle pénétrant). Une iléostomie et une reconstruction ultérieure ont été réalisées après 6 mois. Depuis l'opération, traitement par mésalazine, sans besoin de stéroïdes.
+"Mars 2012 : récidive de la maladie. Une scintigraphie barytée a été réalisée, qui a montré une activité modérée. Début d'un traitement à l'azathioprine. Pas de manifestations extra-intestinales.
+"Admis au service digestif en été 2015 pour douleurs abdominales, augmentation du périmètre abdominal, nausées G2, vomissements à contenu bilieux, constipation depuis 5 jours et détérioration de la fonction rénale.
+A l'admission, un tableau de subocclusion intestinale a été observé, résolu par un traitement conservateur et une ascite de tension, qui a nécessité une paracentèse d'évacuation de 6 litres ; la cytologie a montré un néoplasme sans signe de différenciation, d'origine épithéliale. CT scan du thorax et de l'abdomen : liquide ascitique distribué de façon diffuse avec une densité accrue de tissus mous (gâteau omental).
++ Implant péritonéal sous-diaphragmatique. Masse dans la FID englobant les anses de l'intestin grêle, produisant une image subocclusive avec dilatation rétrograde des anses de l'iléon et du jéjunum.
+Une fois les symptômes aigus disparus, une biopsie guidée par ECHO a été réalisée avec AP : hyperplasie mésothéliale atypique ; enfin, pour obtenir un diagnostic définitif, une laparoscopie diagnostique a été réalisée, montrant : de multiples lésions blanchâtres en pointillés dans tout le péritoine pariétal sous forme d'implants, plus une lésion tumorale mesurant 5 x 5 cm, arrondie vers le lobe hépatique droit AP : mésothéliome malin diffus de type épithélial.
+
+Examen physique
+Au moment du diagnostic
+"ECOG 1, TA 100/70 mm hg, afébrile.
+"État général adéquat, conscient et alerte, hémodynamiquement stable, pas de Flapping ou d'astérixis ; pas de varicosités, pas d'érythème palmaire, pas d'hypertrophie de la parotide. Vitiligo dans le MMSS distal.
+"Tons rythmiques adéquats sans murmures à une bonne fréquence, murmure vésiculaire préservé.
+"Abdomen mou, dépressible, légèrement douloureux à la palpation de façon diffuse, sans sémiologie ascitique claire bien que distendu, sans signes de péritonisme.
+"Pas d'œdème au MIIS.
+Réalisé en hospitalisation à domicile en phase terminale.
+"EKG 3, afébrile, TA 110/70 mm Hg, FC 92 bpm, saturation 95%.
+"Conscient et alerte, état général moyen. Muqueuse buccale semi-sèche, signe de pli négatif. Pas de muguet. Pâleur cutanée généralisée.
+"Abdomen ascite, non tendu, cicatrice laparoscopique, pas d'hépatomégalie, douleur à la palpation superficielle. Pas de signes d'irritation péritonéale.
+"Extrémités avec œdème malléolaire G2.
+
+Tests complémentaires
+Analyses sanguines mars/2017
+" Bq : créatinine 2, urée 58, calcium total 8,29, reste normal.
+" Hg : 11 230 leucocytes dont 7 000 PMN, Hb 10 mg/dl, 420 000 plaquettes.
+"Coagulation : INR 1,2.
+Transit baryté 19/3/2012
+L'évaluation de l'iléon distal montre des images d'épaississement de l'anse menant au côlon ascendant, avec une muqueuse en galets en relation avec d'éventuelles ulcérations, ainsi qu'une discrète réduction du calibre.
+Tomodensitométrie juin 2015
+Ascite importante avec atteinte péritonéale due à la présence d'un implant péritonéal au niveau sous-diaphragmatique antérieur droit. Masse dans la FID englobant les anses de l'intestin grêle, produisant une image subocclusive avec dilatation rétrograde des anses de l'iléon et du jéjunum.
+Tomodensitométrie en mars 2017
+Augmentation progressive de la taille des implants péritonéaux, le plus grand dans l'hémiabdomen droit, mesurant 9,4 x 16 cm. Quantité importante de liquide ascitique.
+
+Diagnostic
+Mésothéliome malin diffus péritonéal et maladie inflammatoire de l'intestin de type Crohn.
+
+Traitement
+Début du traitement par cisplatine + pemetrexed en juillet 2015, réalisation de 4 cycles puis pemetrexed d'entretien avec PR.
+" Progression de la maladie (PE) en mars 2016 au niveau péritonéal avec augmentation de la masse en FID commence carboplatine + gemcitabine.
+" Avril 2016 elle présente une occlusion intestinale, une hémicolectomie droite est donc réalisée AP : mésothéliome malin diffus plus maladie inflammatoire de l'intestin.
+" Poursuite du traitement par QT carboplatine AUC-5 + gemcitabine 1 000 mg/m2 jour 1 et 8 C/21 jours.
+"Août/2016 admission pour toxicité hématologique G3 et poursuite de la gemcitabine en monothérapie.
+" EP au niveau péritonéal septembre/2016, 3e ligne de traitement avec vinorelbine 30 mg/m2 hebdomadaire, complétant 10 perfusions.
+" Admis à nouveau dans le service d'oncologie en janvier 2017 en raison d'une subocclusion intestinale et d'un mauvais contrôle de la douleur, qui s'est résolu de manière conservatrice.
+" EP au niveau péritonéal mars/2017 : grande détérioration clinique et radiologique évidente, vivant dans un lit-fauteuil, alité plus de la moitié de la journée en raison de la présence de symptômes. Il a besoin d'aide pour la plupart des activités de la vie quotidienne. Il a commencé un traitement symptomatique et de soutien avec hospitalisation à domicile.
+
+Évolution
+Elle a continué à être surveillée à l'hôpital à domicile, dans les derniers jours, avec la nécessité d'une aspiration du SNGL, débit quotidien 800-1000 ml par jour, un mauvais contrôle de la douleur (EVA 9/10), des épisodes d'agitation, avec un souhait de mourir à domicile, une sédation palliative a donc été mise en place. Finalement décédée en mars 2017.

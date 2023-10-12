@@ -1,0 +1,22 @@
+T1	pathologie 68 100	patología orgánica, psiquiátrica
+T2	pathologie 103 119	abuso de tóxicos
+T3	pathologie 809 825	cuadro depresivo
+T4	pathologie 1104 1127	enfermedad psiquiátrica
+T5	pathologie 1570 1608	convulsión tónico-clónica generalizada
+T6	pathologie 1660 1678	encefalitis vírica
+T7	pathologie 1954 1973	depresión psicótica
+T8	pathologie 2073 2080	Sífilis
+T9	pathologie 2082 2095	Toxoplasmosis
+T10	pathologie 2584 2628	encefalopatía lenta difusa de grado moderado
+T11	pathologie 2973 2982	distonías
+T12	pathologie 3093 3120	porfiria aguda intermitente
+T13	pathologie 3136 3160	crisis tónicas complejas
+T14	pathologie 3541 3560	mioclonías faciales
+T15	pathologie 3655 3675	encefalopatía difusa
+T16	pathologie 3689 3711	enfermedad por priones
+T17	pathologie 3989 4000	encefalitis
+T18	pathologie 4016 4024	teratoma
+T19	pathologie 4470 4523	encefalitis contra los receptores N-metil-D-aspartato
+T20	pathologie 4525 4533	ECR-NMDA
+T21	pathologie 4537 4588	trastorno psicótico secundario a patología orgánica
+T22	pathologie 4590 4598	ECR-NMDA

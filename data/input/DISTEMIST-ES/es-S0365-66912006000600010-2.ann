@@ -1,0 +1,10 @@
+T1	pathologie 53 80	pérdida de visión bilateral
+T2	pathologie 247 256	epilepsia
+T3	pathologie 397 423	escotoma central bilateral
+T4	pathologie 460 481	maculopatía bilateral
+T5	pathologie 570 587	pérdida de visión
+#1	SNOMED T1	105597003
+#2	SNOMED T2	84757009
+#3	SNOMED T3	346991000119107
+#4	SNOMED T4	15998351000119102
+#5	SNOMED T5	267631003

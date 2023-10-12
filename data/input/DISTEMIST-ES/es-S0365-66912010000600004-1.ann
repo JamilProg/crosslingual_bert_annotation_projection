@@ -1,0 +1,16 @@
+T1	pathologie 108 131	ptosis congénita de ojo
+T2	pathologie 316 340	problemas de coagulación
+T3	pathologie 445 480	asimetría entre párpados superiores
+T4	pathologie 482 552	tercio interno del párpado superior izquierdo discretamente descendido
+T5	pathologie 1025 1035	hipotropia
+T6	pathologie 1723 1735	astigmatismo
+T7	pathologie 1863 1878	quiste dermoide
+T8	pathologie 2040 2046	lesión
+#1	SNOMED T1	268163008
+#2	SNOMED T7	441459009
+#3	SNOMED T5	29491004
+#4	SNOMED T6	82649003
+#5	SNOMED T8	417163006
+#6	SNOMED T2	248253003
+#7	SNOMED T3	366009001
+#8	SNOMED T4	412719003

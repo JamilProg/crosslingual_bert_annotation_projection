@@ -1,0 +1,6 @@
+T1	pathologie 64 77	criptorquidia
+T2	pathologie 171 202	inflamación parotídea bilateral
+T3	pathologie 641 676	tumoración laterocervical bilateral
+#1	SNOMED T1	204878001
+#2	SNOMED T2	274106005
+#3	SNOMED T3	126635000

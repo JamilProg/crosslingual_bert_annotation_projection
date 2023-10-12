@@ -1,0 +1,32 @@
+Anamnèse
+Ce cas concerne un homme de 63 ans sans antécédents personnels ou familiaux intéressants, fumeur actif de 20 cigarettes par jour depuis l'âge de 20 ans (soit une consommation cumulée de 43 paquets/an).
+En août 2018, il a été admis dans le service de pneumologie en raison d'une augmentation de la toux et de l'expectoration. Il associe un syndrome constitutionnel avec perte de poids de 4 kg en 3 mois, une douleur costale gauche avec toux et une douleur lombaire à caractère mécanique, non invalidante mais d'intensité progressive.
+Le patient vit avec sa femme et ses enfants, il est indépendant pour les activités de base de la vie quotidienne et continue à travailler à son compte (il partage un atelier de mécanique avec ses enfants), bien qu'il soit incapable de faire des exercices physiques intenses et qu'il travaille exclusivement dans des bureaux.
+Son seul traitement actif est un patch transdermique de fentanyl de 50 mcg/72 h et un médicament de secours occasionnel à base d'ibuprofène.
+
+Examen physique
+À son arrivée à la clinique, le patient est en bon état général. Une échelle fonctionnelle selon l'Eastern Cooperative Oncology Group de 1.
+Hémodynamiquement stable. Eupnéique au repos, saturant à 97% à l'air ambiant. Aucun résultat pertinent à l'auscultation pulmonaire ou à l'examen abdominal.
+À noter la douleur à la palpation des apophyses épineuses aux niveaux approximatifs de L3-L4, où l'on avait l'impression d'une masse indurée des tissus mous.
+
+Examens complémentaires
+Suite à une radiographie thoracique postéroantérieure montrant une masse dans le lobe moyen (LM) et un élargissement médiastinal, le patient a subi une tomodensitométrie (TDM) thoracique le 9 septembre 2018 avec la mise en évidence d'une masse dans le poumon LM mesurant 6,5 cm dans son plus grand diamètre avec un envahissement ganglionnaire suspect de malignité hilaire et médiastinale droite, ainsi que des lésions osseuses au niveau du sternum, du 7e arc costal antérieur gauche et du corps vertébral D9.
+Au vu de ces résultats, une fibrobronchoscopie a été réalisée avec biopsie de la masse pulmonaire, aspiration et cytologie des branches lobaires droites, ainsi qu'une aspiration à l'aiguille fine des adénopathies paratrachéales droites.
+Le résultat anatomopathologique est une cellularité compatible avec un carcinome pulmonaire non à petites cellules modérément différencié de type adénocarcinome (TTF1+, p40 -), tant dans la masse principale que dans les ganglions lymphatiques paratrachéaux droits.
+L'immunohistochimie a montré une expression de PDL-1 de 10 % sans mutation du gène EGFR. L'échantillon n'était pas valable pour l'étude de la translocation ALK.
+Enfin, l'étude d'extension a été complétée par un scanner crânien et abdominal sans résultat pathologique et une imagerie par résonance magnétique (IRM) dorsolombaire qui a corroboré l'atteinte osseuse métastatique au niveau du sacrum, des deux lames iliaques et de la masse des tissus mous et du nL3 envahissant l'espace épidural.
+
+Diagnostic
+"Il s'agit donc d'un patient sans comorbidité d'intérêt chez qui on a diagnostiqué un adénocarcinome du poumon, GH2. cT3-cN2-cM1c (métastases osseuses au niveau sternal, au 7e arc costal gauche, dorsales, sacrées, iliaques et masse des tissus mous au niveau L3).
+"Stadification (AJCC 8e édition) IVB.
+"Expression PDL-1 de 10 %. EGFR non muté. ALK et ROS-1 non évaluables.
+
+Traitement
+Le patient a reçu une radiothérapie (RT onwards) avec une intention antalgique et décompressive au niveau L3 recevant 20 Gy en 5 séances, se terminant le 17 octobre 2018.
+Une semaine plus tard, il a débuté une première ligne palliative avec le schéma cisplatine 75 mg/m2 + pemetrexed 500 mg/m2 j1 en médication préalable avec acide folique 5 mg/12 h et vitamine B12.
+
+Évolution
+La patiente, après une RT analgésique et 4 cycles de QT avec cisplatine-pemetrexed, a montré une amélioration clinique avec un bon contrôle de la douleur et une diminution du traitement analgésique. Les quintes de toux ont diminué et elle continue à mener une vie active, ECOG 1.
+Comme toxicités pertinentes, elle a rapporté une asthénie G1 pratiquement depuis le début et des nausées G1 n'empêchant pas l'ingestion et ne provoquant pas de vomissements.
+Brutalement, le 20 décembre 2018, il s'est rendu aux urgences pour une dyspnée soudaine et une insuffisance respiratoire aiguë non hypoxémique. On lui a diagnostiqué une thromboembolie pulmonaire bilatérale avec une charge thrombotique élevée nécessitant une admission en pneumologie (20 et 22/12/18). Au cours de son admission, un scanner de réévaluation a été réalisé et la maladie s'est avérée stable, de sorte qu'à sa sortie de l'hôpital, il a continué à recevoir du pemetrexed d'entretien.
+Après le quatrième cycle de pemetrexed d'entretien, un nouveau scanner de réévaluation a été réalisé, décrivant à nouveau une ES, mais montrant l'apparition de micronodules pulmonaires bilatéraux et d'une nouvelle lésion cavitaire dans le LIS. Lors de cette consultation, le patient rapporte un syndrome subfébrile d'environ 5 jours d'évolution, une légère augmentation de la toux et de l'expectoration, un maintien de l'état général (ECOG = 1).

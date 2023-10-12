@@ -1,0 +1,18 @@
+T1	pathologie 38 76	hemorragia digestiva alta por aspirina
+T2	pathologie 79 110	accidente isquémico transitorio
+T3	pathologie 832 898	hematoma, de 12 cm de diámetro máximo, en la celda renal izquierda
+T4	pathologie 904 933	líquido libre intraperitoneal
+T5	pathologie 1049 1052	HTA
+T6	pathologie 1442 1461	crisis hipertensiva
+T7	pathologie 1567 1608	rotura no traumática de un feocromocitoma
+T8	pathologie 2134 2142	hematoma
+T9	pathologie 2201 2245	imagen pseudoquística en la zona suprarrenal
+#1	SNOMED T8	385494008
+#2	SNOMED T7	302835009
+#3	SNOMED T1	37372002
+#4	SNOMED T2	266257000
+#5	SNOMED T9	30171000
+#6	SNOMED T3	262891006
+#7	SNOMED T5	38341003
+#8	SNOMED T6	706882009
+#9	SNOMED T4	271861000

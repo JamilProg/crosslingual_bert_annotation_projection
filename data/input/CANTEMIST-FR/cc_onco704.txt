@@ -1,0 +1,40 @@
+Anamnèse
+Homme de 58 ans, avec des antécédents familiaux d'un cousin maternel diagnostiqué d'un cancer du côlon à l'âge de 47 ans.
+Aucune allergie médicamenteuse connue, fumeur d'un paquet de cigarettes par jour, diabète sucré de type II diagnostiqué il y a 10 ans.
+Il suit un traitement à domicile avec des antidiabétiques oraux (sitagliptine et metformine).
+En janvier 2015, il a consulté son médecin traitant pour une asthénie, et une anémie a été détectée lors de l'analyse sanguine effectuée dans son centre de santé. Face à ce constat, une coloscopie a été demandée et une lésion de 3 cm a été observée au niveau du sigma, avec une biopsie compatible avec un adénocarcinome modérément différencié. Une tomodensitométrie de stadification a été réalisée, montrant la lésion susmentionnée, avec de multiples adénopathies locales légèrement élargies. Aucune lésion métastatique à distance n'a été observée.
+Il a été opéré en février 2015 et le diagnostic final a été le suivant : adénocarcinome du sigma, stade III (pT3, pN2b, M0).
+Évalué dans le service ambulatoire d'oncologie médicale, il a débuté un traitement complémentaire de chimiothérapie par CAPOX pendant 8 cycles entre mars et août 2015, avec une tolérance acceptable, le seul effet indésirable étant une neuropathie de grade I.
+Un scanner réalisé quelques mois après la fin du traitement adjuvant proposé a montré des adénopathies avec un centre nécrotique au niveau du hile hépatique et l'apparition d'une lésion au niveau de la surrénale droite, également compatible avec une métastase.
+Dans l'analyse de contrôle, un CEA élevé a été observé.
+
+Examen physique
+"Conscient, orienté et coopératif. Indice de Karnofsky 80%.
+"Examen neurologique : aucune anomalie.
+"Cœur : bruits cardiaques rythmiques, pas de souffle. Poumons : murmure vésiculaire conservé.
+"Abdomen : globuleux, mou et dépressible. Il n'est pas douloureux à la palpation. Pas de viscéro-mégalie. Percussion du poing rénal négative.
+"Extrémités inférieures sans œdème, ni varices, ni signes de phlébite.
+
+Tests complémentaires
+" Numération sanguine (janvier 2015) : hémoglobine 8 g/dL, MCV 74,9 fL.
+" Biochimie (janvier 2015) : glycémie 220, ACE 20.
+" Coloscopie (janvier 2015) : au niveau du sigma, une lésion de 3 cm a été observée avec une partie polypoïde et une partie plate et déprimée, très évocatrice de malignité.
+" Tomodensitométrie (janvier 2015) : lésion néoplasique au niveau du sigma avec de multiples adénopathies locales légèrement augmentées de volume. Aucune lésion métastatique à distance n'a été observée.
+" Anatomie pathologique pièce opératoire : adénocarcinome modérément différencié. 48 ganglions lymphatiques isolés, dont 7 avec atteinte métastatique.
+" Étude immunohistochimique des gènes de réparation de l'ADN : expression altérée des protéines MLH-1 et PMS-2 des gènes de réparation de l'ADN.
+" Tomodensitométrie (avril 2016) : croissance d'une lymphadénopathie avec centre nécrotique dans le hile hépatique, évocatrice d'une lymphadénopathie pathologique. Apparition d'une lésion dans la glande surrénale droite évoquant une étiologie métastatique.
+"Détermination des mutations KRAS, NRAS : mutation détectée dans l'exon 2 du gène KRAS.
+Étude de l'instabilité des microsatellites : une instabilité a été observée dans tous les microsatellites étudiés.
+
+Diagnostic
+Adénocarcinome du sigma de stade IV en raison d'une récidive ganglionnaire et surrénalienne droite, muté KRAS, avec instabilité des microsatellites.
+
+Traitement
+Compte tenu de la récidive tumorale précoce après la fin du traitement adjuvant, il a été décidé de commencer une nouvelle ligne de traitement par chimiothérapie palliative avec FOLFIRI + bevacizumab, recevant un total de 3 cycles entre avril et juillet 2016, avec une tolérance acceptable, le seul effet indésirable étant une mucosite de grade I.
+Un scanner de suivi a été réalisé en juillet 2016, montrant une nouvelle progression ganglionnaire et surrénalienne, il a donc été décidé d'interrompre le traitement par chimiothérapie palliative.
+Le patient continuant à présenter un excellent état général, il a été décidé, étant donné qu'il présentait une instabilité des microsatellites, de demander à la direction de l'hôpital d'utiliser le nivolumab, ce qui a été accueilli favorablement.
+L'administration a débuté à raison de 280 mg IV toutes les deux semaines en octobre 2016.
+
+Evolution
+Après l'administration de 4 cycles de nivolumab à partir d'octobre 2016, un nouveau contrôle radiologique a été demandé, montrant une réponse partielle au niveau ganglionnaire du hile hépatique, associée à une diminution des marqueurs tumoraux dans les tests analytiques, qui se sont normalisés.
+Il a continué à recevoir le même traitement en continu, en maintenant la réponse radiologique partielle pendant toute cette période (dernier scanner de contrôle en janvier 2018), avec un intervalle sans progression de 18 mois à ce jour.

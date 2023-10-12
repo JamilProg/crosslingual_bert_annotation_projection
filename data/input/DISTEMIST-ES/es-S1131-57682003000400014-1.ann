@@ -1,0 +1,18 @@
+T1	pathologie 212 228	faringitis aguda
+T2	pathologie 483 547	lesión que presentaba en el borde lateral izquierdo de la lengua
+T3	pathologie 583 696	lesión ulcerada, de coloración blanquecina, de aproximadamente 1 cm de diámetro, en el borde lateral de la lengua
+T4	pathologie 743 754	adenopatías
+T5	pathologie 765 793	lesiones a nivel orofaríngeo
+T6	pathologie 826 838	afta lingual
+T7	pathologie 1111 1128	cuadro infeccioso
+T8	pathologie 1259 1280	carcinoma epidermoide
+T9	pathologie 1686 1725	carcinoma epidermoide bien diferenciado
+#1	SNOMED T1	363746003
+#2	SNOMED T2	126778001
+#3	SNOMED T3	66123000
+#4	SNOMED T4	30746006
+#5	SNOMED T6	66123000
+#6	SNOMED T8	402815007
+#7	SNOMED T9	402815007
+#8	SNOMED T7	40733004
+#9	SNOMED T5	33431000119109

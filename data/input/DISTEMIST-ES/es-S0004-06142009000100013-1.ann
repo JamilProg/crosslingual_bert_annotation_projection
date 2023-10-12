@@ -1,0 +1,20 @@
+T1	pathologie 260 262	DM
+T2	pathologie 267 270	HTA
+T3	pathologie 275 283	alergias
+T4	pathologie 295 305	Ex fumador
+T5	pathologie 346 350	ITUs
+T6	pathologie 836 844	lesiones
+T7	pathologie 1138 1174	múltiples quistes en riñón izquierdo
+T8	pathologie 1212 1230	lesiones quísticas
+T9	pathologie 1267 1294	enfermedad hidatídica renal
+T10	pathologie 1772 1789	quíste hidatídico
+#1	SNOMED T1	73211009
+#2	SNOMED T2	38341003
+#3	SNOMED T5	68566005
+#4	SNOMED T10	74942003
+#5	SNOMED T7	722223000
+#6	SNOMED T9	74942003
+#7	SNOMED T4	8517006
+#8	SNOMED T3	106190000
+#9	SNOMED T6	157670007
+#10	SNOMED T8	441457006

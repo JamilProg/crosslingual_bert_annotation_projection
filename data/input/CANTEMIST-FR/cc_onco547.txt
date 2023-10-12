@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 78 ans, avec un antécédent de greffe rénale il y a 35 ans après une glomérulonéphrite. Actuellement sous méthylprednisolone d'entretien à 10 mg par jour. Il a été opéré d'un carcinome épidermoïde cutané au niveau du canthus externe de l'œil droit, de la région interpariétale et de la tempe gauche, sans récidive à ce jour. Il n'a pas d'autres antécédents intéressants.
+Il vit avec ses filles, qui signalent une augmentation de la dépendance au cours des dernières semaines.
+Elle consulte pour une douleur costale droite et une dyspnée, qui ont augmenté ces derniers jours, associées à des symptômes constitutionnels. Un examen a été réalisé à l'admission avec les résultats suivants.
+
+Examen physique
+"ECOG 2, patient partiellement dépendant pour les activités de base de la vie quotidienne.
+"AP : hypoventilation de l'hémithorax droit.
+"Pour le reste, rien à signaler.
+
+Examens complémentaires
+Août 2018 scanner thoraco-abdomino-pelvien.
+Carcinome pulmonaire multicentrique dans l'hémithorax droit T2 N1 M1 (nodule pulmonaire dans le lobe inférieur droit 15 mm, dans le lobe moyen 5 mm et dans le lobe supérieur droit 1 cm).
+Implantation de tumeurs pleurales avec atteinte osseuse (destruction des 9ème et 10ème arcs costaux postérieurs droits), de la crête diaphragmatique droite et d'un implant musculaire.
+Anévrisme sacculaire de 6 x 7 dans la crosse aortique.
+Atrophie rénale avec transplantation dans la fosse iliaque droite. Une biopsie d'un des implants pleuraux a été réalisée en août 2018 et envoyée à l'anatomopathologie avec le résultat histologique d'un carcinome épidermoïde. L'expression de PD-L1 a également été déterminée comme étant présente dans >50% des cellules tumorales.
+
+Diagnostic
+Carcinome épidermoïde multicentrique du poumon dans l'hémithorax droit de stade IVb (T2 N1 M1b) avec implants musculaires.
+
+Traitement
+À notre arrivée à la clinique externe, nous avons trouvé un patient âgé et fragile, en fauteuil roulant, symptomatique et en bon état général, partiellement dépendant pour les activités de base de la vie quotidienne, et dont l'ECOG est de 2.
+À ce stade, nous avons envisagé la possibilité d'administrer le pembrolizumab en première intention ou d'opter pour un traitement symptomatique palliatif exclusif. Compte tenu des antécédents de transplantation rénale, nous avons expliqué au patient et à sa famille que l'immunothérapie pouvait augmenter le risque de rejet rénal, ce qui pouvait mettre en jeu le pronostic vital. Nous avons également expliqué que, compte tenu de son état général, la chimiothérapie n'est pas une option thérapeutique à l'heure actuelle, l'autre alternative étant un traitement symptomatique avec une surveillance rapprochée.
+Enfin, en accord avec le patient, nous avons opté pour l'option du pembrolizumab, en raison de l'effet bénéfique potentiel qu'il pourrait apporter. Le patient a été précédemment référé en néphrologie pour une prise en charge conjointe et un suivi rapproché pendant le traitement de sa maladie néoplasique en raison du risque de rejet.
+
+Évolution
+Après 3 cycles de traitement par pembrolizumab, lors du scanner de réévaluation d'octobre 2018, le patient a montré une amélioration radiologique notable avec disparition des nodules pulmonaires synchrones et réduction de la masse principale.
+De même, le patient a montré une bonne tolérance du traitement, sans développer d'effets secondaires et avec une résolution de la dyspnée clinique et de la douleur pleurétique, présentant un ECOG 1 et récupérant une ambulation avec un déambulateur. Pendant le traitement, il a maintenu une bonne fonction rénale avec des paramètres analytiques stables (GFR 83 ml/min, créatinine 0,88 mg/dl, urine et sédiment sans altérations), sans signes ou symptômes suggérant un rejet de greffe. Le patient a terminé un total de 5 cycles de pembrolizumab sans toxicité à médiation immunitaire, et est décédé à son domicile en novembre 2018 de manière soudaine, sans cause connue et sans signe clinique ou symptôme associé.

@@ -1,0 +1,22 @@
+T1	pathologie 198 227	párpados superiores, lesiones
+T2	pathologie 593 614	pseudotumor orbitario
+T3	pathologie 616 639	enfermedad del colágeno
+T4	pathologie 641 652	sarcoidosis
+T5	pathologie 856 906	infiltrar el músculo elevador del párpado superior
+T6	pathologie 912 939	afectación del globo ocular
+T7	pathologie 993 1042	proceso inflamatorio localizado a nivel palpebral
+T8	pathologie 1544 1563	xantogranulomatosis
+T9	pathologie 1744 1773	xantogranulomatosis palpebral
+T10	pathologie 2011 2030	xantogranulomatosis
+T11	pathologie 2034 2074	enfermedad de Erdheim-Chester, orbitaria
+#1	SNOMED T2	72789009
+#2	SNOMED T3	81573002
+#3	SNOMED T4	31541009
+#4	SNOMED T7	41446000
+#5	SNOMED T8	448285003
+#6	SNOMED T9	447032001+60113004
+#7	SNOMED T10	448285003
+#8	SNOMED T11	699537002
+#9	SNOMED T1	301913002
+#10	SNOMED T5	278697001
+#11	SNOMED T6	371405004

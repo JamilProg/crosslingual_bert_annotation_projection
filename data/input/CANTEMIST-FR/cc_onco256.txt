@@ -1,0 +1,30 @@
+Anamnèse
+La patiente est âgée de 52 ans et n'a pas d'antécédents médicaux ou chirurgicaux intéressants. Elle n'a pas non plus d'antécédent de cancer ou d'endocrinopathie dans sa famille et ne prend pas de traitement de façon régulière.
+En 2013, elle a consulté après avoir détecté un nodule indolore au niveau du cou. Elle a également eu des épisodes de diarrhée spontanée au cours des mois précédents.
+Une échographie cervicale a montré un nodule d'environ 2,5 cm de diamètre dans le lobe thyroïdien droit, mal délimité, hétérogène et avec des calcifications, accompagné d'adénopathies latérocervicales droites. Une FNA a alors été réalisée et des images cytologiques compatibles avec un carcinome ont été trouvées. Les techniques d'immunohistochimie ont révélé une immunoréactivité intense contre la calcitonine et la synaptophysine, toutes compatibles avec un carcinome médullaire de la thyroïde.
+
+Examen physique
+Le patient présente un nodule palpable, fixe et mal délimité dans la région latérocervicale droite. De petits ganglions lymphatiques associés sont palpés dans cette région, qui sont également indolores. L'état général du patient est bon avec un PS 0.
+
+Examens complémentaires
+- Un scanner cervico-thoracique (CAT scan) a été réalisé, confirmant la présence d'un nodule d'environ 3 cm. Un groupe d'adénopathies à centre nécrotique a été identifié dans le bord inférieur de la thyroïde s'étendant au médiastin supérieur, ainsi que d'autres adénopathies cervicales similaires aux niveaux II, III et V droits. Une infiltration possible du nerf laryngé récurrent droit a été envisagée. Au niveau thoracique, 3 petits nodules bien définis ont été détectés dans le poumon gauche.
+
+- Pour compléter l'information, une IRM cervicale a été réalisée qui a confirmé la présence d'un nodule thyroïdien avec élargissement du lobe thyroïdien droit, ainsi que de divers nodules plus petits avec un centre nécrotique kystique.
+- Les taux de catécholamines et de métanéphrine urinaire sur 24 heures ont été demandés : aucune altération. Les autres examens de laboratoire n'ont rien révélé d'autre, de même que la radiographie du thorax.
+- Le taux de catécholamine était de 5 342,00 pg/mL.
+Diagnostic
+Les résultats sont compatibles avec un carcinome médullaire de la thyroïde avec dissémination lymphatique et possibles métastases pulmonaires. Il n'y avait pas d'antécédents familiaux ou cliniques évocateurs de MEN 2 et la détermination de la mutation germinale RET a été effectuée, ce qui s'est avéré négatif, de sorte qu'il a finalement été considéré comme un carcinome médullaire de la thyroïde sporadique pT3N1b.
+
+Traitement
+Le traitement de choix dans ces cas est la thyroïdectomie totale, accompagnée d'un curage ganglionnaire cervical central et jugulaire droit.
+Après l'opération, le service d'oncologie médicale effectuera des examens complémentaires pour évaluer la situation postopératoire et, en fonction de celle-ci, envisager la possibilité d'une thérapie adjuvante.
+Des analyses ont été effectuées et des valeurs postopératoires de calcitonine de 67,70 pg/ml ont été détectées, le reste des paramètres analytiques se situant dans les limites normales. Un scanner PET-CT a également été réalisé et a permis de détecter une asymétrie des cordes vocales et une activité accrue dans la région cricoaryténoïdienne, ce qui justifie la dysphonie de la patiente. Aucune activité métabolique n'a été détectée dans les stations ganglionnaires. Trois nodules pulmonaires millimétriques sans activité métabolique étaient encore visibles, bien qu'ils suggèrent la présence de métastases.
+Dans ces conditions, un traitement systémique a été exclu et il a été décidé d'entreprendre une radiothérapie. Une fois celle-ci terminée, la patiente a été suivie sans autre intervention. L'Eutirox a été prescrit comme seul traitement pharmacologique.
+
+Évolution
+La patiente a été évaluée tous les 6 mois et pendant toute la durée du suivi, elle est restée asymptomatique, avec un PS0, les seules complications étant une dysphonie post-chirurgicale minime et un érythème post-RT de grade 1.
+Des examens complémentaires ont été réalisés et aucun résultat pathologique n'a été trouvé, et les nodules pulmonaires sont restés inchangés au cours de ces mois.
+Cependant, en octobre 2014, la patiente a déclaré qu'on lui avait diagnostiqué une leucémie myéloïde chronique et qu'elle allait commencer un traitement au Dasatinib par l'hématologie.
+Par conséquent, en l'absence de récidive tumorale au niveau de la thyroïde et compte tenu du fait que ces tumeurs se comportent généralement de manière indolente, il a été décidé de donner la priorité au traitement de son néoplasme hématologique et la patiente a continué à être surveillée.
+
+Lors de sa dernière visite à la clinique en mars 2016, la patiente n'a rapporté qu'un tableau de lésions vasculaires, des arthralgies, un prurit et une fièvre du soir, considérés comme un effet secondaire du Dasatinib et qui se sont atténués avec le traitement symptomatique. Les nodules pulmonaires ont diminué de taille jusqu'à pratiquement disparaître. Les autres examens complémentaires restent normaux et le patient est stable et en réponse moléculaire majeure au traitement par Dasatinib.

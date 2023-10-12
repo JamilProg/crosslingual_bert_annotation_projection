@@ -1,0 +1,29 @@
+Anamnèse
+Homme de 43 ans, ayant travaillé comme peintre et menuisier, avec des antécédents personnels : ex-ADVP (héroïne et cocaïne) consommant actuellement du cannabis et de la méthadone, VHC non contrôlé dans le service digestif et fumeur actif (IA : 25 paquets/an).
+Il s'est présenté en février 2012 avec un syndrome général et des douleurs abdominales, et a été diagnostiqué et opéré le 20/04/2012 pour un adénocarcinome du côlon droit G3 pT3 pN1 (1/38) L1 V1 Pn0 M0, stade III. Du 25/05/2012 au 20/11/2012, il a bénéficié de 8 cycles de traitement adjuvant selon le schéma XELOX (capécitabine 1 000 mg/m2/12 heures jours 1-14 + oxaliplatine 130 mg/m2 jour 1 tous les 21 jours) avec une excellente tolérance. Au scanner de contrôle, après la fin du traitement adjuvant, aucun signe de récidive ou de dissémination de la tumeur n'a été observé, de sorte que le patient est sorti du service d'oncologie médicale et a poursuivi ses examens dans le service de chirurgie colorectale.
+
+Exploration physique
+ PS0. Poids : 58 kg. Taille : 175 cm.
+ Conscient et orienté dans les 3 sphères. Bien hydraté et perfusé. Couleur normale.
+ Tête et cou : pas de ganglions lymphatiques supraclaviculaires ou latérocervicaux palpables.
+ Poitrine : auscultation cardiaque : rythmée, pas de souffle. Auscultation pulmonaire : murmure vésiculaire conservé.
+ Abdomen : petites cicatrices en rapport avec l'intervention chirurgicale. Souple et dépressible. Pas de douleur à la palpation ni de signes d'irritation péritonéale. Pas de masses ou de mégalithes palpables. Bruits intestinaux présents.
+ Membres inférieurs : pas d'œdème.
+
+Examens complémentaires
+Alors que le patient était asymptomatique chez les témoins en chirurgie colorectale avec un ACE normal, un scanner réalisé en avril/2013 (intervalle sans maladie : 3 mois) a montré :
+ Des adénopathies médiastinales et hilaires sous centimétriques d'aspect non spécifique.
+ Un nodule de 9 mm à l'apex du poumon pour éliminer une métastase dans le contexte du patient.
+ PET scan (07/05/2013) : captation au niveau du poumon gauche congruente avec le nodule connu à l'apex du poumon qui nous oblige à écarter une étiologie agressive, incapable de discerner une origine primaire ou secondaire. Augmentation dans le territoire 4R suggérant une atteinte ganglionnaire réactive.
+ EBUS de l'adénopathie 4R et 7 (19/06/2013) : négatif pour les cellules malignes.
+ PBA du nodule pulmonaire (20/06/2013) : négatif pour les cellules malignes.
+ Etude fonctionnelle respiratoire (21/06/2013) : FEV1 3 650 (108,7 %), KCO 69,3 %.
+
+Diagnostic
+Nodule pulmonaire sans histologie maligne et hypermétabolique à la TEP, ce qui rend nécessaire l'élimination d'une tumeur maligne.
+
+Traitement
+Le cas a été présenté au Comité des tumeurs thoraciques et il a été décidé de procéder à une résection atypique du nodule avec biopsie peropératoire, ce qui a été fait le 01/08/2013.
+
+Évolution
+Le rapport d'anatomopathologie indique qu'il s'agit d'un tissu pulmonaire sous-pleural avec des nodules anthracosiques et une réaction granulomateuse sans preuve de tuberculose.

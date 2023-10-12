@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 72 ans, avec des antécédents de BPCO modérée stable, sous traitement pharmacologique pour l'hypertension, le diabète et la dyslipidémie. Pas d'autres antécédents intéressants.
+
+Antécédents oncologiques : diagnostic en décembre 2014 par gastroscopie et tomodensitométrie d'un carcinome peu différencié de l'œsophage distal. Adénopathies importantes au niveau de la jonction œso-gastrique, du ligament gastro-hépatique et du tronc cœliaque. Une laparoscopie diagnostique a permis d'exclure une atteinte péritonéale. En janvier, il a reçu le premier cycle de chimiothérapie néoadjuvante selon le schéma suivant
+EOF.
+
+Admis en février 2015 au service d'oncologie pour deux jours de nausées et vomissements postprandiaux. Il a également présenté une instabilité de la marche qui progressait depuis 7 jours et l'empêchait de marcher.
+
+Examen physique
+Tension artérielle 147/70 mmHg, FC 88 bpm, température 36,6 ºC, le reste de l'examen est sans particularité.
+
+Examen neurologique : alerte, orienté, coopératif, langage normal, pas de dysarthrie, campimétrie de confrontation normale, nerfs crâniens non altérés. Moteur : force 5/5 par groupe musculaire dans les quatre membres, réflexes musculo-squelettiques normaux. Sensoriel : tactoalgésie normale. Coordination : pas de dysmétrie doigt-nez. Quelques secondes après être passé du décubitus à la position assise, il commence à se sentir étourdi, ce qui rend la déambulation impossible. Instabilité.
+
+Tests complémentaires
+" NFS : Hb 12,4 g/dl, leucocytes 8,22 x 103/μl, neutrophiles 4,39 x 103/μl, plaquettes 253 x 103/μl. Biochimie sans altération sauf : protéine C-réactive 97,6 mg/l.
+" Radiographie du thorax : pas d'infiltrat, pas d'épanchement pleural.
+" Tomodensitométrie crânienne avec contraste : pas de résultat pathologique. Zone douteuse de malignité occipitale droite.
+"Échographie Doppler des troncs supra-aortiques : aucun signe d'athéromatose significative. Le flux est détecté dans les artères vertébrales dans la direction physiologique.
+"IRM crânienne sans et avec contraste : carcinomatose méningée étendue affectant principalement la fosse postérieure (également les nerfs crâniens), à un moindre degré au niveau supratentoriel.
+L'élargissement ventriculaire ne montre pas de signe d'hydrocéphalie obstructive du point de vue de l'imagerie, probablement en raison de la rétraction parenchymateuse diffuse existante.
+Carcinomatose méningée.
+
+Diagnostic
+Carcinomatose méningée secondaire à un carcinome de l'œsophage.
+
+Traitement
+Des mesures de soutien ont été mises en place, ainsi qu'une corticothérapie à forte dose, et les mesures agressives ont été découragées.
+
+Evolution
+Au niveau neurologique, elle a commencé à se détériorer avec une dysarthrie et une disparition du réflexe nauséeux, suivies d'une détérioration progressive de l'état de conscience malgré le traitement administré, jusqu'à son décès.

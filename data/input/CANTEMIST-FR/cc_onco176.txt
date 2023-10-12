@@ -1,0 +1,42 @@
+Anamnèse
+Femme de 52 ans, sans allergie médicamenteuse connue. Aucun antécédent médical ou chirurgical intéressant à ce jour. Pas d'antécédents familiaux de cancer.
+Elle a été admise en médecine interne pour l'étude de douleurs abdominales non spécifiques et d'un syndrome constitutionnel.
+
+Examen physique
+Le patient est conscient et orienté. La peau est pâle, normohydratée, afébrile et eupnéique au repos. À l'auscultation cardiaque, on observe des bruits rythmiques sans souffle à une fréquence de 90lpm. L'auscultation pulmonaire ne révèle aucun autre bruit pathologique. L'abdomen est mou, dépressible, non douloureux à la palpation, aucune masse ou mégalithe n'est palpable, le péristaltisme est présent.
+Aucun œdème ni signe de thrombose veineuse profonde dans les membres inférieurs.
+
+Tests complémentaires
+"Coloscopie (novembre 2009) : Ss explore jusqu'à 35 cm, où il y a une néoformation végétative (biopsiée) qui diminue le calibre de la lumière sans permettre le passage de l'endoscope.
+"Échographie abdominale : multiples lésions hépatiques occupant l'espace.
+"Marqueurs tumoraux : CEA 1,138.
+"Anatomie pathologique de la biopsie : adénocarcinome du côlon.
+"Détermination de K-RAS : type sauvage.
+"Tomodensitométrie thoraco-abdominale (novembre 2009) : importante hépatomégalie principalement aux dépens du lobe droit (LD). Une multitude de tumeurs (jusqu'à huit mesurables) de grande taille affectant la quasi-totalité du LD, segments I et IV. Tumeur dans le côlon descendant à proximité de l'angle colosigmoïde où se trouve la tumeur primitive, en contact avec le péritoine pariétal probablement infiltré, d'un diamètre d'environ 5 cm, provoquant une sténose. Il mesure environ 6 cm de long. Petite quantité de liquide péritonéal.
+
+Diagnostic
+Adénocarcinome classique du rectum-sigmoïde. Stade IV.
+
+Traitement
+Le cas est présenté au comité des tumeurs digestives. Les lésions hépatiques étant considérées comme non résécables, il est décidé de débuter un traitement par chimiothérapie palliative (QT). Ce patient fait partie du groupe 2 de l'ESMO (European Society for Medical Oncology).
+
+La patiente a été incluse en novembre 2009 dans l'essai PLANET TTD 08-04 et a été randomisée, entrant dans le bras FOLFIRI (CPT-11 310 mg IV jour 1 + leucovorine 680 mg IV jour 1 + 5-FU 680 mg IV jour 1 en bolus et 5-FU 4100 mg IV jour 1 en perfusion de 46 heures) + panitumubab 360 mg IV jour 1. Pendant le traitement, la patiente a été bien tolérée, à l'exception d'une thrombopénie soutenue de grade 1.
+
+Evolution
+Pendant le traitement, des contrôles périodiques sont effectués par CT scan qui montrent une bonne évolution et une réponse partielle des lésions hépatiques et une négativation des marqueurs tumoraux.
+
+Après huit cycles de traitement, en juin 2010, un scanner thoraco-adbominale de réévaluation a été réalisé, montrant des lésions hépatiques occupant de l'espace dans le segment VIII et le segment VII sous-capsulaire, avec hyalinisation ou nécrose centrale avec des zones d'hyperenhancement de contraste périphérique, probablement secondaires à l'évolution après le traitement par QT. On note un épaississement marqué de la paroi du côlon gauche, tiers moyen et distal, avec oblitération de la lumière et atteinte de la graisse péricolique. Conclusion : réponse partielle des lésions hépatiques avec atteinte persistante de la veine cave inférieure rétrohépatique. Néoplasie colique déjà connue.
+
+Un PET-CT a été réalisé avant l'intervention, qui a montré une maladie active dans le côlon descendant, des lésions hépatiques hypodenses dans le segment VII sous-capsulaire et le segment VIII sans signes d'activité hypermétabolique minimale. Aucune lésion secondaire n'a été observée dans d'autres localisations.
+
+En août 2010, après réévaluation par l'équipe multidisciplinaire, il a été décidé d'opérer la tumeur primaire par hémicolectomie gauche laparoscopique avec anastomose de bout en bout.
+
+Au cours de l'intervention chirurgicale, une échographie laparoscopique peropératoire a été réalisée, confirmant l'absence d'atteinte du lobe hépatique gauche et, par conséquent, en septembre 2010, un traitement chirurgical des lésions hépatiques a été réalisé. Lors de la procédure chirurgicale, une hépatectomie droite a été réalisée avec une partie du segment IV après dissection et contrôle des veines sus-hépatiques moyenne et gauche et, en continuité, résection de la racine de la veine sus-hépatique droite avec le côté antéro-latéral droit de la veine cave inférieure rétro-hépatique.
+
+Rapport anatomo-pathologique : dans l'échantillon de tumeur primaire, on a observé un adénocarcinome du rectum-sigmoïde de type infiltrant classique avec un degré de malignité moyen. Stade : ypT3 ypN0 (0/14) M1. La pièce d'hépatectomie droite présente six nodules métastatiques d'une taille comprise entre 7 et 1,3 cm, avec présence de nécrose tumorale (non quantifiée).
+
+Conformément aux directives du protocole de l'essai PLANET TTD 08-04, le traitement adjuvant est administré avec FOLFIRI + panitumumab (selon le même schéma que lors des huit cycles précédents) pour un total de 12 cycles.
+
+Des contrôles périodiques avec des examens d'imagerie et des analyses de sang avec des marqueurs tumoraux sont maintenus et se situent dans la fourchette normale jusqu'à aujourd'hui, 66 mois après le diagnostic.
+
+Dernière tomodensitométrie de suivi en avril 2015 : aucun signe de maladie secondaire.

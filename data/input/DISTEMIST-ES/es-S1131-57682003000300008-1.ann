@@ -1,0 +1,28 @@
+T1	pathologie 279 291	tuberculosis
+T2	pathologie 293 295	TB
+T3	pathologie 339 352	poliomielitis
+T4	pathologie 382 438	secuela una leve deformidad en ambos miembros inferiores
+T5	pathologie 440 454	ulcus duodenal
+T6	pathologie 532 541	Exfumador
+T7	pathologie 1367 1376	sinusitis
+T8	pathologie 1722 1752	patología pulmonar y digestiva
+T9	pathologie 2299 2351	anemia leve (Hb: 11,7 g/dl) normocítica normocrómica
+T10	pathologie 2802 2825	diverticulosis colónica
+T11	pathologie 2849 2868	patología digestiva
+T12	pathologie 3377 3404	úlcera gástrica prepilórica
+T13	pathologie 3884 3923	sarcoma fusocelular de grado intermedio
+T14	pathologie 3953 4001	sarcoma del estroma de la pared gastrointestinal
+#1	SNOMED T1	56717001
+#2	SNOMED T3	721764008
+#3	SNOMED T4	15742161000119100
+#4	SNOMED T5	51868009
+#5	SNOMED T6	8517006
+#6	SNOMED T7	36971009
+#7	SNOMED T8	19829001+53619000
+#8	SNOMED T9	46737006
+#9	SNOMED T10	398050005
+#10	SNOMED T11	119292006
+#11	SNOMED T12	22620000
+#12	SNOMED T13	424413001
+#13	SNOMED T14	420120006
+#14	SNOMED T2	56717001

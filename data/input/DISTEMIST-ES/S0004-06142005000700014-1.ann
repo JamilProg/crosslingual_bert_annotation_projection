@@ -1,0 +1,14 @@
+T1	pathologie 486 496	brucelosis
+T2	pathologie 638 655	orquiepididimitis
+T3	pathologie 869 880	adenopatías
+T4	pathologie 885 890	bocio
+T5	pathologie 1239 1246	varices
+T6	pathologie 2500 2513	microabscesos
+T7	pathologie 2537 2576	orquiepididimitis secundaria a Brucella
+#1	SNOMED T1	75702008
+#2	SNOMED T2	197983000
+#3	SNOMED T3	30746006
+#4	SNOMED T4	3716002
+#5	SNOMED T5	128060009
+#6	SNOMED T6	128477000
+#7	SNOMED T7	198002008+72829003

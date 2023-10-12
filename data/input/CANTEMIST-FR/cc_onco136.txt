@@ -1,0 +1,39 @@
+Anamnèse
+Femme de 74 ans, pas d'allergies pharmacologiques connues, cuisinière de profession. Pas de tabagisme ni d'habitudes toxiques.
+Antécédents médicaux : hypertension, AVC (accident vasculaire cérébral) sans séquelles en 1999, TBI (traumatisme crânien) fermé sans séquelles en 2006.
+Antécédents chirurgicaux : appendicectomie et amygdalectomie.
+Traitement habituel : oméprazole, telmisartan et hydrochlorothiazide, trifusal et lorazepam.
+
+La patiente a consulté pour une fièvre (jusqu'à 40ºC), une toux et une expectoration blanchâtre depuis 6 jours, sans amélioration malgré un traitement antibiotique et sans autres symptômes associés. Il a été décidé de l'hospitaliser pour investigation.
+
+Examen physique
+Patient conscient, orienté, GCS 15, ECOG 0. Eupnéique au repos, en bon état général.
+Couleur normale et hydratation normale. L'auscultation pulmonaire montre des rhonchies éparses, principalement bibasales, sans autres bruits superposés. L'auscultation cardiaque était normale et régulière.
+L'abdomen était sans particularité. Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+"Radiographie du thorax (février 2011) : augmentation de la densité basale droite.
+"Gaz du sang artériel (février 2011) : pH 7,42, pO2 60, pCO2 44, Sat O2 92% baseline (chiffres compatibles avec une insuffisance respiratoire partielle).
+"Étude fonctionnelle respiratoire (février 2011) : FÉV1/FVC 75,7 %, FVC 90 %, FÉV1 96 %. DLCO 100% (dans les limites de la normale).
+"Marqueurs tumoraux (février 2011) : CA 19.9 : 192 U/ml, CA 15.3 : 32 U/ml.
+"Fibrobronchoscopie (février 2011) : orifices dilatés dans la pyramide basale droite. Pas d'autres résultats. Cytologie négative pour une tumeur maligne.
+"Tomodensitométrie thoracique (février 2011) : pseudomasse de 5 cm de diamètre dans la LID en contact avec la plèvre viscérale avec bronchogramme aérien partiel à l'intérieur. Nodule pulmonaire périphérique dans le même lobe.
+Pas d'adénopathie pathologique.
+"Etude d'extension avec PET-CT (février 2011) : masse dans le LID de 4,8 cm de diamètre avec un SUV maximum de 3,4.
+Compte tenu de la forte suspicion de malignité de la masse pulmonaire, une biopsie peropératoire a été réalisée, confirmant la compatibilité avec un adénocarcinome, de sorte qu'en juin 2011, une chirurgie programmée a été réalisée, avec une lobectomie inférieure droite avec lymphadénectomie des 4R, 7, 9R et 10R.
+Étude anatomo-pathologique : adénocarcinome infiltrant multifocal bien différencié (G1) avec un foyer plus important de 2,5 cm associé à des zones étendues d'adénocarcinome mucineux in situ. Adénopathies sans signe de néoplasie.
+
+Diagnostic
+Adénocarcinome pulmonaire LID pT3 N0 M0, stade IIB, selon la 7e édition de la classification TNM des tumeurs malignes de l'IASLC (Association internationale pour l'étude du cancer du poumon).
+
+Traitement
+Une chimiothérapie adjuvante a été mise en place selon le schéma suivant : cisplatine 60 mg/m2 jour 1 avec vinorelbine 60 mg/m2 jours 1 et 8 de chaque cycle, tous les 21 jours pendant trois cycles. Toxicité digestive avec nausées, vomissements et diarrhée de grade 3.
+
+Évolution
+Il a continué à être suivi tous les trois mois conformément au protocole. En avril 2013, on a diagnostiqué une progression avec de multiples lésions pulmonaires bilatérales par tomodensitométrie. Le statut mutationnel de l'EGFR a été étudié et s'est révélé négatif, de même que la translocation ALK.
+
+A commencé une chimiothérapie palliative de première ligne dans l'essai clinique randomisé de phase II GO27821, stratifié par l'expression de MET, recevant le schéma de traitement de carboplatine AUC=5, paclitaxel 175 mg/m2, bevacizumab 15 mg/kg et onartuzumab (inhibiteur de MET) vs. placebo tous les 21 jours, ont reçu quatre cycles, avec une maladie stable lors de la réévaluation par tomodensitométrie, suivis de neuf cycles d'entretien dans le cadre de l'essai avec l'onartuzumab et le bevacizumab tous les 21 jours, jusqu'en février 2014, qui ont montré une progression pulmonaire à la tomodensitométrie selon les critères RECIST 1.Le critère RECIST 1 est l'apparition de nouveaux nodules pulmonaires. La survie globale sans progression a été de 11 mois.
+L'étude moléculaire a été prolongée par la détermination du gène KRAS à partir de l'échantillon chirurgical existant, qui s'est avéré muté. Par conséquent, une deuxième ligne de traitement palliatif a été mise en place dans le cadre de l'essai clinique de phase III SELECT-1. Le docétaxel 75 mg/m2 jour 1 et le sélumétinib 75 mg v.o. toutes les 12 heures, tous les 21 jours, ont été administrés. En raison d'une toxicité consistant en une mucosite G2, une diarrhée G3 et une asthénie G3, le sélumétinib a été interrompu à partir du deuxième cycle et le docétaxel a été poursuivi à 55 mg/m2 pendant quatre cycles supplémentaires jusqu'en septembre 2014, date à laquelle une progression pulmonaire a été constatée en raison de l'hypertrophie des nodules pulmonaires.
+Une troisième ligne de chimiothérapie a été débutée avec 150 mg d'erlotinib en v.o. toutes les 24 heures, avec une réduction de la dose à 100 mg par jour, en raison de l'apparition d'un rash G2, jusqu'en décembre 2014, date à laquelle il a présenté une nouvelle progression pulmonaire.
+Le profil moléculaire de l'échantillon tumoral initial a été à nouveau étudié, et une surexpression de Her-2 a été détectée avec une intensité d'expression modérée par immunohistochimie. Elle a donc commencé une quatrième ligne de chimiothérapie palliative dans le cadre de l'essai clinique de phase II sur le cancer du poumon HER2, avec TDM1 3,6 mg/m2 i.v. jour 1 tous les 21 jours.
+Elle a actuellement reçu sept cycles et poursuit son traitement, avec une maladie stable sur les tests d'imagerie de contrôle, une très bonne tolérance, aucune toxicité et une excellente qualité de vie.

@@ -1,0 +1,36 @@
+Anamnèse
+Un homme de 78 ans, sans allergie médicamenteuse connue, présentant de multiples facteurs de risque cardiovasculaire (hypertension, dyslipidémie, obésité, ex-fumeur avec un tabagisme cumulé de 60 paquets-années), une cardiopathie hypertensive établie, une sténose carotidienne et une bronchopneumopathie chronique obstructive (BPCO), qui a consulté en juin 2017 pour des épisodes répétés d'hématurie.
+Une échographie de l'abdomen et du bassin a été réalisée, mettant en évidence une lésion vésicale suspecte de malignité mesurant environ 3 cm. En juillet de la même année, compte tenu de la forte suspicion de néoformation vésicale maligne, une résection transurétrale (RTU) a été réalisée, confirmant une tumeur papillaire solide de 3 cm sur la face antérieure de la vessie, qui a été réséquée et envoyée en anatomopathologie pour analyse.
+En septembre 2017, l'étude d'extension par tomodensitométrie a montré plusieurs micronodules pulmonaires bilatéraux situés dans les lobes supérieurs, dont le plus grand mesurait 8 mm, et le radiologue a conseillé un suivi, car la taille n'était pas significativement pathologique. Le radiologue a également décrit une lésion du bassinet rénal gauche de 10 x 18 mm, suspecte de malignité compte tenu du contexte du patient. L'altération morphologique de la vessie avec déplacement antérieur et épaississement pariétal, principalement au niveau de la paroi fundique, a été confirmée.
+Par ailleurs, une adénopathie pathologique de 13 mm au niveau de la chaîne iliaque externe proximale gauche a été constatée.
+Presque simultanément, le patient a consulté pour un œil rouge douloureux évoluant depuis 6-7 jours, accompagné d'une vision floue et de sécrétions peu abondantes. Lors de l'examen oculaire, il a présenté un Tyndall +, et le diagnostic d'uvéite antérieure aiguë a été posé. Un examen par tomographie en cohérence optique (OCT) a révélé une masse sur la face antérieure de l'iris dans l'œil gauche, à partir de laquelle un échantillon a été prélevé pour une cytologie par ponction à l'aiguille fine (FNA), qui a été décrite comme " suspecte mais non concluante de malignité " en raison d'une IHC positive pour la CK7.
+Ainsi, en novembre 2017, elle s'est rendue au service d'oncologie où elle n'a pas présenté de symptômes urologiques (pas de douleur ni d'hématurie). En tenant compte des comorbidités de la patiente, il a été décidé de commencer un traitement pour une maladie avancée avec du carboplatine et du paclitaxel toutes les trois semaines.
+En outre, au cours du même mois, le service d'ophtalmologie a commencé un traitement par bevacizumab intraoculaire.
+
+Examen physique
+Poids 90 kg. Taille 174 cm. Bon état général. Auscultation cardiaque rythmée sans souffle audible. Auscultation pulmonaire avec bonne ventilation dans les deux champs et absence de bruits pathologiques. Pas de constatation pertinente au niveau abdominal. Membres inférieurs sans œdème ni signes inflammatoires aigus.
+
+Examens complémentaires
+Diagnostic anatomopathologique (TUR) : carcinome urothélial solide de haut grade (G3) envahissant la couche musculaire profonde (T2b).
+FNA œil gauche : plaques minimales de cellules présentant des atypies discrètes et des restes apoptotiques entre elles. L'IHC a été réalisée, montrant une légère positivité de certaines cellules pour la CK7 et une négativité pour le marqueur de mélanome (S100). Par conséquent, le pathologiste déclare que, bien que les altérations soient suspectes, en raison de la cytologie cellulaire très faible, elles ne sont pas totalement concluantes pour la malignité.
+Biomicroscopie à ultrasons (UBB) de l'œil gauche : masse au niveau de l'iris envahissant partiellement le sphincter pupillaire, sans atteinte de la face postérieure de l'iris ni du corps ciliaire.
+Le scanner corps entier au moment du diagnostic rapporte des micronodules pulmonaires, un épaississement vésical focal, une lésion intrapelvienne rénale gauche et une adénopathie pathologique (13 mm) au niveau de la chaîne iliaque externe gauche.
+TDM de contrôle en février 2018 après 4 cycles de QT : diminution de la taille des micronodules pulmonaires (mesure du plus gros), maintien de l'épaississement vésical focal, lésion rénale stable et diminution significative de la taille de l'adénopathie iliaque gauche, qui est devenue de taille subcentimétrique.
+
+Diagnostic
+Carcinome urothélial : maladie avancée :
+"Nodules pulmonaires.
+"Lésion rénale.
+"Lésion de l'iris de l'œil gauche.
+
+Traitement
+"Chimiothérapie pour maladie avancée en première ligne avec paclitaxel-carboplatine (4 cycles).
+"Chimiothérapie pour la maladie avancée en deuxième ligne avec vinflunine (2 cycles).
+"Bevacizumab intraoculaire comme traitement local de l'atteinte iridienne (2 injections).
+
+Evolution
+Le patient a subi 3 cycles de chimiothérapie (QT) sans incident, sans toxicité hématologique nécessitant un retard dans le cycle ou une réduction de la dose. Avant le troisième cycle, il a rapporté une asthénie de grade 2 les premiers jours et des douleurs de grade 1 dans les membres inférieurs et des paresthésies.
+Après le quatrième cycle, elle a présenté une sensation de liège de tout le membre inférieur gauche.
+Au scanner de février 2018, elle a présenté une réponse partielle et, lors du dernier bilan ophtalmologique, la lésion intraoculaire a disparu après l'injection de deux doses de bévacizumab.
+Compte tenu de la bonne réponse au carboplatine et au paclitaxel, et de l'apparition d'une neurotoxicité, il a été décidé de suspendre le traitement et de débuter un traitement d'entretien par vinflunine, dont elle a reçu 2 cycles avec une tolérance acceptable.
+Il reçoit actuellement un traitement d'entretien à la vinflunine (il a reçu 2 perfusions avec une tolérance acceptable), et maintient la réponse partielle obtenue avec la chimiothérapie de première ligne.

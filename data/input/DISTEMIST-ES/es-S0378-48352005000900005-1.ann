@@ -1,0 +1,18 @@
+T1	pathologie 118 150	carcinoma lobulillar infiltrante
+T2	pathologie 175 189	tumor primario
+T3	pathologie 211 277	axila se aislaron 14 ganglios, 4 de ellos infiltrados por el tumor
+T4	pathologie 665 717	adenocarcinoma difuso con células en anillo de sello
+T5	pathologie 791 798	ascitis
+T6	pathologie 805 823	neoplasia gástrica
+T7	pathologie 875 908	infiltraba la cabeza del páncreas
+T8	pathologie 962 1001	invasión por células en anillo de sello
+T9	pathologie 1185 1201	metástasis óseas
+#1	SNOMED T1	278054005
+#2	SNOMED T2	372087000
+#3	SNOMED T3	127189005
+#4	SNOMED T4	87737001
+#5	SNOMED T5	389026000
+#6	SNOMED T6	126824007
+#7	SNOMED T7	94325008
+#8	SNOMED T8	87737001
+#9	SNOMED T9	94222008

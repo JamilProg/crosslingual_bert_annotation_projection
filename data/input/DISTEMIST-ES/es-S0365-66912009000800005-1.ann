@@ -1,0 +1,14 @@
+T1	pathologie 43 51	diplopía
+T2	pathologie 98 170	parálisis completa del tercer par craneal derecho con afectación pupilar
+T3	pathologie 320 341	hipertensión arterial
+T4	pathologie 497 513	ptosis palpebral
+T5	pathologie 724 748	defecto pupilar aferente
+T6	pathologie 812 830	catarata bilateral
+T7	pathologie 1306 1308	AT
+#1	SNOMED T1	24982008
+#2	SNOMED T2	60750009
+#3	SNOMED T3	38341003
+#4	SNOMED T4	11934000
+#5	SNOMED T6	95722004
+#6	SNOMED T7	87511001
+#7	SNOMED T5	232121005

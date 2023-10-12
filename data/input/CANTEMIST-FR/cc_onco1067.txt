@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 64 ans, amygdalectomisée. G1P0C1, sans autre antécédent personnel ou familial, opérée en juin 2003 (54 ans) d'un carcinome canalaire infiltrant multicentrique du sein droit associé à un carcinome intraductal. Stade pT2pN0M0. IHQ : ER +++, EP ++, cerb 2 -, Ki 67 < 14%. Une mastectomie et une lymphadénectomie ont été réalisées.
+Une chimiothérapie adjuvante a été administrée avec CAF x 6 cycles et un traitement ultérieur avec RT et HT (tamoxifène).
+En décembre 2004, lors d'un examen de routine, une masse pelvienne complexe a été détectée à l'échographie. Une IRM a donc été demandée, qui a confirmé l'existence d'une masse pelvienne mesurant 13 x 8 cm avec une composante kystique et solide mixte et un piégeage urétéral bilatéral.
+Elle a été opérée en février 2005 (56 ans) après confirmation peropératoire d'un carcinome séreux ovarien. Une chirurgie régulière a été pratiquée, mais sans lymphadénectomie para-aortique. L'anatomie pathologique a confirmé la présence d'un cystadénocarcinome ovarien séreux papillaire bilatéral avec de petits implants à la surface de l'ovaire gauche.
+Les autres biopsies intra-abdominales (péritoine pariétal, Douglas, péritoine viscéral, adénopathie iliaque) étaient négatives.
+Stade pT1c (FIGO IC).
+Une chimiothérapie complémentaire a été administrée avec carboplatine-taxol x 6 cycles (16/3/2005 au 21/7/2005), avec une bonne tolérance.
+En décembre 2006, trois adénopathies rétropéritonéales ont montré une croissance au scanner, bien qu'à une taille limite pour la suspicion de malignité, et il a donc été décidé d'effectuer un nouveau contrôle dans 3 mois.
+
+Examen physique
+Statut de performance ECOG 0-1. Bon état général. L'examen physique ne révèle rien de particulier.
+
+Examens complémentaires
+- Tomodensitométrie (mars 2007) : adénopathies rétropéritonéales dont la taille a augmenté par rapport à la tomodensitométrie précédente, la plus grande mesurant 2,5 x 2 cm.
+- Marqueurs tumoraux (mars 2007) : CA 125 45,5 UI/ml, CEA et CA 15.3 dans les limites normales.
+- TEP (avril 2007) : foyer d'hypermétabolisme pathologique mesurant 3 x 2,5 cm à gauche de la ligne médiane abdominale, compatible avec une adénopathie rétropéritonéale métastatique.
+
+Diagnostic
+- Carcinome mammaire au stade T2N0M0, sous-type histologique luminal A.
+- Carcinome ovarien de stade Ic au début de la maladie. Récidive rétropéritonéale avec maladie sensible au platine.
+
+Traitement
+La chirurgie de sauvetage a été exclue à ce moment-là en raison de la localisation. Une chimiothérapie a été instaurée pour les maladies sensibles au platine avec du carboplatine et de la gemcitabine.
+Après 3 cycles, une réponse partielle a été obtenue, qui s'est maintenue après 6 et 8 cycles, mais une maladie mesurable a persisté, sans réponse biochimique complète et avec une prise pathologique persistante à la TEP, de sorte que, après avoir discuté du cas lors d'une session multidisciplinaire, il a été décidé d'administrer une radiothérapie à la région abdominale para-aortique, qui s'est terminée le 18/4/2008 avec un DT de 45 Gy. La tolérance de la phase aiguë a été acceptable, la toxicité la plus importante étant la diarrhée de grade II.
+Un traitement hormonal adjuvant a été repris pour son cancer du sein avec de l'exemestane (jusqu'à 5 ans).
+
+Évolution
+Une étude génétique a été demandée pour écarter la possibilité d'une mutation du gène BRCA. La mutation c330 A > G (p.R71G) a été détectée dans l'exon 5 du gène BRCA1 en hétérozygotie.
+Depuis lors, elle se soumet à des contrôles trimestriels sans aucun signe de récidive.
+Comme séquelles du traitement, elle souffre d'ostéopénie, de flatulences et de douleurs abdominales occasionnelles avec coliques, qui ne la limitent pas dans ses activités quotidiennes.

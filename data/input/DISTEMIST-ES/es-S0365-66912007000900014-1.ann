@@ -1,0 +1,22 @@
+T1	pathologie 51 59	varicela
+T2	pathologie 635 643	vitritis
+T3	pathologie 662 671	retinitis
+T4	pathologie 871 945	retinitis necrotizante en el área temporal asociado a vasculitis retiniana
+T5	pathologie 925 945	vasculitis retiniana
+T6	pathologie 1225 1243	necrosis retiniana
+T7	pathologie 1334 1343	retinitis
+T8	pathologie 1479 1487	vitritis
+T9	pathologie 1515 1524	retinitis
+T10	pathologie 2001 2041	cicatrización de las lesiones retinianas
+T11	pathologie 2144 2191	infección reciente por el virus varicela zoster
+#1	SNOMED T11	309465005
+#2	SNOMED T1	38907003
+#3	SNOMED T2	95802009
+#4	SNOMED T7	399463004
+#5	SNOMED T3	399463004
+#6	SNOMED T10	66485003
+#7	SNOMED T4	399463004+77628002
+#8	SNOMED T8	95802009
+#9	SNOMED T5	77628002
+#10	SNOMED T9	399463004
+#11	SNOMED T6	29555009

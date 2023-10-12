@@ -1,0 +1,14 @@
+T1	pathologie 44 77	IRC secundaria a hipoplasia renal
+T2	pathologie 61 77	hipoplasia renal
+T3	pathologie 254 284	nefropatía crónica del injerto
+T4	pathologie 454 511	glomerulonefritis membranoproliferativa secundaria al VHC
+T5	pathologie 540 562	hepatitis «no-A, no-B»
+T6	pathologie 635 663	hepatitis crónica periportal
+T7	pathologie 1113 1121	lesiones
+#1	SNOMED T1	32659003
+#2	SNOMED T2	32659003
+#3	SNOMED T3	236578006
+#4	SNOMED T4	80321008
+#5	SNOMED T5	50711007
+#6	SNOMED T6	76783007
+#7	SNOMED T7	157670007

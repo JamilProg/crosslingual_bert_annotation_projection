@@ -1,0 +1,21 @@
+T1	pathologie 38 57	esclerosis múltiple
+T2	pathologie 90 106	bulimia nerviosa
+T3	pathologie 277 297	intentos autolíticos
+T4	pathologie 492 512	conductas purgativas
+T5	pathologie 632 653	trastorno alimentario
+T6	pathologie 1789 1807	estado de preshock
+T7	pathologie 2101 2120	acidosis metabólica
+T8	pathologie 2276 2295	dilatación gástrica
+T9	pathologie 2371 2389	compresión aórtica
+T10	pathologie 2400 2419	dilatación gástrica
+T11	pathologie 3283 3302	fallo multiorgánico
+T12	pathologie 3322 3360	hipo-perfusión de vísceras abdominales
+T13	pathologie 3361 3381	fallo hepático agudo
+T14	pathologie 3386 3412	hepatitis tóxico-isquémica
+T15	pathologie 3415 3446	encefalopatía tóxico-metabólica
+T16	pathologie 3448 3468	isquemia pancreática
+T17	pathologie 3470 3489	isquemia intestinal
+T18	pathologie 3491 3509	shock circulatorio
+T19	pathologie 3511 3549	síndrome isquemiareperfusión abdominal
+T20	pathologie 3551 3576	insuficiencia renal aguda
+T21	pathologie 3579 3611	insuficiencia respiratoria aguda

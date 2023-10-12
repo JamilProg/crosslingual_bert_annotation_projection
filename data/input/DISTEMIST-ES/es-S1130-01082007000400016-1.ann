@@ -1,0 +1,20 @@
+T1	pathologie 182 195	hepatomegalia
+T2	pathologie 446 468	insuficiencia hepática
+T3	pathologie 562 566	coma
+T4	pathologie 657 696	lesiones hepáticas ocupantes de espacio
+T5	pathologie 809 812	MTS
+T6	pathologie 943 962	lesiones cerebrales
+T7	pathologie 1081 1096	hepatitis aguda
+T8	pathologie 1189 1211	insuficiencia hepática
+T9	pathologie 1542 1561	fallo multiorgánico
+T10	pathologie 1610 1628	lesiones hepáticas
+T11	pathologie 1765 1778	MTS hepáticas
+T12	pathologie 1792 1806	tumor primario
+T13	pathologie 1814 1834	adenocarcinoma cecal
+T14	pathologie 1913 1956	infiltración de serosa y grasa perivascular
+T15	pathologie 1959 1991	infiltración linfática y venular
+T16	pathologie 1993 2044	MTS en ganglios locorregionales infradiafragmáticos
+T17	pathologie 1993 2069	MTS en ganglios locorregionales infradiafragmáticos y en parénquima pulmonar
+T18	pathologie 2104 2123	hepatitis isquémica
+T19	pathologie 2135 2148	colangiolitis
+T20	pathologie 2159 2198	autolisis pancreática y peripancreática

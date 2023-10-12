@@ -1,0 +1,32 @@
+T1	pathologie 76 87	B-talasemia
+T2	pathologie 129 136	Fumador
+T3	pathologie 156 172	bebedor moderado
+T4	pathologie 174 196	Alérgico a pirazolonas
+T5	pathologie 288 312	infección dental crónica
+T6	pathologie 405 421	parálisis facial
+T7	pathologie 581 604	angioma en frente y ojo
+T8	pathologie 703 740	parálisis facial periférica bilateral
+T9	pathologie 1771 1778	rubéola
+T10	pathologie 1780 1784	lúes
+T11	pathologie 1806 1814	Varicela
+T12	pathologie 1823 1832	sarampión
+T13	pathologie 1835 1846	parotiditis
+T14	pathologie 2321 2368	polineuropatía sensitivo-motora en extremidades
+T15	pathologie 2944 2960	parálisis facial
+T16	pathologie 3074 3090	parálisis facial
+#1	SNOMED T1	65959000
+#2	SNOMED T4	293582004
+#3	SNOMED T5	427898007
+#4	SNOMED T6	280816001
+#5	SNOMED T7	400210000
+#6	SNOMED T8	449916008
+#7	SNOMED T11	38907003
+#8	SNOMED T14	3900008
+#9	SNOMED T9	36653000
+#10	SNOMED T12	14189004
+#11	SNOMED T13	36989005
+#12	SNOMED T2	77176002
+#13	SNOMED T3	7200002
+#14	SNOMED T15	280816001
+#15	SNOMED T16	280816001
+#16	SNOMED T10	76272004

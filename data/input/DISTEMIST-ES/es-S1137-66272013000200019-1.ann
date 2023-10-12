@@ -1,0 +1,24 @@
+T1	pathologie 44 62	orejas prominentes
+T2	pathologie 115 163	orejas se desarrolló progresivamente un queloide
+T3	pathologie 205 214	queloides
+T4	pathologie 493 501	lesiones
+T5	pathologie 709 717	queloide
+T6	pathologie 969 977	queloide
+T7	pathologie 1189 1207	nódulos queloideos
+T8	pathologie 1256 1282	atrofia de anejos cutáneos
+T9	pathologie 1519 1529	cicatrices
+T10	pathologie 1729 1785	oreja derecha presentó una dehiscencia pequeña de sutura
+T11	pathologie 2036 2076	oreja derecha se desarrolló una recidiva
+T12	pathologie 2124 2132	queloide
+#1	SNOMED T1	275478007
+#2	SNOMED T10	22247000
+#3	SNOMED T2	33659008
+#4	SNOMED T3	33659008
+#5	SNOMED T11	25906001
+#6	SNOMED T7	33659008
+#7	SNOMED T8	238714008
+#8	SNOMED T9	275322007
+#9	SNOMED T4	157670007
+#10	SNOMED T12	33659008
+#11	SNOMED T5	33659008
+#12	SNOMED T6	33659008

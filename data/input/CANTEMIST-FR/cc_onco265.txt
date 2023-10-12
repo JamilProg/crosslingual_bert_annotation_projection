@@ -1,0 +1,27 @@
+ANAMNÈSE : Un homme de 74 ans, ayant des antécédents médicaux d'allergie aux produits de contraste iodés, d'hypercholestérolémie pure sous traitement par atorvastatine 20 mg/jour et d'arthrose suivie en traumatologie, a consulté en dermatologie en avril 2008 pour une lésion hyperpigmentée dans la région poplitée gauche. Il a subi une excision extensive et une étude du ganglion lymphatique sentinelle situé dans l'aine ipsilatérale pour suspicion de mélanome. Le résultat anatomopathologique définitif était un mélanome malin d'extension superficielle, Clark III, Breslow 0,21 mm, frontières libres, ganglions lymphatiques morphologiquement conservés et immunohistochimie S100 négative pour HMB 45 tumeur négative, stade pT3aN0M0, et il a été décidé de faire un suivi.
+6 ans plus tard, en mai 2014, elle consulte le service de dermatologie, constatant la présence d'adénopathies dans la région inguinale gauche, ainsi que la présence d'une induration au niveau de la cicatrice de la chirurgie initiale. Aucun autre symptôme associé.
+
+Examen physique
+Bon état général, ECOG 1, coloration normale, muqueuses buccales semi-hydratées, eupnéique au repos.
+CA : bruits cardiaques réguliers, synchrones avec le pouls.
+AP : champs pulmonaires ventilés, pas de bruits pathologiques surajoutés.
+ABD : Présence de bruits hydro-aériens doux et dépressibles, non douloureux à la palpation superficielle ou profonde. Adénopathies inguinales gauches palpables et nodule sous-cutané dans la zone postérieure de la jambe gauche au niveau de la cicatrice antérieure.
+
+Examens complémentaires
+Un scanner du thorax, de l'abdomen et du bassin a été réalisé, ainsi qu'une IRM cérébrale, sans aucun signe d'extension de la maladie à d'autres endroits.
+
+Diagnostic
+METASTASIS DANS L'ADENOPATHIE DU MELANOMA MALIGNANT (1 sur 6) RESTE DE LA GANGLIE
+PAS de lésions BRAF mutées stade T3aN1bM0 (stade III)
+
+Traitement
+En mai 2014, une lymphadénectomie inguinale gauche a été réalisée avec le résultat de l'anatomie pathologique : METASTASIS DANS UN ADENOPATHIE DE MELANOMA MALIGNANT (1 sur 6) RESTE DES GANGLES SANS BRAF MUTÉ STAGE T3aN1bM0 (Stade III) et le patient a été référé à la clinique ambulatoire d'oncologie médicale pour compléter l'étude et le traitement adjuvant.
+Compte tenu du MELANOMA MALIGNANT DE STADE III BRAF MUTÉ, la patiente s'est vue proposer l'inclusion dans l'essai clinique de phase III en double aveugle COMBI AD de traitement adjuvant du mélanome à haut risque avec mutation BRAF V600 après résection chirurgicale par DABRAFENIB 150mg 2 fois/jour ou placebo et TRAMETINIB 2mg 1 fois/jour ou placebo 22 - juillet 2014.
+En décembre 2014, elle s'est présentée à une visite de contrôle conformément au protocole et a remarqué un épisode de vision floue, demandant une évaluation urgente en ophtalmologie où elle a été diagnostiquée avec une uvéite antérieure et un œdème maculaire bilatéral modéré, avec des transaminases de grade 2 élevées et une toxicité oculaire G3.
+Compte tenu de cette toxicité, il a été décidé d'interrompre le traitement par trmetinib et de maintenir le dabrafenib dans l'essai.
+
+Évolution
+En SEPTEMBRE 2015, une progression de la maladie a été observée au scanner : masse des tissus mous au niveau de la région dorsale, affectant la zone costale, demandant l'ouverture du cæcum, une nouvelle biopsie de la lésion nodulaire au niveau du membre supérieur gauche, puis un traitement par radiothérapie sur la région dorsale. La biopsie a révélé un mélanome malin non muté BRAF avec 50 % de cellules tumorales, demandant un traitement par IPILIMUMAB auprès de l'Agence de santé de Valence, qui a finalement été approuvé en décembre 2015.
+Après 2 cycles de traitement, elle a été admise en raison d'une parésie faciale gauche à prédominance inférieure, d'une hémiparésie gauche (MSI 0/5, MII 2/5) et d'une hémihypoesthésie gauche avec une suspicion d'atteinte cérébrale métastatique.
+Une IRM cérébrale a été réalisée et a montré un hématome intraparenchymateux dans la topographie des ganglions de la base droite mesurant approximativement 36 x 19 x 26 mm (diamètre maximal dans le plan axial x diamètre coronal), présentant un œdème vasogénique périlésionnel et une captation irrégulière après administration d'IVC avec effet de masse sur le LV droit avec une déviation de la ligne médiane de 3 mm, ainsi que d'autres foyers d'hyper captation cortico-sous-corticaux, l'un pariétal droit de 3 mm et l'autre frontobasal gauche de 4 mm, compatibles avec une métastase.
+Le patient a présenté une aggravation clinique progressive, une détérioration générale et un coma encéphalique, qui ont finalement déclenché l'exitus, avec une survie globale de 7 ans et 8 mois.

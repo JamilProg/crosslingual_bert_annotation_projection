@@ -1,0 +1,41 @@
+Anamnèse
+Femme de 49 ans, non-fumeuse, sans antécédents médicaux. En juillet 2014, elle a présenté une dyspnée d'effort, une toux et une douleur au flanc gauche, pour lesquelles une étude a été lancée.
+
+Examen physique
+Le patient est en bon état général avec un PS ECOG 1. Il est conscient et orienté, eupnéique au repos. Les signes vitaux sont normaux avec une saturation basale de 96%.
+Aucune adénopathie cervicale ou sus-claviculaire n'est palpable, l'auscultation cardiaque est rythmée et on note une hypoventilation de la base gauche, sans autre particularité.
+
+Tests complémentaires
+"NFS : pas de résultats notables.
+"Scanner corporel : épanchement pleural gauche provoquant une atélectasie passive du lobe inférieur.
+"Épaississement pleural multiple avec rehaussement de contraste du lobe supérieur. Le reste est normal.
+"Bronchoscopie : pas de résultats remarquables.
+"Thoracoscopie et biopsie pleurale : macroscopiquement, il y avait des nodules dans les plèvres pariétale, viscérale et diaphragmatique et un liquide pleural sérohématique.
+"Pathologie : adénocarcinome métastatique. Morphologie et immunophénotype compatibles avec une origine pulmonaire.
+"EGFR muté : délétion de l'exon 19.
+
+Diagnostic
+Adressé à l'oncologie médicale en septembre 2014 avec le diagnostic de métastases pleurales gauches d'un adénocarcinome pulmonaire. Il s'agit d'un adénocarcinome pulmonaire (TXNXM1a). Stade IVA selon la 8e édition de l'AJCC. Etude moléculaire avec présence d'une mutation de l'EGFR par délétion de l'exon 19.
+
+Traitement
+Compte tenu de la présence d'une mutation de l'EGFR, le patient commence un traitement de première ligne par le gefitinib.
+
+Évolution
+1ère ligne : gefitinib. 12/09/2014-16/07/2015. Progression après 10 mois au niveau pleural et apparition d'adénopathies rétropéritonéales.
+2ème ligne : erlotinib : 17/07/2015-01/09/2015. Arrêt après 2 mois en raison d'une progression de la maladie lors de l'évaluation de la 1ère réponse.
+3ème ligne : cisplatine + pemetrexed x 4 cycles (04/09/2015-28/12/2015). Tolérance adéquate avec réponse partielle. Le pemetrexed d'entretien est débuté et arrêté après 2 cycles en raison d'une mauvaise tolérance. Progression de la maladie 1 mois après la fin du traitement, décidant de réaliser une biopsie liquide pour tenter de détecter la présence de la mutation de résistance T790M (janvier/2016) : pas de mutation de résistance détectée.
+4ème ligne : gefitinib : 25/01/2016-16/03/2017. Compte tenu de la faible réponse au QT et de l'absence de mise en évidence d'une mutation de résistance, il a été décidé de tenter une nouvelle provocation par le géfitinib. Jusqu'en mars 2017, date à laquelle l'apparition d'adénopathies hilaires gauches a été observée.
+5ème ligne : afatinib : 17/03/2017-12/07/2017. Une stabilisation de la maladie a été obtenue jusqu'à la progression en juillet/2017.
+A cette période, il décide de réaliser une nouvelle bronchoscopie pour obtenir un prélèvement.
+(22/03/2017) : un épaississement significatif a été observé au niveau de la bifurcation de la bronche LSI avec LII, une FNA de l'adénopathie 11L a été réalisée avec résultat AP : carcinome non à petites cellules (matériel invalide pour EGFR).
+Nouvelle biopsie liquide, 15/06/2017 : EGFR muté (Ex19 Del). Aucune mutation de résistance T790M n'a été détectée.
+CT scan du 07/07/2017 : adénopathies hilaires gauches et métastase dans la plèvre basale gauche en situation stable. Nouvelle masse dans l'angle cardiophrénique gauche évoquant une métastase. Compte tenu de la présence d'une nouvelle masse, qui ne correspond pas à l'histoire naturelle de la maladie pleurale et ganglionnaire que nous traitions, il a été décidé de réaliser une biopsie à l'aiguille centrale.
+BAG biopsie masse pulmonaire LII :
+"Carcinome à petites cellules.
+"IHQ : TTF-1 +, synaptophysine +, Ki67 prolifération très élevée (> 90 %), CK -, CK7 -.
+6e ligne avec chimiothérapie pour carcinome à petites cellules CBDCA-Vp16 x 6 cycles (26/07/2017-29/11/2017), tout en maintenant le traitement par gefitinib pour la composante adénocarcinome muté EGFR sans preuve de mutation de résistance. Une réponse partielle significative a été obtenue avec disparition pratique de la masse située au niveau de la lingula et réduction de la taille des adénopathies hilaires gauches. Un scanner cérébral a également été réalisé (15/12/2017) qui n'a pas montré d'atteinte du SNC.
+Compte tenu de la bonne réponse obtenue avec la chimiothérapie au niveau de la composante SCLC, il a été décidé de réaliser une RT thoracique de consolidation avec 60 Gy, 03/01-31/01/2018. Depuis janvier 2018, douleurs lombaires : le scanner montre un écrasement vertébral de L2, avec lésion lytique sous-jacente, destruction du cortex et légère composante de tissu mou. Lésion compatible avec une métastase, sans pouvoir exclure un myélome. Il a été décidé de réaliser une biopsie en coupe réelle de L2, qui a révélé une infiltration par un adénocarcinome EGFR muté (délétion de l'exon 19 et exon 20 de T790 [mutation par substitution]). Expression de PD-L1 3%.
+Une RT antialgique est réalisée sur L2, acétabulum droit et C4 jusqu'au 2/05/2018.
+7ème ligne : osimertinib 80 mg/24 h : 23/05/2018-03/08/2018. Progression de la maladie pleurale.
+8e ligne : CBDCA (AUC4)-VNR + acide zolédronique + osimertinib (03/08/2018-25/01/2019) : fin en raison de la progression de la maladie au niveau pleural et ganglionnaire, avec apparition de nodules pulmonaires subcentimétriques bilatéraux.
+9ème ligne : topotécan hebdomadaire + osimertinib (25/01/2019-04/03/2019) : progression au niveau du SNC et du thorax, décidant de la fin du traitement actif. Le patient est décédé le 30/04/2019.

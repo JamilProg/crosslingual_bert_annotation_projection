@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 66 ans, fumeuse depuis deux mois avec une consommation cumulée de 50 paquets par an.
+Pas d'antécédents familiaux de maladies néoplasiques. Hypertendue avec insuffisance rénale chronique, dyslipidémique et avec artériopathie des membres inférieurs, pour laquelle elle est traitée par énalapril, atorvastatine, trifusal et pentoxifylline. Elle a subi une amygdalectomie dans son enfance.
+Elle s'est présentée aux urgences en septembre 2015 pour un traumatisme coccygien suite à une chute accidentelle à son domicile. Elle a rapporté un mois de troubles de l'équilibre et de faiblesse, avec des chutes fréquentes, ainsi que des pertes de mémoire et une bradypsychie. Le tout dans le cadre d'un tableau constitutionnel avec une asthénie importante, une anorexie avec une perte de poids d'environ 2 kg et des vomissements fréquents.
+
+Examen physique
+À l'examen, la patiente était hémodynamiquement stable, avec un œdème du visage et des membres supérieurs et une lymphadénopathie supraclaviculaire gauche palpable d'environ 2 cm de diamètre. Sur le plan neurologique, elle présentait un syndrome de Romberg instable avec des troubles de l'équilibre et une bradypsychie.
+
+Tests complémentaires
+-Analyse de sang : sodium 111 mEq/L (135-145), chlore 77 mEq/L (85-110), osmolarité 228 mOsm/kg.
+-Analyse de l'urine : sodium 73 mEq/L, osmolarité 294 mOsm/kg.
+-Tomodensitométrie crânienne : dilatation des ventricules en relation avec une hydrocéphalie chronique de l'adulte.
+Radiographie thoracique : masse paratrachéale inférieure droite.
+Tomodensitométrie thoraco-abdominale : masse pulmonaire dans le segment postérieur du lobe supérieur droit (LSD), amputant la bronche du lobe supérieur droit et provoquant une pneumopathie obstructive, ainsi qu'un large conglomérat adénopathique médiastinal comprimant la veine cave supérieure. Dans le foie, on observe plusieurs lésions nodulaires hautement suspectes de métastases.
+-Fibrobronchoscopie : signes de compression extrinsèque dans la paroi latérale droite du tiers inférieur de la trachée, de la bronche principale droite et de la bronche principale lobaire supérieure droite.
+-Pathologie : cancer du poumon microcytaire. Positif pour CD56, synaptophysine et chromogranine.
+Négatif pour le CD45.
+-Tomographie par émission de positons (TEP) : captation pathologique au niveau de la masse LSD et du conglomérat adénopathique médiastinal, ainsi que des lésions hépatiques.
+
+Diagnostic
+Syndrome ectopique de sécrétion inappropriée d'hormone antidiurétique (SIADH) secondaire à un cancer du poumon à petites cellules avec extension de la maladie au moment du diagnostic (métastases hépatiques).
+
+Traitement
+Au vu des résultats radiologiques et analytiques, il a été admis en médecine interne pour commencer un traitement de l'hyponatrémie au moyen d'une restriction hydrique de 500 millilitres par jour, de suppléments de sel par voie orale et d'une solution saline hypertonique à 3 %. Il a également fallu lui poser un stent dans la veine cave supérieure et l'anticoaguler ensuite avec de la bémiparine à des doses thérapeutiques.
+Après confirmation du diagnostic d'après le rapport d'anatomie pathologique, elle a été adressée au service d'oncologie médicale et a commencé une chimiothérapie au carboplatine et à l'étoposide, qui a duré 6 cycles.
+Une fois le traitement terminé, elle a reçu une radiothérapie holocrânienne prophylactique.
+
+Évolution
+Lors de son admission en médecine interne, une correction partielle de sa natrémie a été obtenue pour atteindre environ 125mEq/L, améliorant ainsi les symptômes neurologiques de la patiente.
+En septembre 2015, elle a commencé le premier cycle de chimiothérapie (QT), à l'issue duquel elle a montré une nette amélioration de son état général, ainsi que de son taux de sodium plasmatique, qui a atteint 134mEq/L. La toxicité a été une asthénie de grade 3 (G3), qui s'est résorbée en quelques jours. Après le deuxième cycle, une diminution de la taille de la lésion a été observée à la radiographie thoracique, nécessitant la transfusion de deux concentrés de globules rouges en raison d'une anémie de grade 2, symptomatique de grade 1. Après le quatrième cycle, en décembre 2015, une tomodensitométrie de contrôle a montré une réponse significative avec une diminution de la taille de la masse pulmonaire et une disparition des métastases hépatiques. Elle a terminé le 6e cycle en janvier 2016, maintenant la réponse jusqu'en mars de la même année, date à laquelle une radiothérapie holocrânienne prophylactique a été réalisée.
+Elle est restée asymptomatique jusqu'à une visite de suivi en juin 2016, où elle a de nouveau présenté les mêmes symptômes neurologiques qu'au début, et les analyses de sang et d'urine ont montré une hyponatrémie de 120mEq/L avec les critères d'un nouveau SIADH, pour lequel elle a de nouveau été admise dans le service d'oncologie médicale, Un nouveau scanner thoraco-abdominal a été réalisé, qui a révélé une rechute de la maladie, avec une augmentation de la taille de la masse pulmonaire et une atteinte métastatique hépatique et osseuse, et il a été décidé de recommencer un traitement de chimiothérapie avec une combinaison de platine et d'étoposide.

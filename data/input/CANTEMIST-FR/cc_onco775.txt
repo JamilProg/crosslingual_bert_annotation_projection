@@ -1,0 +1,34 @@
+Anamnèse
+Je présente le cas d'une femme de 63 ans, hypertendue, sans allergies médicamenteuses connues ni habitudes toxiques.
+Diagnostiquée en 2004, à l'âge de 55 ans, d'un adénocarcinome endométrial de type endométrioïde de stade IIA FIGO (T3aN0M0) suite à des signes cliniques de métrorragies post-ménopausiques. Elle a bénéficié d'un traitement chirurgical radical, hystérectomie et double annexectomie, d'une radiothérapie externe (44Gy) et d'une curiethérapie (2 fractions de 4 Gy). Elle a commencé un suivi dans le service ambulatoire d'oncologie, restant asymptomatique.
+En 2013, une IRM du foie a montré une lésion évocatrice d'une tumeur fibreuse solitaire, dont la taille n'a pas changé lors des contrôles ultérieurs. En 2016, le patient a développé des douleurs abdominales et une croissance minime de la lésion, ce qui a conduit à la décision de réaliser une étude histologique.
+
+Examen physique
+"Tension artérielle : 138/70 mm Hg, fréquence cardiaque : 65 bpm, fréquence respiratoire : 15, saturation en oxygène : 100%.
+"Conscient et orienté. Normohydraté, normo-coloré. Bonne perfusion distale.
+"Tête et cou : absence d'adénopathies dans les chaînes latérocervicales.
+"Auscultation pulmonaire : bruits respiratoires physiologiques normaux.
+"Auscultation cardiaque : rythmée, pas de souffle.
+" Abdomen : mou, douloureux à la palpation de l'hypochondre droit, Blumberg négatif, Murphy négatif, pas d'autres signes d'irritation péritonéale, absence de sémiologie ascitique. Signe de Kehr positif.
+"Membres inférieurs : pas d'œdème ni de lésions. Pouls distaux présents, bilatéraux et symétriques.
+
+Examens complémentaires
+En juin 2013, une IRM du foie a été réalisée, montrant une masse de signal hétérogène (5,1 x 6,3 x 3 cm), avec un effet de masse sur l'hémidiaphragme droit, dont les caractéristiques suggèrent comme première possibilité qu'il s'agit d'une tumeur fibreuse solitaire. Des contrôles périodiques ont été effectués jusqu'en janvier 2016, date à laquelle la masse a augmenté de 2 cm par rapport aux études précédentes. L'étude a été complétée par une tomodensitométrie abdominale, qui a révélé la présence d'une masse dans la partie postérieure de l'hémidiaphragme droit avec des diamètres de 6,2 x 7,6 x 3,4 cm qui comprime le parenchyme hépatique, infiltrant la partie la plus centrale et produisant une petite atélectasie de la LID pulmonaire, sans pouvoir évaluer s'il y a une infiltration de la plèvre diaphragmatique. La masse présentait une prise de contraste hétérogène avec des zones de nécrose à l'intérieur. La première possibilité est qu'il s'agisse d'une tumeur fibreuse solitaire, sans pouvoir exclure d'autres néoplasmes diaphragmatiques primaires de type mésenchymateux neurogène (léiomyomes, tumeur desmoïde, etc.).
+Aucune altération cliniquement pertinente n'a été détectée dans l'hémogramme et la biochimie, avec seulement une élévation minime du CA 125.
+Il a été décidé d'évaluer le cas au sein d'un comité multidisciplinaire des tumeurs digestives et, étant donné le comportement discordant pour une tumeur bénigne avec une croissance significative au cours des trois derniers mois, le patient a été référé à la chirurgie pour un diagnostic histologique de la lésion.
+
+Diagnostic
+L'anatomie pathologique (AP) de la tumorectomie est compatible avec : une infiltration du lobe hépatique droit, du diaphragme, du lobe inférieur du poumon droit et de la plèvre par un adénocarcinome de haut grade (6,5 cm de diamètre), avec des caractéristiques immunohistochimiques compatibles avec une origine endométriale. Les limites se trouvent à 0,9 cm du bord chirurgical pulmonaire et à 2 mm du bord chirurgical hépatique.
+Le profil immunohistochimique révèle une expression intense et diffuse de CKAE1/AE3, CK7, CK19, vimentine, TTF-1, PAX8 et HR dans les cellules tumorales. La napsine, CDX2, SATB2, CK20, la mammoglobine et le GCDFP15 étaient négatifs.
+Il s'agit donc d'une récidive d'adénocarcinome de l'endomètre après 12 ans d'intervalle sans progression (ISP).
+
+Traitement
+"La patiente a été évaluée à la clinique externe où un PET scan a été demandé pour évaluer la présence d'une maladie résiduelle et pouvoir envisager une chimiothérapie complémentaire.
+" Le PET scan n'a montré aucune prise pathologique à quelque niveau que ce soit, de sorte que le 21/06/2016, une chimiothérapie a été entamée selon l'AUC 5 du carboplatine (25 + 52) : 385 mg + paclitaxel 175 mg/m2 : 280 mg x 6 cycles, qui s'est achevée en septembre 2016.
+" Les consultations de suivi ont commencé.
+
+Évolution
+Lors d'un scanner de contrôle, après avoir terminé le traitement par QMT, en octobre 2016, une lésion kystique est apparue en périphérie splénique mesurant environ 2 cm, qui avait doublé de taille par rapport au scanner précédent. Un PET-CT a été demandé pour évaluer le sauvetage chirurgical de la lésion.
+Le PET scan a montré une adénopathie avec une augmentation intense du métabolisme du glucose au niveau IIa à droite (12 mm et SUVmax 13,7 g/ml) et au niveau IIa à gauche (7 mm et SUVmax 6,1 g/ml). Un implant/métastase hépatique a également été observé dans le segment VI (lésion hypodense mesurant 15 x 7 mm et SUVmax 8,2 g/ml) et une atteinte tumorale douteuse du dôme hépatique adjacent à la maille chirurgicale.
+Compte tenu de la progression de la maladie au niveau ganglionnaire et hépatique, avec un intervalle sans platine inférieur à deux mois, le 24/11/2016, une chimiothérapie de 2ème ligne a été débutée selon le topotécan 3 mg/m2 les jours 1, 8 et 15, tous les 28 jours x 6 cycles. La patiente a présenté une toxicité hématologique et une asthénie intense après le troisième cycle, ce qui a nécessité de retarder le quatrième cycle d'une semaine et de réduire la dose à 80%. Après 3 cycles, une réponse radiologique >75% et une réponse radiologique complète ont été obtenues après 6 cycles, ce qui a conduit à la fin de la chimiothérapie en mai 2017.
+Elle a été revue pour la dernière fois le 15/04/2018, sans données de récidive, avec une PIL de 11 mois.

@@ -1,0 +1,28 @@
+T1	pathologie 100 123	reflujo gastroesofágico
+T2	pathologie 126 146	cardias incompetente
+T3	pathologie 255 262	fumador
+T4	pathologie 282 291	exbebedor
+T5	pathologie 390 403	nefrolitiasis
+T6	pathologie 556 568	cólico renal
+T7	pathologie 882 895	hidronefrosis
+T8	pathologie 1886 1899	hidronefrosis
+T9	pathologie 1912 1918	lesión
+T10	pathologie 1957 1968	adenopatías
+T11	pathologie 1972 1980	lesiones
+T12	pathologie 2690 2726	tumor germinal tipo seminoma clásico
+T13	pathologie 2792 2816	teste derecho una lesión
+T14	pathologie 3023 3039	tumor testicular
+#1	SNOMED T1	235595009
+#2	SNOMED T2	29384001
+#3	SNOMED T5	95570007
+#4	SNOMED T6	7093002
+#5	SNOMED T7	43064006
+#6	SNOMED T8	43064006
+#7	SNOMED T10	30746006
+#8	SNOMED T12	443675005
+#9	SNOMED T14	236778008
+#10	SNOMED T3	77176002
+#11	SNOMED T4	82581004
+#12	SNOMED T11	157670007
+#13	SNOMED T9	417163006
+#14	SNOMED T13	64910008

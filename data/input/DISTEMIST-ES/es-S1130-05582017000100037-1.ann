@@ -1,0 +1,16 @@
+T1	pathologie 313 321	disfagia
+T2	pathologie 403 424	hemiparesia espástica
+T3	pathologie 610 638	estenosis del canal raquídeo
+T4	pathologie 678 713	compromiso de la unión bulbomedular
+T5	pathologie 733 792	proliferaciones sindesmofíticas anteriores a nivel de C2-C6
+T6	pathologie 893 916	enfermedad de Forestier
+T7	pathologie 1290 1298	disfagia
+T8	pathologie 1304 1315	hemiparesia
+#1	SNOMED T6	65323003
+#2	SNOMED T2	20022000
+#3	SNOMED T8	20022000
+#4	SNOMED T3	76107001
+#5	SNOMED T4	83561009
+#6	SNOMED T5	298396009
+#7	SNOMED T1	288939007
+#8	SNOMED T7	288939007

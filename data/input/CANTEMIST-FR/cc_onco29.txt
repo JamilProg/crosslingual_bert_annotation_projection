@@ -1,0 +1,49 @@
+Anamnèse
+Homme, 71 ans, ancien mineur. Pas d'allergies connues. Habitudes toxiques : ex-fumeur depuis 27 ans et alcoolique modéré. Comorbidités : BPCO, HTA contrôlée, thromboembolie pulmonaire répétée (x2) et hypertrophie bénigne de la prostate. Chirurgies : phacoexérèse bilatérale + LIO et méniscectomie du genou droit.
+
+Fin 2013, elle a commencé à souffrir d'une gêne abdominale non spécifique et a été adressée au service de l'appareil digestif.
+
+Examen physique
+Masse palpable dans le flanc droit, de consistance pierreuse mais mobile. IK 90%.
+
+Examens complémentaires
+Les examens d'imagerie suivants ont été réalisés :
+" TDM (2/1/2014) : masse rénale droite dans la moitié inférieure d'un diamètre maximal de 8 cm avec graisse rénale déviante et thrombus tumoral dans la veine rénale entrant dans la VCI.
+Adénopathie hilaire gauche et nodule dans le LII.
+" Angio-CT scan des artères pulmonaires (20/3/2014) : défaut de réplétion à l'origine de l'artère lobaire dans le LII avec des branches segmentaires de petit calibre. Dans la LII, on observe un motif en verre dépoli, probablement lié aux séquelles d'une thromboembolie antérieure.
+"Dans le LSI, on observe un nodule de 16 mm. Adénopathie hilaire et médiastinale gauche (max. 19 mm).
+" IRM abdominale (27/3/2015) : masse polylobulée dans la moitié caudale du rein droit (8 x 7 x 7 x 7 cm) avec déviation de la graisse péritumorale, nécrose centrale et thrombus à l'intérieur de la veine rénale et une veine polaire inférieure (vs veine collatérale) s'étendant à travers la VCI et pénétrant de 20 mm dans l'oreillette droite, compatible avec un carcinome rénal. Pas d'adénopathie rétropéritonéale.
+"Adénome surrénalien droit mesurant 20 x 16 mm. Hémangiome hépatique de 8 mm dans le segment V-VIII. Splénomégalie de 13,5 cm. Pancréas normal.
+"Scanner PET-CT : masse rénale droite dans la moitié inférieure de 8 cm de diamètre maximum avec métabolisme glycémique élevé et thrombus tumoral dans la veine rénale qui pénètre dans la VCI jusqu'à l'oreillette droite. Nodule hypermétabolique dans le LII avec adénopathie hypermétabolique.
+
+Histologie :
+" Adénopathie hilaire gauche BAG (8/5/2014) : métastase de carcinome rénal 10L ".
+Immunohistochimie : CD10 (+), CK8 (+), CK20 (-), CK7 (-) et TTF1 (-).
+
+Diagnostic
+Carcinome rénal à cellules claires, pT3bN0M1 (pulmonaire), stade IV.
+
+Traitement
+Après l'imagerie locale et les études d'extension, la lésion pulmonaire apparaît dans le LSI, ce qui soulève le diagnostic différentiel entre une métastase de carcinome rénal et un nouveau primitif pulmonaire.
+
+Le BAG ciblé confirme les métastases du carcinome rénal.
+
+Le 26/5/2015, une néphrectomie droite radicale et une thrombectomie à visée cytoréductrice ont été réalisées, nécessitant l'intervention conjointe des services d'urologie et de chirurgie cardiaque.
+
+"Pathologie : carcinome rénal à cellules claires, Fuhrman 3, infiltrant la capsule et la graisse périnéale sans affecter le fascia de Gerota. Il infiltre le bassin rénal et la veine rénale. Pas d'atteinte des ganglions lymphatiques. Rein non néoplasique sans modifications pertinentes.
+
+La période postopératoire a été marquée par un choc septique qui a prolongé son séjour à l'hôpital, mais il est finalement sorti en bon état général.
+
+
+Évolution
+Après l'intervention, les chiffres de la tension artérielle du patient étaient normaux, de sorte que les inhibiteurs de l'ECA nécessaires au contrôle ont été retirés. Il a été adressé au service d'oncologie médicale en juin 2014 et a été classé comme patient à pronostic intermédiaire.
+
+Dans un premier temps, compte tenu de l'évolution postopératoire précoce, il a été décidé de surveiller le patient et de décider de commencer l'ITK à un stade ultérieur.
+
+Le patient se soumet à des contrôles réguliers avec des radiographies simples inchangées, reste asymptomatique et a une bonne qualité de vie.
+
+" Tomodensitométrie thoraco-abdominale (28/10/2014) : diminution de 50% du nodule pulmonaire dans le LSI situé probablement dans la lingula (de 18 à 9 mm), ainsi que des adénopathies hilaires (de 19 à 9,6 mm). Aucun nouveau nodule pulmonaire n'a été observé. Pas d'adénopathies rétropéritonéales ou pelviennes. Changements post-chirurgicaux. Repos inchangé.
+
+Compte tenu de la rémission spontanée des lésions pulmonaires, une prise en charge expectative avec une surveillance rapprochée a été décidée. Le dernier contrôle d'imagerie réalisé en janvier 2015 confirme la réponse pulmonaire soutenue.
+
+Le patient est dans une attitude de veille.

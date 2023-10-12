@@ -1,0 +1,46 @@
+Anamnèse
+Un urinome est défini comme une accumulation d'urine dans l'espace rétropéritonéal qui présente un aspect kystique sur le plan radiologique. Ils sont généralement causés par une obstruction urétérale, un traumatisme rénal ou des perforations du système collecteur rénal.
+D'autre part, le transsudat pleural dans lequel l'urine s'écoule dans l'espace pluriel à la suite d'un traumatisme rénal ou urétéral, d'une obstruction urinaire ou de la formation d'une fistule urétéro-thoracique est appelé urinothorax.
+Nous présentons le cas d'une néoplasie cervicale utérine débutant par une hydronéphrose obstructive secondaire qui, dans le contexte de la mise en place d'une néphrostomie de décharge dans les deux voies urinaires, présente un urinome et un urinothorax homolatéral à l'urinome.
+La patiente est une femme de 69 ans avec des antécédents d'ostéoporose traitée par Bazedoxifene 20mg par jour et un méningiome vertébral calcifié découvert fortuitement, qui est actuellement suivi par un neurologue local.
+En ce qui concerne son milieu socioprofessionnel, elle est indépendante pour les activités de base de la vie quotidienne et travaille dans le jardin potager à la maison.
+Elle a consulté notre centre en raison d'une asthénie et d'une anorexie intenses qui durent depuis plus d'une semaine. Elle signale également des nausées associées aux symptômes, sans épisodes de vomissements, et, depuis quelques jours, une intolérance orale. Elle ne signale aucun autre symptôme.
+
+Examen physique
+"Indice de Karnofsky : 90. Bon état général, conscient et orienté dans le temps, l'espace et la personne. Alimentation et couleur normales. Tachypnée, sans signes de détresse respiratoire.
+"AC : Rythmique, pas de souffle.
+"PA : souffle vésical conservé, sans bruits additionnels.
+"ABDOMEN : Péristaltisme conservé, doux et dépressible, non douloureux à la palpation superficielle ou profonde. Aucune masse ou mégalithe n'est palpable. Aucun signe d'irritation péritonéale.
+"MEMBRES INFÉRIEURS : Pas d'œdème ni de signes de thrombose veineuse profonde.
+"NEUROLOGIE : Glasgow 15/15. Pupilles isochoriques et normoréactives. Nerfs crâniens préservés. Pas de signes de localisation neurologique. Pas de rigidité nucale.
+
+Examens complémentaires
+Une prise de sang ordinaire, une analyse des gaz du sang veineux et une radiographie du thorax ont été demandées :
+" Analyses sanguines : Urée 141 mg/dL, Créatinine 9,40 mg/dL, K+ 6,4 mmol/L, Na 137 mmol/l,
+"Gaz veineux : pH 7,22, HCO3 15,2 mEq/l et PCO2 37,9 mmHg.
+"Radiographie thoracique PA et LAT : pas d'infiltrats alvéolaires. Sinus costophréniques libres, pas de signes d'épanchement pleural.
+"Biochimie urinaire : Na 49 mmol/L, K 19,7 mmol/L, Créatinine 49,3 mg/dL.
+
+Diagnostic
+Ces résultats étant compatibles avec une insuffisance rénale aiguë avec acidose métabolique secondaire et hyperkaliémie, une échographie rénale a été demandée pour évaluer les voies urinaires et le parenchyme rénal afin d'identifier l'origine de l'insuffisance rénale. L'échographie a montré une hydronéphrose bilatérale de grade II-III. Une tomodensitométrie abdominale a également été réalisée sans contraste IV, en raison de la fonction rénale, où une masse a été visualisée dans l'espace recto-vésical avec un aspect néoplasique (d'origine gynécologique probable) qui a infiltré la vessie et a produit une hydronéphrose bilatérale significative (grade IV).
+
+Traitement
+Une fois que la cause postrénale de l'insuffisance rénale aiguë a été déterminée, la mise en place d'une néphrostomie bilatérale est décidée en urgence. Un traitement intensif à base de fluides, de chélateurs de phosphate et de bicarbonate a été mis en place. Quelques heures après son implantation, un faible débit de diurétique a été détecté dans la néphrostomie droite. Un nouveau scanner de l'abdomen a donc été demandé, où l'on a constaté que le cathéter de néphrostomie droite était mal positionné. Il a donc été repositionné sans complications immédiates.
+La fonction rénale a commencé à se rétablir progressivement après le repositionnement de la néphrostomie, les valeurs de créatinine passant de la valeur initiale de 9,40 mg/dl à 4,5 mg/dl après 72 heures.
+Compte tenu des résultats susmentionnés, une évaluation gynécologique a été demandée, qui a révélé un utérus et un col atrophiés, le reste de l'examen gynécologique étant normal, un échantillon histologique a été prélevé par curetage. L'étude anatomopathologique a révélé un carcinome épidermoïde peu différencié de l'endocol. Compte tenu du carcinome cervical localement avancé, le traitement chirurgical a été exclu et la patiente a été adressée au service d'oncologie médicale pour un traitement par chimio-radiothérapie.
+
+Évolution
+Le troisième jour de son admission dans le service d'oncologie médicale, la patiente a signalé une augmentation de sa dyspnée de base jusqu'à ce qu'elle se repose, avec des signes significatifs de détresse respiratoire. Des examens d'imagerie supplémentaires ont été demandés :
+"Radiographie thoracique : épanchement pleural massif dans l'hémithorax gauche, sans nodules ni condensation nodulaire dans l'hémithorax controlatéral.
+"TDM thoracique : épanchement pleural gauche de grand volume atteignant l'apex pulmonaire, associé à une atélectasie compressive du lobe inférieur et d'une partie du lobe supérieur, sans déplacement significatif du médiastin. Il y a également un léger épanchement pluriel droit en position postérieure, associé à un rehaussement épais apparent de la plèvre postérieure, qui pourrait correspondre à une atteinte pleurale mestastatique et à une atélectasie compressive sous-segmentaire adjacente.
+En raison de l'atteinte respiratoire du patient, il a été décidé de réaliser une thoracentèse évacuatrice gauche, extrayant 1500 cc de liquide clair, ainsi qu'une thoracentèse diagnostique droite. La cytologie du liquide pleural s'est révélée négative, les deux épanchements étant compatibles avec un transsudat (protéines totales dans le liquide pluriel <2,00 g/dL avec des valeurs sériques de 6,3 g/dL et LDH 280 U/L, avec des valeurs sériques de 806 U/L). Les cultures du liquide pleural étaient négatives.
+Dans les jours qui ont suivi, le patient a présenté une détérioration clinique progressive, avec des fluctuations du niveau de conscience et des périodes d'agitation et de désorientation. Il a été décidé de réaliser en urgence une tomodensitométrie crânienne, qui n'a révélé aucune lésion métastatique, aucun signe d'ischémie cérébrale ou d'hémorragie. Elle présentait également une créatininémie stable d'environ 4,5 mg/dl et un épanchement pleural gauche qui s'aggravait. Le cinquième jour, la patiente a commencé à ressentir de fortes douleurs lombaires gauches et des douleurs abdominales généralisées, avec une aggravation des réactifs de phase aiguë dans les tests de laboratoire de contrôle. À l'examen physique, l'abdomen était douloureux et présentait des signes de péritonisme. Un scanner abdomino-pelvien a donc été demandé en urgence, qui a montré l'extrémité du cathéter de néphrostomie gauche dans l'uretère proximal, avec une dilatation de l'uretère.
+Un liquide rétropéritonéal a également été observé (périnéal et dans les espaces pararénal et latéroconal antérieurs et postérieurs), compatible avec un urétérostat.
+Le service d'urologie a été contacté en urgence et la décision a été prise d'intervenir en urgence, en repositionnant une nouvelle néphrostomie gauche. Dans les jours qui ont suivi, l'état général du patient s'est rétabli, l'épanchement pleural s'est résorbé et la créatininémie s'est améliorée pour atteindre 1,7 mg/dl.
+Une fois les différents processus aigus décrits résolus, une TEP-TDM et une IRM pelvienne ont été demandées pour déterminer l'étendue de la maladie afin de planifier le traitement oncologique :
+"PET-CT :
+"Masse cervicale de 6 mm au bord supérieur entre le col de l'utérus et le rectum et lésion des tissus mous de 10 mm de diamètre (SUV max 7,82 g/dL).
+"Hémithorax gauche : au niveau de la plèvre, augmentation diffuse de la captation (SUV max 4,64 g/dL) d'origine inflammatoire probable.
+"Le reste de l'étude est amétabolique.
+"IRM pelvienne : tumeur polylobulée au niveau du col utérin avec une extension craniocaudale d'environ 3,5x1,5 cm. La lésion infiltre une partie du myomètre, la paroi postérieure de la vessie et englobe les uretères. Il n'y a pas de ganglions lymphatiques clairement hypertrophiés ou désacralisés.
+Après avoir terminé la stadification et compte tenu d'un carcinome épidermoïde cervical de stade IV-A (cT4cN0M0), la patiente a reçu un traitement par radiothérapie externe concomitante avec du carboplatine hebdomadaire (AUC=2) et de la curiethérapie. Une fois ce traitement terminé, une réévaluation clinique et iconographique a été effectuée, qui a montré une réponse tumorale complète. Elle subit actuellement des contrôles réguliers et ne présente aucun signe de récidive sur le plan clinique et iconographique après un suivi de 12 mois.

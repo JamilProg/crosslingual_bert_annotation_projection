@@ -1,0 +1,20 @@
+T1	pathologie 59 80	hipertensión arterial
+T2	pathologie 86 150	carcinoma de endometrio mixto, endometrioide y de células claras
+T3	pathologie 167 169	M0
+T4	pathologie 228 240	metrorragias
+T5	pathologie 1162 1185	síndrome hipercalcémico
+T6	pathologie 1641 1658	neoplasia uterina
+T7	pathologie 1769 1801	masa en fondo de saco de Douglas
+T8	pathologie 1822 1854	implantes tumorales peritoneales
+T9	pathologie 1857 1878	metástasis pulmonares
+T10	pathologie 1973 2009	recidiva de su enfermedad neoplásica
+#1	SNOMED T5	66931009
+#2	SNOMED T6	126908007
+#3	SNOMED T1	38341003
+#4	SNOMED T2	254878006
+#5	SNOMED T7	187814001
+#6	SNOMED T3	89474008
+#7	SNOMED T8	94627008
+#8	SNOMED T9	94391008
+#9	SNOMED T10	25173007
+#10	SNOMED T4	38280009

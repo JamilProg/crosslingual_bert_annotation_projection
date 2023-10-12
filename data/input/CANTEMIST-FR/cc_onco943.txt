@@ -1,0 +1,23 @@
+Anamnèse
+Un homme de 54 ans s'est présenté au service des urgences après plusieurs mois de symptômes consistant en une baisse de l'acuité visuelle, des tremblements et une instabilité généralisée.
+Il avait des antécédents d'hypertension (sous traitement par inhibiteur de l'enzyme de conversion de l'angiotensine [IEC]) et fumait un paquet de cigarettes par jour. Il n'avait pas d'antécédents familiaux intéressants.
+
+Examen physique
+L'examen physique neurologique a révélé un effacement minime du sillon nasogénien gauche. La campimétrie de confrontation révèle une quadrantanopsie inférieure droite.
+
+Examens complémentaires
+Une tomodensitométrie (TDM) réalisée en urgence a montré une lésion occupant l'espace dans la région pariéto-occipitale gauche, d'un diamètre de 47 mm, avec un œdème périlésionnel modéré. Il a été admis pour un examen neurologique. Le diagnostic a été complété par une imagerie par résonance magnétique (IRM) crânienne qui a confirmé l'existence d'une lésion hétérogène avec la présence de foyers hémorragiques, de microkystes et d'une abondante néovascularisation.
+
+Diagnostic
+L'examen anatomopathologique correspond à un glioblastome multiforme de grade IV de l'OMS. IHC : GFAP : positive. CK AE1/AE3 : négative. P53 : négatif. Ki67 : 40 %. IDH-1 : négatif. Le statut de méthylation du promoteur du gène MGMT par PCR spécifique à la méthylation (MS-PCR) était MGMT non méthylé.
+
+Traitement
+Le traitement chirurgical a été décidé après avoir présenté le cas à un comité multidisciplinaire. Il a subi une intervention neurochirurgicale utilisant des techniques de navigation tractée et sous contrôle neurophysiologique moteur peropératoire, réalisant une excision macroscopiquement totale de la lésion, qui a été complétée par 5 ALA.
+Après l'opération, le traitement a été complété par du témozolamide et une radiothérapie concomitante. Immédiatement après la fin du traitement adjuvant, une progression locale de la maladie a été observée, avec un intervalle sans progression (ISP) de 6 mois depuis la chirurgie, de sorte que le traitement systémique a été modifié pour passer à l'irinotécan et au bevacizumab, avec sept cycles.
+
+Évolution
+Après 4 mois de traitement par chimiothérapie, elle a été admise au service d'oncologie en raison de l'apparition soudaine de troubles de l'élocution et d'une sensation d'instabilité. Un scanner cérébral a été réalisé en urgence, montrant une lésion ostéolytique solide affectant le calvarium au niveau du vertex, mesurant 2,7 cm, avec des caractéristiques agressives, qui a détruit les deux tables.
+Lors de l'admission en oncologie, il a été décidé d'effectuer un scanner thoraco-abdominal afin d'exclure d'autres atteintes osseuses. Des lésions lytiques d'aspect agressif avec érosion du cortex sont apparues dans : l'arc postérieur de la 6e vertèbre dorsale, le sacrum gauche (S2) et l'acétabulum droit, l'érosion de l'apophyse transverse C6 gauche avec une masse de tissu mou. L'étude a été complétée par des marqueurs tumoraux qui étaient tous négatifs et par une IRM cérébrale qui a indiqué que la lésion correspondait peut-être à la hauteur de la tréphine précédente.
+Le cas a été présenté au comité des tumeurs et il a été décidé conjointement de réaliser une biopsie osseuse du vertex.
+L'anatomie pathologique de la biopsie peropératoire évoquait un néoplasme plasmocytaire (plasmocytome), mais le résultat définitif était une infiltration osseuse par des cellules exprimant la vimentine et le CD99 par IHC, avec une expression focale de la GFAP, de la S100 et du CD 68, compatible avec une infiltration par un glioblastome.
+La période postopératoire immédiate s'est déroulée sans incident, mais 24 heures après l'opération, le patient a présenté une détérioration généralisée avec aphasie, hémiparésie et une baisse du niveau de conscience qui, en quelques heures, a atteint la réactivité. Bien que la tomodensitométrie cérébrale réalisée en urgence n'ait révélé aucune complication aiguë, une hémorragie aiguë due à la progression de la lésion cérébrale a été suspectée. Compte tenu de la rapidité et de la gravité du tableau, seules des mesures de confort ont pu être prises, et le patient est décédé en quelques heures.

@@ -1,0 +1,26 @@
+Anamnèse
+Homme diabétique de 63 ans, fumeur de 2 à 3 paquets par jour et alcoolique modéré, atteint d'un syndrome métabolique sans cardio-bronchopneumopathie associée.
+
+Examen physique
+Depuis 4 ans, elle présente une hématurie récurrente.
+
+Examens complémentaires
+Un bilan d'extension a été réalisé montrant une lésion solide d'environ 96 mm au pôle inférieur du rein droit avec infiltration de la graisse périnéale et de la partie inférieure du fascia pararénal antérieur avec thrombus mural de la veine et probable métastase surrénalienne droite. Une adénopathie pathologique hilaire droite avec un petit axe de 20 mm a également été identifiée.
+Le cas a été discuté au sein du comité des tumeurs et, avec le diagnostic d'une masse rénale de stade cT3aN0Mx, il a été décidé de procéder à une néphrectomie droite radicale avec thrombectomie et surveillance ultérieure de l'adénopathie thoracique.
+
+Diagnostic
+L'anatomie pathologique de l'échantillon est un carcinome rénal à cellules claires (immunohistochimie positive pour CD10, vimentine, CK7, CK AE1/AE3 et RCC), Führman 2 affectant le tissu adipeux du sinus rénal et montrant des phénomènes de thrombose tumorale dans les vaisseaux du hile (pT3b). En outre, il y a un thrombus mural dans la veine cave inférieure, faisable avec un thrombus de carcinome rénal à cellules claires, la stadification finale étant le stade IIIB.
+
+Traitement
+L'évolution post-chirurgicale a été torpide en raison d'une insuffisance respiratoire secondaire à une décompensation de sa BPCO de base sans être associée à une pneumonie.
+Une fois sorti de l'hôpital après 3 mois, il a été adressé au service d'oncologie médicale. Aucun traitement adjuvant n'a été réalisé.
+Un scanner de contrôle réalisé 8 mois après l'intervention a révélé une petite lésion hyperdense dans le segment II du foie mesurant 8 mm, évocatrice d'un angiome, et des nodules pulmonaires subcentimétriques dans le lobe supérieur droit. Une surveillance active a été décidée.
+La tomodensitométrie réalisée trois mois plus tard a montré une augmentation des nodules pulmonaires subcentimétriques dans le lobe inférieur gauche, avec une stabilité des nodules restants. Une progression de la tumeur a été signalée, mais le patient a refusé tout traitement. Un mois plus tard, il a été admis pour une pancréatite aiguë d'origine probablement énolique avec une bonne évolution.
+Un nouveau scanner a été demandé deux mois après la dernière consultation et a révélé une augmentation de la taille et du nombre des nodules pulmonaires, qui étaient néanmoins de taille subcentimétrique, et une adénopathie hilaire droite avec un rehaussement périphérique et une nouvelle hypodensité centrale a été visualisée. Le patient accepte de commencer un traitement par 50 mg de sunitinib, 2 semaines d'affilée et une semaine de pause.
+
+Évolution
+Après 4 mois de traitement, il a présenté une toxicité avec un syndrome palmoplantaire de grade 2 avec dysesthésie. La réponse radiologique évaluée par tomodensitométrie était une réponse partielle (diminution globale des lésions pulmonaires et stabilité de l'adénopathie du hile droit).
+Neuf mois après le début du traitement, il a été à nouveau admis pour une pancréatite d'origine biliaire probable avec cholélithiase dans la vésicule biliaire, et a été placé sur la liste d'attente pour une cholécystectomie. La dose de Sunitinib a été réduite à 25 mg par jour en raison de ces symptômes récurrents.
+Un mois plus tard, elle a été à nouveau admise pour une pancréatite, l'étude radiologique réalisée à l'admission montrant une lésion hypervasculaire de 13 mm dans le testicule droit avec une élévation minime de l'AFP et une BHCG normale. 32 mois après la néphrectomie, une orchidectomie droite a été réalisée par voie inguinale avec une anatomie pathologique compatible avec une métastase dans le parenchyme testiculaire d'un carcinome à cellules claires d'origine rénale. Le profil immunohistochimique était positif pour RRC, CD10, vimentine et négatif pour CK7.
+Un mois après l'orchidectomie, le patient s'est présenté à une consultation avec un scanner de réévaluation (maladie stable) et, compte tenu de la progression au niveau testiculaire, un traitement par axitinib à raison de 5 mg toutes les 12 heures a été instauré. Un mois après le début du traitement, il signale des douleurs importantes au niveau lombaire, une IRM rachidienne est réalisée qui montre une lésion lytique en D11 et une scintigraphie osseuse avec une étude compatible avec une métastase en D11.
+Compte tenu de la progression osseuse, un traitement par cabozantinib 60 mg par jour a été instauré et une consultation en radio-oncologie a été réalisée pour un traitement par radiations ionisantes de la lésion axiale (à visée antalgique). Actuellement, elle est toujours traitée par cabozantinib sans qu'aucune donnée de toxicité n'ait été rapportée.

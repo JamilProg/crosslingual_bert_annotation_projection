@@ -1,0 +1,6 @@
+T1	pathologie 61 83	infección respiratoria
+T2	pathologie 143 158	hipoalbuminemia
+T3	pathologie 320 329	CDI grave
+#1	SNOMED T3	408643008
+#2	SNOMED T1	275498002
+#3	SNOMED T2	119247004

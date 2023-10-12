@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 64 ans sans allergie médicamenteuse connue, éleveur de bétail. Antécédents de tabagisme actif (indice paquet-année = 60) et de diabète sucré de type 2 sous traitement à la metformine.
+
+Antécédents oncologiques
+Diagnostiquée en septembre/2018 en raison de l'hémoptysie d'un carcinome épidermoïde pulmonaire de stade IV (masse dans le lobe supérieur droit avec invasion des 4e à 6e vertèbres dorsales et épanchement pleural droit avec cytologie positive pour la malignité), EGFR non muté, ALK et ROS-1 non transloqués et expression de PD-L1 de 60 %. Le 19/10/2018, elle a débuté une 1ère ligne de traitement systémique par pembrolizumab à la dose de 200 mg par voie intraveineuse tous les 21 jours et, concomitamment, elle a été adressée au service de radio-oncologie pour évaluer l'administration d'une radiothérapie d'intention antalgique sur la masse tumorale infiltrant les vertèbres dorsales. Entre le 3 et le 10/12/2018, 20 Grays ont été administrés en 5 séances, couvrant l'ensemble de la masse pulmonaire primaire dans le champ de traitement.
+
+Maladie actuelle
+Le 14/12/2018, après avoir terminé sa radiothérapie et avoir reçu 3 cycles de pembrolizumab, elle consulte son médecin généraliste pour une conjonctivite bilatérale ayant débuté 24 heures plus tôt, sans douleur ni écoulement oculaire, initialement prise en charge par un collyre antibiotique. Le 16/12/2018, elle s'est rendue aux urgences en raison de l'apparition d'ulcères hémorragiques au niveau de la muqueuse jugale et d'une odynophagie intense empêchant toute prise orale.
+
+Examen physique
+Le patient est alerte sur le plan neurologique, orienté et coopératif, sans focalisation neurologique identifiable. Légère déshydratation cutanéo-muqueuse. Bonne perfusion distale. Couleur normale. Eupnéique au repos avec bonne tolérance au décubitus.
+Conjonctivite bilatérale. Au niveau de la muqueuse buccale, de multiples lésions ulcérées ont été identifiées, occupant la quasi-totalité de la muqueuse jugale et linguale et s'étendant vers l'oropharynx, certaines d'entre elles présentant des signes d'hémorragie récente. Auscultation cardio-pulmonaire avec des rhonchies éparses dans l'hémithorax droit. Dans la région dorsale, une dermatite rhadique de grade 2 avec érythème cutané a été identifiée.
+
+Tests complémentaires
+"NFS : Hb 10,7 mg/dl, leucocytes 8 700/ml (neutrophiles 4 300/ml). Lactate déshydrogénase (LDH) 324 UI/l (valeurs normales 135-225 UI/l). Le reste de l'examen est sans particularité.
+"Radiographie du thorax (projection postéro-antérieure) : masse parahilaire droite dont la taille a nettement diminué par rapport à l'étude précédente.
+
+Diagnostic
+Mucosite de grade 4 et conjonctivite de grade 2 selon les critères terminologiques communs pour les effets indésirables (CTCAE) secondaires au pembrolizumab en concomitance avec la radiothérapie.
+
+Traitement
+Admis dans le service d'oncologie médicale pour la mise en place d'une nutrition parentérale totale, d'un traitement analgésique intraveineux au chlorure de morphine et d'un soutien avec des rinçages oraux de nystatine et de lidocaïne visqueuse et des émollients topiques sur les lésions cutanées.
+
+Évolution
+Vingt-quatre heures après son admission, le patient a signalé une douleur et des démangeaisons importantes dans la zone dorsale au-dessus de la lésion de radiodermite observée au début des symptômes. En réexaminant le patient, on a observé une augmentation des zones d'érythème, qui se sont étendues à la région costale bilatérale, avec une desquamation apparaissant sur certaines d'entre elles.
+Progressivement, des lésions érythémateuses squameuses sont apparues sur la poitrine, le cou et les extrémités, s'étendant pratiquement à l'ensemble du corps, avec un signe de Nikolsky positif. Le patient a également signalé une aggravation des douleurs dans la région buccale.
+Suspectant une toxicité liée au système immunitaire, un traitement a été instauré avec de la méthylprednisolone à la dose de 3 mg/kg par jour par voie intraveineuse, en plus d'une sérologie virale et antifongique complète et de cultures de sang, d'urine et d'expectoration. L'étude microbiologique s'est révélée négative. Une biopsie a été réalisée et l'analyse histopathologique a montré une nécrose épidermique et un infiltrat lymphocytaire périvasculaire étendu, sans preuve de micro-organismes ou de cellules malignes, compatible avec une implication auto-immune secondaire à la consommation de drogues.
+L'état général du patient s'est progressivement détérioré au cours des 48 heures suivantes, avec l'apparition d'une forte fièvre probablement liée à la surinfection cutanée du processus et des résultats négatifs des hémocultures périphériques et des cultures d'urine. Une antibiothérapie empirique à large spectre a été mise en place avec de la daptomycine et de la pipéracilline-tazobactam, avec une fièvre persistante et une aggravation clinique marquée, et le patient est finalement décédé 4 jours après son admission.

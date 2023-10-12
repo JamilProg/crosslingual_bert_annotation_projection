@@ -1,0 +1,42 @@
+Anamnèse
+Patiente de 23 ans, diagnostiquée à l'âge de 10 mois avec une leucémie lymphoblastique aiguë à cellules B L1 (phénotype nul avec facteurs de risque élevés). Traitée avec le protocole de chimiothérapie pour la leucémie lymphoblastique aiguë-7-91 (bras à haut risque), elle a obtenu une rémission complète après le traitement.
+Par la suite, elle a bénéficié d'une intensification et d'une prophylaxie du système nerveux central avec une chimiothérapie intrathécale et une RT crânienne ultérieure (différée en raison de l'âge). Après tout cela, un traitement d'entretien a été mis en place, qui s'est achevé en août 1994.
+Elle est sortie de l'hôpital en 2008 avec une imagerie par résonance magnétique (IRM) du cerveau et un échocardiogramme normal.
+
+MOTIF DE LA CONSULTATION
+Adressé le 22.05.2014 avec le diagnostic de rhabdomyosarcome alvéolaire avancé. La patiente présentait depuis 2 mois une sensation de gonflement de l'œil gauche, une diplopie et une douleur au mouvement de l'œil gauche. Elle a également signalé une hyposmie progressive. Après avoir consulté le service des urgences ophtalmologiques et oto-rhino-laryngologiques fin avril, une étude a été entamée. Elle présentait également une asthénie et une perte d'appétit depuis un mois. Pas de perte de poids. Au cours des 14 derniers jours, elle a présenté une douleur intermittente à l'omoplate droite.
+
+Examen physique
+
+Le patient était en bon état général. L'état de performance est de 0. Couleur normale.
+Eupnéique au repos. Pas d'adénopathies cervicales, supraclaviculaires, axillaires ou inguinales. Pas de tumeur mammaire.
+Auscultation cardio-pulmonaire et abdominale sans particularité.
+L'examen ORL a révélé une masse charnue dans la narine gauche avec une vascularisation superficielle au niveau de l'ethmoïde sphénoïde, qui a déplacé le cornet moyen vers le méat moyen. La masse n'atteignait pas le fond de la narine et ne s'étendait pas dans le cavum.
+
+Tests complémentaires
+
+NFS : pas d'anomalies sauf LDH 1582 U/L.
+Fonction ventriculaire gauche : >60%.
+IRM de la base du crâne : masse de tissu mou dans le sinus ethmoïde gauche associée à une destruction osseuse des cellules ethmoïdales et de la paroi inférieure du sinus frontal gauche, de la lame horizontale de l'ethmoïde (il y a une communication avec la fosse crânienne antérieure, sans identification de collections intracrâniennes), et de la paroi médiale de l'orbite gauche avec extension à l'espace extraconal médian.
+Il y a une infiltration du muscle oblique supérieur et du muscle droit interne, sans atteinte intracrânienne. Les diamètres approximatifs sont de 21 x 40 x 42 mm.
+IRM cérébrale : expansion de la partie supérieure de la lame cribriforme et des cellules ethmoïdales gauches, ainsi que du toit de l'orbite, avec une réaction durale associée, sans autres altérations intracrâniennes.
+PET-CT : masse tumorale ethmoïdale gauche avec destruction de la paroi médiane de l'orbite gauche avec extension, occupation et déplacement de l'orbite et du nerf oculaire gauche, hypermétabolique (SUVmax- 12,3 gr/ml). Elle était associée à une multitude de foyers métastatiques dans le squelette axial et extra-axial.
+Biopsie de la tumeur de la narine droite : fragment de tissu tumoral à haute densité cellulaire, composé de petites cellules, disposées en forme solide ou parfois compartimentées en nids/groupes par des septa de tissu conjonctif fibrovasculaire. Certaines des cellules tumorales présentent un cytoplasme éosinophile peu abondant et une multinucléation occasionnelle. Immunohistochimie : les cellules étaient fortement positives pour les marqueurs musculaires Desmin et Muscle Specific Actin ; elles étaient négatives pour les cytokératines, l'énolase, les neurofilaments et les marqueurs de mélanome (HMB45 et MelanA). Tout ceci est compatible avec un rhabdomyosarcome alvéolaire.
+
+Diagnostic
+
+Une patiente de 23 ans chez qui on a diagnostiqué, 22 ans après le traitement de sa leucémie, un rhabdomyosarcome alvéolaire d'origine probablement radio-induite, localement avancé et non résécable au niveau de l'ethmoïde gauche, avec de multiples métastases osseuses.
+
+Traitement
+
+Le traitement a été proposé avec trois cycles de chimiothérapie (QT) selon le schéma IVADo-V-V (ifosfamide, vincristine, actinomycine D et adriamycine) conformément au protocole européen pour le rhabdomyosarcome à très haut risque EpSSG RMS 2005.
+Le traitement antérieur a été évalué, en notant que la dose totale d'anthracyclines était de 180mg/m2, puisque le patient devait recevoir un traitement avec 4 doses d'adriamycine, il a été décidé de surveiller étroitement la fonction ventriculaire.
+En outre, étant donné le risque élevé de toxicité hématologique (antécédents de QT pour leucémie et de RT crânienne), une prophylaxie primaire de la fièvre neutropénique a été administrée avec du G-CSF pégylé et de la lévofloxacine prophylactique.
+
+Évolution
+Malgré l'intensification des soins de soutien, les deuxième et troisième phases (vincristine) des premier et deuxième cycles n'ont pas pu être administrées en raison d'une neutropénie afébrile de grade 4 et d'une thrombopénie de grade 3. Après le deuxième cycle, la patiente a dû être hospitalisée pour une fièvre neutropénique dans le contexte d'une mucosite de grade 4 et d'une toxicité hématologique de grade 4.
+Suite à la toxicité présentée précédemment, le troisième cycle a été administré avec une réduction de 75% de la dose de vincristine et d'actinomycine D dans le but de maintenir l'intensité de la dose d'adriamycine et d'ifosfamide, sans toxicité immédiate significative.
+Lors de l'évaluation après 3 cycles d'IVADo, il a montré une réponse locale partielle. Après le quatrième cycle, elle a été à nouveau admise pour une fièvre neutropénique dans le contexte d'une toxicité hématologique de grade 4, associée à une mucosite de grade 4 et à une infection à Clostridium difficile entraînant des diarrhées.
+Le patient s'est finalement rétabli et a commencé la deuxième partie du protocole VIA (en maintenant la réduction de 75% de la dose de vincristine et d'actinomycine D et en associant du G-CSF pégylé et de la lévofloxacine prophylactique). Trois cycles de cette deuxième partie ont été administrés, mais le quatrième cycle n'a pas pu être programmé en raison d'une neutropénie persistante.
+À ce moment-là, le patient a été admis pour aphasie et désorientation secondaires à une hypertension intracrânienne. Un traitement à base de dexaméthasone et de levetiracetam a été mis en place (elle présentait des mouvements involontaires dans les membres inférieurs à l'admission, qui se sont atténués avec le début du traitement au levetiracetam et au Diazepam).
+Une évaluation a été demandée et une augmentation de la taille de la lésion primaire de l'orbite gauche a été observée avec l'apparition de métastases intraparenchymateuses et d'un épaississement et d'une hypercaptation des méninges. L'évaluation d'un traitement palliatif par radiothérapie a été demandée, mais l'état de la patiente s'est aggravé et a nécessité l'instauration d'un traitement symptomatique exclusivement pour le contrôle des symptômes.

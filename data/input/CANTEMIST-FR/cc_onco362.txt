@@ -1,0 +1,41 @@
+Anamnèse
+Patient de 60 ans sans antécédents, d'origine roumaine avec des difficultés de communication pour cette raison.
+Il a consulté le service des urgences d'un autre hôpital en raison de douleurs lombaires d'intensité progressive évoluant depuis un mois. Des anti-inflammatoires lui ont été prescrits et une imagerie par résonance magnétique (IRM) lombaire a été demandée.
+Des altérations osseuses ont été détectées lors de cette IRM et le patient a été envoyé dans son centre de référence pour un examen plus approfondi.
+Dans notre centre, il a été évalué en médecine interne, où il a signalé une douleur lombaire plus intense et une faiblesse associée dans les membres inférieurs, avec des difficultés à marcher. Il a également signalé des épisodes de sueurs nocturnes sans fièvre et une perte de poids de 3 kg depuis le début des symptômes.
+Examen physique
+Bon état général. Légère déshydratation, bonne perfusion et couleur normale. Eupnéique.
+NFS : carotides rythmées et symétriques, pas d'engorgement jugulaire, ganglions lymphatiques < 1cm dans la chaîne cervicale droite. Pas d'adénopathie sus-claviculaire, axillaire ou inguinale.
+AC : rythmique, pas de souffle.
+AP : mvc sans bruits superposés.
+Abdomen : mou, dépressible, douloureux à la palpation dans l'hypochondre droit, avec une hépatomégalie de 2 largeurs de doigt. RHA normal. Pas de masses, pas de signes d'irritation péritonéale.
+IBD : pas d'œdème ni de signes de thrombose.
+
+Neurologique : conscient et orienté dans les trois sphères. Pas d'aphasie. Nerfs crâniens normaux. Force en MMSS et MMII préservée, sensibilité préservée et symétrique. Démarche difficile en raison de la présence de la douleur. Pas de dysmétrie ni de dysdiadochokinésie.
+Examens complémentaires
+RADIOGRAPHIE THORAX : index cardiothoracique dans les limites de la normale, pas d'épanchement pleural ni d'infiltrats aigus.
+RADIOGRAPHIE ABDOMEN : contenu aérien et intestinal de distribution normale. Diminution de l'espace vertébral L4-L5.
+IRM DORSO-LUMBARE : CONCLUSION : processus vertébral prolifératif/infiltratif. T12, L4, L5, S1, S2 : masse de tissu mou provoquant une sténose du canal et une oblitération foraminale bilatérale de L4-L5-S1.
+L4-L5-S1.
+TDM THORACO-ABDOMINAL-PELVIC : CONCLUSION : multiples LOE hépatiques, qui semblent être des métastases comme première possibilité, sans preuve évidente de néoplasie dans un autre organe. Multiples foyers blastiques dans la colonne dorsale, la colonne lombaire, le sternum, la cage thoracique et le bassin (métastases ?).
+Biopsie de la moelle osseuse : la moelle montre une infiltration par une prolifération néoplasique formée de nodules de cellules fusiformes AE1AE3+, EMA+, CD31, Vimentine-, CD56-, S100-, BCL2+,
+NF-, CKIT-, CD34-, CD99+, WT-, Calrétinine, CK7-, TTF1-, Synaptophysine-, P63+, FLI1-, PSA-,
+Chromogranine-, CK20-. Métastase de carcinome, pour exclure une origine urothéliale.
+BIOCHEMIE : GOT 92, le reste est normal.
+HEMOGRAMME : Hb 12.1, plaquettes 253000, leucocytes 12500, neutrophiles 9400, lymphocytes 1800.
+COAGULATION : fibrinogène 681, reste normal.
+CYSTOSCOPIE : Vessie trabéculée et légèrement hyperémique sans néoformations ni lésions inflammatoires.
+TEP : CONCLUSION : résultats compatibles avec une pathologie maligne dans le cadre d'une atteinte osseuse et hépatique métastatique diffuse connue, en plus de lésions dans la narine et le cavum droits (primaires ?) avec une atteinte adénopathique latérocervicale bilatérale.
+NASOFIBROSCOPIE : néoformation pédiculée de la partie inférieure de l'ethmoïde antérieur et néoformation au niveau du cavum avec saignement de la muqueuse au toucher. Une biopsie a été réalisée.
+ANATOMIE PATHOLOGIQUE DE LA BIOPSIE NASOPHARYNGEALE : carcinome non kératinisant, compatible avec un carcinome nasopharyngé. EBER-.
+Diagnostic
+Carcinome nasopharyngé de stade IV avec métastases osseuses.
+
+Traitement
+Le patient a commencé un traitement par Carboplatine AUC 6 et Paclitaxel 175 mg/m2.
+
+Evolution
+Avec le diagnostic final de carcinome nasopharyngé de stade IV avec métastases osseuses et hépatiques, nous avons commencé le traitement QT par Carboplatine-Taxol aux doses mentionnées précédemment, avec une bonne tolérance.
+Les douleurs osseuses ont été contrôlées par Oxycodone-Naloxone 40/20 mg + 10/5 mg toutes les 12 heures et du fentanyl sublingual 100mcg à la demande.
+Après 6 cycles de CB-Taxol, nous avons réalisé une tomodensitométrie qui a permis d'observer une réponse au niveau du nombre et de la taille des lésions hépatiques et de la persistance des foyers blastiques osseux.
+Le patient poursuit actuellement ce traitement.

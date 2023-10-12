@@ -1,0 +1,12 @@
+T1	pathologie 75 84	silicosis
+T2	pathologie 99 102	FMP
+T3	pathologie 104 113	Exfumador
+T4	pathologie 155 176	Tuberculosis pulmonar
+T5	pathologie 611 657	coágulo en bronquio de lóbulo superior derecho
+T6	pathologie 915 953	engrosamiento pleural nodular y difuso
+#1	SNOMED T1	805002
+#2	SNOMED T3	8517006
+#3	SNOMED T4	154283005
+#4	SNOMED T5	371039008
+#5	SNOMED T2	233749003
+#6	SNOMED T6	73725006

@@ -1,0 +1,35 @@
+Anamnèse
+Patient de 37 ans sans allergies médicamenteuses connues. Antécédents de colon irritable et de cataracte bilatérale. Pas d'habitudes toxiques. Pas de médicaments habituels.
+En 2009, il s'est présenté à la clinique ambulatoire de médecine interne pour une perte de poids et une asthénie. Le patient a signalé une fatigue qui s'améliorait avec le repos, une voix nasillarde, une fatigue vocale, une dysphagie pour les solides accompagnée d'une fatigue pour la mastication, une faiblesse cervicale avec une tendance à l'affaissement du cou accompagnée d'une faiblesse des membres qui rendait difficile la marche, le fait de se lever d'une chaise, de monter les escaliers, etc...
+
+Examen physique
+Bon état général. ECOG 1, conscient et orienté. Couleur normale et normohydratation. Signes vitaux normaux. Auscultation cardio-pulmonaire sans altération. Abdomen : mou et dépressible, non douloureux, pas de masse palpable ni de mégalithes. Pas de gonflement des membres inférieurs.
+Neurologique : Diplopie apparaissant avec un regard latéral bilatéral, avec une OME préservée. Légère faiblesse des muscles faciaux supérieurs et inférieurs. Voix nasillarde, fatigable. Faiblesse de la flexion du cou 3/5, de l'abduction de l'épaule 4/5, de la flexion de la hanche 4/5, de l'extension du genou 3-4/5. Fatigabilité, seulement capable de maintenir les membres supérieurs soulevés pendant 5 secondes contre la gravité.
+
+Tests complémentaires
+-Épreuves fonctionnelles respiratoires : dans les limites de la normale.
+TDM thorax-abdomen-pelvis : masse solide de 66x33x77 mm à bords lisses dans le médiastin antérieur avec adénopathies non spécifiques.
+Radiographie du thorax : pas d'altération.
+-ECG : rythme sinusal à 80 bpm. Pas d'altération de la repolarisation.
+Anticorps anti-récepteur de l'acétylcholine : 12.1.
+-Electromyographie : 13/11/2009 : Etude de la plaque neuromusculaire par stimulation nerveuse répétitive sans anomalie mais avec altération du muscle frontal gauche pathologique.
+-Ponction aspirative à l'aiguille fine : 9/06/09 : compatible avec un thymome.
+
+Diagnostic
+Thymome EIII réséqué selon la classification de Masaoka. Début de myasthénie comme syndrome paranéoplasique.
+
+Traitement
+Le 29-06-09, une sternotomie médiane a été pratiquée avec excision d'une masse indépendante des grands vaisseaux, adhérant au péricarde et à la plèvre médiastinale droite. L'anatomie pathologique peropératoire (AP) était un thymome lymphocytaire. Coupe du nerf phrénique inclus dans la masse. Le diagnostic définitif de l'étude de la pièce opératoire était un thymome mixte lymphocytaire et épithélial.
+
+Présenté au comité et planifié pour une radiothérapie (RT). Il a commencé le traitement par RT adjuvante le 12-08-09 et l'a terminé le 22-09-09 (180 cGy/session, 5 fois par semaine ; dose totale : 52,20 Gy).
+
+Evolution
+Après la RT adjuvante, la patiente est suivie dans le service ambulatoire du Service d'oncologie médicale.
+
+Le scanner réalisé après l'opération (13/11/2009) a montré une lymphadénopathie de 16 mm dans l'espace souscarinal et une lymphadénopathie plus petite dans le hile droit. L'hémidiaphragme droit est surélevé et il n'y a aucun signe de récidive de la tumeur.
+
+Depuis le diagnostic de thymome, il a présenté plusieurs épisodes de myasthénie qui ont nécessité une hospitalisation et un traitement par corticoïdes à forte dose, immunosuppresseurs tels que la ciclosporine et le méthotrexate, immunoglobulines intraveineuses et plasmaphérèses (il a en moyenne une crise tous les 2 ans de myasthénie). Il a également plusieurs hospitalisations pour pneumonie bilatérale (01/2012), tuberculose pulmonaire (02/2012) et Pneumocystis jiroveci (2013), secondaires à l'immunosuppression causée par les traitements reçus.
+
+Compte tenu des épisodes intermittents de myasthénie, un PET-CT a été réalisé en 2011, qui a révélé une image hypermétabolique à côté du sac péricardique, avec une consommation glycolytique élevée (SUV maximum de 4,5) suspectée de récidive. Cette question a été discutée avec le Comité thoracique et, compte tenu de la suspicion de récidive, il a été décidé de procéder à une biopsie/résection de la lésion, qui n'a pas été réalisée en raison de la décision du patient (compte tenu des risques d'épisodes fréquents de myasthénie grave) et il a été décidé d'assurer un suivi. Lors du PET/CT scan de contrôle (29/05/2012), la lésion thymique persistait avec un SUV maximal de 3,2 qui est passé à 3,7 et des nodules pulmonaires bilatéraux. Il a été évalué dans les cliniques ambulatoires d'oncologie, de pneumologie et du comité thoracique, et il a été décidé de maintenir les contrôles de la lésion thymique et des multiples lésions pulmonaires résiduelles dues à un processus infectieux (tuberculose et pneumocystite Jiroveci).
+
+Le patient subit actuellement des contrôles tous les six mois avec le TAC TAP et continue d'être suivi dans l'unité de neurologie pour la myasthénie grave. Lors de la dernière visite à la clinique ambulatoire d'oncologie (juin de cette année), les manifestations cliniques de la myasthénie se sont aggravées, et il est traité avec des immunosuppresseurs dans le service de neurologie. Le scanner de contrôle montre une maladie stable (occupation de l'espace pré-vasculaire par une densité de tissus mous d'environ 14 mm, de morphologie et de taille similaires à celles de l'étude précédente, en relation avec les changements post-chirurgicaux. De multiples lésions nodulaires millimétriques disséminées dans le parenchyme pulmonaire, résiduelles de la tuberculose et de Pneumocystis carinii.

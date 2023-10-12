@@ -1,0 +1,27 @@
+Anamnèse
+Homme de 29 ans, avec des antécédents de déficit modéré en facteur VII de la coagulation, au niveau hémostatique, et d'hypothyroïdie auto-immune associée à une thrombopénie légère-modérée qui a débuté à l'adolescence (aspiration de moelle osseuse normale). Le patient était asymptomatique, mais les examens de laboratoire de routine ont révélé des taux élevés de LDH (513 U/I). Le patient n'a pas signalé de syndrome constitutionnel ni de symptômes B intercurrents. Il n'y a pas eu d'autopalpation de ganglions lymphatiques ou de tumeurs à quelque niveau que ce soit. Les parents du patient n'ont pas signalé de cryptorchidie dans l'enfance. La seule symptomatologie associée signalée était une douleur lombaire bilatérale avec un contrôle analgésique mineur par le paracétamol.
+
+Examen physique
+Le patient était en bon état général, bien hydraté, nourri, perfusé et de couleur normale.
+Tête et cou : pas de ganglions lymphatiques ni de masses palpables.
+Auscultation cardiaque : rythmée et sans souffle. Auscultation pulmonaire : VCM, pas de bruits supplémentaires.
+Abdomen : souple, dépressible, non douloureux à la palpation superficielle ou profonde. Pas de bruits anormaux.
+Pas de masses ou de mégalithes palpables. Organes génitaux externes d'aspect normal. Le testicule droit est plus petit que le gauche ; au pôle inférieur, il y a une zone palpable de consistance intratesticulaire plus importante. Pas d'adénopathies palpables à quelque niveau que ce soit.
+
+Tests complémentaires
+"Les examens de laboratoire ont révélé une plaquettopénie (119 Miles/mm3) similaire à la valeur initiale, une élévation de la LDH (513 U/L, valeurs normales 135-214) et de l'alpha-fœtoprotéine (AFP, 481,79 ng/ml, valeurs normales <10 ng/dl). Aucune autre altération analytique. La BHCG était normale (<1,2 U/L).
+"Un scanner cervico-thoracique-abdominal a été réalisé, montrant un conglomérat adénopathique abdominal de 5,5 cm en situation précavale et une adénopathie rétropéritonéale significative en situation interaortique-cavale. L'étude thoracique n'a montré aucune adénopathie hilaire ou médiastinale radiologiquement significative, mais de multiples nodules pulmonaires ont été observés dans le lobe supérieur gauche (12 mm), le lobe inférieur droit (8 mm), le lobe inférieur gauche (8 mm) et la lingula (7 mm).
+"L'étude a été complétée par une échographie scrotale, qui a révélé une masse mal définie mesurant 1,04 x 0,9 cm avec des calcifications associées au niveau du pôle inférieur du testicule droit.
+"La suspicion d'une tumeur testiculaire avancée a conduit à une orchidectomie radicale droite.
+"L'examen microscopique de la pièce opératoire a montré une zone cicatricielle prédominante de fibrose intratesticulaire avec des foyers d'hémosidérine, de nécrose, d'inflammation chronique et de calcification dystrophique macroscopique avec atrophie des tubes séminifères. À côté de cette zone, on a également observé une néoplasie germinale intratubulaire de type non classifié, affectant également les testicules rete, avec expression de CD117, D2.40, OCT4 et phosphatase alcaline, sans expression de CD30 ou de BHCG.
+D'un point de vue anatomopathologique, la lésion cicatricielle était compatible avec une tumeur testiculaire germinale brûlée et régressive.
+
+Diagnostic
+Tumeur testiculaire "burned-out" avec élévation isolée de l'alpha-fœtoprotéine, IGCCC à risque intermédiaire (atteinte viscérale uniquement au niveau pulmonaire, moins de 10 métastases, augmentation des LDH > 2,5 mais < 10). Stade IVL du Royal Marsden.
+
+Traitement
+Le traitement de chimiothérapie devait commencer par un BEP x 4 cycles (bléomycine 30 U IV les jours 1, 8, 15, étoposide 100 mg/m2/j les jours 1-5 et cisplatine 20 mg/m2/j).
+
+Évolution
+Entre mars et juin 2015, la patiente a reçu les quatre cycles du traitement prévu. La tolérance a été bonne, terminant les cycles sans retard ni ajustement de dose, avec des complications telles qu'une anémie de grade 1, une plaquettopénie de grade 2 et, occasionnellement, un syndrome fébrile associé à la bléomycine. Depuis le début du traitement, la baisse du taux sérique d'AFP a été exponentielle, conformément à sa demi-vie.
+A l'heure actuelle, la patiente a terminé le traitement de chimiothérapie et attend une réévaluation par scanner cervico-thoracique-abdominal, prévue pour le 12 juin. En fonction de la présence d'une tumeur résiduelle dans les examens d'imagerie, un sauvetage chirurgical peut être envisagé.

@@ -1,0 +1,25 @@
+Anamnèse
+Homme de 22 ans, sans allergie connue ni antécédent médical intéressant à l'exception d'une intervention chirurgicale au genou droit pour une lésion du ménisque.
+En août 2011, il a consulté le service des urgences pour trois jours de douleurs abdominales dans le flanc gauche et le mésogastre. De plus, depuis trois semaines, il toussait avec une expectoration sanglante. Elle n'a pas signalé de syndrome constitutionnel ni d'autres symptômes associés.
+
+Examen physique
+PS 1) Couleur normale. Bien nourri et hydraté.
+L'examen physique a révélé une douleur à la palpation de la musculature scapulaire droite, de la musculature paravertébrale et de la cage thoracique droite. Le reste de l'examen physique était tout à fait normal.
+
+Tests complémentaires
+- Examens sanguins complets, y compris b-2-microglobuline, alpha-fœtoprotéine, b-GCh et sérologie pour le VHB, le VHC et le VIH, aucune altération n'a été observée.
+- Radiographie thoracique : un élargissement médiastinal a été observé aux dépens du territoire de l'artère pulmonaire gauche, avec une morphologie atypique de la silhouette cardiaque dans cette zone.
+- Tomodensitométrie thoraco-abdominale-pelvienne : une volumineuse masse médiastinale antérieure de 8 x 6 cm s'étendait le long du tronc de l'artère pulmonaire vers le hile gauche avec des pôles solides dans sa partie supérieure et des images de septa ; de multiples images nodulaires de type interstitiel-alvéolaire ont également été décrites dans les deux hémithorax, dont la plus grande était située au niveau du lobe supérieur gauche avec un diamètre de 1,5 cm. Aucune anomalie n'a été observée dans l'abdomen et le bassin.
+- Scintigraphie osseuse : des prises de radiotraceur compatibles avec des métastases osseuses ont été observées dans le corps vertébral D11, la région frontale du crâne et la tête humérale gauche.
+- Biopsie à l'aiguille d'une masse médiastinale (11 septembre 2011), dont le rapport pathologique était compatible avec un angiosarcome, avec une immunohistochimie positive pour la vimentine, CD 31 et CD 34, AE1- AE 3 négative et Ki-67 de 80 %.
+
+Diagnostic
+Angiosarcome médiastinal de stade IV dû à des métastases pulmonaires et osseuses.
+
+Évolution et traitement
+Sur la base de ce diagnostic, un traitement par chimiothérapie palliative a été proposé à la patiente dans le cadre de l'essai clinique du Groupe espagnol de recherche sur les sarcomes (Geis 20). Après randomisation, le patient a commencé le traitement le 16 septembre 2011 par trabectédine 1,5 mg/m2 et doxorubicine 75 mg/m2 jour 1 tous les 21 jours. Il a reçu trois cycles, avec un scanner de réévaluation montrant une légère diminution de la masse médiastinale et des images nodulaires pulmonaires bilatérales, avec une maladie osseuse stable (réponse partielle selon les critères Recist).
+Il a reçu un total de six cycles, le dernier le 3 janvier 2012. Les toxicités pertinentes comprenaient une altération des tests de la fonction hépatique de grade 4 malgré une prémédication aux corticostéroïdes, ce qui a nécessité un ajustement de la dose de trabectédine après le troisième cycle conformément au protocole de l'essai clinique.
+La tomodensitométrie et la scintigraphie à la fin du traitement ont montré une réponse partielle soutenue. Le cas a été présenté au comité des tumeurs thoraciques et le sauvetage chirurgical a été rejeté en raison de la présence de métastases osseuses.
+Le patient a également reçu une radiothérapie palliative du 5 au 29 mars 2012 sur la masse pulmonaire, les corps vertébraux D10-12 et la tête humérale gauche, atteignant une dose de 30 Gy.
+Un scanner de suivi en avril 2012 a montré une augmentation du nombre et de la taille des métastases pulmonaires. Face à la progression de la tumeur, une deuxième ligne de chimiothérapie palliative a été proposée selon un schéma hebdomadaire de paclitaxel, dont la patiente a actuellement reçu trois cycles avec une bonne tolérance.
+Il est prévu de poursuivre le traitement jusqu'à progression ou toxicité inacceptable.

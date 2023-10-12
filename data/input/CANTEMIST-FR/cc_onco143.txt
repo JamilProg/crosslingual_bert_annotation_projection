@@ -1,0 +1,26 @@
+Anamnèse
+Femme de 50 ans, sans antécédents personnels intéressants, à qui l'on a diagnostiqué, après une mammographie de dépistage en 2002, un carcinome canalaire infiltrant du sein gauche, de stade pT1N2M0 (aspect E).
+Au moment du diagnostic, elle a été traitée par mastectomie et lymphadénectomie accompagnées d'un schéma FEC (5-FU + épirubucine * cyclophosphamide). Par la suite, et avec une rémission complète de la maladie, elle a été traitée par tamoxifène + zaladex jusqu'en 2010, sans jamais abandonner les contrôles analytiques et d'imagerie, qui étaient rigoureusement normaux.
+En mai 2012, la patiente s'est présentée aux urgences en se plaignant d'un prurit et d'une fièvre du soir de plusieurs semaines, accompagnés d'un syndrome constitutionnel, qui ont détérioré la qualité de vie de la patiente.
+
+Examen physique
+Rien de particulier n'a été observé. Cependant, l'hémogramme a révélé une pancytopénie et le patient a été admis au service d'hématologie pour un examen plus approfondi, au cours duquel des tests supplémentaires ont été effectués.
+
+Examens complémentaires
+" NFS : hémoglobine 8,3 g/dl, globules rouges 2,08 x 106/μl, hématocrite 23,2 %, MCV 111,6 fl, MCH 40,00 pg, MCHC 35,8 g/dl, RDW 13,5 %, leucocytes 1 700, globules blancs 0 %, blastes 4 % et biochimie normale.
+"Radiographie du thorax : au moins cinq opacités nodulaires dans le lobe supérieur gauche, la plus grande mesurant 1,3 cm, avec surélévation hilaire gauche due à la rétraction. Hyperclarté basale gauche en relation avec la mastectomie radicale.
+"TEP-TDM corps entier : lésions pulmonaires sous forme d'infiltrats et de nodules/pseudonodules avec adénopathies péribronchiques hypermétaboliques bilatérales, évoquant une étiologie inflammatoire-infectieuse, mais nécessitant d'établir un diagnostic différentiel avec la pathologie mammaire.
+Schéma d'hyperplasie splénique et médullaire.
+"Anatomie pathologique des nodules pulmonaires : biopsie positive pour l'adénocarcinome d'origine mammaire RE et RP +, Her-2 négatif.
+
+Diagnostic
+Prélèvement de moelle osseuse : morphologiquement compatible avec une leucémie myéloïde aiguë avec dysplasie trilinéaire selon la classification de l'OMS, caryotype normal.
+
+Traitement
+Elle a commencé un traitement à base de clofarabine et de lacitarabine et a subi une greffe allogénique en novembre 2012 avec une sœur HLA compatible, ce qui a entraîné une rémission complète de la LAM. La patiente est restée sous traitement immunosuppresseur de soutien.
+
+Évolution
+En décembre 2012, l'état de base de la patiente s'est aggravé et on lui a diagnostiqué une GVHD aiguë, qui a répondu très favorablement à la corticothérapie, et a été suivie de près par l'oncologie et l'hématologie.
+Lors d'un de ces contrôles, la patiente a signalé des douleurs osseuses dans plusieurs articulations. Une scintigraphie osseuse a donc été réalisée dans l'éventualité d'une récidive de la tumeur osseuse métastatique, avec un résultat négatif. Devant la persistance des douleurs, des IRM de la hanche et de la mandibule ont été réalisées et un diagnostic d'ostéonécrose secondaire à la longue période de corticothérapie a été posé. Un traitement au calcium a alors été mis en place.
+Tout au long de cette période, la maladie a été traitée avec du letrexol, restant symptomatiquement stable et même le nombre de métastases pulmonaires a diminué, répondant aux critères de résécabilité avec intention curative, de sorte qu'en janvier 2014, une segmentectomie du LSI a été effectuée, suivie d'un traitement adjuvant par exemestane.
+A ce jour, la patiente reste asymptomatique et présente un ECOG 0.

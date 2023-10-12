@@ -1,0 +1,26 @@
+T1	pathologie 283 303	hepatoesplenomegalia
+T2	pathologie 1029 1039	metástasis
+T3	pathologie 1092 1123	metástasis pulmonares múltiples
+T4	pathologie 1135 1150	derrame pleural
+T5	pathologie 1304 1326	afectación metastásica
+T6	pathologie 1332 1372	nódulos pulmonares múltiples bilaterales
+T7	pathologie 1374 1389	derrame pleural
+T8	pathologie 1399 1443	adenopatías mediastínicas, retroperitoneales
+T9	pathologie 1445 1492	hepatomegalia con afectación metastásica masiva
+T10	pathologie 1509 1545	metástasis esplénicas y pancreáticas
+T11	pathologie 1558 1587	líquido libre intraperitoneal
+T12	pathologie 1796 1814	shock hipovolémico
+T13	pathologie 2049 2114	afectación metastásica extensa en cola de páncreas, bazo e hígado
+T14	pathologie 2119 2162	rotura de metástasis esplénicas y hepáticas
+T15	pathologie 2172 2185	hemoperitoneo
+T16	pathologie 2226 2250	hematoma difuso hepático
+T17	pathologie 2788 2841	testículo mostró una neoplasia maligna germinal mixta
+T18	pathologie 2878 2899	carcinoma embrionario
+T19	pathologie 2901 2927	tumor del seno endodérmico
+T20	pathologie 2929 2943	coriocarcinoma
+T21	pathologie 2946 2954	teratoma
+T22	pathologie 3143 3204	lesiones esplénicas son metástasis de la neoplasia testicular
+T23	pathologie 3293 3311	shock hipovolémico
+T24	pathologie 3336 3359	sangrado intraabdominal
+T25	pathologie 3433 3451	estallido hepático
+T26	pathologie 3495 3517	hemorragia incoercible

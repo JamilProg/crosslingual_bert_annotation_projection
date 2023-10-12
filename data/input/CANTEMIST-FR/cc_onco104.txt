@@ -1,0 +1,33 @@
+Anamnèse
+Il s'agit d'une femme de 57 ans ayant des antécédents personnels d'hypertension, de glaucome chronique et de syndrome d'anxiété dépressive. Elle est ex-fumeuse depuis 6 mois, avec une consommation totale cumulée de 9 ans/pack. Elle n'a pas d'habitude de l'alcool.
+
+Antécédents gynécologiques : ménarche à l'âge de 13 ans, première grossesse à l'âge de 23 ans, formule obstétricale G5 A1 P4. Allaitement pendant 10 mois pour chaque enfant. Utilisation de contraceptifs oraux pendant 8 ans. Antécédents chirurgicaux : amygdalectomie dans l'enfance et herniorraphie ombilicale en 2008.
+
+Traitement habituel : benzodiazépines à la demande, suppléments de fer par voie orale et olmésartan. Antécédents familiaux : père atteint d'un carcinome cutané d'histologie inconnue.
+
+Le patient a été admis au service de chirurgie générale en octobre 2014 pour être opéré d'une hernie inguinale irréductible. Au cours de l'intervention chirurgicale, une volumineuse masse intra-abdominale accompagnée d'un liquide ascitique d'aspect mucoïde a été observée fortuitement ; un prélèvement a été effectué et aucune cellule maligne n'a été retrouvée. Au vu de ces résultats, il a été décidé de prolonger l'étude diagnostique.
+
+Dans l'anamnèse, le patient se plaignait depuis un an d'une sensation de distension abdominale avec lourdeur, qui s'accompagnait depuis deux mois de douleurs dans le bas-ventre et de vomissements.
+
+Après avoir terminé l'étude d'extension par CT thoraco-abdominale-pelvienne et IRM pelvienne avec des images suggérant un tératome kystique, la patiente a subi une nouvelle intervention chirurgicale en novembre 2014. Au cours de l'opération, une aspiration du liquide libre pour cytologie et une annexectomie gauche ont été initialement réalisées. L'étude pathologique peropératoire a été rapportée comme un tératome kystique mature avec une zone indurée mesurant 8 x 3 cm suggérant une néoplasie. Au vu de ces résultats, la chirurgie a été complétée par une hystérectomie, une salpingo-ovariectomie bilatérale, une omentectomie et une appendicectomie. Des biopsies péritonéales ont été réalisées sur les lames pariétocoliques droite et gauche. La lymphadénectomie pelvienne n'a pas été réalisée en raison d'une impossibilité technique, compte tenu de l'indice de masse corporelle élevé.
+
+Examen physique
+IK 90. Cicatrice de laparotomie moyenne de bon aspect, pas de signes infectieux à l'heure actuelle.
+Le reste de l'examen est strictement normal.
+
+Tests complémentaires
+"Analyse de sang (3/11/14) : CA 19.9 84 Ul/ml et CA 125 59 U/ml. Autres biochimies, hémogramme et coagulation sans altération.
+" Tomodensitométrie thorax-abdomen-pelvis (3/11/14) : au niveau du thorax, on note une atélectasie laminaire sous-segmentaire dans les deux bases, ainsi qu'une spondylose dorsale sans signe évocateur de malignité. Aucun nodule pulmonaire, épanchement pleural ou péricardique ou ganglion lymphatique pathologique n'a été identifié. Dans l'abdomen, il y avait une masse mesurant 17,5 cm x 16,5 cm x 19 cm, dans les diamètres antéropostérieur, transversal et craniocaudal, respectivement. Elle présente une morphologie arrondie et une composante essentiellement kystique, ainsi que des calcifications graisseuses et lamellaires bien délimitées qui semblent dépendre de l'ovaire gauche. On observe une strie de la graisse mésentérique antérieure, qui pourrait être justifiée par les antécédents chirurgicaux, sans pouvoir exclure une dissémination péritonéale. Pas de ganglions pathologiques ni d'atteinte viscérale à un autre niveau.
+" IRM pelvienne (4/11/2014) : une masse de la taille décrite ci-dessus, dépendant de l'ovaire gauche, avec une composante majoritairement kystique, avec une petite portion de contenu graisseux et un nodule ovale bien défini hyperintense en T1 qui se rehausse après l'administration d'un contraste paramagnétique, le tout évoquant un tératome kystique mature. Le reste de l'étude est similaire à la tomodensitométrie.
+"Anatomie pathologique (AP) du liquide péritonéal libre (11/12/15) : positive pour les cellules malignes.
+"AP de l'annexe gauche (11/12/15) : carcinome épidermoïde peu différencié provenant du kyste dermoïde ovarien infiltrant toute la paroi du kyste à 1 mm de la surface séreuse. Deux ganglions lymphatiques réactifs de l'omentum.
+"AP de l'utérus, de l'annexe droite, de l'épiploon et de l'appendice cæcal (11/12/15) : aucun signe de malignité.
+
+Diagnostic
+Il s'agit donc d'un carcinome épidermoïde peu différencié sur un kyste dermoïde ovarien, stade IC de la FIGO.
+
+Traitement
+Après avoir examiné les preuves scientifiques disponibles, il a été décidé, compte tenu de la rareté du cas, de proposer à la patiente un traitement adjuvant à base de carboplatine-paclitaxel.
+
+Évolution
+Au total, six cycles de carboplatine-paclitaxel ont été administrés entre janvier et mai 2015. La tolérance au traitement a été bonne, les principales toxicités étant l'asthénie, l'alopécie, la diarrhée et la neurotoxicité G1. Elle est actuellement asymptomatique, en excellent état général et a entamé un programme de contrôles réguliers.

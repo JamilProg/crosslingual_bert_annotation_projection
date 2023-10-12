@@ -1,0 +1,16 @@
+T1	pathologie 70 80	tabaquismo
+T2	pathologie 83 102	hipercolesterolemia
+T3	pathologie 118 150	enfermedad coronaria aguda grave
+T4	pathologie 936 972	obstruccion de la vía aérea superior
+T5	pathologie 1024 1042	estenosis traqueal
+T6	pathologie 1115 1153	estenosis traqueal en extremo proximal
+T7	pathologie 1204 1225	fibrosis peritraqueal
+T8	pathologie 1394 1400	lesión
+#1	SNOMED T1	365982000
+#2	SNOMED T2	13644009
+#3	SNOMED T3	127337006
+#4	SNOMED T4	68372009
+#5	SNOMED T5	11296007
+#6	SNOMED T6	11296007
+#7	SNOMED T7	59837008+263756000
+#8	SNOMED T8	417163006

@@ -1,0 +1,8 @@
+T1	pathologie 18 43	alérgico a betalactámicos
+T2	pathologie 75 98	EPOC corticodependiente
+T3	pathologie 692 705	hepatomegalia
+T4	pathologie 1713 1724	hipotensión
+#1	SNOMED T1	419885006
+#2	SNOMED T2	95919007+13645005
+#3	SNOMED T3	80515008
+#4	SNOMED T4	45007003

@@ -1,0 +1,15 @@
+T1	pathologie 552 574	patología degenerativa
+T2	pathologie 576 600	estenosis de canal L4-L5
+T3	pathologie 603 620	espondiloartrosis
+T4	pathologie 1476 1482	lesión
+T5	pathologie 1547 1568	infiltración hepática
+T6	pathologie 1634 1656	adenopatías retrocavas
+T7	pathologie 1658 1673	derrame pleural
+T8	pathologie 2346 2412	tumoración renal que infiltra el hígado (segmento VII) y diafragma
+T9	pathologie 2425 2463	adenopatías patológicas en hilio renal
+T10	pathologie 2508 2530	implantes peritoneales
+T11	pathologie 2829 2886	cáncer de células renales tipo convencional de alto grado
+T12	pathologie 3061 3111	metástasis en un ganglio linfático del hilio renal
+T13	pathologie 3471 3494	derrame pleural derecho
+T14	pathologie 3499 3549	lesiones nodulares pleurales basales y posteriores
+T15	pathologie 3602 3616	adenocarcinoma

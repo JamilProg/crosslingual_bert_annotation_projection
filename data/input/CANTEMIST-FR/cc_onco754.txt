@@ -1,0 +1,22 @@
+Anamnèse
+Femme de 16 ans, sans antécédents médicaux ni traitement à domicile. La patiente a consulté pour des douleurs et une tumeur fessière à croissance rapide qui n'était pas associée à un traumatisme antérieur ou à un syndrome constitutionnel.
+
+Examen physique
+"ECOG 0.
+"Elle présente une masse pierreuse, douloureuse, adhérant aux plans profonds dans l'épaisseur des muscles fessiers gauches, non associée à des signes inflammatoires cutanés. Mobilité et sensibilité préservées dans les deux membres.
+
+Examens complémentaires
+Un scanner a été réalisé, montrant une énorme masse d'environ 12 cm dans l'épaisseur de la musculature fessière avec extension au petit bassin, avec érosion de la corticale de l'os iliaque, dont elle semble dépendre. Il n'y a pas de signes de dissémination à distance.
+La biopsie monocompartimentale percutanée a montré une infiltration tissulaire par un néoplasme monomorphe composé de petites cellules à noyau hyperchromatique et un profil immunohistochimique polyphénotypique avec positivité pour les marqueurs mésenchymateux et épithéliaux, suggérant un sarcome d'Ewing.
+Pour confirmer le diagnostic, une étude de translocation du gène du sarcome d'Ewing (EWS) a été demandée et a révélé un schéma atypique pour la translocation t(22q12).
+
+Diagnostic
+Sarcome d'Ewing de l'os iliaque avec extension intra et extrapelvienne (T3bN0M0).
+
+Traitement
+Le cas est adressé à l'unité des tumeurs osseuses, qui juge le cas résécable, bien qu'il faille procéder à une hémipelvectomie. Il s'agit d'une opération très agressive, avec désarticulation complète du membre inférieur, excision de la moitié du bassin, généralement associée à une colostomie et une urostomie. Il est à noter que la mise en place ultérieure d'une prothèse après ce type d'intervention nécessite un programme de rééducation long et complexe, avec des résultats généralement insatisfaisants. Compte tenu de ces faits, il a été décidé de commencer une chimiothérapie en intention néoadjuvante, ce que la patiente a compris et accepté.
+Elle a commencé une polychimiothérapie avec un schéma alternant vincristine-adriamycine-cyclophosphamide//ifosfamide-étoposide (VAC-IE). Après une réponse initiale apparente avec une diminution de la douleur et une augmentation de l'autonomie de déplacement, une progression locale de la tumeur a été cliniquement observée au cours du quatrième cycle.
+Étant donné que la réfractarité précoce à la chimiothérapie est un événement rare dans le sarcome d'Ewing de première ligne, et que la translocation d'EWS était atypique, il a été décidé de procéder à une nouvelle biopsie de la lésion et le patient a été adressé à l'hôpital Virgen del Rocío en tant que centre de référence pour cette pathologie.
+
+Evolution
+Après révision de l'anatomie pathologique, l'étude du gène EWS a été répétée, et une translocation t(11;22) (p13;q12) avec le gène WT-1 a été trouvée, le diagnostic a donc été changé en tumeur primitive desmoplastique à petites cellules rondes de l'os. Compte tenu du changement de diagnostic, un traitement par docétaxel-gemcitabine a été instauré, avec une progression de la maladie due à l'apparition de conglomérats adénopathiques pelviens et rétropéritonéaux après 4 cycles. La patiente a reçu une forte dose d'ifosfamide avec une stabilisation de la maladie pendant 9 cycles. À ce stade, elle a été admise pour une crise d'épilepsie et une déviation de la commissure buccale, et un scanner crânien a été réalisé, montrant de multiples métastases cérébrales. Il a reçu une radiothérapie holocrânienne qui n'a pas permis de contrôler les symptômes, de sorte que son état s'est rapidement détérioré et qu'il est décédé 15 mois après le diagnostic.

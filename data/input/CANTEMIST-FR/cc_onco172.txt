@@ -1,0 +1,34 @@
+Anamnèse
+Homme de 66 ans, ayant des antécédents personnels de tabagisme actif (35 paquets/an) et d'ulcère duodénal.
+
+En août 2004, dans le contexte d'une altération du rythme des selles, on lui a diagnostiqué un adénocarcinome du rectum à 4 cm de la marge anale, cT4N0M0, sténosant. Le 14/11/2004, en raison de symptômes subocclusifs, une colostomie à l'anse a été pratiquée et le patient a ensuite commencé un traitement néoadjuvant avec une chimiothérapie concomitante (5-fluorouracile) et une radiothérapie (45 Gy) (début : 7/2/2005 ; fin : 14/3/2005). Le 2/5/2005, il a subi une intervention chirurgicale et une résection antérieure avec colostomie ; la résection était macroscopiquement incomplète (R2) car il y avait une tumeur résiduelle dans le moignon rectal qui n'a pas pu être enlevée à ce moment-là. Le patient a commencé un traitement par chimiothérapie FOLFOX-4, dont il a suivi huit cycles au total, avec une bonne réponse radiologique, de sorte qu'en septembre 2005, une résection postérieure du rectum et une résection en coin de la paroi postérieure de la vessie ont été effectuées ; l'anatomie pathologique était compatible avec un adénocarcinome modérément différencié de 4 cm infiltrant toutes les couches de la paroi, s'étendant à la vésicule séminale et atteignant la limite radiale. Par la suite, le patient a commencé les examens de suivi.
+
+En février 2009, après un intervalle sans progression de plus de trois ans, un scanner de contrôle a détecté un nodule pulmonaire dans le segment apical du lobe inférieur gauche, sans aucun signe de maladie à d'autres niveaux, de sorte qu'une intervention chirurgicale a été décidée. En janvier 2010, une lobectomie inférieure gauche a été pratiquée, l'anatomie pathologique étant compatible avec un adénocarcinome modérément différencié avec une nécrose étendue (3 cm) compatible avec une métastase du primitif rectal connu. Après l'intervention chirurgicale, le patient a été traité par FOLFIRI (six cycles au total, le dernier en juillet 2010).
+
+En mars 2011, le patient s'est rendu à l'hôpital de jour d'oncologie pour des céphalées et des acouphènes qui duraient depuis 15 jours.
+
+Examen physique
+Examen neurologique : patient conscient et orienté dans les trois sphères, pupilles isochores normoréactives, mouvements oculaires extrinsèques bilatéraux corrects, campimétrie de confrontation préservée. Nerfs crâniens préservés.
+Diminution de la force dans le membre supérieur gauche 4/5, le reste des membres sans altération. Pas d'altérations sensorielles. Réflexe cutané plantaire fléchi bilatéral.
+Pas d'instabilité de la marche observée.
+Tests complémentaires
+L'étude a été complétée par :
+"CT scan crânien urgent : apparition d'une tumeur pariétale droite, cortico-sous-corticale, solide et avec prise de contraste intense, 36 x3 1 mm de diamètre axial maximum, compatible avec une métastase.
+"IRM cérébrale : métastase cérébrale pariétale droite unique.
+"Scanner PET-CT : absence de maladie extracrânienne.
+
+Diagnostic
+Évaluée comme une rechute cérébrale unique 14 mois après la résection des métastases pulmonaires (huit mois après la fin du traitement) sans maladie extracrânienne, la patiente a été considérée comme candidate à une résection chirurgicale des métastases cérébrales.
+
+Traitement
+Le 8/4/2011, une craniotomie et l'excision de la tumeur pariétale droite ont été réalisées sans complications. L'anatomie pathologique a confirmé la présence de métastases d'un adénocarcinome compatible avec la dissémination de la tumeur primaire rectale connue.
+Le patient a ensuite été évalué par la radio-oncologie et a été considéré comme candidat à une radiothérapie holocrânienne de 30 Gy et à une surimpression dans le lit de la tumeur de 16 Gy, qui a été réalisée le 10/6/2011.
+
+Evolution
+En juillet 2011, un mois après la fin de la radiothérapie, la patiente consulte aux urgences pour une parésie brachio-crurale gauche, avec des signes de rechute locale au scanner et à l'IRM. En extracrânien, il n'y avait pas de signes de la maladie, il a donc été décidé de réintervenir, ce qui a été fait le 29/7/2011.
+
+En mai 2012, la patiente a consulté pour des paresthésies dans le membre supérieur gauche et on a de nouveau diagnostiqué une récidive dans le lit de la tumeur. En l'absence de récidive dans d'autres localisations, une nouvelle craniotomie et une métastasectomie ont été réalisées. Une étude KRAS a été réalisée sur cette dernière biopsie, détectant une mutation (Gly12Val) dans l'exon 2 de K-RAS.
+
+En octobre 2013, une IRM de suivi a montré des signes d'une nouvelle récidive au niveau dural qui, la patiente n'ayant pas de maladie extracrânienne, a été réséquée le 15/11/2013.
+
+Depuis lors, le patient n'a pas présenté de nouveaux symptômes ni de signes de récidive locale ou à distance de sa maladie. Un scanner crânien en mars 2015 et un scanner thoraco-abdominal en avril 2015 n'ont révélé aucun signe de la maladie.

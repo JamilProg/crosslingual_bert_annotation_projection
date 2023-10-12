@@ -1,0 +1,30 @@
+ANAMNÈSE
+Un homme de 39 ans souffrant d'hypertension, sous traitement pharmacologique avec un bon contrôle, et de diabète sucré depuis 8 ans sous traitement antidiabétique oral, sans complications micro ou macrovasculaires. Fumeur de 15 paquets/an.
+
+Diagnostic de sarcoïdose pulmonaire et cutanée 5 ans plus tôt, sous traitement par méthotrexate (10 mg/semaine), principalement en raison des altérations cutanées, sans traitement pneumologique spécifique. Aucun autre antécédent médical ou familial intéressant.
+
+Le patient a consulté en raison de l'apparition d'une tumeur sur l'hémiface gauche d'environ 2 ou 3 mois d'évolution. Elle était associée à une anesthésie du territoire du nerf dentaire inférieur gauche. Il n'y avait pas de syndrome constitutionnel ni d'autres symptômes associés.
+
+Examen physique
+Le patient est en bon état général. Pas d'hydratation. Couleur normale. Eupnéique au repos.
+État de performance 1.
+
+L'examen a révélé la présence d'une tumeur solide dans l'angle trigone mandibulaire, avec un renflement dans le fond vestibulaire et une anesthésie à l'examen dans le territoire du nerf dentaire inférieur gauche.
+Le reste de l'examen était sans particularité.
+
+Examens complémentaires
+"Examens généraux de laboratoire et sérologies (VIH, VHB, VHC) : pas d'altérations pertinentes, à l'exception d'une légère cytolyse hépatique secondaire à l'utilisation chronique de méthotrexate.
+"Tomodensitométrie faciale : lésion osseuse lytique expansive dans l'angle mandibulaire gauche (plus grand diamètre 4,5 cm), avec un comportement local très agressif. Elle a élargi l'os et érodé la corticale. Elle s'est infiltrée dans le canal du nerf alvéolaire inférieur et dans l'alvéole de la dent 3.8. Comme première possibilité, il a suggéré une tumeur odontogène sarcomateuse.
+"IRM de la mandibule : tumeur dans le ramus expansif de la mandibule gauche (4,7 x 2,3 x 3 cm) avec destruction osseuse, avec une croissance extra-osseuse minimale vers le côté interne et une croissance plus importante vers le côté externe, comprimant et déplaçant le muscle masséter gauche adjacent. Pas de lymphadénopathie de taille significative.
+"Biopsie de l'os mandibulaire : cellularité fusiforme et épithélioïde se développant de façon storiforme et diffuse. Cytoplasme éosinophile mal défini et noyau arrondi avec nucléoles proéminents. Il y avait des ostéoclastes entremêlés et trois mitoses par 10 champs à fort grossissement. L'immunohistochimie a montré une expression focale et intense d'ostéocalcine et un indice de prolifération de 15 %. Tout cela était compatible avec un ostéosarcome.
+
+Diagnostic
+Homme de 39 ans atteint de sarcoïdose pulmonaire et cutanée sous traitement chronique au méthotrexate, diagnostiqué avec un ostéosarcome localement avancé de la mâchoire gauche.
+
+Traitement
+Après le diagnostic initial, une cryopréservation du sperme a été demandée et l'étude a été complétée par un examen TEP-TDM, qui a révélé un ostéosarcome de la mâchoire gauche (SUV max 15,09 g/ml) et de multiples dépôts pathologiques d'activité dans le squelette, mettant en évidence les deux omoplates, la colonne vertébrale, la cage thoracique, les deux iliaques et les deux métaphyses fémorales proximales. Compte tenu des antécédents de sarcoïdose, des doutes ont été émis quant à la nature des lésions osseuses, car il pouvait s'agir d'une sarcoïdose sous forme d'atteinte osseuse ou de métastases osseuses, et il a donc été décidé de procéder à une biopsie de deux des lésions. Finalement, l'anatomie pathologique a révélé des granulomes sarcoïdes et l'absence de cellules tumorales. Étant donné la confirmation histologique d'une sarcoïdose osseuse diffuse, excluant une atteinte osseuse métastatique, avec un ostéosarcome mandibulaire localement avancé, un traitement néoadjuvant par QT a été mis en place. Le traitement a consisté en trois cycles de cisplatine (120 mg/m2 jour 1 tous les 21 jours)-adriamycine (25 mg/m2 jours 1 à 3 tous les 21 jours), en évitant le méthotrexate à haute dose compte tenu de l'âge du patient et de la sarcoïdose initiale, et en une prophylaxie de la fièvre neutropénique primaire avec du G-CSF pégylé. À l'issue du traitement néoadjuvant, tant sur le plan clinique que radiologique, une excellente réponse partielle a été observée et une chirurgie radicale a été réalisée, consistant en une hémimandibulectomie gauche avec désarticulation et ablation des adénopathies de niveau I et II. L'anatomie pathologique définitive a indiqué qu'il s'agissait d'un ostéosarcome de morphologie inhabituelle, bien qu'ostéoformateur et malin. Il y avait des cellules atypiques de grande taille, au cytoplasme éosinophile et microvacuolé, avec un gros noyau rond et un nucléole central éosinophile. Il y avait une réponse significative au QT avec une fibrose hyaline étendue impliquant les vaisseaux, les nerfs et la nécrose.
+Les ganglions lymphatiques n'étaient pas infiltrés. L'immunohistochimie a montré une expression intense de CD 68, de vimentine et focalement d'adipophiline, d'ostéonectine et de CkAE1-AE3. Ils sont négatifs pour : S-100, langerine, synaptophysine, CD1a, EMA, CD34, desmine, HMB45, facteur XIII, MYOD1 (nucléaire) et myogénine.
+
+Evolution
+Compte tenu de l'excellente réponse pathologique après trois cycles de QT néoadjuvant, il a été décidé de compléter le traitement par trois cycles de QT adjuvant avec cisplatine et adriamycine.
+Par la suite, étant donné le diagnostic d'ostéosarcome mandibulaire localement avancé réséqué avec une bonne réponse au QT néoadjuvant, l'administration de muramyl tripeptide (2 mg/m2 pendant 36 semaines) a été demandée en tant que traitement de consolidation adjuvant extraordinaire. Le traitement adjuvant est actuellement en cours d'achèvement.

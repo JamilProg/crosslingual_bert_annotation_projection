@@ -1,0 +1,20 @@
+T1	pathologie 37 58	hipertensión arterial
+T2	pathologie 61 71	dislipemia
+T3	pathologie 86 107	cardiopatía isquémica
+T4	pathologie 110 145	infarto agudo de miocardio inferior
+T5	pathologie 155 178	arteriopatía periférica
+T6	pathologie 249 320	isquemia aguda de extremidad inferior izquierda por oclusión de by-pass
+T7	pathologie 447 474	Insuficiencia renal crónica
+T8	pathologie 501 520	nefroangiosclerosis
+T9	pathologie 1902 1927	espondilodiscitis D10-D11
+T10	pathologie 1942 1963	absceso paravertebral
+#1	SNOMED T1	38341003
+#2	SNOMED T2	370992007
+#3	SNOMED T3	194828000
+#4	SNOMED T4	73795002
+#5	SNOMED T5	399957001
+#6	SNOMED T6	306847001+233961000
+#7	SNOMED T9	203241002
+#8	SNOMED T10	405562002
+#9	SNOMED T7	90688005
+#10	SNOMED T8	473392002

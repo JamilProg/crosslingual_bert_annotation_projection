@@ -1,0 +1,21 @@
+Anamnèse
+Le patient est un homme de 64 ans, sans antécédent de pathologie d'intérêt, qui a commencé à présenter en juillet 2012 des selles diarrhéiques sans produits pathologiques et une perte de poids de 10 kg en trois mois. En septembre 2012, il s'est présenté au centre de soins où il a subi une échographie abdominale avec des images compatibles avec des métastases hépatiques.
+
+Examen physique
+L'examen physique a révélé une hépatomégalie légèrement douloureuse, sans autre signe d'intérêt.
+
+Examens complémentaires
+L'étude a été complétée par une gastroscopie et une coloscopie sans signe de primitif et une tomographie thoraco-abdominale, où un processus expansif a été visualisé dans la queue du pancréas avec des zones de nécrose mesurant 6,3 x 6,4 cm, une adénopathie adjacente à la glande surrénale gauche, de multiples métastases hépatiques et une adénopathie rétropéritonéale. Les marqueurs tumoraux au moment du diagnostic étaient l'ACE 5,8 μ/l et le Ca 19,9 104 kUI/l. Des biopsies hépatiques et pancréatiques ont été réalisées.
+
+Diagnostic
+L'examen anatomo-pathologique du pancréas a montré un carcinome acinaire pancréatique mixte, avec des zones de différenciation neuroendocrine, une chromogranine A positive, une énolase neuronale spécifique positive. La biopsie du foie a révélé la présence de métastases de carcinome.
+L'Octreoscan® a été réalisé avec une captation intra-hépatique du radiotraceur compatible avec des métastases connues avec expression des récepteurs de la somatostatine, ainsi qu'une accumulation pathologique dans la queue du pancréas.
+
+Traitement
+Initialement, le cancer a été classé comme un carcinome mixte acineux-neuroendocrine. Le 08.10.12, on a donc commencé à administrer 120 mg de lanréotide tous les 28 jours. Après avoir obtenu le rapport pathologique de Ki67 > 60 %, il a été décidé de changer le traitement pour la gemcitabine 1 500 mg par semaine.
+Il a terminé deux cycles avec une progression radiologique et des marqueurs et a été référé à notre centre pour poursuivre le traitement.
+
+Evolution
+Il consulte le 07.01.13 avec une détérioration de l'état général, une asthénie et une anorexie qui conduisent à un ECOG 2 (IK 60 %). Les tests de laboratoire ont révélé une hypoalbuminémie, une LDH élevée 7 846 U/l, un CEA 91 μ/l, un Ca19,9 1002,51 kIU/l et une chromogranine A > 814 ug/l. Il a été évalué comme un patient atteint d'un carcinome pancréatique acineux mixte avec des zones de différenciation neuroendocrine (KI67 > 60 %) de stade IV, candidat à une 2e ligne de FOLFOX (leucovorine, 5-Fu et oxaliplatine).
+Il a commencé un premier cycle le 31.12.12 avec une réduction de dose de 20%, et en raison de l'amélioration clinique, il a reçu le quatrième cycle à pleine dose, après quoi il a été évalué comme une excellente réponse clinique (ECOG 0), par des marqueurs et radiologique (CT scan avec des signes de réponse locale, hépatique et adénopathique).
+Le patient a terminé un total de 10 cycles avec une bonne tolérance et un bon état général et il est prévu qu'il soit maintenu en fonction de la toxicité et/ou de la progression.

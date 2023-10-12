@@ -1,0 +1,24 @@
+T1	pathologie 111 133	hematuria macroscópica
+T2	pathologie 330 337	anémica
+T3	pathologie 340 349	hipotensa
+T4	pathologie 504 552	vejiga completamente ocupada por un gran coágulo
+T5	pathologie 545 560	coágulo vesical
+T6	pathologie 563 602	ureterohidronefrosis bilateral moderada
+T7	pathologie 781 803	lesiones endovesicales
+T8	pathologie 1139 1146	anémica
+T9	pathologie 1359 1414	problema obstructivo producido por la ocupación vesical
+T10	pathologie 2463 2469	lesión
+T11	pathologie 2608 2648	Amiloidosis vesical secundaria (Tipo AA)
+T12	pathologie 2890 2929	afectación sistémica por la amiloidosis
+#1	SNOMED T1	197941005
+#2	SNOMED T9	428090004+252028009
+#3	SNOMED T12	89449005
+#4	SNOMED T2	271737000
+#5	SNOMED T4	75753009+89837001
+#6	SNOMED T8	271737000
+#7	SNOMED T6	95576001+95581005
+#8	SNOMED T11	278899001
+#9	SNOMED T7	42643001
+#10	SNOMED T10	417163006
+#11	SNOMED T3	45007003
+#12	SNOMED T5	42643001

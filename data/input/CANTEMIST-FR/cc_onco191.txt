@@ -1,0 +1,27 @@
+Anamnèse
+La patiente était une femme de 84 ans sans allergies médicamenteuses ni habitudes toxiques. Ses seuls antécédents médicaux sont une méningite infantile, une hypertension artérielle sous traitement par IEC et une dyslipidémie sous traitement par statines.
+Antécédents oncologiques : en 1988, à l'âge de 57 ans, on lui a diagnostiqué un carcinome canalaire infiltrant du sein droit. Elle a été traitée par hémimastectomie avec vidange des ganglions lymphatiques (pT2N0M0, 0/10 ganglions atteints, récepteurs hormonaux indéterminés). Par la suite, elle a subi un traitement local par cobaltothérapie.
+Elle a continué à être surveillée jusqu'en 1990, date à laquelle elle a présenté une récidive locale, pour laquelle une mastectomie et un curage ganglionnaire ont été effectués (2 des 7 ganglions lymphatiques réséqués étaient atteints). Elle a terminé son traitement par une hormonothérapie adjuvante (tamoxifène pendant 2 ans).
+En 1991, peu après la deuxième rechute locale, alors qu'elle était indemne de la maladie, la patiente a commencé à présenter des signes d'instabilité de la démarche, une incapacité à lever les yeux, des céphalées temporo-pariétales bilatérales et des troubles de la vision avec apparition de myodésopsies. Un scanner a été réalisé, montrant une légère atrophie cérébelleuse. Compte tenu de la suspicion d'un possible syndrome paranéoplasique, une étude immunologique a été réalisée, qui a révélé la présence d'anticorps anti-Ri. Une maladie néoplasique a été exclue et, étant donné que les symptômes neurologiques n'étaient pas invalidants, il a été décidé de ne procéder qu'à des examens de contrôle.
+En 2006, on a diagnostiqué chez la patiente un carcinome canalaire infiltrant du sein controlatéral (gauche), pour lequel elle a subi une mastectomie et un curage ganglionnaire gauche (pT1cN0 [0/16] M0, récepteurs hormonaux positifs) et a commencé un traitement par tamoxifène adjuvant, qui a été remplacé par de l'anastrozole en raison d'une intolérance sous forme de maux de tête et d'instabilité crânienne.
+Maladie actuelle : en 2008, elle a présenté une aggravation des symptômes neurologiques, avec des céphalées holocrâniennes et une instabilité de la tête, ce qui l'a amenée à être admise en neurologie pour terminer l'étude.
+
+Examen physique
+Le patient était en bon état général, avec un examen cardiovasculaire, respiratoire et abdominal sans particularité. L'examen neurologique a révélé une incapacité à diriger le regard vertical supérieur, un tremblement d'attitude fin et une légère dysmétrie.
+
+Tests complémentaires
+"Liquide céphalo-rachidien : cristallin, cellules totales 6 cellules/mm3, érythrocytes 6 cellules/mm3, glucose 78,8 mg/dl, protéines 0,34 g/l.
+"Auto-immunité dans le sang : anticorps antinucléaires (TTR) positifs. Anticorps anti-Ri positifs.
+"IRM (2/12/2008) : atrophie marquée et hypersignal du cortex et du vermis cérébelleux. Discrète leucoaraïose. Image évoquant un petit méningiome frontal gauche de 1 x 0,7 cm sans effet de masse. Conclusion : atrophie marquée et hypersignal du cortex cérébelleux, ce qui pourrait être compatible avec une suspicion clinique de dégénérescence cérébelleuse paranéoplasique et/ou de toxicité médicamenteuse.
+"Enregistrement oculographique : parésie supranucléaire du regard vertical supérieur, avec une vitesse normale dans les saccades horizontales, un nystagmus optocinétique normal et aucun signe d'opoclonus oculaire.
+
+Diagnostic
+Syndrome d'opsoclonus-ataxie paranéoplasique (anti-Ri).
+
+Traitement
+La patiente a continué à être suivie par le service de neurologie pour les taux d'anti-Ri, qui sont restés positifs. Il a été décidé de ne pas initier de traitement immunomodulateur, étant donné que l'état clinique est resté stable et que seuls les symptômes moteurs (tremblements) ont été traités avec des benzodiazépines.
+En outre, étant donné qu'il n'y avait aucune preuve d'une rechute de la maladie néoplasique, des contrôles stricts ont été effectués par l'oncologie médicale.
+
+Évolution
+Actuellement, 9 ans après le diagnostic du second néoplasme et 24 ans après le diagnostic du syndrome paranéoplasique, à l'âge de 84 ans, la patiente a présenté une détérioration de son état général, avec une augmentation des marqueurs tumoraux, pour laquelle une étude d'extension a été réalisée, dans laquelle une progression aux niveaux pulmonaire, hépatique et péritonéal a été observée, pour laquelle un traitement de première ligne par létrozole a été initié compte tenu des caractéristiques de la patiente (âge, ECOG et comorbidités).
+En outre, parallèlement au diagnostic de récidive de la maladie, la patiente a présenté une hématurie franche et on a diagnostiqué un néoplasme urothélial synchrone, qui a été traité le 15 avril 2015 au moyen d'une résection transurétrale. A ce jour, la patiente continue d'être traitée par létrozole, avec une bonne tolérance clinique et dans l'attente d'une réévaluation de la maladie.

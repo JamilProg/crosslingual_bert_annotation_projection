@@ -1,0 +1,26 @@
+T1	pathologie 45 61	diabética tipo 2
+T2	pathologie 105 115	hipertensa
+T3	pathologie 202 217	ictus isquémico
+T4	pathologie 1040 1065	insuficiencia renal aguda
+T5	pathologie 1616 1637	cistitis enfisematosa
+T6	pathologie 1756 1822	dilatación de la vesícula y de la vía biliar intra y extrahepática
+T7	pathologie 1839 1855	coledocolitiasis
+T8	pathologie 2085 2106	ictericia obstructiva
+T9	pathologie 2109 2130	cistitis enfisematosa
+T10	pathologie 2358 2379	cistitis enfisematosa
+T11	pathologie 2384 2405	ictericia obstructiva
+T12	pathologie 2520 2553	cálculos a nivel de la vía biliar
+T13	pathologie 2961 2969	lesiones
+#1	SNOMED T8	59848001
+#2	SNOMED T1	44054006
+#3	SNOMED T9	52123000
+#4	SNOMED T5	52123000
+#5	SNOMED T3	422504002
+#6	SNOMED T4	723189000
+#7	SNOMED T10	52123000
+#8	SNOMED T11	59848001
+#9	SNOMED T7	307132003
+#10	SNOMED T12	266474003
+#11	SNOMED T2	38341003
+#12	SNOMED T13	157670007
+#13	SNOMED T6	300344005+1082431000119108

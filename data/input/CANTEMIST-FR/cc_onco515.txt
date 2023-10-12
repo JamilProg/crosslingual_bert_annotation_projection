@@ -1,0 +1,25 @@
+Anamnèse
+Nous présentons le cas d'un homme de 47 ans, originaire d'Alicante, ouvrier du bâtiment, marié et père de deux enfants, bénéficiant d'un bon soutien social et familial.
+Le patient a consulté son médecin traitant en octobre 2008 (à l'âge de 36 ans) pour une toux avec expectoration hémoptotique occasionnelle qui durait depuis 4 jours, associée à une fièvre fébrile sans autre manifestation clinique.
+
+Examen physique
+A l'examen, le patient est en bon état général, avec une légère hypophonie au niveau du lobe supérieur droit du poumon (LSD), le reste de l'examen étant normal.
+
+Examens complémentaires
+Une radiographie du thorax a été demandée à son médecin traitant et a révélé une masse dans le lobe supérieur droit. L'étude a été complétée par une tomodensitométrie thoraco-abdominale-pelvienne qui a confirmé la présence d'une masse de 3,5 cm dans le lobe supérieur droit évoquant une néoplasie pulmonaire, ainsi que d'un nodule millimétrique sous-pleural, sans aucun autre résultat à d'autres niveaux.
+Un PET-CT a également été réalisé et la masse présentait un SUV maximal de 16,7. L'IRM cérébrale a exclu la présence de métastases à ce niveau.
+Diagnostic
+Après avoir effectué une biopsie à l'aiguille au niveau de la lésion dans le lobe supérieur droit, le patient a reçu un diagnostic d'adénocarcinome pulmonaire cT2cN1M0.
+
+Traitement
+En décembre 2008, il a subi une lobectomie supérieure droite, une lobectomie supérieure droite et une lymphadénectomie médiastinale du hile droit. Par la suite, il a bénéficié de 4 cycles de chimiothérapie adjuvante par cisplatine-vinorelbine, qui se sont terminés en avril 2009.
+En novembre 2011, elle a continué à être suivie à la consultation externe d'oncologie, et on lui a découvert une rechute pulmonaire et une seule métastase cérébrale de 5 mm dans la région pariétale gauche, pour laquelle elle a reçu une radiothérapie holocrânienne palliative du 28/11/2011 au 13/12/2011, sans toxicité aiguë.
+Parallèlement, une recherche de mutation de l'EGFR a été demandée, qui s'est révélée négative, de sorte qu'une chimiothérapie de première intention par cisplatine-pemetrexed a été entamée en décembre 2011. Elle a reçu quatre cycles avec une réponse partielle mineure au niveau thoracique et une stabilité de la lésion cérébrale. Étant donné la persistance de la lésion cérébrale unique, le traitement a été administré par radiothérapie stéréotaxique (SBRT), et le pemetrexed d'entretien a été commencé, mais a été interrompu après le septième cycle en raison d'une néphrite interstitielle secondaire au médicament.
+En juillet 2013, la lésion pariétale gauche s'est agrandie à l'imagerie par résonance magnétique (IRM) du cerveau, et il a subi une craniotomie, avec des résultats histopathologiques compatibles avec la gliose et la nécrose.
+En septembre 2013, une nouvelle progression pleurale et ganglionnaire a été observée dans le diaphragme et la région hilaire droite. Une mutation ALK a été demandée et s'est révélée positive (novembre 2013). Elle a été mise sous crizotinib à raison de 200 mg/24 heures (ajusté pour la bradycardie), avec une réponse partielle.
+Trois ans plus tard, elle a présenté une nouvelle progression de la maladie dans le cerveau, avec l'apparition de trois nouvelles lésions, et il a été décidé de la traiter par SBRT, qu'elle a reçue entre le 02/03/2016 et le 14/03/2016 avec une dose totale de 30 Gy.
+L'IRM cérébrale après SBRT a montré l'apparition de nouvelles lésions millimétriques supratentorielles. Il a été décidé de poursuivre les contrôles trimestriels (car il avait déjà reçu une radiothérapie holocrânienne, deux SBRT et une chirurgie cérébrale).
+En novembre 2017, la maladie a de nouveau progressé au niveau des poumons et du cerveau. Elle a débuté un traitement par alectinib à 600 mg toutes les 12 heures avec une réduction des lésions cérébrales et pulmonaires.
+
+Évolution
+Lors des contrôles ultérieurs, le patient a présenté une bonne évolution, étant actuellement asymptomatique, totalement indépendant pour les activités de la vie quotidienne, et développant une vie tout à fait normale.

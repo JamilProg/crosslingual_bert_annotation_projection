@@ -1,0 +1,38 @@
+T1	pathologie 31 39	obesidad
+T2	pathologie 41 62	hipertensión arterial
+T3	pathologie 64 67	HTA
+T4	pathologie 70 94	diabetes mellitus tipo 2
+T5	pathologie 96 117	cardiopatía isquémica
+T6	pathologie 119 121	FA
+T7	pathologie 123 162	enfermedad pulmonar obstructiva crónica
+T8	pathologie 164 168	EPOC
+T9	pathologie 172 199	síndrome de apnea del sueño
+T10	pathologie 785 793	arritmia
+T11	pathologie 1121 1172	insuficiencia venosa crónica en miembros inferiores
+T12	pathologie 1530 1533	HTA
+T13	pathologie 1535 1556	cardiopatía isquémica
+T14	pathologie 1676 1695	agudización de EPOC
+T15	pathologie 1776 1787	bradicardia
+T16	pathologie 2010 2018	FA lenta
+T17	pathologie 2216 2218	FA
+T18	pathologie 2223 2251	bloqueo aurículo-ventricular
+T19	pathologie 2263 2286	bloqueo de rama derecha
+#1	SNOMED T16	49436004
+#2	SNOMED T1	414916001
+#3	SNOMED T2	38341003
+#4	SNOMED T10	698247007
+#5	SNOMED T3	38341003
+#6	SNOMED T4	44054006
+#7	SNOMED T12	38341003
+#8	SNOMED T13	194828000
+#9	SNOMED T5	194828000
+#10	SNOMED T6	49436004
+#11	SNOMED T7	13645005
+#12	SNOMED T8	13645005
+#13	SNOMED T9	73430006
+#14	SNOMED T14	195951007
+#15	SNOMED T17	49436004
+#16	SNOMED T18	233917008
+#17	SNOMED T19	59118001
+#18	SNOMED T11	234050002
+#19	SNOMED T15	48867003

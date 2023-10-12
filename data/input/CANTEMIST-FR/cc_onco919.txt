@@ -1,0 +1,27 @@
+Anamnèse
+Nous présentons le cas d'un homme marié de 77 ans, ouvrier coffreur à la retraite. Ex-fumeur depuis 20 ans (35-40 paquets-année).
+Syndrome de Lynch de type II, pour lequel il subit des coloscopies totales annuelles depuis 2007. Dernière coloscopie (août/16 diagnostic : hémorroïdes) et dernière gastroscopie (janvier/17 diagnostic : œsophagite peptique).
+Suivi pour adénocarcinome (ADC) du poumon pT2pN0 du LSD réséqué en septembre 2015, immunohistochimie (IHQ) (CK7+, CK20-, P40-, TTF1-) ; moléculaire : wtEGFR, ALK (-), ROS1 (-), pas de signes de récidive.
+ADC de la prostate pT3b, Gleason 3 + 4 avec des marges positives, une radiothérapie (RT) avec une dose totale de 66 Gy a été effectuée, se terminant en octobre 2009, et continue les contrôles avec des chiffres stables de PSA.
+Incidentalome surrénalien de 10 mm.
+Epilepsie depuis l'enfance, traitée par phénytoïne et phénobarbital (dernière crise il y a plus de 40 ans).
+Broncho-pneumopathie chronique obstructive (BPCO) suivie par la pneumologie et traitée par bromure d'aclidinium.
+Maladie d'Alzheimer, traitée par donépézil.
+Il s'est présenté aux urgences en signalant des douleurs abdominales diffuses prédominant dans l'épigastre et le mésogastre depuis près d'un an, exacerbées par la prise d'aliments et parfois la nuit, ce qui le réveillait. Perte de poids de 10 kg en un an, liée à une diminution de l'apport alimentaire. Il a rapporté un rythme de défécation de 1 fois/jour, Bristol 3-4, sans sang. Il présentait également des vomissements alimentaires et bilieux, précédés de nausées d'une semaine d'évolution, incoercibles lors de la consultation aux urgences, qui ont conduit à son admission à l'hôpital.
+
+Examen physique
+Le patient présentait un état de performance ECOG (Eastern Cooperative Oncology Group Performance Status) de 1. Il présentait une déshydratation, une hypertension, un abdomen douloureux à la palpation de l'épigastre, de l'hypochondre droit et du mésogastre, sans signes clairs d'abdomen chirurgical aigu.
+
+Examens complémentaires
+AS a montré une anémie normochrome-normochrome, radiographie abdominale : légère dilatation des anses de l'intestin grêle.
+Dans le contexte d'un patient présentant un syndrome constitutionnel, des douleurs abdominales, des vomissements et des antécédents de syndrome de Lynch, d'ADC pulmonaire, d'ADC prostatique, de gastro-colonoscopie réalisée il y a moins d'un an et en l'absence de résultats justifiant le tableau clinique, une tomodensitométrie (TDM) thoraco-abdominale a été demandée, qui a montré une intussusception jéjuno-iléale et un kyste splénique non spécifique.
+
+Diagnostic
+Occlusion intestinale due à une invagination jéjuno-iléale, chez un homme de 77 ans aux antécédents de syndrome de Lynch de type II et présentant un ADC pulmonaire pT2pN0 réséqué en 2015, sans dissémination à distance évaluée dans les contrôles effectués par l'Oncologie médicale jusqu'à cette date.
+
+Traitement
+Le service de chirurgie a procédé à une laparotomie exploratrice (03/02/17), révélant une tumeur ombiliquée sur le bord antimésentérique de l'intestin grêle, avec résection jéjuno-iléale segmentaire + anastomose latéro-latérale. Dans la période postopératoire, le patient a évolué de façon satisfaisante et a pu quitter l'hôpital.
+Le résultat de l'anatomopathologie (AP) a montré que la pièce de résection chirurgicale était compatible avec une métastase ADC d'un poumon primaire connu, IHQ : (CK7+, CK20-, P40-, TTF1-, NapsinA-) (CDX2-, PSA-, MSH6, PMS2 et MLH1 +).
+
+Évolution
+Trois semaines plus tard, le patient a été réadmis pour un syndrome diarrhéique, sans fièvre, vomissements ou douleurs abdominales, avec des cultures de selles négatives, une toxine C. difficile négative, et a finalement été diagnostiqué comme un dysfonctionnement préopératoire temporaire de l'iléon, distal par rapport à la zone d'occlusion par l'invagination (excluant l'intestin court), contrôlé par un traitement symptomatique ; cependant, lors de la TEP-TDM de contrôle programmée, une lésion hypodense (SUVmax. 9,7g/ml) a été trouvée dans le pôle supérieur de la rate, suggérant une tumeur maligne, et un CT-FPPA splénique a donc été réalisé, qui était compatible avec l'ADC. Il a ensuite été programmé pour une splénectomie laparoscopique (18/04/17), avec AP définitive d'une métastase d'ADC peu différencié d'origine pulmonaire avec un diamètre maximum de 3 cm, IHQ : (CK7+, CK20-, P40-, TTF1-). La patiente est actuellement suivie dans nos cliniques (dernier 20/06/17), sans signes ou résultats compatibles avec une maladie métastatique.

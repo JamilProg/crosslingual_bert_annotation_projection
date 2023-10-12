@@ -1,0 +1,16 @@
+T1	pathologie 49 53	EPOC
+T2	pathologie 55 62	fumador
+T3	pathologie 84 100	bebedor moderado
+T4	pathologie 479 504	infiltración mediastínica
+T5	pathologie 1042 1054	plasmocitoma
+T6	pathologie 1140 1154	tumor esternal
+T7	pathologie 1540 1545	tumor
+T8	pathologie 1561 1586	infiltración mediastínica
+#1	SNOMED T1	13645005
+#2	SNOMED T2	77176002
+#3	SNOMED T8	94409002
+#4	SNOMED T5	415112005
+#5	SNOMED T4	94409002
+#6	SNOMED T3	7200002
+#7	SNOMED T6	126559003
+#8	SNOMED T7	55342001

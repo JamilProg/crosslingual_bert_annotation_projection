@@ -1,0 +1,38 @@
+Anamnèse
+1991 : carcinome rénal à cellules claires pTxNxM0.
+Décembre 2013 : récidive du muscle soléaire gauche de 10 x 13 cm à l'IRM, confirmée par un carcinome rénal à cellules claires BAG.
+
+Examen physique
+ECOG 0 depuis le diagnostic. Vie active.
+
+Tests complémentaires
+Voir les images
+
+Diagnostic
+Janvier 2014 : M1 surrénalien gauche de 3,2 cm, M1 pulmonaire subcentimétrique multiple bilatéral.
+
+Traitement
+1ère ligne : pazopanib 800 mg/jour 13/03/14. RTP sur le veau avril 2014. Toxicité du pazopanib : hypertransaminasémie G3, résolue après suspension du traitement pendant une semaine. Reprise à pleine dose. CT scan 11/07/14 (après 3 cycles de pazopanib) : élargissement de la masse MID jumelle et nodules pulmonaires de plusieurs mm, le plus grand 1,6 cm en LII et M1 surrénalien gauche mesurant 3,9 x 2,3 cm.
+2ème ligne : évérolimus 10 mg/jour débuté le 05/08/14. IRM MID 22/9/14 : œdème des tissus mous dans le tissu cellulaire sous-cutané avec lésion du soléaire de 7 cm (13 cm précédemment). TDM novembre 2014 : nouveau nodule pulmonaire parahilaire gauche agrandissement d'un de 1,3 cm (précédent 1 cm) dans LII, diminution et disparition des autres nodules pulmonaires, diminution de la taille de M1 SR gauche de 1,6 cm (précédent 3,5). Écho : tissus mous novembre 2014 : RP de la masse dans le soléaire. PET-CT 01/10/15 : LII pulmonaire M1 qui par rapport au CT précédent sont augmentés en taille, adénopathie hilaire gauche avec SUVmax = 8 ainsi que le para-œsophagien ipsilatéral, SUVmax = 9,1. surrénale gauche SUVmax = 7,3. Fin du traitement le 23/07/15.
+3ème ligne : sunitinib 50 mg 4:2 débuté le 09/10/15. Toxicité : mucosite G1, EPP G1, anorexie et asthénie G2. Tomodensitométrie en février 2016 : hypertrophie de la masse pulmonaire LII de 4,3 cm (3 précédemment) et hypertrophie de l'adénopathie para-œsophagienne gauche de 1,9 cm (1,7 précédemment) et hilaire gauche de 2,4 cm (2 précédemment), M1 SR gauche inchangée. Le traitement a pris fin le 29/12/15.
+4e ligne : nivolumab 3 mg/kg iv toutes les 2 semaines. Initié le 26/02/16 en tant qu'usage compassionnel.
+
+Evolution
+ Après 5 cycles, le patient souffre d'une hypothyroïdie subclinique (TSH 30 mUI/l T4 normale, il commence donc la Lévothyroxine 50 mg/jour le 11/5/16).
+ CT scan 15/6/2016 (après 7ème cycle) : PR de 42% avec réduction des adénopathies médiastinales, nodule pulmonaire LII et masse surrénalienne gauche.
+ 20/06/16 : augmentation de la lévothyroxine à 75 mg/jour en raison d'une TSH > 50 mUI/l.
+ Juillet 2016 : arthromyalgie G1. TSH 32,3 mUI/l, T4 0,62 T4 0,62 : augmentation de la lévothyroxine à 100 mg/jour.
+ CT scan 7/9/16 (après 13ème cycle) : apparition de multiples formations nodulaires spiculées à prédominance périphérique dans les 2 hémithorax avec quelques bronchogrammes aériens, possibilité de surinfection, champignons ( ?).
+ Le SIU a été contacté, le galactomannane a été demandé (négatif), le Mantoux (négatif), la FBC et il a été décidé de poursuivre le 14e cycle de nivolumab administré le 19/09/16.
+ FBC 04/11/16 : négatif. Culture de mycobactéries négative. Cytologie négative.
+ Poursuite du nivolumab jusqu'au 19e cycle administré le 13/12/16.
+ CT scan PS 16/12/16 : progression des lésions pulmonaires, actuellement avec un motif interstitiel-alvéolaire périphérique, bilatéral, tendant à la confluence et avec bronchogramme.
+Pneumopathie immunoréférencée G2.
+ Nous avons suspendu le nivolumab.
+ Nous avons débuté la méthylprednisolone à 1 mg/kg (80 mg vo c/24 heures) x 15 jours, avec réduction à 40 mg vo c/24 heures x 15 jours jusqu'à une nouvelle évaluation clinique.
+ Consultations externes en janvier 2017 : légère amélioration de la toux, mais apparition de brûlures d'estomac, rétention hydrique, légère hyperglycémie, hypertension, insomnie, etc. Toxicité secondaire à la corticothérapie.
+ CT scan 27/2/17 : disparition pratique des infiltrats pulmonaires, aucune métastase pulmonaire, ganglionnaire ou surrénalienne n'a été observée.
+ Il s'est rendu à la clinique externe le 07/03/17 :
+ Examens de laboratoire 03/03/17 : créatinine 1,3 mg/dl, TSH > 46 000 mIU/L, T4
+ Contrôle clinique et analytique avec profil thyroïdien dans un mois.
+ Scanner dans 2 mois.

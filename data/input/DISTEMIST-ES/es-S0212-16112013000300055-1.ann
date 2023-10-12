@@ -1,0 +1,34 @@
+T1	pathologie 51 75	diabetes mellitus tipo 2
+T2	pathologie 103 125	mal control metabólico
+T3	pathologie 127 177	trombofilia por mutación del gen de la protrombina
+T4	pathologie 179 200	obesidad supermórbida
+T5	pathologie 244 260	Colitis Ulcerosa
+T6	pathologie 262 264	CU
+T7	pathologie 358 366	diabetes
+T8	pathologie 754 756	CU
+T9	pathologie 933 954	desnutrición proteica
+T10	pathologie 983 1004	gastroenteritis aguda
+T11	pathologie 1093 1115	hipoalbuminemia severa
+T12	pathologie 1183 1185	CU
+T13	pathologie 1243 1269	intolerancias alimentarias
+T14	pathologie 1381 1389	Diabetes
+T15	pathologie 1871 1877	anemia
+T16	pathologie 1882 1892	ferropenia
+T17	pathologie 1963 2000	desnutrición calórico-proteica severa
+#1	SNOMED T17	360549009
+#2	SNOMED T1	44054006
+#3	SNOMED T11	119247004
+#4	SNOMED T3	440989002
+#5	SNOMED T12	64766004
+#6	SNOMED T4	238136002
+#7	SNOMED T15	271737000
+#8	SNOMED T13	235719002
+#9	SNOMED T5	64766004
+#10	SNOMED T6	64766004
+#11	SNOMED T7	73211009
+#12	SNOMED T14	73211009
+#13	SNOMED T8	64766004
+#14	SNOMED T9	58262005
+#15	SNOMED T10	69776003
+#16	SNOMED T2	75934005
+#17	SNOMED T16	165623008

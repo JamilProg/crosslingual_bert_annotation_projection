@@ -1,0 +1,33 @@
+Anamnèse
+Voir ci-dessous
+
+Examen physique
+Voir ci-dessous
+
+Tests complémentaires
+Voir ci-dessous
+
+Diagnostic
+Voir ci-dessous
+
+Traitement
+Voir ci-dessous
+
+L'évolution
+Il s'agit d'une femme de 52 ans qui travaille comme employée de bureau et vit avec son mari. Elle a deux enfants. Ménarche à l'âge de 13 ans, avec deux enfants nés vivants et aucun avortement. Elle n'a pas d'allergies et n'a pas d'habitudes toxiques. Elle n'a pas d'antécédents familiaux de cancer ni d'antécédents personnels d'intérêt.
+
+Son premier néoplasme a été diagnostiqué à la suite de l'auto-palpation d'un nodule dans le sein droit en 1997, et une échographie avec FNA a été réalisée, qui n'a pas été concluante. L'IRM mammaire a révélé une zone de captation irrégulière de 2 cm située à la jonction des quadrants supérieurs du sein droit, de sorte qu'une BAG de la lésion a été réalisée, qui s'est révélée positive pour les cellules d'adénocarcinome. En mai 1997, une mastectomie droite de type Madden avec ablation des ganglions lymphatiques a été pratiquée. L'anatomie pathologique fait état d'un carcinome canalaire infiltrant, grade I, pT1b N0M0, récepteurs hormonaux positifs pour les œstrogènes et la progestérone, avec un traitement hormonal complémentaire au tamixifène pendant 5 ans. Elle a suivi les contrôles sans aucun signe de récidive du néoplasme à ce jour.
+
+En décembre 2011, elle s'est présentée avec un changement de rythme des selles et du sang dans les selles. L'examen physique, le toucher rectal, le sang au bout du doigt, aucune masse n'était palpable. Les examens de laboratoire n'ont révélé aucune anémie, aucune altération de la fonction rénale ou hépatique, une légère élévation de l'ACE à 9,6 ng/ml (limite de 5 ng/ml). Une coloscopie a été pratiquée et a révélé une masse ulcérée d'apparence néoplasique dans l'angle splénique du côlon. La biopsie a révélé un adénocarcinome infiltrant de bas grade histologique (grade II) d'origine colorectale probable avec K-Ras muté. L'étude d'extension a été complétée par un scanner thoraco-abdominal qui a révélé des lésions métastatiques focales dans le foie. La plus grande lésion mesurait 29 mm entre les segments IVa et VIII, avec deux lésions plus petites de 9 et 5 mm. L'étude a été complétée par une IRM hépatique qui a confirmé le nombre et les caractéristiques des lésions hépatiques focales et par une TEP-TDM qui n'a pas montré de captation dans d'autres localisations.
+
+Sur la base de ces résultats, il a été estimé qu'il s'agissait d'un adénocarcinome du côlon de stade IV (pTxNxM1), et une chimiothérapie primaire a été mise en place, FOLFOX-6m (oxaliplatine, acide folinique, fluorouracile) avec bevacizumab, suivie d'une évaluation du sauvetage chirurgical de la tumeur primaire et des lésions hépatiques.
+
+Il a subi cinq cycles, le dernier sans bevacizumab, de décembre 2011 à février 2012, avec une excellente tolérance sans nécessiter de retard de traitement ou d'ajustement de dose. Une IRM hépatique a été réalisée pour évaluer la réponse, montrant une réduction de la lésion de 29 mm à 15 mm, et les deux lésions restantes n'ont pas été visualisées. Compte tenu de la réponse, un sauvetage chirurgical, une hépatectomie gauche et une hémicolectomie droite élargie ont été réalisés en mai 2012. L'anatomie pathologique a révélé une réponse pathologique complète. Il a ensuite terminé la chimiothérapie avec quatre cycles supplémentaires de FOLFOX-6m et de bevacizumab, qui s'est terminée en août 2012.
+
+Bien que la famille ne réponde pas aux critères cliniques stricts pour l'étude des gènes BRCA1/2, compte tenu du jeune âge au moment du diagnostic et de la chimiosensibilité, une étude génétique a été proposée, détectant la mutation c.7180A>T dans l'exon 14 du gène BRCA 2.
+
+Compte tenu de la réponse pathologique complète de la néoplasie du côlon, la patiente a été informée de l'option d'une salpingo-ovariectomie bilatérale prophylactique, qui a été réalisée en mars 2014, sans preuve de pathologie néoplasique ovarienne ou tubaire.
+
+Une étude génétique prédictive a également été réalisée sur ses apparentés directs (voir arbre généalogique : A noter que sa mère et sa tante maternelle, âgées de 80 et 83 ans, sont toutes deux porteuses de la même mutation du gène BRCA2, et n'ont pas développé de néoplasie, ce qui rappelle le phénomène d'anticipation qui a été décrit pour ces gènes, ainsi que l'influence d'autres facteurs modificateurs de risque chez les porteurs de mutations des gènes BRCA1/2 (génétiques et environnementaux).
+
+La patiente est restée indemne de la maladie jusqu'en juillet 2013, date à laquelle elle a présenté une nouvelle douleur lombosacrée, avec des caractéristiques inflammatoires, de sorte qu'une IRM sacro-iliaque a été réalisée, qui a révélé une lésion lytique détruisant le cortex antérieur de l'aile iliaque gauche, ce qui suggère une métastase. L'étude a été complétée par une TEP-TDM et une scintigraphie, qui ont permis d'éliminer d'autres lésions. Étant donné qu'il s'agissait d'une métastase osseuse unique, une radiochirurgie a été pratiquée sur la lésion, suivie d'une TEP-TDM de contrôle où le patient a présenté une réponse clinique et métabolique complète, sans aucun signe de récidive de la maladie à ce jour (3 ans de suivi).

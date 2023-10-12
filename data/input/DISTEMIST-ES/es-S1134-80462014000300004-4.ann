@@ -1,0 +1,10 @@
+T1	pathologie 39 59	esguince del tobillo
+T2	pathologie 89 111	SDRC del tobillo y pie
+T3	pathologie 224 235	traumatismo
+T4	pathologie 281 338	billo y el pie derecho que también se diagnostica de SDRC
+T5	pathologie 334 338	SDRC
+#1	SNOMED T1	44465007
+#2	SNOMED T2	734987002
+#3	SNOMED T4	734987002
+#4	SNOMED T3	417746004
+#5	SNOMED T5	128200000

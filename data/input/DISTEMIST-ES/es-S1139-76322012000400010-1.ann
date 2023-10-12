@@ -1,0 +1,8 @@
+T1	pathologie 290 314	enfermedades infecciosas
+T2	pathologie 700 728	fractura-avulsión de la EIAI
+T3	pathologie 942 948	lesión
+T4	pathologie 1098 1104	lesión
+#1	SNOMED T2	426679004
+#2	SNOMED T1	394807007
+#3	SNOMED T3	417163006
+#4	SNOMED T4	417163006

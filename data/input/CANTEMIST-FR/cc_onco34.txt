@@ -1,0 +1,36 @@
+Anamnèse
+Un homme de 45 ans s'est présenté au service des urgences en décembre 2014 pour une douleur thoracique qui durait depuis un mois. La douleur était continue, sans rapport avec le mouvement, bien qu'elle augmente en décubitus latéral. Elle n'était pas accompagnée de symptômes végétatifs. Aucun antécédent de traumatisme ou de surmenage n'a été signalé. Le patient présentait une toux avec expectoration blanchâtre et était actuellement traité par céfuroxime pour une infection des voies respiratoires supérieures.
+
+Il est particulièrement intéressant de noter la résection d'un kyste médiastinal à l'âge de 7 ans (possible tératome ; aucun rapport n'a été fourni et aucun suivi n'a été effectué), sans aucune autre pathologie connue. Il fume 10 cigarettes par jour. Il n'a pas d'antécédents familiaux de note.
+
+Examen physique
+Le patient est conscient et orienté. Hydraté. Coloration normale de la peau et des muqueuses. Eupnéique. Il est coopératif. Poitrine : cicatrice d'incision de thoracotomie latérale droite. Auscultation cardiaque : tonalités rythmiques ; pas de souffle. Auscultation pulmonaire : murmure vésiculaire conservé dans les deux champs (plan postérieur). Murmure vésiculaire atténué dans le champ pulmonaire gauche (plan antérieur). Abdomen : mou et dépressible ; non douloureux à la palpation ; hépatomégalie de deux largeurs de doigt. Membres supérieurs et inférieurs : aucune altération.
+
+Tests complémentaires
+"ECG : rythme sinusal à 75 bpm, axe QRS à 60º, pas d'altérations de la repolarisation.
+"Examens de laboratoire : pas d'anomalies significatives (hémogramme, biochimie, coagulation).
+"Radiographie du thorax : masse dans la région antérieure du champ pulmonaire gauche, occupant pratiquement toute sa surface.
+"Le service des urgences a demandé une tomodensitométrie urgente du thorax, qui a montré une masse dans le médiastin antérieur mesurant 10 x 12 x 12 cm, faisant saillie dans l'hémithorax gauche, avec de multiples formations sphériques à l'intérieur, ainsi que des calcifications irrégulières sur ses parois. Il produit un effet compressif, provoquant des atélectasies dans le parenchyme adjacent.
+"Sur les coupes axiales abdominales acquises, de multiples lésions hépatiques focales sont identifiées.
+Compte tenu de ces résultats, le diagnostic d'hydatidose a été posé comme première possibilité, sans pouvoir exclure un processus néoformatif, de sorte que la patiente a été admise en médecine interne pour un bilan diagnostique plus approfondi.
+"L'étude a été complétée par un scanner abdominal, montrant de multiples lésions hépatiques focales d'aspect nécrotique avec rehaussement périphérique, réparties pratiquement dans tout le parenchyme hépatique. Adénopathies dans le ligament gastro-hépatique jusqu'à 8 mm. Le pancréas, la rate, les glandes surrénales et les deux reins ne sont pas touchés. Pas de liquide libre ni d'atteinte de la trame osseuse évaluée.
+"Le service de radiologie a suggéré des lésions compatibles avec un tératome avec dégénérescence maligne, avec des métastases hépatiques.
+"Scintigraphie osseuse : aucune lésion osseuse évocatrice de métastases n'a été observée.
+"Marqueurs tumoraux (AFP, B-HCG) : normaux.
+
+Diagnostic
+Une fois les examens d'imagerie décrits ci-dessus réalisés, et avec les résultats de l'anatomie pathologique, il s'agit d'un tératome malin médiastinal de stade IV (métastases hépatiques).
+
+Traitement
+En janvier 2015, la patiente a été transférée dans le service d'oncologie pour commencer le traitement par chimiothérapie. Le traitement a été décidé selon le schéma BEP sur une base trihebdomadaire (cisplatine 20 mg/m2, jours 1 à 5, étoposide 100 mg/m2, jours 1 à 5, bléomycine 30 mg, jours 2, 9 et 16), dont il a bénéficié de trois cycles. Une adaptation de la dose est nécessaire en raison de la toxicité hématologique.
+
+Evolution
+Au cours de l'administration des cycles de chimiothérapie, le patient souffre de plusieurs épisodes infectieux, à dominante respiratoire, qui entraînent son admission dans le service d'oncologie pour septicémie et insuffisance respiratoire, ce qui provoque des retards dans l'administration des cycles.
+
+Les radiographies thoraciques de contrôle ont montré une augmentation de la masse médiastinale, de sorte qu'après le troisième cycle, une étude de réévaluation a été réalisée avec un scanner thoraco-abdomino-pelvien. Celui-ci a confirmé l'augmentation de 1 cm de la masse médiastinale, mais a montré une réponse partielle des lésions hépatiques.
+
+En raison des complications causées par la masse médiastinale (douleur, insuffisance respiratoire, infections nécessitant une admission en antibiothérapie), ainsi que du risque de rupture de la lésion, et compte tenu de la réponse des lésions hépatiques, le cas a été évalué par le service de chirurgie thoracique afin d'envisager la résection de la masse médiastinale. Il a été décidé d'administrer un quatrième cycle avant l'opération et après l'opération.
+
+Le patient a été opéré sans incident le 28 avril par sternotomie médiane, avec résection complète de la masse médiastinale, décrite dans l'acte chirurgical comme une masse antérieure d'environ 15 cm, avec un contenu mucineux et du matériel dense à l'intérieur. L'anatomie pathologique de la lésion est compatible avec un tératome kystique nécrotique.
+
+Le patient a eu une évolution postopératoire sans complication. Il termine actuellement sa chimiothérapie avec les cinquième et sixième cycles de BEP, en attendant une réévaluation par tomodensitométrie.

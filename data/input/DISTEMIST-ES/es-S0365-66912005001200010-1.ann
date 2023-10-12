@@ -1,0 +1,38 @@
+T1	pathologie 21 28	ceguera
+T2	pathologie 115 132	tumor intraocular
+T3	pathologie 165 175	hipoacusia
+T4	pathologie 209 226	neurofibromatosis
+T5	pathologie 250 273	cataratas en ambos ojos
+T6	pathologie 276 284	glaucoma
+T7	pathologie 419 428	amaurosis
+T8	pathologie 453 471	nistagmus pendular
+T9	pathologie 529 545	coloboma de iris
+T10	pathologie 547 559	pseudofaquia
+T11	pathologie 571 588	seclusión pupilar
+T12	pathologie 594 637	ampolla de filtración de la trabeculectomia
+T13	pathologie 753 787	coloboma de retina y nervio óptico
+T14	pathologie 868 893	desprendimiento de retina
+T15	pathologie 1139 1187	lesión polipoidea en temporal inferior del globo
+T16	pathologie 1283 1303	melanoma amelanótico
+T17	pathologie 1367 1413	lesión extraocular a la salida del NO quística
+T18	pathologie 1493 1519	tumor intraocular y del NO
+T19	pathologie 2056 2111	cambios quísticos y calcificaciones en el filete óptico
+#1	SNOMED T1	105597003
+#2	SNOMED T2	371486001
+#3	SNOMED T3	15188001
+#4	SNOMED T4	19133005
+#5	SNOMED T5	95722004
+#6	SNOMED T6	23986001
+#7	SNOMED T7	70449006
+#8	SNOMED T8	35743001
+#9	SNOMED T9	9446007
+#10	SNOMED T11	57286009
+#11	SNOMED T13	39302008+95499004
+#12	SNOMED T14	42059000
+#13	SNOMED T17	77157004
+#14	SNOMED T18	395505000
+#15	SNOMED T16	70594002
+#16	SNOMED T10	95217000
+#17	SNOMED T15	300849006
+#18	SNOMED T19	371405004
+#19	SNOMED T12	283117008

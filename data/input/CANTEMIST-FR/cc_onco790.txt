@@ -1,0 +1,38 @@
+Anamnèse
+Patiente de 24 ans avec des antécédents personnels : chirurgie de la membrane sous-aortique à l'âge de 6 ans, avec insuffisance aortique modérée et sténose aortique légère due à une sténose aortique, sans répercussion sur la fonction ventriculaire, lors des contrôles annuels. Elle ne prend pas de traitement régulier et n'a pas d'allergie médicamenteuse connue. Réaction au contraste iodé.
+Elle a été admise dans un autre centre pour dysphonie, hémoptysie et douleur associée à l'épaule gauche. L'examen ORL étant normal, la patiente a été adressée au service de pneumologie.
+Une tomodensitométrie (TDM) du thorax a révélé une masse importante mesurant 13,9 x 10,4 x 12,5 cm et un test sanguin a révélé une alpha-fœtoprotéine (AFP) de 15 963.
+Une bronchoscopie et une ponction à l'aiguille fine de la masse médiastinale ont été effectuées, mais le matériel obtenu n'était pas suffisant pour établir un diagnostic.
+Avec une forte suspicion de tumeur germinale, elle a été admise dans notre hôpital pour compléter l'étude et commencer le traitement.
+
+Examen physique
+"ECG 0.
+"TA 126/69 mm Hg, FC 75 bpm.
+"Eupnéique au repos. Pas d'ingurgitation jugulaire, pas d'œdème facial ou sellaire.
+"Auscultation cardiorespiratoire : tons rythmiques, pas de souffle audible. Murmure vésiculaire préservé, pas de rhonchi ni de crépitant.
+"Abdomen : mou et dépressible, non douloureux à la palpation, pas de masses ni de mégalithes.
+"Examen des testicules : normal, pas de masses.
+"Pas d'adénopathie inguinale.
+
+Examens complémentaires
+" Tomodensitométrie (TDM) corporelle, novembre 2015 (au moment du diagnostic) : thorax : volumineuse masse pulmonaire hétérogène, mesurant environ 139 x 104 x 125 mm au niveau apical antérieur dans le LSI s'étendant dans le médiastin et déplaçant l'artère pulmonaire principale avec amincissement de la branche gauche, associée à une atélectasie de la lingula en rapport avec un processus néoprolifératif avec des signes de nécrose. Micronodule de 3 mm dans le segment antérieur du LSD. Adénomégalie de 24 et 16 mm dans la région hilaire gauche. Le cavum et l'abdomen ne présentent aucun signe pathologique.
+" Échographie scrotale et testiculaire (27/11/2015) : les deux testicules de taille et d'échogénicité normales, sans lésion occupant l'espace. Microlithiase testiculaire limitée. Il n'y a pas de lésions occupant l'espace à l'intérieur des testicules. Épididyme et cordon spermatique droits normaux.
+" Tomodensitométrie de réévaluation après traitement. BEP X 4 (28/03/2016). Pas de contraste IV en raison d'une allergie. Par rapport à l'étude précédente de décembre 2015, on observe une forte réduction de la taille de la masse médiastinale, et les résultats sont compatibles avec une réponse partielle au traitement.
+" Tomodensitométrie de contrôle après chirurgie des masses résiduelles (30/05/2016). Sans contraste intraveineux en raison d'une allergie. Décrit la persistance d'une accumulation de tissus mous dans le site chirurgical ne produisant pas d'effet de masse, compatible avec une fibrose, sans pouvoir exclure l'existence de petits foyers de tissus tumoraux viables. Élévation de l'hémidiaphragme gauche, probablement secondaire à une paralysie phrénique.
+"TDM successifs au cours du suivi : la densité des tissus mous persiste dans le médiastin antérieur, sans changement suggérant une récidive.
+
+Le diagnostic
+Diagnostic anatomo-pathologique (AP)
+"Biopsie excisionnelle médiastinale : tumeur des cellules germinales, type tumeur du sac vitellin (sinus endodermique), variante glandulaire.
+"Résection en bloc de la masse résiduelle dans le médiastin antérieur, après chimiothérapie : changements nécrotiques à 80 %, avec du tissu tumoral vital (20 %) correspondant à une tumeur du sac vitellin, de type glandulaire avec un changement mésenchymateux induit (muscle lisse typique). Aucune transformation sarcomateuse n'est observée. Pas d'infiltration lymphovasculaire ou périneurale. Absence d'infiltration néoplasique dans les adénopathies locorégionales isolées. Les marges chirurgicales sont libres, la plus proche étant de 2 mm.
+
+Traitement
+" De décembre 2015 à février 2016, elle a suivi un traitement de chimiothérapie par BEP (bléomycine, étoposide et cisplatine), 4 cycles, avec comme principale toxicité les vomissements G2. Réponse partielle (RP) obtenue par imagerie et négativation de l'AFP.
+" En avril 2016 : chirurgie des masses résiduelles. Une résection en bloc de la masse médiastinale a été réalisée.
+" Après la chirurgie, traitement adjuvant par chimiothérapie selon le schéma TIP (paclitaxel, ifosfamide, cisplatine) 2 cycles, qui s'est terminé en mai 2016, obtention d'une réponse complète avec des marqueurs négatifs, mais persistance dans les tests d'imagerie des tissus mous dans le site chirurgical, qui reste stable.
+" En octobre 2016, avec une AFP de 110, un traitement par chimiothérapie a été décidé selon le schéma vinblastine-ifosfamide-cisplatine (VeIP) 4 cycles, avec une réduction de 20 % après le 3e cycle en raison de la toxicité hématologique (neutropénie fébrile G3, anémie G2). puis chimiothérapie à haute dose avec autogreffe de moelle osseuse, 2 cycles (en tandem). Conditionnement par carboplatine 700 mg/m2 x 3 jours et étoposide 375 mg/m2 x 3 jours, puis perfusion de précurseurs hématopoïétiques.
+
+Évolution
+On a diagnostiqué chez lui une tumeur germinale extragonadale sans séminome (TGNS). Au moment du diagnostic, il présentait une AFP de et une BHCG normale. Après un traitement par BEP x 4 cycles, il a obtenu une RP avec une AFP négative, qui a rapidement commencé à augmenter jusqu'à 240. Malgré cela, en individualisant le cas et en considérant la chirurgie comme la meilleure option curative pour le patient, il a été décidé de pratiquer une chirurgie sur les masses résiduelles, en laissant 20 % de tissu tumoral vital dans l'échantillon chirurgical, avec une AFP négative. Après avoir évalué le cas lors d'une séance clinique, le groupe sur les tumeurs germinales (GG) a été consulté et il a été décidé de procéder à une TPI adjuvante et de ne pas effectuer de radiothérapie adjuvante (RT).
+Une surveillance étroite de l'AFP a été effectuée, qui a commencé à augmenter, sans changement au scanner, qui a montré une accumulation persistante de tissus mous dans le site chirurgical, compatible avec une fibrose, sans changement. Dans ce contexte, un traitement par VeIPx 4 a été décidé et débuté en octobre 2016, avec une réduction de 25 % de la dose par rapport au cycle 2 en raison d'une neutropénie fébrile. Par la suite, elle a subi une chimiothérapie à haute dose avec autogreffe de moelle osseuse pendant 2 cycles. Cette dernière s'est terminée en avril 2017.
+Il suit actuellement des examens de contrôle et reste indemne de maladie, asymptomatique avec une bonne qualité de vie.

@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 43 ans sans antécédents personnels ou familiaux intéressants. Pas d'habitudes toxiques.
+Elle consulte en oncologie médicale le 9 novembre 2015, adressée par la gynécologie pour le diagnostic récent d'un cancer du sein.
+La patiente avait remarqué un nodule dans son sein droit depuis 2 mois avant de consulter en gynécologie. Elle a nié tout autre signe ou symptôme.
+
+Examen physique
+L'examen physique a révélé les résultats suivants :
+Le sein gauche ne présente aucun signe particulier.
+Le sein droit présente un nodule d'environ 2 à 3 cm dans le quadrant inférieur externe, suspect de malignité. Aucun ganglion lymphatique axillaire, supraclaviculaire ou latérocervical suspect n'était palpable.
+Le reste de l'examen physique était normal et il n'y avait pas d'autres résultats intéressants.
+
+Tests complémentaires
+Les études complémentaires suivantes ont été réalisées :
+-Mammographie (29 octobre 2015) : pas d'altérations significatives. Catégorie BI-RADS 2. Résultats bénins.
+Échographie mammaire (29 octobre 2015) : nodule solide dans le quadrant inféro-externe du sein droit et adénopathie axillaire ipsilatérale suspecte de malignité.
+Biopsie à l'aiguille de la lésion du sein droit : carcinome infiltrant de type non spécifique. L'étude complémentaire de la biopsie était de grade 3, récepteurs hormonaux négatifs. HER-2 positif. Ki67% 20%.
+-La TEP en étude complémentaire (4 novembre 2015) a montré un nodule de 1,3 cm dans le quadrant inférieur externe du sein droit (SUVmax 11,1) et un épaississement cutané (avec une légère augmentation de la captation du FDG) du sein droit, évocateur d'une tumeur maligne. De multiples adénopathies axillaires droites au niveau I de Berg jusqu'à 2 x 1,4 cm SUVmax 16,8 suggèrent une tumeur maligne. En outre, des dépôts hépatiques pathologiques bilatéraux, SUVmax jusqu'à 16,3 (segment II), suggèrent une tumeur maligne. Il n'y a pas eu d'autres résultats intéressants dans le reste de l'étude.
+-Ponction à l'aiguille fine d'une des lésions hépatiques (15 novembre 2015), qui n'était pas représentative en raison de sa faible cellularité.
+
+Diagnostic
+Carcinome infiltrant non spécifique du sein droit cT2 cNx cM1 (stade IV en raison de multiples atteintes hépatiques), grade 3, récepteurs hormonaux négatifs. HER-2 positif. Ki67% 20%, chez une femme préménopausée.
+
+Traitement
+La patiente a commencé un traitement systémique de première intention dans le cadre de l'essai clinique B029159 (Herceptin, Perjecta et docétaxel par voie sous-cutanée, à partir du 7e cycle sans docétaxel).
+
+Évolution
+Après les 3 premiers cycles de traitement, le scanner de réévaluation a montré une diminution de la taille des ganglions lymphatiques pathologiques dans les chaînes axillaires et rétropectorales droites et des lésions hépatiques par rapport au précédent scanner de novembre 2015.
+La patiente a poursuivi le traitement en recevant un total de 8 cycles.
+Lors de la réévaluation demandée après la fin du traitement, l'IRM hépatique avec une réponse radiologique complète a été mise en évidence. Le scanner thoraco-abdominal a également montré l'absence de lésions hépatiques visibles, et localement le sein droit était plus grand que le gauche, avec un épaississement cutané moins visible que lors de l'étude précédente. Les ganglions lymphatiques axillaires et rétropectoraux droits présentent une augmentation de taille.
+Compte tenu de l'excellente réponse au niveau hépatique, de l'absence de maladie à d'autres niveaux et du contrôle locorégional apparent, le cas a été discuté au sein du comité des tumeurs au début du mois d'avril 2016, et il a été décidé de procéder à une chirurgie du primitif pour évaluer l'existence d'une viabilité tumorale.
+Le 10 mai 2016, une mastectomie radicale modifiée a été réalisée sans incident. Sur la pièce opératoire, le stade après traitement néoadjuvant était ypT1a et ypN2a (6/14 ganglions). Le pourcentage de régression au niveau de la tumeur était de 80%, et dans les ganglions d'environ 10-30%. L'étude moléculaire a été répétée sur la pièce conservant une surexpression de Her2 (+++), Ki67 15%, mais montrant une positivité modérée pour l'expression des récepteurs hormonaux (précédemment négative).
+Un mois après l'intervention chirurgicale (2 juin 2016), la patiente a bénéficié d'un scanner de réévaluation, dont le résumé est le suivant :
+Mastectomie et lymphadénectomie droite modifiées.
+Pas de lésion métastatique dans le foie et pas de signe de dissémination ganglionnaire ou osseuse.
+Elle attend un nouveau rendez-vous le 14 juin pour une évaluation clinique et une décision sur la prise en charge systémique à suivre après la chirurgie.

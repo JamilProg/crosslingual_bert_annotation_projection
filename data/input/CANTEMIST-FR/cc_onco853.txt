@@ -1,0 +1,28 @@
+Anamnèse
+En juillet 2016, après l'administration de 16 cycles de nivolumab, le dernier le 28 juin, la patiente a été adressée des Soins Primaires au Service des Urgences pour des manifestations cliniques d'instabilité soudaine avec chutes fréquentes, agitation psychomotrice et syndrome confusionnel avec agressivité verbale importante, comportement désinhibé et actions incohérentes, nécessitant une sédation pour être contrôlées. Pas de fièvre ni d'autres symptômes d'accompagnement.
+
+Examen physique
+Patient conscient, orienté, hémodynamiquement stable, afébrile. Saturation en oxygène de base de 94 %. Auscultation cardio-pulmonaire sans anomalie notable. L'abdomen est sans particularité. Pas d'œdème ni de signes de thrombose veineuse profonde. Pas de focalité neurologique. Agitation psychomotrice importante.
+
+Examens complémentaires
+Les examens complémentaires (EC) suivants ont été réalisés dans le service des urgences :
+"Analyses sanguines : normales.
+"Tomodensitométrie cérébrale : pas d'altérations significatives pouvant être évaluées.
+"Radiographie du thorax : pas d'altération de l'évolution aiguë.
+Étant donné l'absence de résultats au scanner cérébral, il a été décidé d'hospitaliser le patient dans le service d'oncologie médicale pour compléter l'étude et, compte tenu de la suspicion d'un cas possible d'encéphalite limbique, un traitement aux corticoïdes a été mis en place. Les tomographies suivantes ont été réalisées :
+"CT scan thoracique-abdominal-pelvien : maladie stable.
+"IRM cérébrale : pas d'altérations intéressantes.
+"Ponction lombaire : pas d'altération du liquide céphalo-rachidien.
+"Anticorps antineuronaux : négatifs.
+"Étude hormonale : diminution des hormones de la fonction hypophysaire.
+
+Diagnostic
+Panhypopituitarisme probablement secondaire à une hypophysite due à l'immunothérapie par le nivolumab.
+
+Traitement
+Le traitement par nivolumab a été interrompu et le service d'endocrinologie a été consulté, et la dose de corticostéroïdes commencée à l'admission a été ajustée à 1 mg/kg/jour de prednisone. En outre, un traitement hormonal substitutif a été mis en place avec 20 mg/jour d'hydroaltesone et 25 mcg/jour de lévothyroxine.
+
+Évolution
+Après avoir commencé une thérapie corticostéroïde et hormonale de remplacement, la patiente a présenté une résolution complète de l'état clinique qui avait conduit à son admission, a été libérée de l'hôpital et a continué à faire l'objet d'un suivi ambulatoire.
+Au cours des semaines suivantes, elle a été évaluée lors de consultations d'endocrinologie, réduisant progressivement la dose de prednisone et le traitement hormonal substitutif jusqu'à ce qu'ils soient complètement supprimés.
+À l'heure actuelle, elle continue d'être suivie par l'oncologie médicale avec des contrôles périodiques par tomodensitométrie et analyse, la maladie oncologique restant stable (survie sans progression : 18 mois).

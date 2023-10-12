@@ -1,0 +1,22 @@
+T1	pathologie 163 180	cirrosis hepática
+T2	pathologie 234 269	HDA secundaria a varices esofágicas
+T3	pathologie 295 314	hipertensión portal
+T4	pathologie 317 324	ascitis
+T5	pathologie 366 381	hepatocarcinoma
+T6	pathologie 700 710	paraplejia
+T7	pathologie 787 798	paraparesia
+T8	pathologie 803 833	amioatrofia por desuso de EEII
+T9	pathologie 835 886	hipoestesia subjetiva mayor en EID con nivel D8-D10
+T10	pathologie 1214 1262	lesiones hiperintensa lagunares supratentoriales
+T11	pathologie 1627 1657	paraparesia espástica tropical
+#1	SNOMED T1	19943007
+#2	SNOMED T2	17709002
+#3	SNOMED T3	34742003
+#4	SNOMED T4	389026000
+#5	SNOMED T5	109841003
+#6	SNOMED T6	60389000
+#7	SNOMED T10	1156035006
+#8	SNOMED T11	714279000
+#9	SNOMED T7	1845001
+#10	SNOMED T8	15704361000119102
+#11	SNOMED T9	397974008+32696007

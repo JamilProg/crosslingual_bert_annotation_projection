@@ -1,0 +1,12 @@
+T1	pathologie 56 71	hábitos tóxicos
+T2	pathologie 79 87	alergias
+T3	pathologie 733 760	quelitis del labio inferior
+T4	pathologie 762 774	aftas orales
+T5	pathologie 927 982	lesiones eritemato-escamosas en la cara y en los brazos
+T6	pathologie 1375 1401	lesiones eritema-escamosas
+#1	SNOMED T1	228272008
+#2	SNOMED T3	7847004
+#3	SNOMED T4	26284000
+#4	SNOMED T2	106190000
+#5	SNOMED T5	247440002
+#6	SNOMED T6	247441003

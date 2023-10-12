@@ -1,0 +1,6 @@
+T1	pathologie 200 214	deshidratación
+T2	pathologie 476 491	neumomediastino
+T3	pathologie 494 557	enfisema subcutáneo en el cuello y la región superior del tórax
+#1	SNOMED T2	16838000
+#2	SNOMED T3	3830001
+#3	SNOMED T1	34095006

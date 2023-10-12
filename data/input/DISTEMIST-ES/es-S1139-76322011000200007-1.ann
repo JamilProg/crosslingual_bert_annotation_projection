@@ -1,0 +1,4 @@
+T1	pathologie 1886 1910	Enfermedades Infecciosas
+T2	pathologie 2206 2242	reacción en el lugar de la inyección
+#1	SNOMED T2	1155807002
+#2	SNOMED T1	394807007

@@ -1,0 +1,18 @@
+T1	pathologie 174 184	deformidad
+T2	pathologie 221 229	ansiedad
+T3	pathologie 501 528	deformidad del seno frontal
+T4	pathologie 606 629	lesiones intracraneales
+T5	pathologie 670 685	lesión parietal
+T6	pathologie 717 734	displasia fibrosa
+T7	pathologie 1144 1156	defecto óseo
+T8	pathologie 1277 1292	lesión parietal
+T9	pathologie 1488 1503	lesión parietal
+#1	SNOMED T9	210038008
+#2	SNOMED T4	254935002
+#3	SNOMED T2	197480006
+#4	SNOMED T6	254145001
+#5	SNOMED T8	210038008
+#6	SNOMED T7	76069003
+#7	SNOMED T5	210038008
+#8	SNOMED T1	417893002
+#9	SNOMED T3	298356007

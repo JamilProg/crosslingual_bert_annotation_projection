@@ -1,0 +1,36 @@
+Anamnèse
+La patiente a consulté pour une fièvre allant jusqu'à 38,6 ºC de 24 heures d'évolution accompagnée d'un syndrome dysthermique et de vomissements. Elle avait reçu une deuxième cure de pembrolizumab sept jours auparavant. Elle présentait des douleurs abdominales occasionnelles légères et spontanées, sans modification des habitudes intestinales. Elle toussait occasionnellement avec des expectorations blanchâtres. La patiente recevait des pansements sur la cuisse droite en raison d'une suppuration. Elle a été traitée à la clindamycine pour cette raison.
+
+Examen physique
+"TA : 155/63 mm Hg, FC 91 bpm, température : 38,1 ºC, SatO2 : 92 %, TA 1.
+"État général : moyen. Eupnéique au repos. Pâleur de la peau. Bien hydraté.
+"Tête et cou : petites adénopathies latérocervicales bilatérales. Elles ne sont pas douloureuses à la palpation. Cavité buccale avec des lésions compatibles avec le muguet. Pas d'exsudats amygdaliens. Otoscopie bilatérale normale. Pas de rigidité nucale.
+"AC : rythmé à une bonne fréquence. Aucun souffle n'a été entendu.
+"AP : mvc dans les deux hémithorax avec de rares crépitants bibasaux secs.
+"Abdomen : globulaire, mou, dépressible. Pas de masses ou de mégalithes palpables. Douleur à la palpation en HDC avec Murphy douteux. RHA normal. Pas de point herniaire ni de pouls soufflant. Dans la région inguinale droite, il existe une petite lésion excroissante sur la base d'une lésion chirurgicale. Sur la face interne du membre inférieur droit (MID), 3 lésions ponctuelles suppuratives avec tissu de granulation à sécrétion purulente et signes inflammatoires périlésionnels. Oedème avec une petite fovéa périmalléolaire dans le membre inférieur droit. Homans négatif.
+
+Examens complémentaires
+Parmi les examens complémentaires réalisés à l'arrivée aux urgences, on peut noter les suivants :
+"Hémogramme : globules rouges 3,68 hémoglobine 9,2. Hématocrite 30,2. Volume corpusculaire moyen 82,1.
+"Hémoglobine corpusculaire moyenne des érythrocytes 25. Concentration corpusculaire moyenne d'hémoglobine érythrocytaire 30,5. Distribution des érythrocytes 15,8. Leucocytes 0,2. Neutrophiles % 6,2.
+"Neutrophiles 0. Lymphocytes % 93,8. Lymphocytes 0,2. Monocytes % 0. Éosinophiles % 0. Éosinophiles 0. Basophiles % 0. Basophiles 0. Plaquettes 312.
+"Coagulation : temps de prothrombine 1,31. Activité prothrombique 72. Temps de prothrombine 14,7. INR 1,31. Temps de céphaline activée (TCA) 38. Rapport TCA 1,16. Fibrinogène dérivé 7,35.
+"Biochimie : urée 40, créatinine sanguine 0,95. Protéines totales 6,7. Bilirubine totale 0,35. Sodium
+"Potassium 4,59. Créatine kinase 30. Aspartate amino transférase (GOT) 13. Amylase 46. CRP 195.
+"Urine : gravité spécifique 1,020. pH 6. Cétones 10. Glucose négatif. Nitrite négatif. Bilirubine négative. Protéines 100. Urobilinogène 0,2. Globules rouges négatifs. Leucocytes négatifs.
+"Gaz du sang veineux : Ph 7.42. nA 136. k 4.5. cA 1.10. gLUC 220. lAC 1.4. hTCO 3 4%. hco3- 24.0.
+"tHBC 9,9.
+"Radiographie thoracique simple postéro-antérieure : aucune image d'infiltrat ou de condensation n'a été identifiée.
+Des hémocultures x 2, une culture d'urine, une culture de la plaie MID et une culture de la plaque de la muqueuse buccale ont été réalisées.
+
+Diagnostic
+Le diagnostic du patient était compatible avec une neutropénie fébrile de grade IV (profonde), une infection de la plaie chirurgicale et une candidose oropharyngée.
+
+Traitement
+L'hospitalisation a été décidée. Un isolement inversé, du repos et un régime alimentaire absolu ont été recommandés, ainsi que l'administration de G-CSF et une antibiothérapie empirique avec du méropénème et de la vancomycine par voie intraveineuse.
+Après une culture positive de la plaie en MID pour pseudomona aeruginosa, le traitement a été ajusté en fonction de l'antibiogramme, avec une désescalade vers la ceftazidime par voie intraveineuse. Le fluconazole intraveineux a été ajouté au traitement en raison de la croissance de Candida albicans dans la culture de la plaque de la muqueuse buccale.
+
+Évolution
+La patiente a montré une nette amélioration clinique, conservant sa tension habituelle. Cependant, après plus de dix jours d'admission, le nombre de neutrophiles sériques est resté à 0 mil/mm3. Le cas a été discuté avec le service d'hématologie, qui a recommandé une étude de la moelle osseuse. Une aspiration de moelle osseuse a été effectuée, qui a été rapportée comme une étude phénotypique sans preuve d'infiltration par l'hémopathie et l'absence de série myéloïde (agranulocytose).
+Une analyse par cytométrie en flux de l'échantillon obtenu à partir de l'aspiration a été demandée, avec des résultats compatibles avec l'agranulocytose, une plasmocytose frappante et une augmentation relative de la série rouge. Une population de cellules a également été décrite, non négligeable dans certaines zones, d'aspect non hématologique, ne formant pas de nids, possiblement liée à un mélanome métastatique.
+Compte tenu de la confirmation de l'infiltration de la MO par le mélanome et du fait que la patiente n'a toujours pas (un mois après son admission) de taux de neutrophiles, nous avons exclu tout autre traitement oncologique actif. L'orientation vers l'unité de soins palliatifs pour un traitement symptomatique a été convenue avec le patient et sa famille.

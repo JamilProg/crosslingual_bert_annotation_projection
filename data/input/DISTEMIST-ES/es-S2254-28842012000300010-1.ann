@@ -1,0 +1,27 @@
+T1	pathologie 61 135	insuficiencia renal secundaria a nefrectomía bilateral por neoplasia renal
+T2	pathologie 120 135	neoplasia renal
+T3	pathologie 167 188	hipertensión arterial
+T4	pathologie 273 288	lesión del bazo
+T5	pathologie 328 442	Trombosis venosa en el miembro inferior derecho condicionada por la canulación de la femoral (catéter de diálisis)
+T6	pathologie 444 461	Colitis isquémica
+T7	pathologie 463 481	poliposis de colon
+T8	pathologie 484 509	hemorragia digestiva baja
+T9	pathologie 553 597	hemorragia digestiva baja por angiodisplasia
+T10	pathologie 583 597	angiodisplasia
+T11	pathologie 624 666	estenosis valvular aórtica moderada-severa
+T12	pathologie 798 814	trombosis venosa
+T13	pathologie 933 957	dilatación aneurismática
+T14	pathologie 975 992	trombosis parcial
+T15	pathologie 1206 1215	trombosis
+T16	pathologie 1260 1269	infección
+T17	pathologie 1306 1313	fístula
+T18	pathologie 1455 1464	infección
+T19	pathologie 1937 1946	trombosis
+T20	pathologie 2093 2116	bacteriemia por E. Coli
+T21	pathologie 2448 2515	hemorragia digestiva baja, por colitis isquémica y pólipos en colon
+T22	pathologie 2479 2496	colitis isquémica
+T23	pathologie 2499 2515	pólipos en colon
+T24	pathologie 2769 2807	trombosis completa de la cava superior
+T25	pathologie 3321 3342	infección del catéter
+T26	pathologie 3979 4010	shock cardiogénico post-cirugía
+T27	pathologie 4049 4091	estenosis valvular aórtica moderada-severa

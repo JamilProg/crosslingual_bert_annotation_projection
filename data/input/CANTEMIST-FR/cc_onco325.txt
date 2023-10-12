@@ -1,0 +1,43 @@
+Anamnèse
+Homme de 77 ans.
+Antécédents personnels
+Hypertension essentielle.
+Diagnostiqué en mars 16 avec un carcinome pulmonaire non à petites cellules, - cT3N3Mx (nodules pulmonaires amétaboliques bilatéraux). Dans l'attente du résultat de la détermination de l'EGFR, il a commencé un traitement de chimiothérapie par Cisplatine70mg/m2-Pemetrexed 500mg/m2 en intention palliative le 2 mai 2016.
+Le 13 mai 2016, après le premier cycle de chimiothérapie, elle s'est présentée aux urgences pour 48 heures de symptômes confusionnels avec troubles de la marche.
+Pas de céphalées, de nausées ou de vomissements. Pas de fièvre thermométrique. Pas de dyspnée, de toux ou d'expectoration. Pas d'altération du rythme des selles ni de symptômes mictionnels d'accompagnement.
+
+Examen physique
+TA 117/70 mmHg, FC 118 bpm, température 38,5ºC : SatO2 95%.
+Eupnéique, bien hydraté et perfusé, peau et muqueuses non colorées.
+Pas d'ingurgitation jugulaire. Auscultation cardio-pulmonaire normale. Abdomen souple et dépressible, sans douleur à la palpation ni irritation péritonéale. Membres inférieurs sans œdème ni signes de TVP.
+Conscient et orienté. Pas de rigidité du cou. Langage normal, pupilles isochoriques, normoréactives, pas de nystagmus. Reste des nerfs crâniens normal. Campimétrie par confrontation normale. Force et sensibilité préservées, pas de claudication. Normoréflexie avec RCP en flexion bilatérale. Démarche ataxique, avec tendance pathologique à la sédentarité en raison de la difficulté à maintenir une posture statique. Pas de fermeture des yeux de Romberg ni de dysmétrie.
+
+Tests complémentaires
+Analyses sanguines :
+"Biochimie de base : créatinine de 1,42, glycémie de 169 et urée de 74. Sodium 118 (normal 135-145), Potassium 4,41 (normal 3,7 - 5,4). Osmolalité calculée 253. Procalcitonine : 2 (normal jusqu'à 2).
+"Numération sanguine : Hb 15.6 gr/dl ; Leucocytes 3850 (Neutrophiles 3430) et Plaquettes 109,000.
+"Gaz du sang veineux : pH 7.44 ; pCO2 36mmHg ; Bicarbonate 24.5mmol/L ; Excès de bases 0.3mmol/L.
+CT crânien (sans contraste) : signes d'atrophie compatibles avec la normalité pour l'âge du patient.
+Pas de signes radiologiques évocateurs d'une pathologie ischémique aiguë ou d'une hémorragie. Le système ventriculaire et les espaces cisternaux sont préservés, sans altération osseuse de la calotte. La ventilation des sinus paranasaux visible est normale et les cellules mastoïdiennes sont également libres.
+Radiographie du thorax : tumeur pulmonaire en relation avec un néoplasme connu, sans modification. Pas d'infiltrat alvéolaire.
+Analyse d'urine : nitrites et hématurie négatifs, pas de pyurie.
+
+Le diagnostic
+Il s'agit d'un tableau de septicémie d'origine non filiatique et d'hyponatrémie sans critères de SIADH, chez un patient atteint d'une néoplasie pulmonaire en cours de traitement par chimiothérapie palliative, sans neutropénie.
+
+Traitement
+Après l'hémoculture et la culture des expectorations, une antibiothérapie à base d'amoxicilline et d'acide clavulanique ainsi qu'une thérapie sérique sont mises en place pour traiter l'hyponatrémie.
+
+Évolution
+Quelques heures après son admission, le patient est devenu agité. Les signes vitaux ont été contrôlés à nouveau, avec seulement une fièvre de 37,9ºC. De l'halopéridol a été administré, ce qui a permis de maîtriser l'agitation.
+Réévalué au bout de 12 heures, il a été trouvé somnolent, bien qu'il se soit réveillé sur ordre verbal et qu'il ait gardé les yeux ouverts. Il a gardé un regard concentré et a réagi aux menaces. Il ne répond à aucun ordre, il est muet. Myoclonie sans focalité motrice claire. Rigidité nucale et Babinsky bilatéral.
+"Biochimie : Na 125 (normale 135-145), potassium 3,23 (normale 3,7-5,4), procalcitonine 1,72 et protéine C-réactive 245,9.
+"Hémoglobine, leucocytes 1700 (neutrophiles 1360 et cayates 40) et plaquettes 64 000.
+Une ponction lombaire a été effectuée en raison d'une suspicion de méningite.
+"LCR : numération cellulaire 1529 leucocytes/mm3 (normale entre 0 et 5), 95% de polymorphonucléaires, 1% de lymphocytes et 3,9% de monocytes. Aucun globule rouge n'a été observé.
+"Biochimie du LCR : 187,6 mg/dl (normale entre 15 et 40), ADA 17,1 U/L (valeurs normales entre 0 et 9), glucose 42 (normale entre 40 et 70) et LDH 113 U/L.
+"Aucun micro-organisme n'a été observé dans le liquide à Gram positif.
+Les premiers résultats des hémocultures réalisées à l'admission ont montré la présence d'un bacille à Gram négatif. S'agissant d'un patient immunodéprimé dans le cadre d'un traitement antinéoplasique, une antibiothérapie empirique à base de Meropenem et de Vancomycine a été mise en place jusqu'à ce que le germe à l'origine des symptômes et son antibiogramme soient connus. De même, s'il existe une possibilité d'infection par le méningocoque ou l'haemophilus influenzae, le patient est isolé.
+Quelques heures plus tard, la croissance d'une probable Listeria a été signalée dans les hémocultures, et l'antibiothérapie a été remplacée par de l'ampicilline et de la gentamicine, et l'isolement a été interrompu.
+Un diagnostic définitif de méningite due à Listeria Monocytogenes avec bactériémie et septicémie secondaire a été posé.
+Au cours des 72 heures suivantes, le patient a évolué défavorablement, avec une détérioration neurologique progressive. Il a présenté des crises convulsives, avec un Glasgow de 3-4. Compte tenu du mauvais pronostic implicite de son processus néoplasique de base ainsi que du processus intercurrent, et en accord avec les souhaits de ses proches, il a finalement été décidé de limiter l'effort thérapeutique. Par la suite, la culture du LCR s'est révélée positive pour Lysteria Monocytogenes.

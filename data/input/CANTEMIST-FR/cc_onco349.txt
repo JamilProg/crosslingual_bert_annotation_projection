@@ -1,0 +1,35 @@
+Antécédents personnels
+- Myocardite en 2006 compliquée d'une maladie de von Willebrand, avec normalisation ultérieure de la FEVG.
+- Fibrillation auriculaire permanente avec cardioversion électrique en 2011 et traitement chronique à l'amiodarone et à l'acénocoumarol.
+- Cirrhose du foie secondaire au virus de l'hépatite C de génotype 1b. Pas de réponse au traitement par télaprévir. Traitement d'éradication en octobre 2015 par siméprévir et sofosbuvir, non satisfaisant. Suivi de près par la médecine digestive.
+
+Anamnèse
+Une patiente de 59 ans aux antécédents décrits consulte aux urgences en décembre 2015 en raison d'une augmentation de la dyspnée de base à l'effort modéré, d'œdèmes des membres inférieurs et du périmètre abdominal d'un mois d'évolution ; elle signale également une diminution de sa diurèse habituelle. Pas de douleur thoracique ni de palpitations, pas d'orthopnée bien que dyspnée paroxystique nocturne. Pas de toux ni d'expectoration ni de manifestations cliniques infectieuses associées dues au matériel. Pas de douleur abdominale, pas de syndrome mictionnel, selles sans produits pathologiques. Il a déclaré avoir pris des AINS au cours des dernières semaines en raison d'une lombalgie à caractère mécanique.
+
+Examen physique
+- Conscient et orienté, normohydraté, couleur normale, pas de signe d'ingurgitation jugulaire.
+- Signes vitaux : TA 135/71 mmHg, FC 140lpm, SaO2 96% (FiO2 21%).
+- Auscultation cardiaque : arythmique, pas de souffle audible.
+- Auscultation pulmonaire : souffle vésiculaire conservé, crépitants bibasaux.
+- Abdomen : globuleux, distendu, tympanisme à l'épigastre et matité douteuse aux flancs, pas de douleur à la palpation, pas de masse ou de mégalithe palpable, bruits hydro-aériques conservés. Œdème de paroi important.
+- Membres inférieurs : œdème avec fovéa jusqu'à la racine des membres, pouls conservés, pas de signes de thrombose veineuse profonde.
+- Neurologique : pas de focalité neurologique.
+
+Examens complémentaires
+- ECG : fibrillation auriculaire avec réponse ventriculaire moyenne de 120-130 bpm, axe normal, QRS étroit, faible progression du vecteur septal, faibles tensions dans le plan frontal, aplatissement de l'onde T dans les dérivations V4-V6 et frontales.
+- Radiographie thoracique postéro-antérieure : infiltrat cotonneux à prédominance périphérique, évocateur d'une image de lâchage de ballons. La silhouette cardiaque est élargie. Aucun épanchement pleural n'est observé.
+- Échocardiographie : image échogène d'aspect thrombotique occupant la veine cave inférieure et faisant saillie dans l'oreillette gauche ; avec une FEVG de 50 % et une hypokinésie des segments basaux.
+- CT scan thorax-abdomen-pelvis + angio-CT scan thoracique : thromboembolie pulmonaire et lésion hépatique dans les segments VI et VII de 94x65mm évoquant un hépatocarcinome avec thrombose sus-hépatique avec extension à la veine cave inférieure intrathoracique et à l'oreillette droite avec volumineux thrombus intracavitaire, dissémination métastatique pulmonaire.
+- Examens sanguins : plaquettes 93000, indice de Quick 38%, I.N.R. 1.99, urée 93.7, créatinine 2.01 et bilirubine totale 1.78.
+
+Diagnostic
+Thrombose paranéoplasique avec suspicion d'hépatocarcinome par imagerie, sur un foie cirrhotique, chez un patient avec indice Child-Pugh B.
+
+Traitement
+Compte tenu du diagnostic et de la situation intercurrente, un traitement anticoagulant a été instauré avec des héparines de faible poids moléculaire adaptées au poids du patient (bémiparine adaptée au poids : 10000 UI).
+La chirurgie cardiaque a demandé une évaluation de l'état de performance médiocre du patient, avec une dépendance à l'oxygénothérapie avec FiO2 28%, et la situation de la maladie (hépatocarcinome ne nécessitant pas de traitement actif compte tenu du PS et de l'indice Child Pugh B), a exclu la chirurgie, qui nécessiterait également une circulation extracorporelle. Une anticoagulation permanente a été recommandée pour atteindre un N.R.I. de 2,5 - 3.
+Compte tenu de la situation de suspicion d'hépatocarcinome sur foie cirrhotique chez un patient de PS 3 avec une forte dépendance à l'oxygénothérapie et à l'indice Child-Pugh B, sans pouvoir parvenir à un diagnostic définitif au moyen d'une biopsie du foie en raison du risque élevé d'hémorragie compte tenu de l'anticoagulation thérapeutique, le patient n'était pas éligible pour un traitement actif par l'Oncologie ; il a été renvoyé chez lui avec le soutien de l'Unité d'Hospitalisation à Domicile pour un traitement symptomatique exclusif en janvier 2016.
+
+Evolution
+Pendant son séjour à domicile, le patient a eu une évolution torpide, avec un besoin persistant d'oxygénothérapie 24 heures sur 24 et une dépendance à l'ABVD. En février 2016, il a commencé à ressentir une douleur costale gauche avec une EVA de base constante de 7 et des épisodes de douleur percutante avec une EVA de 10 ; associée à une insuffisance respiratoire aiguë à domicile. Compte tenu de cet état, il a été orienté vers l'unité de soins continus pour un traitement symptomatique palliatif.
+Au cours de l'hospitalisation, malgré une amélioration initiale des symptômes, il a commencé à présenter une anurie en dépit de l'ajustement du traitement, ainsi que des symptômes compatibles avec une encéphalopathie hépatique. Le patient est finalement sorti à la fin du mois de février 2016.

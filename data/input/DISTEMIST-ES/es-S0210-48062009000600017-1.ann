@@ -1,0 +1,22 @@
+T1	pathologie 48 69	tuberculosis pulmonar
+T2	pathologie 71 103	cólicos nefríticos de repetición
+T3	pathologie 241 271	ureterohidronefrosis bilateral
+T4	pathologie 555 582	tuberculosis genitourinaria
+T5	pathologie 1470 1482	riñón mastic
+T6	pathologie 1493 1531	estenosis de los últimos cms de uréter
+T7	pathologie 1654 1677	desinserción del uréter
+T8	pathologie 2157 2184	retracción vesical completa
+T9	pathologie 2586 2601	útero miomatoso
+T10	pathologie 3047 3070	reflujo vésico-ureteral
+T11	pathologie 3354 3376	incontinencia nocturna
+#1	SNOMED T4	4445009
+#2	SNOMED T1	154283005
+#3	SNOMED T2	7093002
+#4	SNOMED T11	8009008
+#5	SNOMED T5	44323002
+#6	SNOMED T6	25341005
+#7	SNOMED T10	197811007
+#8	SNOMED T8	89310008
+#9	SNOMED T9	95315005
+#10	SNOMED T7	128073008
+#11	SNOMED T3	95576001+95581005

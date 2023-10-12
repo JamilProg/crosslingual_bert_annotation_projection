@@ -1,0 +1,24 @@
+Anamnèse
+Nous avons rencontré un patient de 65 ans ayant des antécédents de tabagisme (fumeur jusqu'en 2009). Une hypertension artérielle depuis 2006 avec une cardiopathie hypertensive et des données sur l'hypertrophie ventriculaire gauche. Ischémie chronique des membres inférieurs avec atteinte iléo-fémorale due à l'athérosclérose. Insuffisance rénale chronique d'origine non filaire, possible néphropathie ischémique. Le patient a commencé l'hémodialyse le 28 avril 2010, entrant dans la liste de pré-transplantation.
+
+Antécédents oncologiques
+Elle a subi une transplantation rénale à partir d'un donneur cadavérique le 16 octobre 2012, suivie d'une immunosuppression par ciclosporine, mycophénolate et prednisone. Elle était en bon état général jusqu'à la fin du mois de janvier, lorsqu'elle a présenté une grippe et un rejet vasculaire cellulaire (biopsie rénale du 22 janvier 2013), qui a été traité avec de la prednisone en bolus et la conversion de la ciclosporine en tacrolisme. Par la suite, lors d'un bilan de routine, une échographie a révélé un foie de taille et d'échostructure normales, mais avec quatre lésions focales dans le lobe droit (mesurant respectivement 8, 9, 20 et 33 mm) évoquant des métastases. Le patient a été admis le 2 mai 2013 pour terminer l'étude. Le 6/5/13, une transplantectomie a été réalisée en raison d'une suspicion de rejet du greffon et de la possibilité d'une tumeur transplantée, et l'immunosuppression a été supprimée.
+
+Examen physique
+ECOG 1. Patient conscient, orienté. Bon état général. PCA : normal. Abdomen : cicatrice de transplantectomie. LES : insuffisance veineuse chronique.
+
+Examens complémentaires
+En plus des lésions hépatiques, une tomodensitométrie (TDM) réalisée le 3 mai 2013 a montré un épaississement de la paroi bronchique avec des nodules centrolobulaires, dont certains présentaient une augmentation de la densité "en verre pilé", ce qui, dans le contexte de l'immunosuppression, pourrait être lié à la dissémination endobronchique d'un processus tuberculeux, de sorte qu'une bronchoscopie a été demandée afin d'obtenir des échantillons pour la culture. Le patient a été évalué par le service d'oncologie, qui a demandé une scintigraphie osseuse et une tomodensitométrie crânienne pour compléter l'étude, qui se sont toutes deux révélées normales. Il n'y avait pas d'antécédents familiaux intéressants.
+
+La biopsie du foie a révélé une métastase d'un carcinome indifférencié à petites cellules du poumon (carcinome à petites cellules). Profil immunohistochimique : TTF-1 : positif. Chromogranine et synaptophysine : faiblement positives. Cdx-2 : négatif. Indice de prolifération avec Ki-67 : 100 % de cellules néoplasiques. L'examen en série du hile du rein transplanté a révélé une formation nodulaire gris rougeâtre au contact des structures vasculaires et de l'extrémité de résection, mesurant 2 x 2 x 2 cm, avec des résultats anatomopathologiques de métastase d'un carcinome à petites cellules indifférencié du poumon en contact focal avec l'extrémité de résection.
+
+La transplantation a été réalisée dans des conditions correctes, selon des protocoles consensuels. Le donneur n'avait pas de maladie néoplasique connue et l'examen macroscopique des prélèvements n'a détecté aucune maladie. On savait qu'il s'agissait d'une maladie tumorale transplantée, car les deux autres receveurs d'organes sont décédés à la suite du développement d'un cancer du poumon à petites cellules.
+
+Diagnostic
+Carcinome pulmonaire indifférencié à petites cellules (carcinome microcytaire) de stade IV (métastases hépatiques).
+
+Le traitement
+Le traitement consiste à effectuer une transplantectomie, à supprimer l'immunosuppression et à attendre les résultats.
+
+Évolution
+La patiente a été évaluée au service d'oncologie en juin 2013, où une nouvelle tomodensitométrie a été demandée, qui a montré une stabilité de la maladie avec une légère diminution des métastases hépatiques, et dans l'attente des résultats de la culture de la tuberculose, il a été décidé de ne pas commencer le traitement par chimiothérapie. Les résultats du lavage broncho-alvéolaire étaient négatifs pour la culture de la tuberculose, et la cytologie était négative pour la malignité. Deux mois après la transplantation, une réduction significative de la taille de toutes les lésions a été observée (les plus grandes lésions dans les segments VII et VI sont passées de 33 mm à 18 mm et de 26 mm à 13 mm, respectivement). Il a donc été décidé de continuer à surveiller la patiente sans initier de traitement. Deux ans après le diagnostic, le patient n'a plus de maladie.

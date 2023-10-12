@@ -1,0 +1,32 @@
+T1	pathologie 139 148	epilepsia
+T2	pathologie 182 189	autismo
+T3	pathologie 426 469	obstrucción de la narina derecha por pólipo
+T4	pathologie 444 469	narina derecha por pólipo
+T5	pathologie 572 586	hipertelorismo
+T6	pathologie 588 595	epifora
+T7	pathologie 732 758	agenesia de cuerpo calloso
+T8	pathologie 871 877	lipoma
+T9	pathologie 924 972	espina bífida oculta a nivel de columna cervical
+T10	pathologie 975 1031	fisura central a nivel de la arcada del maxilar superior
+T11	pathologie 1175 1181	lesión
+T12	pathologie 1234 1246	pólipo nasal
+T13	pathologie 1321 1337	pólipo intraoral
+T14	pathologie 1399 1431	pólipos escamosos queratinizados
+T15	pathologie 1776 1803	agenesia del cuerpo calloso
+T16	pathologie 1875 1893	crisis convulsivas
+#1	SNOMED T12	736500007
+#2	SNOMED T7	5102002
+#3	SNOMED T4	736636000
+#4	SNOMED T13	196579001
+#5	SNOMED T1	84757009
+#6	SNOMED T2	408856003
+#7	SNOMED T15	5102002
+#8	SNOMED T8	93163002
+#9	SNOMED T14	441456002
+#10	SNOMED T5	22006008
+#11	SNOMED T9	76916001
+#12	SNOMED T6	49393005
+#13	SNOMED T16	128613002
+#14	SNOMED T10	253993003
+#15	SNOMED T11	417163006
+#16	SNOMED T3	232209000

@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 67 ans, sans allergies médicamenteuses, habitudes toxiques ou antécédents familiaux intéressants. Hypertension artérielle sous traitement par hydrochlorothiazide.
+Elle a consulté aux urgences en septembre 2011 pour épigastralgies, nausées, vomissements et méléna d'une durée de 2 semaines, en plus d'un syndrome constitutionnel avec perte de poids de 5 kg sur une période d'un mois.
+
+Examen physique
+ECOG 1. Douleur à la palpation profonde de l'épigastre, pas d'organomégalie ni de masse palpable ; l'auscultation cardio-pulmonaire est normale.
+
+Examens complémentaires
+"Hémogramme : anémie de grade 3 (hémoglobine : 7,9 mg/dl) pour laquelle la transfusion de 2 concentrés de globules rouges a été indiquée et l'admission ultérieure à l'hôpital par le service de médecine interne pour étude.
+"Gastroscopie au cours de laquelle une masse mamelonnée, friable et nécrotique a été observée dans le tiers supérieur du corps gastrique, ne permettant pas le passage de l'endoscope et sur laquelle des biopsies ont été effectuées.
+"Tomodensitométrie (TDM) du thorax et de l'abdomen : épaississement au niveau du corps gastrique et de l'antre qui efface la graisse adjacente et met en évidence une masse extragastrique hétérogène de 7 cm qui soulève la question de savoir s'il peut s'agir d'un implant péritonéal ou d'une extension tumorale. Au niveau du foie, il existait de multiples lésions hypodenses bilobaires d'occupation de l'espace (LOE) de 0,5 à 2,5 cm et des adénopathies pouvant atteindre 1 cm au niveau du hile hépatique, du tronc cœliaque, du ligament gastro-hépatique et péri-aortique au niveau du hile rénal gauche.
+
+Diagnostic
+Adénocarcinome gastrique peu différencié, analyse immunohistochimique (IHC) pour c-erbB2 : +2, en attente d'une analyse par hybridation in situ en fluorescence (FISH). Stade clinique T4N3M1.
+
+Traitement
+Une première ligne de chimiothérapie a été mise en place dans un but palliatif. En octobre 2011, le XELOX (capécitabine 1 000 mg/m2/12 h par voie orale pendant 14 jours tous les 21 jours et oxaliplatine 130 mg/m2 par voie intraveineuse tous les 21 jours) a été débuté, avec une bonne tolérance initiale. Avant le troisième cycle, l'amplification de HER-2 a été confirmée par FISH, de sorte que le traitement anti-HER-2 par trastuzumab a été ajouté à la chimiothérapie (dose de charge de 8 mg/kg par voie intraveineuse tous les 21 jours et doses ultérieures de 6 mg/kg). La toxicité la plus importante a été une diarrhée de grade 2, qui a été contrôlée par des mesures diététiques et l'hydratation.
+
+Évolution
+Après 4 cycles de traitement, une réponse radiologique partielle de plus de 50 % a été observée par tomodensitométrie. Le cas a été discuté au sein du comité multidisciplinaire des tumeurs en ce qui concerne la possibilité d'une intervention chirurgicale, qui a été rejetée car les lésions hépatiques avaient été évaluées comme métastatiques lors de la tomodensitométrie initiale. Le patient a poursuivi le même traitement jusqu'à la fin des 6 cycles.
+Lors du scanner de réévaluation, une réponse radiologique complète a été observée au niveau de la tumeur primaire et des adénopathies. Les LOE hépatiques n'ont montré aucun changement et, étant donné qu'ils n'ont pas montré de rehaussement avec le contraste iodé, ils ont finalement été évalués comme des kystes hépatiques. Compte tenu de ces résultats, une intervention chirurgicale a été envisagée.
+Le 10/05/2012, une gastrectomie totale D2 avec reconstruction Billroth III et cholécystectomie a été réalisée. L'anatomie pathologique a montré une réponse pathologique complète, avec des changements réparateurs avec une inflammation granulomateuse chronique gigantocellulaire, aucun signe de maladie dans le corps gastrique et les mêmes résultats dans 8 des 11 ganglions lymphatiques isolés (ypT0 et ypN0).
+Après la chirurgie, la patiente a continué à recevoir du trastuzumab toutes les 3 semaines jusqu'à la fin de l'année le 12/12/2012. Elle a suivi des contrôles tous les 3 mois pendant les 2 premières années, puis tous les 6 mois jusqu'à 5 ans après l'opération.
+Actuellement, la patiente est indemne de maladie, sans aucun signe de récidive 7 ans après l'opération, en bon état général et menant une vie normale.

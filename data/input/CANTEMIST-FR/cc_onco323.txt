@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 70 ans, n'ayant jamais fumé ni eu d'autres habitudes toxiques, ayant des antécédents d'hypertension artérielle contrôlée qui, en juin 2009, s'est présentée au service des urgences pour des rectorragies profuses d'une durée de 24 heures avec des épisodes de plus petites quantités au cours du dernier mois. Elle a également signalé un ténesme rectal et des modifications du rythme intestinal. L'examen rectal a révélé une région anale périnéale pigmentée.
+En juillet 2009, un scanner TAP a été réalisé, révélant une tumeur rectale de 7 cm de long s'étendant à la région rectosigmoïde, infiltrant le vagin et le col de l'utérus, et des adénopathies allant jusqu'à 1 cm dans la graisse périrectale, confirmées par une IRM pelvienne. Par la suite, une coloscopie complète a été réalisée, montrant une masse végétative d'apparence néoplasique qui ne sténosait pas la lumière du rectum, des biopsies ont été effectuées et l'anatomie pathologique était compatible avec un mélanome.
+En août 2009, elle a été opérée et a subi une amputation abdominopérinéale, étant pT4N3M0. Elle a ensuite reçu un traitement adjuvant à base d'interféron alfa-2b pendant un an, qui s'est terminé en octobre 2010.
+La patiente a continué à subir des examens normaux, sans maladie jusqu'en juillet 2012, lorsque des métastases hépatiques de 1,8 cm, 1 cm et 2 cm, respectivement, ont été observées lors d'un scanner de réévaluation, confirmé par une IRM hépatique au niveau des segments IV, VII et VIII (BRAF non muté, C-Kit négatif). En août 2012, elle a commencé un traitement à la dacarbazine en recevant 8 cycles, et une réponse partielle (diminution du nombre et de la taille des métastases hépatiques) a été observée lors d'un scanner de réévaluation en décembre 2012. Compte tenu de cette réponse, elle a reçu 8 cycles supplémentaires de Dacarbazine avec une bonne tolérance jusqu'en septembre 2013 où le scanner de réévaluation a montré une progression de la tumeur dans le foie et le PET scan a montré une augmentation des foyers de captation pathologique dans le foie (SUV 12,4) et elle a donc été considérée comme candidate à un traitement par Ipilimumab, recevant 4 cycles de décembre 2013 à mars 2014 avec une bonne tolérance.
+En mai 2014, un PET scan a été réalisé et des foyers de captation pathologique ont persisté dans le foie.
+
+Réponse immunitaire. La patiente a demandé une pause thérapeutique de 3 mois jusqu'en septembre 2014 où, après un scanner de réévaluation, une nette progression a été observée dans le foie avec des métastases allant jusqu'à 5 cm et des adénopathies rétropéritonéales allant jusqu'à 1,5 cm, de sorte qu'une nouvelle ligne de chimiothérapie avec Paclitaxel a été commencée et poursuivie jusqu'en janvier 2015 avec une bonne tolérance.
+En janvier 2015, un nouveau PET scan a été réalisé, montrant une progression avec une augmentation des foyers de captation pathologique dans le foie, des lymphadénopathies rétropéritonéales et osseuses au niveau du processus transverse gauche de D1 et du tiers supérieur de la diaphyse fémorale droite avec SUV allant jusqu'à 12,28 suggérant des métastases, il a donc été décidé de changer la ligne de traitement en Carboplatine, qu'elle a reçu seulement deux cycles jusqu'en mars 2015, étant interrompue en raison d'une thrombopénie soutenue.
+En avril 2015, elle a consulté le service des urgences pour arthralgie généralisée, asthénie, paresthésie dans tous les doigts des deux mains et faiblesse dans le membre supérieur gauche pendant 48 heures d'évolution.
+
+Examen physique
+L'état général est satisfaisant. ECOG 2. Bien hydraté. Peau et muqueuses pâles. Eupnéique au repos.
+Hémodynamiquement stable. Tête et cou : pas de lésions. Auscultation cardio-pulmonaire : normale.
+Abdomen : porteur d'une colostomie, reste de l'examen sans particularité. Examen neurologique : conscient et orienté. Nerfs crâniens normaux. Pas de claudication à Barré, faiblesse 4+/5 au biceps, triceps, extenseurs du poignet, fléchisseurs des doigts et interosseux du membre supérieur gauche.
+REM symétrique ++ dans les deux membres supérieurs. Hypoesthésie de tous les doigts des deux mains avec sensation de paresthésie. Le reste de l'examen neurologique est inchangé.
+
+Examens complémentaires
+Un bilan sanguin réalisé aux urgences montre une anémie normochrome normocytaire (hémoglobine : 10,4 g/dl), le reste de la série étant normal. Une radiographie cervico-dorso-lombaire a été réalisée montrant une diminution du corps vertébral D9, le reste étant inchangé.
+La radiographie du thorax ne montre pas d'images de condensation parenchymateuse ni d'épanchement pleural associé. Compte tenu des antécédents du patient, il a été décidé de demander une IRM du rachis cervico-dorsal, qui a montré une masse paravertébrale gauche au niveau de D1 s'étendant à travers le foramen conjonctif et envahissant le canal rachidien sans provoquer de déplacement ni d'altération du signal de la moelle épinière.
+
+Diagnostic
+Compte tenu des résultats radiologiques décrits et de la situation clinique du patient, le diagnostic principal est le suivant : radiculopathie secondaire à une masse paravertébrale gauche au niveau C7-D1 chez un patient atteint d'un mélanome rectal avec atteinte métastatique du foie, des ganglions lymphatiques et des os.
+
+Traitement
+Elle a été admise à l'hôpital pour un traitement aux corticostéroïdes et une analgésie de première phase.
+Par la suite, après avoir été évaluée par radiothérapie, elle a reçu 10 séances au niveau de la masse paravertébrale, obtenant une réponse clinique et neurologique très significative, et a quitté le service d'oncologie en mai 2015.
+
+Évolution
+Compte tenu de la stabilité clinique, elle a été considérée comme candidate à un traitement par Nivolumab à partir de mai 2015, et après huit cycles de traitement, une réévaluation a été effectuée, montrant une réponse radiologique partielle significative de toutes les lésions par rapport à l'étude précédente. Il a été décidé de poursuivre avec 8 cycles supplémentaires ; au total, elle a reçu 16 cycles avec une bonne tolérance et une stabilisation de la maladie à ce jour.

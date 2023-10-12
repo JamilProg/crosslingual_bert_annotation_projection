@@ -1,0 +1,6 @@
+T1	pathologie 54 109	lesión de pequeño tamaño en el párpado superior derecho
+T2	pathologie 378 441	insecto de color rojizo de 2 mm adherido al borde libre del PSD
+T3	pathologie 1148 1188	zoonosis transmitidas por las garrapatas
+#1	SNOMED T1	301913002
+#2	SNOMED T2	246812007
+#3	SNOMED T3	414018003

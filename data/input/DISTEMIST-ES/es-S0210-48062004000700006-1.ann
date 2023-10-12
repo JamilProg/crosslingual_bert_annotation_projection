@@ -1,0 +1,18 @@
+T1	pathologie 40 61	trastornos depresivos
+T2	pathologie 78 88	autolesión
+T3	pathologie 103 118	politraumatismo
+T4	pathologie 123 158	fractura de sacro, rama iliopubiana
+T5	pathologie 218 253	infecciones urinarias de repetición
+T6	pathologie 401 410	cistocele
+T7	pathologie 667 688	ectasia pieloureteral
+T8	pathologie 817 833	ectasia ureteral
+T9	pathologie 843 851	Fecaloma
+#1	SNOMED T1	35489007
+#2	SNOMED T8	128073008
+#3	SNOMED T9	40515007
+#4	SNOMED T6	252005008
+#5	SNOMED T3	417746004
+#6	SNOMED T4	13695006
+#7	SNOMED T5	197927001
+#8	SNOMED T7	32004001+25322007
+#9	SNOMED T2	248061004

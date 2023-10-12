@@ -1,0 +1,36 @@
+T1	pathologie 18 25	fumador
+T2	pathologie 69 87	esofagitis péptica
+T3	pathologie 89 104	hernia de hiato
+T4	pathologie 107 121	asma bronquial
+T5	pathologie 125 133	alérgico
+T6	pathologie 141 150	diabético
+T7	pathologie 341 362	gastroenteritis aguda
+T8	pathologie 933 945	cólico renal
+T9	pathologie 1283 1300	leve hiponatremia
+T10	pathologie 1430 1464	tumoración en glándula suprarrenal
+T11	pathologie 1657 1671	feocromocitoma
+T12	pathologie 1674 1695	carcinoma suprarrenal
+T13	pathologie 1836 1850	feocromocitoma
+T14	pathologie 2060 2076	masa suprarrenal
+T15	pathologie 2151 2165	feocromocitoma
+T16	pathologie 2203 2217	feocromocitoma
+T17	pathologie 2411 2433	feocromocitoma maligno
+T18	pathologie 2574 2600	trombo tumoral en una vena
+#1	SNOMED T1	77176002
+#2	SNOMED T2	16761005
+#3	SNOMED T3	84089009
+#4	SNOMED T4	195967001
+#5	SNOMED T10	237783006
+#6	SNOMED T13	302835009
+#7	SNOMED T7	69776003
+#8	SNOMED T11	302835009
+#9	SNOMED T14	237783006
+#10	SNOMED T12	255035007
+#11	SNOMED T8	7093002
+#12	SNOMED T15	302835009
+#13	SNOMED T16	302835009
+#14	SNOMED T17	21851000119103
+#15	SNOMED T18	448128007
+#16	SNOMED T6	73211009
+#17	SNOMED T5	106190000
+#18	SNOMED T9	89627008

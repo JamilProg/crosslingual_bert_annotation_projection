@@ -1,0 +1,38 @@
+Anamnèse
+Femme de 64 ans aux antécédents personnels d'hypertension artérielle sous traitement diététique et d'hépatectomie droite dans l'enfance pour un kyste hydatique, sans habitudes toxiques, ni traitements réguliers, ni allergies médicamenteuses connues. Elle n'a pas d'antécédents familiaux de maladies néoplasiques.
+
+Elle a été adressée en dermatologie par son médecin traitant pour l'apparition de lésions érythémateuses œdémateuses sur le dos des mains, le cou, le visage et les paupières depuis 8 mois. La patiente a également signalé une asthénie, une perte de poids de 7 kg au cours de la même période et des difficultés à lever les bras et à marcher.
+
+Il a fourni un test sanguin effectué par sa MAP, qui a montré un GPT de 162 UI/l (5-35), un GOT de 139 UI/l (5-31), un GGT de 13 UI/l (5-36), un LDH de 793 UI/l (135-214) et un CPK de 3 012 UI/l (34-145), la NFS et le reste de la biochimie étant normaux.
+
+Examen physique
+Généralités : couleur normale, bien hydraté, perfusé et nourri. Cardio-pulmonaire : normal. Abdomen : cicatrice de laparotomie sous-costale droite ; pas de masse ni de mégalithes palpables. Examen dermatologique : érythème sur le visage, le décolleté et le cou, où il prend une morphologie digitiforme. Erythème lilacé de morphologie linéaire sur le bord libre des deux paupières supérieures. Lésions érythémateuses oedémateuses sur le dos des doigts (articulations métacarpophalangiennes), s'étendant au dos des mains, légèrement eczémateuses. Erythème périunguéal et hémorragies d'échardes.
+
+Tests complémentaires
+La patiente a été admise en dermatologie pour investigation, où les tests diagnostiques suivants ont été effectués :
+"Biopsie musculaire : myopathie inflammatoire de type dermatomyosite (lymphocytes B dans les zones périmysiales et lymphocytes T endomysiaux, sans prédominance des CD4 sur les CD8).
+"Électromyogramme : schéma mixte avec suspicion de myopathie inflammatoire.
+"Sérologie : HIV1,2 Ag et Ac négatifs, anti-HBc négatifs, Ag-HBs négatifs, anticorps anti-VHC négatifs.
+"Etude d'auto-immunité : anti-DNA, anti-nucléaire, anti-SSA/Ro, anti-SSA/Ro52, anti-SSA/Ro60, anti-SSB-La, anti-RNP, anti-protéines centromériques, anti-topoisomérase, anti-Jo-1, anti-ribosomique, anti-Sm, anti-Sm-RNP et anti-chromatine négatifs.
+"Marqueurs tumoraux : alpha-FP, SCC, TPS, gastrine, Ca 125, Ca 19.9, Ca 125, Ca 72.4, CYFRA 21.1 et énolase, tous normaux.
+"Échographie abdominopelvienne : changements secondaires à la lobectomie du foie droit. Possibilité de cholélithiase avec épaississement de la paroi de la vésicule biliaire.
+"Scanner thoraco-abdomino-pelvien : thorax normal. Hépatectomie droite avec calcifications sur le bord chirurgical.
+"Gastroscopie : hernie hiatale coulissante. Gastrite chronique atrophique.
+"Coloscopie : polype hyperplasique et adénome tubulaire.
+"Échographie transvaginale : utérus atrophique normal, endomètre linéaire, annexes normales.
+"Mammographie : aucun résultat.
+"Cytologie cervicale : négative pour les lésions intra-épithéliales et les tumeurs malignes.
+
+Diagnostic
+Sur la base de ces résultats, le diagnostic de dermatomyosite idiopathique a été posé.
+
+Traitement
+Le traitement a débuté par l'administration de prednisone (à une dose initiale de 1 mg/kg, puis réduite à une dose de 30 mg/jour), de calcium et de vitamine D par voie orale, d'oméprazole et de triméthoprime-sulfaméthoxazole à des doses prophylactiques.
+
+Évolution
+Sous traitement stéroïdien, le taux de CPK est descendu à 65 UI/l et les lésions cutanées se sont améliorées.
+Il a continué à être suivi par un dermatologue.
+
+Quatre mois après le diagnostic de dermatomyosite, le patient s'est présenté au service des urgences avec des douleurs abdominales prédominant dans l'hypochondre droit et une fièvre allant jusqu'à 37,4 ºC. Une échographie abdominale urgente a été réalisée, qui a montré une vésicule biliaire avec une image lithiasique à l'intérieur et une épaisseur de paroi à la limite supérieure de la normale. À côté de la vésicule biliaire, il y avait une image échographique suggérant une collection mesurant 3,6 x 5,8 cm. Avec le diagnostic d'une possible cholécystite aiguë perforée ou d'une maladie hydatique compliquée (étant donné les antécédents d'hépatectomie pour kystes hydatiques du patient), le patient a subi une intervention chirurgicale. Une relaparotomie sous-costale droite a été pratiquée, suivie d'une cholécystectomie biliaire nécro-inflammatoire et d'une colectomie segmentaire (en raison de la présence d'une importante lésion latéro-hépatique affectant l'angle hépatique du côlon) avec anastomose latéro-latérale. L'examen anatomopathologique de la pièce opératoire a révélé un adénocarcinome modérément différencié de la vésicule biliaire pT2N1 (infiltrant toute l'épaisseur de la vésicule biliaire, avec des zones de perforation, d'infiltration du canal cystique et d'infiltration périneurale). Un scanner réalisé un mois après l'opération a montré la disparition de la grande collection dans l'hypochondre-flanc droit, mais une petite collection a été observée en postéro-inférieur du bord hépatique droit avec une atteinte de la graisse et des fascias environnants. Une réintervention chirurgicale a révélé une perforation colique qui a été réparée. En outre, une atteinte adénopathique rétroportale et du tronc cœliaque a été constatée. L'une de ces adénopathies a été réséquée et s'est révélée positive pour l'infiltration d'un adénocarcinome.
+
+La patiente a été envoyée par son chirurgien en oncologie médicale avec un diagnostic d'adénocarcinome E IV de la vésicule biliaire (pT2N1M1, adénopathie à distance). Le taux de CPK avait de nouveau augmenté (de 65 à 474 UI/l), et la faiblesse musculaire et les lésions cutanées s'étaient de nouveau aggravées après la première intervention chirurgicale. Il lui a été proposé de commencer un traitement systémique avec du cisplatine 30 mg/m2 jour 1 et de la gemcitabine 1000 mg/m2 jours 1 et 8, tous les 21 jours. La patiente a bien toléré le traitement, à l'exception d'une neuropathie de grade 2, et les symptômes musculaires et cutanés se sont progressivement améliorés, accompagnés d'une diminution des CPK. Un scanner de réévaluation a montré une réponse partielle des adénopathies. Le patient a effectué un total de six cycles et le traitement a été interrompu en raison d'une toxicité hématologique. Elle fait actuellement l'objet d'un suivi étroit.

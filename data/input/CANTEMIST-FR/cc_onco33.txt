@@ -1,0 +1,48 @@
+Anamnèse
+Femme de 78 ans, allergique à la pénicilline, ayant des antécédents de hernie hiatale, d'hypertension traitée par énalapril, de diabète sucré traité par metformine et de cardiopathie dégénérative avec dilatation du ventricule gauche, soumise à des contrôles semestriels par le service de cardiologie. La dernière échocardiographie de contrôle montre une diminution de la fonction systolique (FEVG) autour de 35-40 %, ainsi qu'une insuffisance mitrale modérée. Il reçoit également un traitement à base d'AAS, d'ivabradine et de simvastatine. Pas d'habitudes toxiques. Femme au foyer. Pas d'antécédents familiaux de cancer.
+
+Elle a été adressée à l'unité de pathologie mammaire en août 2013 pour un œdème et un érythème du sein gauche évoluant depuis environ un mois.
+
+Examen physique
+Patient fragile. ECOG : 1-2. Hypertrophie du sein gauche avec œdème et érythème. Auscultation cardiaque : tonalités rythmiques avec souffle systolique d'éjection avec deuxième bruit préservé. ECG : rythme sinusal à 75 bpm. PR constant à 0,2 ms. Axe QRS 0º. Bloc de branche gauche avec troubles secondaires de la repolarisation.
+
+Examens complémentaires
+"Une mammographie a été réalisée, montrant une hypertrophie diffuse du sein gauche avec un épaississement cutané modéré qui, à l'échographie mammaire, a montré un œdème diffus de la peau et du tissu cellulaire sous-cutané évoquant une tumeur inflammatoire, classée BIRADS-5 (B5). En outre, l'échographie de l'aisselle gauche a montré une lymphadénopathie axillaire avec un épaississement cortical suggérant une infiltration tumorale.
+"Une biopsie à l'aiguille de la lésion mammaire a été réalisée et le diagnostic anatomopathologique a été celui d'un carcinome canalaire infiltrant (CDI), grade II, récepteurs des œstrogènes et de la progestérone (ER, PR) négatifs, Her-2 +++, Ki-67 10 %. Une ponction à l'aiguille fine a confirmé la présence de métastases de carcinome dans l'aisselle gauche.
+"L'étude d'extension a été complétée par des tests de laboratoire de routine, où l'ACE était élevé : 9,5 ng/ml (N : 0-4,7 ng/ml).
+"La radiographie du thorax, l'échographie abdominale et la scintigraphie osseuse étaient normales. La FEVG initiale (ventriculographie isotopique à l'équilibre) était de 23 %.
+
+
+Diagnostic
+Carcinome inflammatoire localement avancé du sein gauche -cT4N1M0, ER et PR négatifs, Her-2 positif- chez une patiente ayant des antécédents de maladie cardiaque dégénérative avec une FEVG déprimée.
+
+Traitement
+Après discussion au sein du comité multidisciplinaire des tumeurs du sein, il a été décidé de commencer une chimiothérapie néoadjuvante dans le cas d'une patiente atteinte d'un néoplasme inflammatoire du sein. Étant donné qu'il s'agit d'une tumeur Her-2+ chez une patiente âgée souffrant d'une maladie cardiaque, il a été décidé d'éviter les schémas comprenant des anthracyclines et du trastuzumab. Le traitement néoadjuvant a donc débuté en septembre 2013 avec 1 000 mg de lapatinib par jour pendant 6 semaines, suivis de 12 semaines de ce traitement anti-Her-2 associé à 80 mg/m2 de paclitaxel sur une base hebdomadaire.
+
+Au cours du traitement, la patiente a connu des retards dans l'administration du médicament, nécessitant un ajustement de 75 % de la dose de lapatinib en raison d'une toxicité gastro-intestinale de grade II, et a même été interrompue au cours de la dixième semaine de traitement en raison d'une diarrhée de grade III.
+
+Une surveillance périodique de la FEVG par ventriculographie isotopique a été effectuée par le service de médecine nucléaire, sans détérioration de la fonction ventriculaire (FEVG à la fin du traitement néoadjuvant de 44,8 %).
+
+L'administration du paclitaxel s'est achevée en janvier 2014 avec une amélioration clinique notable, après quoi une échographie, une mammographie et une IRM mammaire ont été réalisées après le traitement, et aucune prise pathologique n'a été observée, ce qui correspond à une réponse radiologique complète.
+
+La patiente a été opérée en février 2014 par mastectomie et lymphadénectomie axillaire gauche sans complications. L'examen histologique de la pièce réséquée n'a révélé aucun reste de tumeur et les ganglions lymphatiques réséqués étaient également négatifs, il s'agissait donc d'une réponse pathologique complète.
+
+Compte tenu de la toxicité gastro-intestinale du lapatinib, qui a nécessité son arrêt avant la fin du traitement néoadjuvant, il a été décidé de ne pas le poursuivre après l'intervention chirurgicale. Elle a terminé le traitement par radiothérapie externe, en recevant 50 Gy sur le lit chirurgical, entre mars et mai 2014, puis a entamé un suivi strict.
+
+Évolution
+En juillet 2014, la patiente a consulté pour des symptômes d'asthénie, d'anorexie et de perte de poids. Une analyse de contrôle avec les marqueurs tumoraux a été réalisée, mettant en évidence la présence d'une anémie normocytaire et normochrome (Hb : 9,3 g/dl) et une nouvelle élévation de l'ACE : 5,64 ng/ml (N : 0-4,7 ng/ml), qui était restée à des valeurs normales depuis le traitement néoadjuvant.
+
+Une recherche de sang occulte dans les selles a été demandée pour exclure une éventuelle hémorragie gastro-intestinale. Comme elle s'est révélée négative et que les symptômes du patient se sont aggravés, une tomodensitométrie thoraco-abdominale a été demandée, qui a montré l'apparition d'au moins trois lésions hépatiques nodulaires hypodenses aux limites mal définies d'environ 37 mm dans le segment III de la LHI et de 21 mm dans le segment VIII et de 10 mm dans le segment VII de la LHD, compatibles avec des métastases, sans signe de maladie à d'autres niveaux.
+La scintigraphie osseuse est négative.
+
+Compte tenu de la bonne réponse obtenue lors du traitement néoadjuvant par lapatinib, il a été décidé de reprendre le traitement en août 2014 selon le schéma capécitabine 1 000 mg/m2 toutes les 12 heures/jour 1 à 14 + lapatinib 1 000 mg par jour tous les 21 jours, en ajustant les doses de départ à 75 % en raison de la toxicité gastro-intestinale observée précédemment, en obtenant une réponse clinique et une stabilité radiologique lors du contrôle de novembre 2014.
+
+En décembre 2014, le patient a commencé un traitement par lévofloxacine 500 mg c/24 h pour une suspicion d'infection des voies respiratoires supérieures. Vingt-quatre heures plus tard, le patient s'est présenté aux urgences pour une fièvre persistante, avec des épisodes de perte de conscience de quelques secondes, compatibles avec une syncope, dont la fréquence a augmenté tout au long de la journée.
+
+L'ECG a montré un intervalle QT anormal et le patient a été surveillé. Au cours de l'anamnèse, le patient a de nouveau perdu connaissance et un tracé électrocardiographique compatible avec une tachycardie ventriculaire à QRS large à 250 bpm évoquant une torsade de pointes a été observé, qui s'est inversé spontanément après quelques secondes.
+
+Une évaluation a été demandée par le service de cardiologie, qui a décidé de la transférer à l'unité de soins coronariens pour la mise en place d'un stimulateur cardiaque externe temporaire. La magnésémie a été corrigée et tous les médicaments susceptibles de provoquer un allongement de l'intervalle QT ont été suspendus : ivabradine, lévofloxacine et lapatinib, avec une correction progressive de l'intervalle QT, de sorte qu'après deux jours, le stimulateur cardiaque transitoire a été retiré sans complications et le patient a été transféré dans le service d'oncologie.
+
+A l'admission, il présentait des signes de sepsis d'origine respiratoire, un traitement empirique par amikacine et linézolide a donc été mis en place, avec une amélioration clinique et analytique, et il est sorti de l'hôpital en janvier 2015.
+
+Compte tenu de l'âge du patient, de l'aggravation de son état de performance et de la toxicité, il a été décidé de poursuivre le traitement symptomatique.

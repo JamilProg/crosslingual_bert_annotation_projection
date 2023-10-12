@@ -1,0 +1,34 @@
+Anamnèse
+Femme de 53 ans, originaire de l'Équateur, ancienne fumeuse de 15 cigarettes/jour pendant 15 ans, avec un IMC de 25 et une dyslipidémie. Cholécystectomie pour colique biliaire. Elle ne prend pas de traitement régulier (elle a pris de l'atorvastatine pendant quelques mois, puis a abandonné le traitement de son propre chef). Elle a 4 enfants en bonne santé, sans antécédent familial de cancer intéressant.
+Elle a consulté en février 2015 pour une stéatorrhée et une perte de poids de 10 kg en un an. Une étude de la malabsorption et une coloscopie ont été entamées sans résultat. Un scanner a montré une légère stéatose hépatique et une image kystique de 1 cm dans la tête du pancréas. L'étude a été complétée par une cholangiorésonance et une IRM du pancréas, avec une masse pancréatique de 3 cm suspecte de tumeur. Pour confirmer le diagnostic, une échographie endoscopique supérieure a été réalisée, révélant une masse mal définie de 3 cm, dont les biopsies n'étaient pas représentatives. En raison de la suspicion de tumeur pancréatique, le patient a subi une duodénopancréatectomie céphalique programmée en décembre 2015, avec résection complète et anatomie pathologique d'un adénocarcinome pancréatique infiltrant de 1,3 cm associé à une néoplasie mucineuse papillaire intraductale avec dysplasie de haut grade, infiltration du tissu adipeux péripancréatique, bords chirurgicaux libres et absence de métastases dans 31 ganglions lymphatiques isolés, stade pT3, N0, Mx.
+L'étude d'extension s'est révélée négative et, en janvier 2016, il a commencé un traitement adjuvant par gemcitabine, recevant 6 cycles jusqu'en juin 2016, avec une bonne tolérance.
+En juillet 2016, elle a consulté pour des douleurs dans l'hypochondre droit et une ascite.
+
+Examen physique
+A l'arrivée au service des urgences :
+"Signes vitaux stables avec tendance à la tachycardie. TA 109/82 mm Hg, FC 105 bpm, SpO2 97 % ligne de base. Afebrile. Ictère cutanéo-muqueux.
+"ACP : crépitations fines bibasales. CVM.
+"ABD : très distendu, pas d'ascite à la tension. Douleur au HCD et à l'épigastre à la palpation profonde, Murphy négatif. Pas de Blumberg. Percussion rénale bilatérale négative.
+"MMII : œdème avec fovéa jusqu'à la racine des membres, pas de signes de TVP, pouls présents.
+
+Tests complémentaires
+Les examens de laboratoire ont révélé une hyperbilirubinémie, avec une bilirubine totale de 3,3 mg/dl (principalement directe), une cholestase (GGT 220 U/l) et des enzymes de cytolyse normales (GPT 22 U/l, GOT 43 U/l), ainsi qu'une anémie macrocytaire (Hb 8,8 g/dl avec MCV 103 fL) et une coagulopathie d'apparition récente (activité prothrombique 32 % et TCA 55,7 secondes).
+Il a été admis pour des examens complémentaires et un diagnostic différentiel a été établi :
+"L'étiologie infectieuse a été exclue : liquide ascitique sans signe de péritonite. Le virus de l'hépatite A (IgM négatif, IgG positif), l'hépatite B (HBs Ag négatif, HBcIgG négatif), l'hépatite C (HCV Ac négatif), l'hépatite E (IgG, IgM et PCR négatif), le virus d'Epstein-Barr (IgM négatif), le cytomégalovirus (IgM positif, PCR < 150 copies), le VIH (combo négatif) ont été éliminés.
+"L'histoire clinique et l'absence de données clinico-analytiques suggérant une telle étiologie ont permis d'exclure la présence d'une étiologie œnolique.
+"L'étiologie tumorale a été écartée : la cytologie du liquide ascitique était négative pour les cellules malignes. Un scanner et une IRM ont été réalisés sans retrouver de récidive tumorale, montrant "une possible toxicité hépatique sur une stéatose sévère avec une fraction graisseuse de 43,5 %". Un PET scan a été réalisé, avec pour seul résultat une "prise hépatique pathologique".
+"Une étiologie vasculaire (Budd-Chiari, thrombose) a été exclue en raison de l'absence de résultats à l'imagerie et aux examens hématologiques, la seule observation étant une augmentation polyclonale des IgG en relation avec la cirrhose.
+"Une étiologie auto-immune a été exclue : 2 échantillons négatifs pour les anticorps anti-mitochondriaux, anti-muscle lisse, anti-LKM. Anticorps antinucléaires (ENA, ADN) positifs 1/80 de façon granuleuse et non significative.
+"Les causes génétiques sont exclues : déficit en alpha-1-antitrypsine en raison de taux normaux.
+"La maladie de Wilson a été initialement suspectée en raison d'une céruloplasmine < 10U/l, se normalisant dans le deuxième échantillon et avec un taux de cuivre normal dans les urines de 24 heures (et l'absence de dépôts de cuivre dans la biopsie du foie).
+"D'autres causes rares et moins probables ont été écartées : hémochromatose (fonction hépatique, ferritine et saturation de la transferrine normales avant le début de la chimiothérapie), maladie cœliaque, maladies granulomateuses, insuffisance cardiaque (échocardiogramme avec fonction ventriculaire normale).
+"Médicaments : une fois les autres causes probables écartées, les médicaments reçus au cours des 6 derniers mois ont été analysés (ciprofloxacine pour une infection urinaire pendant 10 jours pendant le traitement par gemcitabine, atorvastatine pendant quelques semaines, que la patiente a arrêté de son propre chef, gemcitabine).
+
+Diagnostic
+Avec la suspicion d'une stéatohépatite aiguë non alcoolique (NASH), une biopsie du foie a été réalisée : nécrose hépatique submassive avec ballonnement des hépatocytes, très suggestive d'une NASH de cause pharmacologique probable. Comme, à l'exception de la gemcitabine, les autres médicaments ont été administrés dans un court laps de temps, cette complication a été attribuée à la gemcitabine et l'agence du médicament a été informée.
+
+Traitement
+Lors de son admission, le patient a reçu des soins de soutien, présentant plusieurs épisodes d'encéphalopathie hépatique qui ont été traités de manière conservatrice, ainsi qu'une pneumonie nosocomiale qui a nécessité une antibiothérapie intraveineuse et une oxygénothérapie, avec une amélioration progressive.
+
+Évolution
+Après 3 mois d'hospitalisation, la patiente est sortie en octobre 2016 avec une amélioration clinique et continue d'être suivie par l'oncologie médicale et la médecine digestive, sans nouvel épisode de décompensation et sans données de récidive tumorale à ce jour.

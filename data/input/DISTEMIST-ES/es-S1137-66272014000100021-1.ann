@@ -1,0 +1,16 @@
+T1	pathologie 132 155	alergias medicamentosas
+T2	pathologie 161 178	alérgico al polen
+T3	pathologie 878 890	tuberculosos
+T4	pathologie 1011 1022	adenopatías
+T5	pathologie 1026 1037	acropaquias
+T6	pathologie 1539 1567	lesiones cavitadas-quísticas
+T7	pathologie 2448 2475	histiocitosis de Langerhans
+T8	pathologie 2555 2571	hábito tabáquico
+#1	SNOMED T8	89765005
+#2	SNOMED T4	30746006
+#3	SNOMED T5	46922002
+#4	SNOMED T7	234439008
+#5	SNOMED T2	300910009
+#6	SNOMED T6	441457006
+#7	SNOMED T3	56717001
+#8	SNOMED T1	416098002

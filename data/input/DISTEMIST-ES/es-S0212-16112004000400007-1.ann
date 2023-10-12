@@ -1,0 +1,28 @@
+T1	pathologie 60 74	cifoescoliosis
+T2	pathologie 76 114	insuficiencia respiratoria restrictiva
+T3	pathologie 117 131	diverticulosis
+T4	pathologie 158 207	peritonitis secundaria a diverticulitis perforada
+T5	pathologie 183 207	diverticulitis perforada
+T6	pathologie 279 301	fístula entero-cutánea
+T7	pathologie 1302 1316	deshidratación
+T8	pathologie 1318 1343	insuficiencia renal aguda
+T9	pathologie 1345 1364	acidosis metabólica
+T10	pathologie 1366 1384	hiponatremia grave
+T11	pathologie 1387 1401	hiperpotasemia
+T12	pathologie 1423 1454	insuficiencia suprarrenal aguda
+T13	pathologie 1833 1855	obstrucción intestinal
+T14	pathologie 2031 2043	hiponatremia
+T15	pathologie 2049 2063	hiperpotasemia
+T16	pathologie 2742 2760	paraparesia en MSI
+T17	pathologie 3001 3025	encefalopatía metabólica
+T18	pathologie 3059 3091	estatus epiléptico no convulsivo
+T19	pathologie 3363 3372	arritmias
+T20	pathologie 3443 3463	hipofosfatemia grave
+T21	pathologie 3468 3482	hipomagnesemia
+T22	pathologie 3485 3498	hipopotasemia
+T23	pathologie 3905 3931	intoxicación por fenitoína
+T24	pathologie 3965 4023	sepsis por Candida spp. relacionada con el catéter central
+T25	pathologie 4214 4239	insuficiencia suprarrenal
+T26	pathologie 4297 4311	deshidratación
+T27	pathologie 4475 4500	insuficiencia suprarrenal
+T28	pathologie 4713 4735	fístula entero-cutánea

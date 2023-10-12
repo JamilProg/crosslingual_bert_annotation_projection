@@ -1,0 +1,10 @@
+T1	pathologie 128 137	hemotórax
+T2	pathologie 1138 1141	HCL
+T3	pathologie 1325 1367	adenopatía en localización supraclavicular
+T4	pathologie 1405 1465	enfermedad de Hodgkin tipo esclerosis nodular asociada a HCL
+T5	pathologie 1462 1465	HCL
+#1	SNOMED T2	65399007
+#2	SNOMED T3	127088000
+#3	SNOMED T4	118608000
+#4	SNOMED T5	65399007
+#5	SNOMED T1	31892009

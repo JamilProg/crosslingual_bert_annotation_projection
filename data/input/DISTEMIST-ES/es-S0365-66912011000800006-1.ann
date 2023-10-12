@@ -1,0 +1,16 @@
+T1	pathologie 21 44	enfermedad de Alzheimer
+T2	pathologie 55 84	diabético insulinodependiente
+T3	pathologie 333 358	lesión ulcerativa corneal
+T4	pathologie 387 421	poro endotelial perforante central
+T5	pathologie 450 483	proceso infeccioso o inflamatorio
+T6	pathologie 572 613	perforación corneal no traumática estéril
+T7	pathologie 828 838	ulceración
+T8	pathologie 1374 1400	poro endotelial perforante
+#1	SNOMED T6	74895004
+#2	SNOMED T2	46635009
+#3	SNOMED T3	91514001
+#4	SNOMED T4	231794000
+#5	SNOMED T7	429040005
+#6	SNOMED T8	231794000
+#7	SNOMED T5	257552002
+#8	SNOMED T1	26929004

@@ -1,0 +1,38 @@
+T1	pathologie 43 45	OI
+T2	pathologie 189 198	fracturas
+T3	pathologie 272 315	traumatismos mínimos, la primera del húmero
+T4	pathologie 385 411	fracturas en codo y hombro
+T5	pathologie 572 581	esguinces
+T6	pathologie 591 609	roturas musculares
+T7	pathologie 628 641	otoesclerosis
+T8	pathologie 754 766	osteoporosis
+T9	pathologie 1006 1021	escleras azules
+T10	pathologie 1037 1062	dentinogénesis imperfecta
+T11	pathologie 1078 1100	deformidades torácicas
+T12	pathologie 1198 1210	hiperlaxitud
+T13	pathologie 1560 1572	osteoporosis
+T14	pathologie 1643 1645	OI
+T15	pathologie 1707 1724	impresión basilar
+T16	pathologie 1779 1811	cambios degenerativos en columna
+T17	pathologie 1849 1882	dilatación de la aorta ascendente
+T18	pathologie 1982 1996	litiasis renal
+T19	pathologie 2157 2225	gen COL1A1 una deleción en heterocigosis de una Guanina (c.3524delG)
+#1	SNOMED T2	125605004
+#2	SNOMED T8	64859006
+#3	SNOMED T1	78314001
+#4	SNOMED T14	78314001
+#5	SNOMED T10	196286005
+#6	SNOMED T11	444693004
+#7	SNOMED T16	699699005
+#8	SNOMED T4	309464009+16250001000004107
+#9	SNOMED T13	64859006
+#10	SNOMED T18	95570007
+#11	SNOMED T5	398878007
+#12	SNOMED T6	262966007
+#13	SNOMED T7	11543004
+#14	SNOMED T15	86587003
+#15	SNOMED T3	428192009
+#16	SNOMED T9	204164000
+#17	SNOMED T12	239762007
+#18	SNOMED T17	253645007
+#19	SNOMED T19	737543005

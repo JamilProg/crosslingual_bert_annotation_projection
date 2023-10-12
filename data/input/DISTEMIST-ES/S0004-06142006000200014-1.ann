@@ -1,0 +1,14 @@
+T1	pathologie 279 302	quiste renal complicado
+T2	pathologie 503 531	trombo tumoral en vena renal
+T3	pathologie 557 569	hipernefroma
+T4	pathologie 831 836	tumor
+T5	pathologie 972 995	Tumor fibroso solitario
+T6	pathologie 1000 1005	tumor
+T7	pathologie 1146 1158	masa tumoral
+#1	SNOMED T1	722223000
+#2	SNOMED T2	15842009
+#3	SNOMED T3	702391001
+#4	SNOMED T4	55342001
+#5	SNOMED T5	128736003
+#6	SNOMED T6	55342001
+#7	SNOMED T7	55342001

@@ -1,0 +1,14 @@
+T1	pathologie 52 81	fibrilación auricular crónica
+T2	pathologie 97 123	isquemia intestinal masiva
+T3	pathologie 447 470	enfermedad de Parkinson
+T4	pathologie 637 661	neumonía de la comunidad
+T5	pathologie 728 759	infecciones asociadas a catéter
+T6	pathologie 769 778	infección
+T7	pathologie 989 1013	esteatosis hepática leve
+#1	SNOMED T1	426749004
+#2	SNOMED T2	82196007
+#3	SNOMED T3	49049000
+#4	SNOMED T4	385093006
+#5	SNOMED T5	440653007
+#6	SNOMED T7	197321007
+#7	SNOMED T6	40733004

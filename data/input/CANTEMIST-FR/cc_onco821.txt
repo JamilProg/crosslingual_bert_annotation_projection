@@ -1,0 +1,22 @@
+Anamnèse
+Elle s'est présentée aux urgences générales le 15/05/2017 rapportant une fièvre, une oligoanurie et une altération de l'état général depuis trois jours d'évolution ainsi que des nausées et des vomissements bilieux.
+
+Examen physique
+Signes vitaux : TA : 98/53 mm Hg, FC : 109 bpm, 37,8 ºC, saturation 98 %.
+Au cours de l'examen, le patient a présenté une sensation de malaise avec un état général normal, ainsi qu'une gêne à la palpation de l'hypogastre. Le cathétérisme urinaire a montré des urines peu abondantes et pyuriques.
+
+Examens complémentaires
+Les examens de laboratoire effectués aux urgences ont révélé une leucocytose à neutrophiles avec des réactifs de phase aiguë élevés (protéine C-réactive 230 ; procalcitonine 15). En outre, il y a eu une augmentation franche de la créatinine à 8,3 mg/dl (DFG 7). La radiographie du thorax et la radiographie abdominale n'ont rien révélé de remarquable. Les analyses d'urine ont montré 500 leucocytes et des nitrites positifs, mais ni les cultures d'urine ni les hémocultures n'ont permis d'isoler le germe responsable.
+Compte tenu du diagnostic de choc septique dû à l'infection du cathéter double J et d'insuffisance rénale aiguë d'origine mixte, le service d'urologie de garde a été contacté et a procédé à l'ablation du double J. En raison de l'impossibilité de placer un nouveau cathéter, une néphrostomie bilatérale urgente a été pratiquée par la radiologie vasculaire.
+Après stabilisation du patient dans la zone d'observation, il a été admis en oncologie médicale pour un traitement de soutien et une réévaluation de sa maladie sous-jacente. Une tomodensitométrie a d'abord été réalisée sans contraste puis, après rétablissement de la fonction rénale, avec contraste. Les études ont été rapportées comme des changements post-chirurgicaux et de RT au niveau local, ainsi que des adénopathies iliaques inguinales et rétropéritonéales à la limite supérieure de la normalité. La tomodensitométrie avec contraste réalisée le 6 juin a également montré une perforation de la paroi de la vessie. Entre les deux examens d'imagerie, une cystoscopie a été réalisée, révélant une prostate déstructurée avec un pus abondant. La vessie n'était pas évaluable en raison de l'abondance du contenu purulent, et des biopsies n'ont pas pu être réalisées, de sorte qu'une récidive du processus oncologique n'a pas pu être exclue.
+Après un examen exhaustif du cas au sein du comité d'uro-oncologie et afin d'envisager toutes les possibilités, une biopsie liquide a été réalisée le 25 mai à l'aide de la technique BEAMing après confirmation de la mutation du codon 12 de l'exon 2 de KRAS dans la pièce opératoire. L'étude des microsatellites n'a montré aucune instabilité des microsatellites.
+
+Diagnostic
+Un diagnostic de choc septique d'origine urinaire avec perforation de la paroi vésicale et insuffisance rénale aiguë a été établi. De même, une fois qu'il s'est remis de l'état infectieux, son processus oncologique a été considéré comme ne présentant aucun signe de maladie d'après les images radiologiques, malgré la biopsie liquide KRAS positive.
+
+Traitement
+Une antibiothérapie empirique prolongée et une prise en charge conservatrice de la perforation vésicale ont été décidées, en maintenant la double néphrostomie, ainsi que le cathétérisme vésical, et il est sorti le 13 juin 2017 avec une uro-CT de préférence pour exclure une récidive locale face à une cystoscopie non concluante et surtout en raison du résultat de la biopsie liquide. Bien que le patient ait eu une coloscopie récente, une nouvelle rectoscopie a également été demandée.
+
+Évolution
+Un uro-CT scan ambulatoire a été réalisé le 17 juillet et a révélé une hypertrophie des adénopathies rétropéritonéales et inguinales, la plus grande mesurant jusqu'à 38 mm. Quatre jours plus tard, la rectoscopie a révélé une muqueuse très congestive avec une sténose de la lumière, sur laquelle des biopsies ont été effectuées et se sont révélées compatibles avec un adénocarcinome invasif de haut grade.
+Bien que l'uro-CT scan n'ait plus montré de fuites suggérant une perforation de la vessie, un nouvel état septique avec une détérioration clinique significative du patient nous a conduit à refuser tout type de traitement médical ou chirurgical actif et il a été référé aux soins palliatifs pour un contrôle symptomatique, avec un décès ultérieur en septembre de la même année.

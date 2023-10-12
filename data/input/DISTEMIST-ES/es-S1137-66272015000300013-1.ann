@@ -1,0 +1,17 @@
+T1	pathologie 50 79	carcinoma escamoso de laringe
+T2	pathologie 334 381	carcinoma escamoso infiltrante en hemiepiglotis
+T3	pathologie 404 509	ganglios linfáticos positivos de la cadena yugular interna, subdigástricos y supraclaviculares izquierdos
+T4	pathologie 724 742	diplopia binocular
+T5	pathologie 745 759	visión borrosa
+T6	pathologie 792 839	oftalmoparesia del III, IV y VI pares craneales
+T7	pathologie 1153 1169	lesiones líticas
+T8	pathologie 1173 1207	invasión del ala o seno esfenoidal
+T9	pathologie 1300 1310	schwannoma
+T10	pathologie 1312 1322	meningioma
+T11	pathologie 1325 1335	metástasis
+T12	pathologie 1453 1492	invasión tumoral del espacio intradural
+T13	pathologie 1532 1550	carcinoma escamoso
+T14	pathologie 1746 1790	lesiones focales en los cuerpos D4, D6 y D10
+T15	pathologie 1806 1828	implantes metastásicos
+T16	pathologie 1905 1918	oftalmoplejía
+T17	pathologie 2032 2063	metástasis en el seno cavernoso

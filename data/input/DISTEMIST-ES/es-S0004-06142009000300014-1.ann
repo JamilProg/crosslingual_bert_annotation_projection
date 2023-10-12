@@ -1,0 +1,12 @@
+T1	pathologie 471 492	lesión paratesticular
+T2	pathologie 552 558	lipoma
+T3	pathologie 652 702	lipoma de unos 2 x 1,5 cm en el cordón espermático
+T4	pathologie 795 816	lipoma paratesticular
+T5	pathologie 984 1029	LPS bien diferenciado del subtipo lipoma like
+T6	pathologie 1282 1298	recidiva tumoral
+#1	SNOMED T5	254829001
+#2	SNOMED T3	93162007
+#3	SNOMED T4	93163002
+#4	SNOMED T1	281591005
+#5	SNOMED T6	25173007
+#6	SNOMED T2	93163002

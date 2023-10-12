@@ -1,0 +1,29 @@
+Anamnèse
+Homme, 23 ans, pas d'allergies connues. Antécédents personnels : thalassémie mineure et cryptorchidie du teste gauche traitée par chirurgie.
+En janvier 2011, il a consulté le service des urgences pour des douleurs abdominales depuis plusieurs mois, associées par la suite à une douleur et à un gonflement du testicule droit, accompagnés de fièvre et d'un malaise général ; en outre, une masse sus-claviculaire gauche est apparue. Il a été admis dans le service de médecine interne pour des examens complémentaires.
+
+Examen physique
+L'état de la patiente est acceptable. Il présente une lésion d'environ 4 cm de diamètre au niveau supraclaviculaire ; au niveau abdominal, une douleur généralisée à la palpation et une masse mal définie dans les quadrants inférieurs ; au niveau génital, le testicule droit présente une augmentation de taille et de consistance.
+
+Tests complémentaires
+- NFS : lactate déshydrogénase (LDH) 2 500 UI/l. Le reste est normal.
+- Marqueurs tumoraux : gonadotrophine chorionique humaine ? (?-HGC) 14 060 nUI/ml ; alpha-fœtoprotéine (AFP) 6 919 ng/ml.
+- Tomodensitométrie (TDM) : atteinte adénopathique multiple au niveau supraclaviculaire, médiastinal, rétropéritonéal massif (conglomérat d'environ 12 cm) et métastases pulmonaires.
+- Échographie testiculaire : masse testiculaire et hernie inguinale droite.
+- Tomographie par émission de positons (TEP/TDM) : confirmation de l'atteinte adénopathique au niveau latérocervical, supraclaviculaire et axillaire gauche, médiastinal, rétropéritonéal, rétrocrural, iliaque et au niveau des testicules.
+- Le 13/1/2011, une biopsie de la lésion cervicale a été réalisée, le résultat de l'anatomie pathologique montrant une métastase de carcinome embryonnaire.
+
+Diagnostic
+Carcinome embryonnaire avec de multiples métastases ganglionnaires et pulmonaires (IVUS) de pronostic intermédiaire.
+
+Traitement
+Une orchidectomie a été réalisée le 18/1/2011 avec pour résultat anatomopathologique définitif un carcinome embryonnaire (75 %), avec invasion vasculaire, séminome (20 %) et tératome (5 %).
+Il a été adressé à notre service. Il s'est présenté à une séance clinique. Le processus a été classé comme une tumeur germinale non séminomateuse (NSGT), avec un pronostic intermédiaire, et il a été décidé de commencer un traitement de chimiothérapie avec BEP (bléomycine, étoposide et cisplatine) pour 4 cycles, qu'il a reçu entre janvier et avril 2011, avec une bonne tolérance, à l'exception du dernier cycle, où il a présenté une neutropénie de grade 3.
+
+Évolution
+Lors de la tomodensitométrie de réévaluation, une réponse complète a été signalée aux niveaux pulmonaire et médiastinal, avec une réponse partielle au niveau rétropéritonéal.
+Dans l'attente d'une intervention chirurgicale, il a présenté une augmentation de l'AFP et un scanner a été réalisé, qui a montré une progression au niveau rétropéritonéal, ce qui a exclu l'intervention chirurgicale. Il a été décidé de débuter une chimiothérapie de seconde ligne selon le schéma TIP (paclitaxel, cisplatine, ifosfamide) pendant 4 cycles en septembre et novembre 2011, avec une tolérance acceptable.
+Lors de la réévaluation, on a constaté une diminution des marqueurs tumoraux (AFP 31,2 ng/ml) et une réponse partielle au scanner rétropéritonéal. Le cas a été discuté avec le service d'hématologie et il a été décidé de procéder à une autogreffe de cellules souches hématopoïétiques du sang périphérique (APHSCT) selon le protocole GELTAMO (Ifosfamide 4g/m2 x 4 jours + carboplatine 600 mg/m2 x 3 jours + étoposide 250 mg/m2 x 3 jours) en janvier 2012. Le scanner qui a suivi a montré une réponse partielle avec un conglomérat rétropéritonéal mesurant 30 mm, ce qui a été confirmé par PET/CT.
+Le comité a décidé de procéder à une intervention chirurgicale sur la masse résiduelle. Une lymphadénectomie ilio-obturatrice complète a été réalisée en août 2012, avec des résultats anatomopathologiques : absence de structures néoplasiques.
+Lors du premier contrôle après l'opération, une augmentation de l'AFP a été détectée et un scanner a été réalisé, montrant une lymphadénopathie interaortocave qui a été confirmée par TEP/TDM. Compte tenu de la nouvelle récidive, il a été décidé d'entamer une troisième ligne de chimiothérapie avec paclitaxel-gemcitabine et d'envisager un nouveau sauvetage chirurgical. Elle a reçu 4 cycles entre octobre et janvier 2013, avec une toxicité hématologique (thrombopénie de grade 2). La tomodensitométrie a montré une réponse partielle des adénopathies rétropéritonéales. En mars 2013, une lymphadénectomie rétropéritonéale a été réalisée avec des résultats anatomopathologiques : hyalinisation et fibrose (adénopathie aortocave), tissu fibreux et quelques restes de tératome mature (ganglion lymphatique précaval) et tissu osseux mature (formation osseuse prépéritonéale).
+Commence des examens approfondis, aucun signe de maladie à ce jour.

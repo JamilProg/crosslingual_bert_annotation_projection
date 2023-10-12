@@ -1,0 +1,26 @@
+Anamnèse
+Une femme de 60 ans, ayant des antécédents personnels de hernioplastie inguinale droite et de hernie ombilicale géante récurrente avec incarcération, a été adressée au service des urgences de l'hôpital maternel Virgen del Rocío par son médecin traitant en raison de métrorragies incoercibles lors d'une tentative de cytologie de routine.
+Avant son admission, la patiente avait signalé des leucorrhées sanglantes et une asthénie depuis plusieurs semaines, sans aucun autre symptôme associé.
+
+Examen physique
+EVA 1-2 ; taille 153 cm ; poids 76 kg ; WC 1,74 m2. Bon état général. Conscient et orienté.
+Hémodynamiquement stable. Pas d'adénopathies au niveau du cou et des aisselles. Pas d'engorgement jugulaire.
+Auscultation cardiorespiratoire avec des bruits cardiaques rythmés à bonne fréquence et un souffle vésiculaire conservé dans les deux hémithorax. Abdomen cicatrisé par hernioplastie inguinale et ombilicale droite. Néphrostomie bilatérale.
+Examen gynécologique : grosse tumeur exophytique cervicale d'environ 6 cm dont des biopsies ont été faites. Le paramètre droit est libre. Le paramètre gauche semble atteint.
+
+Examens complémentaires
+- Examens de laboratoire : chimie et hémogramme normaux, à l'exception d'un taux d'hémoglobine de 10,9 g/dl.
+- Tomodensitométrie abdominale : masse du col utérin mesurant 6 x 5 x 5 x 5 cm avec rehaussement hétérogène et nécrose centrale s'étendant au tiers distal de la face postérieure du corps utérin et de la voûte vaginale avec indemnité apparente du plan graisseux avec la face antérieure de l'ampoule rectale. Il est plus difficile d'établir le plan graisseux de clivage et l'indemnité de la face postéro-inférieure de la vessie (vessie vide). Carcinome du col de l'utérus. Extension métastatique étendue des ganglions lymphatiques à partir des chaînes iliaque et obturatrice, s'étendant crânialement jusqu'au niveau rétrocrural et péri-œsophagien, avec implication des stations ganglionnaires précédentes. Tumeur métastatique du foie.
+Métastase pulmonaire dans le creux pleuro-acigo-oesophagien.
+Atteinte étendue des ganglions lymphatiques et des métastases viscérales (hépatiques et pulmonaires). Cathéter de néphrostomie dans le rein droit. Urétérohydronéphrose gauche due à l'atteinte urétérale distale par la néoplasie cervicale référencée. Cathéter de néphrostomie dans la région lombaire gauche qui ne traverse pas la musculature lombaire postéro-latérale gauche. Hernie médiane ventrale à contenu épiploïque. Hernie inguinale bilatérale très volumineuse dans la région inguinale droite avec boucles intestinales et contenu méso, sans englober le paquet vasculaire ilio-fémoral externe dans le sac herniaire.
+- Biopsie cervicale : tumeur maligne à petites cellules compatible avec une tumeur neuroectodermique primitive. Immunohistochimie : expression de CD99 sur les cellules tumorales et focalement de CK(AE1AE3), avec négativité pour CD56 et chromogranine. L'indice de prolifération (Ki-67) est très élevé (environ 90%). L'étude moléculaire par FISH n'a pas montré de translocation EWS, qui est présente dans la plupart des tumeurs neuroectodermiques primitives des tissus mous, bien que, selon la littérature, elle ne soit pas fréquente dans les tumeurs affectant le tractus génital.
+
+Evolution
+Au vu des résultats des examens complémentaires et de l'anatomie pathologique de la biopsie réalisée en gynécologie, la patiente a été adressée au service d'oncologie pour évaluation et le premier cycle de chimiothérapie a été planifié selon le schéma VAC (vincristine, doxorubicine et cyclophosphamide) à recevoir à l'hôpital en raison du risque élevé de syndrome de lyse tumorale, doxorubicine et cyclophosphamide) à recevoir à l'hôpital en raison du risque élevé de syndrome de lyse tumorale, qui a été administré dans le service d'hospitalisation, présentant comme complication un syndrome fébrile de courte durée et une focalité urinaire avec une bactériémie secondaire due à Escherichia coli BLEE, qui a évolué de manière satisfaisante après l'administration d'une antibiothérapie ciblée. Lors de l'admission, une néphrostomie percutanée bilatérale a été réalisée.
+Après le premier cycle, elle a été évaluée en consultation avec une amélioration subjective de son état général, avec des nausées de grade 1 et une alopécie de grade 2 comme toxicités de la chimiothérapie. Un deuxième cycle de chimiothérapie a été planifié avec le même schéma de chimiothérapie et une tomodensitométrie thoraco-abdominale-pelvienne a été demandée pour une réévaluation à effectuer après ce cycle.
+
+Diagnostic
+Tumeur maligne à petites cellules correspondant à une tumeur neuroectodermique primitive du col de l'utérus, stade IV (métastases ganglionnaires, pulmonaires et hépatiques). Administration d'une chimiothérapie selon le schéma VAC. Néphrostomie bilatérale percutanée.
+
+Traitement
+La chimiothérapie a été proposée selon le schéma VAC (vincristine 2 mg + doxorubicine 75 mg/m2 + cyclophosphamide 1200 mg/m2) dont elle a reçu deux cycles à l'admission avec une bonne tolérance et pratiquement aucune toxicité et sans avoir présenté de syndrome de lyse tumorale.

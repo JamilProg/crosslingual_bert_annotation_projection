@@ -1,0 +1,34 @@
+Anamnèse
+Homme de 67 ans, avec des antécédents personnels d'hypertension artérielle, de dyslipidémie et d'arthrodèse vertébrale D4-L2, sans allergie médicamenteuse connue. Il n'a pas d'antécédents familiaux de cancer. Il est ex-fumeur, avec un PAI de 30 paquets-années et boit 1 à 2 UBE par jour. Il suit un traitement actif à l'abiratérone (1 g toutes les 24 heures).
+
+Antécédents oncologiques
+Diagnostiqué en novembre 2013 avec un adénocarcinome (ADC) de l'intestin grêle situé dans le duodénum de type entérique. Il a été opéré par résection du duodénum et du jéjunum (résection R0). L'examen anatomopathologique a montré une perte subtotale de l'expression de MLH1, le stade étant pT3pN2cM0. Un traitement adjuvant a été décidé avec XELOX pendant 8 cycles et des révisions ultérieures. En octobre 2016, la patiente a été diagnostiquée avec un ADC de la prostate (Gleason 4 + 5) avec de multiples métastases osseuses dans le squelette axial (pT3cN1cM1), initiant un traitement avec un blocage androgénique complet et un traitement séquentiel avec du docétaxel trois fois par semaine pendant six cycles, qui s'est terminé en mai 2017. À partir de ce moment, elle a été suivie en consultation jusqu'en janvier 2018, lorsque la maladie a progressé au niveau osseux, de sorte qu'il a été décidé de commencer un traitement au Radium-223, recevant six séances de traitement qui se sont terminées en juillet 2018 avec une bonne réponse clinique à la douleur et une réduction du nombre de lésions osseuses à la scintigraphie osseuse. En mars 2019, au vu de la nouvelle progression de la maladie au niveau osseux avec une augmentation du taux de PSA, un traitement a été initié avec de l'abiratérone, qu'elle recevait toujours.
+
+Anamnèse
+La patiente s'est présentée au service des urgences avec un large hématome dans la région parotidienne et cervicale gauche, associé à un œdème périlésionnel sans traumatisme apparent, ainsi qu'à de multiples hématomes plus petits sur les coudes et les chevilles. Elle ne présentait aucun autre symptôme associé.
+
+Examen physique
+"Général : ECOG 3, conscient. Orientation. Pas de signes de déshydratation. Hémodynamiquement stable. Fébrile. Eupnéique. Large hématome dans les régions parotidienne et cervicale gauches.
+"Poitrine : souffle vésiculaire conservé dans tous les champs avec un rythme cardiaque régulier sans souffle ni extrasystoles.
+"Abdomen : mou. Dépressible. Non douloureux à la palpation. Aucun signe d'irritation péritonéale.
+"Pas de masses, pas d'adénomégalie ni d'organomégalie palpable.
+"Membres inférieurs : pas de signes de thrombose veineuse profonde ni d'œdème bilatéral.
+"Hématome aux deux extrémités inférieures.
+
+Examens complémentaires
+"Examens sanguins (hémogramme, biochimie et coagulation) : temps de thromboplastine activé de 101,6 secondes, avec INR de 1,08, temps de prothrombine de 89 % et fibrinogène de 563 mg/dl. L'hémogramme et la biochimie n'ont pas révélé de données en dehors des plages normales.
+"Facteurs de coagulation : facteur VIII 1,54%, facteur de von Willebrand antigénique > 200%, activité du facteur de von Willebrand > 151%, facteur IX 109,00% et facteur XI : 91,00%.
+
+Diagnostic
+Hémophilie A acquise paranéoplasique secondaire à un cancer de la prostate métastatique résistant à la castration.
+
+Traitement
+"Corticostéroïdes à la dose de 1 mg/kg (prednisone 60 mg).
+"Cyclophosphamide à raison de 100 mg toutes les 24 heures.
+"Facteur VII recombinant à raison de 5 mg toutes les 4 heures.
+"Docetaxel à une dose totale de 57 mg par semaine.
+
+Évolution
+Le patient a été admis dans le service d'oncologie médicale, avec la suspicion de l'existence d'une hémophilie A acquise (HAA) secondaire à la pathologie sous-jacente (ADC de la prostate) ou au traitement par l'abiratérone. Ce diagnostic a été confirmé par l'absence de thrombopénie et de signes d'infiltration de la moelle osseuse, ainsi que par des signes de récidive biochimique et clinique de la tumeur de la prostate.
+Un traitement par corticostéroïdes à la dose de 1 mg/kg (prednisone 60 mg) et cyclophosphamide (100 mg toutes les 24 heures) a été instauré. Une évaluation a été demandée par le service d'hématologie, qui a déterminé les niveaux d'inhibiteur du facteur VIII, présent dans les analyses de sang du patient, classant le tableau clinique comme étant d'origine paranéoplasique et confirmant le diagnostic d'HAA. Par la suite, le patient a présenté des douleurs dans l'articulation huméro-radiale et une échographie a été demandée, montrant une hémorragie articulaire. Un traitement par facteur VII recombinant (NovoSeven®) à la dose de 5 mg toutes les 4 heures a donc été mis en place.
+Dans les jours suivants, l'état général de la patiente s'est amélioré, avec une évolution favorable des ecchymoses à l'admission et l'absence de nouvelles ecchymoses. Cependant, les taux de facteur inhibiteur et de facteur VIII étant stables sans élévation, il a été décidé, lors d'une séance clinique conjointe avec le service d'hématologie, d'interrompre le blocage hormonal par l'abiratérone et d'administrer une nouvelle ligne de chimiothérapie avec du docétaxel hebdomadaire, après avoir préalablement interrompu le cyclophosphamide. Après le deuxième cycle de chimiothérapie, une diminution des taux de facteur inhibiteur (< 0,6 UB) et une élévation du facteur VIII à 46 % ont été observées, et le traitement par corticostéroïdes a été interrompu. La patiente est restée à l'hôpital pendant deux semaines supplémentaires, au cours desquelles deux autres cycles de chimiothérapie ont été administrés. L'évolution clinique étant bonne, la sortie a été décidée avec un suivi ultérieur dans le service d'oncologie médicale et d'hématologie.

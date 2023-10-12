@@ -1,0 +1,44 @@
+T1	pathologie 257 269	hipertensión
+T2	pathologie 272 287	diabetes tipo 2
+T3	pathologie 368 378	tabaquismo
+T4	pathologie 381 399	consumo de alcohol
+T5	pathologie 574 580	lesión
+T6	pathologie 618 634	linfoadenopatías
+T7	pathologie 810 816	lesión
+T8	pathologie 1044 1071	perforación de tablas óseas
+T9	pathologie 1167 1173	lesión
+T10	pathologie 1228 1244	cavidad quística
+T11	pathologie 1450 1456	lesión
+T12	pathologie 1462 1496	tumor odontogénico queratoquístico
+T13	pathologie 1953 1959	lesión
+T14	pathologie 2020 2077	destrucción de tablas óseas tanto vestibular como lingual
+T15	pathologie 2244 2250	lesión
+T16	pathologie 2339 2351	defecto óseo
+T17	pathologie 2756 2780	proliferación neoplásica
+T18	pathologie 2795 2841	patrón infiltrativo hacia el tejido conjuntivo
+T19	pathologie 3108 3175	carcinoma de células escamosas intraóseo moderadamente diferenciado
+T20	pathologie 3334 3344	metástasis
+T21	pathologie 3358 3375	tumores primarios
+T22	pathologie 3454 3462	neumonía
+#1	SNOMED T10	441457006
+#2	SNOMED T2	44054006
+#3	SNOMED T22	233604007
+#4	SNOMED T20	128462008
+#5	SNOMED T3	365982000
+#6	SNOMED T21	372087000
+#7	SNOMED T6	30746006
+#8	SNOMED T12	713277006
+#9	SNOMED T17	1495041000004108
+#10	SNOMED T19	278411006
+#11	SNOMED T1	38341003
+#12	SNOMED T16	76069003
+#13	SNOMED T4	704197006
+#14	SNOMED T5	417163006
+#15	SNOMED T7	417163006
+#16	SNOMED T9	417163006
+#17	SNOMED T11	417163006
+#18	SNOMED T13	417163006
+#19	SNOMED T15	417163006
+#20	SNOMED T14	128233005
+#21	SNOMED T8	126551000
+#22	SNOMED T18	363346000

@@ -1,0 +1,8 @@
+T1	pathologie 616 647	cuerpos extraños en mesogastrio
+T2	pathologie 837 870	cuerpos extraños intraabdominales
+T3	pathologie 1484 1505	crisis tónico-clónica
+T4	pathologie 1741 1817	cuerpos extraños de consistencia dura a lo largo de todo el tracto digestivo
+#1	SNOMED T2	308890008
+#2	SNOMED T4	33334006
+#3	SNOMED T3	54200006
+#4	SNOMED T1	211631008

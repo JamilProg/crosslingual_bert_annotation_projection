@@ -1,0 +1,6 @@
+T1	pathologie 79 101	hematuria macroscópica
+T2	pathologie 400 413	bilharzhiasis
+T3	pathologie 939 955	esquistosomiasis
+#1	SNOMED T2	10087007
+#2	SNOMED T3	10087007
+#3	SNOMED T1	197941005

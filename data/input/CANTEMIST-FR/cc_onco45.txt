@@ -1,0 +1,57 @@
+Anamnèse
+Femme de 53 ans. Pas d'allergies connues, d'habitudes toxiques ou de pathologie antérieure d'intérêt sauf en oncologie. Elle a subi une césarienne, des hémorroïdes et une appendicectomie.
+
+Situation socio-familiale : elle vit avec son mari (qui est l'aidant principal et travaille comme aide-soignant dans un hôpital) et ils ont deux enfants âgés de 24 et 28 ans. Elle est femme au foyer et sa situation de base avant l'admission est dépendante (indice de Barthel 40). Ils ont un bon niveau d'information sur le diagnostic et le pronostic de la maladie.
+
+Antécédents oncologiques : depuis juillet 2010, elle a commencé à souffrir de nausées et de vomissements postprandiaux. Après avoir consulté le service des urgences à trois reprises, une échographie abdominale a été réalisée, montrant un épaississement de la paroi antrale, et elle a été admise pour un examen plus approfondi.
+
+Après avoir constaté par endoscopie une lymphite plastique et une biopsie compatible avec un adénocarcinome gastrique, une atteinte à distance a été exclue et le patient a été programmé pour une laparoscopie exploratoire en septembre 2010, Une gastrectomie subtotale et une reconstruction de Billroth II ont été réalisées et un diagnostic d'adénocarcinome gastrique à cellules en anneau de signet, de grade 3, peu différencié avec une invasion périneurale abondante, des marges chirurgicales exemptes d'infiltration néoplasique, pT2bN0/15M0 (stade IB) avec des facteurs de mauvais pronostic, a été posé.
+
+Le traitement adjuvant a été décidé selon le schéma de Mac Donald, et le traitement de RT a été achevé le 3/3/2011 (dose totale de 50,4 Gy : 28 séances, 1,8 Gy/séance).
+
+Elle est restée stable jusqu'en juillet 2013, date à laquelle elle a commencé à présenter une perte de poids sévère et une anorexie, et une étude d'extension a été réalisée, qui a montré une récidive locale avec une implication péritonéale douteuse, de sorte que, après un PET scan négatif, elle a été référée pour l'évaluation d'une chirurgie de sauvetage, qui a été rejetée, Il a donc été décidé de commencer un traitement par ECF (après deux cycles, il a montré une mauvaise tolérance en raison de la mucosite et de la diarrhée G2-3), il a donc été modifié avec Folfox-6 (réduction de la dose après le troisième cycle en raison de la toxicité hématologique), en retirant l'oxaliplatine après le sixième cycle en raison d'une réaction allergique sévère, en maintenant 5-FU + leuco jusqu'à la fin de sept cycles supplémentaires, se terminant en mai 2014.
+
+Après une réponse partielle aux examens d'imagerie, il a été décidé d'opérer la récidive au niveau de l'anastomose (14/10/2014), avec une période postopératoire courte en raison de l'apparition d'une fistule entéro-pancréatique. PA : pT4bN0 (en raison de l'infiltration de l'anse intestinale), stade IIIb.
+
+Elle a continué à faire des bilans sans signe de maladie jusqu'à début mars 2015, date à laquelle elle a été admise pour une étude en raison d'un amaigrissement de plusieurs mois quantifié à 20 kg, avec une altération importante de l'état général, une asthénie intense et des nausées malgré un traitement par progestatifs, corticoïdes oraux, compléments protéiques et un suivi en consultation de Nutrition. Porteuse de port-a-cath® depuis 2010.
+
+Examen physique
+À son arrivée dans le service, la patiente était stable sur le plan hémodynamique. Saine d'esprit. Eupnéique au repos. Conscient, orienté et avec un sensorium entièrement préservé. Cachexie extrême et sarcopénie généralisée. Poids 32 kg. Taille 158 cm. Au niveau infraclaviculaire droit, réservoir sous-cutané sans signe d'infection locale. Le reste de l'examen était sans particularité.
+
+Tests complémentaires
+" Analyses sanguines à l'arrivée (13-3-2015). Hémogramme : anémie normocytaire et normochromatique légère. Séries blanches et plaquettaires normales. Biochimie complète, y compris fonction hépatique, CPK, troponines, amylase normale, sauf protéines totales 4,79 mg/dl.
+" Tomodensitométrie thoracique et abdominale sans contraste (16-3-2015) : pas d'altération significative.
+" Étude gastroduodénale (20-3-2015) : pas d'altération (transit rapide dans le jéjunum).
+" Échocardiographie transthoracique (30-3-2015) : masse mobile d'environ 5 cm2 de surface dans l'oreillette droite, provenant probablement de la veine cave supérieure qui fait saillie pendant la diastole dans le ventricule droit. Léger épanchement péricardique postérieur avec fraction d'éjection préservée et valves inchangées.
+" Radiographie thoracique urgente (30-3-2015) : augmentation de la densité dans la partie médiane et postérieure du lobe inférieur droit d'aspect nouveau.
+" IRM crânienne avec contraste (1-4-2015) : images évoquant de possibles embolies millimétriques réparties dans les deux hémisphères.
+" Tomodensitométrie thoracique et abdominale avec contraste (4-4-2015) : thromboembolie pulmonaire avec atteinte de l'artère du lobe inférieur droit et de multiples branches segmentaires. Condensation pulmonaire dans le lobe inférieur droit avec épanchement pleural parapneumonique et épanchement pleural localisé gauche. Petites opacités pulmonaires parenchymateuses périphériques et petits infiltrats pulmonaires dans l'hémithorax gauche, dont un avec cavitation compatible avec une embolie septique. Épanchement péricardique.
+Stase hépatique. Ascite et implants péritonéaux malins.
+" Radiographie du thorax (7-5-2015) : épanchement pleural droit important avec atélectasie compressive du lobe inférieur. Discret épanchement pleural gauche.
+" Échocardiographie transthoracique (16-5-2015) : masse mobile dans le toit de l'oreillette droite de taille beaucoup plus petite que dans les études précédentes, limitée à la veine cave supérieure et sans protrusion dans le ventricule.
+
+
+Diagnostic
+"Thromboembolie septique pulmonaire disséminée secondaire à une endocardite aiguë et à une bactériémie à Staphylococcus capitis/ureoliticus.
+"Adénocarcinome gastrique de stade IV réopéré (métastases péritonéales).
+"Épanchement pleural droit parapneumonique récurrent évacué par thoracentèse.
+"Malnutrition protéino-calorique sévère nécessitant une alimentation parentérale.
+"Délire hypoactif dans le contexte d'une septicémie et d'une néoplasie.
+
+Traitement
+Dès son arrivée, nous avons mis en place une alimentation parentérale, augmenté la dose de corticostéroïdes et prescrit du cinitapride comme prokinétique, ce qui a permis d'améliorer la tolérance au régime alimentaire. Après avoir écarté tout signe de progression de la maladie dans les tests susmentionnés, nous avons commencé à préparer la sortie de l'hôpital, mais la veille de la sortie, le patient a présenté des symptômes septiques avec hypotension, fièvre avec frissons et détérioration de l'état général, avec aggravation des nausées et des vomissements.
+
+Des hémocultures du sang périphérique, une culture d'urine, une analyse d'urine et une radiographie du thorax ont été demandées, détectant un tableau compatible avec des symptômes septiques sévères d'origine pulmonaire. Une thérapie sérique intense, des antiémétiques et des antibiotiques à large spectre ont été prescrits pour une pneumonie nosocomiale chez un patient immunodéprimé.
+
+Évolution
+Après 48 heures, nous avons été informés de la croissance, dans les hémocultures périphériques, de Staphylococcus coagulase négative capitis/ureoliticus, de sorte qu'après consultation du service des infections, il a été décidé d'élargir le spectre antibiotique et d'ajouter du linézolide, car il avait une plus grande imprégnation dans les poumons. Malgré ces mesures et les antipyrétiques prescrits, le patient a persisté avec une fièvre soutenue de 38 ºC et un très mauvais état général (sécrétions claires et mousseuses dans la bouche ; le patient était nauséeux, très bas, avec un délire et une dysarthrie associée). Compte tenu de l'évolution torpide, un traitement antifongique i.v. a été ajouté et un scanner thoraco-abdominal, une échocardiographie et une IRM crânienne ont été demandés en urgence, qui ont montré une grosse masse de 5 cm2 au niveau de l'oreillette droite évoquant une endocardite aiguë avec thromboembolie septique pulmonaire bilatérale disséminée, associée à un épanchement pleural droit modéré (probablement parapneumonique), une stase hépatique et une ascite légère-modérée.
+
+Le patient a présenté une dyspnée progressive dans le contexte d'un épanchement pleural et d'une surcharge hydrique pour le traitement d'un choc septique qui a nécessité une thoracentèse évacuatrice à trois reprises (débit total > 2 750 cc), révélant un liquide inflammatoire sans implication néoplasique.
+
+Lors d'une réunion multidisciplinaire (cardiologie, maladies infectieuses, radiologie, soins intensifs et oncologie), l'option de la chirurgie cardiaque a été écartée en raison du mauvais état général et de la progression de la maladie sous-jacente, de sorte qu'un traitement médical conservateur a été décidé (antibiotique dirigé contre le staphylocoque isolé, avec cloxacilline et amikacine, tout en maintenant le linézolide) ; Une anticoagulation a été mise en place ; la source d'infection a été éliminée (un staphylocoque a été isolé à l'extrémité du cathéter, semblable à celui extrait des hémocultures périphériques) et un nouveau cathéter central a été canalisé dans la veine jugulaire gauche pour la nutrition parentérale et l'administration de médicaments.
+
+Grâce à ces mesures, la fièvre a disparu et, après trois semaines, on a constaté une amélioration radiologique, analytique (normalisation des leucocytes, des plaquettes et de la coagulation), échocardiographique (quasi-disparition de la masse auriculaire) et des réactifs inflammatoires (la CRP est passée de 30 mg/dl à 4 mg/dl), ce qui a permis de réduire l'éventail des antibiotiques à administrer.
+
+Au cours de l'évolution de la maladie, l'aspect psychologique est continuellement travaillé avec la patiente et sa famille, en collaboration avec un psychologue, une infirmière et l'équipe médicale, afin de comprendre la gravité de la maladie et d'accepter la détérioration progressive malgré toutes les mesures prises.
+
+Malgré cela, le patient a maintenu une détérioration clinique progressive avec des nausées et des vomissements persistants liés à des sécrétions bronchiques parapneumoniques qui étaient très difficiles à contrôler malgré l'utilisation de multiples antiémétiques. Le patient a présenté une nouvelle détérioration clinique, avec une diminution marquée du niveau de conscience, une agitation et une défaillance de plusieurs organes qui n'a pas répondu au traitement et est décédé paisiblement, sans aucun signe de souffrance, 24 heures après 70 jours d'admission.

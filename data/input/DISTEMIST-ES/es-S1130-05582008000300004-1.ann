@@ -1,0 +1,12 @@
+T1	pathologie 192 198	lesión
+T2	pathologie 390 396	lesión
+T3	pathologie 569 589	patología mandibular
+T4	pathologie 642 648	lesión
+T5	pathologie 762 776	lesión nodular
+T6	pathologie 858 864	lesión
+#1	SNOMED T5	27925004
+#2	SNOMED T3	128233005
+#3	SNOMED T1	417163006
+#4	SNOMED T2	417163006
+#5	SNOMED T4	417163006
+#6	SNOMED T6	417163006

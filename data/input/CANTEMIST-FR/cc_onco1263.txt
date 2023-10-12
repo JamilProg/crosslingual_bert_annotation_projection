@@ -1,0 +1,22 @@
+Anamnèse
+Homme de 70 ans ayant des antécédents de tabagisme (2 paquets par an), de consommation d'alcool (40 g d'éthanol par jour), d'adénome prostatique en 1995 et de sclérose de la valve aortique (ETT 2012 : FEVG 55 %). Septoplastie en 1989 et chirurgie bilatérale de la cataracte en 2008.
+Diagnostic de néoplasme rectal en mai 2011 par tomodensitométrie corporelle, IRM pelvienne, échoendoscopie et endoscopie ; la biopsie a montré l'existence d'un adénocarcinome rectal de grade 1, la stadification était cT3N0M0. Un traitement d'induction par radiothérapie (50 Gy) concomitante à la capécitabine à la dose de 825 mg/m2 toutes les 12 heures selon un schéma quotidien a été proposé et reçu entre août et septembre 2011 avec une excellente tolérance. En novembre 2011, une résection laparoscopique basse antérieure assistée par da Vinci a été réalisée, avec un résultat histologique d'adénocarcinome G3 et depT3ypN1(1/17)R0, avec perméation vasculaire et périneurale, grade de régression 4, stade IIIb de l'AJCC. Par la suite, en janvier 2012, une chimiothérapie adjuvante a été mise en place selon le schéma XELOX. Elle a reçu trois cycles, l'oxaliplatine ayant été retiré en raison d'une thrombopénie de grade 3. Elle a effectué deux cycles supplémentaires avec la capécitabine, qui a été suspendue en raison de la progression des cytopénies (anémie, neutropénie et thrombopénie), qui sont toujours présentes malgré la suspension.
+
+Examen physique
+P : 71,6 kg. T : 170 cm. ECOG 1. Pâleur modérée de la peau et des muqueuses. Pétéchies sur le visage, le tronc et les extrémités.
+Saignements gingivaux peu marqués. Pas d'ecchymoses. Repos normal.
+
+Examens complémentaires
+NFS : Hg Leu 800 (sec 3 %) ; Hb 8,5 g/dl ; plq : 7 000. Biochimie : normale. Coagulation : normale. Sérologie virale (VIH, VHB, VHC) négative. Toxoplasma, CMV, EBV. HSV, VZV : IgG+, IgM-.
+Biopsie de la moelle osseuse : aplasie médullaire sévère avec caractéristiques dysplasiques. IFT : absence de prolifération clonale. Caryotype : 46, XY.
+
+Diagnostic
+Adénocarcinome du rectum G3 ypT3 ypN1 (1/17) R0, stade IIIB de l'AJCC (novembre 2011).
+Aplasie médullaire sévère avec caractéristiques dysplasiques, secondaire au traitement (juin 2012).
+
+Traitement
+Soutien transfusionnel avec des globules rouges et des plaquettes, avec une faible réponse. Après évaluation hématologique, comme il avait un donneur familial histocompatible identique (sœur), isogroupe (0+) et CMV+, le traitement immunosuppresseur a été rejeté et une greffe de moelle osseuse allogénique (GMA) a été réalisée en septembre 2012, avec un conditionnement cyclophosphamide/fludarabine/ATG et une prophylaxie de la GVHD par la ciclosporine et le mycophénolate.
+Évolution
+Les complications post-transplantation comprenaient une bactériémie due à Enterobacter cloacae complexe BLEE, une cholécystite aiguë, une GVHD aiguë de grade 1, une cystite hémorragique due au virus JC/BK, qui ont toutes été complètement surmontées, atteignant 100 % de chimérisme du donneur en janvier 2013.
+Il a nécessité la mise en place d'une prothèse métallique au niveau du rectum en raison d'une sténose de l'anastomose.
+Il est actuellement indemne de toute maladie, avec une hématométrie normale, et continue d'être contrôlé par les services d'oncologie et d'hématologie.

@@ -1,0 +1,55 @@
+Anamnèse
+
+Motif de la consultation :
+Patiente à qui l'on a diagnostiqué une néoplasie mammaire et qui est adressée au service d'oncologie médicale pour évaluer le traitement.
+
+Antécédents personnels :
+"Hypercholestérolémie et hyperglycémie contrôlées par un régime.
+"Médicaments actuels : Plantaben 1-0-0, Diclofenac sur demande pour des douleurs articulaires.
+"QI de la cataracte, correction de la cystocèle (x2).
+"G4A1P3. Ménopause à environ 50 ans.
+"Pas d'allergies médicamenteuses connues.
+
+Maladie actuelle :
+Après auto-palpation d'une tumeur au sein gauche en décembre 2014, elle a consulté et a bénéficié d'une étude complète :
+- Echographie + mammographie : nodule dense de contour régulier de 37 mm en situation rétro-aréolaire du sein gauche, mis en évidence en échographie comme nodule hypoéchogène évocateur de néoformation. Une TRUCUT échoguidée a été réalisée, montrant un contenu solide-liquide du nodule lors de la biopsie, raison pour laquelle une FNA échoguidée a été réalisée ultérieurement avec vidange partielle du nodule, envoyant le matériel pour étude anatomo-pathologique. Adénopathie axillaire gauche de 34 mm avec une échostructure similaire à celle du nodule susmentionné. Une FNA échoguidée a été réalisée.
+- Anatomie pathologique : POSITIVE POUR LES CELLULES MALIGNES. COMPATIBLE AVEC UN CARCINOME ÉPIDERMOÏDE KÉRATINISANT. TRIPLE NEGATIF. Ki67 80%.
+- IRM du sein : Adénomégalie (x3) de 53 x22, 17 et 10 mm. Masse rétroaréolaire dans le sein gauche de 5,5 cm, solide avec des graphiques de captation suspects de processus néoplasique ainsi qu'un schéma restreint dans les techniques de diffusion. Épaississement de la peau. Aucune autre anomalie. L'adénomégalie présente le même comportement. Aucune anomalie dans le sein droit.
+
+Examen physique
+Conscient et orienté, eupnéique, couleur normale. Très bon état général.
+Examen des seins : palpation d'une masse mesurant 8 x 6 cm dans le sein gauche ICD avec érythème sur la peau de la région, conglomérat adénopathique mesurant 3,5 x 4,5 cm dans l'aisselle gauche.
+AC : rythmique à bonne fréquence.
+AP : murmure vésiculaire conservé, sans bruits surajoutés.
+Abdomen : mou et dépressible, pas de douleur à la palpation, pas de viscéro-mégalie palpable.
+Membres inférieurs : pas d'œdème.
+
+Examens complémentaires
+Étude d'extension (radiographie pulmonaire, scintigraphie osseuse) : négative.
+FEVG : 0,62.
+
+Diagnostic
+Décision diagnostique : carcinome malpighien cT4bN2a du sein gauche, triple négatif. Ki67 80%.
+
+Traitement
+Un traitement de chimiothérapie néoadjuvante est proposé avec AC c/21 jours x 4 cycles suivi de Paclitaxel hebdomadaire x 12 cycles, en fonction de la tolérance.
+Le traitement a débuté le 11/12/2014. Après le 6e Paclitaxel le traitement a été suspendu pour cause de toxicité, le traitement a donc été interrompu le 14/04/15.
+Un bilan de réponse a été réalisé par IRM du sein : Les images ont montré une masse en USI du sein gauche mesurant 27 x 32 mm avec une paroi épaissie irrégulière et dans laquelle persistait un nodule mural de 11 mm avec une cinétique de malignité. Un conglomérat adénopathique axillaire de 41 mm persiste.
+Par rapport à l'étude initiale, on observe une réduction de moins de 50 % de la masse tumorale et de la composante ganglionnaire, bien que les adénopathies axillaires associées au conglomérat principal aient diminué. La taille de la tumeur n'a pas diminué, car le composant nécrotique est persistant, bien que les zones de rehaussement à l'intérieur de la tumeur, peut-être la partie viable de la lésion, aient diminué. Aucune autre lésion associée n'a été mise en évidence.
+Le 14/05/2015, une mastectomie radicale modifiée a été réalisée.
+Anatomie pathologique (mastectomie radicale gauche modifiée après chimiothérapie) : carcinome métaplasique, résiduel. Taille 15x15mm. La peau et les marges chirurgicales sont exemptes de néoplasie. Changements post-chimiothérapie. Grade de la réponse pathologique : G3. Classe de charge cancéreuse résiduelle : RCB-III. Remarque : la différenciation malpighienne est moins importante dans la tumeur actuelle après la chimiothérapie.
+- Vidange axillaire gauche, niveau I : 2 adénopathies avec macrométastases de 3 isolées. Taille 15 mm sans rupture capsulaire. Grade de réponse ganglionnaire de type B.
+- Vide axillaire gauche, niveau II : 1 ganglion lymphatique avec macrométastases de 7 isolées. Taille de 3 mm avec rupture capsulaire. Grade de réponse ganglionnaire de type B.
+- Vide axillaire gauche, niveau III : 1 ganglion lymphatique avec macrométastases isolées de 5.
+JC : Carcinome métaplasique résiduel de 15 mm ypT1cN2M0 (4/15 adénopathies, avec rupture capsulaire), Miller et Payne G3, RCB-III.
+Par la suite, un traitement complémentaire par radiothérapie de la paroi et des zones et un suivi en oncologie médicale ont été proposés.
+
+Évolution
+Le 4/12/15, elle s'est présentée à un examen programmé au service d'oncologie médicale. La radiographie thoracique montrant un nodule dans le LSD, un scanner et une scintigraphie osseuse ont été réalisés, qui ont révélé des métastases pulmonaires et une probable atteinte axillaire gauche, sans atteinte osseuse.
+Compte tenu de l'excellent état général de la patiente, de son âge, de ses souhaits et des caractéristiques de la tumeur, nous avons proposé un traitement par Vinorelbine orale pendant 1 et 8/21 jours, qui a débuté le 04/01/2016.
+Coïncidant avec le 3e cycle en février 2016, elle a commencé à signaler une toux irritante, sans fièvre ni autres symptômes associés. Elle a été traitée avec de la Cloperastine, qui n'a pas été efficace, et plus tard avec de la Codéine, qui n'a pas été efficace non plus. Avant le quatrième cycle, un scanner a été réalisé pour évaluer la réponse, qui a montré une cavitation des métastases pulmonaires, et la patiente a été considérée comme ayant un EE-NC selon les critères RECIST 1.1.
+L'analyse sanguine a révélé une leucocytose en augmentation. Sur le plan clinique, on a constaté une aggravation de la toux et de l'état général, avec une asthénie marquée, alors que le patient restait afébrile.
+Une bronchoscopie diagnostique a été demandée et réalisée le 9/05/2016. A l'examen, l'arbre bronchique segmentaire apical de la LID s'est révélé sténosé par une masse aux caractéristiques néoformatives. Des prélèvements ont été réalisés pour culture microbiologique et le matériel a été envoyé pour étude anatomopathologique. Résultat : métastase endobronchique dans le segment apical de la LID, AP positif pour une métastase de carcinome mammaire métaplasique, cultures négatives.
+Compte tenu de la progression de la maladie, le traitement par Vinorelbine orale a été interrompu.
+Le patient a présenté une détérioration au cours des deux dernières semaines en ce qui concerne la toux irritative, de sorte que le traitement a été commencé avec 30 mg de prednisone dans un schéma décroissant en plus de la codéine prescrite et le patient a été envoyé au service de radiothérapie pour l'évaluation de la radiothérapie sur la lésion endobronchique avec une intention palliative.
+Un scanner de centrage et de simulation a été réalisé, et elle attend actuellement le début d'un traitement de RT externe 3D conventionnel, 6 séances de 4 grays, dose finale de 24 grays.

@@ -1,0 +1,40 @@
+Anamnèse
+Le pyomètre est une pathologie rare qui se définit par la présence de matériel purulent dans la cavité utérine secondaire à une difficulté de son drainage, ce qui entraînerait une augmentation du volume de la cavité utérine, un amincissement de sa paroi, voire une rupture de celle-ci, le matériel purulent s'écoulant dans la cavité abdominale, déclenchant une péritonite.
+Nous présentons le cas d'une patiente de 58 ans, sans antécédents médicaux intéressants, indépendante pour les activités de base de la vie quotidienne, qui a fréquenté le service des urgences à plusieurs reprises en mars 2016 avec des symptômes de douleur dans l'hypogastre accompagnés de dysurie, de ténesme et de pollakiurie. Elle a été traitée avec des antibiotiques et un sondage vésical pour rétention urinaire à deux reprises, en ambulatoire. En l'absence d'amélioration, la patiente s'est rendue une troisième fois aux urgences pour les mêmes symptômes qui sont réapparus lors du retrait de la sonde vésicale.
+
+Examen physique
+Le pyomètre est une pathologie rare qui se définit comme la présence de matériel purulent dans la cavité utérine secondaire à une difficulté de son drainage, ce qui conduirait à une augmentation du volume de la cavité utérine, à l'amincissement de sa paroi et même à sa rupture, le matériel purulent s'écoulant dans la cavité abdominale, déclenchant une péritonite.
+Nous présentons le cas d'une patiente de 58 ans, sans antécédents médicaux intéressants, indépendante pour les activités de base de la vie quotidienne, qui a fréquenté le service des urgences à plusieurs reprises en mars 2016 avec des symptômes de douleur dans l'hypogastre accompagnés de dysurie, de ténesme et de pollakiurie. Elle a été traitée avec des antibiotiques et un sondage vésical pour rétention urinaire à deux reprises, en ambulatoire. En l'absence d'amélioration, la patiente s'est rendue une troisième fois aux urgences pour les mêmes symptômes qui sont réapparus lors du retrait de la sonde vésicale.
+"Normonutrition, normo-hydraté, normo-coloré, conscient et orienté dans le temps, l'espace et la personne. Eupnéique.
+"AC : rythmique, pas de souffle.
+"AP : murmure vésiculaire conservé, pas de bruits supplémentaires.
+"Abdomen : douloureux à la palpation dans l'hypogastre, avec défense à la palpation. Aucune masse ou mégalithe n'est palpable.
+"Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+"Neurologique : Glasgow 15/15. Pupilles isochoriques et normoréactives. Nerfs crâniens préservés.
+Pas de signes de focalité neurologique. Pas de rigidité nucale. Une évaluation gynécologique est également demandée :
+"Examen au spéculum : pas de visualisation du col de l'utérus ni de saignement vaginal.
+"Examen bimanuel : col effacé en antéversion forcée, paramètre droit libre, paramètre gauche épaissi.
+
+Tests complémentaires
+À la porte du service des urgences :
+"NFS et biochimie de base sans altération, sauf élévation des réactifs.
+"Sédiment urinaire non pathologique.
+"Radiographie abdominale simple : masse pelvienne apparente, le reste de l'examen étant normal. Au vu des résultats décrits ci-dessus, une échographie abdominale a été demandée.
+"Échographie abdominale complétée par une tomodensitométrie abdominopelvienne : liquide libre dans la cavité abdominale ainsi qu'une masse hétérogène qui semble correspondre à une croissance utérine avec un épaississement mural et un centre kystique/nécrotique, avec une épaisseur de paroi d'environ 12 mm, et une vascularisation de la paroi. Il mesure 100 x 100 x 90 cm et déplace les structures adjacentes, avec une vessie antérolatérale. Compte tenu de l'âge de la patiente et de la présence de liquide ascitique, la lésion néoformative endométriale est considérée comme la première option, mais d'autres entités ne peuvent être exclues et l'étude doit être complétée par une échographie gynécologique et une IRM.
+"Echographie gynécologique : utérus de 10 cm, avec image intracavitaire d'échoréfringence mixte, environ 45 mm d'épaisseur d'endomètre. Myomètre homogène, appendices atrophiés, liquide libre.
+La patiente a été admise dans le service de gynécologie :
+Compte tenu des résultats précédemment décrits, une IRM du bassin est demandée : néoplasme endométrial de 35 mm siégeant dans le fond de l'utérus, où il existe une discontinuité myométriale liée au fait que la tumeur est bien visible dans le plan sagittal. Le col de l'utérus semble normal. Il existe également une distension de la cavité endométriale due à la présence de liquide qui pourrait être hématogène. Ascite probablement carcinomateuse.
+Une biopsie utérine a été réalisée par hystéroscopie, et l'anatomie pathologique a révélé un épithélium endocervical avec la présence d'une lésion intra-épithéliale de type CIN-3, avec une extension intraglandulaire. L'expression intense et diffuse de p16 suggère une origine cervicale, et le diagnostic a donc été celui d'un carcinome du col de l'utérus.
+La patiente a eu une évolution tortueuse pendant l'admission, et une nouvelle tomodensitométrie a été demandée pour évaluation, qui a révélé des collections de liquide intrapéritonéal localisées suspectes d'une implication inflammatoire/infectieuse, et il a été décidé de réaliser une ponction échoguidée de la collection abdominale pour une étude microbiologique, biochimique et anatomopathologique.
+La culture du liquide abdominal a révélé la présence de Trichosporon jirovecii.
+
+Diagnostic
+Une perforation utérine secondaire à un pyomètre, due à un carcinome cervical minime de stade IIB FIGO, CT2B CN0 CMX, avec péritonite secondaire à l'évacuation du contenu utérin infecté dans la cavité abdominale, est diagnostiquée.
+
+Traitement
+En cas de suspicion de liquide compatible avec une infection, une laparotomie exploratrice a été pratiquée avec lavage et mise en place de drains, avec amélioration des réactifs de phase aiguë dans les jours suivants, et elle a été traitée avec une antibiothérapie empirique par voie intraveineuse et du voriconazole, compte tenu des résultats de la culture du liquide abdominal.
+Une fois le processus infectieux résolu, elle a été adressée au service d'oncologie médicale. Un traitement par radiothérapie et chimiothérapie concomitante (cisplatine hebdomadaire 40 mg/m2) a été proposé et accepté, suivi d'une curiethérapie gynécologique.
+
+Évolution
+Le patient a montré une bonne tolérance au traitement, sans toxicité significative. L'évaluation de la réponse tumorale par tomodensitométrie a montré une rémission complète de la tumeur et une distension persistante de la cavité abdominale avec un contenu hypodense à l'intérieur, en relation avec la mucomètrie secondaire connue. Afin d'éviter d'éventuelles complications futures, le comité des tumeurs gynécologiques a décidé de procéder à une hystérectomie totale + double annexectomie + éventroplastie, qui a été réalisée sans incident immédiat.
+Trois semaines après l'opération, la patiente s'est présentée au service des urgences gynécologiques en se plaignant de borborygmes intestinaux et d'épisodes occasionnels de douleur accompagnés de saignements vaginaux. La tomodensitométrie de contrôle a montré une collection hydro-aérienne évoquant un abcès pelvien post-chirurgical, ainsi qu'une dilatation importante de l'intestin grêle avec un retard de transit évoquant une occlusion intestinale. Elle a dû subir plusieurs interventions en raison du syndrome adhésif et est actuellement hospitalisée pour un syndrome d'adhésiolyse.

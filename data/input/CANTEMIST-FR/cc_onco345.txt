@@ -1,0 +1,43 @@
+Anamnèse
+Il s'agit d'une patiente de 54 ans ayant des antécédents de tabagisme (1 paquet de cigarettes par jour). Elle a consulté pour la première fois aux urgences en février 2016 pour une céphalée frontale qui la réveillait la nuit et s'accompagnait d'une photophobie. Elle a suivi le traitement antalgique habituel, sans parvenir à contrôler la douleur. En outre, la patiente a également mentionné une sensation de picotement tangentiel dans le cou. Les symptômes sont présents depuis deux semaines.
+
+Examen physique
+Tension artérielle 136/75mmHg, afébrile, eupnéique (11rpm), saturant à 96% sans apport d'oxygène Auscultation cardio-pulmonaire : fréquence cardiaque à bonne fréquence sans souffle ni frottement. Bon murmure vésiculaire
+Abdomen : souple, non douloureux à la palpation, aucune masse ou viscéro-mégalie palpable. Il n'y a pas de signe d'irritation péritonéale.
+Examen neurologique : conscient et orienté dans les trois sphères. Les pupilles sont isochores et normalement réactives, il n'y a pas d'altération du regard horizontal, pas de signe de déviation forcée du regard ou de nystagmus.
+Pas d'altération du champ visuel exploré par confrontation. Nerfs crâniens normaux, pas d'asymétrie faciale. Force préservée dans les quatre membres, sans claudication de Barreé ou de Mingazzini.
+Diminution de la sensibilité tactoalgique dans la zone rétro-auriculaire, avec paresthésie, le reste n'étant pas altéré. Pas d'aphasie ni de dysarthrie. Pas de trouble de la marche. Pas de dysmétrie explorée par orteil-nez et talon-genou. Pas de dysdiadochokinésie.
+Pas de signes d'irritation méningée.
+
+Examens complémentaires
+Tomodensitométrie axiale sans contraste : lésion occupant l'espace (LOE) frontale droite, affectant la majeure partie du lobe frontal, à prédominance kystique/nécrotique, mesurant 60x58x45mm avec œdème vasogénique périlésionnel, avec déviation de la ligne médiane antérieure de 4mm vers la gauche.
+Radiographie du thorax : structure osseuse sans altération, indice cardiothoracique dans la plage normale. Il n'y a pas d'images de condensation dans les poumons ni de signes d'occupation du sinus costophrénique.
+Aucune altération n'a été observée dans le médiastin.
+Imagerie par résonance magnétique (IRM) du cerveau : elle décrit une lésion unique, solido-kystique, à contenu hémorragique et à forte cellularité dans la partie antéro-supérieure, avec des valeurs très élevées du volume sanguin cérébral dans ces zones, ce qui suggère un néoplasme malin de haut grade, et dont les caractéristiques morphologiques évoquent une tumeur astrocytaire de haut grade, suggérant une métastase unique comme diagnostic différentiel.
+Tomodensitométrie thoraco-abdominale : images compatibles avec un néoplasme pulmonaire central, probablement microcytaire Ca avec infiltration ganglionnaire ipsilatérale.
+Fibrobronchoscopie :
+"absence de cellules néoplasiques, si d'abondantes colonies bactériennes compatibles avec les actinomyces sont observées.
+"Anatomie pathologique (AP) : brossage bronchique, résultats compatibles avec un carcinome microcytaire. Une étude immunohistochimique a été réalisée, montrant CD56, synaptophysine et chromogranine positifs, t ALC négatif.
+
+Diagnostic
+Carcinome microcytaire du poumon hilaire droit avec métastase cérébrale unique.
+
+Traitement
+Intervention chirurgicale de la LOE cérébrale, par l'équipe de neurochirurgie : cranectomie parasagittale droite avec 2 trépanations sur la ligne médiane, la lésion a été localisée par échographie et une corticotomie a été réalisée sur le kyste et la dissection. Ablation complète de la capsule par microchirurgie.
+Radiothérapie de consolidation holocrânienne, 30 Grey (Gy) au total, planification de 3Gy par séance Radiothérapie dans le champ pulmonaire, planification de 66Gy au total.
+Chimiothérapie : cisplatine + étoposide.
+
+Évolution
+Lors de son admission, la patiente a été opérée pour une lésion pulmonaire microcytaire métastatique, ce qui signifie que le traitement de choix, selon les directives, serait une chimiothérapie à visée palliative.
+Cependant, comme il s'agissait d'une lésion métastatique unique et bien délimitée avec une maladie pulmonaire limitée à un hémithorax, il a été décidé de contacter la neurochirurgie pour obtenir son évaluation.
+Le 22 février 2016, le comité des tumeurs a décidé de procéder à une intervention chirurgicale, qui a été réalisée le 24 février 2016, décrivant en peropératoire un kyste avec du matériel purulent sortant, et le rapport chirurgical a montré une résection complète de la capsule par microchirurgie.
+Le patient a eu une période postopératoire sans incident, un scanner postopératoire a été réalisé, qui a montré des changements en relation avec la chirurgie et dans la zone chirurgicale, des débris hématiques avec un effet de masse discret et une déviation de 4mm de la ligne médiane.
+Une fois la période postopératoire terminée, il a été décidé d'admettre la patiente pour le début d'une chimiothérapie à base de cisplatine et d'étoposide, en plus de programmer un traitement de radiothérapie au niveau pulmonaire de 66Gy concomitant à la chimiothérapie et au niveau cérébral de 30Gy de consolidation (10 séances de 3 Gy par séance ont été programmées).
+Après le premier cycle de chimiothérapie administré pendant l'admission, il a été décidé de faire sortir la patiente, en poursuivant la chimiothérapie et la radiothérapie en ambulatoire.
+Au cours des visites de contrôle successives, la patiente a signalé des paresthésies dans la région auriculaire et une sensation de bouchon d'oreille.
+Au cours du suivi, la patiente s'est rendue à trois reprises aux urgences, notamment en avril 2016, où elle a consulté pour une crise d'absence, avec perte de la parole d'une durée d'environ 6 minutes, sans autre localisation, perte de connaissance ou mouvements tantrico-cloniques. Une observation a été décidée, car des épisodes similaires à ceux décrits à plusieurs reprises ont été observés, il a donc été décidé de réajuster le traitement que la patiente recevait depuis sa sortie : Levetiracetam 1000mg/12h et phénytoïne 100mg/8h.
+Devant l'apparition de ces épisodes, un nouveau scanner et une IRM ont été réalisés, qui ont permis d'exclure une récidive tumorale au niveau crânien.
+48 heures après l'admission, un processus fébrile intercurrent est apparu, au cours duquel des hémocultures périphériques et des cultures de cathéters ont été réalisées, avec isolement de Staphylococcus aureus insensible à la méthicilline. Compte tenu du potentiel pathogène et des complications potentielles, un traitement intraveineux a été administré pendant 14 jours, et l'échocardiographie a permis d'exclure une endocardite.
+Avant la sortie de l'hôpital, des cultures négatives ont été confirmées.
+
+Le suivi est à nouveau assuré par des consultations ; à ce jour, elle a terminé le troisième cycle de chimiothérapie, a reçu neuf séances de radiothérapie dans le champ pulmonaire sur les 33 prévues et a terminé la radiothérapie crânienne. La réévaluation de la maladie est en cours.

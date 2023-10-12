@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 62 ans, pas d'allergies médicamenteuses connues. Ex-fumeur. Fibrillation auriculaire, hypertension artérielle, insuffisance rénale de stade III-IV. Anévrisme de l'aorte thoracique avec endoprothèse vasculaire suivi par la chirurgie cardiovasculaire.
+Lors du dernier scanner demandé pour le contrôle de l'anévrisme thoracique, l'apparition d'adénopathies médiastinales de taille importante, inconnues à ce jour, a été observée. Un PET-CT a alors été réalisé, avec une suspicion de malignité au niveau médiastinal.
+Au cours du processus diagnostique, le patient s'est présenté au service des urgences avec une sensation vertigineuse, une instabilité de la démarche avec ataxie tronculaire et une altération de la motilité oculaire, consistant en des mouvements involontaires, arythmiques, multidirectionnels et de grande amplitude dans les deux yeux.
+
+Examen physique
+ECOG 4, tension artérielle 123-64 mm Hg. Eupnéique et afébrile. Peau pâle. Bien hydraté et perfusé. Saturation basale de 98 %. ACP : cœur arythmique avec fréquence ventriculaire contrôlée. MVC : abdomen et membres inférieurs sans résultats.
+Examen neurologique : conscient, orienté et coopératif. Légère dysarthrie. Mouvements oculaires arythmiques et chaotiques, avec des composantes horizontales, verticales et rotatoires. Démarche ataxique, avec augmentation de la base d'appui. Pas de myoclonie.
+
+Examens complémentaires
+TEP-TDM thoracique : adénopathies médiastinales paratrachéales, prévasculaires et précarinales droites, ainsi qu'adénopathies paravertébrales métaboliquement positives, avec un taux élevé de prolifération cellulaire. Foyer paramédiastinal gauche hypermétabolique évoquant une tumeur maligne.
+Tomodensitométrie crânienne : image hypodense dans les ganglions de la base compatible avec une lésion ischémique ancienne.
+Anticorps anti-neuronaux dans le sérum : anti-Hu, anti-Yo, anti-Ri, anti-amphiphysine, anti CV2/CRMP 5, anti-PNMA2 (Ta/Ma 2). Tous négatifs.
+
+Diagnostic
+Examen ORL, tomodensitométrie crânienne et IRM sans résultat. La neurologie a classé l'affection comme syndrome d'opsoclonus-myoclonus (SOM), une affection rare qui a été décrite comme une manifestation paranéoplasique associée à un neuroblastome chez l'enfant et à un carcinome pulmonaire microcytaire chez l'adulte, ainsi qu'associée à des processus infectieux, à des altérations métaboliques et à une atteinte structurelle.
+Une médiastinoscopie avec biopsies a été réalisée. L'étude histologique était compatible avec un carcinome neuroendocrine à petites cellules. Le diagnostic final a été celui d'un carcinome microcytaire du poumon, avec dissémination régionale, associé à des symptômes neurologiques paranéoplasiques (SOM).
+
+Traitement
+Le traitement a commencé avec du clonazepam 0,5 mg/8 h, de la thiethylperazine 6,5 mg/12 h et des corticostéroïdes et il a reçu le premier cycle de chimiothérapie (carboplatine-etoposide).
+
+Évolution
+Amélioration partielle des symptômes neurologiques.

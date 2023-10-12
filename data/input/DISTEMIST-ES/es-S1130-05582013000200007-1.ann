@@ -1,0 +1,10 @@
+T1	pathologie 689 700	adenopatías
+T2	pathologie 1111 1117	lesión
+T3	pathologie 1461 1467	lesión
+T4	pathologie 1891 1897	lesión
+T5	pathologie 2388 2391	FOA
+#1	SNOMED T1	30746006
+#2	SNOMED T5	84983008
+#3	SNOMED T2	417163006
+#4	SNOMED T3	417163006
+#5	SNOMED T4	417163006

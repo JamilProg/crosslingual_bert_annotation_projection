@@ -1,0 +1,19 @@
+Anamnèse
+Un homme de 44 ans, sans antécédents médicaux particuliers, s'est présenté au service des urgences pour une lymphadénopathie cervicale bilatérale et des modifications du rythme intestinal, depuis 2 semaines, accompagnées de sueurs nocturnes profuses, d'une hyporexie, d'une asthénie modérée et d'une perte de poids d'environ 10 kg au cours des 3 derniers mois. Après avoir été évaluée par le service de médecine interne, la patiente a été admise pour étude et traitement.
+
+Examen physique
+À l'examen, il présentait un ECOG 3, avec la palpation d'une adénopathie de 1,5 cm dans le creux sus-claviculaire gauche, fixe, dure, non douloureuse, et d'autres plus petites dans la région cervicale latérale droite et dans la région inguinale droite. L'auscultation était normale et l'abdomen montrait une hépatosplénomégalie non douloureuse mesurant 4-5 cm, sans autre altération significative.
+
+Examens complémentaires
+Les tests de laboratoire ont révélé une anémie normocytaire (Hb 10,4 g/dl), un cholestérol total de 50 mg/dl, une CRP élevée (80,5) et une b2-microglobuline de 4,30, sans autre résultat pathologique. Une sérologie a été demandée et s'est révélée négative pour le VHA, le VHC, la syphilis, la toxoplasmose et la leishmaniose, mais positive pour le VHB (AgHBs négatif, AcHBs positif et AcHBc positif) et le virus de l'immunodéficience humaine (VIH), avec une charge virale pour l'infection par le VIH de 95 763 copies/ml et un nombre de lymphocytes CD4 de 10,96 copies/ml. La tomodensitométrie cervicothoracoabdominale a montré de nombreuses adénopathies dans les régions cervicale, axillaire, iliaque et inguinale de taille significative, une splénomégalie et de faibles infiltrats en verre dépoli dans les lobes moyen et inférieur droits.
+
+Diagnostic
+Une biopsie de l'adénopathie sus-claviculaire gauche a été demandée avec un résultat anatomopathologique compatible avec la maladie de Castleman (MC), avec des altérations correspondant à la fois à la forme hyaline-vasculaire et à la forme plasmocytaire, et donc considérée comme une forme mixte.
+Au vu de ces résultats, la sérologie de l'herpèsvirus humain 8 (HHV-8) a été élargie et s'est révélée positive.
+
+Traitement
+Le patient a commencé un traitement antirétroviral hautement actif à base d'emtricitabine/ténofovir et de raltegravir, ainsi qu'une prophylaxie primaire de la pneumocystose à base de cotrimoxazole. Par la suite, il a été adressé à notre service d'oncologie médicale, où il a été évalué comme un patient atteint d'une MC multicentrique avec des symptômes B, immunodéprimé et en mauvais état général. Il a été décidé de commencer un traitement par corticothérapie (prednisone 50 mg) et vinblastine hebdomadaire (3 mg/m2) les jours 1, 8 et 15 tous les 28 jours, avec une amélioration clinique initiale et une décompensation diabétique au début du traitement.
+
+Évolution
+Après le premier cycle, il a dû être hospitalisé dans le service d'oncologie médicale en raison d'une hyponatrémie symptomatique sévère. Pendant son séjour dans le service, il a présenté une détérioration clinique avec persistance des symptômes B et malnutrition calorique-protéinique sévère.
+En outre, il a développé une polyneuropathie dans le membre inférieur droit ainsi que l'apparition de lésions cutanées gris-brun surélevées sur l'abdomen et la partie antérieure du thorax, ainsi qu'une lésion violacée plate sur le palais dur compatible avec un sarcome de Kaposi (résultats histologiques en attente). Après avoir exclu toute étiologie infectieuse/opportuniste, et compte tenu de tous ces résultats, le tableau clinique a été évalué comme un syndrome POEMS associé à la MC, ainsi que le développement d'un sarcome de Kaposi dans le contexte de la maladie elle-même et de l'infection par le VIH et le HHV-8, et il a donc été décidé de commencer un traitement par rituximab à 375 mg/m2 par semaine pendant quatre semaines.

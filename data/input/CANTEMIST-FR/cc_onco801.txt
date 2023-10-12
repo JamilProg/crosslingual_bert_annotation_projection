@@ -1,0 +1,34 @@
+Anamnèse
+Ce cas concerne une femme de 60 ans, sans antécédents personnels intéressants, à qui l'on a diagnostiqué en 2005 un cancer du sein lobulaire infiltrant suite à l'auto-palpation d'un nouveau nodule dans le sein gauche, qui était suspect à la mammographie.
+
+Examen physique
+Une nodulation indurée aux limites bien définies, d'un diamètre maximal d'environ 20 mm, est observée dans le quadrant supéro-externe gauche du sein gauche. Aucune atteinte pathologique des ganglions lymphatiques n'a été observée dans les régions axillaire, sus- et infraclaviculaire ou cervicale.
+
+Examens complémentaires
+Une mammographie bilatérale a été réalisée et une lésion a été diagnostiquée dans le quadrant supérieur externe, très évocatrice de malignité, avec une catégorie radiologique BIRADS 5.
+
+Diagnostic
+Une mastectomie gauche et un curage axillaire ont été réalisés, et la patiente a finalement été diagnostiquée avec un carcinome lobulaire infiltrant pT2 (25 mm) pN0 (0/12 ganglions) pM0, stade IIA, avec ER + (90-100 %), HER-2 - et un indice de prolifération Ki-67 de 10 %.
+
+Le traitement
+En raison de problèmes de numérisation des dossiers médicaux, je n'ai pas accès aux raisons qui ont conduit à l'époque à compléter le traitement adjuvant exclusivement par une hormonothérapie au lieu d'y ajouter une chimiothérapie, ce qui était la norme à l'époque.
+Quoi qu'il en soit, la patiente a suivi 5 ans d'anastrozole (inhibiteur de l'aromatase).
+
+Évolution
+En 2008, compte tenu des antécédents familiaux de cancer du sein au premier degré (sœur atteinte d'un cancer du sein à l'âge de 50 ans), le statut mutationnel des gènes BRCA a été évalué et tous deux se sont révélés négatifs.
+Malgré cela, compte tenu des antécédents familiaux et des souhaits de la patiente, une mastectomie prophylactique droite a été réalisée, et un cancer du sein métachrone infiltrant controlatéral a été découvert fortuitement lors de l'étude anatomopathologique de la pièce opératoire, mesurant environ 7 mm, sans ganglions lymphatiques cliniquement atteints, avec un profil IHQ identique à celui de la tumeur survenue en 2005 (pT1b, pN0, pM0, stade IA).
+Comme elle suivait déjà un traitement adjuvant à base d'anastrozole, il a été décidé de poursuivre ce traitement, 5 ans après la dernière tumeur (jusqu'en 2013, soit un total de 8 ans).
+Asymptomatique pendant le suivi, avec un intervalle sans maladie (ISM) d'environ 6 ans, en juin 2014 une augmentation progressive du marqueur tumoral carbohydrate antigen 15.3 (Ca 15.3) a commencé à être observée avec une progression de 30 -> 92 - >116 U/ml (valeurs de référence de laboratoire [0 - 40] U/ml).
+Enfin, en juillet 2014, lors d'une étude d'extension par tomodensitométrie (CT), une rechute de la maladie a été confirmée avec une atteinte osseuse au niveau des vertèbres dorsales et lombaires et de l'os iliaque gauche.
+Compte tenu du panorama de la maladie métastatique sans atteinte viscérale, avec rechute tardive après traitement hormonal, il a été décidé d'inclure le patient dans l'étude MONALEESA 2.
+Il s'agit d'un essai clinique randomisé de phase 3 incluant des femmes ménopausées atteintes d'une maladie avancée avec ER+/HER-2-. Les femmes ont été randomisées entre un traitement de première intention par ribociclib (600 mg/24 h pendant 21 jours avec une semaine de repos) et létrozole (2,5 mg/2 4h en continu) et un traitement par létrozole seul.
+Dans cette étude, les résultats ont été positifs pour le ribociclib, atteignant le critère principal de mesure de la PFS : l'ajout du ribociclib au létrozole a été associé à une augmentation cliniquement significative de la PFS (25,3 vs. 16 mois ; HR 0,568 [0,457, 0,704], p = 9,63 x 10-8) (3).
+D'autres données intéressantes de cette étude sont que tous les sous-groupes, indépendamment de l'âge, de l'ECOG, du nombre de sites métastatiques, des traitements antérieurs, etc. ont été également favorisés par l'ajout de l'inhibiteur de cycline, avec un profil de toxicité très favorable et sans détérioration de la qualité de vie.
+Notre patiente a débuté le cycle 1 du traitement le 28 juillet 2014 avec un bon état général, pratiquement asymptomatique et avec un statut de performance évalué par l'échelle de l'Eastern Cooperative Oncology Group (ECOG) de 0.
+Avec une bonne tolérance au traitement, elle a présenté une asthénie de grade 1 et des arthromyalgies de grade 1, sans dégradation de l'ECOG ni de la qualité de vie.
+En ce qui concerne la neutropénie, la toxicité la plus fréquente avec les inhibiteurs de cycline (données MONALEESA 2 : neutropénie de grade 3-4 dans 60% du groupe ribociclib vs. 0,9% avec le placebo), à partir du cycle 3 elle a commencé à présenter une neutropénie de grade 3 avec la nécessité de retarder le traitement, devant désescalader les doses selon le protocole au cycle 8 à ribociclib 400 mg/placebo, ce qui a suggéré que la patiente se trouvait dans le bras expérimental.
+Pour la même raison, au cycle 40, nous avons dû réduire à la dose minimale acceptée par l'essai, avec ribociclib 200 mg/placebo, dose qui est actuellement maintenue.
+En termes d'examens complémentaires, elle est habituellement réévaluée par un scanner thoraco-abdominal et une scintigraphie osseuse (GGO) selon le protocole de l'essai, décrivant une stabilité de la maladie pratiquement depuis le début, avec des réponses radiologiques partielles commençant à être observées dans la scintigraphie osseuse réalisée au cycle 25.
+Compte tenu de la longue survie de la patiente, des doutes ont commencé à émerger sur le fait que la patiente était réellement à un stade métastatique depuis le début, et que les lésions osseuses étaient telles, il a donc été décidé à partir du cycle 40 de réaliser une tomographie par émission de positons (TEP/CT) hors essai, qui a effectivement montré à plusieurs reprises des lésions osseuses blastiques au niveau du corps vertébral L3 et de l'articulation sacro-iliaque gauche, métaboliquement positives et évocatrices de malignité, raison pour laquelle il a été décidé de poursuivre le traitement.
+En avril 2018, la patiente a terminé son 50e cycle de traitement.
+Elle est en excellent état général, avec des toxicités de grade 1 telles qu'une asthénie et des arthromyalgies bien tolérées, qui n'altèrent pas sa vie, avec un ECOG 0 et avec une stabilité clinique et radiologique (par PET/CT, CT et GGO) de sa maladie osseuse métastatique.

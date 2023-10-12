@@ -1,0 +1,39 @@
+Anamnèse
+Patient âgé de 54 ans, fumeur de 10 cigarettes de cannabis par jour, buveur de plus de 3 litres de bière par jour et ex-consommateur de drogues sniffées dans sa jeunesse (cocaïne, héroïne) avec des antécédents d'hépatite C chronique de génotype 4c 4d, traitée, sans réponse au traitement et sans contrôle ultérieur en raison des souhaits du patient. Le patient travaille dans la construction et l'hôtellerie avec un bon état fonctionnel et un ECOG de 1.
+Il a commencé une étude en décembre 2014 à la suite d'une douleur thoracique de type piqûre et d'un syndrome constitutionnel associé. Une radiographie du thorax a été demandée à son centre de santé, où un nodule de 1 cm a été observé au milieu du poumon droit.
+Au vu de ces résultats, un scanner thoracique a été réalisé, montrant de multiples nodules pulmonaires bilatéraux, une métastase lytique dans le 6e arc costal gauche et une masse rénale droite mesurant 6x4 cm, sans infiltration des structures vasculaires ni extension périnéale, avec des adénopathies locorégionales et une masse surrénalienne gauche mesurant 4x 5cm.
+Après discussion du cas au sein du comité des tumeurs urologiques, il a été décidé de réaliser une néphrectomie droite par laparoscopie, qui a été effectuée en mars 2015 avec des résultats anatomopathologiques de carcinome rénal à cellules claires de grade 3 de Fuhrman avec infiltration de la graisse dans le sinus rénal et métastase dans 3 ganglions lymphatiques isolés.
+Il a été évalué dans nos bureaux en avril 2015 et a commencé un traitement par Sunitinib 50 mg par jour pendant quatre semaines avec deux semaines de repos et Zometa.
+En raison d'une aggravation de la fonction rénale, d'une asthénie et d'une stomatite de grade 2, le traitement a été interrompu en août 2015 et repris en septembre à une dose de 37,5mg par jour avec du Denosumab.
+
+Un scanner thoraco-abdominal de contrôle a été réalisé en septembre 2015, qui a montré une stabilisation de la maladie et le traitement a été maintenu.
+En octobre 2015, le patient s'est rendu aux urgences pour un épisode de désorientation temporaire avec hallucinations visuelles et auditives et un déficit visuel progressif depuis des mois au niveau de l'œil gauche.
+
+Examen physique
+L'examen physique a révélé une hépatomégalie de trois largeurs de doigt au niveau de l'abdomen, sans autre altération significative.
+L'examen neurologique a révélé une bradypsychie accompagnée d'une désorientation temporelle et d'une vision floue avec latéralisation gauche sans autres altérations, avec des pupilles isochores et normoréactives, sans perte de force ou de sensibilité à quelque niveau que ce soit et sans altération de la démarche.
+
+Examens complémentaires
+Au cours de son séjour au service des urgences, les examens complémentaires suivants ont été réalisés :
+- NFS : anémie avec Hb de 9 gr/dl et légère hyponatrémie de 134 mEq/L sans autres altérations significatives.
+- Tomodensitométrie cérébrale : lésion dans la région sellaire, avec des limites bien définies, de 20x20 mm, s'étendant crânialement sur la citerne suprasellaire, le chiasma optimal et entrant en contact avec la paroi inféro-antérieure du IIIe ventricule, produisant un effet de masse discret avec une légère triventriculomégalie, suggérant comme première possibilité un macroadénome hypophysaire par rapport à une métastase.
+Deux concentrés de globules rouges ont été transfusés au service des urgences et le patient a été admis en oncologie médicale pour terminer l'étude. Pendant l'admission, l'état clinique du patient s'est aggravé, devenant de plus en plus désorienté avec des épisodes d'agitation psychomotrice.
+Une IRM du cerveau a été demandée pour identifier la présence d'une lésion sélaire et exclure la présence d'une carcinomatose méningée, ainsi qu'une tomodensitométrie thoraco-abdominale de restadification. Un profil hormonal complet a également été demandé.
+- Profil hormonal : T4 libre 0,54 ng/dl, TSH basale 0,04 uU/mL, LH <0,07 mIU/mL, FSH basale 0,09 mIU/mL, PRL basale 27,5 ng/mL, testostérone 0,07 ng/mL.
+- IRM cérébrale : masse hypothalamo-hypophysaire avec œdème important dans les deux hypothalamus, les capsules internes, le mésencéphale et les rubans optiques, ce qui, avec l'histoire clinique et la présence d'une deuxième lésion dans l'hémisphère cérébelleux gauche, suggère la possibilité d'une métastase, sans exclure complètement la coexistence de deux processus : métastase cérébelleuse et macroadénome hypophysaire, bien que ce dernier semble plus improbable. Hydrocéphalie tétraventriculaire avec œdème transépendymaire. Aucun rehaussement leptoméningé n'a été identifié, bien que la possibilité d'une carcinomatose leptoméningée ne puisse être exclue.
+- Tomodensitométrie thoraco-abdominale : progression significative des métastases pulmonaires bilatérales par rapport à l'étude précédente, métastases osseuses et surrénaliennes.
+
+Diagnostic
+Masse hypophysaire de 2,8 cm de diamètre maximum en relation probable avec un macroadénome hypophysaire versus une métastase chez un patient atteint d'un carcinome rénal à cellules claires de stade IV. Hypothyroïdie centrale dans le contexte. Hyperprolactinémie légère en relation probable avec une compression de la tige pituitaire.
+Hypogonadisme hypogonadotrope.
+
+Traitement
+Au vu des résultats des examens complémentaires, une évaluation par la radio-oncologie et la neurochirurgie a été demandée. Après une évaluation conjointe du cas, il a été décidé de transférer le patient en neurochirurgie pour une intervention chirurgicale, compte tenu de l'absence de comorbidités, de l'âge et de la bonne situation fonctionnelle avant l'admission.
+Il a été évalué par le service d'endocrinologie et le traitement a été ajusté en commençant par un traitement par Levothyroxine 100 mcgr toutes les 24 heures, en recommandant une ligne directrice de couverture du stress pour la chirurgie avec de la dexaméthasone ou de l'actocortine.
+Il a été opéré le 13/11/2015 par craniotomie guidée par neuronavigation. Il a présenté une complication peropératoire avec un choc hémorragique avec hypotension et anémie aiguë avec Hb 3,2 nécessitant une transfusion de 4 concentrés d'hématite et de volume sans identifier un point de saignement clair. Après stabilisation du patient, il a été transféré dans des lits de réanimation.
+
+Évolution
+Dans les jours qui ont suivi l'opération, le patient est devenu progressivement anémique et a présenté des symptômes neurologiques qui n'existaient pas avant l'opération, avec une mydriase gauche aréactive. La tomodensitométrie du cerveau effectuée après l'opération a montré des changements secondaires à l'opération, sans signe d'hémorragie ou d'autres altérations significatives.
+Les résultats de l'anatomie pathologique de la pièce opératoire ont montré des métastases cérébrales d'un carcinome rénal à cellules claires.
+Après plusieurs jours de réanimation, l'état du patient s'est progressivement dégradé, avec une détérioration neurologique et respiratoire, une hypoxémie avec une très mauvaise mécanique respiratoire, secondaire à l'importante atteinte métastatique pulmonaire, ainsi qu'une hypocalcémie sévère avec des taux de calcium ionique inférieurs à 2.
+À l'heure actuelle, il est considéré que, compte tenu de la situation actuelle du patient et de sa maladie, il ne nécessite pas de mesures de soutien agressives, limitant l'effort thérapeutique en accord avec les proches du patient et le testament de vie du patient.

@@ -1,0 +1,31 @@
+Anamnèse
+
+LE CONTEXTE PERSONNEL :
+
+Patient de 65 ans sans allergie médicamenteuse. Hypertension artérielle. Fumeur de 20 cigarettes/jour depuis l'âge de 20 ans. Maladie pulmonaire obstructive chronique. Fracture de la conque droite en 2007 avec traumatisme acoustique chronique.
+
+DÉBUT CLINIQUE :
+Le patient a été examiné au service de diagnostic rapide de médecine interne de notre hôpital pour un syndrome général et une faiblesse du membre inférieur droit. Les examens de laboratoire ont révélé une hypertransaminasémie, une créatine kinase de 7371 U/L, une CRP de 143 mg/L, un CA 15.3 de 44 U/L et un Cyfra 21.1 de 11 U/L. Les autres analyses (hémogramme, biochimie, sérologies diverses, interféron gamma, enzyme de conversion de l'angiotensine, ANA et ANCA) étaient normales.
+Une radiographie du thorax puis une tomodensitométrie thoraco-abdominale ont montré des signes de fibrose pulmonaire, de multiples adénopathies hilaires et médiastinales (pré-vasculaires, dans la fenêtre aorto-pulmonaire, paratrachéales et sous-carénaires) et une image cavitaire de 3,5 x 3 cm dans le lobe supérieur du poumon gauche avec un épaississement de la paroi.
+Dix jours plus tard, il a été admis en urgence pour une aphasie motrice soudaine et une hémiparésie brachiale droite, avec suspicion d'accident vasculaire cérébral ischémique dans le contexte d'un possible néoplasme pulmonaire, sans qu'il soit possible d'exclure d'autres pathologies.
+
+Examen physique
+À l'admission, le patient était stable sur le plan hémodynamique et sa température était de 37,8 °C. L'auscultation pulmonaire a révélé des rhonchies et des sifflements épars, accompagnés de crépitants à la base gauche. L'examen neurologique a révélé une aphasie motrice, une légère parésie faciale inférieure droite et une hémiparésie brachiale droite sans atteinte crurale. La sensibilité était préservée sans extinction sensorielle et les réflexes ostéotendineux étaient préservés. Le reste de l'examen était normal.
+
+Examens complémentaires
+Les examens de laboratoire effectués à l'admission ont montré une augmentation des transaminases (GOT 350 U/L, GPT 260 U/L, GGT et bilirubine normales) et une augmentation frappante de la CK 7300 U/L.
+La radiographie du thorax a montré une lésion cavitaire dans le lobe supérieur gauche, accompagnée d'un schéma interstitiel bilatéral, déjà connu. Compte tenu des symptômes neurologiques, un scanner du cerveau a montré des lésions ischémiques compatibles avec des infarctus ischémiques chroniques. Une échographie Doppler des artères tronc-supraortiques et transcrâniennes a également été réalisée, sans résultat pathologique ni signe indirect de vascularite.
+Deux jours plus tard, le patient a été transféré à l'unité de soins intensifs en raison d'une insuffisance respiratoire aiguë et d'une aggravation sévère de ses symptômes neurologiques.
+Une bronchoscopie avec brossage positif pour un adénocarcinome d'origine pulmonaire probable a été réalisée, suivie d'une AGB qui a confirmé le diagnostic.
+Compte tenu de l'absence d'amélioration clinique et de la suspicion d'un syndrome neurologique paranéoplasique, l'étude a été prolongée par un électromyogramme qui a mis en évidence une légère polyneuropathie sensori-motrice sans signe de myopathie.
+
+Diagnostic
+Le diagnostic définitif était un adénocarcinome pulmonaire de stade IV sans mutation de l'EGFR et sans translocation de l'ALK, avec suspicion de polymyosite paranéoplasique.
+
+Traitement
+Dans notre cas, étant donné la détérioration rapide du patient et avant le diagnostic anatomopathologique, le traitement a été commencé par des immunoglobulines intraveineuses (25 g iv à administrer en 12h pendant 5 jours) avec peu d'amélioration. Enfin, après confirmation du diagnostic et suspicion de syndrome paranéoplasique, un traitement cytostatique a été instauré avec Cisplatine 75 mg/m2 d1 + Premetrexed 500 mg/m2 d1 tous les 21 jours.
+Après le premier cycle, le patient a montré une nette amélioration fonctionnelle, passant d'un alitement continu à une ambulation progressive. L'amélioration après le traitement antinéoplasique a considérablement renforcé la suspicion diagnostique.
+
+Évolution
+Après sa sortie de l'hôpital, la patiente a continué à recevoir le même traitement avec une excellente tolérance. Le scanner thoracique d'évaluation a révélé une maladie stable avec des signes de fibrose pulmonaire avec un "motif de verre dépoli" suggérant une activité. Après 4 cycles, le patient a progressivement repris une activité normale jusqu'à ce qu'il soit capable de mener une vie quotidienne normale.
+Finalement, 7 mois après le diagnostic, le patient est décédé d'une insuffisance respiratoire aiguë due à des causes multifactorielles (fibrose pulmonaire, infection respiratoire, néoplasie...).

@@ -1,0 +1,32 @@
+T1	pathologie 436 443	fumador
+T2	pathologie 468 482	asma bronquial
+T3	pathologie 1328 1341	cardiomegalia
+T4	pathologie 1473 1499	derrame pericárdico severo
+T5	pathologie 2157 2176	derrame pericárdico
+T6	pathologie 2926 2951	adenopatías mediastínicas
+T7	pathologie 3066 3091	derrame pleural bilateral
+T8	pathologie 3805 3816	adenopatías
+T9	pathologie 4049 4068	daño pulmonar agudo
+T10	pathologie 4104 4143	enfermedad pulmonar intersticial difusa
+T11	pathologie 4145 4149	EPID
+T12	pathologie 4255 4276	neumonía eosinofílica
+T13	pathologie 4731 4765	derrame pleural bilateral moderado
+T14	pathologie 4933 4981	adenocarcinoma acinar-papilar, bien diferenciado
+T15	pathologie 5116 5130	adenocarcinoma
+T16	pathologie 5185 5219	origen pulmonar del adenocarcinoma
+#1	SNOMED T4	373945007
+#2	SNOMED T5	373945007
+#3	SNOMED T6	52324001
+#4	SNOMED T7	425802001
+#5	SNOMED T9	19829001
+#6	SNOMED T10	233703007
+#7	SNOMED T11	233703007
+#8	SNOMED T12	367542003
+#9	SNOMED T13	425802001
+#10	SNOMED T15	443961001
+#11	SNOMED T16	254626006
+#12	SNOMED T2	195967001
+#13	SNOMED T1	77176002
+#14	SNOMED T8	30746006
+#15	SNOMED T3	8186001
+#16	SNOMED T14	45410002

@@ -1,0 +1,22 @@
+T1	pathologie 97 117	hemorragia digestiva
+T2	pathologie 139 158	valvulopatía mitral
+T3	pathologie 260 279	sangrado intestinal
+T4	pathologie 303 328	anemia ferropénica severa
+T5	pathologie 514 533	sangrado intestinal
+T6	pathologie 633 713	angiodisplasias intestinales en antro duodenal, yeyuno proximal e íleon terminal
+T7	pathologie 988 1003	angiodisplasias
+T8	pathologie 1047 1070	angiodisplasias ileales
+T9	pathologie 1290 1298	lesiones
+T10	pathologie 1905 1933	hipertensión pulmonar severa
+T11	pathologie 2169 2193	tromboembolismo pulmonar
+#1	SNOMED T1	74474003
+#2	SNOMED T2	11851006
+#3	SNOMED T10	70995007
+#4	SNOMED T3	712510007
+#5	SNOMED T4	87522002
+#6	SNOMED T11	59282003
+#7	SNOMED T5	712510007
+#8	SNOMED T6	721662002
+#9	SNOMED T7	71072006
+#10	SNOMED T8	721662002
+#11	SNOMED T9	157670007

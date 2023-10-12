@@ -1,0 +1,37 @@
+Anamnèse
+Femme de 55 ans aux antécédents d'hypertension, d'hypothyroïdie et d'obésité morbide. Pas d'antécédents familiaux intéressants. Pas d'exposition toxique.
+Lors des examens pré-anesthésiques pour une chirurgie bariatrique en février 2015, un nodule pulmonaire a été décrit comme une découverte fortuite, et un scanner thoraco-abdomino-pelvien a été demandé pour compléter l'étude.
+
+Examen physique
+Patient en bon état général, ECOG 0. Examen de l'appareil sans particularité.
+
+Examens complémentaires
+Au cours de cette période, en mars 2015, la patiente a consulté pour la détection d'un nodule dans le sein droit, et une mammographie a été réalisée, qui a révélé une image nodulaire avec un contour lisse compatible avec un kyste, sans pouvoir identifier le nodule palpable dans la région inframammaire. L'étude a été complétée par une échographie, qui a révélé une masse solide de 4 centimètres de diamètre sur la ligne interquadrante inférieure, au niveau du sillon inframammaire, accompagnée de multiples adénopathies axillaires droites.
+Au vu de ces résultats, la patiente a été programmée pour une biopsie percutanée avec marquage et aspiration des ganglions lymphatiques axillaires.
+Entre-temps, un scanner thoraco-abdominal pelvien a également été réalisé, montrant de multiples nodules pulmonaires bilatéraux allant jusqu'à 16 mm, en plus de la masse connue dans le sein droit et des ganglions lymphatiques axillaires.
+Les résultats de l'étude anatomopathologique de la tumeur du sein sont un carcinome canalaire infiltrant. L'étude immunohistochimique indique des récepteurs hormonaux négatifs, un Ki67 à 50 % et une surexpression de HER-2 ++-/+++, d'où la réalisation d'une FISH qui ne détecte pas d'amplification du gène.
+La cytologie des adénopathies axillaires était positive pour les cellules malignes.
+Une étude de mutation BRCA a également été réalisée, qui n'a détecté aucune mutation connue.
+L'analyse réalisée pour compléter l'étude n'a pas révélé d'altérations significatives et les marqueurs tumoraux (Ca15.3) étaient normaux.
+
+Diagnostic
+Carcinome canalaire infiltrant triple négatif de stade IV dû à de multiples métastases pulmonaires, stadifié cT3 cN2 M1.
+
+Traitement
+Chez une patiente atteinte d'un cancer du sein métastatique triple négatif, une chimiothérapie de première intention a été mise en place avec un schéma séquentiel de carboplatine-docétaxel pendant 4 cycles, suivi d'épirubicine-cyclophosphamide pendant 4 cycles supplémentaires. Après avoir reçu 2 cycles, elle a eu une réaction allergique au docétaxel, de sorte que le schéma a été modifié en carboplatine-paclitaxel, dont elle a reçu 2 autres cycles.
+
+Évolution
+Un scanner thoraco-abdomino-pelvien a été demandé en juin 2015 pour évaluer la réponse après avoir terminé les 4 premiers cycles, avec des critères de maladie stable, tant pour la masse dans le sein droit que pour les métastases pulmonaires.
+Elle a terminé le traitement par épirubicine-cyclophosphamide pour 4 cycles supplémentaires, et lors d'un nouveau scanner de réévaluation réalisé après la fin de la chimiothérapie en octobre 2015, une réduction significative de la tumeur du sein a été signalée, avec une taille de 15 x 7 mm, sans composante adénopathique axillaire visible. De multiples métastases pulmonaires bilatérales persistent avec une légère augmentation de taille et l'apparition de quelques nouvelles lésions.
+Cette réduction du nodule mammaire est également observée à la mammographie avec des dimensions similaires.
+Compte tenu de l'existence d'une réponse dissociée, avec une excellente réponse au niveau du nodule mammaire et une absence de réponse au niveau des nodules pulmonaires, la possibilité de réaliser une biopsie pulmonaire pour identifier l'étiologie a été envisagée, ce qui a été réalisé en décembre 2015. La lésion biopsiée correspondait à une métastase d'un carcinome neuroendocrine de bas grade (KI67 4%).
+Il a été décidé de compléter l'étude de la tumeur neuroendocrine en demandant un Octreoscan®, qui était normal et dans lequel aucune captation n'a été détectée, une analyse avec de la chromogranine (78,6 ng/ml) et de l'acide indolacétique dans les urines (12,0 mg en 24 heures, une légère augmentation par rapport à la normale) et aucun symptôme clinique associé.
+
+Jugement diagnostique
+Deux tumeurs synchrones :
+"Carcinome canalaire infiltrant T3N2M0, stade IIIB, triple négatif.
+"Tumeur neuroendocrine de bas grade avec métastases au moment du diagnostic et d'origine inconnue.
+Compte tenu de ces résultats, la patiente a été opérée en janvier 2016 pour son carcinome mammaire, avec tumorectomie et lymphadénectomie axillaire, et l'étude anatomopathologique de la pièce d'exérèse a montré l'absence de néoplasie résiduelle avec des marges de résection libres. Les 18 ganglions lymphatiques réséqués n'ont pas été touchés. Par la suite, la patiente a reçu une radiothérapie externe (RT) sur le sein droit.
+Après la fin de la RT en août 2016, un nouveau scanner a été réalisé pour évaluer la situation, qui n'a montré aucun changement significatif dans le nombre et la taille des lésions pulmonaires décrites pour la tumeur neuroendocrine, et aucune autre lésion n'a été détectée.
+Le patient a signalé l'apparition d'épisodes occasionnels d'hémoptysie autolimitée et de dyspnée à l'effort. En tant que patient atteint d'une tumeur neuroendocrine de bas grade d'origine inconnue, métastatique au poumon et présentant des symptômes associés, il a été décidé de commencer un traitement par analogues de la somatostatine.
+À l'heure actuelle, la patiente a reçu 15 cycles d'analogues de la somatostatine, elle est asymptomatique, en bon état général, avec une stabilité radiologique de la maladie pulmonaire neuroendocrine et un intervalle sans maladie de 27 mois pour son carcinome mammaire.

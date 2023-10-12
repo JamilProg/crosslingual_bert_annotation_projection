@@ -1,0 +1,30 @@
+Anamnèse
+Patient âgé de 49 ans, ex-fumeur de 20 cigarettes par jour depuis 8 ans et buveur d'un demi-litre de bière par jour, sans autres antécédents intéressants.
+En mars 2012, il a consulté aux urgences pour avoir présenté une dysphagie progressive au point de devenir liquide, avec une sensation de corps étranger et des vomissements continus depuis 24 heures. Elle a rapporté des symptômes cliniques de dysphagie aux solides et des vomissements postprandiaux depuis 6 mois, qui s'étaient aggravés au cours du dernier mois, avec une perte de poids d'environ 2 kg.
+
+Examen physique
+Bon état général, ECOG : 0. Poids : 75 kg. Taille : 170 cm. Peau bien hydratée et perfusée. Couleur normale.
+Eupnéique au repos. Conscient, orienté et coopératif. Auscultation cardio-pulmonaire avec des sons rythmiques de bonne fréquence, sans souffle. Murmure vésiculaire conservateur. Pas de bruits respiratoires ajoutés. Abdomen souple et dépressible, non douloureux à la palpation, pas de signes de péritonisme. Pas d'œdème ni de signes de thrombose dans les membres inférieurs.
+
+Tests complémentaires
+- Examens de laboratoire à l'admission. Biochimie : normalité des fonctions rénale, hépatique et ionique. Hémogramme : normalité des trois séries.
+CEA : 21,7 ng/ml ; CA 19.9 : 627,7 U/l. Coagulation : normale.
+- Radiographie du thorax (16/3/2014) : silhouette cardio-médiastinale de taille normale, images éparses de ''lâcher de ballons'' dans les deux poumons, pas d'épanchement ni d'infiltrat.
+- Tomodensitométrie thoracique et abdominale (20/3/2012) : multiples nodules pulmonaires bilatéraux en ''lâcher de ballons'' compatibles avec des métastases, les plus gros atteignant 27 mm. Schéma de bronchopathie chronique. Épaississement de la jonction gastro-oesophagienne avec infiltration possible du ligament gastro-hépatique. Diverticulose dans le côlon.
+- Fibrogastroscopie (16/3/2012) : nous avons observé un bolus de viande impacté dans l'œsophage distal, qui a été retiré à l'aide d'un panier de Roth. Après son extraction, nous avons réintroduit le gastroscope pour évaluer le résultat et avons constaté qu'à environ 35 cm de l'arcade dentaire, il y avait un rétrécissement infranchissable, très irrégulier et anfractueux, compatible avec une néoplasie de l'œsophage distal. Procédure : biopsie de l'oesophage.
+- Anatomie pathologique (16/3/2012). Muqueuse œsophagienne (biopsie) : adénocarcinome infiltrant.
+
+Diagnostic
+Adénocarcinome de la jonction gastro-oesophagienne, stade IV (M1 pulmonaire).
+
+Traitement
+Le 29 mars 2012, la première ligne de chimiothérapie à visée palliative a été initiée avec ECF (épirubicine 50 mg/m2 jour 1, cispaltine 60 mg/m2 jour 1 et 5-fluorouracile 200 mg/m2 en perfusion continue de 24 heures), cycles tous les 21 jours.
+Une réponse complète iconographique a été obtenue après 6 cycles et le patient a été suivi.
+
+Évolution
+En janvier 2103, après 4 mois sans maladie, la patiente a été réévaluée pour une dysphagie clinique, et une récidive locale (biopsiée) a été observée dans la fibrogastroscopie et des lésions pulmonaires bilatérales dans la tomodensitométrie. Une chimiothérapie de deuxième ligne avec du docétaxel 75 mg/m2 a été envisagée et une nouvelle FEVG a été demandée pour évaluer l'introduction du trastuzumab, obtenant une FEVG de 42%, et la patiente n'a pas été considérée comme apte à recevoir une thérapie ciblée anti-HER2.
+Après 5 cycles de traitement, la patiente a présenté des symptômes cliniques de douleurs lombaires irradiant vers le membre inférieur gauche, de sorte qu'une IRM et une scintigraphie osseuse ont été demandées, qui ont montré une activité ostéogénique accrue dans le massif trochantérien droit suggérant une lésion infiltrative d'origine tumorale.
+Devant cette nouvelle progression osseuse, en mai 2013, une troisième ligne de chimiothérapie ECX (épirubicine, cisplatine, capécitabine) a été envisagée, en ajoutant de l'acide zolendronique par cycles tous les 21 jours. En outre, il a reçu une radiothérapie palliative sur le fémur droit (10 séances de 30 Gy).
+Le patient a bénéficié d'un bon contrôle de la douleur avec du fentanyl transdermique 75 mcg et d'un traitement de secours avec du fentanyl 100 mcg ou des comprimés distribuables.
+Après 3 cycles d'ECX (en juillet 2013), le patient a présenté une toxicité rénale avec une créatinine de 2,89 et une AC Cr de 30 ml/min, il a donc été décidé d'arrêter le traitement et il a été référé pour la mise en place d'un stent en raison de signes cliniques de resténose.
+Le patient présentait un mauvais état général progressif, avec un ECOG 2-3 et une anorexie avec une perte de poids significative, et n'était pas un candidat pour une nouvelle ligne de traitement, donc, en accord avec le patient et la famille, il a été suivi par l'unité de soins palliatifs, et est décédé après 2 mois.

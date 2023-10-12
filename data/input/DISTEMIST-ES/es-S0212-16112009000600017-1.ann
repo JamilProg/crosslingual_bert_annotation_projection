@@ -1,0 +1,14 @@
+T1	pathologie 63 84	cardiopatía isquémica
+T2	pathologie 96 122	infarto agudo de miocardio
+T3	pathologie 137 147	ex-fumador
+T4	pathologie 175 223	alergias conocidas a medicamentos ni a alimentos
+T5	pathologie 263 283	amiloidosis primaria
+T6	pathologie 286 304	síndrome nefrótico
+T7	pathologie 1436 1454	síndrome nefrótico
+#1	SNOMED T1	194828000
+#2	SNOMED T2	57054005
+#3	SNOMED T5	23132008
+#4	SNOMED T6	52254009
+#5	SNOMED T7	52254009
+#6	SNOMED T3	8517006
+#7	SNOMED T4	416098002+414285001

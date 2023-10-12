@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 49 ans, allergique à la pénicilline, ex-fumeur depuis 2 ans (25 paquets/an).
+Antécédents d'hypothyroïdie iatrogène après administration d'iode radioactif pour traiter une hyperthyroïdie. Interventions chirurgicales : amygdalectomie, appendicectomie, hernioplastie inguinale droite, hémilaminectomie + discectomie L3-L4.
+En mars 2013, elle se présente aux urgences pour des douleurs de l'hypogastre et de la fosse iliaque gauche d'évolution 4 jours. Un pic fébrile de 38 ºC a été constaté la veille. Il n'y avait pas de modification des habitudes intestinales, de syndrome mictionnel, de syndrome constitutionnel ou de bouffées vasomotrices.
+
+Examen physique
+État général conservé, signes vitaux normaux à l'exception de la température de 38,1 ºC. Adénopathie douloureuse sus-claviculaire droite, non mobile. Système cardio-pulmonaire sans altération. Abdomen douloureux à la palpation profonde dans la fosse iliaque gauche, sans péritonisme, sans masse ni mégalithe palpable. Pas d'œdème. Pas de focalité neurologique.
+
+Examens complémentaires
+- Analyses sanguines : leucocytes 15 000 ; neutrophiles 78,8% ; bilirubine totale 1,62 mg/dl ; CRP 16,3 mg/dl ; ESR 64 mm/h ; TSH 3,06 IUI/ml ; cultures sanguines et urinaires négatives ; marqueurs tumoraux normaux ; sérologies virales négatives.
+- Radiographies du thorax et de l'abdomen : bronchectasie basale, luminogramme aérien non spécifique.
+- Échographie abdominale : multiples LOE hépatiques hyperéchogènes.
+- TDM TAP : bulles dans les sommets pulmonaires, signes discrets d'emphysème, masse adénopathique médiastinale, masse paratrachéale droite avec signes de nécrose. Hépatomégalie avec LOE multiples dans tous les segments. Adénopathies périhépatiques et rétropéritonéales. Pas de dilatation des canaux. Masse avec aspect infiltrant et nécrose interne (doute entre conglomérat adénopathique et masse jéjunale). Implants péritonéaux. Epaississement de l'iléon terminal.
+- Transit intestinal : ouverture du cadre duodénal par déplacement dû à une tumeur extrinsèque.
+- Anatomie pathologique de la biopsie hépatique : métastase due à un carcinome neuroendocrine bien différencié d'origine gastro-entéro-pancréatique probable.
+- Immunohistochimie : CK7 +, CAM 5.2 +, synfaptophysine +, CD 56 +, CDX2 +, CEA Polyclonal +, Chromogranine +, CK20, TTF1 -, Thyroglobuline -. Ki 67 5%.
+- Octréoscan : dépôts pathologiques multiples dans l'adénopathie sus-claviculaire droite, le médiastin, les deux lobes hépatiques, les foyers hypercapillaires abdominaux et les implants péritonéaux.
+- Les taux d'acide vanillyl-mandélique, d'acide 5-OH-indoleacétique, d'acide homovanillique et de métanéphrines dans les urines étaient normaux. Chromogranine 1,945 ng/dl (normale jusqu'à 100).
+
+Diagnostic
+Tumeur neuroendocrine d'origine gastro-entéro-pancréatique probablement bien différenciée avec métastases hépatiques et ganglionnaires.
+
+Traitement
+Un traitement par analogues de la somatostatine est instauré et réévalué après 3 mois par tomodensitométrie en cas d'aggravation radiologique avec augmentation des lésions hépatiques et péritonéales et des adénopathies rétropéritonéales. Contrôle de la chromogranine 438,7 ng/ml. Le patient a été présenté au comité des tumeurs et il a été décidé d'associer les inhibiteurs de tyrosine kinase (sunitinib) aux analogues de la somatostatine en raison d'une tumeur neuroendocrine métastatique bien différenciée. Le sunitinib 37,5 mg toutes les 24 heures a été mis en route.
+
+Évolution
+La patiente est adressée en dermatologie pour des lésions érosives et desquamatives du derme palmoplantaire et de la cavité buccale de type érythrodysesthésie palmoplantaire, consécutives à un traitement par Sunitinib. Il y avait également des signes de dépigmentation des cheveux, des sourcils et des régions acrales.
+Un scanner de réévaluation (avril 2014) a montré une amélioration radiologique avec une réduction de la taille des conglomérats adénopathiques médiastinaux et abdominaux. Il persiste de multiples lésions hépatiques, dont la plupart présentent une légère réduction de taille, avec un aspect plus nécrotique qu'auparavant.
+La lésion mésentérique est également de plus petit diamètre. Réduction de la taille de la lésion surrénalienne gauche (maintenant 18 mm).
+En octréoscan (mai 2014), on observe une nette diminution de la captation du traceur dans le foie et l'abdomen, liée à une réponse partielle au traitement. Dernier contrôle de la chromogranine 142 ng/ml.

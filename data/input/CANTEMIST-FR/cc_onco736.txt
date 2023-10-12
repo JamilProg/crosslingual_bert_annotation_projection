@@ -1,0 +1,23 @@
+Anamnèse
+Femme de 56 ans, sans allergies médicamenteuses ni habitudes toxiques connues. Antécédents personnels : diabétique insulinodépendante et dyslipidémique sous traitement médical. Elle présente un syndrome d'apnée-hypopnée du sommeil, traité par ventilation mécanique non invasive nocturne. Elle a subi une cholécystectomie en 2008.
+Elle n'a pas d'antécédents familiaux de cancer.
+Début 2011, elle a commencé à présenter des symptômes de toux et d'expectoration compatibles avec une infection respiratoire. Compte tenu de la persistance des symptômes malgré un traitement antibiotique, une étude diagnostique a été initiée en juin 2011.
+
+Examen physique
+ECOG 1, Karnofsky 80%. Bon état général, eupnéique au repos. Lors de l'auscultation cardio-pulmonaire, le souffle vésical est conservé, sans autre bruit pathologique. Le reste de l'examen était également normal.
+
+Examens complémentaires
+Les examens de laboratoire ont révélé une anémie microcytaire avec une hémoglobine de 9,8 g/dl. Un scanner du thorax et de l'abdomen a été demandé, montrant de multiples nodules pulmonaires subcentimétriques bilatéraux évoquant des métastases, ainsi qu'un nodule hépatique de 5 mm dans le segment VII, une lésion de 1,4 cm dans le corps du pancréas et un nodule surrénalien droit de 3 cm compatible avec un adénome non fonctionnel. Compte tenu des résultats décrits, la première option diagnostique envisagée était une néoplasie pancréatique avec de multiples métastases pulmonaires et une seule métastase hépatique. Une ponction de la lésion pancréatique a donc été réalisée par échographie endoscopique, avec des résultats anatomopathologiques négatifs pour une tumeur maligne.
+Étant donné que les lésions pulmonaires et la lésion hépatique unique étaient de petite taille et donc difficiles à biopsier, une échoendoscopie a été réalisée à nouveau pour tenter de prélever un échantillon de pancréas. Cependant, le patient a subi un arrêt cardio-respiratoire au cours de l'échoendoscopie précédant la biopsie, de sorte que le processus de diagnostic a dû être interrompu.
+Par la suite, un des nodules pulmonaires a été biopsié. Comme il s'agissait de nodules subcentimétriques, l'approche pour la ponction a dû se faire par vidéothoracoscopie, en effectuant une résection en coin du lobe moyen et du lobe supérieur droit. L'anatomie pathologique de la pièce opératoire a révélé l'existence d'une tumeur carcinoïde et d'un tumorlet associés à une hyperplasie neuroendocrine diffuse, avec un Ki 67 < 2 % et un TTF1 positif, confirmant l'origine pulmonaire.
+L'étude a été complétée par la recherche de catécholamines dans les urines, avec un taux élevé de noradrénaline, ainsi que de marqueurs tumoraux, avec un taux élevé de polypeptide pancréatique basal. De plus, l'étude d'imagerie a été complétée par une scintigraphie à l'octréotide, qui a montré une captation de la lésion pancréatique décrite dans le scanner avec expression des récepteurs de la somatostatine, sans captation des lésions pulmonaires ou de la lésion hépatique.
+
+Diagnostic
+Compte tenu des résultats des examens complémentaires détaillés ci-dessus, le diagnostic est celui d'une tumeur carcinoïde pulmonaire synchrone d'une tumorlet pulmonaire (ainsi que d'une tumeur neuroendocrine pancréatique probable en raison de la captation à la scintigraphie à l'octréotide mais sans confirmation histologique).
+
+Traitement
+L'énucléation a été rejetée en raison du risque chirurgical encouru par la patiente. Il a été décidé de commencer un traitement systémique en décembre 2011 avec des analogues de la somatostatine (lanréotide mensuel à une dose de 120 mg), qu'elle a maintenu jusqu'à présent.
+
+Evolution
+Au cours du suivi, la scintigraphie à l'octréotide a montré une stabilité de la lésion pancréatique, qui reste inchangée à ce jour, ainsi que des nodules pulmonaires subcentimétriques et de la lésion hépatique.
+Il faut souligner le diagnostic fortuit de thromboembolie pulmonaire lors des examens d'imagerie en septembre 2013, pour lequel il a bénéficié d'un traitement anticoagulant par héparine de bas poids moléculaire pendant 6 mois.

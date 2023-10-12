@@ -1,0 +1,14 @@
+T1	pathologie 18 52	Litiasis cálcica calicial de riñón
+T2	pathologie 89 99	HTA severa
+T3	pathologie 276 293	Moderada obesidad
+T4	pathologie 450 468	shock hipovolémico
+T5	pathologie 657 677	hematoma subcapsular
+T6	pathologie 706 721	derrame pleural
+T7	pathologie 1017 1025	hematoma
+#1	SNOMED T1	427649000
+#2	SNOMED T2	38341003
+#3	SNOMED T6	60046008
+#4	SNOMED T4	39419009
+#5	SNOMED T3	414916001
+#6	SNOMED T5	385494008
+#7	SNOMED T7	385494008

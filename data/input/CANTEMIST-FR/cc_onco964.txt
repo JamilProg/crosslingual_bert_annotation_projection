@@ -1,0 +1,19 @@
+Anamnèse
+Homme de 62 ans, non buveur, sans autres antécédents pertinents, diagnostiqué d'un adénocarcinome gastrique de type intestinal, suite à des symptômes constitutionnels d'évolution de 3 mois, stade IV (TxNxM1) en raison d'une carcinomatose péritonéale, HER-2 (+) en 1ère ligne de traitement par FOLFOX (5-fluorouracile, oxaliplatine, leucovorine)-trastuzumab (5 cycles), avec une bonne tolérance et sans effets indésirables notables. Elle se présente aux urgences pour des vomissements postprandiaux précoces 4 à 5 fois par jour, avec 14 jours d'évolution et une intolérance orale.
+
+Examen physique
+TA : 100/80 mm Hg, FC : 100 bpm, FC : 17 rpm, poids : 65 kg, taille : 1,71 m.
+Lors de l'examen physique à l'admission, aucun élément remarquable n'a été décelé, à l'exception d'une déshydratation cutanéo-muqueuse modérée ; l'auscultation cardio-pulmonaire et l'examen abdominal étaient normaux, de même que l'examen neurologique.
+
+Tests complémentaires
+Numération sanguine, biochimie et coagulation sans altération. Protéines totales : 7 g/dl, albumine : 3,6 g/dl. TSH : 1,074 IUI.ml (VN 0,350-4,950) ; Vit. B12 : 680 pg/ml (VN 180-914) ; ferritine : 142,8 ng.ml (VN 20-300) ; acide folique : 12,70 ng.ml (VN 3,9-23,) ; parathormone : 56,5 pg.ml (VN 12-65) ; cortisol basal : 22,90 ug.dl (VN : 3,70-19,40).
+
+Diagnostic
+Intolérance orale probablement liée à une obstruction intestinale supérieure secondaire à une néoplasie gastrique sténosante.
+
+Traitement
+Dans un premier temps, remplacement des électrolytes et régime alimentaire complet.
+
+Évolution
+48 heures après son admission, le patient a présenté un myosis aréactif, associé à un nystagmus horizontal dans les 24 heures, suivi d'une ataxie de la marche et d'une diminution de l'état de conscience. Un scanner du crâne a été réalisé et s'est révélé normal. En l'absence de signes de tumeur ou de foyers vasculaires, un traitement empirique a été instauré avec de la thiamine, des corticostéroïdes et des antibiotiques à large spectre. Une IRM cérébrale a été réalisée et a montré des hyperintensités en T2 dans la substance grise périaqueducale, la lamina quadrigemina et les tubercules quadrigeminaux inférieurs, avec un renforcement focal en T1 post-contraste, ainsi que des hyperintensités dans les parois latérales du IIIe ventricule et du thalamus médian, sans signe de lésions occupant l'espace ou de carcinomatose méningée, compatibles avec l'encéphalopathie de Wernicke (WEC). Après avoir commencé un traitement à la thiamine IV (300 mg IM c. 8 heures pendant 3 jours, puis 250 mg IM par jour pendant 5 jours) et une nutrition parentérale totale, elle a présenté une régression progressive des symptômes, persistant plus tard avec une légère ataxie de la marche et une amnésie d'évocation, ainsi que des épisodes intermittents de confabulation, compatibles avec le syndrome amnésique de Korsakoff (KS).
+Après la sortie de l'hôpital en octobre 2016, un scanner de réévaluation a été réalisé, qui a montré une progression hépatique et locorégionale nécessitant une radiothérapie palliative sur l'antre gastrique (30 Gy) et un traitement de deuxième ligne par FOLFIRI (5-fluorouracile, irinotécan, leucovorine), en recevant un seul cycle. Cependant, compte tenu de la détérioration marquée de son état général, un contrôle symptomatique exclusif et un contrôle en soins palliatifs ont été décidés. Elle est décédée en décembre 2016.

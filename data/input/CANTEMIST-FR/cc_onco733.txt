@@ -1,0 +1,26 @@
+Anamnèse
+En mai 2015, le patient débute par des douleurs intermittentes du flanc gauche d'aggravation progressive associées à des diarrhées et un syndrome constitutionnel avec une perte de 8 kg en 2 mois, pour lesquelles la démarche diagnostique est initiée.
+
+Examen physique
+L'examen a révélé un abdomen mou avec une masse entre le flanc gauche et l'hypogastre avec une légère gêne à la palpation profonde, sans autre élément intéressant.
+
+Examens complémentaires
+Un scanner thoraco-abdomino-pelvien réalisé en août 2015 a révélé de multiples implants solides dans le péritoine avec une petite quantité de liquide péri-hépatique libre évoquant une dissémination métastatique péritonéale et omentale avec une implication étendue du méso qui, par biopsie guidée par scanner, a abouti à un carcinome séreux de haut grade compatible avec une origine müllérienne avec des récepteurs aux œstrogènes et p16 positifs. L'examen gynécologique était normal et le marqueur Ca125 était à 284.
+L'étude génétique était négative pour les mutations BRCA 1 et 2.
+
+Diagnostic
+Elle a été présentée au comité de gynécologie et la chirurgie a été exclue d'emblée, proposant une chimiothérapie périopératoire et une chirurgie d'intervalle ultérieure.
+
+Traitement
+En septembre 2015, elle a commencé le schéma carboplatine AUC 6/paclitaxel, effectuant 3 cycles et obtenant une réponse partielle et une chirurgie d'intervalle ultérieure avec protocole ovarien avec résection R0, et l'administration ultérieure de 3 cycles avec le même schéma, terminant la chimiothérapie postopératoire en mars 2016. Les toxicités incluaient une neurotoxicité de grade 2, une toxicité digestive de grade 2 et une neutropénie de grade G3. La patiente a terminé le traitement en mars 2016, sans aucun signe de maladie d'un point de vue radiologique et avec un marqueur tumoral négatif (Ca125), pour lequel elle a commencé le suivi.
+
+Évolution
+En août 2017, la patiente était asymptomatique, mais un marqueur tumoral élevé (Ca125 = 115) et une progression péritonéale ont été observés à la radiologie CT avec de multiples implants péritonéaux dans le bassin, la périsplénique et le grand épiploon, de sorte qu'il a été décidé de commencer une deuxième ligne de traitement palliatif avec carboplatine AUC 4/gemcitabine/bevacizumab, dont elle a reçu 6 cycles avec une bonne tolérance au traitement, avec seulement une asthénie de grade 2. Une réponse partielle a été obtenue et la chimiothérapie a été terminée en novembre 2017, en poursuivant la monothérapie d'entretien par bevacizumab avec un seul cycle en décembre 2017.
+En janvier 2018, elle a consulté pour une détérioration de l'état général, rapportant une instabilité progressive, une déviation de la marche et une somnolence d'une évolution de 4-5 semaines, et l'examen physique a révélé des réflexes ostéotendineux exaltés, en particulier dans les membres inférieurs, une légère dysmétrie, une dysdiadochokinésie bilatérale et une déviation de la marche vers le côté gauche avec Romberg gauche, raison pour laquelle la patiente a été admise en oncologie pour étude. Au cours de son admission, la patiente a été orientée vers la neurologie et les examens complémentaires suivants ont été réalisés :
+" IRM crânienne (janvier/2018) : nombreuses lésions hyperintenses en T2 et FLAIR dans la substance blanche sans effet de masse compatible avec une ischémie. Il n'y a pas de signes de métastases du SNC ni de rehaussements méningés évocateurs d'une maladie néoplasique.
+" Ab onconeuronal (janvier/2018) : négatif.
+" Sérologie HSV (janvier 2018) : négative.
+" Biochimie du LCR (janvier/2018) : normale. Glucose 80 normal. Protéines 47 normales (10-45). Pas de leucocytes ni de globules rouges.
+" IRM neuroaxiale (janvier/2018) : moelle médullaire normale. Discopathie dégénérative L4-L5 et L5-S1 connue, avec protrusion postérieure en contact avec les racines L5-S1.
+Après stabilité clinique et en l'absence de données suggérant une dissémination méningée, ainsi que des symptômes paranéoplasiques, les symptômes ont été attribués à une possible toxicité neurologique due au bevacizumab, le traitement antiangiogénique a donc été suspendu et la patiente est sortie avec un diagnostic d'ataxie probablement liée à une toxicité neurologique due au bevacizumab.
+La patiente s'est présentée à la clinique externe d'oncologie en mars 2018 pour un contrôle clinique après son admission en janvier 2018, complètement asymptomatique sans aucun symptôme neurologique avec un marqueur Ca125 normal et aucun signe de progression de la tumeur à quelque niveau que ce soit.

@@ -1,0 +1,28 @@
+Anamnèse
+Le patient était un homme de 55 ans, ancien fumeur avec un taux de tabagisme de 40 paquets-années, AHT, sans antécédents familiaux intéressants, sous traitement par acide folique, oméprazole, fer oral et rispéridone.
+En juin 2017, il a été diagnostiqué suite à une thrombose iliaque droite d'une masse tumorale peu différenciée infiltrant le tiers distal de l'appendice cæcal, avec oblitération du paquet vasculaire iliaque, ainsi qu'une infiltration de l'uretère droit, conduisant à une urétérohydronéphrose droite de grade 4.
+Une biopsie de la lésion a été réalisée, avec des résultats anatomopathologiques de néoplasie à cellules fusiformes avec immunohistochimie (IHC) suggérant une origine urothéliale avec différenciation sarcomatoïde (positive pour p63, p40, GATA3, CD99, EMA CAM 5.2, CK 34, bêta E12, CK7, négative pour CK20, S100, CD34, cKIT et TTF1), le SYT n'étant pas réarrangé.
+Une intervention chirurgicale a été réalisée en juillet 2017 avec ablation de la masse tumorale, résection iléo-cæcale, iléostomie terminale laissée et pontage extra-anatomique fémoro-fémoral.
+En octobre 2017, un scanner thoraco-abdomino-pelvien a révélé une nouvelle lésion hépatique évocatrice de métastases.
+Avec un jugement clinique de carcinome urothélial de haut grade à différenciation sarcomatoïde de stade IV (pT4N2M1) en raison de l'atteinte hépatique, il a été décidé de débuter un traitement systémique de première ligne en février 2018 dans le cadre d'un essai clinique avec antiPD1 et anti-CTLA4 jusqu'en juillet 2018, présentant une bonne tolérance au traitement, mais avec une progression de la maladie au niveau hépatique.
+Elle débute alors une seconde ligne de traitement avec du carboplatine AUC5 jour 1 et de la gemcitabine 1 000 mg/m2 jours 1 et 8 tous les 21 jours le 20 août 2018.
+En octobre 2018, après cinq cycles de chimiothérapie et une dose cumulée de gemcitabine de 10 000 mg/m2, la patiente signale l'apparition de lésions ulcérées douloureuses dans les régions acrales des doigts.
+Suspectant une ischémie digitale aiguë, il a été adressé au service des urgences pour une évaluation par la chirurgie vasculaire.
+
+Examen physique
+L'examen physique n'a pas révélé de sclérodactylie, de télangiectasies ou d'autres lésions évoquant une maladie du tissu conjonctif. Les pouls radiaux sont présents et les pouls cubitaux absents, avec un remplissage capillaire sans altération.
+
+Examens complémentaires
+Les examens de laboratoire ont révélé une anémie normochrome normocytaire de grade 1 avec une Hb de 10,2 g/dl (intervalle 13-15,5), sans autres résultats pertinents.
+Une étude des auto-anticorps a été réalisée (ENAS négatif, ANA positif [1/80], anticorps citrullinés anticycliques (Ac) négatifs, bêta2-glycoprotéine IgM et IgG négatives, cardiolipine IgG et IgM négatives, C-ANCAS et P-ANCAS négatives, ESR 137mm [intervalle 1,00-15] négatif et cryoglobulines faiblement positives) et une étude sérologique a révélé une infection antérieure par le VHE et d'autres virus hépatotropes négatifs.
+Une échographie Doppler des membres supérieurs a été réalisée, mettant en évidence des altérations du flux dans l'artère cubitale droite, et une échocardiographie transthoracique n'a révélé aucun signe d'endocardite infectieuse.
+À la capillaroscopie, la seule altération était la présence d'une hémorragie isolée sur le deuxième doigt de la main gauche, avec une distribution et une densité capillaires préservées.
+
+Diagnostic
+Sur la base de ces tests, le patient est diagnostiqué comme souffrant d'une ischémie digitale avec des signes d'atteinte macrovasculaire en relation avec le traitement à la gemcitabine.
+
+Traitement
+Le patient commence un traitement aux prostaglandines (PG) et une anticoagulation à l'héparine de bas poids moléculaire à la dose de 1 mg/kg toutes les 12 heures, avec une amélioration progressive des symptômes et des lésions.
+
+Evolution
+Il est décidé d'arrêter le traitement par chimiothérapie, présentant une réponse partielle de la maladie tumorale avec une diminution de la masse pelvienne, des adénopathies rétropéritonéales et des métastases hépatiques au scanner de janvier 2019.

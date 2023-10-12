@@ -1,0 +1,77 @@
+Anamnèse
+Femme de 68 ans.
+- Allergie à l'amoxicilline et à la moxifloxacine (avec étude par allergologie).
+- Pas d'habitudes toxiques.
+- Pas de facteurs de risque cardiovasculaire.
+
+- Hypothyroïdie.
+- Antécédents chirurgicaux : hystérectomie sans annexectomie à l'âge de 41 ans.
+- Traitement habituel : Levothyroxine, comprimés de Guyane.
+
+** ANTÉCÉDENTS ONCOLOGIQUES :
+- Diagnostic en mai/2015 d'un adénocarcinome ovarien séreux de stade IV G3 en raison d'une atteinte pleurale. Début du traitement par chimiothérapie (QT) selon Carboplatine (AUC 5 toutes les 3 semaines) - Paclitaxel (175 mg/m2 toutes les 3 semaines) - Bevacizumab (15 mg/kg), dont elle a reçu au total 4 cycles, le dernier le 07/08/15 avec une réduction de 10% au 4ème cycle en raison d'une asthénie G3. Réponse biochimique partielle (diminution significative du Ca 125) et par imagerie.
+
+** 22/08/16 : Patiente présentant des symptômes cliniques depuis environ 1 mois (après le 3ème cycle de QT le 14/07/15) consistant en une désorientation. Après le 4ème cycle de QT le 07/08/15, mal toléré, elle a présenté une aggravation des symptômes neurologiques avec crise convulsive le 22/08/15 et a été amenée au service des urgences par ses proches, une hyponatrémie avec Na 118 mEq/L étant observée dans ses analyses sanguines. Une tomodensitométrie crânienne a été réalisée sans résultat pathologique et sans référence à l'existence d'un œdème cérébral, et une correction hydroélectrolytique a été entamée avec une amélioration rapide des symptômes, sans toutefois parvenir à une résolution complète. Elle est sortie de l'hôpital après 24 heures d'observation avec un taux de Na de 133 mEq/L.
+Le 28/08/15, elle a été évaluée à l'hôpital de jour d'oncologie pour le 5ème cycle, qui a été suspendu en raison de la persistance des symptômes neurologiques malgré la correction du Na (134 mEq/L), de la mauvaise tolérance au 4ème cycle et d'un épisode de fièvre le 26/08/15 secondaire à une fistule périanale sous traitement à l'érythromycine. Lors de cette consultation, devant la persistance des symptômes neurologiques, une IRM crânienne a été demandée afin d'écarter une atteinte méningée pouvant expliquer les symptômes.
+Le 31/08/16, elle consulte à nouveau le service des urgences pour un épisode de convulsions, et un bilan sanguin montre une hyponatrémie avec Na 112 mEq/L, une correction est donc mise en place avec une amélioration rapide des symptômes en 24 heures et elle est ensuite transférée dans le service d'oncologie pour la continuité des soins.
+
+Examen physique
+À L'ADMISSION EN ONCOLOGIE MÉDICALE
+PS 4. Glasgow 11 (ouverture spontanée des yeux, se retire en cas de douleur, n'obéit pas aux ordres, langage incompréhensible).
+Pupilles isochoriques normoréactives. Mobilise 4 membres.
+Auscultation cardio-respiratoire : normale. Abdomen normal.
+Membres inférieurs sans œdème ni signe de thrombose veineuse profonde.
+
+Tests complémentaires
+TESTS DE LABORATOIRE
+
+- CBC 31/08/15 :
+* Hémogramme : Hb 99 g/l, reste normal.
+* Biochimie sérique : Na 112 mEq/L, K 3.2 mEq/L, reste normal.
+* Coagulation : normale.
+- Gaz du sang veineux 31/05/15 : EVOLUTION.
+* Na : 111 (15.00pm) -> 113 (16.00pm) -> 116 (17.00pm) -> 116 (18.45pm)
+* Osm : 229 -> 233 -> 237- >237.
+- IONS urinaires : Na 110 mEq/L (élevé), K 10 mEq/L. Protéinurie.
+- Marqueurs tumoraux 01/09/16 : CEA 5.1 ng/ml (diminution, au diagnostic 7.9 ng/ml). CA 125 977 U/ml (franche diminution, au diagnostic 46852 U/ml).
+- Examens de laboratoire 10/09/16 (AVANT LE DÉPART) :
+* Biochimie : urée 45 mg/dl, protéines totales 6 g/dl, phosphore inorganique 2,55 mg/dl. Sodium normal (139 mEq/L).
+* Numération sanguine : hémoglobine 98 gr/L. Séries blanches et plaquettaires normales.
+
+TESTS D'IMAGERIE
+- Tomodensitométrie du thorax et de l'abdomen (3/09/2015). Nodule pulmonaire millimétrique dans le segment apicopostérieur du LSI, sans apparition de nouveaux nodules. Pas d'épanchement pleural. L'épaississement pleural a disparu. Au niveau du foie, il persiste un petit nodule de 8 mm en périphérie sous-diaphragmatique du segment VIII avec un contenu graisseux prédominant (angiomyolipome hépatique ?). Petite lésion focale hypodense en périphérie du segment VII, 6 mm de diamètre, indéterminée. Masse mésentérique mesurant 72 x 27 x 34 mm, plus grande que dans le scanner précédent, avec une capsule périphérique bien définie et un contenu graisseux interne avec des pôles solides d'aspect tumoral et une excision histologique différente de la tumeur ovarienne. Il reste des masses tumorales pelviennes entourant le rectosigma, l'utérus et occupant les deux fosses annexielles, dont la taille a été considérablement réduite par rapport à la tomodensitométrie précédente. L'ascite a disparu. Avec une fenêtre osseuse, aucune image suggérant une maladie métastatique osseuse n'a été observée.
+
+- IRM cérébrale (7/09/2015). Il n'y a pas de lésions intraparenchymateuses ni de lésions touchant les méninges.
+
+INTERVENTIONNISME
+
+- Anatomie pathologique biopsie par carottage d'une masse abdominale résiduelle (avec contrôle échographique) 11/09/16 :
+BIOPSIE INSUFFISANTE POUR LE DIAGNOSTIC, CONSISTANT EN UN TISSU FIBRO-ADIPEUX, AVEC PRÉSENCE DE MACROPHAGES ET DE MODIFICATIONS INFLAMMATOIRES. Commentaire : aucun signe morphologique de malignité n'a été identifié.
+
+Diagnostic
+- ADMISSION DANS LE SERVICE POUR :
+1. une hyponatrémie profonde, symptomatiquement sévère et de nature chronique, et deux épisodes sévères documentés de somnolence, de confusion et de convulsions, dus à une SIADH probable associée au carboplatine.
+2. Protéinurie et tendance à l'hypertension artérielle probablement secondaires à la toxicité du Bevacizumab.
+3. une masse abdominale d'environ 8 à 9 cm de densité graisseuse à la racine du mésentère, qui s'est développée de façon isolée et semble être d'une étiologie différente de l'adénocarcinome précédemment diagnostiqué.
+- PATHOLOGIE DE BASE : Adénocarcinome séreux de l'ovaire de stade IV G3 en RP après 4 cycles de Carbo-Taxol-Beva (corroboré par la tomodensitométrie de réévaluation et par une diminution très significative des marqueurs sériques).
+
+Traitement
+TRAITEMENT À LA SORTIE DU SERVICE
+- Régime normal.
+- Arrêt du traitement de première intention par Carbo-Paclitaxel-Bevacizumab.
+- Apport hydrique sans restriction (pas plus de 2 litres par jour).
+- Traitement hypotenseur par Losartan 50 : 1-0-0 et, en cas de tension artérielle élevée (> 160/80 mmHg), ajout de manidipine 10 : 0-0-1.
+- Oméprazole 20 mg par jour par voie orale.
+- Dexaméthasone 4 mg toutes les 12 heures par voie orale. Suivre un schéma décroissant.
+- Lorazepam 2 mg le soir.
+- Lévothyroxine 50 mcgrs par jour (le matin).
+- Ne nécessite pas de traitement par Tolvaptan.
+
+Évolution
+L'évolution du patient lors de son admission a d'abord été plutôt torpide en raison de la persistance d'un état de stupeur et d'un faible niveau de conscience, ainsi que d'épisodes intermittents d'agitation malgré la normalisation progressive et lente des taux de sodium sérique. Malgré cela, il n'a pas présenté d'autres crises d'épilepsie, restant toujours afébrile et ne présentant pas d'autres déficits neurologiques. Il présentait également une polyurie avec une natriurèse normale et des taux sériques de créatinine et d'acide urique normaux. Enfin, après une élévation progressive de l'osmolalité plasmatique et un traitement par des doses modérées de dexaméthasone en plus d'une restriction de l'apport hydrique, elle s'est ostensiblement améliorée sur le plan neurologique, restant consciente et de plus en plus orientée et alerte au cours des derniers jours de son admission, ce qui a progressivement amélioré son état général. Cependant, au cours de son admission, une tendance progressive à l'hypertension a été observée, ainsi qu'une discrète protéinurie, qui a été bien contrôlée par le Losartan. À sa sortie, elle présentait un taux de sodium plasmatique normal et était en bon état général, afébrile et tolérant un régime oral, ainsi qu'une absence de déficits neurologiques.
+En ce qui concerne la cause de l'hyponatrémie, la patiente a été évaluée par la néphrologie (toujours en consultation), qui a diagnostiqué une SIADH en relation avec le carboplatine (diagnostic d'exclusion) par rapport à une SIADH en tant que syndrome paranéoplasique en relation avec la tumeur. Elle a commencé une nouvelle ligne de QT avec de l'adriamycine liposomale en novembre 15 (elle n'a reçu qu'un cycle). Étant donné que le SIADH n'est pas étroitement lié à l'adénocarcinome pulmonaire, il a été décidé de prélever un échantillon de la masse rétropéritonéale résiduelle (étant donné qu'elle semblait être d'une lignée différente), et la patiente a donc été discutée au sein du comité des tumeurs. Il a été décidé de réséquer la masse : intervention chirurgicale (janvier/16) : excision de la masse mésentérique, ovariectomie bilatérale, omentectomie avec implantation péritonéale de la tumeur.
+Anatomie pathologique d'un adénocarcinome d'origine ovarienne. Par la suite, elle a poursuivi le traitement QT à base d'adriamycine liposomale, et a reçu un total de 3 cycles (y compris celui précédant la chirurgie), l'arrêt ayant été décidé en avril 15 en raison d'une asthénie importante. Lors de la réévaluation en mai 15, une réponse complète a été observée par l'imagerie et les marqueurs. Depuis l'arrêt du carboplatine, elle n'a pas présenté d'hyponatrémie.
+- Tomodensitométrie thoracique et abdominale du 15 mai : thorax : un nodule pulmonaire millimétrique persiste dans le segment apicopostérieur du LSI, stable par rapport aux études précédentes, ainsi que dans le segment latérobasal du LID, également inchangé. Il n'y a pas d'apparition de nouveaux nodules. Pas d'épanchement pleural ni d'épaississement pleural. Multiples nodules calcifiés dans les deux seins. Le reste du thorax est sans particularité. Abdomen : le foie est de taille normale et de contour lisse. LOE hépatique d'apparence bénigne et de petite taille déjà connue. Voies biliaires intrahépatiques et extrahépatiques de calibre normal. Vésicule biliaire sans altération.
+La rate, le pancréas, les surrénales et les reins ne présentent pas d'anomalie. L'estomac, les boucles de l'intestin grêle et le côlon ne présentent pas de dilatation ni d'épaississement mural.
+Vessie urinaire bien remplie sans épaississement de la paroi. Hystérectomie avec double annexectomie, pas d'images de récidive. Le reste de l'abdomen n'a rien révélé d'intéressant. Conclusion : nodules pulmonaires stables. Nodules mammaires calcifiés. LOE hépatique d'aspect bénin et stable. Absence chirurgicale des organes génitaux internes.
+- Evolution du Ca 125 : 46852 U/ml (diagnostic) --> 19.4 U/ml (mai/16).

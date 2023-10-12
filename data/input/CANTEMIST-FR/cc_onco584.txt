@@ -1,0 +1,42 @@
+Anamnèse
+La patiente de notre cas clinique est une femme de 20 ans ayant des antécédents d'allergie aux produits de contraste paramagnétiques, de troubles alimentaires et de troubles dépressifs à l'adolescence, ainsi que plusieurs interventions chirurgicales énumérées ci-dessous :
+(a) Chirurgie pour un cystoadénofibrome mucineux ovarien à l'âge de 12 ans.
+b) Excision d'un nævus congénital dans l'IIM et de nodules compatibles avec des malformations vasculaires veineuses dans les deux IIM à l'âge de 15 ans.
+c) Résection d'un fibrome scléreux dans la région frontale à l'âge de 19 ans.
+Sa mère avait été opérée de multiples fibromes mammaires et maxillaires et son grand-père maternel avait été opéré de multiples épithéliomas basocellulaires. Du côté paternel, son père est décédé d'un cancer du larynx et son grand-père paternel est décédé d'un cancer de la peau.
+
+Examen physique
+À l'examen physique, la patiente présentait une macrocéphalie évidente, avec un périmètre crânien de 62 cm. Hormis la présence de cordons variqueux aux membres inférieurs, elle ne présentait aucune autre altération, et aucune lésion cutanéo-muqueuse typique (kératose acrale, papillomes buccaux ou trichilemmomes faciaux) n'a été observée après un examen approfondi.
+
+Tests complémentaires
+Après avoir analysé l'histoire du patient dans le service de dermatologie, un diagnostic de suspicion de syndrome de Cowden a été établi, car le patient remplissait plusieurs des critères cliniques qui indiquent une demande d'étude génétique visant à analyser les mutations du gène PTEN.
+Parmi les critères cliniques à analyser pour indiquer la détermination de cette étude génétique, on retrouve ceux qui sont pathognomoniques (présence de la maladie de Lhermitte-Duclos de l'adulte, ou présence de lésions cutanéo-muqueuses telles que des trichilemomes faciaux, des kératoses acrales et des lésions papillomateuses localisées dans la région périoculaire et sur le dos des mains) ; aux critères majeurs (développement d'un cancer du sein, d'un cancer de l'endomètre ou d'un cancer folliculaire de la thyroïde, ainsi que la présence d'une macrocéphalie) ; et aux critères mineurs (présence d'autres lésions thyroïdiennes, retard mental, polypes intestinaux hamartomateux, fibroadénomes mammaires, malformations vasculaires, lipomes, fibromes, cancer des cellules rénales, malformations génito-urinaires et fibrose utérine).
+Les tests génétiques devraient donc être indiqués dans les situations suivantes :
+1) Présence de lésions cutanéo-muqueuses pathognomoniques associées à .
+"Six papules faciales ou plus (dont trois compatibles avec des trichilemmomes).
+"Papules faciales et papillomes sur la muqueuse buccale.
+"Papillomes sur la muqueuse buccale avec kératose acrale.
+"Avec la présence de six papillomes ou plus sur la muqueuse buccale.
+2) Présence de deux critères majeurs ou plus.
+3) Présence d'un critère majeur et de trois critères mineurs ou plus.
+4) Présence de quatre critères mineurs ou plus.
+Dans notre cas, la patiente ne remplissait qu'un seul des critères majeurs (macrocéphalie) et deux des critères mineurs (fibromes et malformations vasculaires), de sorte que l'indication de l'étude était quelque peu limitée en l'absence d'un critère mineur supplémentaire.
+Il existe désormais des calculateurs de risque en ligne qui permettent de déterminer plus précisément la probabilité qu'une étude génétique soit rentable, après analyse des critères cliniques de ces syndromes et d'autres données (âge, sexe, etc.).
+Les diagnostics différentiels avec le CS doivent toujours être envisagés avant de décider de l'étude génétique la plus appropriée, notamment les suivants : le syndrome de polypose juvénile et le syndrome de Peutz-Jeghers (caractérisés par la présence de polypes gastro-intestinaux hamartomateux), le syndrome de Birt-Hogg-Dubé (en raison de son association avec le cancer du rein et la présence de folliculomes sur la peau), le syndrome de Gorlin (caractérisé par de multiples carcinomes basocellulaires et d'autres troubles cutanés, osseux, neurologiques et ophtalmologiques), les syndromes neurocutanés (NF type 1 et ET) et les entités faisant partie du PTHS.
+
+Diagnostic
+Dans notre cas, suite à l'étude génétique, la présence d'une variante germinale pathogène en hétérozygotie a été détectée dans le gène PTEN, plus précisément c.635-1G > C, confirmant le diagnostic de suspicion.
+Suite à ces résultats, la patiente a été référée à notre unité de cancérologie familiale pour un conseil approprié après l'étude et une prise en charge diagnostique et thérapeutique.
+
+Le traitement
+Le traitement des différentes manifestations liées à ce syndrome, ainsi que son suivi, dépendent de la précocité du diagnostic. Dans notre cas, toutes les mesures de prévention et de diagnostic précoce liées au développement des tumeurs malignes les plus caractéristiques décrites ci-dessus peuvent être appliquées :
+"Contrôles gynécologiques périodiques avec examen des seins et échographie vaginale à partir du diagnostic.
+"IRM mammaire annuelle à partir de l'âge de 30 ans.
+"Échographie thyroïdienne annuelle à partir du diagnostic.
+Échographie rénale annuelle à partir de l'âge de 40 ans.
+"BDE tous les 5 ans à partir de l'âge de 35 ans.
+
+Evolution
+Tout au long du suivi de notre patiente, la chirurgie mammaire prophylactique et l'hystérectomie seront envisagées, une fois que la patiente aura réalisé son désir génétique ou après l'évaluation d'autres alternatives telles que la conservation des ovocytes.
+La chirurgie des lésions bénignes sera envisagée si nécessaire.
+Et il ne faut jamais oublier de conseiller le reste de la famille, qui dans notre cas se concentrait sur sa mère et son unique frère ou sœur, et un test génétique était indiqué pour tous les deux.

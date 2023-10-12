@@ -1,0 +1,12 @@
+T1	pathologie 37 53	cirrosis por VHC
+T2	pathologie 119 133	esplenomegalia
+T3	pathologie 135 154	hipertensión portal
+T4	pathologie 157 177	leucotrombocitopenia
+T5	pathologie 195 231	adicción a drogas por vía parenteral
+T6	pathologie 690 709	lesiones en la piel
+#1	SNOMED T1	831000119103
+#2	SNOMED T2	16294009
+#3	SNOMED T3	34742003
+#4	SNOMED T4	84828003+302215000
+#5	SNOMED T5	191816009
+#6	SNOMED T6	95324001

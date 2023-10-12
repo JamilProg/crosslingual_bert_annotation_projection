@@ -1,0 +1,24 @@
+T1	pathologie 110 121	talla corta
+T2	pathologie 150 162	braquimorfia
+T3	pathologie 165 206	braquidactilia en las cuatro extremidades
+T4	pathologie 432 450	diplopía monocular
+T5	pathologie 672 698	iridofacodonesis bilateral
+T6	pathologie 713 730	microesferofaquia
+T7	pathologie 1127 1141	cierre angular
+T8	pathologie 1281 1289	diplopía
+T9	pathologie 1528 1545	daño glaucomatoso
+T10	pathologie 1728 1740	esferofaquia
+T11	pathologie 1742 1754	braquimorfia
+T12	pathologie 1757 1771	braquidactilia
+#1	SNOMED T2	276654001
+#2	SNOMED T3	43476002
+#3	SNOMED T4	50446000
+#4	SNOMED T5	116669003
+#5	SNOMED T7	1111561000000108
+#6	SNOMED T8	24982008
+#7	SNOMED T9	23986001
+#8	SNOMED T10	4465002
+#9	SNOMED T11	276654001
+#10	SNOMED T12	43476002
+#11	SNOMED T6	416671000
+#12	SNOMED T1	237836003

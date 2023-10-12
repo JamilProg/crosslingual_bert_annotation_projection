@@ -1,0 +1,26 @@
+Anamnèse
+Patient masculin âgé de 61 ans, fumeur actif (85 paquets/an), hypertendu sous traitement antihypertenseur, bronchite chronique emphysémateuse sous traitement bronchodilatateur, épisode de diverticulite aiguë en 2004 ayant nécessité une sigmoïdectomie, antécédent de résection transurétrale en 2009 pour carcinome urothélial papillaire de bas grade, en cours de suivi par l'urologie. Il a travaillé comme transporteur et a déclaré avoir été en contact avec de l'uralite.
+
+Elle a consulté son médecin généraliste pour des douleurs pleurales et une dyspnée d'effort modérée qui duraient depuis deux mois. En outre, il présentait un syndrome toxique, avec une perte de poids allant jusqu'à 12 kg au cours des 6 derniers mois.
+
+Examen physique
+Apyrétique et hémodynamiquement stable. Eupnéique au repos, hypophonie basale gauche, tachycardie à 100 bpm. Pas d'adénopathie cervicale ou sus-claviculaire palpable. Le reste de l'examen est sans particularité.
+
+Tests complémentaires
+"Une radiographie du thorax a été réalisée, montrant un épaississement pleural gauche avec un épanchement pleural.
+"L'étude a été complétée sur une base ambulatoire préférentielle et un scanner thoracique a été demandé, montrant un épaississement pleural gauche avec des nodules pleuraux, un épanchement pleural ipsilatéral, avec un parenchyme pulmonaire normal. Très évocateur d'un mésothéliome pleural malin.
+"La patiente a été adressée au service de chirurgie thoracique de notre centre pour compléter l'étude histologique, où une thoracoscopie a été pratiquée et des biopsies pleurales ont été réalisées.
+"En pathologie, l'immunohistochimie a montré une positivité pour les marqueurs de tumeurs neuroendocrines CD56, la synaptophysine et la chromogranine. La positivité pour TTF1 et CK7 indiquait une origine pulmonaire probable. Les marqueurs de mésothéliome épithélial D2-40 et WT-1 étaient négatifs. Une calrétinine positive au niveau focal suggérait une origine pleurale.
+"Un scanner PET-CT a été réalisé pour compléter l'étude d'extension, qui a montré une maladie pleurale et des adénopathies médiastinales suspectes de malignité, sans autre atteinte à distance.
+
+Diagnostic
+Il s'agit d'un carcinome neuroendocrine à grandes cellules d'origine pulmonaire probable, malgré l'atteinte exclusivement pleurale et ganglionnaire, nécessitant un traitement par chimiothérapie (QT) à visée palliative.
+
+Traitement
+Il a commencé un traitement en janvier 2014 avec du carboplatine AUC5-étoposide. Le bilan sanguin de départ montrait une LDH de 12,3 ukat/l (VN < 5). Après le premier cycle, l'épaississement pleural s'est pratiquement résorbé sur la radiographie de contrôle et le scanner après trois cycles a montré une réduction significative de l'atteinte tumorale. La LDH a diminué à 2,3 ukat/l. Il a terminé six cycles jusqu'en mai 2014, avec une bonne tolérance et un bénéfice clinique.
+
+Évolution
+Au scanner de contrôle effectué trois mois plus tard, les masses tumorales pleurales sont réapparues. Sur le plan clinique, le patient était asymptomatique et le taux de LDH était de 4,4. En raison de l'excellente et rapide réponse avec la première ligne, il a été décidé de retraiter avec le même schéma à base de platine, qui a débuté en septembre 2014, en ajoutant le facteur stimulant les colonies de granulocytes (gCSF) comme prophylaxie primaire de la neutropénie. Après quatre cycles avec une tolérance correcte, il a de nouveau obtenu une réponse partielle, avec une diminution des lésions pleurales et des ganglions médiastinaux, et a donc poursuivi les suivis.
+Deux mois après la fin du QT, la tomodensitométrie réalisée en février 2015 rapportait à nouveau une progression pleurale et ganglionnaire ipsilatérale. La LDH avait augmenté à 9,4 ukat/l. Bien que l'intervalle sans progression ait été très court, la maladie avait très bien répondu aux chimiothérapies précédentes. Comme l'efficacité des deuxièmes lignes dans ces sous-types de tumeurs est faible, il a été décidé de traiter une troisième fois avec du carboplatine et de l'étoposide, en réajustant la dose à 80 % et en ajoutant du gCSF. Après trois cycles mal tolérés en raison de la réapparition de symptômes tels que douleurs thoraciques, dyspnée et asthénie G2 suggérant une progression clinique, une maladie résistante au platine a été envisagée et il a été décidé de passer au topotécan par voie orale. À l'heure actuelle, il y a peu de bénéfices cliniques après un premier cycle.
+
+En résumé, il s'agit d'un patient atteint d'un carcinome neuroendocrine métastatique à grandes cellules, probablement d'origine pulmonaire, avec une forme de présentation extrêmement rare telle qu'une atteinte pleurale unilatérale, ainsi qu'une atteinte des ganglions lymphatiques médiastinaux. Pendant un an et demi, il a bénéficié de traitements de chimiothérapie à base de platine, en raison de la sensibilité présentée et de la réponse obtenue. Cependant, l'émergence de mécanismes de résistance est inévitable et l'absence d'alternatives efficaces à la progression détermine un pronostic limité à court terme.

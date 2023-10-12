@@ -1,0 +1,35 @@
+Anamnèse
+Le cas concerne un homme de 69 ans ayant des antécédents d'hypertension, d'hyperplasie bénigne de la prostate, non-fumeur et exposé à l'amiante, puisqu'il travaillait professionnellement dans un entrepôt de matériaux de construction.
+En 2015, suite à une douleur à la côte droite évoluant depuis des mois et sans amélioration après une analgésie progressivement augmentée, on lui a diagnostiqué un cancer du poumon non à petites cellules avancé en raison de la présence d'adénopathies axillaires ipsilatérales.
+
+Examen physique
+Au moment du diagnostic, le patient présentait un ECOG 0 et une douleur costale droite neuropathique, sans masse tumorale palpable.
+Lors de la rechute, il a présenté une aggravation de la situation initiale avec un ECOG 1 en raison de la douleur.
+
+Tests complémentaires
+L'analyse sanguine de base n'a montré qu'une légère augmentation de l'antigène carcinoembryonnaire (ACE) à 7 ng/ml (VN : 0-5 ng/ml).
+Un scanner PET-CT a montré un hypermétabolisme dans une masse sur la paroi costale droite, infiltrant la côte droite, avec un SUV de 21,6 et une lymphadénopathie dans la région axillaire droite, avec un SUV de 7,1.
+La cytologie diagnostique a décrit la présence de cellules néoplasiques épithéliales correspondant à un carcinome d'origine pulmonaire. L'immunohistochimie (IHC) est positive pour le TTF 1, l'EMA, la CK à large spectre et la CK 7. L'étude moléculaire ne montre pas de mutations de l'EGFR ni de réarrangement de l'ALK.
+La rébiopsie montre une infiltration par un adénocarcinome d'origine pulmonaire primaire, avec une coloration positive pour PD-L1 >50% des cellules tumorales. Étude mutationnelle négative pour les altérations de l'EGFR, de l'ALK et de ROS1.
+L'étude NGS utilisant FoundationONE® révèle une amplification de MET.
+
+Diagnostic
+Selon la 7e édition TNM en vigueur au moment du diagnostic, il s'agit d'un stade cT3 N0 M1b (IV), qui dans la 8e édition serait un stade IVA car il sépare la présence d'une seule métastase extrathoracique (M1b) en un troisième groupe. Au niveau IHC, PD-L1 > 50 % et au niveau moléculaire, amplification MET.
+
+Traitement
+Entre septembre et octobre 2015, le patient a reçu une chimiothérapie (QT) selon le schéma cisplatine 40 mg/m2 D1-8-vinorelbine 20 mg/m2 D1-8 concomitante à une radiothérapie (RT). Il a rapporté une nette amélioration de la douleur, avec une réponse partielle selon les critères RECIST, présentant comme effets secondaires une asthénie G2 et une pneumopathie post-RT.
+
+Évolution
+Un an et demi plus tard, en juin 2017, elle a signalé une douleur scapulaire droite invalidante de plusieurs mois d'évolution et la TEP-TDM a confirmé la progression de la tumeur primaire. Un taux de PD-L1 a été demandé lors de la biopsie diagnostique, mais cela n'a pas été possible car il s'agissait d'une cytologie.
+Une RT antiallergique a alors été administrée et une "première ligne" métastatique avec carboplatine AUC 5 D1-vinorelbine 25 mg/m2 D1-8 trois fois par semaine, avec une réponse métabolique partielle après 4 cycles.
+La douleur n'a pas été complètement contrôlée et il a été référé à l'unité de la douleur, avec une infiltration de corticoïdes dans 3 nerfs intercostaux et de la toxine botulique dans le muscle infraspinatus.
+À ce stade, il a été décidé de refaire une biopsie de la masse des tissus mous afin de mieux définir l'histologie de la tumeur. Il en est ressorti un adénocarcinome du poumon, avec une expression de PD-L1 >50%.
+Pour tenter d'atténuer la douleur et de contrôler la maladie, elle a commencé en octobre 2017 un traitement de "deuxième ligne" par pembrolizumab à raison de 200 mg toutes les 3 semaines. Après le premier cycle, il a développé une thromboembolie pulmonaire incidente bilatérale et segmentaire et a été mis sous bémiparine 10 000 UI par jour.
+Le patient n'a pas eu d'effets indésirables liés au système immunitaire, mais n'a pas non plus obtenu de bénéfice clinique en raison de l'aggravation de la douleur qui l'empêchait de mener une vie normale.
+A ce jour, l'accès à la NGS utilisant la plateforme FoundationONE® est désormais disponible dans notre centre, avec un résultat d'amplification MET.
+En février 2018, après 4 cycles, une légère croissance de la masse tumorale a été observée, sans nouvelle lésion métastatique. Par conséquent, en l'absence de réponse radiologique ou de bénéfice clinique et présentant une cible moléculaire, il a été décidé d'arrêter l'immunothérapie et de débuter une thérapie ciblée par crizotinib 250 mg deux fois par jour.
+Le patient a signalé une amélioration de la douleur dès le début du troisième comprimé et sa mobilité s'est progressivement améliorée. En fait, le bénéfice clinique était tel qu'il a progressivement réduit la dose de l'opioïde principal à la dose la plus faible et a arrêté le reste des adjuvants après 3 mois de traitement.
+Par la suite, l'anticoagulation a été interrompue après 6 mois avec de l'héparine, ce qui a coïncidé avec une amélioration radiologique significative de la tumeur costale et de l'atteinte du muscle serratus droit avec disparition des lésions des tissus mous.
+En termes de tolérance, il a présenté une dyspepsie G1, une diarrhée G1 et une toxicité cutanée G2 due à l'apparition de papules sur les bras et d'une plaque croûteuse avec un léger saignement sur la lèvre inférieure, ce qui a conduit à une suspension temporaire et à une réintroduction avec une réduction de la dose à un comprimé de 250 mg par jour.
+Au cours du suivi, il a été adressé en dermatologie pour l'apparition intermittente de papules sur le dos des mains et, après une biopsie dermique au poinçon, il a été diagnostiqué comme souffrant de psoriasis.
+À ce jour, le patient est en bon état général, mène une vie active, avec un intervalle sans progression de 15 mois.

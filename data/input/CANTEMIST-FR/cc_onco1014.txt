@@ -1,0 +1,21 @@
+Anamnèse
+Lorsque nous avons rencontré la patiente à notre clinique, elle a signalé une asthénie et une hyporexie progressives avec une perte de poids d'environ 10 kg. Elle a nié toute dyspnée ou autre symptôme respiratoire. Elle ne présentait pas non plus de douleurs abdominales ni de symptômes digestifs. Activité stable de la polyarthrite rhumatoïde sous-jacente sans arthralgies actuelles.
+
+Examen physique
+Au début, il présentait un ECOG 1 conditionné par une asthénie, mais conservait une vie active. Il avait un bon aspect général avec une légère pâleur cutanéo-muqueuse. L'auscultation cardio-pulmonaire était sans particularité et l'examen abdominal n'a révélé aucune anomalie pathologique.
+
+Tests complémentaires
+Les examens de laboratoire complets ont été réalisés dans les limites de la normale avec des marqueurs tumoraux sans altération. Un scanner corporel a été réalisé le 19 avril 2016 montrant une masse pulmonaire du lobe inférieur droit mesurant 3,6 x 2,5 cm associée à des adénopathies médiastinales suspectes, des lésions hépatiques focales regroupées dans le segment 4 et des adénopathies rétropéritonéales.
+La masse pulmonaire n'étant pas accessible à la fibrobronchoscopie, une ponction percutanée a été réalisée avec un diagnostic anatomopathologique d'adénocarcinome d'origine pulmonaire. Par la suite, une mutation de l'EGFR a été détectée (délétion de l'exon 19).
+
+Diagnostic
+Sur la base de ce qui précède, le diagnostic d'adénocarcinome pulmonaire EGFR muté E. IV (cT2N2M1 hépatique) avec délétion de l'exon 19 est établi.
+
+Traitement
+Dans l'attente de la connaissance du profil mutationnel, elle a reçu un premier cycle de carboplatine + paclitaxel + bevacizumab le 17 mai 2016 avec une tolérance passable (hypertension de grade 1, neutropénie de grade 2-3, nausées et vomissements de grade 2). Par la suite, le compte-rendu anatomopathologique a montré une mutation driver et, après guérison, le traitement a été modifié en gefitinib 250 mg/jour à partir du 8 juin avec une bonne tolérance à l'exception d'une éruption cutanée de grade 1.
+
+Évolution
+Lors de la première réévaluation en septembre 2016, une réponse partielle a été observée au niveau de la masse pulmonaire (de 25 à 12 mm) avec une progression des lésions hépatiques, désormais confluentes, formant une large lésion mesurant jusqu'à 7 x 4 cm. Compte tenu de la réponse dissociée au traitement, il a été décidé de réaliser une biopsie hépatique guidée par scanner avec un diagnostic pathologique d'adénocarcinome peu différencié avec une immunohistochimie congruente avec l'origine primaire la plus probable dans la zone pancréaticobiliaire (TTF-1 et EGFR négatifs). Avec ces données, nous avons trouvé avec une forte probabilité deux tumeurs d'apparition synchrone qui ont été considérées comme une seule entité comme la plus biologiquement plausible dans le cadre du diagnostic de néoplasie pulmonaire.
+À ce stade, la priorité a été donnée au traitement de la tumeur dont le pronostic était le plus sombre et qui compromettait le plus la situation de la patiente, car elle avait clairement détérioré le profil hépatique, et un traitement par gemcitabine + oxaliplatine (GEMOX) a été débuté en novembre 2016.
+Elle a présenté une mauvaise tolérance avec une neuropathie sensorielle de grade 1-2, des vomissements de grade 2, une neutropénie de grade 4 non compliquée et une thrombopénie de grade 3 asymptomatique. Après 6 cycles, la réponse a été réévaluée avec une stabilité de la lésion pulmonaire et une réponse hépatique partielle plus importante, qui se reflétait également au niveau analytique avec une normalisation des transaminases.
+Compte tenu de la bonne réponse, il a été décidé de compléter 10 cycles de GEMOX puis de reprendre le géfitinib avec une bonne tolérance et en maintenant la réponse radiologique, clinique et analytique à ce jour sans limiter la toxicité résiduelle.

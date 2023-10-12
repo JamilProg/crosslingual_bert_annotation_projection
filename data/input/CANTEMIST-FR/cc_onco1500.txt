@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 61 ans, fumeur actif de 20 cigarettes par jour (60 paquets par an), sans allergie médicamenteuse, avec des antécédents personnels de hernie discale lombaire et de brucellose dans sa jeunesse.
+Il a été admis à l'hôpital pour investigation en raison d'un tableau clinique de douleur thoracique atypique, de palpitations et de fatigue lors d'un effort modéré depuis environ 48 heures.
+
+Examen physique
+Le patient était conscient, orienté, afébrile, eupnéique au repos, normohydraté et de couleur normale. ECOG 0 et indice de Karnofsky de 100 %. Auscultation cardiorespiratoire : tonalités tachycardiques rythmées à 144 bpm, sans souffle ni frottement.
+Murmure vésiculaire conservé dans tous les champs pulmonaires, sans bruits pathologiques. Tête et cou : normaux ; pas d'adénopathies périphériques superficielles ni de goitre palpables. Abdomen : souple et dépressible, sans viscéro-mégalie ni douleur à la palpation. Extrémités : pas d'œdème ni de signes de thrombose veineuse.
+
+Examens complémentaires
+- L'hémogramme et l'étude de la coagulation à l'admission n'ont pas montré d'altérations significatives.
+- La biochimie a révélé une élévation de la gamma glutamyl transpeptidase de 181 UI/L avec des marqueurs tumoraux normaux (y compris l'antigène carcinoembryonnaire et l'antigène glucidique CA-125).
+- Les valeurs des gaz du sang artériel étaient dans les limites de la normale.
+- La radiographie du thorax a montré une augmentation de la silhouette cardiaque.
+- L'électrocardiogramme a révélé une tachycardie supraventriculaire à 149 bpm sans altération de la repolarisation ventriculaire.
+- L'échocardiographie transœsophagienne a révélé des cavités et des valves normales, une fraction d'éjection ventriculaire gauche normale et une image de masse de 34 mm x 22 mm occupant la paroi latérale et supérieure de l'oreillette droite et s'étendant jusqu'à l'entrée de la veine cave supérieure, avec une atteinte septale par un matériel aux caractéristiques échocardiographiques similaires. Il y avait également une dilatation de la veine cave inférieure et un épanchement péricardique important.
+- La tomodensitométrie thoracique et abdominale n'a pas détecté de maladie tumorale extracardiaque. Après l'étude, le patient a été adressé à l'unité de chirurgie cardiovasculaire de référence pour un traitement chirurgical avec prélèvement.
+
+Diagnostic
+Masse intracardiaque de 34 mm x 22 mm dépendant de l'oreillette droite.
+
+Traitement et évolution
+Le patient a été opéré 15 jours après le diagnostic par sternotomie et péricardiotomie avec résection de la masse dans l'oreillette droite.
+L'anatomie pathologique de la pièce opératoire a décrit un angiosarcome de haut grade, avec une immunohistochimie positive pour le S-100, le facteur VIII, le CD31, le CD34 et l'actine.
+Après une période postopératoire sans incident, lors du premier examen, trois mois après l'opération, la tomographie axiale thoracique et abdominale a détecté la présence de multiples nodules pulmonaires millimétriques bilatéraux évoquant une atteinte métastatique, ainsi que deux images hépatiques dans les segments VII et VIII. Sur le plan clinique, l'état de la patiente s'est détérioré, avec une dyspnée accrue à l'effort au cours des derniers jours. À ce stade, un traitement par chimiothérapie intraveineuse a été envisagé, mais il a été rejeté par le patient, qui a choisi d'intensifier le traitement médical et de poursuivre les contrôles périodiques, réservant la chimiothérapie pour le moment où la progression de la maladie serait évidente.
+Cinq mois après le diagnostic, un nouveau bilan a révélé la progression de la maladie en raison de la croissance de la lésion auriculaire (diamètre maximal de 25,4 mm), de nodules pulmonaires subcentimétriques bilatéraux et de métastases hépatiques (la plus grande, une lésion du segment VIII, mesurant 38,3 mm).
+Un traitement par chimiothérapie intraveineuse a de nouveau été envisagé, avec un schéma basé sur le docétaxel ou les anthracyclines. La patiente refuse toujours cette thérapie et n'accepterait qu'un traitement oral en ambulatoire. Après avoir présenté le cas lors d'une séance clinique, nous avons commencé l'administration d'un inhibiteur de la tyrosine kinase, le sorafenib 200 mg, par voie orale toutes les 12 heures pendant 21 jours avec sept jours de repos, avec un suivi de quatre semaines pour évaluer les toxicités éventuelles.
+Lors de la visite suivante, le patient a présenté une érythrodysesthésie palmoplantaire de grade 1, sans autre altération clinique, un traitement topique a été prescrit et un nouveau scanner a été demandé quatre semaines plus tard pour évaluer la réponse au traitement, qui a montré une réponse partielle au niveau hépatique (lésion plus importante dans le segment VIII, avec un diamètre maximal de 28 mm), une stabilisation de la maladie au niveau cardiaque (la lésion auriculaire est passée à 22,7 mm) selon les critères RECIST et une diminution de la taille des lésions pulmonaires subcentimétriques bilatérales.
+Dix mois après le diagnostic d'angiosarcome auriculaire de stade IV et 12 semaines après le début du traitement par sorafenib, le patient est en réponse partielle et reste cliniquement stable avec une toxicité cutanée gérable et contrôlée.

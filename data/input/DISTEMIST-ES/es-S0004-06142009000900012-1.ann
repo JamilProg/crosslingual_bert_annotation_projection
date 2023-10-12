@@ -1,0 +1,42 @@
+T1	pathologie 279 300	Hipertensión arterial
+T2	pathologie 303 322	Diabetes Mellitus 2
+T3	pathologie 357 371	cáncer de mama
+T4	pathologie 382 402	enfermedad coronaria
+T5	pathologie 419 433	tumor cerebral
+T6	pathologie 1043 1065	adenopatías inguinales
+T7	pathologie 1373 1402	infección del tracto urinario
+T8	pathologie 1578 1591	hiperglicemia
+T9	pathologie 1762 1794	respuesta inflamatoria sistémica
+T10	pathologie 2137 2163	adenopatías locoregionales
+T11	pathologie 2573 2587	lesión tumoral
+T12	pathologie 2606 2659	neoplasia maligna de origen mesenquimal y sarcomatosa
+T13	pathologie 2821 2850	liposarcoma bien diferenciado
+T14	pathologie 3079 3092	condrosarcoma
+T15	pathologie 3140 3167	liposarcoma desdiferenciado
+T16	pathologie 3215 3244	liposarcoma bien diferenciado
+T17	pathologie 3215 3258	liposarcoma bien diferenciado (lipoma-like)
+T18	pathologie 3299 3326	condrosarcoma de alto grado
+T19	pathologie 3362 3411	liposarcoma desdiferenciado de cordón espermático
+T20	pathologie 3678 3708	carcinoma papilar del tiroides
+T21	pathologie 3902 3918	recidiva tumoral
+#1	SNOMED T1	38341003
+#2	SNOMED T8	80394007
+#3	SNOMED T2	44054006
+#4	SNOMED T7	68566005
+#5	SNOMED T12	2424003
+#6	SNOMED T3	254837009
+#7	SNOMED T4	414545008
+#8	SNOMED T5	254935002
+#9	SNOMED T6	127199000
+#10	SNOMED T9	238149007
+#11	SNOMED T20	255029007
+#12	SNOMED T13	404067008
+#13	SNOMED T10	49991000119104
+#14	SNOMED T21	25173007
+#15	SNOMED T14	443520009
+#16	SNOMED T15	404072004
+#17	SNOMED T17	404067008
+#18	SNOMED T18	443520009
+#19	SNOMED T19	404072004
+#20	SNOMED T11	55342001
+#21	SNOMED T16	404067008

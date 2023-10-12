@@ -1,0 +1,8 @@
+T1	pathologie 241 304	asimetría facial por aumento de volumen en la mejilla izquierda
+T2	pathologie 626 642	tumor coronoídeo
+T3	pathologie 1185 1198	osteocondroma
+T4	pathologie 1339 1363	deformidad de la mejilla
+#1	SNOMED T3	443093007
+#2	SNOMED T4	118930001
+#3	SNOMED T2	126551000
+#4	SNOMED T1	15253005

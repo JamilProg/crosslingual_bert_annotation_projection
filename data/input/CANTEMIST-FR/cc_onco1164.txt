@@ -1,0 +1,37 @@
+Anamnèse
+Patiente de 55 ans qui s'est adressée à notre centre après le diagnostic (biopsie excisionnelle) en 2004 d'un mélanome nodulaire dans la région scapulaire droite, Breslow 1 mm.
+Dans notre centre, un élargissement chirurgical des marges et une biopsie sélective du ganglion lymphatique sentinelle lui ont été proposés car il présentait un Breslow de 1 mm. Ce traitement a été réalisé le 14/7/2004, et aucun mélanome n'a été observé lors de l'élargissement ou dans les deux ganglions lymphatiques sentinelles (axillaire droit et cervical gauche) prélevés. Classé pT1aN0 (sn) M0 stade IA, il a commencé un suivi dermatologique.
+En janvier 2005, elle a consulté pour une adénopathie sus-claviculaire droite, dont la pathologie a été confirmée par tomodensitométrie et biopsie. Après avoir exclu une maladie à d'autres niveaux, elle a subi une vidange cervicale fonctionnelle droite, avec ablation de 13 ganglions lymphatiques, dont deux se sont révélés positifs pour le mélanome. Elle a ensuite commencé un traitement à l'interféron alfa-2b (schéma Kirkwood) le 4/4/2005.
+Huit mois après le traitement à l'interféron, elle a présenté une récidive au niveau de la cicatrice du mélanome primaire (scapulaire droite), qui a été retirée, confirmant le diagnostic de mélanome ; après avoir exclu une maladie à d'autres niveaux, un suivi a été proposé sans compléter l'interféron.
+En août 2008, un nodule sous-cutané péricatriciel a été enlevé dans la région dorsale droite, ce qui a été confirmé comme métastatique. L'étude d'extension s'étant révélée négative, il a été décidé d'en assurer le suivi.
+En octobre 2009, une lymphadénopathie axillaire droite unique a été observée et une lymphadénectomie axillaire droite a été pratiquée.
+Par la suite, un suivi est proposé.
+Après un intervalle d'un an sans maladie, le 14 octobre 2010, la patiente s'est présentée à la clinique d'urgence en signalant l'apparition de 3 nodules sous-cutanés dans la région axillaire et sur le côté gauche. Elle a également signalé une fièvre fébrile et une toux, qui a été confirmée plus tard comme un processus pneumonique.
+
+Examen physique
+À l'examen, 3 nodules sous-cutanés suspects de malignité ont été palpés dans la région axillaire et dans l'hémithorax gauche.
+L'auscultation pulmonaire a révélé la présence de crépitants dans la base droite.
+
+Tests complémentaires
+- PET-TC (15/10/2010) :
+Légère augmentation du métabolisme par des nodules sous-cutanés dans les régions axillaire gauche (SUV max : 3,1), axillaire postérieure gauche (SUV max : 1,3), hémithorax inférieur gauche (parasplénique) (SUV max : 2,3) et région postéro-supérieure gauche de la cuisse (SUV max : 1,3).
+Augmentation du métabolisme dans l'articulation costo-vertébrale gauche (SUV maximal : 4,2) et dans la région antérieure de l'omoplate gauche, suggérant une pathologie osseuse/musculaire traumatique.
+Augmentation du métabolisme dans la région postérieure du poumon droit (SUV max : 4,6), correspondant à un infiltrat/condensation au scanner et évoquant une pathologie pulmonaire infectieuse.
+Nodule d'environ 1 cm dans le LS du poumon gauche de comportement amétabolique, à évaluer par le service de radiologie.
+Conclusion : foyers sous-cutanés légèrement métaboliques en relation probable avec des métastases de sa maladie sous-jacente. Augmentation du métabolisme dans le poumon droit suggérant une pathologie infectieuse pulmonaire et nodule dans le poumon gauche à évaluer par le service de radiologie.
+- Tomodensitométrie thoracique (3/11/2010) : métastases pulmonaires multiples. Nodules sous-cutanés du côté gauche. Infiltration au niveau de la base du poumon droit.
+
+Diagnostic
+Mélanome métastatique M1a.
+
+Traitement
+Compte tenu du mélanome métastatique, un traitement par chimiothérapie palliative DTIC 850 mg/m2/21 jours a été entamé le 10/11/2010, avec une progression après dix cycles, de sorte qu'un traitement par ipilimumab 3 mg/kg/21 jours x 21 jours a été entamé le 27/6/2011, dans le cadre du programme d'accès élargi. Il a présenté une rémission clinique et radiologique complète, qui a été maintenue pendant 11 mois (PFS).
+Après 11 mois, en mars 2012, elle a commencé à ressentir une douleur à l'épaule gauche irradiant dans toute l'ESI, de type neuropathique, avec un syndrome de Horner associé. Un scanner a montré une masse paravertébrale gauche avec une activité hypermétabolique à la TEP, de sorte qu'une réinduction d'ipilimumab à 3 mg/kg/21 jours x 4 doses a été administrée.
+À la fin des 4 doses, en septembre 2012, il a commencé à ressentir une diminution de la force dans les membres inférieurs et une aggravation de la douleur neuropathique au niveau de l'ESI. Une croissance tumorale a été observée au niveau paravertébral gauche et l'étude a été complétée par une IRM cervicale, qui a montré une compression de la moelle épinière au niveau D1-D3. Elle a reçu une radiothérapie palliative de 30 Gy pendant 10 jours.
+Après la radiothérapie, elle a présenté une stabilisation clinique et a été envoyée à l'unité de soins palliatifs pour un traitement symptomatique, malgré la présence d'une mutation BRAF. Après 8 mois, l'unité de soins palliatifs a contacté notre centre, car la patiente avait montré une amélioration significative de la douleur dans l'ESI et une amélioration de la force dans l'EEII.
+La patiente a été réévaluée en avril 2013, avec une réponse partielle de la masse paravertébrale gauche et l'apparition d'un nouveau nodule sous-cutané métastatique en arrière de l'omoplate gauche.
+En juin 2013, un traitement par dabrafenib 150 mg/12 h a été initié, qu'elle reçoit à ce jour. Le dernier scanner a montré une stabilisation de la masse paravertébrale gauche et une disparition du nodule sous-cutané scapulaire gauche.
+
+Évolution
+La patiente est en vie 21 mois après une réinduction par ipilimumab.
+Elle a une survie sans progression de 1 an après le début du traitement par dabrafenib.

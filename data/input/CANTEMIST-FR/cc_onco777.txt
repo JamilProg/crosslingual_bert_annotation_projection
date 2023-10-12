@@ -1,0 +1,26 @@
+Anamnèse
+Homme, 42 ans au moment du diagnostic, sans antécédents médicaux intéressants ni antécédents oncologiques, fumeur actif de 30 paquets-années, avec des antécédents d'exposition professionnelle à la silice pendant 72 mois. Toux et expectoration chroniques, sans dyspnée initiale, sans antécédents de pneumonie ou de tuberculose.
+Le patient a été initialement adressé au service de pneumologie par le médecin de premier recours après avoir découvert par hasard une image nodulaire dans l'hémithorax droit associée à un empiètement du sinus costophrénique sur une radiographie du thorax au cours d'un examen médical d'entreprise. Au moment du diagnostic, le patient était asymptomatique. Il n'y avait pas d'augmentation de la toux et de l'expectoration habituelles, pas de fièvre ni de douleur thoracique, pas d'hémoptysie ni de syndrome constitutionnel.
+
+Examen physique
+À l'examen, le patient était en très bon état général, avec un niveau de performance de 0. L'auscultation cardio-pulmonaire était normale et le reste de l'examen n'a révélé aucun signe pathologique.
+
+Examens complémentaires
+Dans un premier temps, le diagnostic différentiel entre pathologie oncologique et pathologie infectieuse/auto-immune est envisagé, l'étude débute donc par une tomodensitométrie thoracique haute résolution où l'on observe de multiples nodules pulmonaires limités à l'hémithorax droit, une tomographie par émission de positons, Une fibrobronchoscopie a été réalisée sans infiltration bronchique et des échantillons d'aspiration broncho-alvéolaire ont été soumis, excluant une pathologie infectieuse, et une cytologie non concluante pour l'anatomie pathologique. Après une nouvelle biopsie transthoracique négative pour la tumeur, et après avoir écarté une pathologie auto-immune, le comité des tumeurs thoraciques a décidé de réaliser une biopsie chirurgicale pour compléter l'étude. Une résection transsegmentaire du lobe inférieur droit du poumon et une biopsie pleurale par vidéothoracoscopie ont été réalisées sans complications, obtenant un diagnostic pathologique compatible avec un adénocarcinome d'origine pulmonaire.
+Anatomie pathologique
+a) Résection du lobe inférieur droit : adénocarcinome mucineux bien différencié infiltrant la plèvre sans la dépasser. Affectation du bord de résection : l'étude immunohistochimique montre une positivité des cellules tumorales pour : TTF1, Napsin A et Ck7. Ck20 et CDx2 sont négatifs, ce qui conforte le diagnostic d'adénocarcinome pulmonaire.
+"Détermination du biomarqueur EGFR : étude des mutations dans les exons 18, 19, 20 et 21 (région tyrosine kinase) à l'aide de la technologie ARMS (amplification spécifique de l'allèle). Détection négative (EGFR natif).
+"Détermination immunohistochimique du biomarqueur ALK : détection négative.
+"Détermination immunohistochimique du biomarqueur ROS-1 : détection négative.
+"Détermination de PD-L1 négative (< 1 %).
+b) Cytologie du liquide pleural : frottis constitué de groupes tridimensionnels de cellules avec vacuolisation cytoplasmique, compatible avec un adénocarcinome mucineux.
+
+Diagnostic
+Adénocarcinome mucineux du poumon de stade IV selon l'AJCC (pT4NxM1a [épanchement pleural malin]). EGFR négatif. ALK négatif. ROS-1 négatif. PD-L1 < 1 %.
+
+Traitement
+Après confirmation du diagnostic et achèvement de l'étude d'extension en l'absence d'autres résultats pertinents, le patient est adressé au service d'oncologie pour l'instauration d'un traitement systémique. On a tenté d'inclure le patient dans l'essai clinique CheckMate 026 (essai clinique de phase III comparant le nivolumab à la chimiothérapie choisie par l'investigateur comme traitement de première intention du cancer du poumon non à petites cellules PD-L1-positif), mais la sélection a échoué en raison d'un PD-L1 < 5 %, et il a été décidé de commencer le traitement par une chimiothérapie à base de platine et de taxane avec l'ajout d'agents antiangiogéniques (carboplatine-paclitaxel-bevacizumab).
+
+Évolution
+La patiente a terminé 6 cycles de traitement avec une très bonne tolérance et a ensuite poursuivi un traitement d'entretien par bevacizumab avec une bonne tolérance et sans effets indésirables pendant 15 cycles, pour finalement l'interrompre en raison de la progression de la maladie au niveau pulmonaire, due à la croissance des nodules déjà connus.
+Après un intervalle sans progression de plus de 12 mois et compte tenu de l'excellent état général de la patiente, qui continuait à être asymptomatique, un traitement par nintedanib-docetaxel a été débuté. Après 4 cycles de traitement, le docétaxel a été retiré en raison d'une neurotoxicité de grade 3 ; depuis lors, la patiente a été traitée avec du nintedanib d'entretien, avec un contrôle de la maladie selon les critères de maintien d'une maladie stable.

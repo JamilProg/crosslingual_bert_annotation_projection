@@ -1,0 +1,27 @@
+Anamnèse
+Âgée de 73 ans, notre patiente a débuté un bilan diagnostique en février 2017 suite à la découverte d'un nodule pulmonaire du lobe supérieur droit et d'adénopathies hiliomédiastinales ipsilatérales lors d'une tomodensitométrie (TDM) réalisée après le diagnostic d'un carcinome épidermoïde de l'aileron nasal. Les antécédents comprenaient un tabagisme de 80 ans/pack depuis l'âge de 14 ans et un traitement par radiothérapie pour le néoplasme nasal diagnostiqué entre le 10 février et le 20 mars 2017 (dose totale de 56,10 Gray [Gy]). Elle avait un état de base indépendant et adapté à son âge et travaillait dans le nettoyage.
+Après un bilan diagnostique et d'extension approprié, il s'agissait d'un carcinome microcytaire pulmonaire cT3N3M0, avec un Ki67 de 90 %. Compte tenu de la limitation de la maladie, il a été proposé de débuter une chimioradiothérapie séquentielle (QTRT) avec du carboplatine et de l'étoposide en juin 2017. Après avoir réalisé deux cycles de traitement avec un profil de toxicité favorable principalement sous forme d'asthénie de grade 1, une réponse partielle iconographique majeure a été observée. Il a effectué un traitement séquentiel de radiothérapie après le quatrième cycle de chimiothérapie entre le 4 octobre et le 17 novembre 2017 (dose totale de 60 Gy), et a finalement reçu une radiothérapie holocrânienne prophylactique en décembre 2017.
+En janvier 2018, un scanner de suivi après la fin du traitement a révélé une opacité pulmonaire pseudonodulaire dans le segment postérieur du lobe supérieur droit avec une activité métabolique suspecte de malignité, et une biopsie à l'aiguille centrale guidée par scanner a été programmée, comme détaillé ci-dessous. Sur le plan clinique, le patient a conservé un PS de 1, avec une légère diminution globale du murmure vésiculaire pulmonaire et aucune sensation dyspnéique.
+Compte tenu du contexte d'apparition de la lésion : patient atteint d'une néoplasie pulmonaire traitée par chimiothérapie et radiothérapie thoracique, sans signe de maladie et avec un schéma pulmonaire pseudonodulaire ; nous avons considéré le tableau clinique comme une pneumonie organisationnelle secondaire au traitement néoplasique effectué.
+
+Examen physique
+À l'examen, son état de performance était de 1. Elle présentait une lésion nasale en cours de cicatrisation avec destruction des deux ailes du nez. Elle était eupnéique et l'auscultation cardiaque était normale, tandis que l'auscultation pulmonaire montrait une diminution globale du murmure vésiculaire. Le reste de l'examen physique était tout à fait normal.
+
+Tests complémentaires
+"Analyses sanguines. Dans les limites de la normale.
+"Tomodensitométrie (CT). Opacité pseudonodulaire dans le segment postérieur du lobe supérieur droit du poumon. Si d'autres signes suggèrent une progression de la maladie.
+"Tomographie par émission de positons (TEP). Activité métabolique suspecte de malignité au niveau du nodule dans le lobe supérieur droit du poumon.
+"Biopsie à l'aiguille guidée par tomodensitométrie. Présence de matériel fibrotique et d'un infiltrat lymphoplasmocytaire, en l'absence de signes de malignité.
+
+Diagnostic
+"Pneumonie organisationnelle secondaire.
+"Carcinome microcytaire pulmonaire droit ct3n3m0.
+"Carcinome épidermoïde localisé de l'ala nasale.
+"Fumeur actif.
+
+Traitement
+En collaboration avec le service de pneumologie et après confirmation d'une bonne fonction respiratoire, nous avons commencé un traitement aux corticostéroïdes avec de la prednisone à raison de 0,5 mg/kg/jour et un bronchodilatateur avec de l'indacatérol/glycopyrronium pendant deux semaines, suivi d'un calendrier de réduction progressive jusqu'à ce que six semaines aient été effectuées au total.
+
+Évolution
+Après ce traitement, le patient a présenté une maladie stable au scanner, avec une résolution partielle du schéma pseudonodulaire de la pneumonie organisationnelle. Cependant, une tomodensitométrie de réévaluation demandée en janvier 2019 a montré une progression de la maladie dans les poumons, la plèvre et les ganglions lymphatiques médiastinaux et supraclaviculaires.
+Le patient a été admis le 22 janvier 2019 après des symptômes de dyspnée à l'effort minimal et de toux avec expectoration. Une antibiothérapie empirique a été instaurée et une étude microbiologique a été réalisée, qui s'est révélée négative. Compte tenu des signes de progression de la maladie pulmonaire et de la pneumonie organisée, une bronchoscopie a été réalisée le 25 janvier 2019, montrant des signes d'infiltration trachéobronchique, et une biopsie a confirmé la progression de la maladie néoplasique. Après une amélioration initiale, le patient a présenté le 29 janvier 2019 une détérioration de l'état général associée à des vomissements et des signes d'irritation péritonéale. Un scanner urgent a révélé une obstruction intestinale secondaire à une hernie obturatrice droite avec des signes de détresse intestinale. Après une intervention chirurgicale urgente, la patiente est restée dans l'unité de réanimation post-chirurgicale, où elle a présenté des épisodes répétés d'insuffisance respiratoire aiguë. Après une évaluation conjointe, et à la demande de la patiente, il a été décidé de limiter l'effort thérapeutique. Les jours suivants, dans le service d'oncologie, la patiente a nécessité une sédation et une analgésie palliatives en raison d'une dyspnée persistante. Finalement, le 1er février 2019, elle est décédée d'un exitus letalis.

@@ -1,0 +1,90 @@
+Anamnèse
+
+Contexte
+"Patient âgé de 49 ans, aucune allergie médicamenteuse connue à ce jour.
+"Antécédents personnels : hypertension.
+"Pas d'antécédents familiaux intéressants.
+"Habitudes toxiques : fumeur de 20 cigarettes par jour.
+"Médicaments habituels : diazépam 5 mg ; oméprazole 20 mg ; énalapril/hydrochlorothiazide 20 mg/12,5 mg ; gabapentine ; AINS sur demande.
+Histoire oncologique
+"Novembre 2005 : après des mois d'évolution d'une masse dans la région cervicale, il a subi une étude et a été évalué par le comité des tumeurs.
+"IRM du cou : masse mesurant 4,5 x 3,5 x 3,3 cm dans le muscle semi-spongieux de la tête du côté gauche, qui a déplacé le ligament nucal vers la droite et infiltré le muscle splénius adjacent. Aucune autre lésion n'a été observée au cours du reste de l'examen.
+"Tomodensitométrie thoracique : normale.
+"Tomodensitométrie du cerveau : une lésion des tissus mous a été observée dans la région occipitale gauche, sans altération osseuse et avec une charnière normale.
+"Biopsie ouverte de la tumeur : pas d'altérations morphologiques appréciables (musculo-squelettique).
+"Décembre 2005 : la tumeur a été excisée.
+"Le rapport d'anatomopathologie a révélé un sarcome synovial monophasique des tissus mous (avec présence d'une translocation t[x;18]) : mode de croissance : infiltrant. Forme histologique : cellules fusiformes homogènes, densément cellulaires, alternant avec des zones périphériques plus fibroscléreuses avec moins d'atypies. Degré de différenciation : haut grade, avec une architecture cellulaire fusiforme préservée mais un index mitotique élevé (jusqu'à 4-5 mitoses par champ à fort grossissement). Marges chirurgicales : résection probablement complète, bien que la fragmentation ne permette pas de l'affirmer avec certitude (examen de l'anatomie pathologique).
+"Il a reçu un traitement adjuvant QT à base d'adriamycine-ifosfamide pendant 4 cycles, le dernier le 9/3/06, et a ensuite également reçu une radiothérapie adjuvante, qui s'est terminée en juin 2006.
+"Mai 2008 : récidive locale par tomodensitométrie. Excision de la tumeur. AP : sarcome synovial du même type que la fois précédente, avec une marge de résection microscopique tangentiellement affectée. La possibilité d'étendre les marges a été envisagée, mais n'a pas été possible en raison de la localisation de la lésion.
+"Septembre 2008 : dans un scanner de contrôle, adénopathies cervicales bilatérales non palpables entre 10 et 15 mm d'origine incertaine et difficiles d'accès pour la ponction. Le PET scan n'a pas montré de maladie métaboliquement active.
+" Juillet 2015 : le scanner de contrôle a montré une nouvelle récidive locale avec un PET/CT scan dans lequel la masse cervicale s'est comportée comme amétabolique.
+" Septembre 2015 : nouvelle exérèse macroscopiquement complète. AP : sarcome synovial monophasique.
+" Juin 2016 : IRM cervicale montrant une lésion de 11 x 8 mm sur la moelle paraspinale gauche compatible avec une récidive tumorale, l'IRM d'octobre confirmant la récidive locale.
+" Novembre 2016 : excision de la lésion avec des marges de sécurité. AP : sarcome synovial à cellules fusiformes monophasiques avec des marges chirurgicales exemptes de maladie.
+"Septembre 2017 : la tomodensitométrie détecte une lésion mesurant 18 x 9 mm dans la région occipitale gauche et l'IRM en octobre confirme deux lésions au niveau de la musculature C1-C2 mesurant 24 x 16 mm et 9 x 13 mm.
+"Novembre 2017 : il a subi une intervention chirurgicale pour l'un des nodules cervicaux, en laissant un autre qui n'était pas résécable.
+"Décembre 2017 : a commencé un traitement dans le cadre de l'essai clinique GEIS52 avec sunitinib + nivolumab.
+" Une fois la thérapie susmentionnée commencée, quelques semaines plus tard, le patient a présenté une arthrite de la cheville gauche, raison pour laquelle une échographie de l'articulation a été réalisée et il a été référé en rhumatologie pour évaluer l'origine de l'arthrite ".
+"Des analyses comprenant des tests d'auto-immunité ont été effectuées et les résultats ont été les suivants : facteur rhumatoïde, anticorps antinucléaires, anticorps anti-ADN, anticorps IgG anti-peptide citrulliné, anti-ADN bicaténaire et complément (C3, C4), tous dans la plage normale, laissant de côté la première suspicion d'une affection auto-immune telle que le lupus ou la polyarthrite rhumatoïde.
+"Le patient a ensuite présenté une série de lésions érythémateuses et squameuses étendues sur le cuir chevelu, avec un érythème périlésionnel, pour lesquelles il n'a pas consulté de médecin.
+
+Antécédents actuels
+En mars 2018, alors qu'il suivait un traitement ambulatoire pour une arthrite de la cheville, le patient s'est présenté aux urgences avec une fièvre l'après-midi entre 38 et 39 ºC depuis 72 heures, associée à une dyspnée à l'effort, une toux minime sans expectoration et un malaise général.
+Il a également signalé des douleurs dans le membre inférieur gauche, ainsi qu'un gonflement persistant de la cheville gauche qui rendait la marche difficile.
+Aucun symptôme urinaire. Il a conservé ses habitudes en matière de selles. Pas de douleur abdominale. Pas d'environnement épidémique.
+
+Examen physique
+"Patient conscient, eupnéique, de couleur normale, normohydraté. Orienté dans le temps et l'espace.
+"Langage cohérent. Euthymique.
+"Auscultation cardiaque : rythmique, pas de souffle, pas de tachycardie.
+"Auscultation pulmonaire : normoventilation dans les deux hémithorax.
+"Abdomen : mou, dépressible, non douloureux à la palpation, pas de masses ni de mégalithes.
+"Membres inférieurs : gonflement au niveau de la cheville gauche, accompagné d'une augmentation de la température locale.
+"Sur le cuir chevelu, on observe des plaques squameuses étendues avec un érythème périlésionnel.
+"Signes vitaux : (à l'arrivée au service des urgences) tension artérielle 126/84 mm Hg, température 37,7°C, saturation en oxygène 98%.
+
+Examens complémentaires
+Compte tenu de l'anamnèse, à l'arrivée aux urgences, les examens suivants ont été demandés : analyses sanguines, radiographie pulmonaire et hémocultures afin d'exclure une origine infectieuse des symptômes fébriles.
+Analyses sanguines :
+Biochimie : glucose 104 mg/dl, urée 44 mg/dl, Cr 1,77 mg/dl (chiffres précédents 1,00 mg/dl), Ca 8,5 mg/dl, Cl 97 meq/l, Na 132 mEq/l, K 4,3 mEq/l.
+Hémogramme : 5 700 leucocytes (65 % de neutrophiles), hémoglobine 11,7 g/dl, coagulation sans altération.
+Analyse d'urine : protéines 0,3 g/l, glu 0,0 g/l, hémoglobine +++, nitrites négatifs, globules rouges 10-25 par champ au grossissement x 400. Le reste du patient ne présente pas d'altérations significatives.
+Hémocultures : négatives
+Radiographie du thorax : aucune altération pleuroparenchymateuse d'évolution aiguë n'a été identifiée.
+Compte tenu de l'aggravation de la fonction rénale, une échographie abdominale a été demandée afin d'éliminer toute cause obstructive. Aucune ectasie urétérale ou lésion obstructive n'a été observée. Aucun liquide intrapéritonéal n'a été observé. La rate et le pancréas ne présentaient aucune altération. Les voies biliaires n'étaient pas dilatées.
+L'analyse sanguine n'a révélé aucune anomalie pathologique, à l'exception d'une augmentation de la créatinine sérique indiquant une détérioration soudaine de la fonction rénale, qui devrait être évaluée en détail dans le contexte d'un patient traité par immunothérapie, car il existe une possibilité de néphrite toxique. Les résultats urinaires (présence d'hématurie microscopique et de protéines urinaires à hauteur de 300 mg/l) ont confirmé la suspicion d'une néphrite toxique naissante dans le cadre d'un traitement au nivolumab.
+Une fois que l'échographie a permis d'écarter les causes obstructives de l'aggravation, le service de néphrologie a été contacté pour mettre en place le traitement le plus approprié. Après avoir évalué le patient et les résultats échographiques et analytiques, ils n'ont pas recommandé de corticothérapie initiale. Dans un premier temps, un traitement conservateur avec une fluidothérapie intensive et l'arrêt des médicaments néphrotoxiques (inhibiteurs de l'ECA, AINS, diurétiques, gabapentine) a été conseillé. Ils ont demandé une collecte d'urine de 12 heures et, s'il n'y avait pas d'amélioration, ils envisageraient de commencer une corticothérapie.
+
+Diagnostic différentiel
+DIAGNOSTIC DIFFÉRENTIEL
+Au vu de l'examen physique et des résultats analytiques, nous sommes confrontés à une série d'altérations au sein desquelles nous devons établir des diagnostics différentiels :
+"Tableau infectieux : infection localisée sans foyer clair (pulmonaire, articulaire, urinaire, digestive, arthrite infectieuse, etc.) infection systémique (bactériémie).
+"Monoarthrite : arthrite de dépôt, arthrite psoriasique, arthrite septique.
+"Insuffisance rénale : cause pré-rénale (déshydratation due à la fièvre), toxicité parenchymateuse dans le cadre d'un traitement par immunothérapie, causes obstructives post-rénales (éliminées avec une forte probabilité après échographie).
+Compte tenu de l'absence de leucocytose et de symptômes suggérant un foyer infectieux clair, une étiologie infectieuse a été initialement considérée comme une option peu probable. Cette hypothèse a ensuite été confortée par les résultats négatifs des hémocultures réalisées jusqu'à deux fois au cours de l'admission, ainsi que par la disparition des symptômes fébriles au début du traitement par corticothérapie sans inclure d'antibiothérapie parmi les mesures thérapeutiques prescrites.
+A la lumière de l'examen physique, compte tenu de l'existence d'une arthrite monoarticulaire de la cheville en l'absence de traumatisme, on pourrait penser à une arthrite par dépôt ou à une arthrite infectieuse, étant donné que ces deux entités sont compatibles avec la présence de fièvre. Cependant, une autre entité encore plus probable dans le contexte où nous nous trouvons est l'apparition d'une arthrite psoriasique, diagnostic étayé par la présence de plaques érythémateuses et squameuses sur le cuir chevelu. Cette entité a été confirmée et traitée par le service de rhumatologie (diagnostic clinique).
+En ce qui concerne l'insuffisance rénale, une fois les causes obstructives éliminées, il faut établir le niveau auquel se situe l'insuffisance (prérénal ou parenchymateux). La présence de globules rouges dans les urines, ainsi que la constatation d'une protéinurie dans la zone non néphrotique, ont orienté vers une possible néphrite toxique dans le contexte d'un patient traité par nivolumab.
+DIAGNOSTICS FINAUX
+"Rhumatisme psoriasique.
+"Néphrite tubulointerstitielle toxique aiguë.
+Traitement
+Après la description des diagnostics établis, nous détaillons le traitement employé.
+Dans un premier temps, l'aggravation de la fonction rénale a été traitée par fluidothérapie intraveineuse :
+"1 000 CC de sérum physiologique iv/jour.
+Les douleurs articulaires et la fièvre ont d'abord été traitées avec des analgésiques (en essayant d'éviter autant que possible la néphrotoxicité du groupe des AINS) et des antipyrétiques.
+"Paracétamol 1 g iv en cas de fièvre > 38ºC.
+"Métamizole 575 mg iv toutes les 12 heures.
+Après consultation du service de rhumatologie, et une fois que le diagnostic d'arthrite psoriasique a été établi (diagnostic clinique), un traitement dégressif de corticostéroïdes est recommandé.
+"30 mg de prednisone par voie orale toutes les 24 heures pendant la première semaine.
+"20 mg de prednisone par voie orale toutes les 24 heures pendant la deuxième semaine.
+"10 mg de prednisone par voie orale toutes les 24 heures pendant la troisième semaine.
+
+Évolution
+Le service de néphrologie a été contacté et, après avoir évalué le patient et les résultats d'analyse, il n'a pas recommandé de commencer une corticothérapie. Le service de néphrologie a été contacté et, après avoir évalué le patient et les résultats des analyses, il n'a pas recommandé de commencer une corticothérapie. Dans un premier temps, il a conseillé un traitement conservateur, une thérapie liquidienne et le retrait des médicaments néphrotoxiques (inhibiteurs de l'ECA, AINS, diurétiques, gabapentin). Une collecte d'urine pendant 12 heures a été demandée et, en l'absence d'amélioration des paramètres analytiques, une corticothérapie a été envisagée.
+La patiente a été admise au service d'oncologie pour observation et traitement.
+Sur le plan analytique, le patient a évolué favorablement, atteignant des valeurs normales de créatinine sans avoir besoin de corticoïdes 48 heures après l'admission.
+Le résultat analytique de la collecte d'urine de 12 heures a montré une amélioration par rapport à l'analyse de base collectée aux urgences le jour précédent, avec les résultats suivants :
+"Urine de base : protéines 0,00, glucose 0,00, hémoglobine +, nitrites négatifs, le reste sans altérations notables.
+Après avoir réduit la quantité de protéines dans les urines et l'hémoglobinurie, la néphrologie a décidé de maintenir un traitement conservateur, sans commencer les corticoïdes et en modifiant la thérapie antihypertensive du patient, en éliminant l'association énalapril/hydrochlorothiazide du traitement et en la remplaçant par la doxazosine. Ils recommandent également le retrait du dexkétoprofène comme analgésique habituel en raison de sa néphrotoxicité et son remplacement par du métamizol et/ou du tramadol.
+Cependant, la fièvre et les douleurs articulaires au niveau du membre inférieur gauche ont persisté. Devant la persistance de la fièvre, des hémocultures ont été refaites et se sont révélées négatives.
+Lors de l'admission, le service de rhumatologie a été invité à collaborer, ce qui a permis d'établir le diagnostic d'arthrite psoriasique (diagnostic clinique). Un régime de corticostéroïdes dégressif a été recommandé, comme détaillé ci-dessus, de sorte que, après le début du traitement, les épisodes de fièvre-fébrile ont cessé dans les 48-72 heures. De même, on observe une diminution notable de l'inflammation articulaire en quelques jours, ce qui permet au patient de retrouver la fonctionnalité articulaire qu'il avait auparavant.

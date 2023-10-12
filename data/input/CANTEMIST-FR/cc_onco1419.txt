@@ -1,0 +1,22 @@
+Anamnèse
+Patiente, femme de 80 ans, diagnostiquée il y a 7 ans avec un carcinome canalaire infiltrant du sein gauche GIII, 3 cm, sans atteinte des ganglions lymphatiques, récepteurs hormonaux positifs et HER-2 négatifs, avec une chirurgie conservatrice et traitée par CMF (cyclophosphamide-méthotrexate-5-fluorouracile), suivie d'une radiothérapie locale et de tamoxifène pendant 5 ans. Les examens ultérieurs n'ont montré aucun signe de la maladie. Elle n'a pas d'autres antécédents intéressants. Elle a été examinée par son médecin traitant, qui a constaté une anémie ferriprive récente et l'a adressée au service local de gastro-entérologie. Un mois plus tard, une masse douloureuse de 2 cm est apparue dans la fosse iliaque droite. Après un bilan d'extension négatif, une intervention chirurgicale a été programmée.
+
+Examen physique
+Bon état général. Pas d'altérations ni d'adénopathies, à l'exception d'une masse douloureuse de 2 cm dans la fosse iliaque droite, sans péritonisme. Pas d'autres altérations à l'examen.
+
+Examens complémentaires
+Tomodensitométrie (CT) : épaississement des parois du côlon ascendant, de 7 cm de diamètre, avec sténose de la lumière, compatible avec une néoplasie du côlon ascendant. Adénopathie mésentérique, probablement néoplasique.
+Coloscopie : lésion mamelonnée, ulcérée, excroissante et sténosée qui a fait l'objet d'une biopsie.
+Marqueurs tumoraux (CEA, Ca 19.9, Ca 15.3) : normaux.
+Anatomie pathologique : tumeur mesurant 6,5 x 5 x 2 cm de grand axe avec des bords mamelonnés et des zones d'aspect ulcéré occupant 75 % de la lumière intestinale. Résection de 10 ganglions lymphatiques avec signes de métastases.
+Adénocarcinome ulcéré très peu différencié, hautement malin, avec des zones focales de différenciation rhabdoïde, atteignant le tissu adipeux périviscéral avec des marges chirurgicales exemptes de maladie, intensément positif dans les zones de différenciation rhabdoïde pour les cytokératines AE1-AE-3, la vimentine et la CAM 5.2.
+Négatif pour l'actine musculaire lisse, HHF35, S-100. Faiblement positif pour la calrétinine. Kras natif.
+
+Diagnostic
+Carcinome rhabdoïde du côlon.
+
+Traitement
+Après l'intervention chirurgicale, le patient commence une chimiothérapie adjuvante avec XELOX (oxaliplatine/capécitabine) pendant 8 cycles de trois semaines.
+
+Evolution
+Après un intervalle de 13 mois sans maladie, elle se présente aux urgences avec des douleurs abdominales, une asthénie d'un mois d'évolution et une anasarque. L'imagerie révèle un conglomérat adénopathique rétropéritonéal de 7 cm de diamètre et de multiples adénopathies dans le reste des chaînes ganglionnaires abdominales, la plus grande mesurant 4 cm. Tous ces éléments étaient évocateurs d'une récidive tumorale. Compte tenu de l'intervalle sans progression, un traitement palliatif par capécitabine en monothérapie pendant 8 cycles a été instauré. Trois mois plus tard, progression rétropéritonéale, début de l'irinotécan plus cetuximab, et décès deux mois plus tard en raison d'une défaillance multiorganique.

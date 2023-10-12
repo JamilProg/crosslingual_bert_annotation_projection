@@ -1,0 +1,33 @@
+Anamnèse
+Nous présentons le cas d'une femme de 62 ans qui s'est présentée dans notre établissement pour la première fois après avoir été opérée d'un adénocarcinome localement avancé du côlon dans un autre centre. La patiente n'avait pas d'autres antécédents médicaux ou chirurgicaux intéressants et n'a pas signalé d'habitudes toxiques. Elle a d'abord consulté en raison d'une perte de poids et d'une modification de ses habitudes intestinales, ce qui a motivé l'étude diagnostique.
+Après avoir écarté une maladie à distance lors d'un scanner d'extension, la patiente a été opérée le 3 novembre 2015 avec une hémicolectomie droite élargie (en peropératoire, une tumeur dans l'angle hépatique du côlon avec atteinte de la séreuse et un mésocôlon rétracté fixé à la séreuse de la quatrième portion duodénale sans infiltration ; des adénopathies macroscopiques possiblement impliquées ont également été observées).
+Le résultat de l'anatomie pathologique après examen de la tumeur dans notre centre décrit : un adénocarcinome du côlon avec des cellules en anneau de signet, grade histologique III, envahissant la graisse péricolique et sous-séreuse ; infiltration de 19 des 25 ganglions lymphatiques isolés, infiltration lymphovasculaire et périneurale.
+Il s'agit donc d'un adénocarcinome du côlon localement avancé pT3pN2bM0, stade IIIC. Compte tenu du risque élevé de rechute, le statut mutationnel a été déterminé, mettant en évidence la mutation BRAF V600E, et une étude de l'expression des protéines de réparation de l'ADN, avec l'expression des 4 gènes de la voie de réparation (MLHI, MSH2, MSH6 et PMS2).
+Un traitement adjuvant est proposé selon le schéma XELOX, que la patiente termine sans toxicité pertinente en recevant un total de 8 cycles entre novembre 2015 et mai 2016.
+ÉPISODE ACTUEL :
+Après un intervalle sans maladie de 14 mois, la patiente a consulté en janvier 2017 pour une dyspnée progressive et une toux sèche sans fièvre associée ni signe d'insuffisance cardiaque ; elle n'a signalé aucun autre symptôme lié à d'autres appareils ou systèmes. La radiographie du thorax a montré des zones de consolidation et des nodules pulmonaires.
+
+Examen physique
+Le patient était hémodynamiquement stable, SatO2 88 %, 24 respirations par minute. L'auscultation a révélé un sifflement expiratoire isolé dans les deux hémithorax. Le reste de l'auscultation cardio-pulmonaire, l'examen de l'abdomen et des membres inférieurs étaient normaux.
+
+Examens complémentaires
+Compte tenu de l'insuffisance respiratoire et des résultats de la radiographie pulmonaire, la patiente a été admise pour étude et traitement. Les examens suivants ont été effectués :
+"Examens de laboratoire : LDH 556 UI/ml, leucocytes 12,48 x 10^9/l, éosinophiles 4,88 x 10^9/l, CEA 4,5. Les fonctions hépatique et rénale et le reste de l'hémogramme sont normaux. Hémostase normale.
+"CT d'extension : apparition d'adénopathies médiastinales supérieures droites, paratrachéales, sous-carénales et hilaires bilatérales, jusqu'à 20 mm. Dans le parenchyme pulmonaire, on observe un épaississement péribronchovasculaire, avec des zones de consolidation parenchymateuse, un épaississement des septa et des kystes, suggérant une dissémination métastatique bronchovasculaire et lymphatique. Le reste de l'examen est normal.
+Compte tenu de la rareté de la dissémination lymphatique unique de l'adénocarcinome du côlon et de l'hyperéosinophilie associée, le diagnostic différentiel de l'hyperéosinophilie et de la pathologie pulmonaire a été complété par les examens suivants :
+"Fibrobronchoscopie + EBUS : une sténose concentrique du B4 du lobe moyen droit est observée. Aucune lésion endobronchique n'a été observée. Des prélèvements ont été effectués par bronchoaspiration sélective et lavage broncho-alvéolaire, ainsi qu'une biopsie des septa interbronchiques et des adénopathies sous-carénaires.
+"Bronchoaspiration sélective (BAS) et lavage broncho-alvéolaire (BAL) : culture bactériologique, y compris Legionella spp. et bacilles acido-alcoolo-résistants (AFB), mycologique et PCR pour les virus respiratoires négatifs, à l'exception d'une PCR positive pour le coronavirus. La cytologie a montré une éosinophilie confirmée avec 60 % d'éosinophiles.
+"Examen parasitologique des selles : négatif pour les antigènes duodénaux de Giardia, Entamoeba histolytica et Cryptosporidium spp.
+"Sérologie : IgG positives anti-Micoplasma pneumoniae et Chlamydophila pneumoniae. IgM négatifs.
+"Pathologie : la biopsie de l'adénopathie sous-carénale et du septum interbronchique a montré une infiltration par des cellules compatibles avec un adénocarcinome d'origine intestinale.
+
+Diagnostic
+Progression pulmonaire d'un adénocarcinome du côlon muté BRAF avec présence d'une hyperéosinophilie dans le sang périphérique et d'une lymphangite carcinomateuse.
+
+Traitement
+Lors de son admission à l'hôpital, un traitement antibiotique a été instauré avec de la lévofloxacine empirique et une corticothérapie avec une dose de prednisone de 1 mg/kg avec une amélioration partielle de l'état clinique, la patiente a évolué favorablement et a été renvoyée au service ambulatoire pour le début du traitement de première ligne selon le schéma FOLFIRI-bevacizumab.
+La patiente a reçu le premier cycle de FOLFIRI-bevacizumab le 20/02/17, nécessitant l'instauration urgente d'un traitement en raison d'une aggravation clinique et d'une insuffisance respiratoire aiguë nécessitant une oxygénothérapie à haut débit (15 litres par minute).
+
+Évolution
+La patiente a très bien répondu au traitement, tant sur le plan clinique que sur le plan des examens complémentaires. La tomodensitométrie a montré une diminution de la taille des adénopathies médiastinales et une amélioration de la lymphangite carcinomateuse. Sur le plan clinique, il a été possible d'arrêter complètement les corticostéroïdes et de réduire les besoins en oxygène, et le patient a pu être traité par oxygénothérapie à domicile à raison de 2 litres par minute après un cycle de traitement.
+Quatre mois après le début de la chimiothérapie, la patiente conserve une réponse partielle à la maladie et une qualité de vie acceptable qui lui permet de profiter de sa famille.

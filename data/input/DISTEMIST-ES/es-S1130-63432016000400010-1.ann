@@ -1,0 +1,18 @@
+T1	pathologie 104 123	abortos espontáneos
+T2	pathologie 182 193	esterilidad
+T3	pathologie 280 310	Factor V Leiden heterocigótico
+T4	pathologie 419 463	trastorno de hipercoagulabilidad hereditario
+T5	pathologie 528 556	variante del factor V Leiden
+T6	pathologie 918 924	aborto
+T7	pathologie 1598 1652	alteración inmunológica asociada al fallo reproductivo
+T8	pathologie 1782 1802	fracaso reproductivo
+T9	pathologie 1953 1973	pérdida de embarazos
+#1	SNOMED T1	17369002
+#2	SNOMED T3	307116001
+#3	SNOMED T4	439698008
+#4	SNOMED T7	131145007
+#5	SNOMED T8	15296000
+#6	SNOMED T6	17369002
+#7	SNOMED T9	363681007
+#8	SNOMED T2	15296000
+#9	SNOMED T5	307091009

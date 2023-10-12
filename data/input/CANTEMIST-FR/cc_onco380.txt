@@ -1,0 +1,48 @@
+Anamnèse
+Le patient est un homme de 69 ans, dont les antécédents personnels sont les suivants :
+-Aucune allergie médicamenteuse.
+-Diabète sucré de type 2.
+Diabète sucré de type 2. -Hypercholestérolémie.
+-Maladie pulmonaire obstructive chronique (MPOC) modérée.
+Ex-fumeur depuis 14 ans (60-70 paquets/an) et buveur de moins de 50g/jour d'alcool.
+-Diagnostiqué en mai 2013 d'un adénocarcinome du colon ascendant, opéré par hémicolectomie droite, stade pT3N0, il ne nécessitait pas de traitement complémentaire et était suivi par la chirurgie générale.
+En janvier 2015, il a été admis en médecine interne pour une toux productive avec expectoration purulente, dyspnée au repos et fièvre à 39ºC.
+
+Examen physique
+Le patient est en bon état général, avec les constantes suivantes : TA 147/79, FC 91 bpm, température
+36,3º SatO2 92% et fréquence respiratoire de 28 rpm.
+Il est conscient et orienté, bien hydraté et perfusé.
+Il signale une dyspnée lors d'un effort minime.
+L'examen de la tête et du cou révèle une masse cervicale droite et une candidose buccale.
+L'auscultation cardio-pulmonaire révèle un roncus et des crépitants bilatéraux dispersés.
+La palpation abdominale a révélé une douleur dans l'hypochondre droit, sans signe d'irritation péritonéale.
+Le reste de l'examen physique était normal.
+
+Examens complémentaires
+Radiographie thoracique : pneumonie de la base droite.
+-TDM thoracique-abdominale-pelvienne (21.01.2015) : volumineuse masse supraglottique gauche compatible avec une néoplasie. Conglomérat adénopathique latérocervical droit. Petit infiltrat dans le lobe moyen du poumon en rapport avec une pneumonie évolutive. Hémicolectomie droite avec anastomose iléo-colique. Foie : Dans le segment VI il y a une masse polylobée et hétérogène d'environ 7 cm. Cette masse avait déjà été observée lors du contrôle précédent et avait été étiquetée comme une première possibilité de métastase étant donné ses antécédents d'adénocarcinome du côlon. Elle a augmenté de taille par rapport à ce contrôle. Adénopathie mésentérique d'environ 12 mm en avant et à droite de la veine mésentérique supérieure, avec une autre de 6 mm à proximité. Ces adénopathies étaient présentes avec des caractéristiques similaires lors du bilan précédent.
+-IRM DU FOIE (23.01.2016) : Masse hépatique dans le segment V suspectée de métastase d'un adénocarcinome du côlon et moins probablement d'un carcinome laryngé. Adénopathie de 1 cm dans l'espace portocave. Adénome surrénalien gauche.
+EVALUATION OTORRHINOLARINGOLOGIQUE : Adénopathie cervicale droite d'environ 35 mm de diamètre, pierreuse, non douloureuse, bien définie, se déplaçant dans les deux axes. Pas d'autre lymphadénopathie.
+Fibroscopie : Lésion du RAE gauche touchant la zone 3 des plis, bien délimitée. Elle s'étend à la partie haute de la paroi latérale du sinus piriforme. Fond du sinus piriforme et paroi postérieure libres. Plan glottique libre. Parésie de la VCI sans fixation complète. Cavité et oropharynx normaux.
+Jugement diagnostique : néoplasie supraglottique gauche et conglomérat adénopathique droit. Une biopsie a été réalisée.
+-ANATOMIE PATHOLOGIQUE : Fragments d'épithélium avec dysplasie sévère/carcinome in situ.
+-BIOPSIE HÉPATIQUE (trucut) : Adénocarcinome modérément différencié de type intestinal compatible avec une métastase d'un primitif colique. Profil immunohistochimique positif pour CDX-2, positivité partielle pour CK20 et négatif pour CK7. Détermination de la mutation RAS : RAS natif.
+-Sur le plan analytique, on note un CEA (carcinoembryonic antigen) de 50,4.
+
+Diagnostic
+On diagnostique chez le patient un néoplasme hypopharyngé de stade cT3N2 avec une métastase hépatique à partir d'un primitif colique.
+
+Après évaluation par le comité des tumeurs hépatobiliopancréatiques, la métastase hépatique a été jugée résécable et il a été décidé de commencer un traitement systémique et de procéder à une réévaluation ultérieure. Le cas a également été présenté au comité des tumeurs ORL et il a été décidé de commencer un traitement concomitant de chimio-radiothérapie pour le néoplasme de l'hypopharynx.
+
+Traitement
+Étant donné que notre patient présentait un néoplasme hypopharyngé synchrone candidat à un traitement par chimio-radiothérapie concomitante, et une métastase hépatique résécable d'un adénocarcinome du côlon opéré, RAS natif, candidat à un traitement néoadjuvant, il a été décidé de débuter un traitement systémique selon le schéma Folfox-6 (80 % de la dose) + Cetuximab + radiothérapie concomitante, traitement qui a débuté le 6 mars 2015.
+
+Évolution
+Entre le 6 mars et le 11 mai 2015, il a bénéficié d'un traitement concomitant de chimioradiothérapie (deux cycles de Folfox-Cetuximab + RT), avec une bonne tolérance, à l'exception d'une mucite de grade 2, et avec une diminution du marqueur tumoral (CEA 50 au diagnostic, 2,2 après le deuxième cycle). Le 13 mai, un troisième cycle de chimiothérapie + cetuximab a été prescrit et un scanner a été demandé pour évaluer la réponse. Un mois plus tard, elle consulte pour une aggravation de son état général, des vomissements, une dyspnée et une mucosite. La tomodensitométrie a montré une réponse partielle tant au niveau de la tumeur primaire que des ganglions lymphatiques et du foie. La tomodensitométrie a également montré de multiples infiltrats pulmonaires, compatibles avec un processus infectieux dû à une aspiration. Au vu de ces résultats et de l'aggravation de l'état du patient, il a été décidé de l'hospitaliser pour un traitement de soutien.
+Le patient est resté à l'hôpital du 12 juin au 13 juillet 2016. Lors de son admission, un traitement de soutien a été mis en place avec des antibiotiques, des corticostéroïdes et des bronchodilatateurs. Il a également été mis au régime absolu et une nutrition parentérale totale a été prescrite en raison d'une odynophagie et d'un étouffement. Un traitement à l'acyclovir a été associé à l'isolement de l'herpès simplex de type 1 dans l'exsudat buccal. Le 23 juin, elle a présenté un pic de fièvre. Des hémocultures ont été réalisées, avec des résultats positifs pour Candida parapsilosis, de sorte que le cathéter central a été retiré (PICC [peripherally inserted central catheter]) et le Fluconazole a été ajouté au traitement. Malgré tous les traitements, le 30 juin, le patient a présenté une aggravation clinique avec une insuffisance respiratoire et de la fièvre, et les hémocultures ont isolé Staphylococcus Aureus. L'unité des maladies infectieuses a été contactée et l'antibiothérapie a été ajustée, avec une amélioration ultérieure. Malgré l'amélioration de la mucosite, des épisodes de toux ont persisté lors de l'ingestion, de sorte qu'un oesophagogramme a été demandé, où un trouble fonctionnel pharyngolaryngé a été signalé. Une gastrostomie d'alimentation a été proposée et posée le 8 juillet.
+L'état général du patient s'est progressivement amélioré, avec une disparition de la fièvre et de la dyspnée et une bonne tolérance à l'alimentation par gastrostomie. Finalement, il a été décidé de renvoyer le patient en Hospitalisation à Domicile pour compléter un traitement antibiotique de 4 semaines avec du Linezolid via la gastrostomie.
+
+Après une amélioration clinique et une récupération complète, et compte tenu de la bonne réponse après une chimioradiothérapie concomitante, il a été décidé de procéder à une intervention chirurgicale, à la fois sur l'hypopharynx primaire et sur la métastase hépatique.
+-Une hépatectomie avec résection des segments II et V a été réalisée le 28 août 2015. L'anatomie pathologique du segment V montre un nodule tumoral correspondant à un adénocarcinome de type intestinal, métastatique, mesurant 4,5 x 3,2 x 2,3 cm, sans image d'invasion lymphovasculaire et avec des marges libres. Le segment II montre un parenchyme hépatique normal sans signe d'infiltration tumorale.
+-Le 7 octobre, une laryngoscopie directe a été pratiquée avec biopsie de la tumeur primaire, avec des résultats négatifs pour la malignité. La tumeur primaire a été évaluée comme une réponse complète et une persistance des ganglions lymphatiques, et il a été décidé de procéder à une ablation fonctionnelle du ganglion lymphatique cervical droit. L'anatomie pathologique a montré une lymphadénite réactive, sans aucun signe de malignité.
+En novembre 2015, un scanner post-chirurgical a été réalisé, montrant des changements post-traitement au niveau cervical, sans signe de récidive tumorale, et des changements post-chirurgicaux dans le foie. Le patient a progressivement montré une amélioration globale et a commencé à tolérer l'alimentation par la bouche, sans douleur ni épisodes d'étouffement. À l'heure actuelle, il continue d'être suivi à la clinique ambulatoire d'oncologie médicale, la dernière tomodensitométrie ayant été réalisée en février 2016 et n'ayant révélé aucun signe de récidive tumorale.

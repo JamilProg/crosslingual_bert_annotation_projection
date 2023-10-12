@@ -1,0 +1,12 @@
+T1	pathologie 87 103	síndrome de Down
+T2	pathologie 106 126	retraso mental grave
+T3	pathologie 436 452	vólvulo gástrico
+T4	pathologie 570 581	dolicocolon
+T5	pathologie 968 1004	dilatación masiva del colon proximal
+T6	pathologie 1626 1664	vólvulo del ángulo esplénico del colon
+#1	SNOMED T1	41040004
+#2	SNOMED T2	40700009
+#3	SNOMED T3	71851009
+#4	SNOMED T4	30468000
+#5	SNOMED T5	86247009
+#6	SNOMED T6	6441003

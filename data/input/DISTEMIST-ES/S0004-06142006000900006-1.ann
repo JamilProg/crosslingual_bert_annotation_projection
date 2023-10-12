@@ -1,0 +1,10 @@
+T1	pathologie 24 52	patología litiásica compleja
+T2	pathologie 193 209	litiasis renales
+T3	pathologie 298 342	moderada dilatación pielocalicial y ureteral
+T4	pathologie 399 416	litiasis ureteral
+T5	pathologie 549 582	litiasis de 1 cm en polo inferior
+#1	SNOMED T1	66058000
+#2	SNOMED T2	386103008
+#3	SNOMED T4	386104002
+#4	SNOMED T5	386103008
+#5	SNOMED T3	95576001+371011007

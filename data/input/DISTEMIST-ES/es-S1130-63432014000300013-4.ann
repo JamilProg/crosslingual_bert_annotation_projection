@@ -1,0 +1,4 @@
+T1	pathologie 109 125	recidiva tumoral
+T2	pathologie 365 376	hipotensión
+#1	SNOMED T1	25173007
+#2	SNOMED T2	45007003

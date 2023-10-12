@@ -1,0 +1,33 @@
+Anamnèse
+Une femme de 39 ans a subi une myomectomie plus une anastomose bout à bout par anse d'iléon attachée en octobre 2013, présentant comme complication une péritonite due à un hématome surinfecté nécessitant une laparotomie.
+
+Asymptomatique jusqu'en décembre 2013, date à laquelle elle a commencé à ressentir une hypoacousie bilatérale soudaine, accompagnée d'une paresthésie, d'une hypoesthésie dans les membres inférieurs et d'une instabilité de la démarche. Elle a donc été admise dans le service de neurologie pour des examens complémentaires.
+
+Examen physique
+Tension artérielle 123/77 mm Hg ; fréquence cardiaque 75 bpm ; afébrile ; saturation en oxygène 97%. Poids 49,5 kg. Taille 163 cm. IK 80. Conscient et orienté dans les trois sphères. Normohydraté, normoperfusé et normo coloré. Eupnéique au repos. Tête et cou : aucun signe. Poitrine : auscultation cardio-pulmonaire : normale ; examen des seins et des aisselles : masse de 5 x 3 cm dans les quadrants inférieurs du sein droit et adénopathie axillaire droite. Le reste de l'examen est normal. Abdomen : mou, dépressible, non douloureux.
+Bruits hydro-aériques positifs. Membres inférieurs : non décrits.
+
+Examen neurologique : troubles de l'élocution, avec de brusques variations de tonalité (secondaires à l'hypoacousie). Nerfs crâniens normaux. Barré et Mingazzini : mouvements de désafférentation des extrémités gauches avec une force de 5/5. Réflexes ostéotendineux abolis généralisés, avec CPR bilatéral des fléchisseurs. Hypo/dysesthésie dans l'hémicorps gauche. Hypopalesthésie généralisée. Proprioception sans altération. Tests de coordination : décomposition dans le test talon-genou droit, et décomposition et dysmétrie dans les membres gauches. Romberg positif. Démarche avec augmentation du polygone d'appui, frappe du talon, réalisation de mouvements de rotation interne avec IBD, sans latéropulsions préférentielles. Démarche en tandem impossible. Signes méningés négatifs. Rhinencéphale négatif en OI, positif en OD. Weber non latéralisé.
+
+Examens complémentaires
+"Biochimie : cholestérol 238 mg/dL ; FA 39 U/L. Autres paramètres : normaux.
+"Hémogramme : leucocytes : 8 100 (segmentés : 57,3 %, lymphocytes : 37,2 %, monocytes : 5,9 %) ; hémoglobine : 14,6 g/dL ; plaquettes : 232 000.
+"Marqueurs tumoraux : CA 15.30 58.6 U/mL ; CEA 0.7 ng/mL.
+"Etude du liquide céphalo-rachidien : glucose 59 mg/dL ; protéines 47 mg/dL ; 1 cellule/mm3 ; ADA : 0.
+"Immunologie : anticorps anti-neuronaux-anti-physine positifs. Autres négatifs.
+"Echo/mammographie/IRM mammaire : microcalcifications de 48 x 30 mm dans les quadrants inféro-internes du sein droit ainsi que 3 nodules dans le quadrant inféro-externe du sein droit de 23 mm, 8 mm et 7 mm (BIRADS 4B), biopsie du plus gros avec rapport AP de carcinome canalaire infiltrant RE +++, RP+++, RP+++, Cadhérine E +++, KI-67 20%, HER2 ++/+++ (FISH non amplifié). Tracé axillaire positif avec rapport AP : positif pour les cellules malignes.
+"Échographie abdominale : aucun résultat.
+"CT et IRM crânio-médullaires : aucun résultat.
+"Électroencéphalogramme : polyneuropathie sensorielle de type axonal prédominant et de degré modéré, de préférence dans les membres inférieurs. Altération des potentiels évoqués somatosensoriels dans les membres inférieurs et supérieurs compatible avec un dysfonctionnement de la voie chordale postérieure de degré léger du côté droit et modéré du côté gauche.
+"PEAT : surdité neurosensorielle de type cochléaire de degré modéré, plus prononcée du côté gauche.
+
+Diagnostic
+Carcinome canalaire infiltrant du sein droit T2N1M0. Neuropathie sensorielle paranéoplasique avec anticorps antiphysine positifs.
+
+Traitement
+Après confirmation de la neuropathie paranéoplasique, un traitement aux corticostéroïdes et des immunoglobulines intraveineuses ont été mis en place, avec pour complication une tachycardie intranodale qui a contraint à suspendre définitivement ces médicaments. Elle a poursuivi le traitement aux stéroïdes et la rééducation, avec une amélioration lente mais progressive de l'instabilité.
+Parallèlement, un traitement par cyclophosphamide-doxorubicine-docétaxel a été indiqué, qu'elle a reçu entre mars et juin 14, avec une toxicité sous forme d'asthénie g2. L'IRM du sein de contrôle a montré une réponse partielle plus importante, de sorte que lors de la session multidisciplinaire, une mastectomie radicale droite modifiée a été proposée, ainsi qu'une lymphadénectomie. Le rapport anatomopathologique a montré un carcinome canalaire infiltrant résiduel de 0,25 cm, rétro-aréolaire, avec des métastases dans 4 des 13 ganglions lymphatiques isolés.
+Par la suite, elle a reçu du tamoxifène et une radiothérapie complémentaire (50 Gy à 2 Gy /fraction sur la paroi thoracique et les niveaux axillaires I, II et III).
+
+Évolution
+Actuellement, du point de vue neurologique, il y a eu une amélioration significative de la perte auditive et des troubles de la marche, avec la persistance d'une légère dysmétrie.

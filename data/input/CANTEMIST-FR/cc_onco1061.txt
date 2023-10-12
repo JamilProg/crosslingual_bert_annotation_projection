@@ -1,0 +1,36 @@
+Anamnèse
+Un homme de 44 ans, aux antécédents d'obésité morbide, chauffeur routier, qui s'est présenté aux urgences à plusieurs reprises pour un épisode de dorsalgie diffuse. Il se plaint depuis 4 mois d'une évolution progressive qui ne répond pas à l'analgésie de première intention. Elle signale une aggravation de son état général, ne supportant pas la position allongée.
+Pas d'asthénie, pas de perte d'appétit. Pas de fièvre thermométrique. Pas de nausées, pas de vomissements, pas d'autres symptômes intéressants.
+Lors de sa dernière visite au service des urgences, il a signalé une instabilité de la démarche associée à une douleur transfixiante interscapulaire.
+Une angiographie par scanner thoracique a été demandée, qui a révélé un anévrisme de l'aorte thoracique de 4 x 5,5 x 4,3 cm distal par rapport à la sortie de l'artère sous-clavière gauche, qui a été évalué par le service vasculaire, qui n'a trouvé aucun signe de complication.
+Elle est revenue aux urgences 7 jours plus tard avec une perte de force et une paresthésie dans les deux membres inférieurs, plus marquée à gauche, et un scanner du crâne a été réalisé, qui s'est avéré normal. En raison de la persistance des symptômes, la patiente a été admise dans le service de médecine interne pour étude, demandant une IRM dorso-lombaire.
+Lors de la ré-histoire, la patiente a signalé une rétraction du mamelon gauche depuis 2 ans, raison pour laquelle elle avait consulté son médecin généraliste à plusieurs reprises, et qui n'a pas été considérée comme pathologique étant donné son obésité, et des mesures hygiéno-diététiques ont été recommandées pour son contrôle.
+
+Examen physique
+Examen neurologique : PINLA, MOEC, pas d'altération des nerfs crâniens. Paresthésies au niveau de l'abdomen et des deux membres inférieurs. Niveau médullaire sensible au niveau épigastrique. Perte de force 4/5 au membre inférieur droit et 2/5 au membre inférieur gauche.
+Auscultation cardiaque : rythmée, pas de souffle.
+Auscultation respiratoire : hypophonie généralisée sans bruits pathologiques ajoutés.
+Abdomen : mou, globuleux, dépressible, pas de sémiologie ascitique, bruits hydro-aériques conservés, pas de signes d'irritation péritonéale.
+Rétraction marquée du mamelon gauche. Pas d'écoulement mamelonnaire. Pas de télorragie ni de signes inflammatoires. Palpation d'un nodule rétro-aréolaire, pierreux, d'environ 4 cm de diamètre.
+Aucun ganglion lymphatique d'importance pathologique n'est palpé dans aucune station lymphatique.
+
+Examens complémentaires
+- Angiographie par tomodensitométrie thoracique : les images ont été revues, montrant un nodule mammaire rétroaréolaire gauche de 4 cm de diamètre et une adénopathie axillaire gauche de 2,5 cm. Le nodule était visible plusieurs coupes en dessous de la limite caudale de l'anévrisme.
+- IRM dorsolombaire : fracture pathologique à D5, masse des tissus mous et invasion du canal rachidien et foyer avec perte de signal à D4-D8-D11 et corps du sternum compatible avec de multiples métastases osseuses.
+- Mammographie du sein gauche : nodule spiculé présentant des caractéristiques malignes. BIRADS 4.
+- Scintigraphie osseuse : les images obtenues montrent l'existence d'une hypercaptation osseuse en D4-D5, D8, manubrium et corps sternal, située dans des lésions déjà décrites et connues antérieurement, associées à des métastases osseuses et à un écrasement vertébral dans le cas de D4-D5. Il y a également un foyer de captation dans le 6e arc costal postérieur droit et dans le 2e arc costal postérieur gauche.
+- Biopsie mammaire : carcinome infiltrant dans le sein gauche avec des récepteurs RE+++, RP+++, HER2/neu négatifs. KI 67 30%.
+- NFS : numération et coagulation sans altérations significatives. En biochimie, la phosphatase alcaline était de 120 UI/l, sans altération des taux de transaminases.
+- Marqueurs tumoraux : normaux.
+
+Diagnostic
+Compression de la moelle épinière au niveau D5 due à une métastase du cancer du sein.
+
+Traitement
+Il reçoit une dose unique de radiothérapie (8 Gy) dans le segment vertébral de D3 à D7.
+La chimiothérapie est entamée selon le schéma AC (adriamycine, cyclophosphamide).
+
+Évolution
+La patiente reçoit 6 cycles d'AC tous les 15 jours. La tolérance initiale était bonne, bien que les symptômes neurologiques aient progressé jusqu'à la paraplégie complète.
+Le patient décide de ne pas poursuivre le traitement en l'absence d'amélioration des symptômes neurologiques.
+Un mois après l'arrêt du traitement, les proches du patient ont signalé le décès de ce dernier à son domicile.

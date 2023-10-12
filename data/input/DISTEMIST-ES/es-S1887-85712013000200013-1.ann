@@ -1,0 +1,6 @@
+T1	pathologie 63 75	desnutrición
+T2	pathologie 92 194	quemaduras de segundo grado en región anterior y posterior muslo derecho, flanco derecho y mesogastrio
+T3	pathologie 365 371	lesión
+#1	SNOMED T2	68140000+73948007
+#2	SNOMED T1	248325000
+#3	SNOMED T3	417163006

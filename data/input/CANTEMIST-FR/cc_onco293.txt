@@ -1,0 +1,66 @@
+Anamnèse
+Adressé par la chirurgie plastique pour évaluation.
+
+CONTEXTE
+
+Femme de 57 ans.
+Pas d'allergies médicamenteuses connues ni de facteurs de risque cardiovasculaire.
+Porteuse de la mutation BRCA -1.
+Suivi par le service digestif pour des douleurs abdominales chroniques et une alternance d'habitudes intestinales associées à des vomissements lors de l'ingestion. Plusieurs endoscopies sans résultat.
+Elle a reçu un traitement aux stéroïdes pendant environ 1 an il y a 15 ans.
+Aucune mention d'habitudes toxiques.
+
+Chirurgie :
+Hystérectomie totale à l'âge de 36 ans.
+Herniorraphie ombilicale il y a 11 ans.
+Cholécystectomie à l'âge de 40 ans.
+Chirurgie de l'ulcère gastrique à l'âge de 44 ans.
+Chirurgie mammaire conservatrice + lymphadénectomie axillaire gauche en 2005.
+Ovariectomie prophylactique en 2007.
+Mastectomie bilatérale prophylactique 4 ans plus tard avec reconstruction et prothèse bilatérale.
+
+Gynécologique
+Ménopause chirurgicale à 36 ans
+G4 A0 P4
+
+La famille
+La grand-mère paternelle est décédée d'un cancer du sein. Trois grandes tantes paternelles sont décédées d'un cancer du sein.
+Deux tantes paternelles ont été diagnostiquées avec un cancer du sein, l'une d'entre elles est décédée de la maladie. Une cousine paternelle est décédée d'un cancer du sein. L'oncle paternel est décédé d'un cancer du côlon. Un cousin paternel est décédé d'un cancer du côlon. Trois cousines paternelles opérées d'un cancer du sein.
+
+ANTÉCÉDENTS ONCOLOGIQUES
+Carcinome canalaire infiltrant triple négatif du sein gauche, opéré par quadrantectomie + lymphadénectomie gauche en 2005. Elle a reçu un traitement adjuvant QT selon le schéma TAC x 6, concomitamment à une radiothérapie externe, sans mentionner de toxicité notable, suivi par la clinique ambulatoire sans signe de maladie.
+Une mastectomie prophylactique bilatérale avec reconstruction prothétique a été réalisée en 2009.
+Une mastectomie prophylactique bilatérale avec reconstruction prothétique a été réalisée en 2009 et a continué à être examinée par la clinique externe de chirurgie plastique. En mars 2015, un sérome chronique récurrent a été observé, qui a été traité en septembre de la même année en retirant les deux implants, le gauche avec une rupture intracapsulaire complète et le droit avec un sérome très abondant et partiellement organisé. Une capsulectomie complète a été réalisée avec soulèvement du lambeau de muscle latissimus dorsi pour couvrir et protéger la peau du sein gauche précédemment irradié. De nouveaux implants anatomiques Polytech 375ml sont mis en place.
+La prothèse a été envoyée pour étude histopathologique où elle a été trouvée :
+Capsule périprothétique droite : résultats morphologiques et immunophénotypiques d'un syndrome lymphoprolifératif CD 30 (+), qui pourrait être classé comme un lymphome anaplasique à grandes cellules ALK (-), associé à l'implant mammaire.
+Capsule périprothétique gauche : avec des résultats morphologiques (réaction gigantocellulaire de type corps étranger), attribuables à une rupture antérieure.
+Lors de son évaluation oncologique initiale, elle a mentionné une asthénie de grade I comme étant ses principaux symptômes, sans mentionner de symptômes B.
+
+Examen physique
+ECOG : 0 Karnofsky : 100 Poids : 65,0 kg Taille : 1,58 mètre Surface corporelle (m2) : 1,66
+Pas de ganglions cervicaux, supraclaviculaires, axillaires ou inguinaux.
+Eupnéique respirant l'air ambiant.
+ACR : tons rythmiques sans souffle. MVC en ACP. Mastectomie bilatérale avec reconstruction prothétique bilatérale avec cicatrices en bon état. Pas de signes inflammatoires locaux.
+Abdomen : cicatrice de laparotomie en bon état. Souple et dépressible, non douloureux à la palpation profonde, sans masse ni mégalithes, avec un péristaltisme conservé. Membres inférieurs : pas d'œdème ni de signes de TVP.
+
+Tests complémentaires
+Compte tenu de la découverte cytologique d'un lymphome anaplasique à grandes cellules, une étude d'extension a été réalisée avec :
+PET TC (18/1/16) : Adénopathies parasternales gauches jusqu'à 9 mm avec légère augmentation métabolique avec SUVmax de 2,2 pour évaluer l'étiologie inflammatoire par rapport à la malignité. Pas de preuve évidente de maladie maligne macroscopique dans d'autres localisations pour le moment.
+Biopsie de la moelle osseuse (5/2/16) : Cytométrie - Immunophénotypage : Pas de cellules pathologiques détectées. Aucune cellule pathologique détectée. Echantillon de moelle osseuse avec une numération cellulaire de 16 000 cellules dans laquelle aucune cellule lymphoïde compatible avec un lymphome anaplasique n'est détectée.
+
+ÉCHO-CARDIOGRAPHIE (11/2/16) : Fonction systolique normale avec FEVG de 60 %.
+
+Analyse : LDH 166.
+
+Diagnostic
+Lymphome anaplasique ALK(-) du sein droit stade I - IPI 0.
+Carcinome canalaire infiltrant du sein, opéré, traité par QT / RT adjuvante, sans signe de maladie.
+Porteuse d'une prothèse mammaire bilatérale.
+
+Traitement
+Un traitement systémique est proposé avec le QT selon le schéma CHOP (Cyclophosphamide DT : 1245 mg, vincristine DT : 2 mg, Prednisone 120 mg par voie orale) associé à la doxurrubicine liposomale (DT 66 mg) compte tenu de l'historique de l'utilisation de la doxorubicine dans le traitement adjuvant de la maladie du sein en 2005.
+
+Évolution
+Elle a bénéficié de quatre cycles de chimiothérapie avec une tolérance adéquate au traitement, la toxicité notable étant des nausées et vomissements de grade 2 lors du deuxième cycle, qui ont été pris en charge en ambulatoire, sans nécessiter d'hospitalisation. La chimiothérapie s'est achevée le 26/04/2016.
+Un examen TEP-TDM de réévaluation a été réalisé (19/05/2016) : Sur les images du corps entier réalisées après administration iv de 370 MBq de 18F-FDG, le ganglion lymphatique parasternal gauche entre le 1er et le 2e arc de 0,7 cm avec SUVmax de 1,4 (SUVmax précédent de 2,2) attribuable à une lésion inflammatoire ou à une lésion pratiquement dévitalisée. Augmentation métabolique diffuse dans l'aile sacrée droite avec SUVmax de 2,6 non visible dans l'étude précédente, de signification pathologique douteuse. À évaluer dans le contexte clinique. Pas d'autres résultats intéressants dans le reste du corps étudié.
+Actuellement, elle poursuit ses examens à la clinique externe, cliniquement en bon état général avec un PS:0 lors de la dernière évaluation, sans mention de perte de poids ou de symptômes B. En raison des résultats du PET-CT dans l'aile sacrée droite, elle attend d'être examinée par le service de traumatologie pour tenter d'identifier la lésion.

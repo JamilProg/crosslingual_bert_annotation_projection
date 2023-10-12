@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 33 ans, sans antécédents familiaux ou personnels intéressants. Elle a été adressée par le service de dermatologie pour avoir présenté, au cours du troisième trimestre de sa première grossesse, un changement de couleur d'une lésion pigmentée au niveau interscapulaire, présente depuis des années, sans autre symptôme d'accompagnement.
+
+Examen physique
+Couleur normale, pas de résultats pathologiques à l'auscultation cardiorespiratoire ni d'anomalies à l'examen abdominal. Aucun ganglion lymphatique périphérique n'était palpable à aucun des niveaux examinés.
+Au niveau interscapulaire, il y avait une lésion de 5 cm de diamètre, de couleur noirâtre et aux bords irréguliers. Au toucher, la palpation de la lésion était rugueuse. Il n'y avait pas de zones ulcérées ou saignantes. Il y avait au total 16 lésions pigmentées sur le corps, toutes sans signe de malignité.
+
+Examens complémentaires
+- Excision de la lésion cutanée, étude anatomopathologique : mélanome malin type histologique d'extension superficielle, en phase de croissance verticale. Niveau III de Clark, épaisseur de 1,6 mm (indice de Breslow) sans signe d'ulcération (pT2A). Index mitotique de 3 mm par carré. Aucun signe de régression histologique, d'invasion vasculaire, d'invasion périneurale ou de satellites, avec un infiltrat inflammatoire non intense. Marges chirurgicales exemptes d'infiltration (marge minimale de 1,5 mm à partir de la phase de croissance radiale).
+- Biochimie avec marqueurs tumoraux : tous les paramètres sont normaux.
+- PET-CT : aucun signe de maladie à distance du néoplasme cutané diagnostiqué. Kystes rénaux simples. Pas d'autres résultats significatifs dans l'étude d'imagerie.
+- Agrandissement des marges et étude sélective du ganglion lymphatique sentinelle (BSGC) :
+- Marges élargies : absence de néoplasie.
+- Ganglion lymphatique sentinelle axillaire droit : négatif pour la maladie.
+- Ganglion lymphatique en transit : micrométastase de 0,3 mm dans la zone capsulaire.
+
+Diagnostic
+Mélanome malin du tronc pT2a N2 M0. Stade IIIB.
+
+Évolution
+Compte tenu du stade gestationnel de la patiente, le développement du fœtus et l'accouchement ont été attendus, et un petit garçon en bonne santé est né par accouchement euthycocque, présentant un nævus pigmenté sur le cuir chevelu mesurant 14 x 9 cm de diamètre. Cette lésion a été étudiée par le service de dermatologie pédiatrique et diagnostiquée comme un naevus jonctionnel sans signe de malignité.
+Lors des examens suivants, la lésion a diminué de taille jusqu'à disparaître.
+Le patient a été adressé à notre service et, avec un diagnostic de mélanome malin de stade IIIB, il a été décidé de commencer un traitement à l'interféron selon le schéma de Kirkwood avec des objectifs adjuvants.
+
+Traitement
+Le traitement a débuté par l'interféron-α-2b à la dose de 20 UM/m2 cinq fois par semaine pendant quatre semaines, avec l'intention de poursuivre avec l'interféron-α-2b à la dose de 10 UM/m2 par voie sous-cutanée trois fois par semaine pendant 48 semaines.
+Au cours de la troisième semaine de traitement intraveineux, le patient a consulté le service des urgences pour hyperactivité, insomnie, augmentation de l'énergie et humeur expansive avec verbosité, augmentation de la pression de la parole et tachypsychie, sans présenter de symptômes de type psychotique. Au service des urgences, la rispéridone 6 mg par jour et le chloracepate 10 mg, 1 comprimé toutes les 8 heures, ont été prescrits et la patiente a été adressée en urgence au service d'oncologie.
+Dans notre service, une tomodensitométrie crânienne a été demandée en urgence, ce qui a permis d'exclure des lésions métastatiques dans le cerveau qui pourraient justifier les symptômes, et une biochimie avec des hormones thyroïdiennes, de la vitamine B12 et de l'acide folique, qui se situaient dans les limites de la normale.
+Au vu de ces résultats, elle a été orientée vers le service de psychiatrie où elle a été réexaminée sur ses antécédents familiaux, précisant que deux de ses grands-parents avaient souffert de syndromes dépressifs majeurs et qu'une tante paternelle était traitée pour une schizophrénie paranoïaque. Le traitement prescrit au service des urgences a permis d'observer une amélioration globale, avec toutefois une verbosité persistante et un regain d'énergie, sans irritabilité ni troubles du sommeil, mais avec une augmentation de l'appétit et de la consommation de liquides.
+Le patient a été diagnostiqué avec un épisode maniaque sévère secondaire à un traitement à l'interféron-α-2b. Après quatre semaines de traitement intraveineux et en raison de la gravité des symptômes, il a été décidé d'interrompre le traitement adjuvant à l'interféron, tout en maintenant le patient sous contrôle mensuel.

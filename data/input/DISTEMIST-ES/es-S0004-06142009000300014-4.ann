@@ -1,0 +1,12 @@
+T1	pathologie 340 402	sarcoma de alto grado tipo fibrohistiocitoma maligno pleomorfo
+T2	pathologie 835 841	lesión
+T3	pathologie 932 979	recidiva tumoral a nivel del cordón espermático
+T4	pathologie 1041 1054	masa quística
+T5	pathologie 1308 1343	fibrohistiocitoma pleomorfo maligno
+T6	pathologie 1632 1655	recidiva intraabdominal
+#1	SNOMED T3	25173007
+#2	SNOMED T6	25173007
+#3	SNOMED T5	254749001
+#4	SNOMED T1	424413001
+#5	SNOMED T2	417163006
+#6	SNOMED T4	441457006

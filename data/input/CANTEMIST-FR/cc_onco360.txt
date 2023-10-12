@@ -1,0 +1,42 @@
+Anamnèse
+Femme de 51 ans, sans AMC. Pas d'habitudes toxiques.
+HISTOIRE PATHOLOGIQUE : Epilepsie traitée par Tegretol. Pas de crises depuis plus de 10 ans.
+HISTOIRE FAMILIALE : père atteint d'une néoplasie du côlon.
+Premier symptôme : le patient a consulté l'ORL en décembre 2010 en raison d'une sensation d'obstruction nasale, principalement à gauche, accompagnée de rhinorrhée, de larmoiement et d'une anosmie progressive ; il a commencé un traitement par corticostéroïdes, avec une amélioration symptomatique.
+En janvier 2011, il a consulté à nouveau pour l'autopalpation d'adénopathies indolores et progressivement élargies dans la région submandibulaire gauche.
+
+Examen physique
+"Constantes : HMD stable. ECOG 0.
+"Adénopathie latérocervicale bilatérale d'environ 5 cm et de consistance dure. Adénopathie sus-claviculaire gauche de 1 à 2 cm.
+"Rhinoscopie : la narine gauche présente une rhinorrhée abondante et une lésion violacée occupant la majeure partie de la narine.
+"Le reste de l'EF était normal.
+
+Tests complémentaires
+"NFS (03/03/11) : NFS normale ; LDH : 758, FA : 116, cholestérol : 286.3, ferritine : 172.9, reste du BQ normal ; IgM EBV : négative, IgG EBV : positive.
+"CT cervical (04/03/11) : Occupation du sinus sphénoïdal, des cellules ethmoïdales et du sinus maxillaire gauche, avec signes de destruction des cellules ethmoïdales et de la paroi médiane du sinus maxillaire s'étendant aux cornets. Adénopathies multiples aux niveaux rétro-auriculaire, sous-mental, de la chaîne jugulaire, sus-claviculaire, médiastinal, para-aortique et paratrachéal.
+"IRM de la base du crâne (16/03/2011) : Tumeur étendue dans la fosse nasale, envahissant les cellules ethmoïdales et le sinus frontal avec atteinte osseuse et destruction au niveau des parois des sinus maxillaires et des deux orbites avec suspicion d'envahissement de la partie antérieure de l'orbite gauche. Destruction osseuse de la fosse crânienne antérieure au niveau de la lamina cribrosa du côté gauche avec invasion tumorale intracrânienne montrant une petite image kystique intratumorale. Le parenchyme cérébral du lobe frontal gauche est déplacé, ce qui est compatible avec un œdème dû à l'effet de masse de la tumeur. Épaississement de la glande pituitaire avec atteinte hétérogène de la prise de contraste iv évoquant une métastase.
+"FNA adénopathie cervicale gauche (08/03/11) : image cytologique d'une tumeur peu différenciée compatible avec un esthésioneuroblastome de haut grade. Immunohistochimie : positive pour la vimentine, le CD56, la synaptophysine, le NSE et la chromogranine. Négatif pour la CK et le CD4.
+"Biopsie d'une tumeur de la narine (08/03/11) : Esthésioneuroblastome. Classification de Hyams de grade III/IV.
+
+Diagnostic
+La patiente s'est présentée au comité des tumeurs ORL (22/03/11) :
+Orientée comme une femme de 51 ans diagnostiquée avec un esthésioneuroblastome olfactif.
+"Selon TNM : cT4 (en raison de l'invasion cérébrale), N1 (adénopathies cervicales), M1 (atteinte probable de l'hypophyse). Stade IV.
+"Selon la classification de Kadish : stade C (invasion des structures adjacentes).
+
+Traitement
+Etant donné qu'il s'agit d'une patiente métastatique, il a été décidé de commencer le traitement par un QT palliatif selon le CDDP 80 mg/m2 (jour 1) et VP16 100mg/m2 (jours 1-3) tous les 21 jours.
+La patiente a commencé le QT le 18/04/11 pour un total de 6 cycles, qui se sont terminés le 10/08/11.
+
+Evolution
+Une IRM d'évaluation de la réponse est demandée :
+"IRM de la base du crâne (16/08/11) : Persistance d'une atteinte osseuse tumorale résiduelle dans la fosse crânienne antérieure au niveau de la lamina cribrosa, de la paroi postérieure des cellules ethmoïdales, du sinus sphénoïdal gauche. Réduction complète de la composante tumorale intracrânienne dans la cavité crânienne frontale gauche. Diminution discrète de l'épaississement de l'hypophyse.
+Compte tenu de la réponse radiologique, la patiente a été adressée au comité ORL des HUGTiP pour évaluation d'une chirurgie radicale ; une vidange cervicale radicale bilatérale modifiée a été réalisée le 21/10/11.
+La patiente, dans l'attente d'une chirurgie de la tumeur primaire (à réaliser ultérieurement), a présenté des symptômes de tassement nasal, et donc, compte tenu de la suspicion de récidive, un CT-PET scan a été demandé.
+"TAC-PET (28/11/11) : Récidive tumorale étendue au niveau de la fosse nasale, des cellules ethmoïdales (nette prédominance à droite), avec infiltration des structures adjacentes (orbite, sinus maxillaire droit, probablement paroi latérale droite du nasopharynx) et extension intracrânienne avec infiltration de la région basale du lobe frontal gauche. Lésions osseuses multiples dans la calotte crânienne, la colonne dorso-lombaire, l'omoplate gauche, la région latérale des 4e et 7e arcs costaux droits, l'os iliaque droit et gauche, le col du fémur bilatéral, l'ischion gauche et la branche pubienne droite, en rapport avec une atteinte métastatique multiple.
+Le patient a été présenté à nouveau au comité, qui a exclu la chirurgie de la tumeur primaire et a décidé, compte tenu de la progression clinique et radiologique actuelle moins de 3 mois après la fin de la QT, de procéder à une RDT locale avec une intention palliative.
+Après la RDT, en février 2012, il a présenté des signes cliniques d'instabilité céphalique et a subi un " scanner crânien (8 février 2012) " :
+" tomodensitométrie crânienne (08/02/12) : multiples cérébrales M1.
+Par conséquent, une RT holocrânienne palliative a été commencée le 21/02/12.
+Le 22/02/12, le patient a été admis pour des symptômes de compression cervicale (stridor laryngé, dysphonie et dyspnée) dus à la compression du conglomérat adénopathique.
+Compte tenu du stade avancé de la maladie et de la situation clinique actuelle, il a été décidé de commencer un traitement symptomatique et le patient est sorti de l'hôpital le 25/02/12.

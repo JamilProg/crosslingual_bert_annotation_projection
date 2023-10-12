@@ -1,0 +1,26 @@
+Anamnèse
+Patiente de 73 ans sans antécédents personnels intéressants, à l'exception d'une hypertension sous traitement. Elle a consulté son médecin traitant en novembre 2009 en raison de l'auto-palpation d'une lésion au sein droit présente depuis 6 mois. Elle a été orientée vers le gynécologue référent.
+
+Examen physique
+Sein droit (MD) : nodule palpable à limites mal définies mesurant 3 cm dans le quadrant inféro-interne (CII) ; pas de signes cutanés ni d'atteinte ganglionnaire locorégionale.
+
+Examens complémentaires
+"Mammographie (7/12/2009) : nodule BIRADS 5 CII MD avec calcifications à l'intérieur.
+"Echographie du sein droit et de l'aisselle (7/12/2009) : lésion solide de 33 mm de diamètre. Adénopathie axillaire avec cortex épaissi.
+"Biopsie à l'aiguille d'une lésion mammaire (BAG 7/12/2009) : IDC GIII (système de Nottingham).
+"Récepteurs hormonaux négatifs (0 %), c-ERB2 négatif et Ki67 40 %.
+"Biopsie des ganglions lymphatiques à l'aiguille fine (FNA 12/12/2009) : négatif pour la malignité. Compatible avec une lymphadénite réactive non spécifique.
+"IRM mammaire (1/1/2010) : foyer de 40 x 27 mm dans le CII MD.
+Une étude d'extension a été réalisée avec une échographie abdominale et une scintigraphie osseuse (5/1/2010) car la patiente a signalé des douleurs osseuses généralisées et une asthénie qui n'ont pas montré d'altérations.
+
+Diagnostic
+Carcinome du sein droit cT2 N0 M0 chez une patiente ménopausée de 73 ans.
+
+Traitement
+La patiente a été présentée au comité des tumeurs mammaires et, étant donné que le sein était petit et qu'une chirurgie conservatrice était difficile, une chimiothérapie néoadjuvante AC x 4 (doxorubicine 60 mg/m2 + cyclophosphamide 600 mg/m2/21 jours) suivie d'une CT x 4 (docétaxel 75 mg/m2+ carboplatine AUC 6/21 jours) a été décidée. Une biopsie du ganglion lymphatique sentinelle (négative) et un marquage de la lésion ont été effectués précédemment. L'échocardiographie de départ a révélé une légère hypertrophie ventriculaire gauche avec une FEVG de 70 %.
+
+Évolution
+Elle a commencé un traitement par AC le 22/01/2010. La patiente a consulté pour une diarrhée de grade 2 de 48 heures d'évolution et un bilan sanguin a été réalisé qui a montré un taux de neutrophiles de 400 (grade 4). Les autres examens sanguins étaient sans particularité, sans détérioration de la fonction rénale ni signe de déshydratation. Une culture de selles a été réalisée et une antibiothérapie à base de ciprofloxacine a été mise en place pendant 5 jours avec une amélioration clinique. Elle a terminé 4 cycles de CA avec une bonne tolérance et sans qu'il soit nécessaire de réduire la dose.
+Le 16 avril 2010, elle a commencé un scanner. Cependant, au jour +11, elle a contacté le centre avec une mucosite de grade 1 et des quintes de toux. Les tests de laboratoire ont montré 200 neutrophiles (monocytose 60%), pas de fièvre, hémodynamiquement stable et bonne tolérance orale. Un traitement à la ciprofloxacine a été instauré et le même schéma a été poursuivi avec une réduction de 20 % de la dose et l'administration de facteurs de stimulation des colonies (CSF). Elle a poursuivi les deux derniers cycles sans aucune incidence.
+Après la fin du traitement, l'IRM du sein a montré une réponse radiologique complète de la lésion. Le 30/8/2010, une tumorectomie a été pratiquée. Le rapport histologique définitif était GIII IDC avec une réponse de Miller-Payne de grade 2 et une marge libre : ypT2 (tumeur résiduelle de 2,1 cm). Elle a ensuite reçu une radiothérapie du sein de 50 Gy (2 Gy/fraction) du 2/11/2010 au 17/12/2010.
+Au moment de la rédaction de ce dossier, la patiente conserve un ECOG de 0 et continue de se soumettre à des contrôles mammographiques annuels, étant donné qu'elle serait éligible à une réopération en cas de récidive tumorale. En outre, le service de cardiologie effectue des échocardiogrammes semestriels en raison de l'apparition d'une insuffisance mitrale, actuellement légère, après la chimiothérapie.

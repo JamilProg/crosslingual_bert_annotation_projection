@@ -1,0 +1,12 @@
+T1	pathologie 144 170	agenesia de cuerpo calloso
+T2	pathologie 190 224	anomalías de la migración neuronal
+T3	pathologie 249 258	epilepsia
+T4	pathologie 532 586	lagunas coriorretinianas hipopigmentadas peripapilares
+T5	pathologie 818 858	malformaciones a nivel renal o vertebral
+T6	pathologie 978 1007	retardo psicomotor muy severo
+#1	SNOMED T1	5102002
+#2	SNOMED T2	253146009
+#3	SNOMED T3	84757009
+#4	SNOMED T4	302893000
+#5	SNOMED T5	90708001+410730009
+#6	SNOMED T6	110359009

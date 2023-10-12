@@ -1,0 +1,32 @@
+Anamnèse
+Un homme de 53 ans, sans antécédent intéressant, consulte en juin 2017 pour des épisodes de diarrhée aqueuse autour de 3-4 selles par jour accompagnés de sueurs, de vertiges et d'une perte de 5 kg au cours des deux derniers mois.
+
+Examen physique
+"A l'examen, il est en bon état général, eupnéique, bien perfusé.
+"Tension artérielle : 120/75 mm Hg, 87 bpm, saturation basale 98%, afébrile.
+"Pas de lymphadénopathie palpable latérocervicale, submandibulaire, supra ou infraclaviculaire, axillaire ou inguinale.
+"L'auscultation est rythmée, sans souffle. Le murmure vésiculaire est conservé sans bruit.
+"L'abdomen est dépressible, sans mégalithes ni masses.
+"Pas d'œdème ni de signe de TVP.
+
+Tests complémentaires
+"Il a été décidé d'admettre le patient avec les examens complémentaires suivants.
+"NFS avec fonction rénale, ions et profil hépatique dans les limites normales. Hémoglobine 14 g/Dl, leucocytes 6 190 et plaquettes 172 000. Chromogranine basale 159,5 ng/Ml (VN < 84,7 ng/ml), acide 5-hydroxyindolacétique dans les urines de 24 heures (5-HIAA) : 21 μmol/j (VN 0-14 μmol/j).
+" Tomodensitométrie thoraco-abdominale-pelvienne montrant des résultats évoquant une tumeur carcinoïde située dans les anses jéjunales (captation plus élevée en phase artérielle dans cette zone) ; métastases hépatiques réparties dans tous les segments ; la plus grande mesurant 26 mm et située dans le segment 4 du foie.
+"Traçage des récepteurs de la somatostatine : la dissémination métastatique hépatique et la lésion abdominale coïncidant en termes de localisation et de morphologie avec la tumeur jéjunale probable.
+"Endoscopie supérieure : œsophage et muqueuse de morphologie normale. Exploration jusqu'au duodénum distal sans lésions.
+"Biopsie du foie : métastase d'une TNE bien différenciée de grade 1 (OMS 2010). Ki-67 1-2 %. Les cellules sont positives pour les marqueurs neuroendocriniens tels que la chromogranine, la synaptophysine, le CD56.
+
+Diagnostic
+Tumeur neuroendocrine iléojéjunale bien différenciée de grade 1 (Ki-67 1-2 %) avec atteinte métastatique de tous les segments hépatiques.
+
+Traitement
+Le patient a débuté un traitement par lanreotide autogel 120 mg tous les 28 jours en juillet 2017 avec une nette amélioration du syndrome carcinoïde associé. La tumeur primaire a été opérée en novembre 2017 (résection de l'intestin grêle : p T3, N1, LV0, Pn1 R0). La résection hépatique n'a pas été possible en raison d'une atteinte tumorale étendue sans possibilité de laisser un reliquat hépatique suffisant.
+
+Évolution
+Après l'intervention chirurgicale, les taux sériques de chromogranine A et de 5-HIAA étaient dans les limites de la normale. Le patient a continué à prendre des analogues de la somatostatine depuis novembre 2017 et était complètement asymptomatique avec une excellente qualité de vie. Le patient continue les contrôles cliniques et radiologiques avec une tomodensitométrie tous les 6 mois.
+En février 2019, il a présenté à nouveau une asthénie et une diarrhée aqueuse d'environ 3 selles par jour juste la semaine précédant l'administration de l'analogue. Les marqueurs ont été répétés et n'ont montré aucune élévation.
+Un scanner thoraco-abdomino-pelvien a été réalisé, qui a montré une progression de la tumeur hépatique avec une croissance de toutes les métastases et un rehaussement plus important des métastases. Il n'y avait pas d'autres lésions viscérales ou adénopathiques.
+Un traitement bimensuel de l'analogue a été décidé et les symptômes ont de nouveau disparu. L'Octreoscan® a été réalisé à nouveau et s'est révélé positif pour les métastases hépatiques. Les marqueurs de chromogranine A et de 5-HIAA n'étaient à aucun moment élevés.
+Après avoir évalué le cas au sein du comité NER, il a été convenu de commencer un traitement avec des radionucléides (lutécium-177) 200 mCi en avril 2019 avec une continuité des analogues de la somatostatine (dosage mensuel) entre les doses de lutécium.
+Le patient a reçu à ce jour deux doses de 177-LU-dotétate avec une excellente tolérance, asymptomatique et sans effet indésirable documenté.

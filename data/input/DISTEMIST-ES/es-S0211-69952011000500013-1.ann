@@ -1,0 +1,30 @@
+T1	pathologie 56 127	insuficiencia renal crónica secundaria a nefropatía túbulo-intersticial
+T2	pathologie 97 127	nefropatía túbulo-intersticial
+T3	pathologie 306 327	rechazo humoral agudo
+T4	pathologie 353 385	rechazo humoral y vascular agudo
+T5	pathologie 668 681	hipercalcemia
+T6	pathologie 684 699	hiperfosfatemia
+T7	pathologie 728 738	HPTS grave
+T8	pathologie 974 1013	hipertrofia de la glándula paratiroidea
+T9	pathologie 1054 1073	hiperparatiroidismo
+T10	pathologie 1115 1159	CV en las arterias radiales e interdigitales
+T11	pathologie 1202 1228	CV lineales en ambas mamas
+T12	pathologie 1533 1548	hiperfosforemia
+T13	pathologie 2032 2044	hipocalcemia
+T14	pathologie 2419 2432	hipercalcemia
+T15	pathologie 2861 2903	calcificaciones de la arteria interdigital
+#1	SNOMED T7	91478007
+#2	SNOMED T1	60926001
+#3	SNOMED T15	237897009
+#4	SNOMED T13	5291005
+#5	SNOMED T2	28689008
+#6	SNOMED T5	66931009
+#7	SNOMED T14	66931009
+#8	SNOMED T6	20165001
+#9	SNOMED T8	9092004
+#10	SNOMED T12	20165001
+#11	SNOMED T9	66999008
+#12	SNOMED T10	237897009
+#13	SNOMED T11	396779001
+#14	SNOMED T3	213148006
+#15	SNOMED T4	213148006

@@ -1,0 +1,35 @@
+Anamnèse
+Femme de 56 ans sans allergie médicamenteuse connue. Antécédents personnels : hypoacousie depuis l'enfance, secondaire à une méningite et à un ulcère gastrique (H. Pylori positif).
+Appendicectomie. Sans traitement régulier et indépendante pour les activités de la vie quotidienne. Antécédents familiaux de cancer, son père est décédé à l'âge de 70 ans d'un adénocarcinome gastrique.
+Elle se présente aux urgences pour un œdème des membres inférieurs évoluant depuis 15 jours et s'aggravant progressivement jusqu'à atteindre la racine des membres. Elle était accompagnée d'une dyspnée à l'effort modérée, sans douleur thoracique. Elle ne présentait pas de syndrome constitutionnel ni de fièvre.
+
+Exploration physique
+"Conscient, orienté, coopératif. Eupnéique au repos.
+"Tête et cou : pas d'ingurgitation jugulaire. Carotides isopulsatiles.
+"Poitrine : rythme régulier. Murmure vésiculaire atténué dans les deux bases.
+"Sein gauche : grosseur dans le quadrant supéro-externe, rétraction du mamelon et suintement.
+"Grosseur dans le membre supérieur à partir de la racine du membre.
+"Abdomen : mou, dépressible. Non douloureux à la palpation. Présence de grondements.
+"Membres inférieurs : œdème organisé sans signe de thrombose veineuse profonde.
+
+Examens complémentaires
+Examens de laboratoire : pas d'altération, sauf : albumine 1,4 et protéinurie urinaire.
+Compte tenu de ces résultats et du tableau clinique de la patiente, elle a été admise dans le service de médecine interne, où les marqueurs tumoraux (Ca 15.3 : 89 et CEA 5.4) et les examens d'imagerie complémentaires suivants ont été demandés :
+"Radiographie du thorax : épanchement pleural bilatéral.
+"Tomodensitométrie thoraco-abdominale : multiples métastases pulmonaires et hépatiques. Métastases osseuses.
+"Mammographie et échographie mammaire : asymétrie de densité importante avec de multiples microcalcifications hétérogènes pléomorphes dans le quadrant supérieur externe du sein gauche avec épaississement et rétraction de la peau. Adénopathies axillaires gauche et droite avec extension extracapsulaire.
+Au vu de ces résultats, la décision a été prise :
+"Ponction-aspiration à l'aiguille fine adénopathie gauche/adénopathie droite : compatible avec un carcinome.
+"Biopsie à l'aiguille : carcinome canalaire infiltrant, grade II. Étude immunohistochimique :
+"Récepteurs d'œstrogènes négatifs, récepteurs de progestérone négatifs, MIB-1 de 30 %, HER-2 : +++.
+"Biopsie rénale : glomérulonéphrite membraneuse. Stade I. Optique des glomérules avec des changements minimes. Immunofluorescence : dépôts d'IgG et de C3. Anticorps C4d (intensément sensible dans les glomérulopathies membraneuses) positif au niveau des membranes capillaires glomérulaires avec dépôts granuleux. IgA, IgM, C1q, C4c, kappa et lambda négatifs.
+
+Diagnostic
+"Carcinome canalaire infiltrant E IV du sein avec atteinte des ganglions lymphatiques axillaires, du foie, des poumons et des os.
+"Glomérulonéphrite membraneuse paranéoplasique.
+
+Traitement
+Le patient commence un traitement par docétaxel + trastuzumab + pertuzumab aux doses habituelles tous les 21 jours.
+
+Evolution
+Elle a reçu quatre cycles avec une bonne tolérance et une amélioration radiologique et clinique (diminution de l'épanchement pleural à la radiographie du thorax et des œdèmes des membres inférieurs). Après 8 cycles, la patiente présente une réponse partielle dans l'évaluation radiologique (diminution du nombre et de la taille des lésions pulmonaires et hépatiques avec disparition de l'épanchement pleural) et une amélioration analytique (albumine à 3,1, sans protéinurie dans les urines). L'albumine s'est normalisée (3,6) ainsi que les marqueurs tumoraux au 12ème cycle et la patiente a été programmée pour une chirurgie de la tumeur primitive. Une mastectomie avec vide axillaire a été réalisée, avec une réponse histologique dans l'anatomie pathologique. Elle a poursuivi le traitement par double anti-HER-2 avec une réponse partielle maintenue pendant 6 mois et des marqueurs tumoraux normaux (CEA 2,5 et Ca 15,3 : 9,3). Lors de la dernière réévaluation, une diminution des nodules pulmonaires a été observée et aucune lésion hépatique n'a été identifiée, raison pour laquelle elle suit actuellement le même traitement.

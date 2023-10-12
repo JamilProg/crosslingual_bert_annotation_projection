@@ -1,0 +1,8 @@
+T1	pathologie 93 110	adenopatía axilar
+T2	pathologie 173 189	arañazos en mano
+T3	pathologie 421 431	adenopatía
+T4	pathologie 444 474	Enfermedad por Arañazo de Gato
+#1	SNOMED T1	127189005
+#2	SNOMED T2	283083003
+#3	SNOMED T3	30746006
+#4	SNOMED T4	79974007

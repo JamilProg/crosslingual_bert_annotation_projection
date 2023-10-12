@@ -1,0 +1,38 @@
+Anamnèse
+"Patient de 69 ans sans antécédents particuliers.
+" Envoyé dans notre centre après biopsie d'une lésion cutanée au talon droit avec le résultat d'un mélanome malin, avec 2 mitoses par champ.
+" Avril 2014 : extension des marges et biopsie sélective du ganglion lymphatique sentinelle positive, avec résultat anatomopathologique de MELANOMA LENTIGINEUX ACRAL, Clark IV, Breslow 4,5mm, 6 mitoses x mm2, sans perméation vasculaire ni atteinte périneurale, avec légère réaction inflammatoire péritumorale et bords chirurgicaux libres.
+"Lymphadénectomie inguinale droite avec ablation de 15 ganglions : absence de maladie.
+
+Examen physique
+Conscient et orienté. Couleur normale. Eupnéique. ECOG : 0. AC : rythmique, pas de souffle. AP : normoventilation bilatérale. Abdomen : souple, dépressible, pas de masse ni de mégalithes, péristaltisme présent.
+Cicatrice au talon droit sans maladie. Cicatrice à l'aine droite secondaire à une lymphadénectomie, indemne de maladie. Lymphoedème au DID.
+
+Examens complémentaires
+Tomodensitométrie le 27/02/14 : Pas de maladie.
+BRAF non muté.
+IRM crânienne du 22/10/2015 : pas de résultat significatif sur le plan pathologique.
+IRM crânienne 17/03/2016 : Dans la selle turcique et de façon bilatérale identifiée dans la série avec des nodules hypointense au gadolinium de 5 mm à droite et 4 à gauche, évocateurs de microadénomes. Légère atrophie hypophysaire. Le reste de l'étude n'a pas été modifié.
+
+Diagnostic
+Mélanome lentigineux acral sur le talon droit, pT4aN1a (sn) M0 Stade IIIA
+
+Traitement
+Le 2/06/14, il a commencé un traitement complémentaire par interféron à haute dose (schéma Kirkwood).
+Elle a poursuivi ce traitement jusqu'au 15/10/14, date à laquelle il a été suspendu en raison d'une toxicité oculaire, après la découverte d'exsudats cotonneux évoquant une Amaurosis fugax. Par la suite, elle a été suivie.
+
+Évolution
+Juillet 2015 : Elle est allée consulter avant le bilan prévu car elle présentait des lésions cutanées papulo-érythémateuses sur la jambe traitée qui évoluaient depuis 2 mois.
+Une biopsie a été réalisée et était compatible avec une métastase cutanée en transit.
+Une maladie à distance a été exclue par PET-CT.
+ECOG 0, LDH normale, BRAF V600E wt.
+Compte tenu de la maladie non résécable, un traitement par Ipilimumab 3 mg/kg/21 jours x 4 doses a été proposé et reçu du 21/08/15 au 27/11/15.
+Après le 3ème cycle d'Ipilimumab, elle a présenté des céphalées, des nausées et une faiblesse générale.
+Avec la suspicion d'une maladie métastatique du cerveau, elle a été admise et une corticothérapie à haute dose a été commencée avec Dexamethasone 4 mg/iv/8h.
+Les métastases cérébrales ont été exclues par tomodensitométrie et IRM crânienne et, après amélioration clinique, la corticothérapie a été progressivement réduite.
+Une semaine plus tard, le patient a été à nouveau admis pour une diarrhée de type G3, qui a évolué favorablement après une corticothérapie iv.
+Par la suite, le patient a également signalé une asthénie intense et une voix zozotante.
+Un bilan sanguin complet a été réalisé, comprenant le profil thyroïdien, le cortisol et l'ACTH, la prolactine et la testostérone, prouvant un panhypopituitarisme, et un diagnostic d'hypophysite en relation avec la toxicité de l'Ipilimumab a été posé.
+Un traitement substitutif a été mis en place avec de l'Hydroaltesone 20 mg/12h puis, une semaine plus tard, de la Levothyroxine 125 mg/24h.
+Elle reçoit actuellement du Nivolumab, l'asthénie a disparu et les taux de T4 et T3 ont commencé à s'améliorer.
+Les métastases en transit ont commencé à se résorber.

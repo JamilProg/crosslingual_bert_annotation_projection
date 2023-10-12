@@ -1,0 +1,16 @@
+T1	pathologie 21 42	alérgico a penicilina
+T2	pathologie 79 91	endocarditis
+T3	pathologie 260 308	glande, que deformaba meato, con áreas ulceradas
+T4	pathologie 343 397	adenopatías fijas y duras en ambas regiones inguinales
+T5	pathologie 477 512	adenopatías pulmonares e inguinales
+T6	pathologie 551 568	neoplasia de pene
+T7	pathologie 679 742	sarcoma pleomórfico de pene con diferenciación osteosarcomatosa
+T8	pathologie 1016 1041	insuficiencia renal aguda
+#1	SNOMED T1	91936005
+#2	SNOMED T2	56819008
+#3	SNOMED T3	33495006
+#4	SNOMED T4	127199000
+#5	SNOMED T5	127101005+127199000
+#6	SNOMED T6	126896003
+#7	SNOMED T7	424413001
+#8	SNOMED T8	723189000

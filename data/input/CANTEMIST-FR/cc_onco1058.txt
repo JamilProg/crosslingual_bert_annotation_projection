@@ -1,0 +1,31 @@
+Anamnèse
+Patient âgé de 47 ans, ex-fumeur depuis 15 ans de 10 paquets/an, et asthme allergique traité par salbutamol à la demande.
+Antécédents de lésion cutanée sur la région malléolaire interne du pied droit depuis 14 ans. Une biopsie excisionnelle a été réalisée à son hôpital de référence avec un fuseau cutané comprenant une lésion nodulaire blanchâtre de 1,2 cm. L'histologie montre des cellules bien délimitées, un aspect organoïde diffus, un cytoplasme clair et des noyaux vésiculaires avec un nucléole proéminent et une coloration basophile, avec la présence de mitoses et une marge clairement infiltrée. L'immunohistochimie (IHC) a révélé la présence de vimentine +, de S-100 + et de kératine -. Tous ces éléments étaient compatibles avec un sarcome à cellules claires (SCC).
+Le patient a été adressé à notre centre et réinterrogé par une excision large avec une ellipse cutanée de 3,5 x 5,3 cm et un lambeau radial libre, et une lymphadénectomie inguinale droite a été pratiquée. L'examen anatomopathologique a montré une lésion cicatricielle sans tumeur résiduelle et des marges libres. Lors de la lymphadénectomie, 0 ganglion lymphatique sur 8 a été touché. Le scanner thoraco-abdominal d'extension était négatif.
+Compte tenu de la taille inférieure à 5 cm et de l'intervention chirurgicale visant à élargir les marges libres, elle n'a pas été considérée comme candidate à un traitement adjuvant par QT/RDT.
+Elle a fait l'objet d'un suivi clinique en série avec des radiographies du thorax, sans aucun signe de récidive après 10 ans de suivi.
+La maladie actuelle a débuté en septembre 2013, lorsque la patiente a consulté le service des urgences de son hôpital pour une douleur pleurétique gauche et une dyspnée progressive de deux semaines, accompagnées d'un syndrome toxique.
+
+Examen physique
+Apathique et stable sur le plan hémodynamique. Tachypnée à 24 rpm, avec hypophonie basale gauche, tachycardie à 115 bpm.
+Pas de ganglions cervicaux, supraclaviculaires, axillaires ou inguinaux palpables. Examen des seins normal. Pas de lésions cutanées suspectes de malignité.
+
+Tests complémentaires
+- La radiographie thoracique montre un épanchement pleural gauche basal avec un épaississement pleural.
+- Le scanner thoracique montre de multiples nodules pleuraux gauches évoquant des métastases et un épanchement pleural ipsilatéral avec atélectasie du lobe inférieur, sans adénopathie hilaire ou médiastinale.
+- Une thoracentèse diagnostique et évacuatrice a été effectuée avec une cytologie positive pour les cellules malignes.
+- Par la suite, une thoracoscopie a été réalisée avec biopsie pleurale et thoracoscopie.
+- L'anatomopathologie (AP) a révélé un mélanome malin avec IHQ HMB 45 +, S-100 +, EMA +, Ki 67 30 %.
+Le patient a été adressé à notre centre pour prise en charge et traitement.
+
+Diagnostic
+Compte tenu des antécédents de sarcome à cellules claires 14 ans auparavant, et sachant qu'il s'agit d'une entité à prendre en compte dans le diagnostic différentiel histopathologique du mélanome malin, le DP de la biopsie pleurale a été revu, et des techniques d'étude moléculaire ont été demandées, en particulier une FISH de la translocation du gène EWSR1 (22q12), caractéristique du sarcome à cellules claires.
+Le PA a signalé des signes d'infiltration par une tumeur solide, constituée de cellules au cytoplasme clair, présentant des atypies cytologiques marquées et un indice mitotique élevé. Les cellules présentaient une positivité immunohistochimique pour HMB45 et S100. La translocation du gène EWSR1 (22q12) était positive, confirmant le diagnostic de sarcome à cellules claires et excluant le mélanome malin.
+En résumé, il s'agit d'une récidive de sarcome à cellules claires au niveau de la plèvre, 14 ans après l'opération de la tumeur primaire.
+
+Traitement
+Le traitement de première intention a été envisagé dans le cadre de l'essai clinique TH-CR 406-SARC 021 (phase III, évaluant le traitement de première intention des sarcomes des tissus mous par doxorubicine + TH-302 versus doxorubicine), et a été randomisé dans le bras contrôle (doxorubicine 75 mg/m2 tous les 21 jours).
+
+Évolution
+Après trois cycles de traitement, la patiente a présenté une progression clinique et radiologique, avec une dyspnée accrue et un mauvais contrôle de la douleur. Une lymphadénopathie sus-claviculaire bilatérale, des métastases osseuses et une progression des lésions pleurales existantes sont apparues à l'AC. Compte tenu de la détérioration clinique rapide, la patiente n'a pas pu bénéficier d'une deuxième ligne de traitement.
+Finalement, la patiente est décédée en mars 2013, 5 mois après le diagnostic de récidive.

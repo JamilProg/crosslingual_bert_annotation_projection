@@ -1,0 +1,69 @@
+Anamnèse
+Le patient est âgé de 52 ans et ses antécédents pathologiques comprennent : ancien alcoolisme sans consommation il y a 8 ans, dyslipidémie, asthme bronchique, hernie hiatale, trouble obsessionnel compulsif et ostéochondrose dégénérative (traitement habituel : Simvastatine, Omeprazole, Montelukast, Quetiapine, Prozac, Anafranil, Diazepam). Consultation au service des urgences pour une semaine de malaise général, céphalées traitées par Hemicraneal® et sautes d'humeur. Au cours des dernières 24 heures, elle est tombée à domicile avec une perte de conscience de quelques minutes et des mouvements cloniques dans les quatre membres. Examen physique : constantes : BP 146/78mmHg, HR 90bpm, Afebrile. État général normal, conscient et orienté, couleur normale et normohydraté. Examen cardio-respiratoire normal. Abdomen souple et dépressible, non douloureux. Pas de signes d'ascite. Examen neurologique : seulement bradypsychie. Le reste de l'examen est normal, sans focalité neurologique apparente.
+
+Examens complémentaires
+Des examens complémentaires ont été réalisés, dont les plus importants sont les suivants :
+- NFS d'urgence : Hémogramme : Hb 17,3g/dl, Ht 51,9%, Leucocytes 14,17x103/mm3, Neutrophiles segmentés 82,8%, Lymphocytes 7,3%. Coagulation normale. Biochimie : Créatinine 1.71mg/dl, Urée 70md/dl, Sodium 129mmol/l, Potassium 4.3mmol/l, CPK 137 U/l, LDH 904U/l, GPT 85U/l, PCR 25.5mg/l. Éthanol 4 mg/dl.
+- Toxicité urinaire : benzodiazépines et antidépresseurs tricycliques.
+- ECG : rythme sinusal à 80lpm, axe 30º, pas d'altération de la repolarisation.
+- Radiographie du thorax : indice cardiothoracique <0,5. Sinus costophréniques libres. Pas d'image de condensation pleuroparenchymateuse.
+- TDM crânienne : hypodensité focale dans la région subinsulaire gauche, à prédominance sous-corticale et de nature douteuse (origine ischémique ?). Pour être corrélée cliniquement, une IRM est proposée. Parenchyme cérébral sans autre altération. Pas de déplacement significatif par rapport à la ligne médiane. Système ventriculaire normal. Citernes basales libres. Fosse postérieure sans anomalies évaluables.
+Il a été décidé d'admettre le patient pour étude. Vingt-quatre heures après son admission, il a présenté une détérioration marquée de son état général et une désorientation. Une discrète rigidité nucale terminale a été observée à l'examen, le reste étant inchangé.
+De nouveaux examens complémentaires ont été réalisés, à noter :
+- Examens de laboratoire de contrôle : Hémogramme : Leucocytes : 22.41x103/mm3, neutrophiles segmentés 90%. Biochimie : Créatinine : 2.13mg/dl, Sodium 129mmol/l, GOT 94U/l, GPT 96U/l, GGT 223U/l, LDH 1113U/l, CRP 46.5mg/dl.
+- Sérologie de l'hépatite négative. Anticorps VIH 1,2 négatifs.
+- Sédiment urinaire négatif.
+- Ponction lombaire - Liquide céphalo-rachidien : normal. Aspect clair et transparent. Leucocytes 1mm3, globules rouges 16mm3, protéines totales 46,1mg/dl, glucose 69mg/l, ADA 2,21U/l.
+Quarante-huit heures après l'admission, le niveau de conscience du patient a diminué et c'est le premier jour depuis le début des symptômes qu'un pic de fièvre de 38,8ºC a été observé. Interrogée par ses proches, elle a présenté, en même temps que ses symptômes, des douleurs épigastriques intenses, qu'elle a traitées par Almax®, à raison de 4 comprimés par jour.
+Des hémocultures ont été réalisées et de nouveaux examens complémentaires de contrôle ont été effectués :
+- Examens sanguins urgents : Hémoglobine : hémoglobine 15,9g/dl, Ht 47,6%, leucocytes 27,85x103/mm3, neutrophiles segmentés 86%, neutrophiles en bande 6%. Coagulation normale. Biochimie : Créatinine 4,27mg/dl, Urée 185mg/dl, Glucose 75mg/dl, Ammonium 53μmol/l, acide lactique 41mg/dl, Sodium 135mmol/l, Potassium 4mmol/l, GOT 155U/l, GPT 104U/l, GGT 213U/l, Osmolarité 286mOsm/kg, CRP 243,3mg/dl.
+- Gaz du sang veineux : pH 7,36, pCO2 42mmHg, pO2 21mmHg, HCO3 23,6mmol/l, EB -1,8mmol/l.
+- Échographie abdominale : Scanner très artéfactuel en raison du manque de collaboration involontaire du patient. Image d'hépatopathie diffuse sans pouvoir exclure des lésions focales superposées. Le reste du patient ne présentait aucune altération échographique discernable. Au cours de la journée, le patient semble stuporeux, avec des signes de mauvaise perfusion périphérique et de détresse respiratoire, avec FR 35rpm et SatO2 89%, T. 38.8ºC. TA 75/50mmHg, FC 120lpm. Agité, apparence d'encéphalopathie hépatique. Le patient a été discuté avec l'unité de soins intensifs et il a été décidé de l'admettre dans leur service. Le patient a été intubé sans incident. La noradrénaline, le sérum physiologique et les décharges de gelafundin ont été mis en place, avec reprise de la PA. Une couverture antibiotique a été mise en place avec du Meropenem et du Linezolid. Le patient a été sédaté avec de la morphine et du propofol (la sédation a été retirée et il ne s'est pas réveillé) et est resté sédaté.
+- Les résultats des analyses sanguines de l'unité de soins intensifs sont les suivants : Troponine 1,73 ng/ml, CPK 927U/l.
+- ECG RS 100bpm, pas d'altération de la repolarisation.
+- CHOC SEPTIQUE D'ORIGINE INCONNUE
+- ÉPIGASTRALGIE INTENSE. ALTÉRATION BIOLOGIQUE HÉPATIQUE EN EXÉNOLIQUE.
+- DIMINUTION DU NIVEAU DE CONSCIENCE (2ème sepsis ?, carcinomatose méningée ?, syndrome malin des neuroleptiques ?).
+- INSUFFISANCE RÉNALE AIGUË, composante pré-rénale
+- INSUFFISANCE RESPIRATOIRE. Exacerbation secondaire de l'asthme bronchique.
+- IAM sous-endocardique
+
+Diagnostic différentiel
+D'après l'anamnèse, le patient n'avait pas consommé d'alcool depuis plus de huit ans et n'était traité qu'avec des médicaments psychotropes, qui ont été retirés pendant l'admission sans amélioration clinique, de sorte que cette cause a été exclue. A ce stade, un diagnostic différentiel peut être établi entre les causes neurologiques et systémiques, notamment les suivantes :
+1/ neurologique : accident vasculaire cérébral, tumeur cérébrale (primaire, métastase, carcinomatose méningée) ;
+2/ systémique : hyponatrémie, urémie, maladie hépatique, septicémie, infarctus aigu du myocarde...
+Voici un bref aperçu de notre diagnostic différentiel à ce jour :
+- Accident vasculaire cérébral (AVC) : compte tenu de la présentation clinique du patient (céphalées sévères, troubles de la conscience, rigidité nucale), il pourrait s'agir d'un événement hémorragique. Le scanner crânien permet de diagnostiquer 100 % de ces événements. Sur le scanner crânien réalisé, une hypodensité focale a été observée dans la région subinsulaire gauche, ce qui correspondrait à une possible ischémie dans le territoire de l'artère cérébrale moyenne ; syndrome sylvien superficiel qui ne correspond pas au tableau clinique de notre cas.
+- Carcinomatose méningée : complication grave des tumeurs solides, en particulier des adénocarcinomes du sein (12-34%), du poumon (10-26%), des mélanomes (17-25%), des cancers gastro-intestinaux (4-16%) et autres. Il se présente à un stade avancé et a un mauvais pronostic avec une survie médiane non traitée de 4 à 6 semaines. Le diagnostic est établi à l'aide d'examens d'imagerie et d'une cytologie du LCR qui, si elle est positive, confirme le diagnostic. Dans notre cas, l'extension cytologique n'a pas mis en évidence de cellules malignes.
+- Hyponatrémie légère : En général, il n'y a pas de symptômes jusqu'à ce que la concentration de sodium sérique soit inférieure à 120-125 mmol/l. A 48h de l'admission ; Na+ 135mmol/l
+- Encéphalopathie hépatique : Hépatopathie indispensable et facteurs déclenchants tels que insuffisance rénale, infection possible, constipation, sédatifs (BZD) présents chez notre patient. Devant cette suspicion, un traitement par lactulose a été débuté sans amélioration clinique.
+- Choc cardiogénique ou choc septique : Patient présentant un IAM sous-endocardique et suspecté de sepsis sévère d'origine inconnue (avec une température axillaire de 39º, une CRP de 243...).
+- Par la suite, lors de l'admission à l'USI, une analyse de contrôle a montré une hypercalcémie avec une valeur de calcium total de 4,17 mmol/l correspondant à un calcium corrigé de 4,75 mmol/l (16,71 mg/dl) ; valeurs normales : 8,5 - 10,5 mg/dl.
+- Hypercalcémie
+
+Pour compléter le diagnostic différentiel de l'hypercalcémie, il est essentiel d'éliminer l'hyperthyroïdie, l'hyperparathyroïdie, la sarcoïdose, le syndrome paranéoplasique, les médicaments, etc. Dans l'attente des résultats, l'épouse a mentionné des antécédents familiaux (mère) de maladie de Paget et une radiographie du thorax ainsi qu'un scanner crânien ont été réalisés, mais aucune lésion lytique n'a été trouvée. Un traitement aux bisphosphonates a été instauré, à la suite duquel, 48 heures après le début du traitement, on a obtenu un taux de calcium corrigé de 14,1 mg/dl. Une broncho-aspiration avec bronchopneumonie secondaire a été notée, qui, malgré une couverture antibiotique par Meropenem et Linezolid, a persisté avec de la fièvre. Les résultats du lavage broncho-alvéolaire ont révélé la présence de Candida albicans, de sorte que l'antibiothérapie a été prolongée avec du Fluconazole. Résultats des examens complémentaires pour l'hypercalcémie :
+- Analyses sanguines : Créatinine 4,29mg/dl, en baisse. CRP 142, procalcitonine 18. Facteur rhumatoïde 13, ACE normal. PTH 76,7 (14-72). Calcitonine normale. Protéinogramme normal. TSH 0,07, T4 8,3 " Hypothyroïdie (mise en route d'un traitement par lévothyroxine), lorsque l'une des causes de l'hypercalcémie est l'hyperthyroïdie.
+- Marqueurs tumoraux : α-fœtoprotéine <1,3, CEA 73,16 (0-5), PSA 0,66, CA 19,9 43,45 (0-37), CA 15,3 32,10, β-HCG normale, énolase neuro-spécifique 41,6 (0-18).
+- Tomodensitométrie crânienne de contrôle : lésion ischémique inchangée par rapport à l'admission.
+- TDM cervico-thoraco-abdominale : pneumothorax droit important avec déplacement controlatéral modéré des structures médiastinales. Signes significatifs d'emphysème centrolobulaire bilatéral. Atelectasie-condensation dans le lobe supérieur droit. Épanchement pleural bilatéral modéré. Atteinte importante de la région duodéno-pancréatique (à prédominance céphalique), qui présente une augmentation de taille, avec apparition d'une pseudo-masse (68x74x73mm) associée à une augmentation de la densité de la graisse environnante, aux contours mal définis, qui, du point de vue radiologique, pourrait être liée à un processus inflammatoire local, sans pouvoir exclure une origine néoformative (étude sans contraste et artefacts multiples). Image nodulaire de 52x37x48mm d'aspect solide, en relation étroite avec la corticale du tiers moyen rénal gauche (kyste hémorragique ?, néoformation ?).
+Compte tenu de ces résultats à l'examen d'imagerie et de l'élévation marquée des marqueurs tumoraux CA 19.9, CEA et énolase neurospécifique, cela suggère la possibilité d'un patient atteint d'un cancer du pancréas, sans pouvoir exclure un processus secondaire à une pancréatite aiguë compliquée (bien que l'amylase et la lipase soient normales).
+Notre objectif à ce stade était d'améliorer la fonction rénale afin de pouvoir réaliser un scanner abdominal avec contraste et, en fonction des résultats, d'évaluer la biopsie rénale et/ou la ponction de la masse duodéno-pancréatique par échographie endoscopique. Cependant, lors de son admission à l'unité de soins intensifs, le patient a continué à souffrir d'une insuffisance rénale aiguë sans changement significatif de ses valeurs de créatinine.
+Il est resté sous sédation et analgésie sans ouverture oculaire, sans fièvre fébrile et sans leucocytose persistante au huitième jour de l'antibiothérapie. En même temps qu'un nouveau pic fébrile avec une température axillaire de 39ºC, il a présenté une instabilité hémodynamique nécessitant des médicaments vasoactifs et un changement de couverture antibiotique avec du Piper-Tazobactam et de la Ciprofloxacine. Malgré cela, la situation s'est progressivement détériorée avec des épisodes récurrents d'instabilité hémodynamique accompagnés d'un bronchospasme qui s'est progressivement résorbé. Finalement, le 10e jour de son admission, il a présenté un état respiratoire instable, qui s'est d'abord rétabli avec une augmentation de la FiO2, mais après quelques heures, il a répété une désaturation suivie d'une bradycardie extrême. Des manœuvres de réanimation cardio-pulmonaire ont été entreprises sans succès et le patient est décédé. Une autorisation de nécropsie a été demandée aux proches, qui l'ont acceptée. A ce stade, nous avons :
+Patient âgé de 52 ans ;
+- Choc septique d'origine inconnue
+- PANCRÉATITE AIGUË ?
+- Hypercalcémie
+- NÉOPLASIE PANCRÉATIQUE ?
+- Insuffisance rénale aiguë probablement secondaire à l'hypercalcémie.
+- Lésion sous-insulaire gauche
+- Pneumonie lsd 2a à la bronchoaspiration
+- pneumothorax iatrogène
+- Maladie chronique du foie
+- Hypothyroïdie
+- IAM sous-endocardique
+Rapport anatomo-pathologique (autopsie)
+- Carcinome épidermoïde peu différencié du lobe supérieur du poumon droit avec invasion angliolymphatique étendue, invasion des ganglions lymphatiques médiastinaux et métastases hépatiques étendues (80 % du parenchyme hépatique).
+- Calcification métastatique dans les poumons, les reins (néphrocalcinose), le pancréas, le myocarde et les vaisseaux sanguins.
+- emphysème pulmonaire lobaire central
+- Emphysème sous-pleural
+- Kyste simple du rein gauche

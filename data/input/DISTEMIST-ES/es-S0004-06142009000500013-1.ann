@@ -1,0 +1,22 @@
+T1	pathologie 39 48	diabética
+T2	pathologie 65 70	obesa
+T3	pathologie 92 112	litiasis coraliforme
+T4	pathologie 206 218	micosis oral
+T5	pathologie 305 335	hiperglucemia con cetoacidosis
+T6	pathologie 866 901	contaminación de cavidad peritoneal
+T7	pathologie 998 1004	sepsis
+T8	pathologie 1125 1154	sepsis de origen respiratorio
+T9	pathologie 1204 1210	herida
+T10	pathologie 1268 1296	disfunción orgánica múltiple
+T11	pathologie 1301 1320	neumonía nosocomial
+#1	SNOMED T2	414915002
+#2	SNOMED T4	3218000
+#3	SNOMED T5	420422005
+#4	SNOMED T6	129129003
+#5	SNOMED T7	91302008
+#6	SNOMED T8	91302008
+#7	SNOMED T10	57653000
+#8	SNOMED T11	425464007
+#9	SNOMED T3	197794008
+#10	SNOMED T1	73211009
+#11	SNOMED T9	416462003

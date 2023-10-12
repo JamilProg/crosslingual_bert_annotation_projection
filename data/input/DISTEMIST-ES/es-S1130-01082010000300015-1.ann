@@ -1,0 +1,16 @@
+T1	pathologie 45 85	diabetes mellitus no insulinodependiente
+T2	pathologie 87 108	hipertensión arterial
+T3	pathologie 110 120	dislipemia
+T4	pathologie 123 152	fibrilación auricular crónica
+T5	pathologie 865 885	uropatía obstructiva
+T6	pathologie 889 911	afectación metastásica
+T7	pathologie 1060 1081	edema agudo de pulmón
+T8	pathologie 1314 1331	liposarcoma mixto
+#1	SNOMED T1	44054006
+#2	SNOMED T2	38341003
+#3	SNOMED T3	370992007
+#4	SNOMED T4	426749004
+#5	SNOMED T5	7163005
+#6	SNOMED T7	40541001
+#7	SNOMED T8	254829001
+#8	SNOMED T6	14799000

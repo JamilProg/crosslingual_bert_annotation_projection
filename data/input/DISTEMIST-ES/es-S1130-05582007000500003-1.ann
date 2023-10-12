@@ -1,0 +1,10 @@
+T1	pathologie 353 466	lesión osteolítica bien delimitada de unos 2,5 cm de diámetro localizada a nivel de la rama ascendente mandibular
+T2	pathologie 512 518	lesión
+T3	pathologie 578 614	lesión metastásica de adenocarcinoma
+T4	pathologie 974 996	adenopatías regionales
+T5	pathologie 1182 1214	origen gástrico de la metástasis
+#1	SNOMED T1	94403001
+#2	SNOMED T3	4590003
+#3	SNOMED T4	30746006
+#4	SNOMED T5	94606003
+#5	SNOMED T2	417163006

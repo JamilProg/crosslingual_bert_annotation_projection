@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 44 ans, buveur d'un litre de bière par jour, hypertendu, avec des antécédents de stéatose hépatique, d'orchidectomie gauche en 1997 en raison d'une tumeur bénigne et de suivi en neurologie pour un cavernome.
+En octobre 2014, il a été opéré dans un centre privé d'un naevus du ramus mandibulaire ascendant droit évoluant depuis des mois, avec saignement au rasage, qui a nécessité un agrandissement des marges ultérieurement.
+
+Examen physique
+Bon état général. ECOG 0. Hémodynamiquement stable. PCA : sons rythmiques sans murmures ni frottements. Murmure vésiculaire conservé dans les deux champs pulmonaires. Cicatrice consolidée non compliquée sans signe de rechute locale. Pas d'adénopathie rétro-auriculaire ou cervicale ipsilatérale.
+
+Tests complémentaires
+L'étude anatomopathologique a conclu à des résultats morphologiques et immunohistochimiques compatibles avec un mélanome de Clark III. Breslow 1,3 mm, bords en contact. Tumeur de mélanocytes épithélioïdes avec pléomorphisme et indice mitotique de 2 mitoses/2 mm2. Marqueurs Melan A et HMB 45 positifs. Amplification des marges avec pour résultat l'absence de néoplasie résiduelle.
+En décembre 2014, un scanner du thorax et de l'abdomen a été réalisé, ne montrant aucun signe de maladie néoplasique. Un mois plus tard, elle a été adressée au service de chirurgie plastique pour un traitement complémentaire du ganglion sentinelle, qui n'a pas été concluant.
+
+Diagnostic
+Mélanome de stade I.
+
+Traitement
+Comme il s'agit d'un mélanome de stade I, un traitement oncologique adjuvant est exclu et le patient continue d'être suivi par le service de dermatologie.
+
+Évolution
+En avril 2016, alors que la patiente était asymptomatique, un scanner thoracique a été réalisé, suggérant des métastases pulmonaires. La dermatologie a complété l'étude d'extension par une TEP-TDM, qui a montré une captation pathologique médiastinale, subcarinale et hilaire gauche, ainsi que des nodules pulmonaires modérés, bien qu'évocateurs de malignité.
+Après consultation de notre unité, il a été décidé de réaliser une biopsie transbronchique pour confirmer la suspicion radiologique et obtenir du tissu pour déterminer la mutation du gène BRAF, afin de pouvoir planifier un traitement de première ligne individualisé.
+Suite à cet examen, nous avons confirmé que nous avions affaire à un mélanome métastatique de stade IV avec atteinte pulmonaire et adénopathique, BRAF négatif et avec un statut de performance de 0. Avec ces données, nous avons demandé le pembrolizumab à la dose de 2 mg/m2 q 21j en première ligne et avons débuté le premier cycle en septembre 2016.
+Après 3 cycles et 9 semaines de traitement, nous avons réalisé un scanner thoraco-abdominal de réévaluation qui a montré une réponse adénopathique complète et une réponse pulmonaire partielle avec une réduction de plus de 50 % de la maladie parenchymateuse initiale.
+À ce jour, il a terminé 13 cycles et maintient la réponse favorable observée après le troisième cycle. La tolérance a été excellente ; comme seule incidence, il a présenté un syndrome catarrhal afébrile avec une toux sèche associée et a maintenu un statut de performance 0 à tout moment.

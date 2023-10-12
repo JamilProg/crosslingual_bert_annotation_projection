@@ -1,0 +1,16 @@
+T1	pathologie 64 74	exfumadora
+T2	pathologie 140 154	Cáncer de Mama
+T3	pathologie 230 250	adenopatías axilares
+T4	pathologie 333 401	carcinoma ductal infiltrante de mama izquierda con afectación axilar
+T5	pathologie 794 822	carcinoma ductal infiltrante
+T6	pathologie 1089 1128	metástasis en 1/ 19 ganglios linfáticos
+T7	pathologie 1170 1185	leve hemorragia
+T8	pathologie 1378 1395	linforrea quilosa
+#1	SNOMED T7	50960005
+#2	SNOMED T5	408643008
+#3	SNOMED T1	8517006
+#4	SNOMED T3	127189005
+#5	SNOMED T8	79709007
+#6	SNOMED T4	408643008+94181007
+#7	SNOMED T6	94392001
+#8	SNOMED T2	254837009

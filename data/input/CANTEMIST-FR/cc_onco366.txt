@@ -1,0 +1,39 @@
+Anamnèse
+Femme de 50 ans, sans allergie médicamenteuse connue, ex-fumeuse de 20 cigarettes par jour et sans antécédents médicaux intéressants, qui nous a consultés en avril 2010 pour des épisodes de déséquilibre et des altérations de la sensibilité des mains et des pieds.
+
+EXAMEN PHYSIQUE
+TA 130/80 mmHg, fc 85 bpm, Sat O2 96 % basal, afébrile.
+Pas de ganglions lymphatiques périphériques palpables.
+Auscultation cardiaque rythmée, pas de souffle.
+Auscultation pulmonaire : bruits respiratoires conservés.
+Abdomen souple, pas de masse palpable ni de viscéro-mégalie.
+Pas d'œdème des membres inférieurs ni de signe de TVP.
+Examen neurologique : parésie 4/5 à prédominance distale dans les quatre extrémités, plus évidente dans la main droite (faiblesse de la pince, de l'abduction-adduction et de la flexion-extension). Aréflexie généralisée.
+Démarche instable avec augmentation de la base d'appui et difficulté à marcher sur la pointe des pieds/la roue et à se tourner.
+
+DES TESTS COMPLÉMENTAIRES :
+Elle a été admise en neurologie pour des examens.
+Une étude du liquide céphalo-rachidien a été réalisée avec sérologie et cytologie, qui se sont révélées négatives.
+L'IRM cérébrale était normale et l'IRM médullaire décrivait une polyradiculopathie inflammatoire.
+Les potentiels évoqués somatosensoriels étaient compatibles avec une atteinte des voies somatosensorielles, principalement dans les membres inférieurs.
+Les anticorps anti-HU étaient positifs.
+Compte tenu de la suspicion de syndrome paranéoplasique, une radiographie du thorax a été demandée, montrant un élargissement médiastinal. Le scanner thoracique a montré des adénopathies médiastinales, paratrachéales et hilaires droites qui ont été confirmées comme pathologiques par la TEP, avec une captation dans le foyer hilaire gauche. Une biopsie de l'adénopathie médiastinale a été réalisée par vidéothoracoscopie et s'est révélée positive pour un carcinome pulmonaire non à petites cellules. L'étude d'extension s'est révélée négative.
+
+DIAGNOSTIC :
+- MALADIE MICROCYTIQUE DU CARCINome LUNG LIMITÉE AU THORAX (cTxN3M0,
+STADE IIIB).
+- POLYNEUROPATHIE SENSORIELLE ANTI-HU ET SYNDROME D'EATON LAMBERT.
+PARANÉOPLASIQUE.
+
+Traitement
+Un traitement radical avec chimiothérapie/radiothérapie concomitante est proposé (schéma de Turrisi modifié : cisplatine-étoposide x 4 cycles concomitants à partir du 2ème cycle avec TEN hyperfractionné 45 Gy à 1,5 Gy/fraction, 2 fois par jour, se terminant le 11/08/2010).
+Lors des contrôles post-traitement, une réponse radiologique complète a été observée.
+À la fin du traitement, elle a de nouveau signalé une ataxie et une incapacité à saisir facilement les objets, ce qui l'a empêchée de mener à bien les activités quotidiennes de base. Un traitement par immunoglobulines intraveineuses a été instauré pendant un an, avec une amélioration.
+
+ÉVOLUTION :
+En juillet 2012 (23 mois après la fin du traitement), elle a consulté pour une diplopie et une dysphonie. Des examens lui ont été prescrits et l'imagerie a permis d'exclure une rechute. Après avoir repris un traitement à base d'immunoglobulines, de corticoïdes et d'inhibiteurs de l'acétylcholinestérase, une amélioration clinique a été observée.
+En décembre 2012, le patient a signalé une aggravation clinique, avec une dysphagie intense, un étouffement fréquent et une dysphonie, et un scanner le 19/12/12/12 a montré l'apparition d'une lésion spiculée dans le hile droit (intervalle sans progression (ISP) de 23 mois). Un retraitement avec Carboplatine et VP-16 a été décidé (6 cycles, avec réduction de dose et soutien avec G-CSF en raison de la toxicité hématologique), qui s'est terminé le 09/04/2013 avec une bonne réponse dans le CT scan de contrôle, pour lequel il a été référé pour évaluer la ré-irradiation thoracique pour la consolidation, ce que le patient a refusé.
+En janvier 2014 (ILP 9m), elle a présenté une nouvelle récidive locale. Après 3 cycles de carboplatine/étoposide, une réponse a été obtenue. La possibilité d'une ré-irradiation lui a été à nouveau proposée, ce qu'elle a accepté. Elle a reçu 45 Gy de RT externe, qui s'est terminée le 2/8/14.
+Par la suite, il a commencé des examens de contrôle, avec une nouvelle récidive, confirmée par biopsie dans le lobe supérieur droit le 27/05/15 (ILP 13 m). Etant donné la longue durée de l'ILP et la bonne réponse obtenue précédemment, il a été décidé de retraiter avec du carboplatine-etoposide ("4ème retraitement") avec la nécessité de réduire la dose dans le 2ème cycle en raison des nausées et de l'asthénie. Après 3 cycles, il a présenté une réponse partielle.
+Par la suite, il a été admis pour un épanchement péricardique grave. Une péricardiocentèse a été effectuée avec drainage du liquide péricardique (200 cc) qui a été envoyé pour étude, avec une cytologie négative pour la malignité. Elle a terminé 6 cycles de QT en octobre 2015 et a commencé le suivi. Un scanner en janvier 2016 a montré une progression médiastinale et un épanchement pleural ipsilatéral.
+Un traitement symptomatique a été décidé et la patiente est finalement sortie en février 2016.

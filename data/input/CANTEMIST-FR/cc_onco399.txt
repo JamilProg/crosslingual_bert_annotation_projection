@@ -1,0 +1,51 @@
+Anamnèse
+Il s'agit d'un homme de 66 ans, fumeur actif à 1 paquet-année depuis 50 ans, aux antécédents d'hypertension artérielle et de cardiomyopathie dilatée diagnostiquée en 2011 avec fraction d'éjection préservée et suivie en cardiologie.
+Le patient a consulté en octobre 2017 pour une douleur sous-costale continue en coup de poignard dans la région sous-costale gauche. Une radiographie thoracique a été réalisée montrant une opacité nodulaire dans le lobe supérieur droit et un diagnostic rapide de cancer du poumon a été activé et une tomodensitométrie thoracique, une biopsie pulmonaire guidée par tomodensitométrie et une tomographie par émission de positons (TEP-TDM) ultérieure ont été réalisées : néoplasme pulmonaire primaire probable, statification proposée T2a N1 M1b (métastase surrénalienne gauche unique).
+
+Pathologie : adénocarcinome d'origine pulmonaire, ligand de mort programmée 1 (PDL1) positif, avec une expression supérieure à 50%. EGFR (epidermal growth factor receptor), ALK (anaplastic lymphoma kinase) non transloqués, ROS-1 (proto-oncogene tyrosine kinase 1) négatifs.
+La question a été discutée au sein du comité des tumeurs thoraciques et il a été décidé d'adresser le patient à la chirurgie thoracique où une médiastinoscopie serait effectuée et, si un N2 était exclu, une résection pulmonaire et une lymphadénectomie seraient pratiquées. Par la suite, le traitement de la métastase surrénalienne sera évalué car elle a été interprétée comme une maladie oligométastatique.
+Une lobectomie supérieure droite a été réalisée en février 2018.
+Un mois après sa sortie de chirurgie thoracique, le patient a consulté à nouveau en raison d'une détérioration de l'état général avec perte de poids et asthénie importante, plus prononcée depuis 2 semaines. L'admission a été décidée et un scanner a été réalisé pour évaluer le patient, rapportant une croissance significative de la masse surrénalienne (précédemment 51 x 27 mm, actuellement 54 x 36 mm) avec une infiltration des structures adjacentes et l'apparition de 3 adénopathies significatives dans le hile rénal.
+Compte tenu de la progression rapide de la maladie et de l'apparition de nouvelles lésions, il a été décidé de commencer un traitement systémique.
+Le patient étant PDL1 positif à 50%, une immunothérapie de première ligne par pembrolizumab a été décidée.
+Amélioration progressive, notamment de la douleur sous-costale gauche, ne nécessitant pas d'analgésie après 3 cycles de pembrolizumab. Un scanner de contrôle a été demandé, au cours duquel de multiples petits nodules pulmonaires bilatéraux et diffus ont été visualisés, suspectés d'être d'origine métastatique. Compte tenu du bénéfice clinique et du fait que la patiente ne présentait aucun signe clinique secondaire à la progression, il a été décidé d'interpréter cela comme une pseudoprogression (selon les critères RESIST 1.1) et le traitement a été poursuivi avec une tomodensitométrie d'évaluation précoce.
+Après le quatrième cycle de pembrolizumab, le patient est revenu aux urgences pour une orthopnée et des épisodes intermittents de dyspnée.
+
+Examen physique
+"Bon état général, eupnéique au repos. État de performance 1.
+"Normotendu. SatO2 : 97 % (basal).
+"Auscultation cardiaque : rythmique sans souffle.
+"Auscultation pulmonaire : hypophonie à la base droite sans bruits pathologiques surajoutés.
+
+Examens complémentaires
+" Scanner thoracique et abdominopelvien avec contraste intraveineux (02/05/2019).
+" Étude comparative avec scanner de référence de mars 2018 et étude du nadir, correspondant au 29/01/2019.
+Lésions cibles
+"Métastase surrénalienne gauche dont la taille a diminué, actuellement 20,5 mm au nadir 21 mm et au scanner basal 54 mm.
+" Adénopathie médiastinale prévasculaire droite de 7 mm à NADIR 8 mm et à l'étude basale 13 mm.
+
+Nouvelles lésions métastatiques
+"Non identifiées.
+Lésions non ciblées
+"Persistance, sans changement, d'un nodule pulmonaire dans le lobe inférieur droit adjacent au ligament pulmonaire inférieur chez un patient ayant subi une lobectomie supérieure droite. Aucun autre nodule pulmonaire n'a été visualisé.
+Notes complémentaires
+"Lobectomie supérieure droite.
+"Adénopathie lobaire inférieure droite inchangée.
+"Syndrome de Leriche avec occlusion complète de l'aorte abdominale infrarénale et des artères iliaques communes.
+"Diverticulose du côlon.
+"Aucun signe évocateur de toxicité pulmonaire pharmacologique lors de l'examen actuel.
+"SV actuelle : 28, SV de base : 67, SV nadir : 28.
+"Jugement diagnostique : persistance d'une réponse partielle à la maladie.
+
+Diagnostic
+"Pseudoprogression.
+"Pneumopathie G3.
+"Réponse partielle maintenue après 11 mois sans traitement.
+
+Traitement
+Des corticostéroïdes à forte dose sont mis en place en cas de suspicion de toxicité de l'immunothérapie et d'amélioration clinique progressive.
+
+Évolution
+Le patient ayant présenté une pneumopathie de type G3, le pembrolizumab a été arrêté et un suivi rapproché a été décidé.
+Le scanner de contrôle effectué un mois plus tard a révélé une diminution des petits nodules pulmonaires métastatiques bilatéraux et de la masse surrénalienne (39 mm et 54 mm au départ), ainsi qu'une réponse partielle à la maladie (diminution de 30 % de la charge tumorale). Lors des contrôles successifs, on a constaté une amélioration progressive de la réponse partielle jusqu'à une réduction de 44 % de la charge tumorale.
+Lors du dernier contrôle en mai 2019, la patiente continue d'avoir une réponse partielle maintenue après 11 mois du dernier cycle d'immunothérapie.

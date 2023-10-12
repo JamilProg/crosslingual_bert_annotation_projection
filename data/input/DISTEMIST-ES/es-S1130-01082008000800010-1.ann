@@ -1,0 +1,8 @@
+T1	pathologie 44 59	diarrea crónica
+T2	pathologie 680 686	lesión
+T3	pathologie 1090 1096	lesión
+T4	pathologie 1294 1330	carcinoma de células renales papilar
+#1	SNOMED T1	236071009
+#2	SNOMED T4	733608000
+#3	SNOMED T2	417163006
+#4	SNOMED T3	417163006

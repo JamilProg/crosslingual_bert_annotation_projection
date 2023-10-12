@@ -1,0 +1,8 @@
+T1	pathologie 64 72	diabetes
+T2	pathologie 94 132	pancreatitis aguda alitiásica moderada
+T3	pathologie 455 462	síncope
+T4	pathologie 616 652	pseudoquiste pancreático hemorrágico
+#1	SNOMED T1	73211009
+#2	SNOMED T2	197456007
+#3	SNOMED T3	29423006
+#4	SNOMED T4	111374002

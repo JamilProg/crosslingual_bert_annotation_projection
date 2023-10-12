@@ -1,0 +1,12 @@
+T1	pathologie 27 41	fumador activo
+T2	pathologie 123 152	disfagia a sólidos y líquidos
+T3	pathologie 446 483	estenosis parcial de la luz esofágica
+T4	pathologie 549 568	carcinoma esofágico
+T5	pathologie 631 637	lesión
+T6	pathologie 1144 1185	infección viral (virus del Herpex simple)
+#1	SNOMED T1	77176002
+#2	SNOMED T2	40739000
+#3	SNOMED T3	63305008
+#4	SNOMED T4	372138000
+#5	SNOMED T6	88594005
+#6	SNOMED T5	417163006

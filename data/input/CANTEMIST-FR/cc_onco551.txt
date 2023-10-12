@@ -1,0 +1,29 @@
+Anamnèse
+Un homme de 61 ans, ancien fumeur jusqu'à 6 mois avant le diagnostic, depuis plus de 45 ans (IPA 50), et sans autre antécédent intéressant, a consulté son médecin traitant pour une grosseur dans la région cervicale gauche, sans dysphagie ou odynophagie associée. Initialement, un diagnostic d'infection cervicale a été posé dans le contexte d'une otalgie et de la pose récente d'implants dentaires, mais en l'absence d'amélioration sous traitement antibiotique, la patiente a été orientée vers l'endocrinologie pour des examens complémentaires.
+L'échographie cervicale a montré de multiples adénopathies cervicales gauches allant jusqu'à 2,7 cm. La thyroïde est normale avec deux nodules solides bien définis.
+Une ponction-aspiration à l'aiguille fine guidée par échographie a été réalisée pour obtenir des échantillons, et le rapport d'anatomopathologie a conclu à une métastase d'un carcinome épidermoïde.
+Le patient a ensuite été examiné par le service d'oto-rhino-laryngologie et une fibroscopie a été réalisée, montrant une lésion dans la région de l'amygdale gauche s'étendant au palais mou, à la sous-muqueuse de l'hémipalais gauche et, en direction caudale, atteignant la base de la langue, la vallecula et l'épiglotte. Une biopsie de l'amygdale a été pratiquée et le rapport anatomopathologique a révélé une infiltration de la sous-muqueuse par un carcinome épidermoïde peu différencié, positif au papillomavirus humain (HPV) et à la protéine p16.
+L'étude d'extension a été complétée par un scanner cervico-facial montrant une masse de type tumoral dans l'amygdale linguale gauche, mesurant environ 26 mm, suggérant un carcinome épidermoïde. Des adénopathies métastatiques dans les deux chaînes jugulaires internes, plus nombreuses et plus volumineuses à gauche dans les niveaux IIA, IIB, III, IV, VA et VB, avec nécrose dans plusieurs d'entre elles.
+Un scanner thoraco-abdominopelvien a été réalisé en extension sans preuve de dissémination à distance, confirmant le diagnostic du patient : carcinome épidermoïde de l'oropharynx HPV+ p16+ stade IVA (cT4N2M0) en juin 2013.
+Présenté au comité des tumeurs de la tête et du cou de notre hôpital, il a été décidé de proposer un traitement conservateur par chimiothérapie et radiothérapie. Le patient a subi une radiothérapie de 50 Gy sur le lit tumoral et les chaînes ganglionnaires drainantes avec marge, avec surimpression de la tumeur primaire et des ganglions lymphatiques affectés jusqu'à une dose de 70 Gy. Parallèlement, la patiente a reçu un traitement de chimiothérapie avec 40 mg/m2 de cisplatine par semaine pour un total de 6 cycles.
+Une réévaluation ultérieure par fibroscopie a montré une réponse complète. L'évaluation de la réponse par tomodensitométrie montre que la lésion primaire a diminué en taille et en densité. En outre, il y a eu une diminution marquée, avec une disparition presque complète des adénopathies latérocervicales préexistantes, avec seulement des ganglions lymphatiques millimétriques observés, avec des changements post-traitement dans les chaînes IIa et IIb et III.
+Le patient a été suivi et, lors d'un scanner de réévaluation en septembre 2016, il a présenté une rechute médiastinale avec des adénopathies prévasculaires, en avant du tronc brachio-céphalique droit, paratrachéales hautes à droite, dans la fenêtre aortopulmonaire, dans le hile droit et sous-cardinales. Une médiastinoscopie a été pratiquée avec des biopsies, qui ont confirmé la présence de métastases de carcinome épidermoïde p16+.
+Il a été adressé à l'oncologie médicale où un traitement de première intention a été instauré avec du carboplatine (AUC-5) et du cetuximab (400 mg/m2 la première semaine, puis 250 mg/m2 toutes les semaines) toutes les 3 semaines, jusqu'à l'achèvement de 5 cycles qui se sont terminés en mars 2017, avec des retards dus à la toxicité hématologique.
+Lors de la réévaluation par tomodensitométrie en mars 2017, il y avait des signes de progression de la maladie médiastinale, de sorte qu'elle a commencé la deuxième ligne de traitement avec le nivolumab, obtenant une réponse radiologique complète.
+
+Examen physique
+La patiente s'est présentée pour un contrôle en vue de commencer le cycle 33 de nivolumab. Elle présentait des plaques érythémateuses et squameuses étendues sur le tronc, les membres supérieurs et les membres inférieurs, ainsi que des plaques plus florides avec exfoliation sur les paumes de la main. Il n'y avait pas d'autres lésions cutanées intéressantes. Par ailleurs, il a fait état d'un bon état général et d'un ECOG de 0.
+
+Tests complémentaires
+Analyse de sang sans résultat intéressant.
+
+Diagnostic
+Éruption psoriasiforme due à l'anti-PD-1.
+
+Traitement
+Le patient est adressé au service de dermatologie, où un traitement aux corticostéroïdes est mis en place :
+"Prednisone 50 mg dans un schéma décroissant.
+"Crème de clobétasol.
+
+Evolution
+Compte tenu de l'apparition d'une toxicité cutanée de grade 3 et de la réponse radiologique complète de la maladie, il a été décidé d'arrêter le nivolumab. Le patient continue à être suivi régulièrement et, à ce jour, 6 mois après l'arrêt du médicament, il est toujours en réponse complète.

@@ -1,0 +1,25 @@
+Anamnèse
+Femme de 44 ans, sans allergies médicamenteuses ni habitudes toxiques connues. Aucun antécédent pathologique intéressant. Elle n'a pas déclaré prendre de médicaments régulièrement. Elle a consulté aux urgences en mars 2015 en raison d'une douleur thoracique pleurétique droite et d'une dyspnée d'effort progressive depuis 3 mois, sans syndrome constitutionnel.
+
+Examen physique
+Bon état général. Hémodynamiquement stable. ECOG-1. Auscultation respiratoire avec hypophonie dans l'hémithorax droit, sans bruits ajoutés. Le reste de l'examen physique ne révèle aucune anomalie pathologique.
+
+Examens complémentaires
+Des analyses sanguines ont été effectuées, sans modification notable, et une radiographie du thorax a montré un nouvel épanchement pleural droit. Une thoracentèse diagnostique et thérapeutique a été effectuée et a permis d'obtenir un liquide pleural compatible avec un exsudat lymphocytaire. La tomodensitométrie thoracique a montré un nodule sous-pleural de 6 mm dans le lobe supérieur droit et un épanchement pleural massif ipsilatéral. Le CEA sérique était élevé à 10,98 ng/ml et le CA-125 à 44,30 U/ml.
+L'étude anatomopathologique par immunohistochimie du liquide pleural et de la biopsie a montré une positivité pour la cytokératine 7, le TTF-1, la p53 et une négativité pour la cytokératine 20, la calrétinine et le WT1, compatible avec un adénocarcinome d'origine pulmonaire.
+Dans l'étude d'extension avec PET-CT en contraste, la masse primaire dans le lobe supérieur droit (SUVmax. 8,6) et les captations pulmonaires bilatérales ont été observées, ainsi que l'épanchement pleural déjà connu.
+Une étude moléculaire a été réalisée par séquençage ciblé du gène EGFR, qui s'est révélé positif pour la délétion de l'exon 19.
+
+Diagnostic
+Adénocarcinome du poumon cT1NxM1a, stade IV-A dû à des métastases pulmonaires et pleurales, avec délétion de l'exon 19 de l'EGFR.
+
+Traitement
+Le traitement par afatinib à la dose de 40 mg par jour a été initié en mai 2015. La patiente a présenté une tolérance initiale correcte avec des diarrhées et une mucosite de grade 1 ainsi qu'une éruption cutanée de grade 2 qui a été gérée efficacement avec un traitement topique. Lors de la première évaluation radiologique après trois mois de traitement, elle présentait une réponse partielle.
+
+Évolution
+En juin 2017, il a été constaté une augmentation de l'épanchement pleural et l'apparition d'un épanchement péricardique, avec un retentissement clinique, nécessitant une hospitalisation et un cathétérisme péricardique avec du cisplatine, qui a été efficace. Une étude des mutations de résistance dans le liquide pleural a été réalisée à l'aide de la plateforme COBAS®, positive pour T790M, un traitement a donc été débuté par osimertinib 80 mg par jour, avec une excellente tolérance.
+En septembre 2017, une progression de la maladie a été détectée par PET-CT, de sorte qu'une troisième ligne de traitement a été entamée avec une chimiothérapie conventionnelle à base de carboplatine et de pemetrexed, montrant une stabilisation de la maladie après quatre cycles. Elle a poursuivi le traitement d'entretien au pemetrexed jusqu'en juin 2018, date à laquelle elle a présenté une progression de la maladie au niveau des os et du foie.
+Une biopsie hépatique a été réalisée pour une étude moléculaire avec séquençage des gènes à l'aide de la plateforme nCounter®, qui s'est révélée positive pour des mutations de l'exon 19 du gène EGFR et de l'exon 14 du gène MET, ce dernier étant vérifié par hybridation in situ en fluorescence (FISH) et ne s'avérant pas amplifié.
+Il a donc été décidé de débuter un traitement de quatrième ligne par carboplatine et paclitaxel, avec progression radiologique après 2 mois, puis de cinquième ligne par carboplatine et vinorelbine avec une mauvaise tolérance en raison d'une asthénie de grade 3, ne recevant qu'un seul cycle.
+En novembre 2018, il a été admis pour ascite maligne et dégradation de l'état général à l'ECOG-3. Un retraitement par erlotinib 100 mg par jour a été décidé, avec un bénéfice clinique (ECOG-2) jusqu'en février 2019, date à laquelle une progression radiologique de la maladie (pleurale, hépatique, ganglionnaire et osseuse) et une nouvelle détérioration de l'état général à ECOG-3 ont été observées.
+L'étude de l'EGFR a été répétée dans le sang périphérique, trouvant à nouveau une mutation de résistance T790M positive (négative lors des déterminations répétées après le traitement précédent avec le médicament ciblé), de sorte qu'un retraitement avec l'osimertinib a été décidé. Après un mois, le patient a montré une amélioration clinique significative, avec un ECOG-1 et une réponse radiologique partielle significative (amélioration des lésions hépatiques et osseuses, disparition des lésions des ganglions lymphatiques).

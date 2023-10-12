@@ -1,0 +1,15 @@
+Anamnèse
+Une femme de 18 ans sans antécédents consulte pour une tumeur du biceps fémoral après un traumatisme mineur évoluant depuis trois mois.
+
+Examens complémentaires
+- IRM de la cuisse : lésion intracompartimentale dans la partie longue du biceps fémoral englobant le tractus tendineux de 3 cm avec œdème diffus et discrète prise de contraste diffuse.
+- Biopsie échoguidée : prolifération de cellules fusiformes avec un mode de croissance infiltrant sur un stroma myxoïde sans atypies ni mitoses. L'immunohistochimie est positive pour le CD34, l'énolase, le facteur VIII, le CD68 et la vicentine. Elle est négative pour l'actine, la desmine, le caldesmon, l'EMA S100, le CD99, l'ALK, le BCL2 et la CK.
+
+Diagnostic
+Sarcome de bas grade sur un programme chirurgical.
+
+Évolution et traitement
+Dans l'étude d'extension, de multiples nodules pulmonaires bilatéraux ont été observés, le plus grand mesurant 20 mm dans la base gauche, compatible avec une métastase, ainsi que de multiples lésions occupant l'espace dans le foie, le plus grand mesurant 11 mm dans le segment VIII.
+La scintigraphie osseuse est négative. Compte tenu de l'extension de la maladie, la chirurgie radicale a été suspendue et une nouvelle biopsie a été réalisée au bloc opératoire, obtenant un tissu musculaire non représentatif.
+Compte tenu de l'extension de la maladie, bien qu'il s'agisse d'un sarcome de bas grade, un traitement de première ligne par ifosfamide 1 500 mg/m2 jours 1-4 et doxorubicine 60 mg/m2 jour 1 et MESNA tous les 21 jours a été décidé. Le patient a reçu trois cycles de chimiothérapie avec une excellente tolérance mais avec l'apparition d'une nouvelle lésion subcentimétrique dans la bifurcation portale et la persistance d'autres dans le segment VII (1,3-1 cm segment V LHI de 1,5 cm avec une stabilité du reste des lésions confirmée par la TEP. De nouvelles biopsies musculaires et hépatiques ont été réalisées et adressées au centre de référence qui a revu l'anatomie pathologique. Il s'agit d'un néoplasme stromal fibromyxoïde composé de petites bandes, de cordons ou de nids solides de cellules épithéloïdes. Des mitoses isolées, des foyers de nécrose (caractéristiques atypiques) en immunohistochimie positive pour le CD34, le facteur VIII et le CD31 Ki-67% < 2% sont tous compatibles avec un hémangioendothéliome épithélioïde malin.
+Une revue de la littérature a été effectuée et un traitement par paclitaxel 135 mg/m2 et bevacizumab 10 mg/kg tous les quinze jours a été instauré avec une bonne tolérance. Lors de la réévaluation après deux mois, l'IRM de la cuisse a montré une nécrose accrue de la tumeur avec une réponse pulmonaire partielle. Après six mois de traitement, une réponse hépatique partielle d'une lésion du segment VI et une réponse musculaire partielle ont été observées. Il a été décidé d'arrêter le paclitaxel en raison d'une polyneuropathie de grade 3 et le traitement par bevacizumab a été maintenu. Neuf mois après le traitement, le patient reste stable au niveau de toutes les lésions avec une excellente tolérance clinique.

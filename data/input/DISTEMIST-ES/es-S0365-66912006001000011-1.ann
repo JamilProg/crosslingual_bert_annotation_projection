@@ -1,0 +1,6 @@
+T1	pathologie 692 698	ptosis
+T2	pathologie 2191 2216	mucocele del seno frontal
+T3	pathologie 2357 2374	hipersensibilidad
+#1	SNOMED T2	10674591000119108
+#2	SNOMED T3	421961002
+#3	SNOMED T1	11934000

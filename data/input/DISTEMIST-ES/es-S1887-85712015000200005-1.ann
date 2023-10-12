@@ -1,0 +1,6 @@
+T1	pathologie 236 264	fractura diafisaria de fémur
+T2	pathologie 279 287	fractura
+T3	pathologie 1164 1212	fractura de diáfisis femoral de trazo transverso
+#1	SNOMED T3	54441004
+#2	SNOMED T1	54441004
+#3	SNOMED T2	72704001

@@ -1,0 +1,12 @@
+T1	pathologie 39 54	hábitos tóxicos
+T2	pathologie 223 251	traumatismo perineal cerrado
+T3	pathologie 805 826	fístula arteriovenosa
+T4	pathologie 828 831	FAV
+T5	pathologie 887 910	Priapismo de alto flujo
+T6	pathologie 992 995	FAV
+#1	SNOMED T1	228272008
+#2	SNOMED T2	417746004
+#3	SNOMED T3	439470001
+#4	SNOMED T4	439470001
+#5	SNOMED T5	441545004
+#6	SNOMED T6	439470001

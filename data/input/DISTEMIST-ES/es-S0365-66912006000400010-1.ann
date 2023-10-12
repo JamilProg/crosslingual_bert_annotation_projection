@@ -1,0 +1,28 @@
+T1	pathologie 134 149	sequedad ocular
+T2	pathologie 188 217	sequedad cutánea generalizada
+T3	pathologie 219 229	anhidrosis
+T4	pathologie 231 245	piosis cutánea
+T5	pathologie 247 282	lesiones cutáneas hiperqueratósicas
+T6	pathologie 284 310	pérdida de cuero cabelludo
+T7	pathologie 312 329	ausencia de cejas
+T8	pathologie 332 341	madarosis
+T9	pathologie 525 561	neovascularización corneal bilateral
+T10	pathologie 649 689	queratopatía punteada superficial difusa
+T11	pathologie 1182 1196	queratoeritema
+T12	pathologie 1199 1221	sordera neurosensorial
+T13	pathologie 1259 1271	síndrome KID
+T14	pathologie 1446 1458	síndrome KID
+#1	SNOMED T3	39659002
+#2	SNOMED T7	422441003
+#3	SNOMED T8	34887006
+#4	SNOMED T9	346481000119100
+#5	SNOMED T10	42513006
+#6	SNOMED T11	26996000
+#7	SNOMED T12	60700002
+#8	SNOMED T13	239059004
+#9	SNOMED T14	239059004
+#10	SNOMED T5	707209001
+#11	SNOMED T1	162290004
+#12	SNOMED T4	106076001
+#13	SNOMED T6	238922006
+#14	SNOMED T2	16386004

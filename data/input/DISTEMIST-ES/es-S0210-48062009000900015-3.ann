@@ -1,0 +1,10 @@
+T1	pathologie 55 79	diabetes mellitus tipo 2
+T2	pathologie 107 134	insuficiencia renal crónica
+T3	pathologie 360 391	lesiones ampulosas en el glande
+T4	pathologie 426 433	úlceras
+T5	pathologie 629 645	lesión necrótica
+#1	SNOMED T1	44054006
+#2	SNOMED T5	6574001
+#3	SNOMED T3	249250005
+#4	SNOMED T2	90688005
+#5	SNOMED T4	255321001

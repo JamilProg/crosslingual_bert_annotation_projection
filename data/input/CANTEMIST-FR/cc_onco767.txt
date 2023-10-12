@@ -1,0 +1,29 @@
+Anamnèse
+Antécédents oncologiques :
+Octobre 2011 : échographie abdominale réalisée en raison d'une colique néphrétique où l'on observe des métastases hépatiques. Elle a expliqué une augmentation au cours des 6 derniers mois de ses bouffées vasomotrices habituelles, de sa diarrhée et de sa perte de poids. Il a entamé une étude diagnostique en ambulatoire.
+
+Examen physique
+ECOG 1, indice de masse corporelle (IMC) 30 mg/m2. Observations notables : hépatomégalie de 3 travers et bouffées vasomotrices en position debout.
+
+Tests complémentaires
+L'analyse de sang n'a pas révélé de résultats remarquables. Dans les urines de 24 heures, on a noté un taux élevé de 5HIIA de 89,4 mg/24 h (valeurs de référence < 8,2 mg/24 h) et de chromogranine A de 6 110 mg/ml (valeurs de référence < 134 ng/ml).
+En ce qui concerne les examens radiologiques, le scanner a montré une masse parahilaire gauche de 18 mm et des images hépatiques hypodenses évoquant des métastases. L'Octreoscan® n'a détecté que des lésions hépatiques avec expression des récepteurs de la somatostatine.
+La biopsie du foie a révélé la présence d'une tumeur neuroendocrine bien différenciée avec une positivité pour la chromogranine A et la synaptophysine, la cytokératine AE1, AE3, avec 3 mitoses et un Ki-67 de 8,2%.
+Une bronchoscopie a été réalisée, montrant une réduction de l'entrée du segment postérieur du lobe inférieur gauche. La biopsie pulmonaire a révélé une tumeur neuroendocrine (carcinoïde atypique) avec une positivité pour la chromogranine, la synaptophysine et le CD56.
+L'échocardiographie n'était pas pertinente et la TEP-TDM a montré une faible absorption des lésions hépatiques, de la tumeur pulmonaire et des adénopathies.
+
+Diagnostic
+Il s'agit d'une tumeur carcinoïde pulmonaire atypique bien différenciée avec des métastases hépatiques. Le patient était cliniquement symptomatique en raison d'un syndrome carcinoïde avec bouffées vasomotrices et diarrhée. Il a été suivi conjointement par l'oncologie médicale et l'endocrinologie.
+
+Traitement
+"Octobre 2011 : analogues de la somatostatine (lanréotide intramusculaire 120 mg tous les 28 jours) améliorant les symptômes (bouffées vasomotrices et diarrhée).
+"Janvier 2012 : réapparition des symptômes toutes les 3 semaines, donc analogues administrés tous les 21 jours.
+"Février 2012 : lobectomie inférieure gauche.
+"Mars 2012 : embolisation portale droite. Il était prévu qu'il subisse une hépatectomie, mais au cours de l'opération, une atteinte vasculaire des artères sus-hépatiques a été observée et il a été décidé qu'il n'était pas candidat à une résection. Il a poursuivi son traitement avec des analogues.
+"Janvier 2013 : progression hépatique par tomodensitométrie. Il a commencé l'évérolimus 10 mg/j + lanréotide toutes les 3 semaines.
+" Octobre/2013 : augmentation de la symptomatologie, l'analogue est donc ajusté tous les 14 jours.
+" Novembre/2014 : aggravation du syndrome carcinoïde qui invalide la vie quotidienne. En comité multidisciplinaire, le patient est reconsidéré pour une embolisation, mais une chirurgie extrême avec hépatectomie droite et résection vasculaire est décidée. Chirurgie R0. PA : 17 métastases de tumeur neuroendocrine bien différenciée, Ki-67 10%. Après la chirurgie, les symptômes carcinoïdes disparaissent. Il continue avec l'analogue.
+" Août/2015 : réapparition de lésions hépatiques non résécables et d'adénopathies médiastinales, l'évérolimus est donc réintroduit en même temps que l'analogue.
+
+Évolution
+D'août 2015 à aujourd'hui, le patient a été traité par évérolimus et analogue de la somatostatine. Lors de la tomodensitométrie d'évaluation de la réponse de février 2018, une progression hépatique a été observée, et le patient a donc été orienté vers un essai clinique d'immunothérapie.

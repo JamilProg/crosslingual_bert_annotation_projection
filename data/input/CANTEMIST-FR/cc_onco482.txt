@@ -1,0 +1,25 @@
+Anamnèse
+Nous présentons le cas d'un homme de 51 ans qui n'a pas d'allergies médicamenteuses connues et qui, en ce qui concerne ses habitudes toxiques, déclare fumer 1 à 2 cigares par jour et consommer de l'alcool occasionnellement. La seule comorbidité notable est la présence d'un cathéter double J droit en raison d'une lithiase rénale sévère. Il n'a pas d'antécédents familiaux de cancer. Il s'est présenté aux urgences pour une hématurie franche, des douleurs abdominales et un syndrome constitutionnel évoluant depuis un mois.
+
+Examen physique
+Le patient s'est présenté au service des urgences pour une hématurie franche, des douleurs abdominales et un syndrome constitutionnel évoluant depuis un mois. À l'examen, le patient était en bon état général : il était pleinement conscient, orienté et coopératif lors de l'entretien, normoperfusé et normohydraté.
+"L'examen neurologique n'a révélé aucun symptôme focal.
+"Auscultation cardio-pulmonaire avec des tonalités rythmiques à une bonne fréquence, sans murmures ni extratonos, avec un bon murmure vésiculaire bilatéral et aucun bruit pathologique.
+"Examen abdominal avec abdomen globulaire, dépressible, avec douleur à la palpation dans la partie inférieure de l'abdomen, sans masses ou mégalithes palpables.
+
+Tests complémentaires
+Un test sanguin a été effectué au service des urgences, qui a également révélé une légère hyperbilirubinémie (2,27 mg/dl) au détriment de la fraction indirecte. La patiente a été admise en médecine interne pour un examen plus approfondi.
+Le service de médecine interne a demandé des analyses de sang avec des marqueurs tumoraux, un lavage de la vessie et une tomodensitométrie du crâne, du thorax et de l'abdomen. Le scanner abdominal a montré une grosse masse hétérogène avec une zone centrale hypodense évocatrice de nécrose mesurant 10 x 17 x 19 cm située dans la région péritonéale, en contact étroit avec la paroi de la vessie, sans pouvoir exclure une infiltration. En outre, d'innombrables adénopathies et conglomérats mésentériques et une infiltration nodulaire de la graisse suggérant une carcinomatose sont identifiés, ainsi qu'une hydronéphrose gauche modérée produite par l'obstruction de l'uretère distal par la masse, sans autres lésions justifiant une implication métastatique à distance. En résumé, les résultats suggèrent comme première possibilité une tumeur maligne péritonéale primaire agressive.
+
+Diagnostic
+Lors de son admission, le patient a commencé à présenter des épisodes d'agitation, d'agressivité et de détérioration progressive de l'état de conscience (Glasgow 7/15) sans cause apparente, ce qui a conduit à son admission en soins intensifs. Une intubation orotrachéale, une ponction lombaire (négative) et des cultures ont été effectuées. Un E. coli multisensible a été isolé dans les cultures de sang et d'urine, et une antibiothérapie a été mise en place en raison de la présence d'une septicémie urinaire.
+Le résultat le plus pertinent des analyses a été une hyperammoniémie importante, qui a nécessité un traitement par lavements au lactulose pour l'éliminer.
+Après une stabilisation initiale, une biopsie de la lésion péritonéale a été réalisée, avec le résultat anatomopathologique d'une tumeur stromale gastro-intestinale (GIST), avec un indice mitotique inférieur à 1 mitose/10CGA et une immunohistochimie positive pour C-KIT et DOG 1 et négative pour PanCK, CD45, S-100 et synaptophysine.
+
+Traitement
+Il a été évalué par l'oncologie médicale au sein d'un comité multidisciplinaire et, après consultation du service de pharmacie, il a été décidé de commencer le traitement en USI avec de l'imatinib à une dose de 400 mg diluée dans 200 ml d'eau par une sonde nasogastrique.
+
+Évolution
+Le patient a montré une bonne tolérance au médicament et une excellente évolution clinique, récupérant le niveau de conscience et procédant à l'extubation, avec des niveaux d'ammonium normalisés à la sortie. Une réévaluation par tomodensitométrie après un mois de traitement a montré une réponse partielle.
+Après un an de traitement, dans le contexte d'un nouvel épisode de détérioration de l'état de conscience, elle a de nouveau présenté une encéphalopathie hyperammoniémique et une progression au scanner.
+Le sunitinib a été proposé en seconde ligne, mais la patiente a eu une évolution défavorable sans contrôle de l'encéphalopathie, avec une détérioration progressive de l'état général, et est finalement décédée.

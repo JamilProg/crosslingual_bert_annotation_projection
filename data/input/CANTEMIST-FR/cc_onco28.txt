@@ -1,0 +1,33 @@
+Anamnèse
+Homme de 70 ans, antécédents médicaux d'hypertension artérielle sous traitement par bêta-bloquants et inhibiteurs de l'enzyme de conversion de l'angiotensine, hernies cervicales et lombaires faisant l'objet d'un traitement de rééducation occasionnel. Fumeur de 10 paquets/an. Chirurgie de herniorraphie inguinale bilatérale.
+
+En ce qui concerne les antécédents familiaux, une sœur est décédée d'un carcinome cervical à l'âge de 70 ans et un frère, fumeur, est décédé d'un carcinome pulmonaire à l'âge de 52 ans.
+
+Le patient a consulté le service des urgences à deux reprises en raison d'une douleur sourde et profonde au niveau de l'épigastre et de l'hypochondre droit (HCD) irradiant dans la ceinture et d'apparition progressive. Lors de l'anamnèse, le patient n'a pas rapporté d'autres symptômes digestifs d'accompagnement tels que nausées, vomissements, anorexie ou modification du rythme intestinal ; en revanche, il a fait état d'une asthénie et d'une plus grande difficulté à réaliser ses activités quotidiennes. Devant la persistance de ce malaise avec des caractéristiques compatibles avec une EVA de base de 4-5, malgré un traitement par antalgiques de premier niveau, il a été décidé de l'hospitaliser pour étude et contrôle de la symptomatologie.
+
+Examen physique
+À l'admission, le patient présentait un ECOG de 1, un léger malaise général et des sueurs profuses. Bon état nutritionnel. Couleur normale, perfusion et hydratation. Rythme et tachycardie à 110 bpm sans souffle audible. Abdomen mou et douloureux au niveau épigastrique et HDC, hépatomégalie douloureuse à quatre travers de doigt sous la crête costale sans signe d'irritation péritonéale. Le reste de l'examen est sans particularité.
+
+Examens complémentaires
+"Examens de laboratoire à l'admission : hémoglobine 11,2 mg/dL, hématocrite 37,4 % avec volume et chromie normaux ; leucocytes 11 700/mL (80,9 % de neutrophiles), activité prothrombinique 69 %, fibrinogène 630 mgr/dL, temps de prothrombine 14,9 et GOT 55 U/L, sans autres altérations biochimiques et hématologiques. Sérologie virale pour l'hépatite B, C et le VIH négative. Marqueurs tumoraux (MT) : (CEA, Ca-19.9, Ca 72.4, alpha-fœtoprotéine) normaux.
+"Tomodensitométrie (TDM) de l'abdomen et du bassin : multiples lésions hapatiques focales hypodenses réparties de façon diffuse dans les deux lobes et de diamètre compris entre 10 et 25 mm, plus une lésion au niveau de la queue du pancréas, solide et hypercapillaire, mesurant 34 x 29 mm. Présence d'un liquide libre minime au niveau du cul-de-sac recto-vésical sans autres observations pertinentes.
+"Tomodensitométrie thoracique : au niveau du lobe inférieur gauche, présence d'un nodule de 4 mm qui ne semble pas malin.
+"Biopsie à l'aiguille échoguidée de lésions hépatiques : plusieurs cylindres ont été prélevés et envoyés dans le formol pour étude anatomo-pathologique. La procédure s'est déroulée sans incident immédiat.
+
+Diagnostic
+Tumeur vasculaire se développant aux dépens des sinusoïdes hépatiques. Infiltre des veines de taille intermédiaire qui sont thrombosées et d'autres dilatées avec une lumière occupée par des cellules tumorales de taille intermédiaire avec des noyaux hyperchromatiques, de petits nucléoles et un cytoplasme éosinophile. Stroma myxoïde abondant. Sur le plan de l'immunophénotype, on peut noter les éléments suivants
+"Marqueurs vasculaires positifs : CD34 et CD31. vimentine (+).
+"Marqueurs négatifs : hépatocyte 1, glypican 3, cytokératine AE1-3, CK7, CK20, CEA, LC, p53.
+"Indice de prolifération cellulaire (Ki-67) : faible.
+
+Le résultat anatomo-pathologique définitif était compatible avec une tumeur vasculaire correspondant à un hémangioendothéliome épithélioïde hépatique (HE).
+
+Traitement
+Le traitement a débuté par des prokinétiques, des inhibiteurs de la pompe à protons et s'est poursuivi par une analgésie de première intention (dexkétoprofène trométamol en alternance avec du métamizole) évoluant favorablement par rapport à une EVA de base de 0-1, et sans présence d'une percée de la douleur oncologique. L'asthénie a persisté malgré un traitement à base de dexaméthasone à faible dose et de méthylphénidate.
+
+Evolution
+Après présentation du cas au Tumour Committee, et en accord avec la littérature existante, il a été convenu avec la patiente, au vu de l'amélioration clinique présentée, de maintenir une attitude d'attente vigilante associée à une surveillance étroite afin de pouvoir envisager un traitement systémique en cas de progression clinique ou radiologique, malgré le manque d'essais cliniques prospectifs publiés dans ce cas de figure.
+
+Après un court intervalle, le patient a de nouveau fait état d'un mauvais contrôle des analgésiques (EVA 7), d'un ictère cutanéo-muqueux, d'une augmentation de la circonférence abdominale avec présence d'ascites non tendues, d'une légère somnolence et d'une détérioration significative de l'état général, présentant un ECOG de 3. À ce moment-là, les résultats analytiques comprenaient : activité prothrombinique de 40 %, bilirubine totale de 3,9 mg/dl aux dépens de la composante directe (3,68 mg/dl), lactate déshydrogénase : 950 et GOT/GPT 561/289 U/l. Après avoir exclu une dilatation des voies biliaires par échographie, un traitement symptomatique par opioïdes majeurs a été instauré, nécessitant plusieurs rotations en raison d'un mauvais contrôle de l'analgésie. Une paracentèse évacuatrice a été réalisée, malgré laquelle l'état du patient s'est progressivement aggravé, le conduisant à développer une encéphalopathie hépatique de grade 3. La tomodensitométrie de réévaluation a montré une progression hépatique significative avec la présence d'une grande quantité de liquide ascitique dans la cavité péritonéale.
+
+Compte tenu de l'évolution du patient, tout type de traitement visant la maladie oncologique, y compris la chimiothérapie, a été exclu. Le patient est décédé 10 jours après son admission en raison d'une insuffisance hépatique secondaire à son néoplasme sous-jacent.

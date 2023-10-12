@@ -1,0 +1,23 @@
+Anamnèse
+Nous présentons un homme de 57 ans, sans antécédents familiaux pertinents, fumeur, hypertendu et dyslipidémique. Depuis 2004, à l'âge de 43 ans, il est suivi en dermatologie pour des lésions cutanées généralisées et progressives sur le visage et la région thoracique centrale, qui s'améliorent avec une corticothérapie topique. Plusieurs biopsies n'ont révélé qu'une dermatite atopique chronique.
+
+Examen physique
+À l'examen, le patient était en bon état général, avec des plaques érythémateuses surélevées sur le visage et le tronc. Aucune adénopathie pathologique n'était palpable dans aucune région. L'auscultation cardiaque et respiratoire était normale.
+Examens complémentaires
+En octobre 2008, après une aggravation des lésions, il a été décidé de répéter la biopsie des lésions. Un scanner thoraco-abdomino-pelvien a été réalisé, ne montrant pas de lésions notables. Dans les tests de laboratoire, seule la ß2 microglobuline 2,14 a été observée.
+
+Diagnostic
+Lymphome cutané primaire à cellules T, de type mycosis fongoïde, avec réarrangement clonal positif pour le récepteur des cellules T (TCR) gamma (VJ-A). En raison de l'atteinte de moins de 10 % de la surface corporelle, il est classé comme T1N0M0, l'étude d'extension étant négative.
+
+Traitement
+Le patient est traité pendant 5 ans avec des corticostéroïdes topiques et une photothérapie PUVA, avec un contrôle partiel de la maladie.
+
+Évolution
+En décembre 2013, des plaques faciales érythémateuses et surélevées ont commencé à apparaître dans la zone péribuccale et nasale, qui ont été biopsiées à nouveau et se sont révélées être un lymphome T cutané primaire de type mycosis fongoïde avec des nodules de transformation en grandes cellules CD30+ (phase tumorale). Il a été mis sous méthotrexate 2,5 mg 6 comprimés un jour par semaine avec une réponse partielle pendant 6 mois.
+En août 2014, il a subi une progression clinique et a été référé à notre service, commençant la gemcitabine 1 250 mg/m2 toutes les 2 semaines avec une stabilisation de la maladie pendant 6 mois.
+En janvier 2015, il a subi une nouvelle progression, débutant un CHOP à la dose de 650 mg de cyclophosphamide et 50 mg de doxorubicine par m2 ainsi que 2 mg de vincristine tous les 21 jours, avec une réponse complète pratique de la maladie pendant 6 cycles et ne présentant qu'une asthénie de grade 1.
+Après 12 mois, en décembre 2015, il a progressé à nouveau au niveau facial et dorsal, démarrant une nouvelle ligne avec du chlorhydrate de doxorubicine à la dose de 25 mg/m2 toutes les 4 semaines, qu'il a reçue jusqu'en décembre 2016 (12 mois).
+En mars 2017, en raison d'une nouvelle progression au niveau facial et cervical, elle a débuté un traitement par brentuximab vedotin à la dose de 187 mg toutes les 3 semaines. Elle a reçu ce traitement pendant 16 cycles avec une toxicité légère consistant en une neuropathie périphérique de grade 1 (main-pied) et des nausées de grade 1 et une réponse partielle.
+En janvier 2018, il a souffert d'une aggravation des lésions faciales et a été référé en radio-oncologie, recevant une radiothérapie externe (ERT) sur le menton (8 Gy en une seule fraction) et entre les sourcils (8 Gy en deux fractions), ainsi qu'une curiethérapie (BQT) sur l'ala nasale (7 Gy en une seule fraction), au niveau supraciliaire (5 Gy en deux fractions), au cou (5 Gy en deux fractions) et dans la zone préauriculaire gauche (5 Gy en deux fractions), avec un suivi rapproché par la suite.
+En janvier 2019, le patient a été admis dans le service pour une dyspnée à l'effort minimal et un scanner thoracique a révélé de multiples lésions pulmonaires cavitaires rapportées comme des métastases ou une infection. Du triméthoprime-sulfaméthoxazole a été instauré de manière empirique, avec une grande amélioration clinique. Une biopsie guidée par tomodensitométrie a été réalisée et a permis d'obtenir du tissu pulmonaire présentant une infiltration lymphoïde compatible avec un lymphome à grandes cellules T (CD30, C45, CD3, CD5 et CD4 positifs).
+Il est prévu qu'il reçoive une chimiothérapie d'induction (IT) puis une greffe de cellules souches hématopoïétiques (HSCT), en commençant le GEMOX (oxaliplatine 85 mg/m2-gemcitabine 900 mg/m2) en mars 2019. Cependant, la patiente a eu une évolution torpide avec plusieurs admissions dans le service pour des infections respiratoires à répétition sans isolement d'aucun germe et une grande dégradation de l'état général, aboutissant finalement au décès en mai 2019, après trois cycles de QT d'induction sans greffe.

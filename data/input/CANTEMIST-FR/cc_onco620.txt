@@ -1,0 +1,23 @@
+Anamnèse
+Femme de 48 ans, fumeuse d'un paquet par jour. Aucune allergie médicamenteuse connue. Antécédents familiaux sans intérêt. Pas d'antécédents personnels. Une grossesse à terme, prise de contraceptifs hormonaux oraux depuis deux ans. Pas d'autres médicaments.
+
+Examen physique
+Tumeur du sein gauche mesurant environ 3 cm de diamètre dans le quadrant supéro-externe. Le reste de l'examen par appareil ne révèle rien d'intéressant.
+
+Examens complémentaires
+Mammographie-échographie du sein gauche : lésion suspecte de malignité au sein gauche CSE mesurant 3,4 x 3 cm BIRADS 4C. Deux adénopathies sont observées dans l'aisselle gauche avec un aspect pathologique.
+"BAG du nodule mammaire : carcinome canalaire infiltrant de grade III avec infiltration du derme, HER-2 +++, RE+, RP-.
+"Adénopathie axillaire FNA : positive pour l'adénocarcinome.
+"Tomodensitométrie thoraco-abdominale : aucun signe suspect de malignité.
+
+Diagnostic
+Carcinome canalaire infiltrant de grade III avec infiltration du derme, HER-2 +++, ER+, RP- stade pT4N2M0 (IIIB selon la classification TNM 7ème édition en vigueur en 2009).
+
+Traitement
+Une mastectomie radicale modifiée avec lymphadénectomie axillaire a été pratiquée en 2009. Par la suite, elle a reçu un traitement adjuvant à base de doxorubicine et de cyclophosphamide (AC) pendant quatre cycles, suivi de docétaxel (T) et de radiothérapie (RT) ; elle a ensuite poursuivi le traitement pendant un an avec du trastuzumab. En 2010, elle a commencé une hormonothérapie. En juin 2013, une étude d'extension a été réalisée avec un scanner et une scintigraphie osseuse, après une élévation des marqueurs tumoraux, et elle a finalement été diagnostiquée avec de multiples métastases osseuses. En septembre 2013, elle est entrée dans l'essai clinique PERUSE (docétaxel-trastuzumab-pertuzumab) avec une réponse osseuse. En juin 2016, elle a commencé à ressentir une légère baisse de l'acuité visuelle à gauche, de sorte qu'un scanner crânien a été réalisé et on lui a diagnostiqué une seule métastase dans l'hémisphère cérébelleux droit. Elle a reçu un traitement de radiochirurgie en août 2016. Elle est sortie de la MC et a commencé un traitement par TDM-1.
+
+Évolution
+Au cours du traitement par TDM1, elle a signalé une paralysie faciale progressive qui a débuté en juin 2017 et s'est accompagnée d'une légère instabilité. Lors d'une étude d'extension par tomodensitométrie et IRM, une nouvelle métastase a été observée à la jonction du pédoncule cérébelleux moyen gauche avec le pons, sans œdème périlésionnel. Il a bénéficié d'une nouvelle radiochirurgie et le T-DM1 a été poursuivi. Un an plus tard, deux nouvelles lésions millimétriques supratentorielles ont été observées et il a de nouveau bénéficié d'une radiochirurgie. La maladie systémique étant sous contrôle, il a continué à recevoir le T-DM1.
+Trois mois plus tard, il y a eu une nette aggravation neurologique, sans progression cérébrale, avec seulement un œdème périlésionnel affectant le corps calleux. Nous avons fait un diagnostic différentiel entre radionécrose vs carcinomatose méningée vs toxicité du T-DM1. Nous avons suspendu le traitement à ce moment-là, et l'étude du LCR s'est révélée négative pour les métastases.
+Nous avons adressé le patient au service de neurologie. Devant la suspicion de neuronopathie axonale, un électromyogramme a été demandé en février 2019, qui a confirmé une polyneuropathie sensitive axonale sévère compatible avec une neuronopathie axonale ; des anticorps anti-nucléaires, anti-cytoplasme des neutrophiles, anti-ADN natif, anti-Hu, anti-Yo, anti-amphiphysine, anti-CV2, PNMA2, Ri, SOX-1, titine, recoverin, ZIC4, GAD65 ont été demandés, qui se sont tous révélés négatifs. Malgré le fait que lors du suivi par IRM, CT et GGO en mars 2019, la maladie est restée stable et, après avoir retiré le T-DM1, la détérioration neurologique de la patiente a continué à augmenter avec l'apparition de paresthésies, d'instabilité et de perte des fonctions supérieures. Le service de neurologie a exclu de lui-même tout traitement.
+Actuellement, le patient continue d'être suivi par le service d'oncologie et est traité avec les meilleurs soins de soutien.

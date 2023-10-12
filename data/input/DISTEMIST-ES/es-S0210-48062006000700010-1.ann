@@ -1,0 +1,12 @@
+T1	pathologie 123 141	colecistitis aguda
+T2	pathologie 292 299	bilioma
+T3	pathologie 477 495	pancreatitis aguda
+T4	pathologie 519 545	colección peri-pancreática
+T5	pathologie 684 709	colección retroperitoneal
+T6	pathologie 1090 1135	absceso parietocólico derecho extraperitoneal
+#1	SNOMED T6	75100008
+#2	SNOMED T2	235932003
+#3	SNOMED T4	235957008
+#4	SNOMED T1	65275009
+#5	SNOMED T5	32362007
+#6	SNOMED T3	197456007

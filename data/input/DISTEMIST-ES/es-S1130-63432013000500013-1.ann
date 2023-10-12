@@ -1,0 +1,14 @@
+T1	pathologie 17 49	infectado por el VHC genotipo 1a
+T2	pathologie 17 95	infectado por el VHC genotipo 1a y por el virus de la inmunodeficiencia humana
+T3	pathologie 107 124	fibrosis hepática
+T4	pathologie 135 143	cirrosis
+T5	pathologie 375 378	HCC
+T6	pathologie 448 451	HCC
+T7	pathologie 996 999	HCC
+#1	SNOMED T1	50711007
+#2	SNOMED T3	62484002
+#3	SNOMED T4	19943007
+#4	SNOMED T5	128302006
+#5	SNOMED T6	128302006
+#6	SNOMED T7	128302006
+#7	SNOMED T2	50711007

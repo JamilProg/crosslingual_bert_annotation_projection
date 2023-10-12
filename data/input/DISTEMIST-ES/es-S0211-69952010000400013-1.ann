@@ -1,0 +1,22 @@
+T1	pathologie 35 38	SSp
+T2	pathologie 65 78	síndrome seco
+T3	pathologie 114 126	poliartritis
+T4	pathologie 646 690	infección activa en arcada dentaria inferior
+T5	pathologie 725 742	lesiones cutáneas
+T6	pathologie 1162 1165	SSp
+T7	pathologie 1462 1490	glomerulonefritis (GN) aguda
+T8	pathologie 1481 1483	GN
+T9	pathologie 1545 1574	proceso infeccioso mandibular
+T10	pathologie 2299 2364	Glomérulos con masivos trombos intracapilares de inmunoglobulinas
+T11	pathologie 2379 2425	glomerulopatía crioglobulinémica asociada a SS
+#1	SNOMED T7	19351000
+#2	SNOMED T1	239912009
+#3	SNOMED T2	83901003
+#4	SNOMED T11	236505008
+#5	SNOMED T9	363166002
+#6	SNOMED T3	202031002
+#7	SNOMED T4	32871000119101
+#8	SNOMED T5	95324001
+#9	SNOMED T6	239912009
+#10	SNOMED T8	36171008
+#11	SNOMED T10	123752003

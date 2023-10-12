@@ -1,0 +1,30 @@
+Anamnèse
+Un jeune homme de 18 ans, sans antécédents, a été adressé en mai 2007 pour un syndrome constitutionnel, avec une perte de poids de 5 kg, des douleurs dans l'hypochondre droit depuis 4 mois et une hépatomégalie.
+La tomodensitométrie (TDM) a confirmé la présence d'une tumeur hépatique primaire de 12 cm, avec une saturnite, une infiltration surrénalienne droite et des adénopathies rétropéritonéales, sans métastase. Il a subi une hépatectomie droite, une cholécystectomie, une surrénalectomie droite et une lymphadénectomie.
+L'étude pathologique a montré un hépatocarcinome fibrolamellaire (FLC) de 12 cm avec un motif multinodulaire, une satellitose, une nécrose et une calcification, sur un foie non cirrhotique et une adénopathie métastatique.
+Après résection complète, il n'a pas reçu de traitement adjuvant et a été suivi. En contrôle, 15 mois après la chirurgie, étant asymptomatique, il a présenté :
+
+Examen physique
+État de performance = 0. Aucun résultat.
+
+Examens complémentaires
+Hémogramme, hémostase et biochimie normaux, sauf GPT 82 UI/l et GGT 168 UI/l. Marqueurs tumoraux négatifs.
+AFP 2,2 ng/ml.
+Tomodensitométrie thoraco-abdominale-pelvienne : 2 nodules solides de 1,5 cm dans le poumon gauche.
+Foie sans lésions. Masse rétropéritonéale hétérogène mesurant 11 x 9 cm. Adénopathies rétrocrurales.
+Biopsie de la masse rétropéritonéale positive pour un hépatocarcinome fibrolamellaire (FLC).
+
+Diagnostic
+Récidive pulmonaire et rétropéritonéale non résécable d'un hépatocarcinome fibrolamellaire.
+
+Traitement
+Il a été décidé d'appliquer un traitement pédiatrique à base de cisplatine et de doxorubicine, conformément au protocole INT-0098 (1).
+Entre décembre 2008 et avril 2009, il a suivi 6 cycles avec une bonne tolérance, obtenant une réponse partielle, avec une réduction de la masse (4,5 x 2 cm).
+Elle a poursuivi le traitement d'entretien par sorafenib 400 mg c/12 h avec une maladie stable jusqu'en avril 2010, date à laquelle elle a présenté une progression rétropéritonéale, et le sunitinib a été prescrit à la dose de 37,5 mg/jour.
+
+Évolution
+En mai 2010, il a présenté une subocclusion intestinale due à une compression extrinsèque du duodénum qui a nécessité une gastrojéjunostomie.
+Par la suite, un traitement par gemcitabine-oxaliplatine a été instauré pour deux cycles, suspendu en juillet 2010 à la demande du patient. Le 24/7/10, il a présenté une infection des voies respiratoires inférieures ; il a été mis sous lévofloxacine 500 mg c/24 h pendant 10 jours. La fonction hépatique était normale à ce moment-là. Il n'a reçu aucun autre traitement pharmacologique.
+À la fin de l'antibiothérapie, en août 2010, il a été admis pour un ictère progressif avec une LDH élevée et une sérologie négative. La tomodensitométrie et l'imagerie par résonance magnétique (IRM) ont permis d'exclure une anémie hémolytique, une progression hépatique ou une obstruction biliaire. La biopsie du foie a conclu à une cholostase d'origine toxique (quinolones). Compte tenu de ce diagnostic et d'une bilirubine de 87 mg/dl, une dialyse a été effectuée contre de l'albumine pour la désintoxication dans l'unité de soins intensifs (USI).
+Cependant, il est finalement décédé.
+L'autopsie a confirmé que la nécrose hépatique toxique et l'hémorragie gastro-intestinale étaient la cause immédiate du décès.

@@ -1,0 +1,26 @@
+Anamnèse
+Une femme de 58 ans, aux antécédents de mammoplastie d'augmentation rétropectorale à l'âge de 38 ans et d'adnexhystérectomie totale pour myomes à l'âge de 50 ans, sans autre donnée clinique ou traitement médical d'intérêt, a été adressée au service d'oncologie médicale de notre hôpital en provenance d'un autre centre après avoir subi une chirurgie conservatrice du sein droit pour un carcinome canalaire infiltrant (CDI) à différenciation neuroendocrine afin de planifier un traitement adjuvant.
+
+Examen physique
+La documentation fournie montre : palpation d'un nodule irrégulier dans le quadrant supéro-externe (SEQ), ligne interquadrantique externe (EQL) du sein droit.
+En consultation : plaie chirurgicale à bords bien orientés, à l'état cicatriciel, sans altération observée.
+
+Examens complémentaires
+"Échographie et mammographie, montrant un nodule de 18,6 mm mal délimité dans le quadrant supéro-externe (QSE), ligne interquadrantique externe (LIE) du sein droit.
+"Scanner thoraco-abdominal : trois lésions hypodenses dans le lobe hépatique droit, la plus grande mesurant 9 mm, évoquant de simples kystes à évaluer lors des examens de suivi. Pas d'images évocatrices de métastases.
+"Scintigraphie osseuse : pas de prise pathologique ni d'asymétries suggérant un processus infiltrant au niveau osseux.
+"La biopsie à l'aiguille réalisée a montré un carcinome canalaire infiltrant (CDI), grade 2, Scarff 6 (D3P2M1), avec des récepteurs aux œstrogènes (ER) +++ (90 %), des récepteurs à la progestérone (PRg) + (30 %), Her-2 négatif, Ki-67 de 7 %.
+"Compte tenu des résultats, une tumorectomie et une biopsie sélective du ganglion lymphatique sentinelle (SLNB) ont été réalisées, avec des limites libres.
+"L'étude pathologique définitive a fait état d'un carcinome canalaire infiltrant, pT2 (23 mm), avec différenciation neuroendocrine, grade 2, Scarff 6 (D3P2M1), bords libres, absence de métastases dans le ganglion lymphatique sentinelle, 6 mitoses/champ.
+"Rapports d'immunohistochimie (IHC) : synaptophysine et chromogranine positives, ER 90%, RPg 30%, Her-2 neu négatif, Ki-67 de 4%.
+"MammaPrint : risque élevé de récidive.
+
+Diagnostic
+Avec toutes ces données, le stade est pT2, pN0, M0, correspondant au stade IIA et, étant donné les caractéristiques de la tumeur : stade II, infiltrante, de taille 2 cm et sans atteinte ganglionnaire, le test MammaPrint est demandé pour évaluer le risque de récidive, qui fait état d'un risque élevé.
+Diagnostic de carcinome canalaire infiltrant à différenciation neuroendocrine, stade IIA, hormono-sensible avec un index de prolifération faible, avec un risque élevé de récidive selon la plateforme génomique MammaPrint.
+
+Traitement
+Il a été décidé de commencer un traitement adjuvant par fluorouracil, épirubicine et cyclophosphamide (FEC) x 6 cycles, avec une bonne tolérance et sans complications immédiates, avec une toxicité hématologique de la série rouge de grade 2 et une hypertransaminasémie de grade 1. Par la suite, il a terminé la radiothérapie adjuvante, avec une bonne tolérance et une radiodermite de grade 1. Il est actuellement sous traitement hormonal par anastrozole, avec une bonne tolérance et une bonne observance, présentant une légère dyslipidémie dans les contrôles analytiques.
+
+Évolution
+La patiente mène une vie normale et se soumet à des examens semestriels, avec un contrôle analytique et une mammographie annuelle, avec une survie sans maladie de 22 mois.

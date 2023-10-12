@@ -1,0 +1,6 @@
+T1	pathologie 34 81	carcinoma epidermoide infiltrante de orofaringe
+T2	pathologie 174 211	disfagia secundaria a la radioterapia
+T3	pathologie 491 530	estenosis en porción esofágica superior
+#1	SNOMED T2	40739000+20558004
+#2	SNOMED T1	423464009
+#3	SNOMED T3	63305008

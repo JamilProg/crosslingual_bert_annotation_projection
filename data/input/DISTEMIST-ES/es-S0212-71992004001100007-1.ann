@@ -1,0 +1,30 @@
+T1	pathologie 128 150	valvulopatía reumática
+T2	pathologie 152 181	fibrilación auricular crónica
+T3	pathologie 183 186	FAC
+T4	pathologie 189 192	HTA
+T5	pathologie 194 227	insuficiencia cardiaca congestiva
+T6	pathologie 229 232	ICC
+T7	pathologie 493 496	ICC
+T8	pathologie 616 629	hepatomegalia
+T9	pathologie 943 946	ICC
+T10	pathologie 1334 1342	lesiones
+T11	pathologie 1423 1445	fenómenos vasculíticos
+T12	pathologie 1490 1513	Endocarditis Infecciosa
+T13	pathologie 1685 1697	vegetaciones
+T14	pathologie 2297 2322	hematoma occipitoparietal
+T15	pathologie 2681 2698	hematoma cerebral
+#1	SNOMED T1	16063004
+#2	SNOMED T2	426749004
+#3	SNOMED T4	38341003
+#4	SNOMED T5	42343007
+#5	SNOMED T6	42343007
+#6	SNOMED T7	42343007
+#7	SNOMED T9	42343007
+#8	SNOMED T12	233850007
+#9	SNOMED T14	450425005
+#10	SNOMED T15	301764006
+#11	SNOMED T11	31996006
+#12	SNOMED T13	264340003
+#13	SNOMED T8	80515008
+#14	SNOMED T10	157670007
+#15	SNOMED T3	426749004

@@ -1,0 +1,19 @@
+T1	pathologie 93 102	angiodema
+T2	pathologie 276 290	esplenomegalia
+T3	pathologie 293 306	hepatomegalia
+T4	pathologie 877 888	hidatidosis
+T5	pathologie 890 903	leishmaniosis
+T6	pathologie 905 916	fasciolosis
+T7	pathologie 919 928	amebiasis
+T8	pathologie 1179 1198	hepatopatía crónica
+T9	pathologie 1205 1219	esplenomegalia
+T10	pathologie 1244 1270	varices en hilio esplénico
+T11	pathologie 1326 1344	varices en esófago
+T12	pathologie 1375 1405	mucosa gástrica muy congestiva
+T13	pathologie 1446 1473	varices en cardias gástrico
+T14	pathologie 1543 1580	rectitis petequial con pequeño pólipo
+T15	pathologie 1652 1736	rectales evidencian un infiltrado inflamatorio mixto con formación focal de abscesos
+T16	pathologie 2065 2103	esquistosomiasis con afectación rectal
+T17	pathologie 2065 2114	esquistosomiasis con afectación rectal y hepática
+T18	pathologie 2429 2452	varices esofagogátricas
+T19	pathologie 2481 2500	hepatopatía crónica

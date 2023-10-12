@@ -1,0 +1,8 @@
+T1	pathologie 55 76	hipertensión arterial
+T2	pathologie 79 110	hiperplasia benigna de próstata
+T3	pathologie 462 492	quiste hidatídico retrovesical
+T4	pathologie 990 1010	hidatidosis pelviana
+#1	SNOMED T1	38341003
+#2	SNOMED T2	266569009
+#3	SNOMED T3	74942003
+#4	SNOMED T4	74942003

@@ -1,0 +1,24 @@
+T1	pathologie 57 65	fumadora
+T2	pathologie 84 139	hipotiroidismo posablación tiroidea con yodo radiactivo
+T3	pathologie 142 151	OG severa
+T4	pathologie 156 183	neuropatía óptica bilateral
+T5	pathologie 280 306	pseudofaquia en ambos ojos
+T6	pathologie 308 328	punctata inferior OD
+T7	pathologie 359 379	quemosis conjuntival
+T8	pathologie 394 412	edema de carúncula
+T9	pathologie 791 807	hábito tabáquico
+T10	pathologie 1189 1200	orbitopatía
+T11	pathologie 2096 2135	edema y eritema conjuntival y palpebral
+T12	pathologie 2335 2345	estrabismo
+#1	SNOMED T10	371436007
+#2	SNOMED T1	77176002
+#3	SNOMED T9	89765005
+#4	SNOMED T2	237527007
+#5	SNOMED T3	276177000
+#6	SNOMED T4	77157004
+#7	SNOMED T5	95217000
+#8	SNOMED T6	42513006
+#9	SNOMED T11	84178004+193967004+703630003+1137447008
+#10	SNOMED T7	8148005
+#11	SNOMED T12	22066006
+#12	SNOMED T8	386658005

@@ -1,0 +1,32 @@
+T1	pathologie 37 58	alergia a penicilinas
+T2	pathologie 60 81	hipertensión arterial
+T3	pathologie 106 115	psoriasis
+T4	pathologie 341 361	ureterohidronefrosis
+T5	pathologie 647 702	carcinoma urotelial indiferenciado infitrante de vejiga
+T6	pathologie 864 884	ureterohidronefrosis
+T7	pathologie 1096 1191	carcinoma urotelial sólido de alto grado que infiltraba la grasa perivesical, próstata y uretra
+T8	pathologie 1312 1387	cadena iliobturatriz izquierda ganglios infiltrados por carcinoma urotelial
+T9	pathologie 1467 1473	anemia
+T10	pathologie 1730 1736	anemia
+T11	pathologie 1870 1879	hematomas
+T12	pathologie 2130 2166	coagulación intravascular diseminada
+T13	pathologie 2168 2171	CID
+T14	pathologie 2340 2346	anemia
+T15	pathologie 2407 2475	médula ósea obteniéndose células metastásicas de carcinoma urotelial
+T16	pathologie 2493 2546	infiltración de la médula ósea por el tumor de vejiga
+#1	SNOMED T1	91936005
+#2	SNOMED T2	38341003
+#3	SNOMED T3	9014002
+#4	SNOMED T7	255109008+94503003+94661005
+#5	SNOMED T5	255108000
+#6	SNOMED T4	40068008
+#7	SNOMED T8	94336001
+#8	SNOMED T6	40068008
+#9	SNOMED T10	271737000
+#10	SNOMED T11	385494008
+#11	SNOMED T12	67406007
+#12	SNOMED T13	67406007
+#13	SNOMED T14	271737000
+#14	SNOMED T15	94217008
+#15	SNOMED T16	94217008+399326009
+#16	SNOMED T9	271737000

@@ -1,0 +1,14 @@
+T1	pathologie 45 52	fumador
+T2	pathologie 97 131	hepatitis crónica C genotipo 1a/1c
+T3	pathologie 175 183	fibrosis
+T4	pathologie 299 310	hepatitis C
+T5	pathologie 832 843	hemorroides
+T6	pathologie 867 875	ansiedad
+T7	pathologie 1712 1730	pancreatitis aguda
+#1	SNOMED T1	77176002
+#2	SNOMED T2	768289009
+#3	SNOMED T7	197456007
+#4	SNOMED T3	263756000
+#5	SNOMED T5	70153002
+#6	SNOMED T4	50711007
+#7	SNOMED T6	197480006

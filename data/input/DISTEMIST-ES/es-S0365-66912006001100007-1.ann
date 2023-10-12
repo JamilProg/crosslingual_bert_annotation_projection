@@ -1,0 +1,16 @@
+T1	pathologie 37 57	endotropía congénita
+T2	pathologie 140 150	endotropía
+T3	pathologie 162 165	DVD
+T4	pathologie 330 368	lesión conjuntival de aspecto quístico
+T5	pathologie 532 554	absceso subconjuntival
+T6	pathologie 660 666	lesión
+T7	pathologie 905 928	lesión quística benigna
+T8	pathologie 969 987	formación quística
+#1	SNOMED T1	232093001
+#2	SNOMED T2	22066006
+#3	SNOMED T4	193901000
+#4	SNOMED T5	95679004
+#5	SNOMED T8	441457006
+#6	SNOMED T7	441457006
+#7	SNOMED T6	417163006
+#8	SNOMED T3	232108003

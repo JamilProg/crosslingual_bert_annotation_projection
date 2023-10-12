@@ -1,0 +1,6 @@
+T1	pathologie 33 49	eritema perianal
+T2	pathologie 435 442	fisuras
+T3	pathologie 585 607	sobreinfección fúngica
+#1	SNOMED T1	400037008
+#2	SNOMED T2	47393002
+#3	SNOMED T3	3218000

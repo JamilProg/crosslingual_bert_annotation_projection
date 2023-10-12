@@ -1,0 +1,24 @@
+Anamnèse
+La patiente est une femme de 62 ans, sans antécédents médicaux ou chirurgicaux intéressants, à l'exception de deux césariennes, dont le traitement habituel consiste en de l'oméprazole et du lorazépam. Parmi ses antécédents familiaux, son père est décédé d'un cancer du poumon à l'âge de 64 ans et une cousine s'est vu diagnostiquer un cancer du sein à l'âge de 50 ans.
+La patiente s'est présentée au service des urgences pour un écoulement séro-hématique par une hernie ombilicale. Elle était inscrite sur la liste d'attente chirurgicale pour une opération de la hernie ombilicale, mais depuis deux jours, elle a remarqué que sa hernie ombilicale était plus érythémateuse, tendue et émettait un liquide clair, qui n'était pas malodorant. Elle a nié toute modification du rythme des selles, toute nausée ou tout vomissement. Elle a été évaluée par l'équipe de chirurgie générale de garde et, le diagnostic de hernie ombilicale incarcérée ayant été posé, il a été décidé de procéder à une intervention chirurgicale urgente.
+
+Examen physique
+La patiente s'est présentée au service des urgences pour un écoulement séro-hématique par la hernie ombilicale. Elle était inscrite sur la liste d'attente chirurgicale pour une opération de la hernie ombilicale, mais depuis deux jours, la hernie ombilicale était plus érythémateuse, tendue et émettait un liquide clair, qui n'était pas malodorant. Elle a nié toute modification du rythme des selles, toute nausée ou tout vomissement. Elle a été évaluée par l'équipe de chirurgie générale de garde et, le diagnostic de hernie ombilicale incarcérée ayant été posé, il a été décidé de procéder à une intervention chirurgicale urgente.
+
+Tests complémentaires
+Au bloc opératoire, une tumeur ombilicale de 1 cm de diamètre avec une peau sus-jacente d'aspect violacé atteignant l'aponévrose a été observée. De plus, une petite quantité de liquide intrapéritonéal libre a été observée, dont des échantillons ont été prélevés pour un examen cytologique.
+L'étude histologique du nodule a été rapportée comme une métastase de carcinome séreux ovarien de haut grade avec un bord chirurgical affecté, l'étude immunohistochimique étant positive pour CK7, WT1, p53 et les œstrogènes, et négative pour CK20 et la progestérone ; avec un Ki67 de 25 %.
+La cytologie du liquide prélevé au cours de la procédure s'est révélée négative pour la malignité.
+Cependant, avant d'obtenir ces résultats anatomopathologiques, la patiente a été impliquée dans un accident de la circulation, ce qui l'a amenée à être examinée à nouveau au service des urgences. Une échographie rapide a été réalisée, montrant un liquide libre et, étant donné qu'il s'agissait d'un accident à grande vitesse, l'étude a été complétée par une tomodensitométrie thoraco-abdominale-pelvienne. Les images ont montré une masse annexielle gauche hyperdense de 74x64 mm compatible avec un processus néoformatif. En outre, du liquide intrapéritonéal libre et de multiples implants dans le grand épiploon (17 cm), la coupole diaphragmatique (60 mm), le périhépatique (33 x 11 mm) ainsi qu'une lésion splénique de 33 x 13 mm.
+Compte tenu des résultats radiologiques, la patiente a été examinée dans les services de gynécologie et d'oncologie médicale.
+Une mammographie bilatérale a été réalisée et s'est révélée normale. L'analyse des marqueurs tumoraux a montré une élévation des marqueurs Ca 15.3 de 206,3 (normale <35 UI/ml) et Ca 125 de 2451,6 (normale <35 UI/ml).
+
+Diagnostic
+Carcinome ovarien séreux de haut grade au stade IV.
+
+Traitement
+Une fois le cas présenté au comité des tumeurs gynécologiques, il a été décidé par consensus de commencer le traitement systémique par une chimiothérapie à base de carboplatine et de paclitaxel, dont elle a reçu trois cycles avec une excellente tolérance, ne présentant qu'une constipation de grade 2, qui a été traitée de manière satisfaisante par des laxatifs. Le plan établi est d'administrer un total de quatre cycles de chimiothérapie néoadjuvante et de se présenter ensuite à nouveau au comité des tumeurs pour évaluer l'intervalle entre les interventions chirurgicales.
+
+Évolution
+Elle a reçu trois cycles à ce jour avec une excellente tolérance, ne présentant qu'une constipation de grade 2 qui a été traitée de manière satisfaisante avec des laxatifs.
+Le plan établi est d'administrer un total de quatre cycles de chimiothérapie néoadjuvante et de présenter ensuite une nouvelle fois au comité des tumeurs pour évaluer l'intervalle entre les interventions chirurgicales.

@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 65 ans, opéré en mars 2003 par prostatectomie radicale d'un adénocarcinome de la prostate (pT2bN0M0), Gleason 7 (4 + 3). Rechute biochimique (PSA 5,2 ng/ml) en juin 2004, après un intervalle sans maladie de 15 mois, traitée par blocage androgénique complet.
+Progression biochimique (PSA 13,6 ng/ml) et radiologique en novembre 2011 avec apparition de métastases osseuses et adénopathiques. Les antiandrogènes ont été retirés, avec une progression biochimique (PSA 22 ng/ml), de sorte qu'en janvier 2012, le docétaxel 75 mg/m2 trois fois par semaine a été commencé. Il a reçu 9 cycles avec une réponse biochimique (PSA 17 ng/ml) et une stabilisation radiologique. En novembre 2012, une progression clinique et biochimique (PSA 156 ng/ml) a été observée et l'abiratérone a été prescrite. En janvier 2013, nouvelle progression clinique et biochimique (PSA 380,3 ng/ml). La famille a signalé des épisodes de désorientation et de prostration accrue, qu'elle a mis en relation avec une augmentation de l'analgésie.
+Une semaine plus tard, il a été amené aux urgences pour un épisode soudain de dysarthrie et de faiblesse de l'hémisphère droit, suivi d'une chute au sol sans reprise de conscience.
+
+Examen physique
+GCS 3, hématome périorbitaire gauche. Pupilles myotiques et aréactives. Absence de tonus aux quatre extrémités. Réflexes cutanéoplantaires fléchis bilatéraux. Le reste de l'examen neurologique a été perturbé par le manque de coopération.
+
+Tests complémentaires
+Une prise de sang au service des urgences révèle une hyponatrémie (Na 132 mmol/l) et une anémie (hémoglobine 10,1 g/l). L'électrocardiogramme montre un rythme sinusal à 92 battements par minute.
+La tomodensitométrie crânienne montre plusieurs lésions supratentorielles hypodenses, entourées d'œdème, qui prennent le contraste en anneau, ce qui est compatible avec une métastase. La plus grande, de 2 cm, est située dans la région pariétale droite et s'accompagne de signes de saignement récent. Absence de déplacement sur la ligne médiane. Aucune métastase osseuse n'est observée au niveau crânien.
+
+Diagnostic
+Métastases cérébrales multiples d'un adénocarcinome prostatique résistant à la castration avec hémorragie intralésionnelle.
+
+Traitement
+Une corticothérapie avec de fortes doses de dexaméthasone a été mise en place pour réduire l'œdème vasogénique et un traitement par radiothérapie holocrânienne palliative a été envisagé, compte tenu de la présence de multiples lésions disséminées dans le parenchyme cérébral.
+
+Évolution
+Malgré l'instauration précoce d'une corticothérapie, il n'y a pas eu d'amélioration de l'état de conscience. Lors de l'évaluation neurochirurgicale, le drainage de l'hémorragie a été exclu en raison du risque chirurgical élevé et du faible bénéfice lié à la petite taille de l'hémorragie, à l'état de performance et au stade avancé de la maladie. La radiothérapie a été reportée jusqu'à ce que l'état de conscience du patient s'améliore, et le patient est finalement décédé dans les 48 heures suivant son admission.
+Le cancer de la prostate est le deuxième cancer le plus fréquent chez les hommes dans le monde, avec une incidence de 60 cas pour 100 000 habitants dans les pays développés. Cependant, les complications liées aux métastases cérébrales sont rares. La manière la plus courante pour les cellules néoplasiques d'atteindre le système nerveux central serait par extension directe à partir des structures osseuses adjacentes, atteignant les leptoméninges. Le site le plus courant est la moelle osseuse, mais le cerveau peut être atteint par des métastases crâniennes.
+Chez notre patient, les lésions cérébrales sont intraparenchymateuses et ne sont pas accompagnées de métastases dans le calice crânien, de sorte que le mécanisme ne peut être celui décrit ci-dessus. Un ensemencement hématogène dans le contexte d'une maladie avancée pourrait expliquer ce cas. Des cas de métastases cérébrales intraparenchymateuses comme seule manifestation de la maladie ont été décrits dans la littérature. On pense que les cellules néoplasiques atteindraient le système nerveux central via les plexus veineux paravertébraux, poussées par les manœuvres de Valsalva, évitant ainsi le passage par les poumons et les os.
+Le traitement n'est pas clairement défini étant donné le peu d'expérience accumulée par rapport à sa faible fréquence.
+Il convient de prendre en considération les mêmes variables que dans le cas d'autres néoplasmes (taille et nombre de lésions, contrôle de la maladie, etc.), avec la particularité de la possibilité de réponse aux manœuvres hormonales.

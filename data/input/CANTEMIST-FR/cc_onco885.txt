@@ -1,0 +1,23 @@
+Anamnèse
+Antécédents personnels et oncologiques
+En 1996, à l'âge de 25 ans, le patient a été examiné pour une masse non douloureuse dans le testicule droit, sans aucun autre symptôme. Une échographie testiculaire a révélé une masse solide et hétérogène et une tomodensitométrie (TDM) n'a révélé aucun signe de maladie à distance. Les marqueurs tumoraux au moment du diagnostic étaient une alpha-fœtoprotéine (AFP) de 184,6 ng/ml [0-10 ng/ml] et une gonadotrophine chorionique humaine (HCG) de 182 ng/ml [0-2 ng/ml].
+Étant donné la suspicion clinique d'une tumeur testiculaire, une orchidectomie inguinale radicale du testicule droit a été réalisée, avec confirmation histologique d'une tumeur germinale mixte non séminomateuse (NSGCT) avec un carcinome embryonnaire et une tumeur du sinus endodermique sur le matériel obtenu lors de l'intervention chirurgicale. Après l'opération, une diminution incomplète des marqueurs tumoraux a été observée, avec une AFP de 36,45 ng/dl et une HCG de 120 ng/ml. Par la suite, elle a reçu 4 cycles de BEP (bléomycine, étoposide et cisplatine) et ses marqueurs tumoraux se sont normalisés. Le scanner de contrôle post-chimiothérapie a montré une atteinte résiduelle des ganglions lymphatiques et une lymphadénectomie a été pratiquée, confirmant histologiquement la présence d'une nécrose à ce niveau. La patiente est sortie de l'hôpital en 2002, après des examens successifs sans aucun signe de la maladie.
+Maladie actuelle
+En août 2015, la patiente s'est présentée à l'hôpital en se plaignant d'une douleur sourde et continue dans l'hypochondre droit, ainsi que d'une asthénie et d'une perte de poids de 8 kg depuis environ 4 mois.
+
+Examen physique
+L'examen physique n'a révélé aucune anomalie pathologique notable, à l'exception d'une cicatrice résultant d'une orchidectomie antérieure.
+
+Examens complémentaires
+Compte tenu de la suspicion d'une nouvelle rechute, un scanner a été réalisé, montrant la présence de ganglions lymphatiques rétropéritonéaux évocateurs d'une tumeur maligne. Une augmentation de l'AFP de 156,60 ng/ml a également été observée, avec une HCG dans la plage normale. Le diagnostic final a été posé par une biopsie des ganglions lymphatiques rétropéritonéaux, qui a confirmé la récurrence du NSTE.
+
+Diagnostic
+Récidive tardive d'une tumeur germinale testiculaire après 19 ans de réponse complète au traitement.
+
+Traitement
+À cette époque, la patiente a suivi un nouveau programme de chimiothérapie, recevant trois cycles de paclitaxel, d'ifosfamide et de cisplatine (TIP) et planifiant une chirurgie de sauvetage. Cependant, avant la chirurgie, une nouvelle augmentation des marqueurs tumoraux a été observée avec une AFP de 156 ng/ml et une HCG de 0,1 ng/ml, sans aucun signe de progression d'un point de vue radiologique.
+Compte tenu de la progression biochimique, le cas a été discuté au sein d'un comité multidisciplinaire, et il a finalement été décidé d'annuler la chirurgie et de commencer une chimiothérapie à haute dose (HDCT) suivie d'une autogreffe de cellules progénitrices hématopoïétiques (ASPT). Cette thérapie consistait dans un premier temps à extraire des cellules progénitrices hématopoïétiques du sang périphérique du patient, après stimulation de la moelle osseuse par des facteurs de stimulation des colonies de granulocytes et mobilisation des cellules dans le sang périphérique, ces cellules étant ensuite collectées par aphérèse et purifiées. Après l'extraction des cellules progénitrices, la patiente a subi un traitement par QAD en juillet 2016 selon un schéma composé de deux cycles de paclitaxel à une dose de 175 mg par m2, plus du Carboplatine (AUC 20), plus de l'étoposide à une dose de 200 mg/m2.
+Chaque cycle de QAD a été administré 6 jours avant une autogreffe de cellules souches hématopoïétiques (HSCT) en tant que thérapie de sauvetage pour la toxicité de la moelle causée par QAD.
+
+Évolution
+Après l'AQD, le patient a présenté une diminution marquée de l'AFP (de 295 ng/ml à 21,14 ng/ml), l'HCG restant dans les limites de la normale. Radiologiquement, il a montré une stabilité de la maladie localisée au niveau des ganglions lymphatiques rétropéritonéaux. Une fois qu'il s'est remis de la toxicité et des complications, une chirurgie de sauvetage a finalement été effectuée, avec une résection des ganglions lymphatiques rétropéritonéaux, et un tératome mature a été détecté.

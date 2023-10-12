@@ -1,0 +1,47 @@
+Anamnèse
+
+Antécédents personnels
+Aucune allergie médicamenteuse connue. Fumeur cumulé de 40 paquets-années et alcoolisme modéré (150 g/24 h). Pas d'antécédents de risque cardiovasculaire, de maladie hépatique ou rénale. Pas d'antécédents chirurgicaux.
+"Emploi : il travaille dans les champs et a travaillé auparavant dans une usine de pain.
+"Social : vit avec sa femme, a une fille qui vit en Bulgarie.
+"Antécédents familiaux de cancer : pas d'antécédents familiaux.
+
+Antécédents oncologiques
+Premier symptôme : présentation de symptômes de dysphonie intermittente depuis 2 à 3 ans et apparition d'une tumeur au niveau cervical IV gauche depuis 2 mois environ, d'évolution progressive, accompagnée de douleurs cervicales et d'une dysphagie.
+
+Symptômes au moment du diagnostic
+Le patient présente une douleur latéro-cervicale postérieure gauche irradiant vers la fosse postérieure avec des céphalées secondaires, qui ont progressivement augmenté, avec un EVA de 6-7/10. Sous traitement de dexketoprofen toutes les 8 heures, la douleur est régulièrement contrôlée.
+
+En outre, elle présente une dysphagie pour les solides et des signes de bronchoaspiration pour les liquides, ce qui nécessite la mise en place d'une sonde nasogastrique pour la nutrition entérale. Elle ne présentait aucun autre symptôme.
+
+Exploration physique
+"PS 1 ; IK 80.
+"Adénopathie latérocervicale de 3-4 cm niveau IV gauche.
+"Masse adénopathique cervicale de 8-10 cm niveau II-III gauche. Adénopathie de 1 cm de niveau IIA à droite.
+"Auscultation pulmonaire avec une ventilation acceptable et quelques rhonchies éparses.
+"Nasofibrolaryngoscopie : tumeur laryngée avec atteinte des deux cordes vocales atteignant la face laryngée de l'épiglotte, lumière glottique réduite de 70 %.
+
+Examens complémentaires
+Premières études : l'examen par nasofibrolaryngoscopie révèle une dysmorphie septale droite sévère, un cavum libre, avec une tumeur touchant toute la corde vocale droite, la commissure antérieure et le tiers antérieur de la corde vocale gauche. Palpation d'une adénopathie de 3-4 cm de diamètre, mobile, non douloureuse, indurée au niveau IV à gauche et d'une adénopathie de 1 cm au niveau IIA à droite. Une FNA de l'adénopathie a été réalisée et s'est avérée compatible avec un carcinome épidermoïde.
+Le scanner d'évaluation a montré une tumeur intralaryngée transglottique avec une lymphadénopathie cervicale bilatérale, qui a également été observée lors du PET-CT réalisé dans le cadre d'une étude d'extension. Des implants tumoraux péritonéaux probables ont également été observés, dont un plus grand et plus actif en contact avec l'anse de l'iléon dans l'hémipelvis droit ; un épaississement hypermétabolique dans l'hémiscrotal gauche adjacent au canal inguinal qui pourrait correspondre à un autre implant ; de multiples métastases osseuses d'origine essentiellement lytique et une atteinte tumorale du muscle quadratus femoris fémoral droit.
+Les analyses sanguines n'ont pas été modifiées.
+
+Diagnostic
+Un patient de 57 ans aux habitudes toxiques, sans comorbidité connue, diagnostiqué en juin 2017 avec un carcinome épidermoïde du larynx de stade IVc debut (maladie locorégionale volumineuse et symptomatique, métastases osseuses et implants péritonéaux), selon la huitième édition du TNM. Le cas a été présenté à un comité des tumeurs de la tête et du cou le 23 juin 2017, et un traitement par chimiothérapie palliative a été décidé.
+
+Traitement
+Un traitement par chimiothérapie a été débuté selon le schéma EXTREME C1 le 28 juin 2017, avec du cisplatine avec une réduction de dose de 80 %. Le cycle de traitement a été réalisé en hospitalisation, avec une bonne tolérance. Ses symptômes étaient des expectorations hémoptotiques, qui se sont résorbées d'elles-mêmes avec le traitement médical.
+
+Évolution
+Après le premier cycle de chimiothérapie, la patiente a présenté une éruption cutanée secondaire au cetuximab G2 sur le visage et le tronc, une conjonctivite G2 et une chéilite G1, sans autre symptôme. La dysphagie s'est améliorée et le contrôle de la douleur s'est amélioré, ce qui a permis de prendre progressivement des aliments par voie orale et de retirer la sonde nasogastrique. Elle a présenté une réponse clinique et une réduction de la taille de l'adénopathie à l'examen.
+Elle a effectué les cycles 2 (C2) et 3 sans incident et à une dose de 100 %. Les toxicités comprenaient des nausées G1 pendant les 3-4 premiers jours, une mucosite G1, secondaire au cisplatine et au 5-fluorouracile ; une ototoxicité G1, secondaire au cisplatine ; avec une aggravation de la toxicité cutanée jusqu'à G3, secondaire au cétuximab.
+Dans le bilan de réponse (24/8/2017), après 3 cycles d'EXTREME, la patiente présente une bonne réponse radiologique avec une réponse partielle de >50% de la tumeur primitive, une réponse de plus de 70% des adénopathies latérocervicales bilatérales et une réponse complète au niveau péritonéal. Au niveau clinique, tolérance acceptable au traitement, réponse clinique avec suspension de l'analgésie en raison de l'absence de douleur et résolution complète de la dysphagie.
+Le patient a poursuivi le traitement selon le même schéma, recevant C4 EXTREME avec une réduction de la dose de cetuximab à 80% en raison de la toxicité cutanée et a ensuite reçu C5 avec une réduction de la dose de cisplatine à 80%, avec une réponse significative de la tumeur laryngée à l'examen et une lumière glottique libre. Il a reçu C6 le 18/10/17, cette fois en remplaçant le cisplatine par du carboplatine en raison d'une ototoxicité naissante (avec acouphènes et hypoacousie G1).
+Après 6 cycles d'EXTREME, on observe une réponse complète en T et au niveau péritonéal, mais une progression au niveau adénopathique avec réapparition de douleurs à ce niveau. Le patient s'est vu proposer la possibilité d'un traitement dans le cadre de l'étude de la branche B3 de ZScores (AZD9150 + durvalumab), ce qu'il a accepté.
+Il a commencé le C1D1 le 5/12/2017. Le C1D8, il a présenté une hypercalcémie G4 asymptomatique (probablement liée à une tumeur avec métastases osseuses), le traitement a donc dû être interrompu et il a été admis pour traitement. Elle a également présenté une hypophosphatémie G3 qui s'est résorbée avec un traitement substitutif. Il n'a pas été possible d'administrer le traitement correspondant aux C1D8 et C1D15.
+Par la suite, après résolution des symptômes, elle a poursuivi le traitement avec C2 le 4/1/18, recevant C2D1 et C2D8. Lors de la tomodensitométrie d'évaluation de la réponse (17/1/2018), on a constaté une augmentation des lésions adénopathiques et l'apparition de nouvelles adénopathies, de sorte que la patiente a quitté l'essai en raison de la progression de la tumeur. De même, des douleurs sont réapparues, le traitement antalgique a donc été repris avec de l'ibuprofène toutes les 8 heures et du paracétamol en alternance. A partir de ce moment, un suivi conjoint avec l'unité de soins palliatifs a été effectué afin d'améliorer l'adaptation du traitement symptomatique.
+À cette époque, la patiente présentait une neurotoxicité G1 dans les mains et les pieds et une asthénie G1 comme toxicités résiduelles, conservant un PS de 1. La patiente a été considérée comme candidate à un traitement de chimiothérapie de troisième ligne avec du paclitaxel hebdomadaire à 80 mg/m2 malgré la neurotoxicité résiduelle (G1). Le patient a accepté et a commencé le traitement le 24/1/2018.
+Après le premier cycle, il a présenté une bonne tolérance au traitement et une amélioration de l'état général, avec une asthénie de grade 1, une neurotoxicité de grade 2 et un contrôle de la douleur avec 25 mcg de fentanyl patch et 100 mcg de fentanyl intranasal rescue. Après 3 cycles de paclitaxel hebdomadaire, elle a présenté une réponse clinique significative, mais avec une aggravation de la toxicité cutanée à G2, une neuropathie à G2 et une anémie à G3.
+Elle a présenté une bonne tolérance aux cycles de traitement suivants, mais avec une aggravation des toxicités sous la forme d'une neuropathie G3, d'une dysphagie G1 et d'une douleur bien contrôlée par l'analgésie. Après 16 cycles de paclitaxel hebdomadaire (4 mois), la patiente a présenté une réponse complète de la lésion adénopathique au scanner du cou (mai 2018) et la réponse complète a persisté sur le reste des niveaux.
+Devant la persistance d'une neurotoxicité G3 au niveau des pieds et G1 au niveau des mains, en juin 2018, il a été décidé avec la patiente de suspendre le traitement et de débuter des contrôles. Après un mois sans traitement, le patient a montré une amélioration de la neurotoxicité dans les mains (G1) et les pieds (G2), et dans le scanner de contrôle, il a maintenu une réponse complète.
+Le patient a continué à passer des examens de contrôle jusqu'au dernier disponible (janvier 2019), où le scanner cervico-thoracique-abdominal n'a montré aucun signe de récidive à aucun niveau, maintenant une réponse complète. Il reste également asymptomatique, à l'exception de la neurotoxicité, qui s'est améliorée au grade 1 dans les pieds et s'est résolue dans les mains. Pour le reste, il mène une vie active. Il est prévu qu'il continue à subir des contrôles périodiques.

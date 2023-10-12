@@ -1,0 +1,6 @@
+T1	pathologie 73 90	fibrosis quistica
+T2	pathologie 1034 1048	hipomagnesemia
+T3	pathologie 2646 2671	efecto adverso al fármaco
+#1	SNOMED T1	190905008
+#2	SNOMED T3	62014003
+#3	SNOMED T2	190855004

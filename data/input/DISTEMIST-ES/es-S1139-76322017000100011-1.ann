@@ -1,0 +1,6 @@
+T1	pathologie 49 117	exantema purpúrico palpable en los miembros inferiores y los glúteos
+T2	pathologie 283 299	faringitis aguda
+T3	pathologie 1398 1450	púrpura de Schönlein-Henoch con afectación articular
+#1	SNOMED T1	271807003+118937003+609620004
+#2	SNOMED T2	363746003
+#3	SNOMED T3	191306005

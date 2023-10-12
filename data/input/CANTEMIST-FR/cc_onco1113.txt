@@ -1,0 +1,39 @@
+Anamnèse
+Homme de 50 ans, sans antécédents personnels intéressants. En avril 2011, on lui a diagnostiqué un carcinome épidermoïde de l'œsophage de stade IV et il a commencé un traitement par Al-Sarraf (cisplatine + 5-fluorouracile).
+Au jour +20 du quatrième cycle, le patient a consulté le service des urgences pour une fièvre atteignant 38 ºC et une odynophagie. Il a alors été décidé de l'hospitaliser avec un diagnostic de neutropénie fébrile de grade IV, de mucosite de grade IV et d'insuffisance rénale aiguë pré-rénale.
+
+Examen physique
+À l'examen physique, le patient était conscient et orienté et présentait un ECOG 3. Au niveau de la tête et du cou, la présence d'une langue dépapillée et d'une rougeur de l'ensemble de l'oropharynx, avec des lésions muqueuses de type chancre et des plaques nécrotiques confluentes, ainsi qu'un muguet buccal, étaient frappants. Dents en mauvais état. Poitrine : port-a-cath sans signe d'inflammation locale. AC : bruits cardiaques rythmiques, pas de souffle. AP : murmure vésiculaire préservé, pas de crépitants.
+Neurologique : pas de focalité.
+Pendant l'admission : diminution de l'état de conscience, hémiparésie droite. Examens complémentaires.
+
+Tests complémentaires
+- Analyse : 24/3/2011 : leucocytes 4.500, neutrophiles 140, lymphocytes 3.960, hémoglobine 5.4 g/dl, plaquettes 67.000, urée 51 mg/dl, créatinine 1.38 mg/dl, GOT 20 IU/l, GPT 39 IU/l. Autres : CRP 124 g/dl, Na 128,8 mEq/l, K 3,4 mEq/l. 19/4/2011 : hémoglobine 9,4, leucocytes 10 800, neutrophiles 4 210, lymphocytes 5 150, magnésium 1,65, urée 12 mg/dl, créatinine 0,93 mg/dl, sodium 137,3 mEq/l.
+Hémocultures négatives.
+Culture d'urine négative.
+- Radiographie du thorax (18/3/2011) : ITC normal. Aucun infiltrat n'a été observé.
+- CT crânien (29/3/2011) : pas de lésions occupant l'espace.
+- TDM corporelle (6/4/2011) : multiples adénopathies médiastinales. Conglomérat adénopathique dans le hile droit. Petit épanchement pleural bilatéral. Multiples nodules pulmonaires et masse dans le lobe supérieur droit. Consolidation/masse pulmonaire dans le lobe supérieur droit. Adénopathie rétropéritonéale et mésentérique subcentimétrique. Données de progression par rapport aux études précédentes.
+- IRM (20/4/2011) : atrophie cortico-sous-corticale supratentorielle, plus importante que prévu pour l'âge du patient. Lésions hyperintenses dans la substance blanche avec des caractéristiques non spécifiques, prédominant autour de la corne occipitale, liées à une leucoencéphalopathie avec des caractéristiques non spécifiques.
+
+Diagnostic
+- Crises comitiales secondaires à une leucoencéphalopathie postérieure réversible par le cisplatine.
+- Neutropénie fébrile de grade 4 résolue.
+- Mucosite de grade 4, muguet buccal.
+- Anémie due à des troubles chroniques.
+- Carcinome épidermoïde œsophagien moyen de stade IV.
+
+Traitement
+Filgastrine.
+Méropénem, remplacé par la suite par imipénem/cilastatine 500/500 mg/8 h.
+Fluconazole 100 mg/24 h.
+Rinçage oral à la lidocaïne.
+Levetiracetam 500 mg (2-0-2).
+Phénytoïne 100 mg (1-1-1/2).
+Enoxaparine 40 mg s.c./24 h.
+Vitamine D/calcium 500 mg (1-0-0).
+Pantoprazole 40 mg (1-0-0).
+
+Evolution
+Patient de 50 ans admis pour une neutropénie fébrile de grade IV et une mucosite de grade IV. Lors de l'admission, un traitement par antibiotiques à large spectre (pipéracilline-tazobactam et vancomycine), ainsi que par antifongiques et facteur de stimulation des colonies, a été mis en place. Une hydratation intraveineuse intensive et un remplacement de l'eau et des électrolytes ont également été mis en place. Suite à ces mesures, l'état clinique du patient s'est considérablement amélioré.
+Cependant, au jour +4 de l'admission, le patient a commencé à présenter une diminution soudaine du niveau de conscience, associant par la suite des crises tonico-cloniques généralisées et une hémiparésie droite, pour lesquelles une perfusion de phénytoïne a été mise en place, avec une légère amélioration. Face à cette situation, un scanner cérébral a été réalisé en urgence pour déterminer l'origine des symptômes, ce qui a permis d'exclure la présence d'une maladie métastatique à ce niveau ou des signes d'hémorragie. Il a été décidé de prolonger l'étude par une IRM, où de multiples lésions hyperintenses ont été observées dans la substance blanche au niveau des lobes postérieurs en T2 et FLAIR, compatibles avec une leucoencéphalopathie non spécifique. En outre, un EEG a été réalisé, montrant des signes d'une grave atteinte cérébrale généralisée, prédominant dans l'hémisphère gauche dans la région pariétale-rolandique (PLEDS). Le traitement a été poursuivi avec des médicaments anti-communication et une prise en charge symptomatique. Le patient s'est progressivement rétabli au cours de la semaine suivante, avec une amélioration du niveau de conscience, une résolution modérée de l'hémiparésie et des crises contrôlées. Lors des consultations ultérieures, le patient a présenté une résolution du tableau clinique précédent et n'a pas connu de nouvelles crises de coma.

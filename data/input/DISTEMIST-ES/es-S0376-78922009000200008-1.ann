@@ -1,0 +1,14 @@
+T1	pathologie 66 84	extrofia de cloaca
+T2	pathologie 210 246	ausencia de pared abdominal anterior
+T3	pathologie 264 282	eventración púbica
+T4	pathologie 294 315	secuelas cicatrizales
+T5	pathologie 321 353	reservorio urinario incontinente
+T6	pathologie 1699 1710	eventración
+T7	pathologie 2054 2070	diastásis púbica
+#1	SNOMED T7	263012009
+#2	SNOMED T1	20815007
+#3	SNOMED T3	47583008
+#4	SNOMED T4	275322007
+#5	SNOMED T6	236037000
+#6	SNOMED T2	609624008
+#7	SNOMED T5	253859003

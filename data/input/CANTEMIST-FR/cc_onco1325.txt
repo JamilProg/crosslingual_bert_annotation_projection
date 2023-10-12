@@ -1,0 +1,26 @@
+Anamnèse
+Une patiente de 19 ans consulte pour une tumeur de la fesse droite qui s'est développée progressivement depuis un an.
+
+Examen physique
+L'examen a révélé la présence d'une tumeur d'environ 20 cm de diamètre sur la fesse droite.
+Le reste de l'examen physique n'a rien révélé d'autre.
+
+Examens complémentaires
+IRM pelvienne : tumeur excentrique de la fesse droite mesurant 13,5 x 16 x 8,8 cm avec apport de petits vaisseaux au niveau crânien, avec une forte vascularisation dans la partie médiane et des zones de fibrose et de nécrose dans la partie périphérique.
+Tomodensitométrie thoraco-abdominale-pelvienne : ganglions lymphatiques hypertrophiés dans les régions inguinales et les chaînes iliaques droites, avec une adénopathie iliaque externe droite de 11 mm de petit axe.
+Une excision chirurgicale complète de la tumeur a été réalisée avec un résultat anatomopathologique (AP) de sarcome à grandes cellules rondes de haut grade avec un diamètre majeur de 20 cm. Marges libres. Invasion vasculaire et lymphatique.
+Immunohistochimie : CD99+++, CKAE1/AE3++, Ki67 : 85 %. Les tests de translocation EWS-FLI1 et EWS-ETS pour le sarcome d'Ewing étaient négatifs, et le tissu frais a été envoyé pour l'étude de translocations rares, détectant une translocation CIC/DUX4 t(4:19), correspondant à un sarcome de type Ewing.
+Compte tenu de ce diagnostic, les examens suivants ont été réalisés :
+Tomographie par émission de positons (TEP) : deux accumulations pathologiques dans la chaîne ganglionnaire iliaque interne droite (20 mm, SUVmax 4,3) et dans l'adénopathie inguinale inférieure droite (28 mm, SUVmax 5,0).
+Tomodensitométrie pelvienne : augmentation des ganglions lymphatiques inguinaux droits, ceux dont la taille est supérieure à 38 et 28 mm en axe court.
+
+Diagnostic
+Sarcome à grandes cellules rondes indifférencié de haut grade de type Ewing. Stade III, T2aN1M0.
+
+Traitement
+Après l'excision chirurgicale et l'achèvement de l'étude d'extension, le cas a été présenté au comité et il a été décidé de commencer le traitement selon le schéma VAC-IE (vincristine-doxorubicine-cyclophosphamide en alternance avec l'ifosfamide-étoposide).
+
+Évolution
+Après trois cycles de traitement, l'examen a révélé une augmentation de la taille de l'adénopathie inguinale droite. Un scanner a été demandé, montrant une augmentation marquée de la taille des ganglions lymphatiques inguinaux droits, mesurant 44 et 48 mm dans l'axe court.
+Compte tenu de la progression évidente des ganglions lymphatiques, le cas a été discuté au sein du comité et il a été décidé de procéder à une excision du ganglion lymphatique inguinal droit. Le résultat de l'AP a montré une métastase d'un sarcome indifférencié dans 2/2 ganglions lymphatiques inguinaux droits excisés, le plus grand mesurant 90 mm, avec le même profil immunohistochimique que la lésion primaire, de type Ewing.
+En attente d'un PET scan pour une décision thérapeutique.

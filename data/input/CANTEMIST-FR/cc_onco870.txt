@@ -1,0 +1,28 @@
+Anamnèse
+Femme de 66 ans, sans habitudes toxiques, avec des antécédents personnels d'hypertension artérielle, d'insuffisance rénale de stade 3 secondaire à une néphroangiosclérose, de hernie hiatale de type 1, de pancréatite chronique et d'œsophagite chronique. Intervention pour cholécystectomie et fracture malléolaire. Traitement habituel : valsartan et lansoprazole.
+Elle s'est présentée aux urgences en septembre 2013 en raison de douleurs abdominales dans la partie supérieure de l'abdomen accompagnées de nausées et de vomissements pendant quelques heures. Les examens de laboratoire ont montré une augmentation des taux d'amylase et de lipase. Au vu des symptômes compatibles avec une pancréatite aiguë, le patient a été admis pour traitement. Pendant l'admission, une imagerie par résonance magnétique (IRM) abdominale a été réalisée, montrant au moins quatre lésions hépatiques non spécifiques, et il a donc été décidé de terminer l'étude.
+
+Examen physique
+ECOG 1, conscient et orienté. Auscultation cardio-pulmonaire sans altération. Abdomen sans masses ni mégalithes. Examen de la région oto-rhino-laryngologique sans lésion ni adénomégalie.
+
+Examens complémentaires
+Tomodensitométrie abdominopelvienne : grosse masse (9,8 cm x 12 cm x 11 cm) à prédominance kystique avec des septa et un nodule solide irrégulier sur sa face supérieure mesurant 2 cm de plus grand diamètre axial qui semble dépendre de l'annexe gauche. En outre, il y a une autre masse dans l'espace présacré de morphologie ovale et bien définie, mesurant 5,9 cm x 5,4 cm x 8 cm de densité hétérogène et principalement dense avec des calcifications périphériques grossières et des zones hypodenses irrégulières suggérant un tératome présacré. Dans le foie, plusieurs lésions focales ont été identifiées dans les segments 4A (4 cm), 4B (1 cm) et 5 (1 cm et 0,9 cm), compatibles avec des hémangiomes.
+En cas de suspicion de cystadénome ovarien gauche et de tératome, une intervention chirurgicale a été réalisée avec hystérectomie, double annexectomie et résection de la tumeur polylobée dans la poche de Douglas.
+L'anatomie pathologique de la pièce opératoire a révélé un tératome avec une prédominance de tissu thyroïdien présentant les caractéristiques d'une tumeur folliculaire et des implants péritonéaux compatibles avec une tumeur ovarienne maligne.
+Après l'opération, la patiente a été évaluée en oncologie médicale et l'étude a été complétée par une tomographie par émission de positons (PET-CT) montrant une lésion hépatique.
+PET-CT montrant une lésion hépatique dans le segment IV mesurant 49 x 39 mm avec un SUVmax de 5,24 et deux lésions nodulaires dans le mésentère mesurant moins de 1 cm avec un SUVmax de 2,4 et 3,8.
+Une échographie thyroïdienne a été réalisée, visualisant une thyroïde de taille normale, et les taux de thyroglobuline ont été déterminés à 8 138 ng/ml (normale entre 1,3 et 31,8 ng/ml) avec une TSH de 2,41 mUI/l (normale entre 0,4 et 4,0 mlU/l).
+Au vu des résultats de la TEP-TDM, il a été décidé de procéder à une biopsie du foie, qui a révélé un tissu folliculaire thyroïdien bien différencié, compatible avec une tumeur ovarienne métastasée.
+
+Diagnostic
+Tératome malin à différenciation folliculaire (Struma ovarii) avec atteinte hépatique et péritonéale.
+
+Traitement
+Avant la scintigraphie et le traitement à l'iode 131 (I-131), une thyroïdectomie totale a été pratiquée, montrant une hyperplasie nodulaire bilatérale avec des foyers de fibrose, d'hémorragie et de calcification.
+La scintigraphie à l'I-131 a montré d'abondants restes cervicaux, ainsi qu'une atteinte locorégionale et des ganglions lymphatiques médiastinaux supérieurs et une LOE hépatique dans le lobe hépatique droit (LHD). Un traitement ablatif à l'iode radioactif (200 mCi I-131) a été administré, et la scintigraphie de distribution réalisée après le processus a montré une bonne fixation dans les restes cervicaux, les ganglions lymphatiques locorégionaux et médiastinaux, et plusieurs foyers dans le LHD.
+
+Évolution
+Lors d'un scanner de contrôle réalisé trois mois après le traitement, une lésion hépatique focale a été observée dans les segments 4A et 4B, ainsi que dans le segment 5 de taille similaire.
+Au vu de ces résultats, une nouvelle scintigraphie à l'I-131 a été réalisée, révélant un foyer hypermétabolique au niveau hépatique sans nouveaux foyers d'hypercaptation, recevant une nouvelle dose de traitement avec 20 0mCi d'I-131 avec une fixation correcte dans la région hépatique.
+Par la suite, une IRM hépatique a été réalisée, qui a révélé une légère diminution de la taille des lésions occupant l'espace situées dans le parenchyme hépatique. Au vu de ces résultats, un sauvetage chirurgical a été envisagé et une embolisation au Glubran®/Lipiodol® de la veine porte droite et des branches du segment hépatique 5 a été réalisée. Suite à cela, une hépatectomie droite élargie (trisegmentectomie) et une cholécystectomie ont été réalisées en avril 2015 avec des résultats anatomopathologiques compatibles avec une métastase stromale ovarienne maligne et une prolifération épithéliale d'origine folliculaire thyroïdienne, sans détecter de maladie résiduelle à l'IRM hépatique post-chirurgicale.
+La patiente fait actuellement l'objet d'un suivi régulier dans les cliniques ambulatoires d'oncologie médicale et d'endocrinologie, sans aucun signe de maladie 44 mois après le diagnostic.

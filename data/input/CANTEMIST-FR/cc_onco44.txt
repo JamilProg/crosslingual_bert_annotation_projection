@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 44 ans, sans facteur de risque cardiovasculaire, avec des antécédents de tuberculose à l'âge de 22 ans, traitée de façon optimale avec cavitation pulmonaire résiduelle dans le lobe inférieur gauche et épaississement pleural secondaire, sans signe de réactivation. Ex-fumeuse depuis l'âge de 39 ans. Antécédents gynécologiques : Ménarche depuis 12 ans. G3P3V3, dernier accouchement en décembre 2009 (à l'âge de 40 ans). Pas d'antécédents familiaux intéressants.
+
+En février 2010, deux mois après le début de l'allaitement, elle consulte pour un nodule au sein gauche, visible depuis sa dernière grossesse. Elle ne ressentait aucune douleur et ne présentait aucun écoulement mamelonnaire anormal.
+
+Examen physique
+Masse de 10 x 6 cm de consistance dure dans le sein gauche et au moins un ganglion lymphatique axillaire fixe de consistance dure ; le reste de l'examen est sans particularité.
+
+Examens complémentaires
+"Mammographie, échographie et IRM du sein : lésion suspecte de malignité dans le sein gauche CSE mesurant 6,7 x 2,9 cm (cT3), avec au moins 6 adénopathies axillaires (cN1).
+"BAG du nodule mammaire compatible avec un carcinome canalaire infiltrant du sein gauche de grade III, récepteurs d'œstrogènes 100% ; récepteurs de progestérone 100%. Ki-67 20 %. Her2 négatif.
+"FNA du ganglion axillaire gauche : positif pour le carcinome.
+
+Diagnostic
+Femme préménopausée présentant un carcinome canalaire infiltrant du sein gauche de grade III, récepteurs d'œstrogènes à 100 % ; récepteurs de progestérone à 100 %. Ki-67 20%. Her2 négatif, cT3N1M0, stade IIIA.
+
+Traitement
+Comme il s'agissait d'un carcinome localement avancé, il a été décidé de le traiter par chimiothérapie néoadjuvante AC x 4 suivie de docetaxel. Incidemment, elle a été admise au jour +2 du deuxième cycle pour une biopsie de la cavité pulmonaire avec la découverte d'abondantes cellules polymorphonucléaires, mais sans résultats microbiologiques notables et, malgré cette cavitation, la patiente est restée asymptomatique d'un point de vue pulmonaire tout au long du traitement.
+
+Après la fin du traitement néoadjuvant, elle a présenté une réponse partielle du sein et une réponse axillaire complète apparente ; en septembre 2010, une mastectomie gauche et une lymphadénectomie axillaire ipsilatérale ont été réalisées. L'anatomie pathologique de la pièce opératoire était compatible avec un carcinome canalaire infiltrant de grade III et pT3ypN2M0 avec un profil immunohistochimique similaire à celui de la BAG initiale. Elle a reçu un traitement adjuvant par radiothérapie (dose totale de 40,5 Gy) et hormonothérapie avec 20 mg de tamoxifène par jour. La cavitation pulmonaire est persistante et ne se surinfecte jamais malgré le traitement reçu. La patiente continue à recevoir du tamoxifène et se soumet à des contrôles semestriels dans les limites de la normale, se rendant à son dernier contrôle en mai 2014.
+
+Évolution
+En juin 2014, il a consulté pour une ptose des paupières et des douleurs cervicales intenses d'une évolution de 2 semaines, l'examen physique montrant une légère limitation du regard vertical en OD, le reste de l'examen étant sans particularité. Il a été décidé d'hospitaliser le patient pour des examens complémentaires.
+
+Un scanner du cerveau a montré des lésions bilatérales de l'os sphénoïde avec une atteinte associée des tissus mous et un scanner du thorax-abdomen-pelvis a montré des lésions hypodenses dans le foie, des micronodules pulmonaires et des lésions osseuses lytiques disséminées, en particulier une atteinte de l'iliaque droit et de l'ischion gauche. Au vu de ces résultats, il a été interprété que la patiente présentait une rechute du cancer du sein hépatique, pulmonaire douteux et osseux étendu, bien que l'absence d'élévation des marqueurs tumoraux ait été frappante. Il a été décidé de commencer une chimiothérapie de première ligne avec paclitaxel + bevacizumab et une biopsie du tissu mou iliaque droit a été réalisée. Les lésions osseuses sphénoïdales et cervicales ont été soumises à une radiothérapie analgésique avec un bon contrôle de la douleur.
+
+Le résultat de la biopsie du tissu mou iliaque droit est compatible avec un myélome multiple à chaîne légère kappa, les analyses sanguines montrent une β-2 microglobuline élevée, une protéinurie de 8 g/24 heures et une protéine de Bence-Jones positive.
+
+Cependant, des doutes persistent quant à l'atteinte hépatique, de sorte qu'une biopsie LOE du foie a été réalisée, qui était compatible avec une infiltration hépatique par un plasmocytome/myélome. L'aspiration de la moelle osseuse a montré 3 % de plasmocytes et le scanner PET-CT a révélé des lésions tumorales dans tout le squelette osseux (SUVmax 13,1), le foie bilobaire (SUVmax 9,8) et la queue du pancréas (SUVmax 7,3). Il a été conclu que la patiente avait une atteinte étendue due au myélome multiple et que le cancer du sein n'avait pas rechuté, l'amoxifène a donc été arrêté et le traitement a été commencé en août 2014 par l'hématologie avec le schéma VCD (bortezomib, cyclophosphamide et dexaméthasone), après 6 cycles, la patiente a présenté une réponse complète de toutes les lésions décrites dans le PET-CT scan.

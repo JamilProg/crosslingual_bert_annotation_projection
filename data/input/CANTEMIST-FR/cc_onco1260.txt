@@ -1,0 +1,21 @@
+Anamnèse
+Le carcinome à cellules rénales (CCR) se propage aux poumons (75 %), aux tissus mous (36 %), aux os (20 %), au foie (28 %) et au système nerveux central (8 %) (1). Des métastases synchrones apparaissent dans 25 à 30 % des cas et des métastases métachrones dans 50 % des patients traités par chirurgie. Le CCR est la tumeur primaire infraclaviculaire la plus fréquente qui métastase dans le nez et les sinus paranasaux ; cependant, les métastases nasales sont très rares (2).
+Nous présentons le cas d'un patient de 45 ans qui avait subi une néphrectomie gauche quatre ans auparavant pour un hypernéphrome. Il était en rémission complète jusqu'à ce qu'il vienne aux urgences à plusieurs reprises pendant 5 mois pour des épistaxis récidivantes dans la narine gauche sans cause prédisposante. Des tamponnements successifs et jusqu'à 4 cautérisations au nitrate d'argent ont été effectués sans parvenir à contrôler les symptômes.
+
+Examen physique
+Aucun résultat objectif, sauf à la rhinoscopie, où une tumeur nécrotique friable a été observée dans la narine gauche, déstructurant le turbinat/méat moyen et progressant vers le cavum.
+
+Examens complémentaires
+L'imagerie par résonance magnétique (IRM) a caractérisé la lésion comme une masse fronto-orbito-nasale gauche, lobulée, hétérogène en T2 et homogène en T1 avec de petites zones de contenu liquidien (kystique-nécrotique), mesurant 65 x 26 x 40 mm.
+
+Diagnostic
+La tumeur a été excisée après embolisation de l'artère maxillaire ; la chirurgie est le traitement de choix (3).
+L'examen anatomopathologique a révélé une infiltration de carcinome à cellules claires d'origine rénale.
+
+Traitement
+Une radiothérapie adjuvante a été administrée au site chirurgical. Un traitement par sunitinib a été prescrit, ce qui est controversé. À l'heure actuelle, il n'y a pas d'indication pour un traitement adjuvant après une métastasectomie, mais plusieurs études sont en cours sur le sujet.
+Le potentiel des agents cibles en tant que thérapie adjuvante dans le CCR est un sujet d'actualité, mais les résultats ne sont pas encore concluants. Le CCR métastatique est réfractaire à la chimiothérapie standard, mais la thérapie moléculaire ciblée pourrait constituer une thérapie adjuvante pour cette maladie (4). Le sunitinib et le sorafenib seraient des candidats valables étant donné leur efficacité dans le CCR métastatique et leur profil de toxicité gérable. Le bénéfice clinique et la tolérance de ces agents sont étudiés dans des essais tels que ASSURE, STAR ou SORCE, dont les résultats pourraient ouvrir la voie à des stratégies thérapeutiques plus appropriées.
+
+Évolution
+Le scanner de contrôle a montré des changements post-chirurgicaux dans la région fronto-nasale gauche liés à la métastase, sans aucun résultat suggérant une récidive.
+Il continue d'être suivi sans signe de maladie 16 mois après le diagnostic de la métastase nasale de l'hypernéphrome.

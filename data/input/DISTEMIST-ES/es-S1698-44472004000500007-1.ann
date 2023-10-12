@@ -1,0 +1,20 @@
+T1	pathologie 88 110	caries del diente # 37
+T2	pathologie 709 715	caries
+T3	pathologie 1034 1040	lesión
+T4	pathologie 1430 1450	reacciones alérgicas
+T5	pathologie 1732 1738	lesión
+T6	pathologie 1793 1799	lesión
+T7	pathologie 1883 1889	lesión
+T8	pathologie 2414 2431	liquen plano oral
+T9	pathologie 2511 2536	dermatitis aguda-subaguda
+T10	pathologie 2596 2602	lesión
+#1	SNOMED T1	80967001
+#2	SNOMED T2	80967001
+#3	SNOMED T8	235049008
+#4	SNOMED T9	53107009
+#5	SNOMED T4	419076005
+#6	SNOMED T3	417163006
+#7	SNOMED T5	417163006
+#8	SNOMED T6	417163006
+#9	SNOMED T7	417163006
+#10	SNOMED T10	417163006

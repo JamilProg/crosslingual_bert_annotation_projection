@@ -1,0 +1,8 @@
+T1	pathologie 406 421	hepatocarcinoma
+T2	pathologie 667 673	lesión
+T3	pathologie 730 763	hepatocarcinoma bien diferenciado
+T4	pathologie 836 853	invasión vascular
+#1	SNOMED T1	109841003
+#2	SNOMED T3	25370001
+#3	SNOMED T4	372287009
+#4	SNOMED T2	417163006

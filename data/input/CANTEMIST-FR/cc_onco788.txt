@@ -1,0 +1,37 @@
+Anamnèse
+Dans l'anamnèse par organes et appareils, la patiente n'a pas rapporté d'autres symptômes associés. Elle n'a pas eu d'intolérance digestive ni d'épisodes diarrhéiques. Il n'y a pas de symptômes respiratoires ni de syndrome constitutionnel.
+Antécédents personnels :
+"Pas d'allergie médicamenteuse connue.
+"Pas de facteurs de risque vasculaire (pas d'HTA, de DM ou de DLP). Pas d'obésité. Vie active et exercice physique régulier.
+"Pas d'antécédents cardiologiques.
+"Pas d'antécédents familiaux de cancer.
+"Habitudes toxiques : fumeur de 4 à 5 cigarettes le week-end. Ne consomme pas d'alcool ni d'autres substances.
+
+Examen physique
+L'examen physique est sans particularité, à l'exception d'une légère douleur dans l'hypochondre droit, sans signe d'irritation péritonéale.
+
+Examens complémentaires
+Analyses sanguines : amylase 300, le reste est normal.
+Échographie abdominale : lésions occupant l'espace sur toute la surface du foie, évocatrices d'une tumeur maligne. Aucune autre altération.
+Tomodensitométrie : masse mesurant 6,7 x 9,11 x 8,9 cm dans le LID avec des contours polylobés et une densité hétérogène. Adénopathies médiastinales (prévasculaires, paratrachéales droites, sous-carénaires), la plus importante étant une paratrachéale droite de 16 mm de petit axe et une sous-carénaires de 18 mm. Adénopathie hilaire droite de 10 mm, adénopathie sus-claviculaire gauche de 1,3 cm. Multiples lésions hépatiques de 3 cm compatibles avec des métastases. Conclusion : les résultats sont compatibles avec un néoplasme pulmonaire de stade IV (T4N3M1b).
+BAG de la masse pulmonaire et BAG de la lésion hépatique : toutes deux compatibles avec un adénocarcinome pulmonaire, TTF1 positif.
+
+Diagnostic
+Après un bilan diagnostique complet, une bronchoscopie et des biopsies, ainsi que des examens d'imagerie, le patient a été diagnostiqué avec un adénocarcinome pulmonaire de stade IV, avec une atteinte hépatique sévère.
+
+Traitement
+Lors de son admission en oncologie, une étude mutationnelle EGFR et ALK a été demandée dans le bloc tumoral, mais, compte tenu de l'atteinte hépatique étendue et de l'altération progressive de la fonction hépatique, il a été décidé d'entamer une chimiothérapie de première ligne à base de cisplatine et de pemetrexed.
+
+Evolution
+Après une semaine, les résultats de l'étude mutationnelle ont été reçus, ne montrant aucune mutation dans le gène EGFR et le test ALK n'a pas été possible en raison de problèmes techniques et de l'absence d'un échantillon anatomo-pathologique.
+Face à cette situation, il a été demandé à la patiente de subir une nouvelle biopsie pour prélever un échantillon afin de pouvoir analyser le résultat du test ALK, ce qu'elle a accepté.
+Pendant cette période, la patiente a reçu 3 cycles de chimiothérapie avec une bonne tolérance et une bonne réponse au scanner de contrôle, tant au niveau hépatique que pulmonaire, une réduction de la taille de la masse pulmonaire, ainsi que des lésions hépatiques et une normalisation totale de la fonction hépatique.
+Après le troisième cycle, le patient a consulté en oncologie en raison d'une sensation de vertige et d'instabilité de la démarche, avec de légers maux de tête. Une IRM cérébrale a été demandée, qui a montré trois lésions hypodenses compatibles avec des métastases, la plus grande mesurant 1,5 cm, avec un œdème associé. Compte tenu de cette évolution, un nouveau scanner CT-PAT et une scintigraphie osseuse ont été demandés pour compléter la réévaluation, où l'on a observé la persistance de la réponse pulmonaire et hépatique, mais des lésions osseuses métastatiques ont été observées dans la quasi-totalité du squelette osseux.
+À ce moment-là, les résultats de l'analyse moléculaire de la nouvelle biopsie effectuée (au niveau de la masse pulmonaire) étaient disponibles. Ils indiquaient un statut EGFR non muté, mais montraient une mutation ALK.
+Il a été décidé d'orienter le patient vers une radiothérapie de type SBRT des lésions cérébrales et en janvier 2015, un traitement de seconde ligne a été débuté avec un médicament cible anti-ALK, à savoir le crizotinib à une dose de 250 mg/12 heures par voie orale.
+La SBRT des métastases cérébrales a été réalisée sans incident, étant bien tolérée par le patient et la tolérance au traitement anti-diana a été bonne, aucune toxicité secondaire n'ayant été rapportée par le patient en lien avec la nouvelle ligne.
+Lors de la première réévaluation après le début du nouveau traitement, la réponse partielle, selon les critères RECIST, est maintenue au niveau pulmonaire et hépatique, la maladie osseuse est stable et l'IRM cérébrale montre une réponse partielle des lésions cérébrales.
+Le patient, après 6 mois de traitement à l'anti-diana, a été revu en oncologie avec de nouveaux tests de réévaluation complémentaires, avec une diminution significative de la taille de la masse pulmonaire et des lésions hépatiques, une amélioration de la maladie au niveau osseux (diminution de certaines lésions et disparition d'autres) et une réponse complète de la maladie au niveau cérébral, sans aucun résultat à l'IRM cérébrale.
+La patiente a poursuivi le traitement par crizotinib de janvier 2015 à mai 2017, obtenant une réponse complète de la maladie au niveau du cerveau et du foie, et une RP maintenue et progressive au niveau des poumons et des os, avec une excellente tolérance au traitement et sans toxicité.
+Après un intervalle sans progression de 3,5 ans avec le traitement oral, le patient a présenté une progression au niveau des ganglions lymphatiques médiastinaux, de sorte qu'il a été décidé de changer de ligne de traitement. Heureusement, un traitement anti-diana de 2ème ligne pour la maladie ALK mutée est maintenant disponible, et la patiente s'est vue proposer un traitement par alectinib 600 mg/24 heures, ce qu'elle a accepté.
+Lors de la première réévaluation, la patiente a maintenu une réponse complète au niveau hépatique et cérébral, pratiquement une RC au niveau osseux et une RP au niveau des ganglions lymphatiques, avec une excellente tolérance au médicament et sans toxicité, et a pu continuer à mener une vie normale.

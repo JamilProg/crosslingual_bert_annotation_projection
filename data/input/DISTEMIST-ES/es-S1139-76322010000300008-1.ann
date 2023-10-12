@@ -1,0 +1,10 @@
+T1	pathologie 145 174	lesión en la pierna izquierda
+T2	pathologie 260 271	traumatismo
+T3	pathologie 559 567	hematoma
+T4	pathologie 779 802	lesión de carácter óseo
+T5	pathologie 1080 1093	osteocondroma
+#1	SNOMED T4	76069003
+#2	SNOMED T1	128137003
+#3	SNOMED T5	443093007
+#4	SNOMED T2	417746004
+#5	SNOMED T3	385494008

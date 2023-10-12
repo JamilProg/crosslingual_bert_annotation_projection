@@ -1,0 +1,37 @@
+Anamnèse
+Une femme de 38 ans a été adressée par le service de médecine interne pour des constatations de sarcome pléomorphe de haut grade avancé au moment du diagnostic.
+Aucun antécédent médical n'est à signaler. Elle n'a pas signalé de consommation de drogues.
+Situation sociofonctionnelle et familiale
+Elle travaillait comme enseignante dans un environnement rural. Mère célibataire d'une fille de 12 ans. Parents du premier degré en bonne santé.
+
+Antécédents oncologiques
+La patiente a consulté son médecin dans son pays d'origine en raison de douleurs dorsales depuis janvier 2018, et une radiographie pulmonaire a montré de multiples nodules pulmonaires, raison pour laquelle elle a décidé de déménager en Espagne. En mars, elle a été admise au service de médecine interne pour le syndrome constitutionnel à l'étude.
+Une tomodensitométrie avec contraste a été demandée, montrant une grosse masse rétropéritonéale droite mesurant 114 x 118 x 162 mm. En outre, des lésions compatibles avec des neurofibromes ont été observées dans le médiastin supérieur droit, le foramen conjonctif droit T10-T11 et la paroi thoracique antérieure droite.
+Compte tenu de la suspicion clinique de neurofibromatose de type 1, le patient a été examiné par le service de dermatologie, qui a observé de multiples taches café au lait, des neurofibromes sur l'épaule droite et d'autres localisations. Un neurofibrome profond était palpable sur l'avant-bras gauche. Sa fille de 12 ans a été examinée et présentait des taches cutanées de couleur café au lait sur le dos lombaire, le dos et l'omoplate. L'examen ophtalmologique a révélé une acuité visuelle de 0,6 à l'œil droit et de 0,4 à l'œil gauche, ainsi qu'un ptosis congénital gauche et un nodule de Lish dans l'iris droit. Le fond d'œil montrait des papilles d'apparence normale.
+La masse rétropéritonéale a été biopsiée et les résultats pathologiques suivants ont été obtenus : prolifération néoplasique à cellules fusiformes avec nécrose extensive et immunophénotype vimentine +, CD99+, S100-, actine -, desmine - CD34-, BCL2-, compatible avec un sarcome à cellules fusiformes. Etude immunohistochimique de c-Kit négative.
+
+Examen physique
+"Mauvais état général. Cachexie. Poids 43,7 kg. Taille 151 cm.
+"PCA : rythmique sans souffle. HCVM sans bruits ajoutés.
+"Abdomen : grosse masse abdominale occupant tout l'hémiabdomen droit de consistance pierreuse.
+
+Tests complémentaires
+" IRM cérébrale (avril 2018) :
+" Lésion fusiforme suivant le trajet de la paire de V crâniens dans les segments correspondant au cavum de Meckel et à l'intracaverneux compatible avec un neurofibrome de la paire de V, affectant principalement la branche V2 et dans une moindre mesure V1.
+"Il y a une lésion dans la partie postérieure gauche du mésencéphale et un foyer d'intensité de signal accrue dans la zone sous-corticale frontopariétale droite, qui se rehausse également après l'administration de contraste. Ces deux lésions pourraient correspondre à des lésions métastatiques.
+Étude des catécholamines dans les urines de 24 heures :
+" Noradrénaline dans les urines de 24 h : 5 μg/24 h.
+" Adrénaline dans les urines de 24 h : 0,6 μg/24 h.
+" Dopamine dans l'urine 24 h : 100 μg/24 h.
+" Volume d'urine acide 24 h hormones : 0,20.
+
+Diagnostic
+Il s'agit d'une patiente de 38 ans présentant une suspicion clinique de neurofibromatose de type I associée à la présence d'un sarcome rétropéritonéal pléomorphe de haut grade avec un immunophénotype compatible avec une tumeur maligne des gaines des nerfs périphériques de stade IV en raison de la présence de métastases pulmonaires dans le lâcher de ballons et de deux métastases cérébrales.
+
+Traitement
+La patiente a commencé un traitement systémique par chimiothérapie palliative, doxorubicine-olaratumab, complétant un total de 2 cycles. Elle a présenté une amélioration clinique de la douleur lombaire après le début du traitement, associée à une analgésie de troisième niveau.
+Elle a été évaluée par le service de radio-oncologie dans le but de commencer une radiochirurgie cérébrale ou une SBRT, qui a été rejetée en raison de la progression de la maladie dans le cerveau avec l'apparition de lésions cérébrales multiples. Dans ce contexte, la patiente a commencé une RT holocrânienne, réalisant un total de 7 fractions en juin 2018.
+
+Évolution
+La patiente a été admise au service d'oncologie pour une détérioration clinique progressive au cours des dernières semaines, avec une prostration accrue et des douleurs abdominales (échelle VAS > 8) irradiant vers le MID secondaires à une importante masse rétropéritonéale et des symptômes constitutionnels avec un syndrome de cachexie-anorexie dans le contexte d'une progression suspecte de la maladie. La tomodensitométrie a confirmé l'augmentation de la taille et du nombre de métastases pulmonaires et d'implants pleuraux, avec un gros implant dans la plèvre droite.
+La progression de la maladie pulmonaire et abdominale a été confirmée et il a été considéré qu'il s'agissait d'une maladie réfractaire aux anthracyclines et, par conséquent, susceptible de faire l'objet d'un traitement palliatif exclusif compte tenu de l'état de performance et de la détérioration clinique rapide. Un traitement de soutien avec des corticostéroïdes et un perfuseur de chlorure de morphine sous-cutané pour le contrôle de la douleur a été ajusté. L'aggravation clinique progressive, de sorte que la sédation palliative est démarrée compte tenu de la réfractarité des symptômes, décède en août 2018 accompagnée de ses proches.

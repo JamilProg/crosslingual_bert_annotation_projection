@@ -1,0 +1,35 @@
+Anamnèse
+Patiente de 83 ans, indépendante pour les activités de base de la vie quotidienne, sans allergie médicamenteuse connue. Antécédents pathologiques : hypertension artérielle, diabète sucré de type 2 (sous traitement antidiabétique oral), infarctus lacunaire aigu en mars 2010 (récupération ad integrum), dyslipidémie, fracture pertrochantérienne du fémur droit en septembre 2012 ayant nécessité une ostéosynthèse DHS, une cholécystectomie et de l'arthrose.
+
+La patiente a signalé une légère asthénie et une perte de poids non quantifiée. Elle a donc consulté son médecin de famille, qui a effectué une analyse générale, laquelle a révélé une anémie, sans signe ni symptôme d'hémorragie, et une myélinémie, ce qui l'a amenée à consulter le service d'hématologie.
+
+Il a été indiqué de réaliser un myélogramme par aspiration de la moelle osseuse sans prélèvement (aspiration sèche) le 22 décembre 2014, une biopsie de la moelle osseuse a donc été réalisée (8 janvier 2015). Le résultat était compatible avec une infiltration par un carcinome d'origine mammaire probable.
+
+Lors du réexamen, la patiente a signalé que son sein droit était dur et rétracté depuis des mois, avec une asthénie progressive comme symptôme d'accompagnement.
+
+Compte tenu de ce résultat, elle a été orientée vers la clinique ambulatoire d'oncologie médicale.
+
+Examen physique
+ECOG 2-3, pâleur cutanéo-muqueuse, normohydraté, eupnéique basale, pas d'adénopathies latéro-cervicales ou sus-claviculaires ; auscultation respiratoire avec murmure vésiculaire conservé sans bruits surajoutés ; auscultation cardiaque avec bruits rythmiques sans souffle ni frottement, pas d'ingurgitation jugulaire ni de reflux hépatojugulaire ; abdomen souple et dépressible, péristaltisme présent, pas de masses ni de mégalithes ; membres inférieurs avec léger œdème bimalléolaire symétrique.
+
+Examen des seins : sein droit avec rétraction et peau d'orange au niveau de la queue du sein, avec une zone dure et non ulcérée d'environ 6 cm et une masse mammaire axillaire, également à droite ; sein gauche sans altération.
+
+Tests complémentaires
+" Hémogramme (16/1/2015) : L 5,7x10*9/L (3900N, 1500L, 300Mo) ; Hb 79 g/L ; MCV et MCH normaux ; plaquettes 157x10*9/L.
+" Biopsie de la moelle osseuse (2/1/2015) : infiltration carcinomateuse, immunohistochimie CAM 5.2 positive, récepteurs hormonaux positifs (œstrogène 80 %, progestérone 50 %), TTF1 négatif, Her2 négatif (0).
+" Scintigraphie osseuse (17/1/2015) : image d'hypercaptation pathologique dans le corps du sacrum et une hypoactivité non spécifique dans le tiers supérieur de la sacro-iliaque droite, avec un pattern que nous contextualisons en suspicion d'infiltration de la moelle osseuse. Le foyer d'hyperactivité dans la région métaphysaire tibiale droite, dont il nous semble douteux qu'il corresponde à la jonction tibio-péronière, et l'hyperactivité de la pointe de l'omoplate droite sont probablement à considérer dans cette origine.
+" Mammographie bilatérale, échographie du sein droit et de l'aisselle, ponction-aspiration à l'aiguille fine guidée par l'échographie du sein droit (13/2/2015) : seins à prédominance fibreuse, avec une vaste zone d'asymétrie de densité dans le sein droit accompagnée d'une rétraction cutanée et mammaire, avec une diminution du volume du sein et un épaississement cutané, résultats mammographiques et échographiques très suspects, correspondant à un carcinome du sein localement avancé. BI-RADS 5.
+" Cytologie FNA du sein droit (13/2/2015) : pas de preuve de cellularité viable.
+
+Diagnostic
+Carcinome du sein cT4b N2a M1 (infiltration de la moelle osseuse).
+
+Traitement
+Letrozole 2,5 mg par jour.
+
+Évolution
+Une étude d'extension a été demandée avec une scintigraphie osseuse qui a montré un schéma compatible avec une infiltration de la moelle osseuse, sans foyers clairs de métastases. Une mammographie de la lésion BI-RADS 5 du sein droit a également été réalisée. Un échantillon a été prélevé par aspiration à l'aiguille fine, qui n'a pas montré de cellularité viable, mais compte tenu des résultats de la biopsie de la moelle osseuse et de l'examen physique, il a été décidé de ne pas refaire de biopsie.
+
+Compte tenu de la fragilité de la patiente (ECOG 2 et 83 ans), il a été décidé de débuter un traitement hormonal de première intention par le létrozole le 6 février 2015, après transfusion de deux concentrés de globules rouges en raison d'une anémie symptomatique.
+
+Après trois mois et demi de traitement hormonal, la patiente a montré une amélioration et une stabilisation du taux d'hémoglobine (de 10,1 à 10,6 g/dL) et du nombre de plaquettes (de 216 x 10*9/L à 237 x 10*9/L), ainsi qu'une amélioration symptomatique (diminution de l'asthénie) et une réponse clinique locale au niveau du sein.

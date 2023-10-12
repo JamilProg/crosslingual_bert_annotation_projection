@@ -1,0 +1,14 @@
+T1	pathologie 18 26	fumadora
+T2	pathologie 80 86	aborto
+T3	pathologie 161 173	infertilidad
+T4	pathologie 264 293	lesión exofítica intravesical
+T5	pathologie 533 555	hematuria macroscópica
+T6	pathologie 906 912	lesión
+T7	pathologie 1511 1532	mullerianosis vesical
+#1	SNOMED T2	17369002
+#2	SNOMED T5	197941005
+#3	SNOMED T7	65099004
+#4	SNOMED T6	417163006
+#5	SNOMED T3	8619003
+#6	SNOMED T1	77176002
+#7	SNOMED T4	126885006

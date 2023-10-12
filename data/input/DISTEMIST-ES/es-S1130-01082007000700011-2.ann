@@ -1,0 +1,22 @@
+T1	pathologie 70 78	fumadora
+T2	pathologie 217 239	polimiomatosis uterina
+T3	pathologie 301 318	disfagia moderada
+T4	pathologie 424 439	hernia de hiato
+T5	pathologie 759 800	lesión a nivel de tercio medio de esófago
+T6	pathologie 829 895	carcinoma de célula pequeña tipo “oat-cell” ulcerado e infiltrante
+T7	pathologie 1047 1061	tumor primario
+T8	pathologie 1128 1137	neoplasia
+T9	pathologie 1261 1272	adenopatías
+T10	pathologie 1357 1400	cicatriz subcostal derecha e infraumbilical
+T11	pathologie 1784 1828	neoplasia a nivel del tercio medio esofágico
+T12	pathologie 1869 1919	adenopatías en el área subcarinal, supraclavicular
+T13	pathologie 1951 2014	adenopatías en retroperitoneo, área retrocrural y cadena iliaca
+T14	pathologie 2047 2079	metástasis hepáticas bilobulares
+T15	pathologie 2090 2106	quiste esplénico
+T16	pathologie 2124 2167	lesión ocupante de espacio a nivel pulmonar
+T17	pathologie 2303 2326	carcinoma tipo oat-cell
+T18	pathologie 2347 2363	invasión pleural
+T19	pathologie 2648 2666	infiltraba esófago
+T20	pathologie 2690 2710	adenopatías celiacas
+T21	pathologie 2754 2797	carcinoma de células pequeñas tipo oat-cell
+T22	pathologie 2878 2887	neoplasia

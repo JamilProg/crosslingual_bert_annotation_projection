@@ -1,0 +1,17 @@
+Anamnèse
+Patiente de 57 ans, fumeuse active, hypertendue, dyslipidémique et diabétique de type II, trouble bipolaire contrôlé par polythérapie. En août 2012, elle consulte pour une tumeur du sein droit. À l'examen : carcinome intraductal de grade I avec récepteurs hormonaux (HR) positifs, Ki67 12 % et erb-B2 négatif avec stadification finale : T2N1M0. De septembre à novembre, la patiente a subi une chimiothérapie néoadjuvante (4 cycles de doxorubicine et de cyclophosphamide avec des doses cumulées (DC) de 572 mg et 4584 mg respectivement) avec une réponse partielle. Une chirurgie conservatrice avec lymphadénectomie droite a été réalisée en janvier 2013. En mars, dans l'attente d'un traitement adjuvant, la patiente a consulté pour l'apparition d'une lésion érythémateuse, infiltrée, papuleuse de 1 cm sur l'hémithorax antérieur gauche, prurigineuse à la palpation. La biopsie a montré une infiltration diffuse du derme et de l'hypoderme par des cellules myéloïdes néoplasiques, de forme allongée, avec un cytoplasme clair abondant, une chromatine granuleuse et des nucléoles évidents, positives pour la myéloperoxydase, le CD43 et le CD68. Les résultats étaient compatibles avec un diagnostic de sarcome myéloïde. Il a été décidé d'hospitaliser le patient dans le service d'hématologie de notre centre pour compléter l'étude et le traitement.
+
+Examen physique
+État général ECOG 0. Au niveau cutané, la lésion décrite pouvait être observée avec d'autres lésions plus débutantes situées au niveau de la calotte, de la région cervicale postérieure, de la partie antérieure du thorax et des flancs. Le reste de l'examen est normal.
+
+Tests complémentaires
+L'hémogramme a montré une légère leucopénie avec une formule normale. L'aspiration de la moelle osseuse a montré 58 % de blastes myéloïdes avec érythrophagocytose et dysplasie dans 70 % de la population. L'immunofixation a montré l'expression de marqueurs myéloïdes et monocytaires, CD56 positif, CD34 négatif, et la co-expression de peroxydases et d'estérases. La cytogénétique et la biologie moléculaire ont montré un caryotype 46XX avec t(8.16) p(11p13), sans autres mutations.
+
+Diagnostic
+Sarcomes myéloïdes cutanés en tant que début de leucémie myéloïde aiguë (LMA) liée à la thérapie (OMS).
+
+Traitement
+Étant donné le bon pronostic du néoplasme mammaire, il a été décidé, en accord avec l'équipe médicale du service d'oncologie, de reporter le traitement adjuvant et d'entamer un traitement radical de la LAM par QT et greffe de cellules souches hématopoïétiques allogéniques (Allo-HCT).
+
+Évolution
+Pendant la phase d'induction, une disparition complète de toutes les lésions cutanées a été observée. Après récupération hématopériphérique, une réévaluation AMO a été réalisée, qui a montré une rémission complète (morphologique et cytogénétique) de la maladie. Le patient est actuellement hospitalisé et subit la première consolidation en vue de l'AloTPH.

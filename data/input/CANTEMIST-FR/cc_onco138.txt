@@ -1,0 +1,31 @@
+Anamnèse
+Un homme de 61 ans, ex-fumeur (80 paquets/an), ex-alcoolique modéré, sans allergies médicamenteuses connues et avec des antécédents de diabète sucré de type II, de maladie de Dupuytren, de cataracte de l'œil gauche et de splénectomie due à un traumatisme il y a 36 ans, qui a été admis au service des urgences pour terminer son étude en février 2008 en raison de symptômes cliniques de dysphagie aux solides et d'une perte de poids de 7 kg au cours des 4 derniers mois.
+
+Examen physique
+Bon état général. ECOG 0, conscient et orienté. Couleur normale et normohydratation. Signes vitaux normaux. Auscultation cardio-pulmonaire sans altération. Abdomen : mou et dépressible, non douloureux, pas de masse palpable ni de mégalithes. Pas d'œdème des membres inférieurs. Neurologique : pas de signes de focalité ou d'irritation méningée.
+
+Examens complémentaires
+"CT thoraco-abdominal (18/2/2008) : épaississement irrégulier des parois du tiers inférieur de l'œsophage s'étendant vers la cavité gastrique en relation avec un processus néoformatif. LOE dans le segment VIII du foie évoquant un granulome. Pas d'adénopathie.
+"Gastroscopie (20/2/2008) : de 35 cm à 42 cm de l'arcade dentaire, on observe une tumeur végétante couvrant toute la circonférence et sténosant la lumière, laissant un orifice de 5 mm de diamètre.
+Au niveau sous-cardial, on observe des plis irréguliers, d'aspect infiltrant.
+"Biopsie (20/2/2008) : adénocarcinome gastrique infiltrant l'œsophage.
+"Marqueurs tumoraux : CEA 5, CA 19.9 : 3.2.
+
+
+Diagnostic
+Adénocarcinome de la jonction gastro-oesophagienne de stade II B c (T3N0M0).
+
+Traitement
+En février 2008, pour un adénocarcinome de la jonction gastro-œsophagienne localement avancé E II B cT3 cN0 M0, une chimiothérapie périopératoire a été mise en place avec le DCF (docétaxel 75 mg/m2, cisplatine 75 mg/m2 et 5-FU 750 mg/m2 en perfusion continue les jours 1 à 5) tous les 21 jours. Elle a reçu trois cycles, avec une bonne tolérance et sans complications, et a été orientée vers la chirurgie pour une résection de la tumeur primaire.
+En attendant l'intervention chirurgicale, la patiente a fait une chute accidentelle, avec un traumatisme crânien accidentel, et un scanner du cerveau a été réalisé au service des urgences, qui a révélé une lésion frontopariétale droite. L'étude a été complétée par une IRM cérébrale (22/4/2208), confirmant la lésion frontopariétale droite de 1,6 x 1,8 x 2 cm avec un œdème périlésionnel important, évocateur d'une lésion métastatique.
+Le cas a été discuté par le comité multidisciplinaire des tumeurs et il a été décidé de procéder à une radiothérapie holocrânienne, à une chirurgie de la tumeur primaire et de la lésion cérébrale métastatique unique.
+Le 3/6/2008, une oesophagectomie subtotale + gastrectomie partielle a été réalisée. Lymphadénectomie D1. Résultats anatomo-pathologiques : adénocarcinome intestinal de type intestinal affectant le tiers distal de l'œsophage, la jonction gastro-œsophagienne et l'estomac bien différencié, atteignant l'adventice (pT3). Treize adénopathies ont été isolées sans infiltration tumorale. Le test Her-2 n'a pas été réalisé.
+Le 11/7/2008, une craniotomie pariétale droite et l'excision de la lésion ont été réalisées, avec le résultat de l'anatomie pathologique : métastase d'un adénocarcinome intestinal intensément nécrosé.
+Après la chirurgie, le traitement a été complété par une chimiothérapie avec trois cycles de DCF, terminant le traitement le 30/9/2008.
+
+Évolution
+Un suivi trimestriel a été mis en place conformément au protocole et, en décembre 2010, une nouvelle LOE cérébrale de 11 x 7 mm dans le pariétal postérieur gauche a été observée sur le scanner de contrôle, ce qui a été confirmé par l'IRM cérébrale (16 mm), sans aucun signe de maladie à un autre niveau.
+Une endoscopie et une échoendoscopie ont également été réalisées, sans signe de récidive locale.
+La patiente ne présentait aucune focalité neurologique, seulement une légère tendance à l'irritabilité, et étant donné qu'il s'agissait d'une nouvelle métastase cérébrale unique avec la tumeur primaire sous contrôle, le cas a été discuté au sein du comité des tumeurs et il a été décidé de procéder à l'excision de la tumeur.
+Le 16 décembre 2010, une craniotomie et l'excision de la lésion pariétale gauche ont été réalisées, l'anatomie pathologique révélant une métastase due à un adénocarcinome modérément différencié de type intestinal, largement nécrosé. Compte tenu de l'adénocarcinome de la jonction gastro-œsophagienne de stade IV NED yp (T3N0M1) (deux métastases cérébrales métachrones réséquées), l'observation a été décidée et aucun autre traitement complémentaire n'a été administré.
+Elle se porte actuellement bien sur le plan clinique, à l'exception d'une légère détérioration cognitive (ralentissement, troubles de la mémoire et labilité émotionnelle) et continue de subir des contrôles tous les six mois avec des tomodensitométries et des analyses des marqueurs tumoraux, sans aucun signe de progression de la maladie. À ce jour, l'intervalle sans progression est de 4 ans et 5 mois.

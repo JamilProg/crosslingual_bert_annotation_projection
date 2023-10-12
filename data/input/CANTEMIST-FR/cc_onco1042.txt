@@ -1,0 +1,26 @@
+Anamnèse
+Patiente de 42 ans sans antécédents personnels intéressants. Diagnostiquée en avril 2012 d'un adénocarcinome localement avancé (T3N1-2M0) du bas rectum (à 6 cm de la marge anale). Elle a subi un traitement néoadjuvant par chimiothérapie à la capécitabine et radiothérapie concomitante et a été opérée en juillet de la même année par amputation abdominopérinéale avec colostomie définitive. Par la suite, elle a suivi un traitement adjuvant par capécitabine et oxaliplatine (6 cycles) et des contrôles réguliers avec analyses et examens complémentaires.
+En mai 2016, une TEP-TDM de contrôle a révélé la présence d'une lésion parahilaire droite, recommandant de compléter l'étude afin d'exclure une récidive ou une seconde tumeur primaire.
+
+Examen physique
+Asymptomatique. Bon état général. Bien hydraté et perfusé. Bonne coloration de la peau et des muqueuses. Tête et cou : pas d'adénopathies. Pas de goitre. PCA : rythmique. CVM. ABD : doux, non douloureux à la palpation. Pas de signes d'irritation péritonéale. Sac de colostomie normofonctionnel.
+
+Examens complémentaires
+Analyses de laboratoire avec hémogramme, biochimie et marqueurs tumoraux (CEA et CA 19.9 normaux).
+TEP-CT : les images obtenues montrent une nouvelle apparition d'une lésion parahilaire droite hypermétabolique, avec SUVmax 14,9, mesurant 35 x 27,5 x 50 mm de diamètre dans ses axes AP-TR et CC, respectivement, recommandant une étude dirigée pour sa caractérisation. D'autres lésions plus petites sont adjacentes à l'arbre bronchique droit, ce qui permet d'évaluer les adénopathies interlobaires.
+Il existe également une atteinte adénopathique dans la région paratrachéale droite, avec un SUVmax de 14,6, jusqu'à 16 mm de diamètre ; prévasculaire en avant de la veine cave supérieure, avec un SUVmax de 12, jusqu'à 12 mm ; précarinale et subcarinale droite, avec un SUVmax de 14,8 jusqu'à 20 mm de diamètre. On observe également un épaississement focal de la plèvre pariétale postérieure droite, au niveau de la 8e côte, avec un SUVmax de 4,5. Conclusion : lésion hypermétabolique parahilaire droite, avec atteinte du médiastin et de la plèvre homolatérale d'apparition récente, pour laquelle une étude dirigée est recommandée afin d'éliminer une récidive ou un second primitif.
+Fibrobronchoscopie sans résultat.
+Echoendoscopie : FNA d'une adénopathie sous-carénale de 33 x 17, conglomérat adénopathique proximal de la station sous-carénale. Etude anatomopathologique : fond discrètement cellulaire et aspect nécrotique-dégénératif, sans signe de malignité.
+EBUS : adénopathies hyperéchogènes paratrachéales, hilaires droites et sous-carénaires avec FNA négative pour les cellules malignes.
+Médiastinoscopie : biopsie des ganglions lymphatiques paratrachéaux droits avec rapport anatomopathologique peropératoire de lymphadénite granulomateuse. Étude anatomopathologique : lymphadénite granulomateuse de type sarcoïde.
+
+Diagnostic
+"Adénopathie médiastinale avec lymphadénite granulomateuse sarcoïdale.
+"La présence d'une maladie maligne est exclue.
+
+Traitement
+Après que l'étude histopathologique a montré que la prise métabolique adénopathique était liée à la sarcoïdose et a donc exclu une tumeur maligne, la patiente a été adressée au service de médecine interne pour évaluation et traitement.
+Elle a été traitée par 60 mg de prednisone pendant 3 mois.
+
+Évolution
+La patiente s'est présentée aux consultations d'oncologie comme d'habitude, étant asymptomatique et en bon état général. Le PET-CT scan de contrôle a montré la disparition complète des adénopathies médiastinales.

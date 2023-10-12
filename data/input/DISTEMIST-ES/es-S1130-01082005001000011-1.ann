@@ -1,0 +1,12 @@
+T1	pathologie 65 82	carcinoma de mama
+T2	pathologie 167 197	masa multiquística pancreática
+T3	pathologie 492 550	formaciones quísticas a nivel de toda la celda pancreática
+T4	pathologie 723 747	cistoadenoma pancreático
+T5	pathologie 884 891	quistes
+T6	pathologie 1077 1109	cistoadenoma gigante de páncreas
+#1	SNOMED T1	254838004
+#2	SNOMED T2	31258000
+#3	SNOMED T3	31258000
+#4	SNOMED T4	235967003
+#5	SNOMED T6	235967003
+#6	SNOMED T5	441457006

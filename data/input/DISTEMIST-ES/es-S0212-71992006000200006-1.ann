@@ -1,0 +1,36 @@
+T1	pathologie 338 362	diabetes mellitus tipo 2
+T2	pathologie 406 425	hipercolesterolemia
+T3	pathologie 468 489	hipertensión arterial
+T4	pathologie 560 581	accidentes vasculares
+T5	pathologie 638 673	estenosis de válvula aórtica severa
+T6	pathologie 684 714	insuficiencia aórtica moderada
+T7	pathologie 1031 1043	endocarditis
+T8	pathologie 1047 1082	alteraciones funcionales valvulares
+T9	pathologie 1587 1599	endocarditis
+T10	pathologie 2233 2248	esplenomegalias
+T11	pathologie 2501 2512	adenopatías
+T12	pathologie 3148 3174	hipoplasia de seno frontal
+T13	pathologie 3239 3251	endocarditis
+T14	pathologie 3253 3261	abscesos
+T15	pathologie 3265 3273	fistulas
+T16	pathologie 4349 4361	endocarditis
+T17	pathologie 4382 4390	lesiones
+T18	pathologie 4610 4635	complicaciones valvulares
+#1	SNOMED T16	56819008
+#2	SNOMED T1	44054006
+#3	SNOMED T2	13644009
+#4	SNOMED T7	56819008
+#5	SNOMED T8	40445007
+#6	SNOMED T3	38341003
+#7	SNOMED T5	60573004
+#8	SNOMED T6	60234000
+#9	SNOMED T13	56819008
+#10	SNOMED T11	30746006
+#11	SNOMED T9	56819008
+#12	SNOMED T14	128477000
+#13	SNOMED T15	428794004
+#14	SNOMED T17	157670007
+#15	SNOMED T4	230690007
+#16	SNOMED T10	16294009
+#17	SNOMED T12	860820000
+#18	SNOMED T18	368009

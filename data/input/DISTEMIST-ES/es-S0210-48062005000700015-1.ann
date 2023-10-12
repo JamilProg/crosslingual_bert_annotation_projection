@@ -1,0 +1,22 @@
+T1	pathologie 94 119	espondilitis anquilosante
+T2	pathologie 678 700	carcinoma transicional
+T3	pathologie 939 1008	recidiva tumoral papilar, de aspecto superficial, en el suelo vesical
+T4	pathologie 1337 1359	carcinoma transicional
+T5	pathologie 2052 2095	pared vesical anterior, con abscesificación
+T6	pathologie 2128 2136	cistitis
+T7	pathologie 2291 2310	recurrencia tumoral
+T8	pathologie 3069 3075	lesión
+T9	pathologie 3126 3147	neoplasia infiltrante
+T10	pathologie 3572 3592	infiltración tumoral
+T11	pathologie 3674 3694	cistitis incrustante
+#1	SNOMED T11	783184003
+#2	SNOMED T1	9631008
+#3	SNOMED T3	314968009
+#4	SNOMED T5	36699003
+#5	SNOMED T9	363346000
+#6	SNOMED T2	27090000
+#7	SNOMED T4	27090000
+#8	SNOMED T10	128462008
+#9	SNOMED T8	417163006
+#10	SNOMED T6	38822007
+#11	SNOMED T7	277647002

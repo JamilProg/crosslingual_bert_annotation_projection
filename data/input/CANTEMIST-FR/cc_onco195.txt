@@ -1,0 +1,31 @@
+Anamnèse
+Un patient de 56 ans, sans antécédents médicaux ou chirurgicaux particuliers, s'est présenté au service des urgences avec une céphalée hémicrânienne droite évoluant depuis un mois. Il a décrit la céphalée comme étant pulsatile à l'avant avec une intensification au cours des deux derniers jours, associée à des nausées matinales et à des réveils nocturnes.
+Dans l'anamnèse par appareil, le patient a nié toute symptomatologie d'accompagnement à un autre niveau.
+
+Examen physique
+Examen général : bon état général. Bien hydraté et perfusé. Couleur normale. Eupnéique au repos. Oropharynx : pas de signes de muguet ni d'autres observations. Tête et cou : pas d'engorgement jugulaire. Pas d'adénopathies latérocervicales, supraclaviculaires ou submandibulaires palpables.
+Auscultation pulmonaire : souffle vésiculaire conservé, sans bruits pathologiques. Auscultation cardiaque : rythmique sans souffle ni extratonos. Abdomen : mou et dépressible. Indolore à la palpation. Pas d'hépatomégalie ni de masse abdominale. Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+Examen neurologique : conscient et orienté dans les trois sphères. Fonctions supérieures sans altération. Examen des nerfs crâniens dans les limites de la normale. Force et sensibilité sans déficit.
+Examen du cervelet normal. Démarche sans altération.
+
+Tests complémentaires
+"Hémogramme, biochimie de base et coagulation sanguine sans altération.
+"ECG : rythme sinusal sans altération de la repolarisation.
+"Radiographie du thorax : images nodulaires bilatérales dans le pharynx.
+"Compte tenu de l'organicité de la céphalée, il a été décidé d'effectuer en urgence une tomodensitométrie cérébrale qui a montré les résultats suivants : tumeur solide et hétérogène dans le sinus sphénoïde avec des données radiologiques d'agressivité car elle a érodé les parois du sinus et la paroi du canal pour le nerf optique droit.
+
+Diagnostic
+Le diagnostic d'une lésion du sinus sphénoïde et de lésions pulmonaires bilatérales étant à l'étude, le patient a été admis en neurochirurgie pour une biopsie transsphénoïdale.
+
+Traitement
+Le patient a été admis avec un traitement analgésique associé à des inhibiteurs de la pompe à protons.
+
+Évolution
+Lors de son admission en neurochirurgie, une IRM cérébrale préopératoire a été réalisée, qui a montré les résultats indiqués sur l'image.
+Par voie transnasale endoscopique, des échantillons ont été prélevés dans le sinus sphénoïde, dont l'analyse peropératoire a révélé la présence d'un adénocarcinome. Compte tenu de la suspicion d'une maladie tumorale disséminée, un scanner cervico-thoracique-abdominal a été réalisé, dont les résultats sont illustrés sur l'image.
+Le patient a été adressé au service d'oncologie après avoir reçu le diagnostic anatomopathologique de la biopsie du sinus sphénoïdal, à savoir un adénocarcinome CK7-, CK20+, CEA+, suggérant une origine digestive.
+Le patient présentait un ECOG 0, avec un bon état d'hydratation et de nutrition et aucun élément notable à l'examen physique.
+Une FNA de la lésion hépatique a été réalisée, qui s'est révélée positive pour les cellules malignes compatibles avec une métastase d'adénocarcinome d'origine intestinale, et un test K-ras a été effectué sur l'échantillon, qui s'est avéré natif.
+Par conséquent, avec un diagnostic d'adénocarcinome de stade IV (caractéristiques histologiques et immunohistochimiques d'origine colique), le patient a commencé un traitement de chimiothérapie à visée palliative avec FOLFOX6 (5-Fluorouracil-leucovorin/oxaliplatine)-cetuximab aux doses habituelles avec une réduction unique de la dose et une réponse partielle après 7 cycles.
+En raison de la présence d'une neuropathie de grade 2-3 dans les mains, un traitement par irinotécan/cetuximab a été instauré aux doses habituelles avec un seul cycle de traitement.
+La patiente a ensuite dû être hospitalisée en raison d'une septicémie associée à un cathéter, avec une évolution torpide qui a conduit à une défaillance de plusieurs organes et qui l'a finalement amenée à quitter l'hôpital 8 mois après le diagnostic.

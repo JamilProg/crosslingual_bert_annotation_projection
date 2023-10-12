@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 72 ans, hypertendue sous traitement par énalapril et fumeuse d'un paquet par jour depuis l'âge de 18 ans, IPA 55 paquets-années.
+Elle s'est présentée aux urgences fin février 2018 pour xérostomie, asthénie intense, sans anorexie ni amaigrissement et augmentation progressive du périmètre abdominal.
+Elle a rapporté le début des symptômes un mois plus tôt avec une aggravation progressive de l'état général accompagnée d'œdèmes généralisés, de bouffées vasomotrices du visage, d'une polydipsie de plus de 3,5 litres par jour, d'une polyurie et d'une dysphonie persistante.
+Lors d'une prise de sang de routine en janvier 2018, elle a présenté des données d'hypothyroïdie, pour laquelle un traitement substitutif par lévothyroxine 50 mcg par jour avait été débuté, et une échographie thyroïdienne avait été réalisée où elle présentait deux nodules de 8,9 mm et 6,3 mm, respectivement, dans les deux lobes thyroïdiens.
+
+Examen physique
+L'examen physique a révélé une sécheresse des muqueuses, une obésité tronculaire, des lésions surélevées sur les coudes et la région périombilicale, sans autre résultat significatif.
+
+Examens complémentaires
+Une analyse urgente a été effectuée, mettant en évidence certaines altérations biochimiques telles qu'une hypernatrémie de 148,00 mmol/l et une hypokaliémie de 2,70 mmol/l (3,5-5,0), avec une osmolalité plasmatique de 306 mOsm/kg (référence 275-295 mOsm/kg) ainsi qu'une légère altération des transaminases. En plus d'une anémie normocytaire-normochrome.
+Une étude des urines a été demandée avec une osmolalité de 142 mOsm/kg (500-800 mOsm/kg).
+En outre, la radiographie du thorax a montré un épaississement hilaire droit ainsi qu'une atélectasie du lobe inférieur ipsilatéral.
+Avec les critères du diabète insipide, un test à la desmopressine a été effectué où, après l'administration de 1 mcg de desmopressine, l'osmolarité urinaire était de 316 mOsm/kg, soit une augmentation de 100 % par rapport à la ligne de base, ce qui était cohérent avec le diabète insipide d'origine centrale ; avec une normalisation ultérieure des ions et la disparition des symptômes de polydipsie après l'initiation d'un traitement substitutif.
+Le reste de l'étude hormonale a montré une hypothyroïdie secondaire avec une TSH de 0,03 mcIU/ml (intervalle 0,35-5,0) et une T4 libre de 0,61 ng/dl (intervalle de référence 0,7-1,98) avec une auto-immunité thyroïdienne, un déficit en gonadotrophines et un hyperandrogénisme négatifs.
+En plus d'un syndrome de Cushing ACTH-dépendant avec un cortisol de 112 mcg/dl (valeurs entre 4,3-22,4) et une ACTH (hormone adrénocorticotrope) basale de 364,00 pg/ml (plage entre 9,0-55,0), nécessitant de la métyrapone.
+Un scanner thoraco-abdominal a montré de multiples adénopathies pathologiques au niveau médiastinal ainsi qu'une image d'amputation de la bronche du segment médian du lobe moyen suggérant un probable processus pulmonaire primaire (il n'a pas été possible de le délimiter en raison de la composante atélectasique), ainsi qu'une large dissémination au niveau infradiaphragmatique avec une atteinte hépatique, surrénalienne, rétropéritonéale, mésentérique et de multiples implants au niveau sous-cutané.
+La dysphonie était compatible avec la présence d'une paralysie des cordes vocales gauches dans le contexte des résultats décrits précédemment.
+L'étude a été complétée par une IRM du cerveau montrant de multiples lésions ponctuées aux niveaux infratentoriel et supratentoriel, non spécifiques et pouvant correspondre à des foyers d'ischémie aiguë, ainsi qu'une masse au niveau de l'hypophyse occupant la citerne suprasellaire, le chiasma optique et le troisième ventricule.
+La lésion hypophysaire était suspecte de métastase probable plutôt que compatible avec un macroadénome, et les lésions parenchymateuses suggéraient une atteinte secondaire.
+Le patient a été examiné par un ophtalmologiste et présentait une vision rétrobulbaire bilatérale, sans signe d'hémianopsie à la campimétrie.
+Une biopsie échoguidée de l'une des lésions sous-cutanées a été réalisée et le diagnostic pathologique était un carcinome non à petites cellules, peu différencié, largement nécrosé, avec un profil immunohistochimique dans lequel les cellules présentaient une positivité nucléaire intense pour le TTF1, la synaptophysine et le CD56, tout en étant p40 négatif ; cela a confirmé le diagnostic de carcinome neuroendocrine à grandes cellules, en plus d'une positivité ACTH parcellaire dans 35 à 40 % des cellules tumorales.
+
+Diagnostic
+Avec un diagnostic de carcinome neuroendocrine à grandes cellules de stade IV associé à un hypercortisolisme sévère dû au syndrome de Cushing causé par une sécrétion ectopique d'ACTH, le patient a été évalué par le service d'oncologie médicale en vue d'une prise en charge et d'un traitement.
+
+Traitement
+Compte tenu de la situation clinique de la patiente par rapport à l'ensemble du tableau tumoral paranéoplasique, avec une détérioration progressive de l'état général et de la PS, un traitement systémique et radiothérapeutique au niveau du cerveau a été écarté, et il a été décidé de donner la priorité aux soins de soutien.
+
+Évolution
+La patiente a continué à être suivie par l'unité de soins palliatifs et d'endocrinologie.

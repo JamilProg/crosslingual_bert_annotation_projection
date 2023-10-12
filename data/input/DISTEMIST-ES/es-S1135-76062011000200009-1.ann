@@ -1,0 +1,18 @@
+T1	pathologie 176 195	traumatismo craneal
+T2	pathologie 176 223	traumatismo craneal ocasionando ictus isquémico
+T3	pathologie 208 223	ictus isquémico
+T4	pathologie 261 292	golpe con un balón en el cuello
+T5	pathologie 414 485	infarto isquémico en el territorio de la arteria cerebral media derecha
+T6	pathologie 511 570	disección traumática de la arteria carótida interna derecha
+T7	pathologie 581 605	hipertensión endocraneal
+T8	pathologie 608 627	herniación cerebral
+T9	pathologie 648 665	muerte encefálica
+#1	SNOMED T7	271719001
+#2	SNOMED T8	49453006
+#3	SNOMED T5	432504007
+#4	SNOMED T9	230802007
+#5	SNOMED T6	705066004
+#6	SNOMED T1	82271004
+#7	SNOMED T3	422504002
+#8	SNOMED T4	90460009
+#9	SNOMED T2	82271004+16218291000119100

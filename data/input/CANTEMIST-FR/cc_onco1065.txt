@@ -1,0 +1,25 @@
+Anamnèse
+Homme de 16 ans sans antécédents personnels notables.
+Asymptomatique jusqu'en septembre 2013, date à laquelle il a commencé à présenter une hypoesthésie au niveau du maxillaire droit, associée par la suite à un gonflement, à une douleur au niveau de la mâchoire supérieure droite et à un strabisme convergent de l'œil droit.
+
+Examen physique
+- Poids 48,7 kg. Taille 175 cm. IK 90. Habitus asthénique. Normohydraté. Normoperfusé. Pâleur cutanéo-muqueuse.
+- Tête et cou : pas d'augmentation de la PVY. Pas d'adénopathie palpable. Asymétrie maxillaire avec gonflement à droite entraînant une protrusion oculaire.
+- Poitrine : auscultation cardiaque : rythmée, pas de souffle. Auscultation pulmonaire : hypoventilation globale.
+- Abdomen : mou, dépressible, non douloureux à la palpation, avec présence de bruits hydro-aériques.
+- Extrémités : pas d'œdème. Pieds +.
+- Examen neurologique : nerfs crâniens normaux, à l'exception de la présence d'un strabisme convergent. Force conservée.
+
+Examens complémentaires
+- Une radiographie des sinus paranasaux a été demandée, qui a montré une opacification du sinus maxillaire gauche, probablement secondaire à une sinusite. Compte tenu de la persistance des symptômes, le patient a été adressé en neurologie, qui a corroboré l'examen neurologique précédemment décrit, et une IRM crânienne a été demandée, qui a montré une volumineuse tumeur solide et expansive dans le sinus maxillaire droit, détruisant les parois osseuses antérieures et médianes du sinus. Une biopsie a été pratiquée, avec un rapport anatomopathologique de glomangiopéricytome de malignité intermédiaire, positif à l'actine musculaire lisse, négatif à la protéine S100, au CD68 et à la desmine.
+- Au vu de ces résultats, la patiente a été adressée à notre service, où une analyse sanguine a été demandée, qui n'a révélé qu'une légère hypocholestérolémie, avec un hémogramme normal et une légère élévation du CA 19.9.
+- L'étude a été complétée par un scanner du corps et un PET scan, qui ont permis d'exclure une atteinte à d'autres niveaux et de décrire la masse connue dans le sinus maxillaire, qui se projetait dans l'espace rétrooculaire droit et entrait en contact avec la narine droite, la cloison nasale, le plancher de l'orbite droite, l'os malaire droit et la partie supérieure du maxillaire (SUV 14,19).
+
+Diagnostic
+Hémangiopéricytome maxillaire localement avancé de malignité intermédiaire.
+
+Traitement
+Le patient refuse la cryoconservation séminale avant le début du traitement. Comme il s'agissait d'une tumeur vasculaire avec des signes d'agressivité locale, de type hémangiopéricytome, et pour assurer une chirurgie avec des bords libres, il a été décidé de commencer un traitement combiné basé sur une chimiothérapie associée à une thérapie anti-angiogénique composée de bevacizumab 2,5 mg/kg et de paclitaxel 150 mg/m2 tous les 15 jours. Il a reçu 4 cycles avec une toxicité sous la forme d'un seul épisode d'épistaxis autolimitée, et l'IRM de contrôle en février 2014 a montré une réponse partielle mineure, il s'est donc présenté à la session d'oncologie, et la chirurgie a été décidée, consistant en une maxilloethmoidectomie médiane droite avec une reconstruction avec un filet orbitaire et un lambeau temporal. Le rapport anatomopathologique confirme un glomangiosarcome malin intermédiaire de 8 cm avec infiltration focale de la marge postéro-médiale, avec une nécrose inférieure à 50% et 6 mitoses/10 cga.
+
+Évolution
+La patiente s'est à nouveau présentée à la session et, compte tenu de la taille de la tumeur, supérieure à 5 cm, de la présence d'un pléomorphisme et d'un nombre élevé de mitoses dans l'échantillon histologique, un traitement radiothérapeutique complémentaire a été décidé en raison du risque élevé de récidive locale et de métastases à distance. La patiente attend actuellement le début de l'administration et l'évaluation ultérieure de la chimiothérapie.

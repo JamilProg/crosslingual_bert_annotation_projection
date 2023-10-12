@@ -1,0 +1,27 @@
+Anamnèse
+Homme de 65 ans, sans allergies pharmacologiques. Antécédents personnels d'hypertension artérielle, de dyslipidémie, d'ulcère gastroduodénal, de cardiopathie ischémique (triple pontage coronarien en 2006). Carcinome transitionnel de la vessie pTaG2, résection transurétrale et perfusion intravésicale de mitomycine (2006, suivi actuel en urologie). Claudication du jumeau droit, traitement endovasculaire d'une sténose sévère de l'axe ilio-fémoral (2010). Antécédents familiaux : père atteint d'une néoplasie colique (67 ans).
+Traitement régulier par bisoprol 2,5 mg/12 heures, oméprazole 20 mg/24 heures, nitroglycérine transdermique 10 mg (9-21 heures), acide acétylsalicylique 100 mg/24 heures, atorvastatine 20 mg/24 heures. Elle a consulté en avril 2010 pour des épisodes de douleurs abdominales de type colique d'une durée de quatre mois, constatant une anémie ferriprive sévère, pour laquelle elle a été admise au service digestif.
+
+Examen physique
+ECOG 1, indice de masse corporelle 29,07 kg/m2. Pas d'altération du reste de l'examen physique.
+
+Examens complémentaires
+- Analyses sanguines (15 avril 2010) : hémoglobine 8,2 g/dL ; hématocrite 25,2% ; volume corpusculaire moyen 76,60 fL ; fer sérique 12 mg/dL ; saturation de la transferrine 3,11%.
+- Gastroscopie-coloscopie (17 avril 2010) : normale.
+- Sang occulte dans les selles (19 avril 2010) : positif dans les trois échantillons.
+- Tomodensitométrie thoraco-abdominale (24 avril 2010) : effet de masse dans le quadrant inférieur gauche de l'abdomen correspondant à une invagination iléo-iléale, probablement de nature intermittente. Passage du contraste au niveau du cæcum, avec persistance de l'image d'invagination. Hypertrophie prostatique. Stent iliaque droit.
+- Transit oesophagogastroduodénal (27 avril 2010) : lésion végétative intraluminale de faible épaisseur (peut-être iléale), provoquant une invagination intermittente des anses avec images d'occlusion.
+- Anatomie pathologique :
+- Macroscopie : segment d'intestin grêle de 13 cm de long, à l'ouverture montre une tumeur exophytique centrale pédiculée, semblant dépendre de la muqueuse/sous-muqueuse mesurant 40 x 30 mm. Consistance élastique et couleur gris blanchâtre.
+- Microscopie : tumeur solide, de lignée mésenchymateuse, ulcérée, affectant principalement la sous-muqueuse et la muqueuse de l'intestin grêle, avec une croissance expansive vers la lumière. Elle consiste en une prolifération de cellules fusiformes disposées en fascicules, parfois entrecroisées. A plus fort grossissement, les cellules sont de grande taille, avec un cytoplasme éosinophile, fibrillaire, parfois vacuolisé, de gros noyaux pléomorphes, hyperchromatiques, parfois multinucléés et un index mitotique très élevé, confirmé par l'immunohistochimie du Ki-67 qui montre une positivité de 80 % dans certaines zones.
+- Immunohistochimie (tableau I) : positivité du Ki-67 de 80%. Positivité marquée pour l'actine, la desmine et dans une moindre mesure la cytokératine AE1-AE3 (périphérie du cytoplasme). CD34, EGFR et c-kit (CD117), ainsi que S100 et phosphatase alcaline placentaire négatifs.
+
+Diagnostic
+Leiomyosarcome jéjunal distal de haut grade non GIST.
+
+Traitement
+Chirurgie programmée (5 mai 2010) avec résection segmentaire de l'intestin et anastomose mécanique latéro-latérale. Marges chirurgicales libres.
+Par la suite, après évaluation par l'oncologie médicale, une chimiothérapie adjuvante a été prescrite avec 2 500 mg d'ifosfamide et 25 mg/m2 de doxorubicine jour 1, 2, 3 tous les 21 jours pendant quatre cycles (du 5 juillet au 11 septembre 2010).
+
+Évolution
+Le patient a subi des contrôles ultérieurs, dont le dernier en mars 2012, et reste asymptomatique et indemne de maladie.

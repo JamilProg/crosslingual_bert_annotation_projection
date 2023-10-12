@@ -1,0 +1,28 @@
+Anamnèse
+Patient masculin âgé de 40 ans, fumeur (taux de paquets/an de 20), sans autre antécédent personnel ou familial intéressant (pas de cryptorchidie ni d'autres antécédents urologiques) qui a consulté en août 2013 pour une histoire de 3 mois d'augmentation de la taille du testicule droit, sans traumatisme antérieur, sans autre symptôme associé.
+
+Examen physique
+L'examen physique a alors révélé une augmentation significative de la taille du testicule référé, jusqu'à 8 cm, sans autre anomalie au niveau du testicule controlatéral ou dans le reste de l'examen physique.
+
+Examens complémentaires
+"Dans le cadre de l'étude initiale, une échographie scrotale a été réalisée, qui a révélé la présence d'une masse solide importante, hétérogène, vascularisée, avec des zones kystiques à l'intérieur, occupant la totalité du testicule droit.
+"Les examens de laboratoire ont révélé un taux d'alpha-fœtoprotéine (AFP) de 5 494 ng/ml (limites normales [NL] entre 0,6 et 8,5 ng/ml), une fraction de gonadotrophine chorionique bêta-humaine (BHCG) de 126,3 mU/ml (NL entre 0,1 et 4) et un taux de lactate déshydrogénase (LDH) de 293 U/l (NL entre 135 et 225 U/l).
+
+Diagnostic
+Compte tenu de la suspicion diagnostique de néoplasie testiculaire, une orchidectomie droite par voie inguinale a été pratiquée le 14/8/2013. L'anatomie pathologique de la pièce opératoire a été rapportée comme une tumeur germinale mixte (TGC), composée de carcinome embryonnaire (40 %), de tératome (40 %) et de tumeur du sinus endodermique (20 %), avec une infiltration de l'ensemble du parenchyme testiculaire, du rete testis et de l'épididyme sans dépasser l'albuginée, avec toutefois des images d'infiltration lymphatique et veineuse. Dans le cadre de l'étude d'extension, une tomodensitométrie thoraco-abdominale-pelvienne a été réalisée, montrant la présence d'un large conglomérat adénopathique de 8 x 10 x 8,7 cm (axes longitudinal, antéropostérieur et transversal, respectivement) et d'un nodule pulmonaire de 1,2 cm au niveau de la lingula. Les marqueurs tumoraux post-chirurgicaux étaient les suivants : AFP 4 164 ng/ml, bêta-hCG 113,2 mU/ml et LDH 318.
+
+Traitement
+Avec le diagnostic de tumeur germinale non séminomateuse (NSGCT) T2 N3 M1a S2, stade IIIb (AJCC de 2002), de pronostic intermédiaire selon la classification de l'IGCCCG (International Germ Cell Cancer Collaborative Group), il a été proposé de commencer un traitement de chimiothérapie par BEP (bléomycine 30 mg par semaine pendant 12 semaines, étoposide 100 mg/m2 jours 1 à 5 et cisplatine 20 mg/m2 jours 1 à 5), Les patients ont reçu trois cycles de BEP et un cycle d'EP avec une bonne tolérance, présentant comme toxicités une mucosite de grade 1 et un épisode de neutropénie afébrile de grade 3 qui a conduit à un retard de sept jours dans le début du troisième cycle.
+
+Evolution
+Le scanner de réévaluation après trois cycles de chimiothérapie a montré une réponse partielle du conglomérat adénopathique rétropéritonéal (5,6 x 7 x 7,6 cm) et du nodule pulmonaire (à l'époque 0,8 cm de diamètre). Quant aux marqueurs tumoraux, bien qu'ils aient initialement montré une diminution adéquate, après avoir terminé le traitement prévu, il y avait encore une élévation de l'AFP (niveaux de 258 ng/ml) avec une normalisation de la B-hCG et de la LDH.
+
+Compte tenu de la présence d'une maladie tumorale résiduelle et d'une élévation persistante des taux d'AFP, une nouvelle ligne de traitement a été envisagée pour le TIP (paclitaxel 175 mg/m2 le jour 1, ifosfamide 1 000 mg/m2/j les jours 1 à 5 et cisplatine 20 mg/m2/j les jours 1 à 5) avec mobilisation de cellules CD34+ et aphérèse. Après les deux cycles, une réponse radiologique et biochimique partielle a été observée, de sorte que le 4 mars 2014, il a commencé une chimiothérapie à haute dose (QAD) (paclitaxel 175 mg/m2 le jour 1, carboplatine AUC 20 (aire sous la courbe) et étoposide 1 500 mg/m2 divisé en 6 doses toutes les 12 heures) et une perfusion subséquente de précurseurs hématopoïétiques. Les complications du traitement comprenaient une mucosite de grade 3 et une diarrhée de grade 2 ; une anémie de grade 3 et une thrombopénie de grade 4, qui ont nécessité un soutien avec des produits sanguins, ainsi qu'une neutropénie fébrile de grade 4 sans isolement microbiologique, qui a nécessité un traitement empirique avec des antibiotiques à large spectre. Après le rétablissement, une deuxième dose de QAD a été administrée avec un support de progéniteurs hématopoïétiques autologues.
+
+Le scanner de réévaluation a montré la persistance de la lésion rétropéritonéale, mais avec l'apparition de nouvelles lésions pulmonaires millimétriques bilatérales et une augmentation progressive de l'AFP jusqu'à 50 ng/ml.
+
+Compte tenu des preuves de la progression de la maladie, un traitement par étoposide oral (50 mg/m2 par jour) a été demandé dans le cadre d'un usage compassionnel et a débuté en mai 2014. Ce traitement a permis d'obtenir des marqueurs tumoraux négatifs, une diminution de la taille des nodules pulmonaires et une stabilité de la masse rétropéritonéale.
+
+La patiente a été adressée au service d'urologie et la résection du conglomérat rétropéritonéal a été réalisée le 24 octobre 2014. L'anatomie pathologique et l'immunohistochimie de la pièce opératoire correspondaient à un tératome mature, sans aucun signe d'autres composants.
+
+Depuis lors, le patient a été traité avec de l'étoposide oral quotidien, qui a été bien toléré. Il continue d'être suivi, avec des marqueurs tumoraux toujours négatifs et aucun signe de récidive de la maladie sur les examens d'imagerie. Elle conserve des micronodules pulmonaires bibasiques.

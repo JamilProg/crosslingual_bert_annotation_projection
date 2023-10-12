@@ -1,0 +1,20 @@
+T1	pathologie 253 301	pápulas violáceas en los nudillos de ambas manos
+T2	pathologie 470 500	proceso miopático inflamatorio
+T3	pathologie 558 573	dermatomiositis
+T4	pathologie 597 612	dermatomiositis
+T5	pathologie 719 748	lesiones hipodensas hepáticas
+T6	pathologie 766 790	hepática: Adenocarcinoma
+T7	pathologie 865 882	lesiones cutáneas
+T8	pathologie 937 963	adenocarcinoma pancreático
+T9	pathologie 983 1003	metástasis hepáticas
+T10	pathologie 1143 1160	lesiones cutáneas
+#1	SNOMED T1	70831001
+#2	SNOMED T2	128496001
+#3	SNOMED T3	396230008
+#4	SNOMED T4	396230008
+#5	SNOMED T5	235856003
+#6	SNOMED T6	408646000
+#7	SNOMED T7	95324001
+#8	SNOMED T8	700423003
+#9	SNOMED T9	94381002
+#10	SNOMED T10	95324001

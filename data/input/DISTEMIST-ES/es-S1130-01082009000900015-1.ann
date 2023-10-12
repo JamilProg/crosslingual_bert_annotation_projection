@@ -1,0 +1,22 @@
+T1	pathologie 34 66	pancreatitis aguda de repetición
+T2	pathologie 110 122	hiperlipemia
+T3	pathologie 201 235	pancreatitis aguda moderada-severa
+T4	pathologie 363 381	pancreatitis aguda
+T5	pathologie 500 520	pancreatitis crónica
+T6	pathologie 527 543	páncreas divisum
+T7	pathologie 550 581	atrofia del parénquima hepático
+T8	pathologie 627 647	pancreatitis crónica
+T9	pathologie 650 666	páncreas divisum
+T10	pathologie 787 823	tumoración en cara anterior gástrica
+T11	pathologie 868 872	GIST
+#1	SNOMED T1	197458008
+#2	SNOMED T3	197456007
+#3	SNOMED T5	235494005
+#4	SNOMED T2	55822004
+#5	SNOMED T10	126824007
+#6	SNOMED T6	54554009
+#7	SNOMED T7	89835009
+#8	SNOMED T11	420120006
+#9	SNOMED T4	197456007
+#10	SNOMED T8	235494005
+#11	SNOMED T9	54554009

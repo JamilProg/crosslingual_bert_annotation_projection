@@ -1,0 +1,32 @@
+T1	pathologie 71 85	cáncer de mama
+T2	pathologie 485 491	lesión
+T3	pathologie 540 546	lesión
+T4	pathologie 756 789	picaduras por la araña Loxosceles
+T5	pathologie 885 930	picaduras en miembros superiores e inferiores
+T6	pathologie 977 983	lesión
+T7	pathologie 1223 1229	lesión
+T8	pathologie 1456 1473	picadura de araña
+T9	pathologie 1506 1530	enfermedades infecciosas
+T10	pathologie 1574 1609	lesiones cutáneo-mucosas necróticas
+T11	pathologie 1616 1625	celulitis
+T12	pathologie 1627 1637	vasculitis
+T13	pathologie 1639 1657	úlceras diabéticas
+T14	pathologie 1659 1681	insuficiencia vascular
+T15	pathologie 1683 1708	reacciones medicamentosas
+T16	pathologie 1710 1767	quemaduras térmicas o químicas, infecciosas o traumáticas
+#1	SNOMED T1	254837009
+#2	SNOMED T8	771257008
+#3	SNOMED T11	128045006
+#4	SNOMED T12	31996006
+#5	SNOMED T13	422183001
+#6	SNOMED T14	86341008
+#7	SNOMED T15	62014003
+#8	SNOMED T16	314534006+426284001
+#9	SNOMED T4	40119006
+#10	SNOMED T9	394807007
+#11	SNOMED T10	95347000+276320009
+#12	SNOMED T2	417163006
+#13	SNOMED T3	417163006
+#14	SNOMED T6	417163006
+#15	SNOMED T7	417163006
+#16	SNOMED T5	72587008

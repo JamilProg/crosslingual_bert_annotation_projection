@@ -1,0 +1,28 @@
+Anamnèse
+"Femme de 16 ans sans antécédents particuliers.
+"Elle s'est présentée au service des urgences pour une diplopie binoculaire oblique progressive depuis 3 semaines, plus marquée en supraversion, prédominant initialement le soir et la nuit, jusqu'à ce qu'elle devienne constante et sans fluctuations.
+"Pas de céphalées, de nausées ou de vomissements ; pas de troubles sensori-moteurs.
+"Pas de fièvre ni d'autres symptômes.
+
+Examen physique
+"Mydriase aréactive bilatérale, sans ptosis, restriction bilatérale pour la supraversion qui est surmontée dans les manœuvres oculocéphaliques, avec nystagmus de convergence-rétraction dans cette version.
+"Le reste de l'examen neurologique était normal.
+"Examen du fond d'œil avec une lentille de 90º : papille normale et macula normale.
+
+Examens complémentaires
+"Tomodensitométrie crânienne : lésion dans la région pinéale.
+"Imagerie par résonance magnétique (IRM) du cerveau : tumeur pinéale d'un diamètre d'environ 21 x 16 x 25, le plus grand diamètre étant craniocaudal. Brillance discrète dans la séquence de diffusion, perfusion accrue avec des valeurs maximales de trois fois la substance blanche normale, hypo- ou isointense avec le cortex en T2, avec de petits kystes à l'intérieur.
+"Biopsie-excision d'une tumeur de la pinéale : prolifération néoplasique de haute cellularité, disposée en feuillets. Il s'agit de grandes cellules avec un nucléole éosinophile évident, avec des zones de nécrose également évidentes.
+"Immunohistochimie : positivité diffuse et intense pour la vimentine et l'EMA, positivité focale pour la CK AE1/AE3, positivité focale et parcellaire pour la PFGA, positivité parcellaire pour la synaptophysine et les neurofilaments.
+"Indice de prolifération : 20 %.
+
+Diagnostic
+Tumeur rhabdoïde-teratoïde atypique de grade IV de l'Organisation mondiale de la santé (OMS).
+
+Traitement
+Le patient a subi une craniotomie et une résection de la tumeur pinéale le 26/04/2016. Lors de l'IRM de contrôle, des restes minimes de captation ont été observés dans la marge inférieure et surtout dans la marge antérieure du lit chirurgical, en médial du thalamus droit.
+La patiente a commencé le traitement selon le schéma de la clinique de recherche Dana Farber associant la radiothérapie à une chimiothérapie intensive (vincristine, cisplatine, doxorubicine, cyclophosphamide, étoposide, dactinomycine, méthotrexate, cytarabine, leucovorine et hydrocortisone) à la fois par voie intraveineuse et intrathécale et de manière concomitante et séquentielle à la radiothérapie, répartie sur 51 semaines de traitement (soit une durée d'environ un an). Ce programme de traitement est divisé en 5 phases : pré-irradiation, chimioradiothérapie, consolidation, maintenance et continuation.
+
+Évolution
+La patiente a débuté ce schéma thérapeutique en mai 2016, avec pour seules toxicités une neutropénie et une thrombopénie de grade IV, qui ont nécessité un report d'une semaine du traitement à deux reprises.
+Après 5 mois de traitement, la patiente a présenté une réponse partielle selon les critères de RANO, qui est actuellement maintenue.

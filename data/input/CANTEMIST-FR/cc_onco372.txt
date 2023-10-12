@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 63 ans, ayant une bonne qualité de vie, buvant plus de 40 grammes par jour et non-fumeur, dont les antécédents personnels comprennent une dyslipidémie, une suspicion de SAOS en cours d'étude et une hypothyroïdie. Ses antécédents familiaux de cancer comprennent un cousin décédé d'un cancer gastrique. En juillet 2015, il a commencé par présenter une fatigue vocale et une dysphonie prédominante avec efforts vocaux, sans autre symptôme systémique associé.
+
+Examen physique
+La palpation cervicale était négative et le reste de l'examen physique était sans particularité.
+
+Examens complémentaires
+Examen laryngoscopique : lésion végétante, sessile et irrégulière de l'aryténoïde droit s'étendant à la face sous-glottique des deux cordes vocales, à la sous-glotte et à la commissure antérieure, avec limitation douteuse de la motilité.
+Au vu de ces résultats, il a été décidé de compléter l'étude d'extension et les tests suivants ont été demandés :
+-Marqueurs tumoraux : CEA modérément élevé (15,6 ng/ml).
+-TDM corps montrant un nodule pulmonaire dans le segment 8 de la LID mesurant 2,5 x 1,7 cm, plusieurs nodules millimétriques bilatéraux évocateurs de métastases et une adénopathie hilaire droite mesurant 1,5 cm.
+Épaississement mural irrégulier d'un segment de 3 cm du côlon ascendant, avec des signes d'infiltration de la graisse adjacente ainsi qu'un implant péritonéal de 1,8 cm dans le péritoine pariétal antérolatéral droit.
+Compte tenu des constatations faites au niveau du gros intestin, il a été décidé de demander une coloscopie au cours de laquelle une masse excroissante a été visualisée dans le côlon droit au niveau de l'angle hépatique sans pouvoir la traverser ni l'identifier dans toute son ampleur, sur laquelle des biopsies ont été pratiquées avec pour résultat un adénocarcinome invasif modérément différencié.
+Pour compléter l'étude et faciliter l'approche thérapeutique, il a été décidé de demander un PET scan qui a montré un nodule pulmonaire hypermétabolique de 2,3 x 1,6 cm dans le LID évocateur d'une pathologie tumorale (SUVmax 4,9), des adénopathies dans la région latéro-cervicale bilatérale d'environ 1.1 cm avec une absorption suggérant une étiologie inflammatoire et une augmentation métabolique intense dans les boucles de l'angle hépatique du côlon avec un SUVmax de 10,6. Dans le péritoine adjacent, une absorption nodulaire de 1,2 cm avec un SUVmax de 5,7.
+
+Diagnostic
+Une microchirurgie laryngée a été réalisée dans un but diagnostique, avec une résection partielle de la lésion et une trachéotomie horizontale trans-isthmique en octobre 2015 où une lésion végétative rugueuse a été observée dans l'aryténoïde-apophyse vocale droite et s'étendant le long de la commissure laryngée postérieure à la face et à l'aspect sous-glottique des deux cordes vocales. Après étude anatomopathologique de la lésion, celle-ci a été classée comme une métastase d'un adénocarcinome modérément différencié compatible avec une origine colique (CK20 et CDX2 positifs).
+
+Traitement
+Elle s'est présentée au comité multidisciplinaire d'oncologie de la tête et du cou de notre hôpital avec un diagnostic clinique d'adénocarcinome du côlon de stade IV (métastases laryngées, pulmonaires et péritonéales) et il a été décidé de l'adresser au service d'oncologie médicale pour entamer une chimiothérapie à visée palliative. Les mutations KRAS/NRAS/BRAF ont été recherchées et le résultat a été positif pour l'exon 2 (codon 12) du gène KRAS.
+Après avoir débuté le schéma XELOX (Capecitabine/Oxaliplatine) pendant trois cycles avec une bonne tolérance clinique, présentant une thrombopénie de grade 2 et une neurotoxicité de grade 1, une première réévaluation a été réalisée en février 2016, montrant une réponse partielle au niveau laryngé et au niveau de la lésion colique ainsi qu'une stabilité des lésions pulmonaires et péritonéales, de sorte qu'il a été décidé de poursuivre avec le même schéma de chimiothérapie.
+
+Évolution
+Après 5 cycles de XELOX, une toxicité hépatique a été observée avec une hyperbilirubinémie de grade 2. Il a donc été décidé de passer au FOLFOX (5-Fluroracil/Oxaliplatine), qui est actuellement utilisé avec une bonne tolérance.

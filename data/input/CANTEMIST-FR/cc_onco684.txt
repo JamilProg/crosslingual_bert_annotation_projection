@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 47 ans sans antécédents médicaux, chirurgicaux ou familiaux, diagnostiquée à l'âge de 33 ans (2002) avec un sarcome synovial monophasique de grade 3 situé dans le membre inférieur gauche, cT2b N0, stade III (positivité pour CD34, CD99 et bcl2 et l'actine musculaire lisse, focale ; négativité pour EMA, CK [AE1/AE3, 20, 7 et 34BE12], S100, CD56, desmine et actine HHF35 ; pas de translocation de SS18 [également connu sous le nom de SYT]).
+Il a été traité par radiothérapie préopératoire (50Gy), résection marginale, radiothérapie peropératoire et doxorubicine (20 mg/m2/jour, jours 1-3) ifosfamide (1 500 mg/m2/jour, jours 1-4) tous les 21 jours pendant 6 cycles adjuvants avec une bonne tolérance.
+Après un intervalle de sept ans sans maladie, il a souffert d'une récidive péritonéale qui a été traitée chirurgicalement et par doxorubicine-ifosfamide aux mêmes doses que précédemment pendant trois cycles.
+Dix mois plus tard (novembre 2009), de nouvelles lésions dans les deux reins avec une biopsie positive pour les métastases du sarcome synovial, qui sont traitées par radiofréquence.
+Au cours des deux années suivantes, de multiples métastases sont réséquées : adénopathie iliaque gauche, corporectomie D11 avec radiothérapie ultérieure, néphrectomie radicale gauche, suprarénalectomie, pancréatectomie partielle, splénectomie, résection de métastases crâniennes occipitales et lymphadénectomie axillaire gauche, jusqu'en octobre 2012.
+Un an plus tard, progression au niveau pulmonaire et hépatique, elle a donc été traitée par gemcitabine (900 mg/m2 jours 1 et 8) docétaxel (100 mg/m2 jour 8) tous les 21 jours pendant six cycles jusqu'en mars 2014, ce qui a augmenté les lésions pulmonaires, hépatiques et rénales droites.
+A cette époque, traitement par trabectédine 1,25 mg/m2 tous les 21 jours de mars 2014 à avril 2015 pour 12 cycles avec une progression lente (nodules pulmonaires multiples affectant tous les lobes et lésions hépatiques métastatiques jusqu'à 5 cm).
+Commence le pazopanib 800 mg par jour le 08/08/2015, devant réduire la dose après un mois de traitement en raison d'une toxicité hépatique de grade 1.
+Elle est restée sous traitement jusqu'en juillet 2016, date à laquelle elle s'est rendue aux urgences :
+" La patiente a rapporté une perte de conscience d'une heure d'évolution sans perte de contrôle sphinctérien, crises d'épilepsie ou autres déficits neurologiques.
+"La glycémie était de 22 mg/dl, qui s'est rétablie à 121 mg/dl après 10 cc de glucose à 50 % par voie intraveineuse. Il a signalé des sueurs matinales au cours de l'année écoulée, sans contrôle glycémique préalable.
+
+Examen physique
+L'examen physique a révélé un phénotype acromégaloïde sans autre particularité.
+
+Tests complémentaires
+Lors de l'admission à l'hôpital, des tests spécifiques pour l'hypoglycémie ont été effectués, sans obtenir de résultats analytiques de base avec une hypoglycémie inférieure à 45 mg/dl, raison pour laquelle il a été décidé d'effectuer un test à jeun, avec un résultat positif 12 heures après l'avoir commencé, avec une valeur prouvée de la glycémie veineuse de 38 mg/dl avec une bonne tolérance à l'hypoglycémie.
+Les examens de laboratoire ont montré une diminution des taux de C-peptide 0,06 ng/ml (0,81-3,85), d'insuline < 2,00 μUI/ml (0,0-25,0), de GH < 0,05 ng/ml (4,3-6,3), d'IGF-1 (somatomédine-C) < 25,0 ng/ml (55,0-420,0).
+Lors de la même admission, la croissance d'une atteinte métastatique du foie, de nodules pulmonaires et d'une atteinte des tissus mous au niveau du corps vertébral D11 a été confirmée.
+
+Diagnostic
+Hypoglycémie hypoinsulinémique due à une tumeur des îlots de Langerhans non pancréatiques : NICTH due à une tumeur mésenchymateuse produisant de l'IGF-2.
+
+Traitement
+Une corticothérapie est instaurée à raison de 30 mg de prednisone par jour pour le traitement symptomatique de l'hypoglycémie et un capteur de glycémie est placé, ce qui permet d'améliorer le profil de l'hypoglycémie après l'instauration de la corticothérapie.
+
+Évolution
+Notre patient a ensuite été traité à nouveau avec de la trabectédine à raison de 1,25 mg/m2 tous les 21 jours, avec une nouvelle progression de la tumeur. Durant ces 10 mois de traitement, en l'absence de meilleures alternatives thérapeutiques, un traitement par analogues de la somatostatine a été envisagé afin de réduire la dose de stéroïdes et donc ses effets secondaires, bien qu'avec peu de preuves. Quatre doses de lanréotide ont été administrées après vérification de l'expression des récepteurs de la somatostatine, sans bénéfice clinique et avec la nécessité de maintenir la corticothérapie pour maintenir la glycémie dans l'intervalle.
+Si l'évolution du patient avait été meilleure, la prochaine alternative possible aurait été le traitement au lutécium-177.

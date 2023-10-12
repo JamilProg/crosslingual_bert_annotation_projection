@@ -1,0 +1,24 @@
+Anamnèse
+Patient de 62 ans, sans allergie médicamenteuse connue, ex-fumeur, non énolique, avec des antécédents d'hypertension et de sténose aortique sévère ayant nécessité un remplacement valvulaire en novembre 2007 par une prothèse biologique.
+Son histoire oncologique a commencé en octobre 2013, lorsqu'il a été diagnostiqué avec un carcinome épidermoïde de stade IV (T3N2cM0) du larynx supraglottique, considéré comme un candidat à la chimiothérapie d'induction sous TPF (cisplatine 120 mg, docétaxel 120 mg, 5-fluorouracile 6,100 mg). Trois cycles ont été administrés, le dernier ayant été reçu le 18/12/2013 ; les toxicités comprenaient une mucosite de grade 2, une neutropénie de grade 4, une fébrilité et une dyselectrolytémie sévère, nécessitant une admission après le troisième cycle. La rémission partielle a été évaluée à plus de 50 %, à la fois par l'examen et la tomodensitométrie, et la poursuite du traitement radical par radiothérapie et cétuximab a été envisagée. Il a reçu la première dose de cetuximab à 400 mg/m2 s.c. le 24/1/2014, le début de la radiothérapie étant prévu pour le 29/1/2014.
+Sept heures après la perfusion de cetuximab, il a présenté des céphalées frontales sévères, des douleurs cervicales, des nausées, des vomissements projectifs, une fièvre de 38,1 ºC et une désorientation, pour lesquels il a été conduit au service des urgences.
+
+Examen physique
+Le patient est admis dans un état hémodynamique stable, avec une fièvre de 37,7 ºC. L'examen cardio-pulmonaire et abdominal ne révèle rien d'intéressant. Examen neurologique avec détérioration de l'état de conscience, agitation psychomotrice, Glasgow à 11 points.
+Pupilles isochoriques et réactives, force et sensibilité préservées, rigidité nucale.
+
+Tests complémentaires
+- L'analyse de sang du 25/1/2014 rapporte : électrolytes, glycémie, fonction hépatique et coagulation dans les limites de la normale, créatinine 119 mmol/l, urée 8,5 mmol/l, protéine C-réactive 6,7 mg/l. Hémoglobine 84 g/l, plaquettes 116 x 10 9/l, leucocytes 8,95 x 109/l, neutrophiles 6,82 x 109/l.
+- La ponction lombaire montre dans le liquide céphalo-rachidien (LCR) : numération cellulaire 334/mm, neutrophiles 92%, lymphocytes 5%, macrophages 3%, glucose 3,5 mmol/l (2,4 à 4,4) (glycémie sanguine 7,4 mmol/l), protéines totales 1,18 g/l (0,15-0,45), ADA 2,7 UI/l (0-9), LDH 62 UI/l. Coloration de Gram : aucun germe n'a été observé. Antigène pneumococcique, détection des acides nucléiques de l'herpès virus 1, de l'herpès virus 2, de l'herpès virus 5, de l'herpès virus 6 et de l'entérovirus, tous négatifs. Les cultures de bactéries, de champignons et de mycobactéries se sont révélées négatives.
+- Les hémocultures, le sédiment urinaire et la culture d'urine se sont révélés négatifs.
+- Une tomodensitométrie cérébrale a été réalisée et s'est révélée normale.
+- L'IRM cérébrale a révélé un rehaussement des méninges, sans autre résultat intéressant.
+
+Diagnostic
+La maladie a été évaluée comme un syndrome méningé et le diagnostic différentiel entre la méningite bactérienne aiguë et la méningite aseptique du cetuximab a été soulevé.
+
+Traitement
+Il a reçu une antibiothérapie empirique à base d'ampicilline, de méropénème et de vancomycine. L'ampicilline a été retirée en cas de coloration de Gram négative du LCR et remplacée par une monothérapie à base de ceftriaxone à des "doses méningées", conformément au protocole du service des maladies infectieuses.
+
+Évolution
+Les symptômes neurologiques ont complètement disparu 24 heures après l'admission. La dexaméthasone 4 mg/jour a été prescrite et le traitement par ceftriaxone a été maintenu pendant 10 jours ; la ponction lombaire du 5/2/2014 était normale. À partir de 24 heures après l'admission, le patient est resté totalement asymptomatique et afébrile. Après 12 jours, il est sorti de l'hôpital avec un diagnostic de méningite aseptique due au cétuximab. Le cas a été évalué par le comité des tumeurs, et le traitement par cetuximab a été rejeté, et il a été décidé de poursuivre le traitement oncologique par radiothérapie à des doses radicales.

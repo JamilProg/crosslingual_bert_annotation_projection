@@ -1,0 +1,45 @@
+ANAMNÈSE
+Le cas présenté est celui d'un homme marié de 65 ans, chauffeur de bus à la retraite, sans facteur de risque cardiovasculaire, sans antécédents médicaux ou chirurgicaux pertinents et sans traitement chronique avant le diagnostic. Il n'avait pas non plus d'antécédents familiaux de cancer.
+Il a fait ses débuts en mai 2015, lorsqu'il s'est présenté au service des urgences avec un état obstructif au niveau intestinal, et une coloscopie urgente a révélé une masse végétative qui occupait complètement la lumière intestinale au niveau du sigma. Auparavant, le patient avait signalé une modification de ses habitudes de selles avec une tendance à la constipation, et quelques épisodes de rectorragies après les selles, sans syndrome constitutionnel intercurrent.
+La patiente a été opérée en urgence d'une hémicolectomie gauche ouverte avec iléostomie de protection.
+L'examen anatomopathologique de la pièce opératoire a révélé un adénocarcinome modérément différencié du côlon avec infiltration du tissu sous-séreux et invasion focale de la surface séreuse, avec des images concomitantes suggérant une invasion lymphovasculaire. Au total, 18 ganglions ont été prélevés, dont aucun ne présentait d'atteinte métastatique. L'étude de l'instabilité des microsatellites s'est révélée négative.
+La période postopératoire du patient s'est déroulée sans incident. À sa sortie de l'hôpital, il présentait un habitus intestinal avec une tendance à la diarrhée secondaire à la chirurgie oncologique.
+Il a été évalué dans le service ambulatoire d'oncologie médicale, indiquant le début d'une chimiothérapie adjuvante selon le schéma Tomudex - Oxaliplatine (TOMOX) tous les 21 jours, en évitant l'utilisation de fluropyrimidines en raison de son syndrome de l'intestin court résiduel. Elle a commencé le traitement adjuvant en juillet 2015, recevant 6 cycles sans incident ni retard.
+Cependant, après le sixième cycle, la patiente a été admise en oncologie médicale depuis le service des urgences pour un début diabétique, accompagné d'un pic de fièvre à 37,8 ºC et d'une entérocolite toxique avec déshydratation et hypotension secondaire à l'hypovolémie.
+
+Examen physique
+L'examen physique a révélé une mucosite de grade 1, avec un ulcère surélevé à base de fibrine sur la muqueuse jugale droite, dont une biopsie a été prélevée pour examen microbiologique.
+
+Tests complémentaires
+Des cultures de sang et de selles ont été effectuées et le patient a été admis pour un soutien et une étude de l'apparition du diabète.
+Étant donné le début diabétique chez un patient sans antécédents de facteurs de risque cardiovasculaire ou de surpoids, ni d'antécédents familiaux de maladies auto-immunes, un scanner thoraco-abdominal a été réalisé, qui a permis d'exclure une atteinte néoplasique du pancréas, mais a montré incidemment une thromboembolie pulmonaire (TEP) bilatérale avec des données d'hypertension pulmonaire légère à l'échocardiographie transthoracique. L'étude a été complétée par un écho-Doppler des membres inférieurs, qui a montré une thrombose de la veine fémorale commune gauche à la veine poplitée. Pour cette raison, une anticoagulation thérapeutique a été mise en place avec 10 000 mU de tinzaparine par jour (le patient pesait 61 kg).
+
+La tomodensitométrie a également montré des signes d'iléite, la PCR pour le CMV s'est révélée positive avec 212 copies et l'étude des microréseaux de virus s'est également révélée positive pour le CMV dans le sang et dans la biopsie de l'ulcère buccal. Les hémocultures ont également permis d'isoler une bactériémie à Acinetobacter Ursigii. Les sérologies pour les virus hépatotropes, Toxoplasma, Leishmania et le VIH étaient négatives, de même que les cultures de selles pour les bactéries, les parasites, les protozoaires et les virus.
+Le patient a d'abord présenté une évolution clinique médiocre, avec une entérocolite progressive réfractaire au lopéramide et à la perfusion d'octréotide, maintenant une hypotension inférieure à 90/60 mmHg, initialement attribuée au débit de l'iléostomie, mais probablement aussi secondaire à la PTE. Son évolution a également été marquée par une polyurie avec une diurèse de plus de 4000 ml par jour, malgré le débit d'iléostomie susmentionné. Pour cette raison, il a dû être admis en soins intensifs pendant 72 heures pour être traité avec des médicaments de soutien vasoactifs. Les tests de laboratoire ont également montré une évolution torpide avec pancytopénie, secondaire à une septicémie due à Acinetobacter Ursigii et à une infection disséminée à cytomégalovirus (CMV). En raison de cette dernière infection, un examen du fond d'œil a été réalisé, ce qui a permis d'exclure une choriorétinite intercurrente.
+Cette pancytopénie comprenait une thrombopénie et une neutropénie de grade 4 de 17 000 et < 500 cels/mm3 (valeurs normales 150 000 - 400 000 cels/mm3 et 1500-10 000 cels/mm3 respectivement), secondaire à une septicémie par Acinetobacter Ursigii et une infection disséminée par le CMV après avoir éliminé une infection active par Toxoplasma, Leishmania et le VIH, ainsi qu'une thrombopénie induite par les héparines (anti PF4-Heparin Ac négatif). Cette thrombopénie a nécessité l'arrêt de l'anticoagulation en raison du risque hémorragique, et l'implantation temporaire d'un filtre de la veine cave.
+Devant la polyurie soutenue, ne correspondant pas au débit de l'iléostomie ni aux signes cliniques et exploratoires évocateurs d'une déplétion intravasculaire, un bilan métabolique a été réalisé sur le plasma et les urines pour exclure des pertes pathologiques à ce niveau, avec une osmolarité urinaire de 280 mmol/l, < l'osmolarité plasmatique de 353 mmol/l mesurée, et le diagnostic de diabète insipide central a donc été posé.
+Pour cette raison, une IRM cérébrale a été réalisée, qui a révélé un microadénome hypophysaire postérieur.
+
+Diagnostic
+1) Adénocarcinome colorectal pT4a N0 M0, stade IIB, a subi une hémicolectomie gauche ouverte + iléostomie de protection + traitement adjuvant par QT selon le schéma TOMOX.
+2) Entérocolite toxi-infectieuse secondaire à la toxicité du QT + iléite à CMV.
+3) Bactériémie due à Acinetobacter Ursigii.
+4) Pancytopénie avec anémie et thrombopénie de grade 3 et neutropénie de grade 4 en contexte.
+5) PTE symptomatique bilatérale, avec instabilité hémodynamique.
+6) Insuffisance rénale mixte dans un contexte de déplétion IV + néphrotoxicité de la Colistine.
+7) Diabète insipide central auto-immun chez un patient avec infection CMV disséminée + microadénome de la neurohypophyse.
+8) Débuts diabétiques et étiologie auto-immune probable.
+
+Traitement
+D'un point de vue infectieux, un traitement spécifique par antibiothérapie intraveineuse pour une bactériémie due àAcinetobacter Ursigii a été mis en place, orienté en fonction des hémocultures, avec Colistine + Tigécycline + Ciprofloxacine. Les hémocultures de contrôle étaient négatives.
+
+En ce qui concerne l'iléite et l'infection à CMV disséminée, un traitement au Ganciclovir intraveineux a été mis en place, avec une amélioration progressive du transit intestinal par colostomie, jusqu'à normalisation.
+
+Après 21 jours de traitement, l'antigénémie CMV et la charge virale étaient indétectables par PCR.
+
+La pancytopénie et les autres paramètres hémodynamiques et de laboratoire évoquant une septicémie se sont améliorés lorsque l'infection à CMV a été maîtrisée, et le patient a retrouvé une numération plaquettaire normale, ce qui a permis de retirer le filtre cave et de réintroduire l'anticoagulation thérapeutique à pleine dose.
+
+Dans le contexte d'un diabète insipide central, la patiente a initialement présenté une déshydratation hypernatrémique (NA 150 mmol/L, plage normale 135-145 mmol/L) réfractaire au traitement par sérum, avec une insuffisance rénale mixte intercurrente (prérénale due à la déshydratation + parenchymateuse secondaire au traitement par Colistin). Cependant, après l'instauration d'un traitement à la Desmopressine sous-cutanée et un apport hydrique adéquat, elle a présenté une normalisation de l'eau et des électrolytes.
+
+Évolution
+Une fois que l'éradication des infections mentionnées ci-dessus a été confirmée, que tous les paramètres analytiques liés à l'infection et à l'homéostasie ont été normalisés et que le traitement anticoagulant de la PTE a été rétabli à pleine dose, le patient a été autorisé à quitter l'hôpital. À l'heure actuelle, il continue d'être suivi dans notre clinique externe.

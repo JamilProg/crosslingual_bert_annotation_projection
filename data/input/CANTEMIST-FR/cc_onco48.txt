@@ -1,0 +1,29 @@
+Anamnèse
+La patiente est une femme de 48 ans qui n'a pas d'allergies médicamenteuses connues ni d'autres antécédents personnels dignes d'intérêt. Ses antécédents familiaux incluent sa grand-mère, décédée à l'âge de 35 ans d'une possible néoplasie ovarienne.
+
+Antécédents oncologiques : diagnostic en avril 2004, à l'âge de 37 ans, à la suite de l'autopalpation d'un nodule mammaire, d'un carcinome mammaire bilatéral, traité par mastectomie bilatérale avec lymphadénectomie gauche et ganglion lymphatique sentinelle droit. Les résultats anatomopathologiques étaient les suivants : cancer du sein droit de grade III, pT1aN0 (sein droit), ER 90 %, PR 10 %, Her-2 inconnu et cancer du sein gauche de grade III, pT3pN1(2/31) avec ER 60 %, PR 60 %, HER2 inconnu.
+
+Examen physique
+Très bon état général avec un indice de Karnofsky de 100 %. Cicatrices bilatérales de mastectomie en parfait état, sans autre particularité.
+
+Examens complémentaires
+Une étude d'extension a été réalisée avec un scanner thoraco-abdominal, une scintigraphie osseuse, une numération sanguine complète, un ionogramme, une fonction rénale et hépatique et une ventriculographie, sans résultats significatifs, ce qui a permis d'exclure tout signe d'atteinte à distance.
+
+Diagnostic
+CDI du sein droit grade III, pT1aN0 (sein droit), ER 90%, PR 10% Her-2 inconnu et CDI du sein gauche grade III, pT3pN1(2/31) avec ER 60%, PR 60%, Her-2 inconnu avec étude d'extension négative, mais avec un risque élevé de récidive (grade III, bilatéral, ganglions axillaires gauches impliqués).
+
+Traitement
+Compte tenu du risque élevé de récidive, elle a bénéficié d'un traitement adjuvant par QT selon le schéma FEC75 pendant six cycles avec une excellente tolérance, puis d'un traitement hormonal par tamoxifène et inhibiteurs de la LH-RH mensuels pendant 5 ans, qui s'est achevé en septembre 2009.
+
+Évolution
+Après la visite de conseil génétique, il a été constaté que la patiente répondait aux critères de prédisposition héréditaire au cancer du sein et de l'ovaire (cancer du sein bilatéral chez une patiente de moins de 50 ans), de sorte qu'une étude germinale BRCA1, BRCA2 a été réalisée, avec des résultats négatifs qui n'étaient pas informatifs.
+
+En octobre 2006, à la suite d'une tumeur du membre inférieur droit, un diagnostic de léiomyosarcome des tissus mous du membre inférieur droit, pT1a grade II, Ki-67 15%, a été posé et une résection complète a été effectuée sans qu'un traitement adjuvant ultérieur ne soit nécessaire.
+
+En octobre 2012, un examen gynécologique de routine a révélé l'apparition d'un kyste ovarien complexe, de sorte qu'une annexectomie bilatérale a été pratiquée avec le résultat anatomopathologique d'un cystadénocarcinome papillaire séreux de haut grade, stade IA de la FIGO. Un traitement adjuvant au carboplatine et au taxol a ensuite été mis en place, avec six cycles.
+
+Quatre mois après la fin du traitement adjuvant du carcinome ovarien, un diagnostic d'adénocarcinome pulmonaire mixte de stade IA a été posé à la suite d'une découverte fortuite lors d'un examen tomodensitométrique de suivi, et la patiente a subi une intervention chirurgicale de routine sans avoir besoin de traitement adjuvant.
+
+Compte tenu des antécédents de tumeurs multiples chez le même individu et des critères de Chompret (Tinat, 2009) pour l'étude de la lignée germinale de p53, il a été décidé de réaliser l'étude après le conseil génétique, en identifiant la mutation p53 c. 524 G>A.
+
+Elle est actuellement soumise à des examens cliniques semestriels et à des analyses générales, à une FCS tous les deux ans, à une IRM du corps entier et à des examens dermatologiques annuels, sans aucun signe de récurrence de la tumeur à ce jour.

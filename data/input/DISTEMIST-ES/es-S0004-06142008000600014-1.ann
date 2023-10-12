@@ -1,0 +1,16 @@
+T1	pathologie 607 652	lesión nodular de gran tamaño en el testículo
+T2	pathologie 743 782	lesiones nodulares sólidas en testículo
+T3	pathologie 818 848	neoplasia testicular bilateral
+T4	pathologie 1636 1656	tumor germinal mixto
+T5	pathologie 1695 1723	carcinoma embrionario adulto
+T6	pathologie 1726 1734	teratoma
+T7	pathologie 1888 1916	seminoma de variedad clásica
+T8	pathologie 1943 1965	neoplasia intratubular
+#1	SNOMED T7	36741007
+#2	SNOMED T4	1156452003
+#3	SNOMED T1	126900000
+#4	SNOMED T8	108369006
+#5	SNOMED T2	126900000
+#6	SNOMED T5	1156454002
+#7	SNOMED T6	36591000119102
+#8	SNOMED T3	126900000

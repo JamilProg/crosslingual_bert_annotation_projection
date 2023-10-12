@@ -1,0 +1,41 @@
+Anamnèse
+Patient masculin âgé de 21 ans diagnostiqué avec SRT, RECQL4 et MTHFR muté, avec une atteinte cutanée typique et des altérations osseuses, diagnostiqué en avril 2013 avec un OS de bas grade traité par résection chirurgicale oncologique et dans le cadre du suivi ultérieur.
+Le deuxième de trois frères et sœurs, tous diagnostiqués dans l'enfance avec un SRT, et deux des trois avaient développé un ostéosarcome.
+Le patient a consulté notre centre en octobre 2014 en raison d'une progression dans la zone d'amputation du membre inférieur droit.
+
+ANTÉCÉDENTS ONCOLOGIQUES
+Le patient a été diagnostiqué en avril 2013, suite à des douleurs dans la cheville droite, avec un ostéosarcome de bas grade dans l'aspect épiphysaire-métaphysaire latéral distal du tibia et a subi une amputation du tiers moyen proximal du tibia droit. Le résultat définitif de l'anatomie pathologique fait état d'un ostéosarcome de bas grade (4x3 cm) fusocellulaire, sclérosant, avec formation de matrice osseuse, bien différencié. La tumeur rompt la corticale osseuse et s'étend aux tissus mous sans atteindre le tissu musculaire. Bords libres, R0.
+En janvier 2014, après 7 mois d'intervalle sans maladie, les scanners CT et PET-CT ont révélé une suspicion non confirmée de rechute pulmonaire dans le lobe inférieur droit et le jumeau droit. Le jumeau a été biopsié et jugé compatible avec une tumeur fibreuse sclérosante de bas grade, et une résection pulmonaire transsegmentaire a été réalisée. Le rapport d'anatomopathologie a montré un nodule fibreux hyalinisé avec des zones de nécrose sans cellularité tumorale viable mesurant 1,8 cm. La lésion atteignait la plèvre sans la dépasser, avec des marges de résection libres, excluant ainsi toute malignité.
+En octobre 2014, après un intervalle de 3 mois, le patient a consulté pour l'apparition de douleurs dans la zone de résection et les examens suivants ont été réalisés :
+-IRM genou droit : tumeur solide mesurant 29x29 mm dans le creux poplité droit avec infiltration vasculaire, évoquant une récidive locale.
+-TDM d'extension : nodule pulmonaire dans le lobe supérieur gauche évoquant une métastase.
+L'étude a été complétée par une biopsie de la lésion dans la région poplitée avec une cellularité compatible avec un sarcome de haut grade, et il a alors été décidé d'intervenir par une amputation supracondylienne du membre inférieur droit.
+En octobre 2014, la patiente a consulté dans notre centre. Après une relecture de la biopsie dans notre centre, le diagnostic histologique a été confirmé. Un bilan d'extension a alors été demandé qui a montré l'apparition de multiples nodules pumonaires bilatéraux avec la présence d'un hyperenhancement au PET-CT scan. Chez une patiente ayant reçu un diagnostic de TRS compliqué d'un ostéosarcome réséqué et de la mise en évidence ultérieure d'un sarcome pléomorphe indifférencié de haut grade au stade IV (métastases pulmonaires), un traitement par chimiothérapie palliative a été proposé.
+
+Examen physique
+État de performance (EP) 1, bon état général, pas de résultats notables à l'examen physique.
+Douleur dans la zone d'amputation au niveau poplité droit contrôlée par une analgésie de première intention à la demande. La zone d'amputation est recouverte de points de suture et ne présente aucun signe de surinfection.
+
+Examens complémentaires
+- Anatomie pathologique de l'amputation au niveau supracondylaire de la lésion poplitée droite (octobre 2014) : tissu fibromusculaire avec prolifération cellulaire atypique, avec pléomorphisme cellulaire étendu, avec habitus sarcomatoïde, zones vasculaires infiltrantes, avec étude immunohistochimique avec vimentine, LAM et desmine positives. Ki67:50% Diagnostic : sarcome pléomorphe indifférencié de haut grade. Vue macroscopique : néoformation sarcomatoïde typique des parties molles respectant les couches osseuses.
+
+- CT crânien (décembre 2015) : masse pariéto-occipitale gauche de 38x33 mm. Nodule satellite et lésions multiples dans les deux hémisphères cérébelleux.
+
+Diagnostic
+1. sarcome pléomorphe de haut grade avancé
+"1.1 Métastases pulmonaires
+2. Ostéosarcome interventionnel de bas grade
+3. syndrome de Rothmund-Thomson
+"3.3. porteur d'une mutation RECQL4 et MTHFR
+
+Traitement
+Un traitement de première ligne a été instauré avec de l'Adriamycine (75 mg/m2) + Ifosfamide (1,2 g/m2) x 5 jours en cycles de 21 jours pendant 6 cycles, avec une bonne tolérance et sans toxicité sévère. La meilleure réponse obtenue a été une maladie stable. En juin 2015, il est resté cliniquement asymptomatique et avec des analyses normales. Après un intervalle de 8 mois, un scanner de suivi a montré une progression de la maladie pulmonaire et l'apparition de nouvelles lésions hépatiques.
+Un traitement de seconde ligne par Pazopanib 800mg par jour pendant 6 mois a alors été décidé. Parmi les toxicités associées à ce traitement, la patiente a présenté une hypopigmentation capillaire marquée. La meilleure réponse a été une réponse partielle.
+Après 6 mois de traitement au Pazopanib, le patient a consulté pour des crises partielles. Un scanner crânien a été réalisé et plusieurs lésions d'un diamètre allant jusqu'à 3 cm ont été détectées dans le cerveau. La tomodensitométrie thoraco-abdominale a également confirmé une progression au niveau du foie, des poumons et des os.
+Il a alors été décidé d'administrer une radiothérapie holocrânienne palliative en raison du fait que les lésions cérébrales étaient symptomatiques, car en plus des crises, le patient a signalé des maux de tête et des vertiges.
+En outre, en janvier 2016, alors qu'il était en bon état clinique (PS1), un traitement de 3ème ligne par Trabectidine a été proposé, mais il n'a reçu qu'un seul cycle et le traitement a été suspendu en raison d'une détérioration clinique rapide.
+Enfin, en mars 2016, il est sorti de l'hôpital avec un bon contrôle des symptômes en raison d'une insuffisance respiratoire liée à la progression de la maladie au niveau pulmonaire.
+
+Evolution
+Patient de 23 ans avec un diagnostic de sarcome de haut grade en progression au niveau pulmonaire, hépatique, osseux et cérébral avec une évolution torpide après trois lignes de traitement qui a présenté une dyspnée réfractaire au traitement et une insuffisance respiratoire partielle secondaire à une progression pulmonaire importante.
+Finalement, en mars 2016, il est sorti de l'hôpital avec un bon contrôle des symptômes.

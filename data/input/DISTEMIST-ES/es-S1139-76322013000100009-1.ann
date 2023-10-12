@@ -1,0 +1,24 @@
+T1	pathologie 64 95	grave retraso pondero-estatural
+T2	pathologie 117 149	estrabismo convergente bilateral
+T3	pathologie 152 170	mamilas invertidas
+T4	pathologie 276 296	fallo de crecimiento
+T5	pathologie 736 751	hipoalbuminemia
+T6	pathologie 888 916	error innato del metabolismo
+T7	pathologie 918 921	EIM
+T8	pathologie 1079 1085	sepsis
+T9	pathologie 1095 1107	hipoglucemia
+T10	pathologie 1205 1226	hipoplasia cerebelosa
+T11	pathologie 1276 1340	defecto congénito de la glucosilación de proteínas (CGD) tipo Ia
+T12	pathologie 1328 1331	CGD
+#1	SNOMED T1	444896005
+#2	SNOMED T2	16596007
+#3	SNOMED T3	82231009
+#4	SNOMED T4	444896005
+#5	SNOMED T6	86095007
+#6	SNOMED T7	86095007
+#7	SNOMED T8	91302008
+#8	SNOMED T10	16026008
+#9	SNOMED T11	459063003
+#10	SNOMED T12	238049009
+#11	SNOMED T5	119247004
+#12	SNOMED T9	66694000

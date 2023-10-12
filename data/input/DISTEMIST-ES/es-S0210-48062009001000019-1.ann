@@ -1,0 +1,20 @@
+T1	pathologie 171 192	hipertensión arterial
+T2	pathologie 295 309	ulcus duodenal
+T3	pathologie 421 461	aneurisma de aorta abdominal infrarrenal
+T4	pathologie 623 643	riñones en herradura
+T5	pathologie 816 825	aneurisma
+T6	pathologie 1244 1253	aneurisma
+T7	pathologie 1434 1444	aneurismas
+T8	pathologie 1608 1641	aneurisma de la aorta infrarrenal
+T9	pathologie 2285 2309	dilatación aneurismática
+T10	pathologie 2384 2419	riñones con morfología en herradura
+#1	SNOMED T3	444569004
+#2	SNOMED T1	38341003
+#3	SNOMED T4	41729002
+#4	SNOMED T2	51868009
+#5	SNOMED T9	432119003
+#6	SNOMED T5	432119003
+#7	SNOMED T6	432119003
+#8	SNOMED T7	85659009
+#9	SNOMED T8	444569004
+#10	SNOMED T10	41729002

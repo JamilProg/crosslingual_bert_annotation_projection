@@ -1,0 +1,62 @@
+Anamnèse
+"Homme de 50 ans. Poids 75 kg, taille 172 cm.
+"Aucune allergie médicamenteuse connue.
+"Pas d'antécédents familiaux intéressants.
+"Antécédents personnels : hypertension.
+"Habitudes toxiques : buveur occasionnel, non-fumeur.
+"Traitement habituel : ramipril 10 mg/24h.
+"Travaille dans l'hôtellerie et la restauration. Bon soutien familial. Indépendant pour les activités de base de la vie quotidienne.
+Le patient ayant les antécédents décrits ci-dessus consulte son médecin traitant parce qu'il a remarqué une augmentation de la taille de son testicule droit depuis quelques mois. Pas de douleur ni de gêne urinaire. Pas de fièvre ni de symptômes bactériémiques. Absence de relations sexuelles à risque.
+Il est adressé au service d'urologie pour examen d'une éventuelle masse testiculaire.
+
+Examen physique
+"Signes vitaux maintenus. Apyrétique.
+"Conscient, orienté et coopératif. Eupnéique au repos. Normohydraté et normoperfusé. Bon état général.
+"Neurologique : pas de signes évidents de focalité.
+"Auscultation cardiaque : tonalités rythmiques, pas de souffle audible.
+"Auscultation respiratoire : murmure vésiculaire conservé, pas de bruits supplémentaires.
+"Abdomen : doux, dépressible, non douloureux à la palpation. Pas de masse ni d'organomégalie. Aucun signe de péritonisme.
+"Testicules : hypertrophie du testicule droit globalement et de consistance dure, non douloureuse à la palpation. Pas de liquide libre apparent. Scrotum sans altération.
+"Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+"Examen des chaînes ganglionnaires : pas de ganglions cervicaux, axillaires ou inguinaux palpables.
+
+Examens complémentaires
+Après l'examen physique dans le service d'urologie, des analyses de sang avec des marqueurs tumoraux et une échographie testiculaire ont été réalisées :
+"Examens sanguins : biochimie, hémogramme et coagulation sans altération.
+"Marqueurs tumoraux : gonadotrophine chorionique humaine (BHCG) 26,9 (élevée, valeur normale < 0,6), alpha-fœtoprotéine (AFP) normale.
+"Échographie testiculaire : déstructuration du contenu du sac scrotal droit, où l'on identifie une tumeur solide hypervascularisée mesurant 70 x 60 mm de dimensions maximales, avec une structure hétérogène et une calcification grossière à l'intérieur. Il n'est pas possible de distinguer un épididyme ou un testicule normal. Résultats compatibles avec une néoplasie testiculaire agressive avancée, de type primaire ou un lymphome (compte tenu de l'âge du patient).
+À la suite des résultats cliniques, échographiques et analytiques, qui s'orientent très probablement vers un néoplasme testiculaire primaire, le patient est programmé pour une intervention chirurgicale et l'étude d'extension est achevée :
+"Tomodensitométrie thoracique : trois lésions nodulaires solides aux limites bien définies et au centre hypodense sont identifiées, situées dans les espaces prévasculaire (34 mm), paratrachéal droit et rétrocrural droit (tous deux 30 mm). Les autres n'ont pas été modifiés.
+"Tomodensitométrie abdominopelvienne : conglomérat adénopathique rétropéritonéal massif situé sous la sortie des vaisseaux rénaux, avec des adénopathies jusqu'à 6 x 5 cm de dimensions maximales. Compatible avec des métastases ganglionnaires d'une néoplasie testiculaire ou d'un lymphome primaire.
+"Scanner PET-CT : foyers hypermétaboliques en corrélation avec les résultats de la tomodensitométrie, situés dans le médiastin et le rétropéritoine, suggérant une activité métastatique.
+"Pathologie de la pièce opératoire : séminome classique avec des zones étendues de nécrose. Il infiltre la tunique albuginée. Images d'invasion vasculaire et d'implication du cordon spermatique. Bord chirurgical de la résection exempt de tumeur.
+
+Diagnostic
+L'anatomopathologie confirme la suspicion de néoplasie testiculaire primaire de type séminome, confirmée également par l'élévation du marqueur BHCG.
+Jugement clinique : séminome de stade IV.
+
+Traitement
+La chimiothérapie de première ligne pour les tumeurs germinales commence par le schéma BEP, avec 4 cycles de traitement (tous les 21 jours).
+BEP
+"P : cisplatine 20 mg/m2 jours 1-5.
+"E : étoposide 100 mg/m2 jours 1-5.
+"B : bléomycine 30 mg DT jours 1, 8 et 15.
+Après le premier cycle, le marqueur tumoral s'est normalisé et, comme effets secondaires, elle a présenté une asthénie et un goût métallique dans les aliments, symptômes qui se sont maintenus tout au long du traitement. Après le troisième cycle, elle a commencé à développer une conjonctivite et une légère neurotoxicité.
+
+Évolution
+A la fin du traitement, un PET/CT scan de contrôle a été réalisé, qui a montré que le conglomérat adénopathique rétropéritonéal et les adénopathies médiastinales présentaient une captation pathologique, suggérant une activité métastatique résiduelle.
+Au vu de ces résultats, la patiente a été présentée au comité multidisciplinaire des tumeurs et il a été décidé d'entamer une deuxième ligne de chimiothérapie avec le schéma TIP pour 4 cycles :
+"T : paclitaxel 250 mg/m2 jour 1.
+"I : ifosfamide 1,2 g/m2 IC jours 1-5.
+"P : cisplatine 20 mg/m2 jours 1-5.
+Avec cette ligne, des effets secondaires tels que l'asthénie et la neurotoxicité sont réapparus. Les marqueurs tumoraux sont restés négatifs.
+À la fin du traitement, un nouveau PET/CT scan a été réalisé, dans lequel non seulement les lésions décrites dans le scan précédent n'avaient pas disparu, mais la prise du conglomérat rétropéritonéal avait également augmenté et une nouvelle lésion était apparue dans l'articulation sternoclaviculaire droite.
+Ce que nous savons à ce jour, c'est que la présence de masses résiduelles après chimiothérapie est peu fréquente dans les séminomes, et encore plus après avoir terminé une deuxième ligne de traitement.
+Compte tenu de l'évolution torpide, il a été décidé de faire une biopsie de la lésion la plus accessible (hile pulmonaire gauche) : les cellules tumorales étaient positives pour la cytokératine 5,6 et le CD 63, ce qui est compatible avec un carcinome épidermoïde du poumon.
+Avec le diagnostic de tumeur pulmonaire synchrone, nous comprenons maintenant pourquoi les métastases supposées du séminome n'ont pas répondu au traitement.
+Nouveau jugement clinique : séminome en réponse complète. Carcinome épidermoïde du poumon E-IV.
+Une chimiothérapie par carboplatine-gemcitabine (pendant 6 cycles) est alors débutée pour traiter le carcinome épidermoïde ainsi qu'une radiothérapie dans le médiastin à la dose de 50 Gy. Mauvaise tolérance, avec une neutropénie de grade IV (moins de 500 neutrophiles) après le deuxième cycle et nécessité de retarder les cycles suivants, ainsi que d'utiliser des facteurs de stimulation des granulocytes.
+"Premier examen TEP/TDM après le traitement : réponse partielle, avec disparition de certaines lésions médiastinales.
+"Deuxième contrôle (6 mois plus tard) : élargissement de la masse hilaire gauche provoquant une atélectasie de la bronche inférieure gauche --> progression de la tumeur.
+Après avoir constaté une progression de la tumeur pulmonaire, un traitement par nivolumab (anticorps monoclonal anti-PDL-1 approuvé pour le traitement du cancer du poumon) a été mis en place. Après six mois de traitement, certaines des lésions présentes dans l'étude précédente ont diminué, bien qu'il n'y ait pas de réponse complète au traitement --> stabilisation de la maladie. Les symptômes du traitement par immunothérapie comprennent une asthénie, principalement au cours des deux premiers mois. Elle a continué à souffrir des séquelles de la neurotoxicité des traitements précédents et, après un an, une insuffisance respiratoire est apparue, probablement liée à l'atteinte tumorale des poumons.
+Actuellement, la maladie pulmonaire reste stable, au même point qu'après le premier contrôle du nivolumab. Le patient est en arrêt de traitement en raison d'une asthénie. Le séminome reste en réponse complète.

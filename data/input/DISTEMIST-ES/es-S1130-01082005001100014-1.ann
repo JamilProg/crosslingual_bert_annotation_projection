@@ -1,0 +1,26 @@
+T1	pathologie 29 39	hipertensa
+T2	pathologie 60 80	ulcus gastroduodenal
+T3	pathologie 158 165	melenas
+T4	pathologie 454 489	lesión submucosa en fundus gástrico
+T5	pathologie 535 545	ulceración
+T6	pathologie 634 668	lesión submucosa gástrica ulcerada
+T7	pathologie 717 735	sangrado digestivo
+T8	pathologie 1019 1077	gástrica presentaba una excavación secundaria a una úlcera
+T9	pathologie 1119 1166	adenopatías perilesionales ni en tronco celiaco
+T10	pathologie 1209 1255	tumor gástrico submucoso estromal (tumor GIST)
+T11	pathologie 1244 1254	tumor GIST
+T12	pathologie 1377 1401	complicación hemorrágica
+T13	pathologie 1563 1582	schwannoma gástrico
+#1	SNOMED T1	38341003
+#2	SNOMED T2	13200003
+#3	SNOMED T4	29384001
+#4	SNOMED T13	404022001
+#5	SNOMED T3	2901004
+#6	SNOMED T6	29384001
+#7	SNOMED T8	9829001
+#8	SNOMED T7	74474003
+#9	SNOMED T9	127117004
+#10	SNOMED T10	128755003
+#11	SNOMED T11	420120006
+#12	SNOMED T12	50960005
+#13	SNOMED T5	429040005

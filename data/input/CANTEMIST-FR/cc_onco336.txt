@@ -1,0 +1,45 @@
+Anamnèse
+Femme de 31 ans, résidant en Australie, sans allergie médicamenteuse connue et ancienne fumeuse depuis 10 ans, avec une exposition cumulée de 2 ans/paquet. Elle n'avait pas d'autres antécédents intéressants.
+Elle a consulté en février 2015 pour une grosseur au sein gauche.
+
+Examen physique
+L'état de performance de la patiente est de 0. À la palpation, on observe une masse de 2 x 2 cm dans la ligne interquadrante supérieure du sein gauche. Aucun ganglion lymphatique axillaire, supraclaviculaire ou cervical n'était palpable.
+
+Examens complémentaires
+L'échographie mammaire a montré une lésion mal délimitée de 30 x 22 mm supra-aréolaire dans la ligne interquadrantique supérieure du sein gauche. Il y avait également des adénopathies millimétriques dans la chaîne mammaire interne, infraclaviculaire, supraclaviculaire et dans la chaîne jugulaire ipsilatérale, cette dernière mesurant 14 x 5 mm.
+Une biopsie à l'aiguille et une FNA de l'adénopathie de la chaîne jugulaire gauche ont été réalisées. Le résultat de l'anatomie pathologique mammaire était un IDC mammaire, grade histologique III. L'immunohistochimie (IHC) a révélé des récepteurs positifs aux œstrogènes (90 %) et à la progestérone (80 %), un Ki67:25 % et une amplification HER2 par immunohistochimie (score 3+).
+L'analyse des ganglions lymphatiques a confirmé la présence d'un carcinome métastatique du sein avec le même profil IHC que la biopsie du sein.
+L'étude d'extension a été complétée par une tomographie axiale thoraco-abdominale-pelvienne et une scintigraphie osseuse qui n'ont pas mis en évidence d'autres lésions à distance.
+Une étude génétique BRCA a été réalisée et s'est révélée négative.
+
+Diagnostic
+Après l'étude d'extension, le diagnostic était un profil luminal HER2 ILC du sein gauche, un cT2 (30 x 22 mm) cN3c (en raison de l'atteinte du ganglion lymphatique supraclaviculaire ipsilatéral) M1 (en raison de l'atteinte du ganglion lymphatique de la chaîne jugulaire confirmée par l'histologie).
+
+Traitement
+Chez une patiente de 31 ans ayant reçu un diagnostic d'IDC mammaire oligométastatique, un traitement de première ligne pour une maladie avancée a été proposé avec du Paclitaxel 80 mg/m2 hebdomadaire associé à du Trastuzumab (avec une première dose de charge à 8 mg/kg de poids corporel et ensuite à 6 mg/kg) et du Pertuzumab (avec une première dose de charge de 840 mg au total et ensuite 420 mg) tous les 21 jours pendant 12 semaines à partir du 23 février et jusqu'au 18 mai.
+Après 3 mois de traitement, aucune tumeur n'était palpable à l'examen physique. Dans le même temps, une échographie mammaire a été réalisée, au cours de laquelle la lésion n'a pas été observée, et aucune adénopathie n'a été identifiée. Par conséquent, compte tenu de la réponse clinique complète, il a été décidé de poursuivre le traitement avec l'Adriamycine 60 mg/m2 en combinaison avec le Cyclophosphamide 600 mg/m2 tous les 21 jours, en administrant 4 cycles qui ont été achevés entre le 25 mai et le 29 juillet. Elle a présenté une bonne tolérance au traitement, avec des toxicités notables : alopécie de grade 2 et nausées de grade 2.
+Elle a subi une tumorectomie et une biopsie sélective du ganglion lymphatique sentinelle le 27 août, obtenant une réponse pathologique complète etpT0 etpN0 M0 (après une tomodensitométrie d'évaluation).
+Elle a ensuite reçu une radiothérapie externe du sein gauche, des aires ganglionnaires I, II, III, de la mammaire interne et de la fosse supraclaviculaire ipsilatérale jusqu'à 50 Gy. Elle a également subi une surimpression électronique pour l'âge dans le quadrant affecté jusqu'à 12,5 Gy. Le traitement a été réalisé entre le 18 novembre et le 5 janvier 2016.
+Après avoir obtenu une réponse pathologique complète avec une chirurgie ultérieure et une radiothérapie adjuvante, la patiente a présenté un stade NED (aucune preuve de maladie) et il a donc été décidé de poursuivre le Trastuzumab jusqu'à l'achèvement des 12 mois de traitement5, en reprenant le traitement en août. Un traitement au tamoxifène à raison de 20 mg par jour a également été instauré en parallèle.
+
+Évolution
+Elle s'est présentée aux urgences le 13 janvier 2016 pour une fièvre mesurée à domicile depuis 5 jours avec une expectoration rosée. Elle a présenté une dyspnée d'effort. Elle présentait également un léger malaise général. Il avait terminé un traitement antibiotique par Azithromycine 500 mg pendant 3 jours et était resté fébrile. Il avait reçu le 6e cycle de Trastuzumab après l'opération le 21 décembre.
+À l'examen physique, il était stable sur le plan hémodynamique, avec une température axillaire de 37,6 °C et une saturation en oxygène de 93 %, en respirant de l'air ambiant. L'auscultation pulmonaire a montré un murmure vésiculaire préservé sans bruit additionnel.
+Les analyses ont été les suivantes : Leucocytes 7,31 x10^9/L, Neutrophiles (Abs) 6,38 x10^9/L. CRP 260,1mg/dL.
+Procalcitonine 1,78 ng/mL. Urine positive à l'antigène S. pneumoniae.
+
+Compte tenu des résultats cliniques, analytiques et radiologiques, elle a été admise pour suspicion de pneumonie bilatérale d'origine bactérienne. Elle a commencé un traitement antibiotique empirique par Ceftriaxone 2g intraveineux toutes les 12 heures et Levofloxacine 500 mg intraveineux toutes les 24 heures, restant apyrétique pendant les 24 premières heures. Malgré cela, la dyspnée s'est aggravée et elle a eu besoin d'une oxygénothérapie supplémentaire pour maintenir une saturation en oxygène supérieure à 90 %.
+Compte tenu de l'aggravation clinique, de nouveaux examens complémentaires ont été demandés :
+Sur le plan analytique, le 17 janvier, la numération des leucocytes et des neutrophiles était dans les paramètres normaux de notre laboratoire. La CRP était légèrement élevée (24,5 mg/L) mais en nette diminution. La procalcitonine s'était normalisée.
+Une nouvelle radiographie du thorax a été réalisée, montrant une nette aggravation avec l'apparition d'un épanchement pleural gauche et la persistance des consolidations présentes dans l'étude précédente.
+Suite à ces résultats, il a été décidé de compléter l'étude par un scanner thoracique.
+Sur le plan radiologique, un diagnostic de pneumonie organisationnelle a été posé.
+Les cultures microbiologiques pour les bactéries, les mycobactéries et les champignons étaient négatives, la sérologie était négative pour les virus et la cytologie ne montrait pas de cellules malignes. Le lavage broncho-alvéolaire a révélé la présence de 67 % de lymphocytes - principalement CD4 (62,74 %) - et de 2 % de neutrophiles.
+Une étude a été réalisée pour éliminer une origine auto-immune (facteur rhumatoïde, ANAs, Anti-dsDNA, C-ANCA et P-ANCA), qui s'est révélée négative.
+Ces résultats ont permis d'établir un diagnostic différentiel :
+-Pneumonie bactérienne : initialement, le traitement a été orienté vers ce diagnostic.
+Par la suite, compte tenu de l'aggravation clinique et radiologique malgré l'amélioration des réactifs de phase aiguë et l'absence de documentation microbiologique, il a été écarté.
+- Pneumopathie de radiothérapie : elle se caractérise par une atteinte de la zone irradiée entre 4 et 12 semaines après le traitement. Bien que les symptômes soient cohérents avec ceux de notre patient, l'atteinte pulmonaire bilatérale et l'apparition des symptômes dans la première semaine après la fin du traitement nous ont conduits à écarter cette cause.
+Pathologie auto-immune pulmonaire : Le patient n'avait pas d'antécédents intéressants, de plus, l'étude a été réalisée lors de l'admission et tous les paramètres étaient négatifs.
+Après avoir écarté d'autres causes, la principale suspicion diagnostique était celle d'une pneumonie organisationnelle secondaire au Trastuzumab, de sorte que la prednisone à 1 mg/kg de poids corporel a été débutée le 21 janvier. Trois jours après le début des corticostéroïdes, il a montré une amélioration clinique significative avec disparition de la dyspnée et aucun besoin d'oxygène supplémentaire. Par la suite, il a continué à suivre un régime dégressif de corticostéroïdes, avec une disparition complète des infiltrats et de l'épanchement pleural au cours des mois suivants, comme le montre le scanner de février.
+En mai 2016, compte tenu du risque élevé de rechute, il a été décidé de réintroduire le Trastuzumab sous-cutané tout en continuant à administrer 20 mg de Prednisone. À l'heure actuelle, la patiente a reçu 2 cycles sans récidive des symptômes cliniques ou des résultats radiologiques évocateurs d'une pneumonie organisationnelle, avec un PS de 0.

@@ -1,0 +1,26 @@
+T1	pathologie 46 67	tuberculosis pulmonar
+T2	pathologie 78 95	carcinoma vesical
+T3	pathologie 184 201	diabetes mellitus
+T4	pathologie 203 224	hipertensión arterial
+T5	pathologie 227 240	hiperuricemia
+T6	pathologie 361 377	crisis de disnea
+T7	pathologie 388 404	erupción cutánea
+T8	pathologie 545 548	NET
+T9	pathologie 562 609	erupción eritematosa maculopapulosa y ampollosa
+T10	pathologie 675 701	insuficiencia respiratoria
+T11	pathologie 710 734	insuficiencia renal leve
+T12	pathologie 749 760	hipotensión
+T13	pathologie 896 913	lesiones cutáneas
+#1	SNOMED T8	768962006
+#2	SNOMED T1	154283005
+#3	SNOMED T9	823996003+247471006
+#4	SNOMED T2	255108000
+#5	SNOMED T10	409623005
+#6	SNOMED T3	73211009
+#7	SNOMED T11	723188008
+#8	SNOMED T4	38341003
+#9	SNOMED T5	35885006
+#10	SNOMED T12	45007003
+#11	SNOMED T6	267036007
+#12	SNOMED T7	271807003
+#13	SNOMED T13	95324001

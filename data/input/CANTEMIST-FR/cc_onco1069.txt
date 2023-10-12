@@ -1,0 +1,35 @@
+Anamnèse
+Une femme de 39 ans sans antécédents pathologiques personnels intéressants. En janvier 2007, elle a consulté le service de gynécologie pour des douleurs abdominales non spécifiques accompagnées d'une augmentation progressive de la circonférence abdominale sur plusieurs mois.
+Antécédents gynécologiques : ménarche à 18 ans. G2A0P2. Préménopause.
+Antécédents familiaux de cancer : cancer du sein diagnostiqué chez une sœur à l'âge de 34 ans. Elle a déjà été étudiée par l'unité de conseil génétique et aucune mutation n'a été trouvée dans les gènes BRCA1 ou BRCA2 par hétéroduplex et séquençage. Oncle paternel atteint d'un cancer de la tête et du cou. Diagnostic de néoplasie pancréatique chez le grand-père paternel. Une néoplasie du côlon a été diagnostiquée chez la grand-mère maternelle. Environ deux ans après les débuts de notre patiente, un carcinosarcome ovarien bilatéral de stade IIIC a été diagnostiqué chez une troisième sœur à l'âge de 46 ans.
+
+Examen physique
+L'abdomen est douloureux à la palpation. Masse dans l'hypogastre d'environ 8 cm. Sémiologie d'ascite. Le reste de l'examen ne révèle rien d'intéressant.
+
+Examens complémentaires
+- Formule sanguine complète et biochimie : normales.
+- Marqueurs tumoraux : CA 125 775 UI/ml, Ca 15.3 132 UI/ml.
+- Échographie et tomodensitométrie abdominale : tumeur pelvienne de 13 x 14 x 15 cm de diamètre compatible avec une néoplasie annexielle.
+Multiples implants péritonéaux et sur la surface hépatique. Liquide libre abondant.
+- Tomodensitométrie thoracique : pas d'altération de la plèvre ni du parenchyme pulmonaire.
+TRAITEMENT CHIRURGICAL :
+En février 2007, une hystérectomie, une double annexectomie et une omentectomie par laparotomie sus- et infra-ombilicale ont été réalisées. Malgré l'effort chirurgical, un résidu tumoral de plus de 2 cm a persisté dans la zone paramétriale droite.
+
+Diagnostic histologique
+DIAGNOSTIC HISTOLOGIQUE
+Cystadénocarcinome papillaire séreux bilatéral de grade III de l'ovaire avec atteinte de l'utérus et de l'épiploon. Cytologie du liquide ascitique positive pour les cellules malignes.
+Stade IIIC.
+ÉTUDE GÉNÉTIQUE
+Comme il s'agissait d'un cas de cancer de l'ovaire chez une patiente de moins de 45 ans avec des antécédents familiaux évocateurs de cancer héréditaire, une étude des mutations BRCA1 et BRCA2 a été réalisée, et comme les résultats étaient négatifs, comme chez sa sœur atteinte d'un cancer du sein, au moyen d'un hétéroduplex et d'un séquençage, une étude des grands réarrangements par MLPA a été choisie, détectant une délétion affectant les exons 2 à 12 du gène BRCA1. Ce résultat a été confirmé par Q-PCR.
+
+Traitement
+TRAITEMENT SYSTÉMIQUE
+En mars 2007, elle a commencé un traitement de chimiothérapie par paclitaxel 175 mg/m2 + carboplatine AUC 6 tous les 21 jours, recevant un total de 6 cycles avec une réponse radiologique partielle majeure et une normalisation des marqueurs tumoraux.
+Elle a poursuivi le traitement par cisplatine 50 mg/m2 + gemcitabine 2 000 mg/m2 (jours 1 et 14 tous les 28 jours) avec une bonne tolérance, à l'exception d'une toxicité hématologique et d'une hospitalisation pour pneumothorax iatrogène après mise en place d'un réservoir intraveineux. Après le troisième cycle de chimiothérapie en novembre 2007, la patiente a présenté une réponse radiologique et biochimique complète et a continué à être étroitement surveillée par des examens réguliers.
+En janvier 2009, après un intervalle sans maladie (ISM) de 14 mois, un scanner a montré la réapparition d'une carcinomatose péritonéale avec des implants périhépatiques et un CA125 élevé. Compte tenu de l'ISM prolongé en réponse complète, un traitement à base de cisplatine 50 mg/m2 et de gemcitabine a été administré à nouveau avec les mêmes doses et le même calendrier que précédemment, avec une nouvelle réponse radiologique complète et une normalisation des marqueurs après 4 cycles.
+Le suivi s'est poursuivi dans notre clinique jusqu'en mars 2010, date à laquelle, après une ILE de 10 mois, une nouvelle augmentation des marqueurs et une progression des nodules péritonéaux et périhépatiques ont été détectées. Il a commencé un nouveau traitement à base de platine avec carboplatine AUC 5 + doxorubicine liposomale pégylée 30 mg/m2 tous les 21 jours. Après 4 cycles, il a obtenu une réponse clinique complète, mais au prix d'une toxicité hématologique significative, en particulier sur les séries blanches et les plaquettes. En conséquence, avec une réponse complète, le patient a de nouveau été mis sous surveillance avec des contrôles périodiques depuis juin 2010.
+Huit mois après la fin du traitement, une progression radiologique de la maladie péritonéale a de nouveau été observée aux mêmes endroits que précédemment. Elle présentait également un taux élevé de CA125 (86 UI/ml).
+Compte tenu des lignes de traitement précédentes et de la toxicité hématologique significative, il a été décidé de commencer un traitement par chimiothérapie métronomique avec cyclophosphamide 50 mg par voie orale toutes les 24 heures associé à du bevacizumab 10 mg/kg i.v. tous les 14 jours.
+
+Évolution
+La patiente a débuté le traitement en février 2011, obtenant une réponse clinique complète par imagerie et une normalisation des marqueurs après les deux premiers mois de traitement, qu'elle a maintenue à ce jour. Tant la réponse radiologique complète que la normalisation du CA 125 ont été maintenues à ce jour (juin 2014). La patiente poursuit son traitement avec les deux médicaments avec une excellente tolérance, se présentant après 40 mois de traitement avec pour seules toxicités une HTN contrôlée par un traitement antihypertenseur (monothérapie par énalapril) et une thrombopénie de grade I maintenue sans répercussion.

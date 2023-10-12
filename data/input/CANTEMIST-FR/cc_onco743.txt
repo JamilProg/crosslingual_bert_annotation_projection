@@ -1,0 +1,34 @@
+Anamnèse
+La patiente est une femme de 68 ans, sans réaction médicamenteuse connue, ex-fumeuse avec un indice de paquet-année de 19.
+Ses antécédents médicaux comprennent une hypertension artérielle et un diabète, sous traitement par antihypertenseurs et antidiabétiques oraux, une légère insuffisance aortique, une dysthymie.
+Elle n'a pas d'antécédents familiaux de cancer.
+L'histoire oncologique de la patiente se poursuit comme suit :
+La patiente s'est présentée aux urgences de notre hôpital en octobre 2015 avec une toux sèche, une fièvre allant jusqu'à 38,5ºC et une détérioration de l'état général d'une semaine d'évolution. Comme il n'y avait pas d'amélioration malgré un traitement antibiotique, un scanner thoracique a été réalisé deux semaines plus tard, qui a montré une masse hilaire droite provoquant une obstruction de la sortie de la bronche moyenne et de la bronche du lobe inférieur droit. En outre, une lymphadénopathie paratrachéale inférieure droite et une lymphadénopathie hilaire droite ainsi qu'une lymphadénopathie sous-carénaire ont été observées. Aucune lésion métastatique à distance n'a été décrite. Le stade clinique était T4N2M0. Avec ce résultat radiologique, la procédure accélérée pour le cancer du poumon a été activée et l'étude a été complétée par les examens suivants :
+" Bronchoscopie (05/11/2015), qui confirme la sténose bronchique. La cytologie BAS et la FNA transbronchique de la bronche intermédiaire et de l'adénopathie sous-carénale sont positives pour le carcinome à petites cellules.
+" TEP-TDM corporelle (11/11/2015) confirmant l'existence de la masse pulmonaire parahilaire droite hypermétabolique (SUVmax 13,5 g/ml), ainsi qu'une adénopathie subcarinaire hypermétabolique (7 ; SUVmax 11,2 g/ml) et une autre de moindre intensité paratrachéale inférieure droite (4R ; SUVmax 2,6 g/ml), sans captation à d'autres niveaux, et proposant une stadification T2aN2M0.
+" CT scan cérébral (12/11/2015) dans lequel aucune atteinte métastatique n'a été détectée.
+Elle a été adressée à notre service d'oncologie pour évaluer le traitement le 13/11/2015, avec le diagnostic de carcinome microcytaire du poumon, T2aN2M0 avec une maladie limitée au thorax. À cette époque, la patiente a présenté un syndrome constitutionnel avec hyporexie, asthénie légère et perte de 5 kg et PS1.
+Elle a reçu un traitement par chimiothérapie et radiothérapie concomitantes, en commençant le traitement par cisplatine-étoposide le 17/11/2015.
+Un mois après la fin du traitement par chimioradiothérapie, une tomodensitométrie de contrôle a été réalisée en février 2016, qui a montré une réponse partielle à la maladie.
+Trois mois plus tard, lors du nouveau scanner de contrôle, il y avait encore une réponse partielle avec une réduction de la taille de la masse de 88% par rapport à la ligne de base.
+Une radiothérapie holocrânienne prophylactique a été administrée en juillet 2016 pendant 10 séances avec 2,5 Gy par fraction.
+Il a persisté dans les tomographies ultérieures avec une réponse partielle jusqu'à ce que, dans la tomographie du 22/06/2017, 3 lésions nodulaires soient apparues dans la région hilaire droite avec des frontières vagues qui ont soulevé la possibilité d'une récidive tumorale ou de changements liés à la radiothérapie. De plus, de petits nodules thyroïdiens gauches sont visualisés.
+La patiente continue de souffrir d'une asthénie de grade 1 et ne présente pas de nouveaux symptômes.
+
+Examen physique
+À l'examen physique, l'état général est acceptable, il présente une PS2, l'auscultation cardio-pulmonaire est normale et une tumeur est palpable dans le lobe gauche de la thyroïde.
+
+Tests complémentaires
+Les analyses sanguines n'ont révélé aucune modification du profil des hormones thyroïdiennes.
+Par la suite, une TEP-TDM corporelle a été réalisée en septembre 2017 au cours de laquelle aucune lésion ou foyer hypermétabolique n'a été observé dans le parenchyme pulmonaire suggérant une pathologie pulmonaire. En revanche, un nodule hypermétabolique de 14 mm a été observé dans le lobe thyroïdien gauche, avec un SUVmax de 3,6 mg/ml.
+Une ponction à l'aiguille fine (FNA) a été réalisée en novembre 2017 sur ce nodule thyroïdien, qui a permis de diagnostiquer un carcinome à petites cellules métastatique.
+Lors de la tomodensitométrie réalisée fin janvier 2018, avant le début du traitement, une augmentation de la taille de la métastase thyroïdienne a été observée, entraînant un déplacement controlatéral de la trachée sans compromettre les voies aériennes, et avec une possible infiltration de la paroi antérieure de l'œsophage. La patiente a ensuite signalé une certaine sensation de dysphagie, mais sans cesser d'ingérer des aliments et des liquides.
+
+Diagnostic
+Métastase thyroïdienne d'un carcinome pulmonaire à petites cellules.
+
+Traitement
+Un traitement à base de carboplatine et d'étoposide est mis en place, le premier cycle étant administré à la fin du mois de février 2018.
+
+Évolution
+Après le deuxième cycle de traitement, le scanner a montré une réponse partielle de la maladie avec une réduction de 38% de la charge tumorale. La patiente poursuit actuellement son traitement par chimiothérapie, avec radiothérapie concomitante : elle présente une asthénie de grade 2 comme symptôme principal et conserve un PS2.

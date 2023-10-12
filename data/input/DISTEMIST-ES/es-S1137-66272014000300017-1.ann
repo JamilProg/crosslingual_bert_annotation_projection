@@ -1,0 +1,18 @@
+T1	pathologie 62 111	exantema eritrósico y doloroso en región cervical
+T2	pathologie 297 304	prúrigo
+T3	pathologie 423 472	eritema cutáneo en cuello, axilas, tórax y nalgas
+T4	pathologie 544 590	lesión costrosa amarillenta en región cervical
+T5	pathologie 609 654	eritema e inflamación palpebral y conjuntival
+T6	pathologie 963 967	SPEE
+T7	pathologie 1160 1168	lesiones
+T8	pathologie 1187 1199	eritrodermia
+T9	pathologie 1334 1342	lesiones
+#1	SNOMED T6	200946001
+#2	SNOMED T1	271807003
+#3	SNOMED T8	399992009
+#4	SNOMED T7	157670007
+#5	SNOMED T9	157670007
+#6	SNOMED T4	271765003
+#7	SNOMED T2	64144002
+#8	SNOMED T3	444827008
+#9	SNOMED T5	9826008+1137447008

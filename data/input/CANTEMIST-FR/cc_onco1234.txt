@@ -1,0 +1,28 @@
+Anamnèse
+Femme de 81 ans ayant des antécédents personnels d'allergie à la pyrazolone, de diabète sucré de type 2, de dyslipidémie et d'hypothyroïdie. Elle a subi une cholécystectomie en 1988.
+En 1974, elle a subi une mastectomie radicale modifiée du sein gauche, associée à une radiothérapie par pompe à cobalt. En décembre 2012, elle a subi une autre opération utilisant cette technique sur le sein droit pour un carcinome canalaire infiltrant de stade IIA (pT2N0) triple négatif, recevant une chimiothérapie adjuvante selon le schéma FEC pendant 6 cycles, se terminant en mai 2013. Le comité des tumeurs a rejeté la radiothérapie adjuvante.
+En janvier 2014, elle a été admise pour dyspnée et insuffisance respiratoire secondaire à un épanchement pleural, avec des cellules malignes de type adénocarcinome retrouvées à la cytologie. Les examens radiologiques ont également montré une récidive au niveau osseux.
+Lors de l'admission, un drainage endothoracique a été mis en place et une pleurodèse a été réalisée au moyen d'un thalcage, avec une nette amélioration des symptômes respiratoires de la patiente. Avant la sortie et en raison d'un adénocarcinome mammaire triple négatif E-IV, le premier cycle de paclitaxel/bevacizumab a été administré le 6 février 2014.
+Six jours après sa sortie, elle a été réadmise en raison de vomissements du contenu des aliments, tardivement après l'ingestion, précédés de nausées, sans douleur abdominale ni syndrome fébrile associé. Elle avait correctement évacué les gaz et les selles.
+
+Examen physique
+État général normal, conscient et orienté, normohydraté et de couleur normale. Eupnéique au repos. Signes vitaux normaux. Glasgow 15 sans focalisation. À l'auscultation, il n'y a qu'une hypoventilation dans les deux bases avec de faibles crépitants. L'abdomen était mou et dépressible, indolore à la palpation, sans masses ou mégalithes palpables et avec des bruits hydro-aériques présents. Les membres inférieurs présentaient un léger œdème tibiomalléolaire mou.
+
+Tests complémentaires
+- À l'admission, les valeurs de l'hémogramme, de la biochimie et de la coagulation étaient dans les limites de la normale. Au fur et à mesure de l'évolution du tableau pathologique, les examens ont révélé un tableau de colostase mixte avec insuffisance hépatique.
+- Les sérologies pour les virus hépatotropes, les herpèsvirus, Brucella, E. histolytica et le VIH étaient négatives.
+- La radiographie thoracique a montré un empiètement des deux sinus costophréniques, sans autre signe, tandis que la radiographie abdominale a montré une dilatation gastrique avec un schéma d'aération intestinale non spécifique.
+- Le transit œso-gastrique à la gastrografine a révélé une altération marquée de la morphologie de l'œsophage moyen et distal, avec de multiples défauts de réplétion dans les tiers moyen et distal, de morphologie linéaire et discrètement serpingiforme, de sorte qu'une gastroscopie a été pratiquée, qui a révélé des résultats compatibles avec une œsophagite nécrosante avec un risque élevé de perforation.
+- L'échographie abdominale a montré un foie de taille normale et un parenchyme homogène, sans apparence de maladie hépatique chronique, bien que dans le segment 4 il y ait une zone hypoéchogène irrégulière mesurant 59 x 49 mm suggérant une collection intraparenchymateuse évolutive. Cette observation a été confirmée par l'IRM dynamique du foie, ce qui a permis de poser un abcès du foie comme première hypothèse diagnostique.
+
+Diagnostic
+Œsophagite nécrosante due à une toxicité probable du bevacizumab, compliquée d'un abcès hépatique et d'une cholostase mixte avec insuffisance hépatique.
+
+Traitement
+A l'admission, et compte tenu de la suspicion de gastroparésie basée sur les résultats de la radiographie abdominale, une sonde nasogastrique a été mise en place, le patient a été mis au régime absolu et un traitement a été administré avec des prokinétiques (métoclopramide et clarithromycine). Malgré ces mesures, les vomissements persistant, un transit oesophago-gastrique a été demandé, révélant une altération marquée de la morphologie de l'oesophage moyen et distal, et la gastroscopie a révélé des éléments compatibles avec une oesophagite nécrosante à haut risque de perforation.
+À cette époque, les analyses sanguines ont commencé à montrer des résultats compatibles avec une cholestase mixte (hépatocellulaire et cholestatique) avec un début d'insuffisance hépatique, et l'étiologie pharmacologique de ces deux entités a été suspectée. La sérologie des virus hépatotropes et du VIH s'est révélée négative. Les prokinétiques ont été retirés et une nutrition parentérale centrale de protection hépatique a été administrée, en plus d'une couverture antibiotique pour une éventuelle médiastinite, étant donné le risque élevé de perforation de l'œsophage et l'apparition de la fièvre.
+En raison de ces résultats analytiques, une échographie abdominale a été réalisée, qui a montré une zone hypoéchogène irrégulière mesurant 59 x 49 mm dans le segment 4 du foie, suggérant une collection intraparenchymateuse évolutive, ce qui a été confirmé par une IRM dynamique, suggérant un abcès du foie comme première option diagnostique.
+Compte tenu de ces résultats, le service de radiologie interventionnelle a été contacté pour le drainage de l'abcès du foie, avec 30 cc de matériel purulent évacué, qui a été envoyé à la microbiologie pour étude, avec une culture positive pour E. coli multisensible.
+
+Evolution
+Malgré toutes ces mesures, le patient a présenté une évolution torpide avec une progression analytique et clinique de la colostase avec une encéphalopathie hépatique comme complication finale, étant exitus 16 jours après l'admission.

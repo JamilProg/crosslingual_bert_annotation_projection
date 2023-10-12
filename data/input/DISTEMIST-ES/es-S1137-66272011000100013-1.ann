@@ -1,0 +1,16 @@
+T1	pathologie 75 95	silicosis complicada
+T2	pathologie 97 100	FMP
+T3	pathologie 103 112	Exfumador
+T4	pathologie 154 175	tuberculosis pulmonar
+T5	pathologie 713 739	insuficiencia respiratoria
+T6	pathologie 1074 1083	silicosis
+T7	pathologie 1157 1160	FMP
+T8	pathologie 1592 1607	lesión cavitada
+#1	SNOMED T1	49840000
+#2	SNOMED T3	8517006
+#3	SNOMED T4	154283005
+#4	SNOMED T5	409623005
+#5	SNOMED T6	805002
+#6	SNOMED T2	233749003
+#7	SNOMED T7	233749003
+#8	SNOMED T8	301863008

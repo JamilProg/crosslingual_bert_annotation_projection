@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 75 ans sans antécédents personnels intéressants, qui était suivie pour une maladie de Paget vulvaire. La patiente a consulté en décembre 2017 en raison d'une aggravation du prurit dans la zone vulvo-vaginale.
+
+Examen physique
+Une néoformation vulvaire est observée au niveau de l'introït vaginal, avec une croissance vers le vagin et une extension superficielle au reste de la vulve sous la forme d'une maladie de Paget.
+
+Examens complémentaires
+Une tomodensitométrie (TDM) a été réalisée en janvier 2018, décrivant des adénopathies d'allure pathologique dans la chaîne iliaque-fémorale externe droite mesurant au moins 5,5 x 2,6 cm, ainsi que des adénopathies inguinales ipsilatérales suspectes mesurant 2,9 x 1,6 cm. Épaississement nodulaire de la voûte vaginale gauche et léger épaississement de la peau dans la région vulvaire.
+Une biopsie de l'introitus vaginal a été effectuée, montrant une infiltration par un carcinome compatible avec un carcinome vulvaire primaire. Une biopsie des adénopathies inguinales a également été réalisée, montrant des infiltrats de grandes cellules avec une morphologie correspondant à un adénocarcinome peu différencié. Le profil immunohistochimique (positif pour CK7, EMA, récepteurs androgéniques et CEA ; négatif pour CK20, œstrogène, progestérone et GCDFP-15) suggère une origine vulvaire.
+Au vu de ces résultats, une tomographie par émission de positons (TEP) a été réalisée, montrant une captation dans l'hémivulve droite, la voûte vaginale gauche et les adénopathies inguinales droites, dans la chaîne iliaque externe droite et dans la bifurcation iliaque commune droite.
+
+Diagnostic
+Maladie de Paget vulvaire de stade IV en raison de l'atteinte des ganglions lymphatiques.
+
+Traitement
+Un traitement de première intention à base de carboplatine AUC 4 et de paclitaxel 135 mg/m2 tous les 21 jours est instauré. Les doses sont réduites en raison de la fragilité du patient.
+
+Évolution
+La patiente a commencé le traitement en mars 2018. Après trois cycles, le scanner de réévaluation a montré une réponse partielle au niveau ganglionnaire, et cette réponse s'est maintenue après trois cycles supplémentaires (6 au total).
+Lors d'une séance multidisciplinaire, il a été décidé d'administrer une radiothérapie de consolidation sur les chaînes ganglionnaires et la zone vulvaire, avec une dose totale de 57,2 Gy (11 séances de 5,2 Gy). Lors de la première tomodensitométrie après la radiothérapie, la patiente a maintenu une réponse partielle. Cependant, en février 2019, elle a présenté une progression hépatique, avec une stabilité des lésions ganglionnaires. Par la suite, le résultat de la détermination de HER-2 s'est avéré positif par immunohistochimie.
+À cette époque, la détermination de HER-2 a été demandée et le résultat était positif par immunohistochimie avec une valeur de trois croix (+++). Il a alors été décidé de commencer une deuxième ligne de traitement avec 600 mg de trastuzumab par voie sous-cutanée tous les 21 jours et 80 mg/m2 de paclitaxel les jours 1, 8 et 15. Le paclitaxel a été réduit à 40 mg/m2 au cycle 1, jour 8, en raison de la neurotoxicité, et a dû être suspendu à partir du deuxième cycle, en continuant exclusivement avec 600 mg de trastuzumab par voie sous-cutanée tous les 21 jours. Un scanner de contrôle a été réalisé après le 4ème cycle, qui a montré une réponse partielle.

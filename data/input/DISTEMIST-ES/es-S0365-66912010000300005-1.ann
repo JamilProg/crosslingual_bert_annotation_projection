@@ -1,0 +1,26 @@
+T1	pathologie 174 186	hipertensión
+T2	pathologie 189 199	dislipemia
+T3	pathologie 216 234	bronquitis crónica
+T4	pathologie 240 271	accidente isquémico transitorio
+T5	pathologie 439 463	defecto pupilar aferente
+T6	pathologie 577 600	hemorragia subretiniana
+T7	pathologie 768 799	subretiniana de esta hemorragia
+T8	pathologie 911 931	membrana neovascular
+T9	pathologie 933 936	MNV
+T10	pathologie 1464 1491	sangre en el ámbito macular
+T11	pathologie 1606 1629	hemorragia subretiniana
+T12	pathologie 1716 1732	DMAE hemorrágica
+T13	pathologie 1953 1963	hemovítreo
+#1	SNOMED T1	38341003
+#2	SNOMED T2	370992007
+#3	SNOMED T11	13937002
+#4	SNOMED T7	13937002
+#5	SNOMED T3	63480004
+#6	SNOMED T4	266257000
+#7	SNOMED T10	247161000
+#8	SNOMED T13	31341008
+#9	SNOMED T12	267718000
+#10	SNOMED T8	61267008
+#11	SNOMED T9	61267008
+#12	SNOMED T6	13937002
+#13	SNOMED T5	232121005

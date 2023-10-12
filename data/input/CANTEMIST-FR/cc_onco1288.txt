@@ -1,0 +1,33 @@
+Anamnèse
+Antécédents : Hypercholestérolémie de 20 ans d'évolution sous traitement par atorvastatine. Traumatisme cranio-encéphalique suite à un accident de la circulation à l'âge de 15 ans. Impuissance Generandi coeundi depuis 4 ans. Fumeur de 60 paquets/an ; consomme 120 g d'alcool par jour.
+Depuis deux mois, le patient présente un léger gonflement indolore du pied droit et des deux mains en fin de journée.
+Deux semaines avant son admission, il a présenté une toux, un enrouement, une rhinorrhée aqueuse et croûteuse.
+
+Examen physique
+Examen du cœur, des poumons et de l'abdomen sans particularité. Examen neurologique : pupilles isochoriques et normoréactives. Nerfs crâniens centrés et symétriques. Force préservée dans les 4 membres. Hypoesthésie sensorielle de type chaussette au pied droit et gonflement important des mains, des poignets, de la partie inclinée de la jambe et des pieds, avec fovéa.
+
+Examens complémentaires
+Biochimie, coagulation : aucun résultat. Hémogramme : leucocytes 5900 u/l (700 l). ESR : 63 mm/h. Marqueurs tumoraux : énolase 20 ng/ml. ANOES et ANCAS : négatifs.
+Immunophénotype du sang périphérique : lymphopénie (816 c/ul), lymphocytes B (66 c/ul) et lymphocytes T (447 c/ul).
+Sérologie VHB : HB surface Ag HB s positif, Anti HB core positif, Anti HB e positif.
+Radiographie thoracique : nodule de 1,5 cm dans le lobe supérieur droit.
+PET-CT : deux lésions dans le LSD 1,9 x 1,6 cm SUV 9,4 et 1,2 x 1,2cm et SUV 5, respectivement. Adénopathie paratrachéale droite de 1,5 cm et SUV 7,2. TEP de l'artère lobaire droite, FNA pulmonaire : négatif.
+Médiastinoscopie : biopsie de l'adénopathie 4R et sous-carénale positive pour un adénocarcinome EGFR natif.
+Culture du liquide synovial du genou : négative. Coloration de Ziehl-Neelsen du liquide articulaire, de l'exsudat nasal, des expectorations et de l'oreille : négative.
+Biopsie nasale : Mycobacterium leprae PCR positive.
+Électromyographie : polyneuropathie axonale sensorielle sévère ; démyélinisation du nerf péronier droit.
+
+Diagnostic
+Adénocarcinome pulmonaire EIII-A (T3N2M0).
+Synovite séronégative symétrique et embolie pulmonaire paranéoplasique fortuite.
+Lèpre multibacillaire.
+Lymphopénie transitoire due à la maladie de Hansen.
+Hépatite B inactive.
+
+Traitement
+Traitement néoadjuvant : carboplatine AUC 5 + vinorelbine 25 mg/m2 x 4 cycles avec radiothérapie 63 Gy.
+Traitement de deuxième ligne : pemetrexed 500 mg/m2 c/21 jours x 3 cycles.
+Traitement de troisième ligne : gemcitabine 1 000 mg/m2 j 1 et 8 c/21 j x 2 cycles.
+
+Évolution
+Après le diagnostic d'adénocarcinome pulmonaire, EIIIA a commencé un traitement néoadjuvant par carboplatine + vinorelbine et une radiothérapie concomitante, avec une réponse complète enregistrée par tomodensitométrie. Avant l'intervention chirurgicale, une TEP a été réalisée et a montré une rechute des ganglions lymphatiques dans le territoire N2, ce qui a exclu l'intervention chirurgicale. Après 4 mois, il y a eu une aggravation clinique, et le pemetrexed a été commencé avec une progression hépatique après 3 cycles, qui a été remplacé par la gemcitabine à des fins palliatives, et il est décédé après deux cycles.

@@ -1,0 +1,32 @@
+T1	pathologie 66 107	dermatitis en cara, tronco y extremidades
+T2	pathologie 172 197	DM con afectación cutánea
+T3	pathologie 457 466	neoplasia
+T4	pathologie 784 792	disfagia
+T5	pathologie 870 898	DM con aparición de miopatía
+T6	pathologie 992 1053	miopatía inflamatoria en musculatura proximal de extremidades
+T7	pathologie 1179 1236	DM con afectación muscular y digestiva, además de cutánea
+T8	pathologie 1441 1449	miopatía
+T9	pathologie 1815 1830	hepatotoxicidad
+T10	pathologie 1873 1889	reacción adversa
+T11	pathologie 2281 2289	disfagia
+T12	pathologie 2298 2308	dermatitis
+T13	pathologie 2619 2638	reacciones adversas
+T14	pathologie 2816 2845	placa eritematosa pruriginosa
+T15	pathologie 2995 3003	alopecia
+T16	pathologie 3307 3317	dermatitis
+#1	SNOMED T5	396230008
+#2	SNOMED T1	703938007+118930001+400106006+128605003
+#3	SNOMED T8	129565002
+#4	SNOMED T12	703938007
+#5	SNOMED T6	26889001
+#6	SNOMED T2	724876003
+#7	SNOMED T7	396230008+129565002+53619000+95320005
+#8	SNOMED T3	55342001
+#9	SNOMED T13	281647001
+#10	SNOMED T9	427399008
+#11	SNOMED T10	281647001
+#12	SNOMED T14	64144002
+#13	SNOMED T15	56317004
+#14	SNOMED T16	703938007
+#15	SNOMED T4	288939007
+#16	SNOMED T11	288939007

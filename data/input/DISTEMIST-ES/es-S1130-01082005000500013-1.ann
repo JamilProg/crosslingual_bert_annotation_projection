@@ -1,0 +1,18 @@
+T1	pathologie 48 100	melanoma cutáneo maligno nodular en hombro izquierdo
+T2	pathologie 312 331	oclusión intestinal
+T3	pathologie 348 381	invaginación de intestino delgado
+T4	pathologie 454 487	íleon por tumoración intraluminal
+T5	pathologie 528 552	tumoraciones polipoideas
+T6	pathologie 1558 1609	metástasis en intestino delgado de melanoma cutáneo
+T7	pathologie 1593 1609	melanoma cutáneo
+T8	pathologie 1739 1776	lesiones más en la unión yeyuno-ileal
+T9	pathologie 2083 2090	tumores
+#1	SNOMED T1	254731001
+#2	SNOMED T8	119522002
+#3	SNOMED T6	443493003+94580002
+#4	SNOMED T7	93655004
+#5	SNOMED T2	81060008
+#6	SNOMED T3	721651002
+#7	SNOMED T4	126835002
+#8	SNOMED T9	189542002
+#9	SNOMED T5	441456002

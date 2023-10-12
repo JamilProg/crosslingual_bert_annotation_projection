@@ -1,0 +1,12 @@
+T1	pathologie 192 228	atresia cólica del colon descendente
+T2	pathologie 231 283	vólvulo intestinal de delgado en el periodo neonatal
+T3	pathologie 882 915	apendicitis del muñón apendicular
+T4	pathologie 1019 1031	apendicolito
+T5	pathologie 1085 1130	plastrón pericecal sobre un muñón apendicular
+T6	pathologie 1153 1175	apendicitis gangrenosa
+#1	SNOMED T1	37054000
+#2	SNOMED T2	9707006
+#3	SNOMED T3	418171008
+#4	SNOMED T4	24764000
+#5	SNOMED T5	62224002+441850003
+#6	SNOMED T6	50846009

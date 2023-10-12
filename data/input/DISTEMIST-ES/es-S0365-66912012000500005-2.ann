@@ -1,0 +1,18 @@
+T1	pathologie 32 49	pérdida de visión
+T2	pathologie 167 170	PXE
+T3	pathologie 329 343	EA bilaterales
+T4	pathologie 351 384	OD, destacaba una lesión gliótica
+T5	pathologie 619 644	hemorragias subretinianas
+T6	pathologie 681 693	membrana NVC
+T7	pathologie 712 731	distrofia retiniana
+T8	pathologie 809 824	escara gliótica
+T9	pathologie 1447 1465	alteración del EPR
+#1	SNOMED T4	80321008
+#2	SNOMED T2	252246005
+#3	SNOMED T5	13937002
+#4	SNOMED T6	75971007
+#5	SNOMED T7	314407005
+#6	SNOMED T3	15989991000119102
+#7	SNOMED T1	267631003
+#8	SNOMED T8	11131000119108
+#9	SNOMED T9	421689001

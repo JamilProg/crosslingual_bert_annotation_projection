@@ -1,0 +1,4 @@
+T1	pathologie 709 738	tumor fusiforme de bajo grado
+T2	pathologie 986 1034	tumor fusiforme del estroma sexual no específico
+#1	SNOMED T1	88897007
+#2	SNOMED T2	55342001

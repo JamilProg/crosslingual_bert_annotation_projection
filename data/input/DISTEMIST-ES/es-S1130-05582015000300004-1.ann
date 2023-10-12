@@ -1,0 +1,16 @@
+T1	pathologie 345 375	hipertensión arterial esencial
+T2	pathologie 979 994	lesión quística
+T3	pathologie 1406 1421	lesión quística
+T4	pathologie 1765 1828	quiste sinovial por encima de la rama frontal del nervio facial
+T5	pathologie 1861 1930	pedículo que comunica el quiste con la articulación temporomandibular
+T6	pathologie 1984 1990	herida
+T7	pathologie 2148 2163	lesión quística
+T8	pathologie 2259 2265	quiste
+#1	SNOMED T2	441457006
+#2	SNOMED T7	441457006
+#3	SNOMED T3	441457006
+#4	SNOMED T8	441457006
+#5	SNOMED T4	240205003
+#6	SNOMED T1	59621000
+#7	SNOMED T5	41888000
+#8	SNOMED T6	416462003

@@ -1,0 +1,32 @@
+T1	pathologie 50 88	ausencia de pelo en el cuero cabelludo
+T2	pathologie 110 125	hernia inguinal
+T3	pathologie 155 174	queratosis actínica
+T4	pathologie 306 355	lesiones costrosas en la región parieto-occipital
+T5	pathologie 407 464	Carcinoma epidermoide de moderado grado de diferenciación
+T6	pathologie 496 504	lesiones
+T7	pathologie 566 571	tumor
+T8	pathologie 710 718	lesiones
+T9	pathologie 802 823	Carcinoma epidermoide
+T10	pathologie 962 980	lesiones costrosas
+T11	pathologie 1046 1054	lesiones
+T12	pathologie 1178 1217	retracción completa del cuero cabelludo
+T13	pathologie 1490 1505	hernia inguinal
+T14	pathologie 3062 3121	Carcinomas epidermoides de moderado grado de diferenciación
+T15	pathologie 3128 3146	Carcinomas in situ
+T16	pathologie 3427 3441	recidiva local
+#1	SNOMED T2	396232000
+#2	SNOMED T3	201101007
+#3	SNOMED T4	400082007
+#4	SNOMED T5	402815007
+#5	SNOMED T9	402815007
+#6	SNOMED T14	402815007
+#7	SNOMED T15	109355002
+#8	SNOMED T16	363346000
+#9	SNOMED T7	55342001
+#10	SNOMED T6	157670007
+#11	SNOMED T8	157670007
+#12	SNOMED T10	95324001
+#13	SNOMED T11	157670007
+#14	SNOMED T12	402761000
+#15	SNOMED T13	396232000
+#16	SNOMED T1	2965006

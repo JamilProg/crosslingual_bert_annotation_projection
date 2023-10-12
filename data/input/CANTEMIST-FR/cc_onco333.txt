@@ -1,0 +1,39 @@
+Anamnèse
+Le patient est un homme de 61 ans qui ne présente aucune allergie médicamenteuse connue.
+En 2005, on lui a diagnostiqué un carcinome épidermoïde de l'hypopharynx et du sinus piriforme pT4N1M0, traité par laryngectomie et vidange cervicale bilatérale, sans traitement adjuvant.
+En 2008, on lui a diagnostiqué un carcinome pulmonaire à grandes cellules cT1N1M1, stade IV pour 3 LOES cérébraux (lobe temporal gauche, le plus grand, lobe frontal droit et lobe temporal droit).
+Il a été traité par radiothérapie holocrânienne avec une réponse partielle, puis par chimiothérapie systémique avec carboplatine-paclitaxel pendant 4 cycles, suivie d'une chimioradiothérapie concomitante avec cisplatine-étoposide, ce qui lui a permis d'obtenir une réponse complète.
+En septembre 2008, il a été admis pour une embolie pulmonaire massive, présentant également une ostéonécrose des plaques tibiales.
+En 2010, une récidive sus-claviculaire droite avec confirmation anatomopathologique a été traitée par erlotinib avec une réponse complète précoce. Le traitement a été maintenu jusqu'en mai 2011, suspendu à la demande du patient en raison de la toxicité pour les ongles.
+En juillet 2011, il a présenté une radionécrose symptomatique traitée par corticoïdes et oxygène hyperbare avec une excellente réponse.
+En juillet 2013, une nouvelle récidive sus-claviculaire droite a été traitée par erlotinib avec une réponse complète précoce, en maintenant le traitement jusqu'en décembre 2013, qui a de nouveau été suspendu en raison de la non-observance du traitement par le patient.
+En octobre 2015, il a commencé à ressentir une douleur progressive au genou droit et a été référé au service de traumatologie pour terminer l'étude. Le patient n'a pas signalé d'augmentation de la dyspnée ou d'autres symptômes.
+
+Examen physique
+À l'examen, il présentait un ECOG PS 1. Il se déplaçait en fauteuil roulant en raison d'une douleur au niveau de la moelle épinière qui augmentait à la palpation du genou droit. Le reste de l'examen est normal.
+
+Examens complémentaires
+Compte tenu de ce tableau clinique, une IRM du genou a été réalisée le 09/11/15, montrant une lésion d'aspect infiltrant affectant la région métaphysaire proximale du tibia adjacente au bord antérieur de la zone d'ostéonécrose, avec une irrégularité du bord périosté antérieur et une légère atteinte des tissus mous antérieurs.
+Par la suite, un examen TEP-TDM a été demandé et a confirmé la présence d'un important foyer d'hypermétabolisme dans la région métaphysaire proximale du tibia droit, d'un diamètre transversal d'environ 8 cm.
+Une biopsie de la région proximale du tibia a été réalisée et l'anatomie pathologique était compatible avec un sarcome pléomorphe indifférencié de grade 3 (FNCLCC) avec une positivité pour les marqueurs fibroblastiques et histiocytaires.
+
+Diagnostic
+"Sarcome pléomorphe indifférencié de haut grade du tibia proximal droit à l'endroit d'une ostéonécrose antérieure en 2015.
+"Carcinome à grandes cellules du poumon cT1N1M1 (cerveau M1) en 2008, en rémission complète.
+"Carcinome épidermoïde de l'hypopharynx et du sinus piriforme pT4N1M0 en 2005, sans données de récidive.
+
+Traitement
+Dans cette situation de rémission complète des tumeurs antérieures, la séquence de traitement suivante est proposée :
+1. chimiothérapie néoadjuvante avec un schéma cisplatine-doxorubicine pendant 3 cycles.
+2. Chirurgie : résection intra-articulaire large du tibia proximal droit et reconstruction avec une prothèse tumorale du genou et du tibia proximal et couverture de la prothèse avec le jumeau ipsilatéral par la chirurgie plastique.
+3. Chimiothérapie adjuvante pendant 3 cycles, initialement avec le même schéma de traitement que le néoadjuvant.
+
+Évolution
+Après le premier cycle, elle a présenté une perte auditive neurosensorielle soudaine secondaire à la toxicité du cisplatine, de sorte que le traitement au cisplatine a été suspendu en raison de l'ototoxicité et de la neutropénie fébrile qui a nécessité une admission à l'hôpital.
+Elle a poursuivi le traitement jusqu'à la fin des 3 cycles avec la doxorubicine en monothérapie.
+En avril 2016, elle a consulté pour une dyspnée soudaine. L'examen a révélé une tension artérielle de 90/60 mmHg et une saturation en O2 de 65 % avec réservoir.
+Une angioCT a été réalisée, montrant un défaut de réplétion étendu affectant le tronc artériel pulmonaire, l'artère pulmonaire principale gauche et de multiples branches segmentaires et sous-segmentaires.
+Le diagnostic de PTE massive avec instabilité hémodynamique ayant été posé, le patient a été admis dans notre service. Le patient a montré une amélioration clinique et un rétablissement hémodynamique, et a été libéré 15 jours plus tard avec une HBPM.
+Par la suite, après la sortie de l'hôpital, un PET scan a été demandé pour une réévaluation, qui a révélé une lésion dans l'extrémité épiphysaire du tibia droit montrant une réduction d'activité d'au moins 35 % (SUVmax 15,6 g/ml) et des foyers d'hypercaptation dans le muscle trapèze droit (SUVmax 4,2 g/ml) et dans le muscle péronier gauche (SUVmax 5,2 g/ml), ainsi qu'un foyer douteux d'hypercaptation dans le duodénum pancréatique (SUVmax 3,5 g/ml).
+Face à ces résultats, des examens ciblés ont été réalisés (EUS haute centrée sur le cadre duodénal et la glande pancréatique et échographie des tissus mous) sans détecter de lésions suspectes à ces niveaux.
+Suite à ces résultats, le patient est retourné à l'unité des sarcomes et est actuellement en attente d'une intervention chirurgicale.

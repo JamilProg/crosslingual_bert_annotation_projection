@@ -1,0 +1,45 @@
+Anamnèse
+Femme de 66 ans, sans allergie médicamenteuse connue, sans habitudes toxiques, actuellement à la retraite, sans antécédent familial de pathologie oncologique, avec un antécédent d'hypertension artérielle sous traitement par hydrochlorothiazide.
+
+Indépendant pour les activités de la vie quotidienne, ECOG 0.
+
+Ses antécédents oncologiques débutent en mars 2015, par un prurit sur une lésion cutanée connue au niveau dorsal supérieur gauche (papule érythémateuse nacrée avec téléangiectasies, d'une taille de 4 millimètres).
+
+Une biopsie excisionnelle a été réalisée. L'examen anatomopathologique révèle un mélanome nodulaire de Breslow de 2,5 mm, niveau IV de Clark, pas d'ulcération, pas de composante inflammatoire, pas de régression, cellularité pléomorphe, 11 mitoses/mm2, pas d'invasion périneurale ou vasculaire, pas de satellisation, marges chirurgicales latérales positives. Étude mutationnelle de type sauvage BRAF V600E.
+
+Les examens de laboratoire ont révélé des taux de LDH dans la fourchette normale.
+Un PET et un CT scan ont été réalisés, qui ont révélé trois adénopathies nécrotiques de 21 mm dans la région axillaire gauche (deux très proches l'une de l'autre) et une troisième de 7,5 mm, avec un SUV maximum de 10 et 2 respectivement. Dans la région axillaire droite, il y a une lymphadénopathie nécrotique de 15 mm, avec un SUV maximum de 6.
+Une aspiration à l'aiguille fine de la lymphadénopathie axillaire a été réalisée, les résultats de l'anatomie pathologique indiquant une métastase de mélanome.
+-En mai 2015, un élargissement de la marge de 2 cm a été réalisé avec une lymphadénectomie axillaire bilatérale. Il n'y a pas eu de complications postopératoires. L'anatomie pathologique rapporte l'absence de tumeur résiduelle dans les marges chirurgicales. En ce qui concerne la lymphadénectomie, elle a rapporté 4 ganglions lymphatiques positifs sur 49 ganglions au total (19 ganglions droits, 30 ganglions gauches, diamètre maximal de 35 mm, sans invasion extracapsulaire).
+Avec un diagnostic de mélanome de stade IIIC (pT3a pN3), réséqué, de type BRAF sauvage, elle a commencé un traitement adjuvant en juin 2015 dans le cadre d'un essai clinique.
+Il s'agit d'une étude de phase III randomisée, en double aveugle, d'un traitement adjuvant d'immunothérapie par ipilimumab versus Nivolumab après résection complète d'un mélanome de stade IIIb/c ou IV chez des patients présentant un risque élevé de récidive.
+Les patients sont randomisés dans
+- bras A : ipilimumab 10 mg/kg IV (intraveineux) toutes les 3 semaines pendant 4 doses, puis toutes les 12 semaines à partir de la semaine 24, plus placebo IV toutes les 2 semaines.
+- bras B : Nivolumab 3 mg/kg IV toutes les 2 semaines plus placebo IV toutes les 3 semaines pendant 4 doses, puis toutes les 12 semaines à partir de la semaine 24.
+Le traitement se poursuit jusqu'à récidive de la maladie, toxicité inacceptable ou maximum 1 an.
+
+Maladie actuelle :
+En août 2015, elle s'est rendue à l'hôpital de jour pour une diarrhée évoluant depuis 15 jours, présentant initialement 2 à 3 selles par jour, avec une augmentation progressive du nombre et de l'intensité, le tableau étant associé à une hématochézie, une rectorragie, des douleurs abdominales diffuses et coliques, des nausées et des vomissements à raison de 1 à 2 épisodes par jour. Il convient de noter que la patiente avait déjà consulté un autre centre et s'était vu prescrire un traitement à base de ciprofloxacine, qu'elle prenait au moment de l'évaluation à l'hôpital de jour.
+
+Examen physique
+ECOG 2, hémodynamiquement stable et afébrile. Abdomen légèrement distendu, douloureux de façon diffuse à la palpation, tant superficielle que profonde. Péristaltisme conservé.
+
+Tests complémentaires
+L'analyse sanguine effectuée à l'admission a révélé une anémie avec une hémoglobine de 10,9 g/dL, une hypokaliémie de 3,15 meq/litre, une protéine C-réactive élevée de 100,4 mg/dL.
+Un scanner abdominal a été réalisé, signalant un épaississement minime/léger de la paroi postérieure du cæcum, non spécifique. Il n'y avait pas d'autres altérations pouvant être évaluées par cette méthode dans le reste du côlon ni de signes d'hémorragie.
+Une coloscopie a été pratiquée, qui a révélé de multiples lésions ulcérées dans le côlon ascendant et le côlon transverse, avec des bords surélevés couverts de sang et de fibrine, entourés de larges zones de muqueuse saine. Des biopsies sont effectuées sur les bords et la base de l'ulcère. Il s'agit d'une colite ulcéreuse d'origine indéterminée.
+L'examen anatomopathologique révèle des fragments de muqueuse colique présentant une ulcération avec du tissu de granulation et des modifications réparatrices de l'épithélium adjacent. Aucune modification ne suggère une infection virale. Les résultats de la biologie moléculaire sont négatifs pour le cytomégalovirus, les virus de l'herpès simplex 1 et 2 et le virus d'Epstein-Barr.
+Des échantillons d'hémoculture, de culture de selles et de toxine de Clostridium difficile ont été prélevés, tous négatifs.
+La quantification a été effectuée et s'est révélée négative.
+
+Diagnostic :
+Il s'agit d'un patient de 66 ans, opéré d'un mélanome de stade IIIC, sous traitement adjuvant par immunothérapie, dans le cadre d'un essai clinique (en double aveugle, nivolumab versus ipilimumab), qui est admis pour une diarrhée de grade 3 et une rectorragie, mettant en évidence des lésions ulcérées à la coloscopie, avec un diagnostic microbiologique négatif, et à l'anatomie pathologique une muqueuse colique présentant une ulcération avec un tissu de granulation et des changements réparateurs dans l'épithélium adjacent. Il n'y avait pas de changements suggérant une infection virale.
+Dans ce contexte, nous interprétons le tableau comme une colite sévère à médiation immunitaire.
+
+Traitement :
+Nous avons commencé le traitement avec des corticostéroïdes à forte dose et il a reçu une dose unique d'infliximab avec une amélioration clinique progressive, de sorte que nous avons commencé à diminuer les corticostéroïdes. Nous avons également suspendu la ciprofloxacine et indiqué un traitement antibiotique empirique à base de pipéracilline-tazobactam. Lors de l'admission, nous avons prescrit une alimentation parentérale totale.
+
+Évolution :
+Le patient évolue favorablement, ce qui permet d'initier une tolérance orale, en passant progressivement au traitement par voie orale. Après environ 30 jours d'hospitalisation, le patient est sorti.
+La patiente sort de l'essai clinique et ne reçoit plus de traitement adjuvant. En ambulatoire, elle poursuit la diminution progressive des corticoïdes jusqu'à leur arrêt définitif.
+Actuellement suivie, ECOG 0, sans aucun signe de maladie oncologique ou de séquelles de toxicité.

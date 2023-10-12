@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 35 ans, pas d'antécédents médicaux intéressants, fumeuse de 20 cigarettes par jour depuis l'âge de 17 ans, fracture traumatique du tibia et du péroné résolue par ostéosynthèse en 2000.
+
+La patiente s'est présentée aux urgences en novembre 2014, signalant une lombalgie d'intensité modérée, avec irradiation à la face antérieure de la cuisse gauche, de caractéristiques mécaniques, qui a débuté au travail après un effort physique. Elle rapporte que depuis une semaine, la douleur est très intense, avec des difficultés à se déplacer et à s'endormir ; elle ne cède pas au repos et est exacerbée par les mouvements actifs du membre inférieur gauche.
+
+Un traitement a été prescrit avec 500 mg de paracétamol toutes les 8 heures, 25 mg de desketoprofen toutes les 8 heures et 50 mg de tramadol toutes les 12 heures, avec une atténuation partielle de la douleur et des visites répétées au service des urgences. La douleur est réapparue avec une plus grande impotence fonctionnelle et des difficultés à se déplacer, ce qui l'a amenée à consulter un traumatologue.
+
+Examen physique
+ECOG : 0. Conscience et orientation adéquates. Bonne hydratation et perfusion. Bonne coloration de la peau et des muqueuses. Bon état général. Pouls périphériques présents et symétriques. Pas d'œdème. Pas de signes de thrombose veineuse profonde. Douleur à la pression du doigt au niveau de l'épine sacrée et douleur à la rotation de la hanche gauche et à l'élévation de la jambe gauche à 30º. Glasgow 15/15. Pas de signes de focalité neurologique ni de signes méningés. Le reste de l'examen physique ne révèle rien de pertinent.
+
+Examens complémentaires
+Un examen d'imagerie est demandé avec un scanner de la colonne lombo-sacrée qui est complété par une IRM, où l'on identifie une tumeur lytique étendue de 106 x 60 x 100 mm qui détruit complètement le sacrum dans toute son extension et qui est accompagnée d'une masse de tissu mou vers l'espace présacré avec une déviation vers le côté gauche, occupant l'échancrure sciatique, avec un signal fondamentalement hypointense dans les séquences pondérées en T1 et T2, avec des zones hyperintenses bien définies à l'intérieur, qui ne correspondent pas aux calcifications de la tomodensitométrie et de la radiographie précédentes, suggérant des zones de dégénérescence kystique ou de nécrose. nécrose.
+
+Compte tenu des données épidémiologiques connues (jeune femme de 35 ans) et des données radiologiques (lésion lytique centrée sur le sacrum avec un aspect expansif), les possibilités diagnostiques sont le lymphome, le chordome, le plasmocytome, voire la métastase, cette dernière étant moins probable compte tenu de l'âge et de l'absence de primitif connu.
+
+Une étude d'extension a été réalisée à l'aide d'un scanner corporel et d'une mammographie, sans qu'aucun signe de maladie à distance ou d'autre origine tumorale primaire n'ait été décelé.
+
+Diagnostic
+Une biopsie percutanée guidée par tomodensitométrie a été réalisée et le diagnostic anatopathologique final a été celui d'une tumeur osseuse à cellules géantes de type conventionnel. On observe une prolifération cellulaire composée de nombreuses cellules géantes multinucléées et de cellules uniques d'habitus plasmacytoïde, avec un noyau excentré, irrégulier et hyperchromatique. Un fin maillage de tissu ostéoïde est identifié entre les cellules. Les cellules sont fortement positives pour la Vimentine et négatives pour CK-7, CK-20, TTF-1, GATA-3 et CD-45. Avec la cytokératine AE1/AE3, une faible coloration de la membrane a été observée. L'indice de prolifération Ki67 est d'environ 10 %.
+
+DIAGNOSTIC : Tumeur osseuse à cellules géantes de stade III.
+
+Traitement
+Le cas a été présenté au comité des tumeurs, qui a exclu toute intervention chirurgicale en raison de la morbidité importante due à la taille et à l'infiltration de la tumeur primaire.
+Le traitement a été indiqué avec le denosumab à une dose de 120 mg administrée par voie sous-cutanée toutes les 4 semaines, avec des doses supplémentaires les jours 8 et 15 du premier cycle de traitement.
+Elle a également reçu une supplémentation en calcium et en vitamine D.
+
+Évolution
+La patiente a reçu cinq administrations sous-cutanées de denosumab, présentant une réponse clinique significative avec un contrôle de la douleur lui permettant de marcher normalement et une réponse radiologique à l'IRM lombo-sacrée avec une diminution de la taille de la masse lytique dans le sacrum avec des zones de sclérose et une diminution de la masse des tissus mous associée. Le patient est en attente d'une nouvelle évaluation chirurgicale pour un sauvetage chirurgical.

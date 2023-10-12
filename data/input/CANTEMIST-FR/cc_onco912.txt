@@ -1,0 +1,30 @@
+Anamnèse
+Antécédents personnels : énucléation de l'œil droit suite à un traumatisme dans l'enfance, appendicectomie.
+Antécédents familiaux : pas d'antécédents familiaux. Une patiente de 55 ans s'est présentée au service des urgences en janvier 2013 en raison d'une anurie après l'expulsion de caillots et de débris hématiques. Elle signale une perte de poids d'origine non identifiée, ainsi qu'un manque d'appétit et une asthénie depuis septembre 2012, pour lesquels elle n'a pas consulté de médecin.
+
+Examen physique
+Abdomen douloureux à la palpation de l'hypogastre, pas de signes d'irritation péritonéale, pas de masses ni de mégalithes, percussion bilatérale du poing rénal négative. Sensation de maladie.
+Un sondage urinaire a été effectué au service des urgences avec expulsion des urines dans l'eau de lavage des viandes.
+
+Examens complémentaires
+Des analyses sanguines et une échographie rénale ont été réalisées :
+"Bilan sanguin : hémoglobine 6,8 g/dl, créatinine 2,5 mg/dl, protéine C-réactive : 24,7 mg/l.
+"Echographie rénale : rein gauche hypertrophié et déstructuré en raison d'une masse au niveau du sinus rénal mesurant environ 93 x 54 x 70 mm, hétérogène et mal définie, suggérant un carcinome à cellules rénales comme première possibilité.
+L'étude d'extension a été complétée par une tomodensitométrie (CT) et une imagerie par résonance magnétique (IRM), qui ont montré un thrombus dans la veine cave et une confirmation de la masse rénale, sans preuve de maladie à distance.
+
+Diagnostic
+Le 22/01/2013, une néphrectomie radicale gauche avec lymphadénectomie, cavotomie et ablation d'un thrombus dans la veine cave a été réalisée.
+L'étude anatomopathologique a montré une tumeur rénale, variante histologique, à cellules claires pT3aN0M0 (stade III) avec infiltration des vaisseaux. Le grade nucléaire de Furhman est le système de classification histologique le plus largement accepté pour le cancer du rein et est considéré comme un facteur pronostique indépendant. L'étude histologique a montré un grade Furhman 4. Le patient n'était pas candidat à une néphrectomie partielle car le diamètre était supérieur à 70 mm et il y avait une atteinte vasculaire. Selon l'échelle SSIGN (incluse dans le guide du cancer du rein de la Société européenne d'oncologie) risque élevé (Pt3a, pN0, >10 cm, G4 Furhmann, sans nécrose).
+
+Traitement
+Adressé à l'oncologie pour évaluation en février 2013, on lui a proposé de participer à un essai clinique adjuvant avec le pazopanib, mais le patient a refusé, de même que tout autre traitement ou examen par l'oncologie. Le suivi par l'urologie a commencé.
+En mars 2013, un scanner thoracique de réévaluation a révélé une lymphadénopathie rétropéritonéale, une ascite périhépatique et périsplénique et une ascite entre les anses. La maladie étant considérée comme inopérable, il commence un traitement au Sunitinib 50 mg sur un calendrier de 4 semaines suivi de 2 semaines de repos (calendrier 4:2). Il commence un cycle toutes les 6 semaines.
+
+L'évolution
+La patiente a très bien répondu au traitement. On observe une diminution de la taille des adénopathies lors des visites de réévaluation jusqu'à ce que, en mai 2014, elles ne soient plus observées dans les examens d'imagerie, de même que l'ascite et le liquide abdominal libre. Le patient tolère bien le traitement. La toxicité consiste en une diarrhée de grade 1, une mucosite de grade 1 et des changements de couleur de cheveux.
+En raison de la stabilité de la maladie et de la bonne tolérance, en octobre 2014, après 21 mois de sunitinib, la dose est réduite à 37,5 mg selon un calendrier de traitement de 2 semaines suivi d'une semaine de repos (calendrier 2:1). La toxicité de grade 1 a pratiquement disparu avec la réduction de la dose.
+En juin 2015, après une tomographie par émission de positons (PET-CT) sans signe de maladie, une pause thérapeutique est proposée avec des contrôles tous les 2 mois. Il reste indemne jusqu'en février 2016, où la tomodensitométrie montre une structure nodulaire para-aortique gauche d'environ 8 mm, qui augmente jusqu'à 12 mm lors des examens d'imagerie suivants. Il s'agissait d'une hypertrophie de la circulation veineuse secondaire à une thrombose de la veine cave.
+Il est décidé de surveiller la structure, et un PET-CT est réalisé en juillet 2016 : par rapport à l'étude du 1/6/2015, un nouveau foyer hypermétabolique est visualisé, qui correspond au scanner à un conglomérat adénopathique rétropéritonéal précaval à forte captation (standard uptake value [SUV] 7,31).
+Il a recommencé à prendre 50 mg de Sunitinib selon un schéma 4:2 après un intervalle sans maladie de 11 mois. En octobre 2016, 2,5 mois de traitement se sont écoulés. Le patient a manifesté une mucite, une asthénie, une diarrhée et un syndrome main-pied de grade 1, mais qui ont globalement eu un impact sur la qualité de vie. Le patient est photographe de profession et la qualité de son travail a été affectée par la toxicité du traitement (photos qui ne transmettent que de la tristesse, aura morose). Compte tenu de la faible charge de la maladie, il a été considéré que la qualité de vie était primordiale, et le sunitinib 37,5mg a donc été prescrit selon un schéma 2:1.
+En novembre 2016, le patient n'a plus signalé de toxicité d'aucune sorte et a repris une vie normale. Sur le PET-CT scan de contrôle, le conglomérat adénopathique rétropéritonéal précaire persiste, bien qu'avec une captation moins intense (SUV 5,72, SUV précédent 7,3). Réponse partielle au sunitinib. Dans le reste de l'étude, aucun autre foyer hypermétabolique suggérant une atteinte tumorale macroscopique n'a été observé.
+Le patient continue à prendre du sunitinib 2:1 avec des contrôles tous les 1,5-2 mois à ce jour, avec une maladie néoplasique stable.

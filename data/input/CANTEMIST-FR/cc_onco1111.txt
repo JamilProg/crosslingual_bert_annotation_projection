@@ -1,0 +1,46 @@
+Anamnèse
+La patiente est une femme de 40 ans, sans antécédents pertinents, malade depuis un mois, caractérisée par un œdème orofacial et une légère difficulté respiratoire. Elle signale qu'on lui a prescrit des corticostéroïdes intramusculaires dans son centre de santé, mais qu'en l'absence d'amélioration, elle a décidé de se rendre au service des urgences. Comme elle ne présentait pas de dyspnée ni de stridor, la patiente a été renvoyée avec un diagnostic d'angiodème. Un traitement à base de corticostéroïdes a été prescrit et la patiente a été adressée au service ambulatoire d'allergologie.
+La patiente a poursuivi le même traitement, constatant une amélioration partielle ; cependant, à l'arrêt du traitement, l'œdème orofacial a de nouveau augmenté et la patiente a même eu des difficultés à respirer.
+Un mois avant son admission, la patiente a noté une augmentation de l'intensité de ses symptômes : dyspnée à l'effort moyen et intolérance au décubitus ; elle a également signalé une dysphagie.
+Elle nie avoir eu de la fièvre ou une perte de poids (elle déclare avoir pris du poids depuis le début du traitement par corticoïdes). Elle a également signalé des sueurs abondantes, principalement la nuit.
+En raison de la persistance des symptômes, elle a décidé de revenir au service des urgences.
+
+Examen physique
+État général acceptable, conscient, orienté dans les trois sphères, coopératif. Eupnéique, saturation à 99% sans apport d'oxygène. Peau : circulation collatérale au niveau thoracique antérieur. ACP : cœur rythmé à 80 battements par minute, pas de souffle. Oedème de l'esclave. Pas de ganglions cervicaux ou sus-claviculaires palpables. Bon murmure vésiculaire bilatéral. Abdomen avec bruits présents, mou, dépressible, non douloureux à la palpation, pas de masses.
+Membres inférieurs avec pouls symétriques et absence d'œdème.
+
+Examens complémentaires
+- Une numération sanguine complète et une biochimie ont été demandées au service des urgences et n'ont pas révélé de résultats significatifs, à l'exception de la CRP : 458 mg/dl. Alpha-fœtoprotéine 2,4 ng/ml (0,1-10). B-HCG < 2 mUI/ml (0-5). Bêta-2-microglobuline 1,57 mg/l (0,1-3). Hépatite B et C négative.
+- Radiographie thoracique (17/9/2013) : faisceau adénopathique parahilaire droit (lymphome probable).
+- Tomodensitométrie thoracique avec contraste (17/9/2013) : épanchement pleural droit minime. Masse dans le médiastin supérieur provoquant une compression extrinsèque de la veine cave inférieure. Diamètre approximatif de 8 cm dans l'axe transversal, 6 cm en oblique craniocaudale et 3,5 cm dans l'axe antéropostérieur. Un processus lymphoprolifératif doit être exclu en première intention.
+- PET-CT scan du thorax et de l'abdomen (23/9/2013) : masse hypermétabolique dans le médiastin antérieur et supérieur, qui touche le sternum et les structures vasculaires médiastinales (on ne peut pas exclure leur atteinte), avec atteinte des plans musculaires adjacents au sternum, s'étendant jusqu'à la région du hile pulmonaire droit et sans pouvoir exclure une atteinte de la plèvre/péricarde. Adénopathie para-œsophagienne hypermétabolique. Epanchement pleural gauche. Le reste de l'étude n'a pas permis de trouver de signes évocateurs de malignité chez le patient étudié en raison du syndrome de la veine cave supérieure et de la suspicion d'un processus lymphoprolifératif.
+- Biopsie peropératoire : lymphome B non hodgkinien à grandes cellules avec sclérose. L'étude immunohistochimique montre une expression forte et généralisée de CD20, une expression focale de CD23 et un index de prolifération élevé (60%) dans les cellules néoplasiques. Ces mêmes cellules sont négatives pour CD3, CD5, CD10, BCL6, BCL2, CD30, MUM1 et Tdt.
+Bien que très évocateur, tant sur le plan clinique qu'histopathologique, d'un lymphome B médiastinal primaire, ce diagnostic nécessite l'absence initiale d'atteinte d'autres territoires ganglionnaires et de la moelle osseuse.
+- Biopsie de la moelle osseuse : absence d'infiltration néoplasique.
+
+Diagnostic
+Syndrome de la veine cave supérieure.
+Lymphome B non hodgkinien à grandes cellules avec sclérose.
+
+Traitement
+Comme mesures générales, l'élévation de la tête du lit et l'oxygénothérapie en fonction de la dyspnée ont été indiquées. Des diurétiques et 4 mg de dexaméthasone toutes les 6 heures ont également été prescrits.
+Au stade avancé, il est suggéré de commencer par 8 cycles de R-CHOP suivis d'une radiothérapie chez les patients présentant une masse volumineuse et dont la maladie est limitée au thoraxx1.
+Notre patiente présentait un épanchement pleural droit, c'est pourquoi elle a été considérée comme étant à un stade avancé.
+Un traitement par R-CHOP (8 cycles) a été débuté le 4/10/2013 : rituximab 375 mg/m2, cyclophosphamide 750 mg/m2, adriamycine 50 mg/m2 et vincristine 1,4 mg/m2 et prednisone orale 100 mg. Il a été programmé pour une radiothérapie supplémentaire.
+
+Évolution
+Lors de son admission, la patiente a évolué favorablement, montrant une amélioration significative après le début du traitement.
+Elle était en bon état général, eupnéique, asymptomatique en ce qui concerne le syndrome de la veine cave supérieure et sans toxicité initiale. Elle est sortie de l'hôpital et a continué à fréquenter la clinique externe, où des examens d'imagerie ont été demandés.
+- Tomodensitométrie du thorax, de l'abdomen et du bassin (8/1/2014) :
+Diminution significative de la taille de la masse médiastinale mentionnée dans l'étude précédente.
+La veine cave supérieure est suffisamment distendue.
+Il n'y a pas d'évidence de masse hilaire droite.
+Dans les deux aisselles, il y a de petites adénopathies avec un hile graisseux central qui ne semblent pas être néoplasiques.
+Il n'y a pas de trace de liquide intra-abdominal libre.
+Aucune lésion annexielle n'a été identifiée.
+En résumé, les résultats sont compatibles avec une réponse radiologique favorable.
+- Scanner PET-CT du thorax et de l'abdomen (6/5/2014) :
+Comparaison avec l'étude réalisée en septembre 2013.
+Le dépôt pathologique du radiopharmaceutique décrit dans l'étude précédente, principalement localisé dans les compartiments antérieur et postérieur du médiastin, a disparu, sans dépôt pathologique du radiopharmaceutique à cet endroit ou au niveau d'autres stations ganglionnaires supra- ou infradiaphragmatiques.
+Dans le reste du corps, aucune altération de la distribution physiologique du radiopharmaceutique n'a été observée, ni d'autres accumulations localisées pouvant correspondre à des lésions focales, compatibles avec une pathologie oncologique.
+Résumé : étude montrant une réponse métabolique complète chez un patient atteint d'un lymphome diffus à grandes cellules B.

@@ -1,0 +1,18 @@
+T1	pathologie 371 390	traumatismo peneano
+T2	pathologie 729 761	priapismo de prolongada duración
+T3	pathologie 815 838	priapismo de alto flujo
+T4	pathologie 956 999	daño irreversible en los cuerpos cavernosos
+T5	pathologie 2068 2095	síndrome mieloproliferativo
+T6	pathologie 2156 2181	leucemia mieloide crónica
+T7	pathologie 2321 2344	enfermedad hematológica
+T8	pathologie 2380 2389	priapismo
+T9	pathologie 2423 2448	leucemia mieloide crónica
+#1	SNOMED T2	6273006
+#2	SNOMED T5	425333006
+#3	SNOMED T1	110015006
+#4	SNOMED T3	441545004
+#5	SNOMED T6	92818009
+#6	SNOMED T8	6273006
+#7	SNOMED T4	128543007
+#8	SNOMED T9	92818009
+#9	SNOMED T7	34093004

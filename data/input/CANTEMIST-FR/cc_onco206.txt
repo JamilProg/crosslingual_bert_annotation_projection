@@ -1,0 +1,29 @@
+Anamnèse
+Patient de 21 ans ayant subi une herniorraphie inguinale bilatérale. Pas d'antécédents familiaux de cancer, d'habitudes toxiques ou d'allergies médicamenteuses connues.
+En novembre 2013, il s'est rendu aux urgences pour un tableau clinique composé de céphalées frontopariétales, prédominant le matin, de photophobie, de vertiges et de nausées.
+
+Examen physique
+Le patient était conscient et orienté, avec une échelle de coma de Glasgow de 15, des pupilles isochores et normoréactives, des nerfs crâniens non lésés, pas de troubles visuels, pas de troubles moteurs longs. Hoffman bilatéral positif avec hyperréflexie généralisée à prédominance gauche. Il présente un clonus gauche inépuisable et un clonus droit épuisable. Réflexe cutanéo-plantaire bilatéral indifférent. On a observé une dysdiadochokinésie avec une légère dysarthrie et une instabilité de la démarche à gauche.
+
+Examens complémentaires
+"IRM urgente : masse de 5,4 x 4,3 x 4,2 cm de diamètre (AP x T x L) située au centre de la fosse postérieure, avec oblitération importante du quatrième ventricule et hydrocéphalie triventriculaire réactive.
+"Ponction lombaire avec cytologie du liquide céphalorachidien : négative pour la maladie tumorale.
+"IRM de contrôle post-chirurgicale : pas d'images suggérant une récidive tumorale.
+
+Diagnostic
+Médulloblastome de grade IV du vermis cérébelleux.
+
+Traitement
+Une résection urgente de la lésion a été effectuée. Le résultat anatomopathologique de l'échantillon était le suivant : médulloblastome de grade IV avec ki-67 positif dans 90 % des cellules et indice de prolifération cellulaire élevé.
+Après discussion du cas au sein du comité des tumeurs du système nerveux, il a été décidé d'instituer un traitement par chimiothérapie et radiothérapie concomitantes, suivi d'une chimiothérapie d'entretien.
+Le traitement a été administré comme suit : entre janvier et mars 2014, il a reçu une radiothérapie du neuroaxe (36 Gy) et de la fosse postérieure (54 Gy) concomitante à sept cycles de vincristine (1,5 mg/m2).
+
+Évolution
+Pendant le traitement, le patient a présenté une toxicité modérée consistant en une asthénie de grade 3, des vomissements de grade 3 et une neutropénie de grade 2. En raison d'une mauvaise tolérance au traitement, le patient a décidé de ne pas poursuivre la chimiothérapie d'entretien.
+Une IRM de suivi du cerveau après le traitement adjuvant n'a montré aucun signe de néoplasie.
+Au cours du suivi (novembre 2014), la patiente a manifesté de fortes douleurs lombaires irradiant vers les extrémités inférieures, pour lesquelles les examens complémentaires suivants ont été réalisés :
+" PET-CT scan : captation osseuse le long de toute la colonne vertébrale et du tiers proximal des deux humérus et fémurs, avec SUV max. jusqu'à 6,8.
+"Réévaluation de l'IRM cérébrale : modifications post-chirurgicales du cervelet droit, sans signe de récidive tumorale locale.
+"Examens de laboratoire : thrombopénie persistante de grade 4.
+On lui a diagnostiqué une récidive à distance et il a donc commencé un traitement de chimiothérapie palliative avec 80 mg/m2 de cisplatine le premier jour et 100 mg/m2 d'étoposide les premier et troisième jours. Après le premier cycle de chimiothérapie, la thrombopénie s'est améliorée et s'est normalisée après le deuxième cycle. Elle a terminé le traitement avec cinq cycles de chimiothérapie, avec une bonne tolérance.
+Pour l'étude de réévaluation, un PET scan a été demandé, qui a montré une réponse complète des lésions. Elle n'a plus de maladie et ses hémogrammes sont restés stables à ce jour.

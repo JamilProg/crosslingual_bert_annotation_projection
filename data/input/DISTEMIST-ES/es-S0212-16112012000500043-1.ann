@@ -1,0 +1,22 @@
+T1	pathologie 98 122	Enfermedades Metabólicas
+T2	pathologie 175 196	enfermedad metabólica
+T3	pathologie 256 268	microcefalia
+T4	pathologie 271 292	retraso mental severo
+T5	pathologie 346 367	malformación cardiaca
+T6	pathologie 725 753	retraso mental leve-moderado
+T7	pathologie 1158 1161	PKU
+T8	pathologie 1220 1264	trastornos en el metabolismo de las pterinas
+T9	pathologie 1497 1511	Fenilcetonuria
+T10	pathologie 1678 1681	PKU
+T11	pathologie 2609 2612	PKU
+#1	SNOMED T9	7573000
+#2	SNOMED T1	75934005
+#3	SNOMED T2	75934005
+#4	SNOMED T10	7573000
+#5	SNOMED T3	1829003
+#6	SNOMED T4	40700009
+#7	SNOMED T7	7573000
+#8	SNOMED T5	128599005
+#9	SNOMED T8	68724006
+#10	SNOMED T11	7573000
+#11	SNOMED T6	61152003

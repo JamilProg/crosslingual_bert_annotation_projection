@@ -1,0 +1,30 @@
+Anamnèse
+Homme, 63 ans :
+- Aucune allergie médicamenteuse connue.
+- Habitudes toxiques : fumeur de 3 paquets/jour, buveur occasionnel.
+- Célibataire, vit seul.
+- HISTORIQUE ONCOLOGIQUE : diagnostiqué en juin 2015 pour une maladie carcinomateuse microcytaire étendue avec masse hilaire droite, adénopathies médiastinales, hilaires, supraclaviculaires et multiples lésions cérébrales occupant l'espace (LOES). Il a reçu une radiothérapie holocrânienne et a commencé une chimiothérapie selon le schéma Cisplatine-Etoposide.
+Au jour +7 du troisième cycle, elle s'est présentée aux urgences pour une douleur thoracique irradiant vers le membre supérieur droit (TMS) avec des caractéristiques pleurales associées à une dyspnée accrue et une toux d'une semaine d'évolution.
+
+Examen physique
+Pendant son séjour aux urgences, le patient est resté tachypnéique, tachycarde, normotendu et, à l'auscultation pulmonaire, il présentait une hypoventilation marquée de l'hémithorax droit.
+
+Tests complémentaires
+Les examens de laboratoire ont montré : une anémie légère avec un profil normocytaire normochrome, une leucocytose avec neutrophilie et des réactifs de phase aiguë élevés. La gazométrie indique une situation d'hypoxémie.
+La radiographie thoracique a montré une image compatible avec un hydropneumothorax droit.
+Compte tenu de ces résultats, il a été admis dans le service d'oncologie médicale.
+
+Diagnostic
+Jugement clinique : hydropneumothorax droit d'étiologie bactérienne probable chez un patient soumis à un traitement QT pour un carcinome microcytaire étendu du poumon.
+
+Traitement
+Dans le service, une oxygénothérapie, une antibiothérapie empirique et une analgésie de première intention ont été mises en place.
+En outre, une ponction pleurale guidée par tomodensitométrie a été effectuée et un tube de drainage pleural a été mis en place avec une nette amélioration des symptômes. Un liquide de couleur laiteuse de 1 000 cm3 a été drainé et des cultures du liquide pleural ont été demandées.
+
+Évolution
+Au cours de l'admission, toutes les cultures du liquide pleural étaient négatives. En raison de l'aspect du liquide pleural, un processus compatible avec un chylothorax spontané a été suspecté, de sorte que la biochimie du liquide pleural a été demandée, avec des triglycérides de 126 mg/dl.
+Compte tenu du diagnostic de chylothorax spontané, un scanner de réévaluation a été demandé, montrant une diminution marquée de la maladie tumorale, ce qui a conduit à suspecter que le canal lymphatique thoracique s'était probablement rompu dans le contexte de la bonne réponse au traitement.
+La perte évidente de protéines et de graisses par le tube de drainage, accompagnée d'un œdème généralisé marqué et évoluant rapidement, a nécessité d'adapter l'alimentation de la patiente en éliminant toutes les graisses du régime et en complétant avec des triglycérides à chaîne moyenne, car ils sont absorbés directement par l'intestin et ne passent pas par le système lymphatique.
+Compte tenu de la situation, de la bonne réponse du processus oncologique et de la persistance des symptômes, la radiologie interventionnelle a été consultée et il a été décidé de réaliser une lymphographie pelvienne avec l'intention d'emboliser le canal thoracique. Une ponction des ganglions lymphatiques inguinaux a été réalisée avec injection de lipiodol jusqu'à ce qu'un remplissage bilatéral du canal lymphatique soit observé. Par la suite, une embolisation du canal lymphatique thoracique a été tentée, mais sans succès en raison de la mauvaise tolérance du patient.
+Après cette intervention, le débit de drainage a commencé à diminuer jusqu'à disparaître, et le tube de drainage a été retiré.
+Le patient est sorti de l'hôpital avec une situation clinique acceptable et a poursuivi son traitement QT en ambulatoire. Il est décédé un an plus tard en raison de la progression de sa maladie sous-jacente.

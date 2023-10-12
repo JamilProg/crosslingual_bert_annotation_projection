@@ -1,0 +1,8 @@
+T1	pathologie 108 120	visión doble
+T2	pathologie 123 139	ptosis palpebral
+T3	pathologie 428 434	ptosis
+T4	pathologie 914 945	oclusión de la arteria temporal
+#1	SNOMED T1	24982008
+#2	SNOMED T2	11934000
+#3	SNOMED T3	11934000
+#4	SNOMED T4	2929001

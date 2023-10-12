@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 43 ans, sans antécédents personnels intéressants, préménopausée au moment du diagnostic, qui, après une mammographie de contrôle, a présenté un carcinome canalaire infiltrant luminal A de 5,5 mm avec atteinte des ganglions lymphatiques.
+
+Examen physique
+Examen des seins : le sein droit ne présente aucune altération et le sein gauche présente un hématome qui se résorbe.
+Le reste est sans intérêt.
+
+Examens complémentaires
+" Mammographie/échographie (17/3/2015) : sein diffus de haute densité avec kystes bilatéraux.
+Nodule axillaire droit aux limites mal définies hypoéchogène à l'échographie d'environ 7 mm, palpable, catégorie 4C du BIRADS.
+" IRM mammaire (13/4/2015) : le carcinome dans la région axillaire droite correspond à un foyer de 7 mm avec des courbures de type III (catégorie 6 du BIRADS). Dans le sein droit, de multiples foyers sont identifiés dans le contexte du schéma de rehaussement du fond avec des courbes de type I. Dans le CSE, il y a deux foyers avec des courbes de type II et III qui, à l'échographie dirigée, peuvent correspondre à deux nodules de 5 et 6 mm (catégorie 4A de BIRADS). Pas d'adénopathie dans la chaîne mammaire interne.
+" Biopsie de la lésion (17/3/2015) : carcinome canalaire infiltrant G1, Ki-67 5 %, RP > 66 % SCORE 8, RE > 66 % SCORE 8, Her-2 1+.
+"FNA de l'aisselle droite (17/3/2015) : carcinome.
+
+Diagnostic
+Le 22/4/2015, une excision radioguidée et une biopsie du ganglion sentinelle ont été réalisées, révélant un carcinome canalaire infiltrant de 5,5 mm, de grade histologique 1, avec 1/5 ganglions lymphatiques atteints de macrométastases ; il s'agit donc d'un stade I pT1A pN1A.
+
+Traitement
+Compte tenu de la présence d'une atteinte ganglionnaire, il a été décidé d'entamer un traitement par chimiothérapie selon le schéma TC X 6 (en cours), qui sera suivi d'une radiothérapie et d'une hormonothérapie.
+
+Pour une meilleure stadification de la tumeur, la PAM 50 (ROR 26) est demandée.
+
+L'évolution
+Le patient en est au deuxième cycle de chimiothérapie, avec une bonne tolérance.

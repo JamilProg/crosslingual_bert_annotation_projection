@@ -1,0 +1,12 @@
+T1	pathologie 267 273	lesión
+T2	pathologie 363 374	Ureterocele
+T3	pathologie 428 447	dilatación urinaria
+T4	pathologie 515 521	lesión
+T5	pathologie 554 581	quiste parauretral de Skene
+T6	pathologie 648 654	lesión
+#1	SNOMED T2	12818004
+#2	SNOMED T5	717706003
+#3	SNOMED T1	417163006
+#4	SNOMED T4	417163006
+#5	SNOMED T6	417163006
+#6	SNOMED T3	249273002

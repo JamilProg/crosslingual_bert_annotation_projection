@@ -1,0 +1,24 @@
+Anamnèse
+Un homme de 40 ans, sans antécédents personnels intéressants, jamais fumeur et sans critères de bronchite chronique, a commencé une étude en pneumologie après avoir présenté des symptômes catarrhaux de résolution lente d'une évolution de 3 mois. Aucun syndrome constitutionnel ne l'accompagnait. Le service de soins primaires a demandé une radiographie du thorax (CXR) et, compte tenu des résultats de l'élargissement médiastinal, il a été référé au service de pneumologie de notre hôpital.
+
+Examen physique
+L'état hémodynamique du patient est stable, avec une saturation en oxygène de 98 %. Son état général est bon. Vigilant, orienté et coopératif. Non hydraté, normohydraté, normoperfusé et normo-coloré. Eupnéique au repos. Pas d'adénopathies périphériques palpables. Auscultation cardiaque : rythmée, sans souffle. Auscultation pulmonaire : murmure vésiculaire conservé avec quelques rhonchies éparses.
+Abdomen : globuleux, mou, dépressible, non douloureux à la palpation, pas de masses ou de mégalithes palpables, pas de signes d'irritation péritonéale. Aux membres inférieurs, il n'y a pas d'œdème ni de signes de thrombose veineuse profonde, les pouls pédiatriques sont présents et symétriques.
+
+Tests complémentaires
+À l'admission, il n'y avait pas d'altérations analytiques significatives. La radiographie thoracique a montré un élargissement médiastinal dans le contexte probable d'un conglomérat adénopathique. Une tomodensitométrie thoraco-abdominale a été demandée (10.04.15) et a révélé de multiples adénopathies médiastinales pathologiques dans l'espace prévasculaire, l'espace paratrachéal droit, la fenêtre aortopulmonaire et le conglomérat adénopathique sous-carinal, les plus grandes mesurant 8 cm (conglomérat sous-carinal) et 3,8 cm (fenêtre aortopulmonaire).
+Nodule pulmonaire solide, lobulé et bien circonscrit de 2,4 cm, situé dans la lingula, paracardiaque et en contact avec le péricarde. Aucune autre altération abdominale.
+Une bronchofibroscopie a été demandée et a permis de visualiser l'atteinte de l'arbre bronchique gauche. Des biopsies ont été réalisées et se sont révélées compatibles avec un cancer du poumon non à petites cellules, avec une immunohistochimie positive pour le TTF-1 et négative pour la p40, compatible avec une histologie d'adénocarcinome.
+L'étude a été complétée par un PET-CT scan (20.04.15) qui a suggéré une atteinte tumorale dans le lobe supérieur gauche et au niveau des ganglions lymphatiques (sus-claviculaire droit, médiastin, hile pulmonaire gauche).
+
+Diagnostic
+Diagnostiqué avec un adénocarcinome pulmonaire de stade IV, il a été adressé au service d'oncologie médicale.
+
+Traitement
+Le patient est évalué dans nos cliniques et, compte tenu de ses caractéristiques cliniques (jeune patient, jamais fumeur) et des caractéristiques histologiques de la tumeur (adénocarcinome), il est essentiel de déterminer les altérations moléculaires (EGFR, ALK) afin de décider d'une stratégie thérapeutique. L'échantillon disponible n'étant pas suffisant, une médiastinoscopie et une évaluation dans un hôpital de Madrid ont été demandées afin d'évaluer, en fonction des résultats, la possibilité d'inclusion dans un essai clinique.
+
+Évolution
+Dans l'attente de ce test pour un diagnostic moléculaire définitif, l'état général du patient s'est aggravé, avec une dyspnée au repos, une toux intense et de la fièvre, et il s'est rendu au service des urgences où une thromboembolie pulmonaire bilatérale massive a été détectée. Il a été admis dans le service de pneumologie et a commencé un traitement à l'héparine de faible poids moléculaire avec une amélioration progressive.
+Enfin, les résultats de la médiastinoscopie diagnostique ont été reçus avec des résultats négatifs pour l'EGFR, négatifs pour l'ALK et positifs pour ROS-1. Au vu de ces résultats et des preuves scientifiques disponibles, il a finalement été décidé de commencer un traitement dans notre hôpital avec du crizotinib oral, 250 mg toutes les 12 heures, demandé sur la base d'un usage compassionnel, à partir du 10 juin 15.
+Le patient a connu une amélioration clinique progressive avec peu de toxicité. La première réévaluation par tomodensitométrie thoraco-abdominale le 25.08.15 a montré une diminution significative de l'atteinte des ganglions lymphatiques médiastinaux et du nodule situé dans la lingula, paracardiaque. Le dernier test de réévaluation demandé, le PET-CT scan du 10.02.16, n'a révélé aucun foyer hypermétabolique ni aucune lésion suggérant l'existence d'une maladie néoplasique active à quelque niveau que ce soit, c'est-à-dire qu'il s'agit d'une réponse complète.
+La patiente poursuit son traitement jusqu'à ce jour, menant une vie normale et active, asymptomatique, se rendant à nos consultations une fois par mois et ne présentant aucun signe de maladie actuelle au niveau radiologique.

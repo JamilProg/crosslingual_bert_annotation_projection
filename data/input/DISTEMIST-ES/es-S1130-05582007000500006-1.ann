@@ -1,0 +1,14 @@
+T1	pathologie 281 290	infección
+T2	pathologie 334 394	adenopatías palpables en las cadenas ganglionares del cuello
+T3	pathologie 446 451	tumor
+T4	pathologie 688 750	tumor compromete el lóbulo superficial de la glándula parótida
+T5	pathologie 871 907	tumor benigno de glándulas salivales
+T6	pathologie 1003 1008	tumor
+T7	pathologie 1158 1179	mioepitelioma benigno
+#1	SNOMED T7	69291002
+#2	SNOMED T4	126788000
+#3	SNOMED T5	255154009
+#4	SNOMED T2	127086001
+#5	SNOMED T1	40733004
+#6	SNOMED T3	55342001
+#7	SNOMED T6	55342001

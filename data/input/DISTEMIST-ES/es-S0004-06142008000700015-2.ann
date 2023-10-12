@@ -1,0 +1,8 @@
+T1	pathologie 17 24	fumador
+T2	pathologie 328 350	adenopatías inguinales
+T3	pathologie 447 507	trombosis segmentaria de la vena dorsal superficial del pene
+T4	pathologie 560 580	Enfermedad de Mondor
+#1	SNOMED T4	69954004
+#2	SNOMED T2	127199000
+#3	SNOMED T3	76598006
+#4	SNOMED T1	77176002

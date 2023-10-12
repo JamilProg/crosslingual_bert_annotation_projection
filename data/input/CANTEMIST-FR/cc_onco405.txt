@@ -1,0 +1,46 @@
+Anamnèse
+Femme de 78 ans, originaire de Chine, résidant en Espagne depuis 2016, avec les antécédents personnels suivants :
+"Aucune réaction allergique médicamenteuse connue.
+"Facteurs de risque cardiovasculaire : dyslipidémie. Elle n'est ni hypertendue ni diabétique. Pas d'habitudes toxiques.
+" Suivie en néphrologie pour une insuffisance rénale chronique de stade IV d'étiologie non filtrée avec un débit de filtration glomérulaire de 26 ml/m sans microalbuminurie urinaire, en situation de prédialyse.
+"Hyperuricémie
+Traitement habituel : paracétamol 650 mg 1 comprimé toutes les 12 heures, simvastatine 10 mg 0-0-1, calcitriol 0,25 mcg 5 comprimés par semaine, sulfate de ferroglycine 100 mg 1 gélule par jour, allopurinol 100 mg un demi-comprimé par jour, érythropoïétine 2 000 UI une fois par semaine.
+Maladie actuelle : la patiente souffre depuis deux mois d'une toux productive avec expectoration non purulente, d'une dyspnée à l'effort modérée et d'une respiration sifflante. Elle avait déjà été vue deux fois aux urgences pour ce motif, avec un diagnostic de bronchite aiguë avec hyperréactivité bronchique, et était sortie avec un traitement bronchodilatateur et une corticothérapie.
+Elle s'est présentée à nouveau au service des urgences pour ce motif. Elle n'a pas présenté de symptômes cardiologiques, ni de sensation de dysthermie, ni de frissons, ni de température "thermométrique".
+
+Examen physique
+"Tension artérielle 191/97 mm Hg, fréquence cardiaque 91 bpm. Saturation capillaire basale en oxygène de 97 %. Barrière idiopathique, conscient. Bon état général. Bien hydraté et perfusé. Tachypnée au repos à 24 respirations par minute, stridor laryngé.
+"Pharynx : pas d'altération, pas d'exsudats ni d'œdème de la luette.
+"Auscultation cardio-pulmonaire : rhonchi abondant et respiration sifflante dispersée. Bruits cardiaques rythmés, pas de souffle.
+"Abdomen : doux, dépressible, non douloureux à la palpation superficielle ou profonde. Bruits hydro-aériques normaux. Pas de signes d'irritation péritonéale. Pas de masse ou de viscéro-mégalie palpable.
+"Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Tests complémentaires
+Service des urgences 19/01/2019
+Examens de laboratoire : neutrophilie (89,7 % [normalité -N- : 40-75 %]), protéine C-réactive 27,8 (N : <= 5).
+Anémie normochrome normocytaire stable en rapport avec une maladie rénale chronique avec hémoglobine 11 (N : 12-15). Créatinine 2,23 (N : 0,5-1,10), urée 157 (N : 10-50). Pas de coagulopathie, pas d'altérations gazométriques.
+Radiographie du thorax : trachée et voies aériennes avec des zones sténosées similaires aux précédentes, mais sans infiltrats ni consolidations.
+Compte tenu de la sténose observée à la radiographie, une évaluation a été demandée au service ORL, qui a réalisé une fibroscopie et constaté une sténose trachéale.
+Tomodensitométrie cervicothoracique : hypertrophie de la glande thyroïde avec compression extrinsèque et diminution du calibre de la trachée secondaire, ainsi qu'adénopathie pathologique au niveau III à droite, évoquant une néoplasie thyroïdienne.
+Compte tenu des résultats, une évaluation par la chirurgie thoracique a été demandée pour compléter l'étude et le traitement.
+Une thyroïdectomie totale urgente a été réalisée le 20/01/2019, avec des résultats anatomopathologiques : carcinome thyroïdien anaplasique (indifférencié) avec marges chirurgicales des lobes droit et gauche atteintes, invasion périneurale et tissu périthyroïdien présents, mais sans invasion vasculaire. Profil immunohistochimique : thyroglobuline, TTF1+. P63 (+). HBME (+). Stade pathologique pT3Nx.
+
+Diagnostic
+Carcinome thyroïdien anaplasique de stade IVb (pT3NxM0).
+
+Traitement
+Après thyroïdectomie totale en urgence le 20/01/2019, le patient a évolué favorablement. Une fibroscopie de contrôle a été réalisée (07/02/2019) avec visualisation des cordes vocales en position paramédiane, non mobiles, avec un bon espace glottique, mais avec une sténose trachéale.
+
+Evolution
+Malgré la bonne situation clinique initiale, il est admis le 06/03/2019 pour stridor laryngé en rapport avec une récidive locale observée sur un scanner cervical : masse mesurant 36 x 30 x 34 mm ayant englouti la trachée, rétrécissant sa lumière (3,7 x 11 mm) et infiltrant l'œsophage au niveau de la transition pharyngo-œsophagienne ; par ailleurs, persistance d'adénopathies partiellement nécrosées au niveau III à droite, avec apparition d'une adénopathie para-œsophagienne droite et d'une adénopathie paratrachéale droite ; pas de signe de dissémination à distance au scanner thoraco-abdomino-pelvien.
+Une corticothérapie à forte dose et une antibiothérapie empirique ont été instaurées pour couvrir toute composante infectieuse possible, avec un contrôle symptomatique partiel. Différentes options ont été évaluées pour maintenir l'intégrité des voies aériennes, le patient n'étant pas candidat à la trachéotomie en raison de la localisation de la tumeur, ni à l'intubation orotrachéale, compte tenu des possibilités limitées de sevrage. Au vu de cette situation clinique, la patiente a été orientée vers une radiothérapie et le lenvatinib a été demandé comme médicament en situation particulière, avec l'accord de la pharmacie de l'hôpital. Elle a commencé le traitement le 13/03/2019 en l'adaptant à sa fonction rénale (14 mg par jour).
+Les toxicités initiales du traitement comprenaient une diarrhée de grade 1 qui s'est résolue avec du lopéramide à la demande ; une hypertension de grade 3 nécessitant une prise en charge en lien avec la néphrologie, avec un bon contrôle de la pression artérielle avec des médicaments hypotenseurs.
+
+D'autre part, elle a commencé un traitement par radiothérapie à modulation d'intensité (IMRT) le 15/04/2019, en attendant la fin du traitement.
+La patiente a montré une nette amélioration clinique avec une rémission du stridor laryngé et est sortie le 21/03/2019.
+Le 3 avril, elle a été réadmise pour une pneumonie nosocomiale du lobe inférieur gauche avec bactériémie secondaire à Streptococcus pneumoniae multisensible, et est sortie le 12/04/2019.
+Une semaine plus tard, elle a été à nouveau admise pour une réinfection respiratoire d'origine nosocomiale, sans isolement microbiologique, nécessitant une antibiothérapie à large spectre avec désescalade ultérieure.
+Au cours de cette hospitalisation, la patiente a présenté une thrombopénie progressive jusqu'à atteindre le grade 2. On a supposé qu'elle était causée par le lenvatinib (effet de renforcement possible dû à la radiothérapie), en plus d'une mucosite de grade 2. Les deux toxicités ont été corrigées après l'arrêt du traitement.
+D'autre part, la patiente présentait une dysphagie progressive, elle a donc été évaluée par un spécialiste ORL qui a confirmé une dysphagie sévère pour les liquides et une dysphagie légère pour les solides et les textures épaisses, recommandant une étude bariatrique de la déglutition. Au cours de cette étude, la patiente a présenté une bronchoaspiration barytée. Elle a eu besoin d'une antibiothérapie à large spectre qui a permis de résoudre les symptômes. L'étude a été complétée par un scanner cervical et une endoscopie gastro-intestinale supérieure afin d'exclure une éventuelle fistule trachéo-œsophagienne, qui contre-indiquerait la poursuite du traitement. Les deux examens ont permis d'écarter cette complication. Une gastrostomie endoscopique percutanée a été réalisée le 09/05/2019 avec une bonne tolérance à la nutrition entérale.
+Le scanner cervical (14/05/2019) montre une réponse partielle, avec une rémission des adénopathies pathologiques décrites et une diminution de la masse tumorale.
+La patiente évolue progressivement vers l'amélioration, et sort pour terminer le traitement par radiothérapie ambulatoire, avec un projet ultérieur de reprise du lenvatinib.

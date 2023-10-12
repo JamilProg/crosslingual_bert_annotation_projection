@@ -1,0 +1,37 @@
+Anamnèse
+Patiente de 35 ans, sans allergies connues ni comorbidités dignes d'intérêt. Fumeuse de 20 cigarettes par jour.
+Antécédents gynécologiques : ménarche à l'âge de 13 ans, normorhéique, avec des contrôles gynécologiques réguliers dans les limites de la normale.
+Diagnostiquée en août 2012 avec un carcinome squameux du col de l'utérus de stade IIB FIGO, pT2 pN1 M0, traitée par hystérectomie radicale avec préservation des annexes, et traitement adjuvant avec chimiothérapie et radiothérapie concomitantes, qu'elle a terminé sans complications entre janvier et mars 2013, Elle a reçu une dose totale de 45 Gy sur le bassin et la région para-aortique et 6 cycles de cisplatine hebdomadaire concomitante de 40 mg/m2 suivie d'une curiethérapie endocavitaire vaginale HDR (2 fractions de 5,5 Gy) et d'une surpression paramétriale bilatérale pour une dose totale de 60 Gy.
+Elle a nécessité la mise en place d'un cathéter double J droit en raison d'une urétérohydronéphrose post-chirurgicale en janvier 2013 et son retrait en août 2013 en raison d'une gêne secondaire, la cystoscopie rapportant une calcification du cathéter double J.
+Depuis lors, elle a été suivie sans aucun signe de récidive, le dernier examen datant d'octobre 2013, au cours duquel la patiente a fourni un scanner thoraco-abdominal-pelvien qui ne signalait aucune récidive locale ou à distance de la maladie.
+À la mi-octobre 2013, la patiente a présenté un tableau subaigu et torpide de dyspnée d'apparition soudaine au moindre effort, de douleur pleurétique, d'arthromyalgie généralisée et de malaise général.
+
+Examen physique
+À l'examen physique, la patiente présentait un ECOG 2, avec de multiples hématomes généralisés sur le tronc, les membres supérieurs et inférieurs. Elle semblait normohydratée, de couleur normale et bien perfusée.
+Il n'y avait aucun signe de focalité neurologique.
+Les signes vitaux montrent une saturation en oxygène de 91 % à l'air ambiant, une stabilité hémodynamique, une pression artérielle de 120-135/80 mmHg et une fréquence cardiaque de 80-85 bpm, rythmée.
+Au niveau cardiorespiratoire, elle était rythmée, sans souffle audible, tachypnéique, nécessitant des lunettes nasales à 3-41 bpm, ce qui permettait des saturations en oxygène de 100 %. L'auscultation pulmonaire a révélé un murmure vésiculaire préservé, avec une bonne entrée d'air bilatérale.
+L'examen abdominal a révélé un abdomen mou et dépressible, non douloureux, sans signe de péritonisme.
+Le péristaltisme était préservé. Les membres inférieurs présentaient un œdème et de multiples hématomes. Les pouls périphériques étaient présents et symétriques.
+
+Examens complémentaires
+- L'étude a été complétée par une radiographie du thorax, qui n'a montré aucun infiltrat parenchymateux.
+- L'électrocardiogramme montre un rythme sinusal à 50 bpm et une morphologie de bloc de branche droit.
+- La numération formule sanguine montre une hémoglobine à 9,7 g/dl, des plaquettes à 21 700/ml, un TP à 57 %, un INR à 1,54, un TTPA à 35,6 s.
+Fibrinogène 218 mg/dl. Fonction rénale correcte : créatinine 0,8/UI, 44 mg/dl. Diurèse spontanée préservée. Ionogramme : Na+ 143/K+ 3,9 mmol/l.
+- Enfin, une angio-TDM a été réalisée, qui a montré un large défaut de réplétion à l'origine de l'artère pulmonaire avec une dilatation de l'artère pulmonaire. En outre, il y avait un défaut de réplétion intraventriculaire droit attaché à l'apex avec une dilatation significative du ventricule droit et un reflux vers la veine cave inférieure, également dilatée, ainsi que d'autres défauts de réplétion dans les branches segmentaires de l'artère lobaire supérieure gauche et peut-être dans des branches plus distales. De petites zones d'épaississement pulmonaire périphérique bilatéral ont été associées à une embolie pulmonaire.
+- Une échocardiographie transthoracique a été réalisée, montrant des cavités droites dilatées avec un contenu thrombotique abondant, un ventricule droit dévié et un tronc supraventriculaire droit avec une insuffisance tricuspidienne modérée, avec une fonction systolique subjectivement préservée.
+- En raison d'une suspicion de récidive tumorale au niveau cardiaque, l'étude a été complétée par une IRM cardiaque qui a montré un ventricule droit non dilaté avec une hypertrophie pariétale et un important rehaussement tardif sous-endocardique dans les séquences de suppression myocardique, suggérant une pathologie inflammatoire/infiltrative non néoplasique. La fonction systolique globale était préservée (FEVR 57 %). Défauts de réplétion de la voie de sortie du ventricule droit et de la cavité ventriculaire compatibles avec un thrombus intracavitaire. Insuffisance tricuspidienne. Dilatation modérée de l'oreillette droite (31 cm2).
+L'étude a été complétée par la réalisation d'un PET-CT scan qui a montré : ventricule droit occupé par une masse intracavitaire de 65 x 42 x 17 mm, hypermétabolique (SUV maximum de 9,5) s'étendant vers la voie de sortie et vers l'épaisseur des parois antérieures et apicales du ventricule.
+Au niveau pulmonaire : condensations bibasales sous-pleurales de morphologie triangulaire et en verre dépoli dans le lobe supérieur gauche, compatibles avec des infarctus pulmonaires. Une configuration pulmonaire micronodulaire bilatérale de distribution en arbre dans le bourgeon indique un microembolisme pulmonaire et une dissémination par l'artère centrolobulaire.
+
+Diagnostic
+Sur la base des résultats des examens, le diagnostic initial a été celui d'une thromboembolie pulmonaire secondaire à un important thrombus/masse intracardiaque dans le ventricule droit, la voie d'écoulement ventriculaire et l'artère pulmonaire, avec une plaquettopénie sévère secondaire.
+
+Traitement
+Une anticoagulation à l'héparine sodique a été mise en place malgré une thrombopénie sévère et, compte tenu de la forte probabilité de récidive de la tumeur cardiaque, la patiente a assisté à une séance médico-chirurgicale avec l'équipe de cardiologie et de chirurgie cardiaque, et il a été décidé de procéder à une biopsie par cathétérisme.
+
+Évolution
+Avant le test, le patient a présenté une détérioration respiratoire progressive avec dyspnée, tachypnée et insuffisance respiratoire hypercapnique.
+Une intubation orotrachéale et un branchement à la ventilation mécanique ont été effectués avec une détérioration hémodynamique progressive et la suspicion de nouvelles embolies, nécessitant un traitement avec des médicaments vasoactifs (noradrénaline), sans parvenir à une stabilité hémodynamique malgré l'augmentation progressive.
+La chirurgie cardiaque a été prévenue et, compte tenu de la situation du patient, la possibilité d'une thrombectomie émergente au bloc opératoire a été envisagée, en informant la famille du risque chirurgical élevé. La famille a refusé l'opération et le patient est finalement décédé en raison d'un choc réfractaire au soutien vasoactif.

@@ -1,0 +1,22 @@
+T1	pathologie 325 365	ganglios en ambas zonas laterocervicales
+T2	pathologie 516 561	adenopatías en ambas cadenas laterocervicales
+T3	pathologie 661 672	adenopatías
+T4	pathologie 719 724	bocio
+T5	pathologie 915 937	hipergammaglobulinemia
+T6	pathologie 1105 1109	lúes
+T7	pathologie 1502 1513	adenopatías
+T8	pathologie 1739 1793	Linfadenitis necrotizante histiocitaria no linfocítica
+T9	pathologie 1796 1826	Enfermedad de Kikuchi-Fujimoto
+T10	pathologie 2119 2184	tiroiditis subaguda linfocitaria asociada a enfermedad de Kikuchi
+T11	pathologie 2163 2184	enfermedad de Kikuchi
+#1	SNOMED T7	30746006
+#2	SNOMED T2	127087005
+#3	SNOMED T5	127388009
+#4	SNOMED T3	30746006
+#5	SNOMED T4	3716002
+#6	SNOMED T8	127217009
+#7	SNOMED T10	127217009+38727009
+#8	SNOMED T11	127217009
+#9	SNOMED T9	127217009
+#10	SNOMED T6	76272004
+#11	SNOMED T1	127087005

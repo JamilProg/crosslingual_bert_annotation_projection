@@ -1,0 +1,8 @@
+T1	pathologie 117 212	laceración intimal de 7 mm en la aorta torácica después de la salida del tronco braquiocefálico
+T2	pathologie 309 326	hematoma subdural
+T3	pathologie 458 466	lesiones
+T4	pathologie 718 747	rotura traumática de la aorta
+#1	SNOMED T1	312601003
+#2	SNOMED T4	126037009
+#3	SNOMED T2	95453001
+#4	SNOMED T3	157670007

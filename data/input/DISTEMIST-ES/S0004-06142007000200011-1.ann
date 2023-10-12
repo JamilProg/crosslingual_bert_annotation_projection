@@ -1,0 +1,24 @@
+T1	pathologie 21 29	fumadora
+T2	pathologie 49 64	lipoma en muslo
+T3	pathologie 202 223	hipertensión arterial
+T4	pathologie 248 286	a nivel suprarrenal una lesión nodular
+T5	pathologie 348 387	lesión sólida con degeneración quística
+T6	pathologie 410 416	lesión
+T7	pathologie 532 546	feocromocitoma
+T8	pathologie 554 585	adenoma de glándula suprarrenal
+T9	pathologie 737 755	formación quística
+T10	pathologie 900 918	formación quística
+T11	pathologie 1145 1166	Formaciones quísticas
+T12	pathologie 1411 1431	linfangioma quístico
+#1	SNOMED T1	77176002
+#2	SNOMED T2	189002004
+#3	SNOMED T3	38341003
+#4	SNOMED T4	262831009
+#5	SNOMED T5	441457006
+#6	SNOMED T7	302835009
+#7	SNOMED T8	255036008
+#8	SNOMED T9	441457006
+#9	SNOMED T10	441457006
+#10	SNOMED T11	441457006
+#11	SNOMED T12	40225001
+#12	SNOMED T6	417163006

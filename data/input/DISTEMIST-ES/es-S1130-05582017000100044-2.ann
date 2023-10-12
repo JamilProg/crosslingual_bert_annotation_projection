@@ -1,0 +1,24 @@
+T1	pathologie 49 73	paragangliomas múltiples
+T2	pathologie 102 123	paraganglioma yugular
+T3	pathologie 246 265	paraganglioma vagal
+T4	pathologie 283 301	progresión tumoral
+T5	pathologie 329 342	paraganglioma
+T6	pathologie 409 425	parálisis facial
+T7	pathologie 476 483	cofosis
+T8	pathologie 486 534	parálisis de los pares craneales IX, X, XI y XII
+T9	pathologie 605 613	disfagia
+T10	pathologie 615 623	disfonía
+T11	pathologie 954 957	SPM
+T12	pathologie 1151 1159	disfonía
+#1	SNOMED T1	302833002
+#2	SNOMED T2	32037004
+#3	SNOMED T3	253030004
+#4	SNOMED T6	280816001
+#5	SNOMED T7	8531006
+#6	SNOMED T8	827050005+827047007+827048002+307405000
+#7	SNOMED T9	288939007
+#8	SNOMED T10	16617009
+#9	SNOMED T11	NOMAP
+#10	SNOMED T12	16617009
+#11	SNOMED T4	55342001
+#12	SNOMED T5	302833002

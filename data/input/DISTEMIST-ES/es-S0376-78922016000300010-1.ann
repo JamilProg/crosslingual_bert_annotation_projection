@@ -1,0 +1,24 @@
+T1	pathologie 76 139	lesión tumoral recidivante en lado izquierdo de base del cuello
+T2	pathologie 282 294	neurofibroma
+T3	pathologie 425 488	cicatriz queloide retráctil en zona lateral izquierda de cuello
+T4	pathologie 681 687	lesión
+T5	pathologie 1273 1320	compromiso de estructuras vasculares del cuello
+T6	pathologie 1324 1347	extensión intratorácica
+T7	pathologie 1625 1637	neurofibroma
+T8	pathologie 1733 1745	neurofibroma
+T9	pathologie 2377 2383	lesión
+T10	pathologie 3097 3109	neurofibroma
+T11	pathologie 3294 3300	lesión
+T12	pathologie 4103 4125	insuficiencia arterial
+#1	SNOMED T10	404029005
+#2	SNOMED T1	126635000
+#3	SNOMED T2	404029005
+#4	SNOMED T3	33659008
+#5	SNOMED T12	195374003
+#6	SNOMED T4	417163006
+#7	SNOMED T9	417163006
+#8	SNOMED T11	417163006
+#9	SNOMED T7	404029005
+#10	SNOMED T8	404029005
+#11	SNOMED T5	262937009
+#12	SNOMED T6	94207003

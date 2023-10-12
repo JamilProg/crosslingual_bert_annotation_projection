@@ -1,0 +1,14 @@
+T1	pathologie 164 166	DM
+T2	pathologie 362 376	deshidratación
+T3	pathologie 575 590	hiperamilasemia
+T4	pathologie 715 733	pancreatitis aguda
+T5	pathologie 1402 1459	formación polipoidea sésil situada junto al esfínter anal
+T6	pathologie 1526 1550	adenoma velloso de recto
+T7	pathologie 1669 1676	adenoma
+#1	SNOMED T1	73211009
+#2	SNOMED T2	34095006
+#3	SNOMED T3	275739007
+#4	SNOMED T4	197456007
+#5	SNOMED T5	88580009
+#6	SNOMED T6	312823001
+#7	SNOMED T7	443416007

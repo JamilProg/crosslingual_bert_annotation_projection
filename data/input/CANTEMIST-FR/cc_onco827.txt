@@ -1,0 +1,44 @@
+Anamnèse
+Un homme de 33 ans avec des antécédents personnels importants de syndrome de Gorlin.
+Suivi en dermatologie pour de multiples carcinomes basocellulaires jusqu'en 2015, il a été décidé de maintenir le traitement par photothérapie.
+En outre, elle a dû subir de multiples interventions chirurgicales, avec résection de multiples carcinomes basocellulaires qui ne nécessitaient pas de traitement par photothérapie. En 2011, 5 kératocystes ont été réséqués et 3 dents ont été extraites (47, 36 et 24).
+D'autre part, de multiples kystes desmoïdes ont été réséqués dans le dos, au niveau cervical droit, brachial droit et de la main ipsilatérale.
+En février 2016, elle a débuté son suivi en oncologie médicale, compte tenu de l'impossibilité de continuer à traiter les carcinomes basocellulaires par photothérapie.
+Après un premier bilan, un traitement par itraconazole a été débuté en mars 2016, que la patiente a maintenu avec une très bonne tolérance initiale et une réponse clinique jusqu'en avril 2017, date à laquelle une progression a été observée au niveau du visage, des avant-bras et des mains.
+Il est décidé de débuter un traitement par vismodegib à la dose de 150 mg/jour, en réalisant 8 cycles, le dernier le 30/11/2017, avec une réponse très significative tant sur le plan clinique que sur les derniers examens d'imagerie.
+Le patient a consulté le 28/12/2017 en raison d'une douleur symétrique brutale d'évolution de deux jours, prédominant dans la musculature proximale. À l'examen, le patient rapporte que, depuis le mois de septembre, il souffre de crampes et de douleurs musculaires atypiques qu'il n'arrive pas à classer clairement.
+En outre, il signale qu'au cours des dernières 48 heures, il a été accompagné d'une cholurie.
+
+Examen physique
+Conscient, orienté et coopératif. Très anxieux. Eupnéique au repos, saturant à 98% sans besoin d'oxygène supplémentaire.
+A l'inspection, on note des cicatrices d'interventions chirurgicales antérieures sur le visage, le tronc et les membres inférieurs, ainsi que des lésions compatibles avec des lésions basocellulaires sur les mains et le visage.
+Du point de vue cardio-respiratoire, il n'y avait pas d'altération, le cœur était rythmé sans bruit supplémentaire et il y avait un bon murmure vésiculaire dans les poumons.
+En ce qui concerne l'examen neurologique, le patient avait des pupilles isochoriques normoréactives, sans limitation du regard horizontal ni altération des nerfs crâniens.
+Au niveau de l'équilibre musculaire des membres inférieurs, on note une flexion de la hanche de 1/5, une extension du genou de 1/5 avec une flexion adéquate des doigts.
+Au niveau sensoriel, on note une hypoalgésie et une allodynie symétriques dans les deux membres inférieurs, de la racine des cuisses (L1) à la face postérieure des chevilles (S1). Sensibilité profonde préservée.
+Examen des réflexes : met en évidence un clonus achilléen bilatéral, rapidement épuisé. Réflexe de Hoffman négatif.
+Lors de l'examen spécifique des racines sacrées, la patiente a rapporté une hyperalgésie en décubitus dorsal, qui ne s'est pas normalisée en décubitus latéral.
+En outre, un examen rectal a été effectué avec un tonus sphinctérien normal.
+
+Tests complémentaires
+Dans les analyses de laboratoire, la créatine phosphokinase (CPK) s'élevait initialement à 889mU/ml et est tombée par la suite à 337mU/ml, sans autres altérations en termes d'ions, de profil rénal ou de profil hépatique. Hémogramme normal.
+En ce qui concerne les examens d'imagerie réalisés
+Résonance magnétique de la colonne lombo-sacrée, dans laquelle on n'a observé aucune donnée de compression de la moelle épinière, ni sur le conus medullaris, ni sur le sac thécal, ni d'autres observations.
+Étant donné qu'aucune lésion n'a été observée dans la colonne lombo-sacrée et que le patient présentait une atteinte musculaire, il a été décidé d'effectuer un électroneurogramme (ENG)-électromyogramme (EMG) sur les nerfs médian et ulnaire, ainsi que sur les membres inférieurs, qui a démontré l'absence d'atteinte axonale ou d'altérations démyélinisantes, avec des réponses normales. En outre, dans les potentiels de l'unité motrice, on a observé des ondes F symétriques avec des valeurs comprises dans la plage normale. L'étude de la musculature des membres inférieurs n'a révélé aucune donnée pathologique.
+L'imagerie par résonance magnétique des deux membres inférieurs confirme l'existence d'une fasciite non spécifique, qui se traduit par un œdème dans le fascia entourant les aponévroses superficielles des muscles extenseurs et les compartiments postérieurs des cuisses, ainsi qu'autour du fascia des mollets dans les compartiments antérieur et postérieur. Cet œdème s'étend aux fasciae intermusculaires de pratiquement tous les compartiments des deux jambes, avec une distribution symétrique. Il convient de noter que, sur la face latérale des deux vastes externes, il s'accompagne de signes de cellulite dans la graisse du tissu cellulaire sous-cutané sus-jacent. L'hyperenrichissement est visible dans toutes les séries avec l'administration d'un produit de contraste.
+Compte tenu de ces résultats à l'IRM des membres inférieurs, il a été décidé de réaliser une biopsie du muscle quadriceps droit, en observant au microscope un tissu sans fibrose, dans lequel on a identifié une population de fibres atrophiques plus petites, de morphologie anguleuse, réparties de façon homogène dans les faisceaux, correspondant à des fibres de type II. Aucune nécrose, aucun infiltrat inflammatoire, aucune atrophie parafasciculaire, aucune fibre rouge déchiquetée n'ont été identifiés ; en outre, l'étude immunohistochimique a été complétée, confirmant une structure interne normale des fibres, avec un schéma myofibrillaire régulier.
+Le rapport d'anatomie pathologique a donc permis de conclure à une atrophie discrète des fibres de type II, avec la présence de fibres régénératives. Il convient de noter qu'aucun infiltrat inflammatoire, nécrose ou autre signe de myopathie inflammatoire ou nécrosante n'a été observé.
+
+Diagnostic
+Par conséquent, après avoir combiné le tableau clinique du patient, les examens d'imagerie réalisés et la biopsie, le diagnostic de polyfasciite secondaire au vismodegib est établi.
+
+Traitement
+Le traitement a été basé, en premier lieu, sur l'arrêt du vismodegib, puisqu'il semble avoir été le facteur initial des symptômes inflammatoires, en plus de la mise en place d'un traitement anti-inflammatoire, initialement des stéroïdes à la dose de 1 mg/kg/jour et des AINS, pendant 10 jours, et ensuite de façon décroissante.
+Étant donné que la condition clinique la plus contraignante pour le patient était initialement la douleur, pendant les premières 48 heures, l'administration de perfusion de morphine (50 mg dans 500 ml de sérum à un taux de 15 ml/h) a été nécessaire, qui a pu être progressivement retirée, mais a également nécessité l'utilisation d'un traitement coadjuvant avec de la prégabaline 75 mg/12 heures.
+Enfin, la patiente a été maintenue sous ibuprofène 600 mg/8 heures et fentanyl transdermique 75 mcg/72 heures après la résolution de la phase aiguë.
+D'autre part, et en tant que pilier fondamental, étant donné la perte fonctionnelle significative, un traitement de réadaptation progressif a été entamé, dans le but de récupérer la classe fonctionnelle, qui a été perdue dans le contexte du tableau clinique.
+
+Évolution
+Le patient réduit actuellement la dose d'AINS et le patch de fentanyl, car la douleur s'est progressivement atténuée.
+Sur le plan fonctionnel, il marche à l'aide de béquilles, n'a pas encore totalement récupéré ses forces et suit un traitement de rééducation.
+Du point de vue de sa maladie de Gorlin, il n'a pas repris le traitement au vismodegib, ce qui a entraîné une progression du nombre et de la taille de ses carcinomes basocellulaires, dans l'attente d'une évolution et de l'évaluation de nouvelles options thérapeutiques.

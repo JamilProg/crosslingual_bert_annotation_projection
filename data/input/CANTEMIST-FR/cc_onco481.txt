@@ -1,0 +1,21 @@
+Anamnèse
+Une femme de 18 ans sans antécédents personnels intéressants a consulté en juillet 2018 pour une tumeur cervicale à croissance rapide et une obstruction nasale droite.
+
+Examen physique
+ECOG 0, bon état général, normohydraté, couleur normale. Masse cervicale droite d'environ 7 cm x 6 cm de diamètre, dure, adhérente, non douloureuse à la palpation. Bruits cardiaques rythmés, pas de souffle. Murmure vésical conservé, pas de râles. Abdomen mou, non douloureux à la palpation, pas de mégalithes.
+
+Examens complémentaires
+L'échographie cervicale a montré de multiples adénopathies aux niveaux IIA, IIB et III à droite, dont la plus grande était située au niveau IIA, avec un diamètre maximal de 4,8 cm.
+Le scanner, l'IRM et le PET scan ont montré une lésion tumorale solide agressive d'origine nasoethmoïdale droite avec une légère extension controlatérale, une atteinte marginale de l'orbite et du sinus maxillaire droit, ainsi que du sinus sphénoïdal et de la fosse antérieure crânienne, un conglomérat adénopathique cervical nécrotique mesurant 5,3 x 2,6 cm et une grande masse supraclaviculaire mesurant 4 x 2,8 cm. Pas de maladie aux autres niveaux.
+Biopsie de l'adénopathie cervicale, matériel constitué principalement d'un néoplasme malin avec des caractéristiques histopathologiques et immunophénotypiques compatibles avec un rhabdomyosarcome avec une positivité immunohistochimique pour la myogénine, le myoD1, la desmine et le CD56, avec un immunomarquage négatif pour le CD45, le CD2, le CD3, le CD20, les cytokératines AE1-AE3, le S100, l'actine musculaire lisse et la calrétinine. Un réarrangement du gène FOXO1 est observé dans toutes les cellules tumorales testées.
+La biopsie de la moelle osseuse et la cytologie du liquide céphalorachidien se sont révélées négatives.
+
+Diagnostic
+Rhabdomyosarcome de la tête et du cou. Probablement alvéolaire (réarrangement FOXO1). Localisation nasoethmoïdale (paraméningée, défavorable). Groupe III (maladie non réséquée par biopsie). Taille non mesurée au scanner ou à l'IRM. N1 cervical et supraclaviculaire droit. Groupe à haut risque.
+
+Traitement
+Le 1er août 2018, elle a reçu le premier cycle de chimiothérapie selon le schéma VAC (vincristine, adriamycine, cyclophosphamide), car l'hôpital ne disposait pas de dactinomycine au moment du diagnostic et la maladie avait un comportement très agressif, par la suite, elle a continué avec 3 cycles supplémentaires de VIA (ifosfamide, vincristine, dactinomycine) et vincristine hebdomadaire pendant 7 semaines, obtenant une réponse complète. Comme il n'y avait pas de maladie résiduelle à réséquer, il a été décidé de traiter par radiothérapie, recevant 50,4 Gy sur le volume tumoral initial en TEP, 1,8 Gy/jour, 28 fractions entre novembre et décembre 2018, ainsi que les 5e et 6e cycles au cours desquels seul l'ifosfamide a été administré en raison de la neuropathie et de la concomitance avec la radiothérapie. Lors des 7e, 8e et 9e cycles, le schéma IVA a été repris, mais avec une réduction de 50 % de la dose de vincristine en raison de la neuropathie, se terminant le 28 février 2019. Dans les tests d'imagerie de contrôle, la réponse complète a été maintenue, de sorte qu'elle a commencé un traitement d'entretien avec la vinorelbine et le cyclophosphamide oral le 31 mai 2019.
+Programme de traitement : IVA (x 3-4 cycles), radiothérapie, IVA (x 5 cycles). Traitement d'entretien par vinorelbine et cyclophosphamide (x 6 cycles).
+
+Evolution
+La patiente a eu une très bonne réponse clinique dès le premier cycle de chimiothérapie, avec une diminution considérable du conglomérat adénopathique cervical et une désobstruction de l'orifice nasal. Comme toxicité du traitement, elle a présenté une neuropathie de grade II à partir du 3e-4e cycle, principalement dans les mains, qui s'est améliorée après la réduction de la dose de vincristine et un épisode de neutropénie fébrile. Actuellement, il n'a pas de séquelles et mène une vie normale avec un traitement d'entretien.

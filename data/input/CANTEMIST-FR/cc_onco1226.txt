@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 59 ans, sans antécédents personnels ou familiaux intéressants, s'est présenté aux urgences en juin 2012 pour des douleurs et une distension abdominales associées à des vomissements depuis 2 semaines.
+
+Examen physique
+ECOG 1, conscient et orienté. Couleur normale et normohydratée. Eupnéique au repos. Auscultation cardiaque : rythmée, sans souffle. Auscultation pulmonaire : murmure vésiculaire conservé, sans bruits pathologiques ajoutés.
+Abdomen : souple et dépressible, non douloureux à la palpation, pas de masse ni d'organomégalie, pas de signe d'irritation péritonéale, péristaltisme conservé. Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+Pouls palpables et symétriques. Examen neurologique : pas de signes de focalité neurologique.
+
+Tests complémentaires
+- NFS (6/2012) : tous les paramètres sont normaux.
+- Tomodensitométrie abdomino-pelvienne (6/2012) : changements inflammatoires au niveau de la FID, consistant en un plastron incluant l'iléon terminal avec une structure tubulaire appendiculaire restante apparente, une légère quantité de liquide entre les boucles et quelques petites adénopathies dans la graisse mésentérique adjacente. Il y a une image subocclusive de l'intestin grêle, secondaire au plastron. Cadre colique sans résultats. Légère quantité de liquide libre dans le bassin. Foie, vésicule biliaire, voies biliaires, rate, pancréas, surrénales, reins et vessie dans les limites de la normale. Spondylose. Discrète athérosclérose aorto-iliaque.
+- Au vu des résultats du scanner, une laparotomie exploratrice a été pratiquée avec biopsie de l'implant péritonéal et du pontage iléo transversocolique, montrant une subocclusion intestinale secondaire à une néoformation au niveau du cæcum, avec infiltration du sigma et carcinomatose péritonéale multiple (probablement d'origine appendiculaire).
+- Pathologie : adénocarcinome à cellules de gobelet avec une composante mucineuse de moins de 50%, omentum avec infiltration par des glandes et des petits nids avec peu d'atypies. Les cellules de gobelet sont fréquemment observées dans les nids.
+Chromogranine et CD 56 : négatifs. CK 20 et CEA : positifs.
+
+Diagnostic
+Adénocarcinoïde appendiculaire de stade IV en raison d'une atteinte péritonéale.
+
+Traitement
+Compte tenu du diagnostic d'adénocarcinoïde appendiculaire de stade IV avec atteinte péritonéale, le patient est évalué en oncologie médicale. Il est décidé de commencer le traitement par la chimiothérapie FOLFOX 6. Le patient a reçu un total de 12 cycles, avec une maladie stable comme meilleure réponse. Par la suite, il a continué à recevoir du 5-FU/LV en raison de la neurotoxicité G2 secondaire à l'oxaliplatine.
+En mai 2013, compte tenu de la stabilité radiologique et de l'excellent état général du patient, il a été adressé à un centre de référence pour une chirurgie cytoréductive accompagnée d'une HIPEC avec mitomycine C. Les échantillons obtenus ont révélé de multiples implants péritonéaux dus à un adénocarcinome mucosécrétoire.
+
+Évolution
+Une semaine après l'opération, un scanner abdomino-pelvien de contrôle a révélé une collection hydro-aérienne dans le flanc droit avec une prise en charge du péritoine adjacent à proximité des sutures chirurgicales, compatible avec une collection. Un drainage percutané a été effectué avec contrôle échographique de la collection 10 jours plus tard.
+Après l'opération, il a été décidé de commencer un suivi régulier dans le service ambulatoire d'oncologie médicale, le dernier contrôle clinique et radiologique ayant eu lieu en avril 2014, sans aucun signe de rechute.

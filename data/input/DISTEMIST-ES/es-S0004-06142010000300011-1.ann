@@ -1,0 +1,24 @@
+T1	pathologie 86 95	neoplasia
+T2	pathologie 106 222	(adenocarcinoma mucinoso y carcinoide de células caliciformes, T4N2M1) que infiltraba la pared apendicular y el meso
+T3	pathologie 238 260	implantes peritoneales
+T4	pathologie 263 297	afectación de 8 de los 29 ganglios
+T5	pathologie 1321 1330	hidrocele
+T6	pathologie 1343 1350	piocele
+T7	pathologie 1353 1363	hematocele
+T8	pathologie 1432 1442	hematocele
+T9	pathologie 1570 1593	adenocarcinoma mucinoso
+T10	pathologie 1731 1765	neoplasia de la vaginal testicular
+T11	pathologie 2088 2143	progresión hepática, pancreática y adenopática regional
+T12	pathologie 2157 2177	cuadros suboclusivos
+#1	SNOMED T2	128462008
+#2	SNOMED T4	274741002
+#3	SNOMED T5	26614003
+#4	SNOMED T6	11666007
+#5	SNOMED T7	66259004
+#6	SNOMED T8	66259004
+#7	SNOMED T10	126900000
+#8	SNOMED T12	16834011000119109
+#9	SNOMED T11	94459006+94381002+30746006
+#10	SNOMED T1	55342001
+#11	SNOMED T9	72495009
+#12	SNOMED T3	120180006

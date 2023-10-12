@@ -1,0 +1,22 @@
+T1	pathologie 138 165	rinitis alérgica estacional
+T2	pathologie 167 174	fumador
+T3	pathologie 203 210	bebedor
+T4	pathologie 517 544	extrasístoles ventriculares
+T5	pathologie 992 1036	dilatación importante del ventrículo derecho
+T6	pathologie 1090 1120	insuficiencia tricuspídea leve
+T7	pathologie 1164 1225	marcapasos auricular migratorio con extrasistolia ventricular
+T8	pathologie 1244 1264	triplete ventricular
+T9	pathologie 1293 1347	ventrículo derecho con aumento de tamaño e hipertrofia
+T10	pathologie 1596 1600	MAVD
+T11	pathologie 1822 1837	cuadro sincopal
+#1	SNOMED T10	281170005
+#2	SNOMED T2	77176002
+#3	SNOMED T6	111287006
+#4	SNOMED T7	271983002
+#5	SNOMED T8	44103008
+#6	SNOMED T4	17338001
+#7	SNOMED T11	271594007
+#8	SNOMED T1	70369002
+#9	SNOMED T3	7200002
+#10	SNOMED T5	253522006
+#11	SNOMED T9	89792004

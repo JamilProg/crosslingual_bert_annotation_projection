@@ -1,0 +1,22 @@
+Anamnèse
+Nous présentons le cas d'une femme de 43 ans ayant des antécédents personnels de tabagisme (10 cigarettes/jour). Un purpura thrombocytopénique idiopathique a été diagnostiqué chez elle en août 1989. Elle ne signale aucune intervention chirurgicale et prend régulièrement de l'oméprazole à raison de 20 mg/jour.
+À la suite d'une enquête portant sur une dyspepsie non spécifique et un pyrosis d'une durée d'un mois, son médecin traitant a demandé en septembre 2008 un transit gastro-intestinal, qui a révélé une lésion sténosante antrale. La patiente ne présentait pas de syndrome constitutionnel.
+
+Examen physique
+À l'auscultation, le murmure vésiculaire est conservé, sans râles audibles. Les bruits du cœur sont rythmiques, aucun souffle n'est entendu. L'abdomen est mou, dépressible, douloureux à la palpation dans l'épigastre ; aucune masse ou viscéro-mégalie n'est palpable, aucun signe d'irritation péritonéale. Pas d'adénopathies cervicales ou sus-claviculaires. Bon état nutritionnel.
+
+Examens complémentaires
+- Une gastroscopie a été réalisée et a permis d'observer, dans l'antre gastrique, une masse végétative avec des marges volumineuses et une zone centrale ulcérée qui ne permettait pas le passage de l'endoscope, compatible avec une néoplasie gastrique. Le rapport d'anatomopathologie décrit la présence d'un adénocarcinome gastrique au bord de la lésion ulcéreuse.
+- Le scanner thoraco-abdominal-pelvien d'extension montre un épaississement transmural du pylore d'environ 1 cm, et des adénopathies au niveau de la grande courbure de l'estomac. Au niveau pelvien, on a observé une masse annexielle pseudokystique droite, de grosses masses utérines de 10 cm et 5 cm, en rapport avec de probables fibromes utérins. Il n'y avait aucun signe de maladie à distance.
+- Le service de gynécologie a demandé une évaluation et a effectué une échographie transvaginale montrant un utérus avec 6 fibromes, le plus grand mesurant 10 cm. Ils ont également signalé la présence d'un polype endométrial de 9 mm sans visualisation des ovaires.
+
+Diagnostic
+Adénocarcinome gastrique localement avancé.
+Myomatose utérine.
+
+Traitement
+Le cas de la patiente a été présenté au comité des tumeurs digestives, qui a recommandé une chimiothérapie périopératoire par ECF (épirubicine + CDDP + 5-FU) pendant 3 cycles, suivie d'une gastrectomie. Après le traitement de chimiothérapie préopératoire, une gastrectomie subtotale avec lymphadénectomie D2 + myomectomie utérine a été réalisée le 8 septembre 2008. Le rapport anatomopathologique décrit la présence d'un adénocarcinome entéroïde, avec une composante mucineuse de 20 %, de 4 x 2 cm de diamètre, modérément différencié pT3 pN2 (3/24) M0 L+/V+, grade de régression tumorale de Rodel 4. L'examen histologique du myome a révélé un léiomyome.
+
+Évolution
+La patiente a poursuivi le traitement post-chirurgical avec l'ECF pendant trois cycles supplémentaires, avec un suivi ultérieur dans les cliniques ambulatoires d'oncologie et de gynécologie, sans aucun signe de la maladie lors des contrôles ultérieurs. Compte tenu de la croissance des fibromes utérins, le service de gynécologie a procédé en novembre 2013 à une hystérectomie abdominale totale + double annexectomie. Le compte-rendu d'anatomie pathologique de l'intervention a mis en évidence une infiltration de l'endocol par un adénocarcinome présentant l'immunophénotype de métastases d'un carcinome gastrique antérieur (adénocarcinome peu différencié avec différenciation muco-sécrétoire) et des léiomyomes utérins.
+Au vu de ces résultats, notre service a demandé un scanner thorax-abdomen-pelvis, qui a révélé de multiples nodules pulmonaires millimétriques, dont certains étaient cavités, évoquant des métastases. Suite aux résultats de l'étude d'extension, il a commencé une première ligne de chimiothérapie palliative avec FOLFOX, qui a débuté le 13/1/2014, dont il a eu 11 cycles, la maladie restant stable jusqu'au moment de la rédaction de ce rapport de cas.

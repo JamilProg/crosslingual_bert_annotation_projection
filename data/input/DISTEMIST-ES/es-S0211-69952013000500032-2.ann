@@ -1,0 +1,26 @@
+T1	pathologie 38 48	exfumadora
+T2	pathologie 50 53	HTA
+T3	pathologie 55 64	DM tipo 2
+T4	pathologie 66 82	obesidad mórbida
+T5	pathologie 382 399	episodio sincopal
+T6	pathologie 464 485	depleción hidrosalina
+T7	pathologie 954 1001	IRA prerrenal secundaria a depleción de volumen
+T8	pathologie 981 1001	depleción de volumen
+T9	pathologie 1003 1015	hiponatremia
+T10	pathologie 1018 1031	hipopotasemia
+T11	pathologie 1201 1227	insuficiencia respiratoria
+T12	pathologie 1230 1279	shock séptico secundario a infección respiratoria
+T13	pathologie 1257 1279	infección respiratoria
+#1	SNOMED T2	38341003
+#2	SNOMED T3	44054006
+#3	SNOMED T4	238136002
+#4	SNOMED T6	28560003
+#5	SNOMED T7	722096006
+#6	SNOMED T8	28560003
+#7	SNOMED T9	89627008
+#8	SNOMED T10	43339004
+#9	SNOMED T11	409623005
+#10	SNOMED T12	76571007+275498002
+#11	SNOMED T13	275498002
+#12	SNOMED T1	8517006
+#13	SNOMED T5	272030005

@@ -1,0 +1,27 @@
+Anamnèse
+Une femme de 36 ans qui ne présentait aucune allergie médicamenteuse connue, aucun antécédent médical ou familial intéressant et ne nécessitait pas de traitement régulier jusqu'au diagnostic.
+En juin 2007, à l'âge de 24 ans, la patiente a remarqué une lésion pigmentée de longue date se développant sur l'omoplate gauche. Une intervention chirurgicale a été pratiquée et la lésion a été excisée avec élargissement des bords. Un mélanome malin pT2a (1,6 mm) pN1 (atteinte micrométastatique dans une adénopathie) M0 stade IIIA (AJCC 8e édition) Breslow 1,95 mm, S100 + et mutation V600E dans B-RAF a été diagnostiqué chez la patiente. Une lymphadénectomie axillaire gauche a ensuite été réalisée (0/11 ganglions lymphatiques infiltrés).
+Elle a été adressée au service d'oncologie médicale, qui lui a proposé un traitement adjuvant à l'interféron alfa 2b, qui a débuté le 30 juillet 2007 à raison de 20 millions d'unités par m2jour de 1 à 5 pendant 4 semaines par voie intraveineuse. Elle a dû réduire la dose de 25 % après la deuxième administration en raison d'une neutropénie de grade 3. À partir du 14/09/2007, après le quatrième cycle, elle a poursuivi le traitement par voie sous-cutanée (10 millions d'unités par m2, 3 jours par semaine pendant 48 semaines). Le traitement s'est terminé en août 2008, après un total de 52 semaines. Les autres toxicités comprenaient une vasovasténie occasionnelle de grade 1 et des arthralgies de grade 1.
+Une fois le traitement terminé et en l'absence de signes de maladie mesurable, elle a continué à subir des tomodensitométries jusqu'en novembre 2013, date à laquelle on lui a diagnostiqué une rechute locorégionale et où elle a subi une intervention chirurgicale avec des bords libres.
+Elle a continué à être surveillée jusqu'en mars 2014, date à laquelle une rechute a été diagnostiquée par CT-CTAP et PET-CT.
+
+Examen physique
+Pas d'adénopathie latérocervicale ou supraclaviculaire palpable. Cicatrice axillaire avec induration et épaississement de la peau, non visible lors de l'examen précédent. Oedème dans la région antérieure du thorax.
+Lymphoedème discret au niveau de l'ESI. Aucun autre résultat significatif à l'examen.
+
+Tests complémentaires
+" NFS 26/03/2014 : pas d'altération biochimique. Hb 14,5, plaquettes 332 000, leucocytes 7 600, neutrophiles 4 400.
+" CT-CTAP 22/03/2014 : multiples masses pseudonodulaires hypervasculaires dans le lit chirurgical, mesurant 72 x 44 x 88 mm, évoquant une récidive, infiltrant le plan musculaire postérieur de l'omoplate, sans contact avec l'omoplate. Image en LID de 9 mm à considérer comme métastatique. Adénopathies hypervasculaires pathologiques supraclaviculaires gauches allant jusqu'à 14 mm, et dans l'espace III gauche de 12 mm.
+" PET-CT scan 9/04/2014 : prise d'activité élevée (SUV maximum 19,1) sur une large masse masaretroscapulaire gauche, avec infiltration osseuse apparente du bord latéral de l'omoplate et du muscle infra-épineux, suggérant une récidive. Imprégnation d'un nodule pulmonaire de 9 mm dans le LID (SUVmax 2). Multiples adénopathies latérocervicales bilatérales, supraclaviculaires bilatérales, rétropectorales gauches et axillaires droites, jusqu'à 14 mm, sans traduction métabolique.
+
+Diagnostic
+Rechute locorégionale, ganglionnaire et pulmonaire d'un mélanome malin cutané, muté BRAF.
+
+Traitement
+Dans le cas d'une patiente de 31 ans avec un statut de performance (PS) de 0 et une mutation BRAF, un traitement par vemurafenib 960 mg toutes les 12 heures a été proposé et débuté le 26/4/2014 (seul inhibiteur BRAF disponible à ce moment-là dans notre centre).
+
+Evolution
+Après le troisième cycle de traitement par vemurafenib, une réponse radiologique partielle très significative a été observée selon les critères RECIST 1.1 (80,5 % de réduction), maintenue jusqu'en avril 2016.
+En mai 2016, un PET-CT scan de contrôle a montré une progression de la maladie avec un intervalle sans maladie (ISM) de 24 mois. Lors de la progression vers un inhibiteur de BRAF, elle a débuté le 30/05/16 une 2e ligne de traitement par nivolumab 3 mg/kg toutes les 2 semaines. Après le 3e cycle, elle a présenté une réponse partielle par imagerie (80,4 % de réduction), recevant le 21e cycle le 9/3/2017 sans toxicité et maintenant un PS de 0.
+En mars 2017, une nouvelle progression de la maladie a été observée, ILE dans ce cas de 10 mois, débutant la 3e ligne de traitement le 06/04/2017 avec la combinaison dabrafenib et trametinib. A nouveau, elle a présenté une réponse partielle par imagerie après le 3e cycle (76,9% de réduction). Après le 5e cycle, une hypothyroïdie subclinique a été détectée et un traitement par lévothyroxine 50 a été débuté.
+Actuellement, elle poursuit son traitement, ayant reçu le 29e cycle le 30/05/2019 et sans aucun signe de maladie mesurable lors du dernier CT-CTAP réalisé le 23/05/2019. Elle conserve un PS 0 et les taux de LDH sont restés dans les limites de la normale tout au long du suivi.

@@ -1,0 +1,8 @@
+T1	pathologie 36 40	EMRR
+T2	pathologie 251 273	serología positiva VJC
+T3	pathologie 565 590	lesiones desmielinizantes
+T4	pathologie 790 826	lesiones en ambos centros semiovales
+#1	SNOMED T1	426373005
+#2	SNOMED T2	36319009+168276008
+#3	SNOMED T3	23414001
+#4	SNOMED T4	118934005

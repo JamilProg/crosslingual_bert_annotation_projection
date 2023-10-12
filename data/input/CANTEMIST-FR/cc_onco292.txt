@@ -1,0 +1,41 @@
+Anamnèse
+Nous présentons le cas d'une femme de 46 ans à qui l'on a diagnostiqué une métastase des ganglions lymphatiques axillaires due à un carcinome mammaire occulte.
+La patiente n'avait pas d'antécédents médicaux particuliers et était suivie dans le cadre du programme de prévention du cancer du sein. Ses premières mammographies avaient été réalisées un an auparavant, en janvier 2012, à l'âge de 45 ans, et n'avaient révélé aucune altération.
+Les antécédents gynécologiques de la patiente montrent qu'elle continuait à avoir des règles normales et qu'elle avait eu quatre grossesses, avec un accouchement et trois fausses couches. Ces trois fausses couches sont survenues après une ligature des trompes rectifiée en 2006 après une ligature des trompes réalisée en 2003. L'âge de sa première grossesse était de 36 ans. Elle n'a pas allaité. Elle n'a jamais pris de traitement hormonal. Elle a eu ses premières règles à l'âge de 12 ans.
+
+La patiente n'avait pas d'antécédents familiaux de cancer du sein ou de l'ovaire, ni d'autres tumeurs.
+
+L'histoire oncologique de la patiente a commencé par l'autopalpation d'un nodule axillaire gauche qui se développait progressivement depuis des semaines. La patiente a été adressée à un service de chirurgie générale et, après un examen physique, elle a été adressée au service de radiodiagnostic pour un examen plus approfondi.
+
+Examen physique
+Localement, le sein est de taille et de consistance normales, sans asymétrie ni nodules à la palpation. Une adénopathie discrètement douloureuse d'environ 5 cm est présente dans la région axillaire gauche. Il n'y a pas de signe d'adénopathie dans d'autres territoires ganglionnaires.
+
+L'examen physique à l'aide d'un appareil n'a révélé aucun signe pathologique. En résumé, l'état de performance est de 0.
+
+Examens complémentaires
+- Le 20/01/2013, le premier bilan a été réalisé par mammographie, échographie et biopsie du sein gauche et de l'aisselle. Les mammographies ont montré des seins majoritairement denses. Lors de l'échographie, coïncidant avec la tumeur palpable dans la région axillaire gauche, une lymphadénopathie pathologique avec absence de hile graisseux, mesurant 50 mm, a été identifiée. Le résultat de la biopsie de l'adénopathie axillaire gauche était un carcinome métastatique, suggérant une origine mammaire possible. Un nodule de 8 mm a été observé dans la ligne interquadrantique interne du sein gauche, qui a été biopsié et s'est avéré être une fibrose mammaire.
+- Le bilan loco-régional a été complété par une IRM mammaire bilatérale le 03/02/2013, qui a révélé à nouveau des ganglions lymphatiques axillaires gauches, le plus grand mesurant 52 x 24 x 55 mm.
+Une captation glandulaire bilatérale et symétrique a été observée. Le nodule du sein gauche, déjà décrit lors de l'échographie précédente et présentant des caractéristiques non spécifiques, a été observé. Un autre nodule ovale, bien défini, de 10 mm, également non spécifique, a été observé dans la ligne interquadrantique interne du sein droit. Il existe des kystes mammaires simples bilatéraux.
+- En l'absence de tumeur primaire du sein, une biopsie a été pratiquée sur le nodule du sein droit, comme l'a montré l'IRM, qui a mis en évidence un parenchyme mammaire sans lésions microscopiques pertinentes.
+- Compte tenu des résultats négatifs des biopsies mammaires réalisées, et en l'absence d'autres lésions suspectes, une seconde biopsie a été réalisée sur le nodule observé dans la ligne interquadrantique interne du sein gauche et cette fois-ci également dans la région rétroaréolaire du même sein. Le résultat anatomo-pathologique était une ectasie canalaire sans atypie.
+- Après avoir épuisé les possibilités diagnostiques, il a été décidé de répéter l'IRM mammaire bilatérale ajustée au cycle menstruel le 18/02/2013, sans montrer de changement par rapport à celle réalisée le 03/02/2013.
+- Un scanner thoraco-abdomino-pelvien a été réalisé le 10/02/2013, qui a de nouveau montré plusieurs adénopathies axillaires gauches, la plus importante étant de 53 (déjà décrite) et de 16 mm. Aucun autre ganglion n'a été identifié dans d'autres territoires ganglionnaires ni aucune métastase à quelque niveau que ce soit. Une scintigraphie osseuse du corps entier a également été réalisée, qui n'a révélé aucune prise de substance.
+- La biochimie sanguine, l'hémogramme et la coagulation (18/02/2013) n'ont montré aucune altération.
+Le patient présentait également des marqueurs tumoraux normaux (CEA 2 ng/ml ; Ca 15.3 9.6 IU/ml).
+
+Diagnostic
+La biopsie de l'adénopathie axillaire gauche montre des cellules immunohistochimiquement positives pour les récepteurs des œstrogènes et de la progestérone et pour la CK19. Elles sont négatives pour la mammaglobine. Elles sont également négatives pour GCDP15, TTF1, thyroglobuline, CDX2, CK 7, CK 20, WT1, CA 125 et CD56.
+Bien que le résultat ne soit pas concluant, le profil immunohistochimique suggère un carcinome d'origine mammaire, avec des récepteurs d'œstrogènes d'une intensité de 2+ et 80 % des cellules colorées. Les récepteurs de la progestérone ont une intensité de 2+ et 15% des cellules sont colorées. Le proto-oncogène HER-2neu est négatif (0-1+) par immunohistochimie.
+Le diagnostic définitif est un carcinome mammaire luminal localement avancé cT0cN2aM0.
+
+Traitement
+Un traitement néoadjuvant par chimiothérapie séquentielle (QT) à base d'anthracyclines et de taxanes est proposé en cas d'atteinte des ganglions lymphatiques. Le traitement sera ensuite complété par une lymphadénectomie axillaire gauche. En fonction de la réponse clinique à la chimiothérapie néoadjuvante, une mastectomie ipsilatérale sera envisagée. Dans tous les cas, la patiente doit recevoir une radiothérapie locorégionale (RT) en cas d'atteinte axillaire et une hormonothérapie adjuvante (HT) pendant 5 à 10 ans car il s'agit d'une tumeur luminale.
+
+Progrès
+Quatre cycles de CSF (5-fluorouracile, épirubicine et cyclophosphamide) à doses standard ont été administrés entre le 21/02 et le 25/04/2013. La ventriculographie isotopique au départ a montré une FEVG normale.
+Entre le 16/05 et le 18/07/13, quatre cycles de docétaxel ont été administrés, également à des doses standard, et une prophylaxie primaire de la neutropénie avec GCS-F.
+Comme on peut le voir, le QT a été administré sans retards ni incidents dignes d'intérêt. L'alopécie G2 se distingue, et pendant l'administration du taxane, la neuropathie G2 et l'onychopathie G1-2.
+Compte tenu de l'excellente réponse au traitement néoadjuvant (réponse partielle majeure/réponse complète en IRM, et compte tenu des éléments décrits dans la littérature, il a été décidé de réaliser une lymphadénectomie axillaire avec préservation des glandes mammaires et une RT locorégionale adjuvante par chirurgie conservatrice. Le 19/09/2013, une lymphadénectomie axillaire gauche a été réalisée, dont le résultat anatomo-pathologique était une lymphadénite réactive dans 13 ganglions lymphatiques isolés (cTXpN0(0/13)M0).
+Entre le 05/10 et le 06/11/2013, une RT adjuvante a été administrée sur la glande mammaire gauche et les aires ganglionnaires locorégionales jusqu'à un total de 50 Gy. La patiente a présenté une radiodermite aiguë de type G1.
+Après avoir terminé la RT, la patiente a commencé une HT adjuvante avec du tamoxifène (situation préménopausique avec aménorrhée depuis le 2e cycle de QT). Au début, elle a mal toléré le tamoxifène en raison de suffocations et d'une asthénie modérée. Comme séquelles post-chirurgicales, la patiente présentait une limitation fonctionnelle du bras gauche due à une plexopathie brachiale, qui a été traitée par des moyens de rééducation.
+Actuellement, la patiente fait l'objet d'un suivi clinique semestriel avec une IRM mammaire bilatérale annuelle, après un intervalle sans maladie de 2 ans et 10 mois. La tolérance au tamoxifène s'est améliorée et seul le lymphœdème G1 du bras gauche est visible. Après une situation d'aménorrhée maintenue, lorsqu'elle aura terminé trois ans d'hormonothérapie, un passage aux inhibiteurs non stéroïdiens de l'aromatase sera effectué.

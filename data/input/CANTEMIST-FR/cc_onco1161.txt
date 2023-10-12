@@ -1,0 +1,40 @@
+Anamnèse
+Patiente âgée de 76 ans. Aucune allergie médicamenteuse connue.
+Diagnostic clinique de neurofibromatose de type 1 avec phénotype de neurofibromes cutanés multiples et parents au premier degré atteints.
+Antécédents d'anémie avec un profil de carence en fer connu depuis 2000, qui a conduit à une admission en médecine interne, nécessitant une transfusion et une oesophago-duodénogastroscopie, qui n'a pas révélé de résultats pertinents.
+Admission en gastro-entérologie en septembre 2012 pour une hémorragie gastro-intestinale haute, qui a de nouveau nécessité une transfusion, et la gastroscopie a révélé une hernie hiatale mesurant 4 centimètres (cm) avec des érosions dans le collet herniaire.
+Fracture vertébrale-écrasement au niveau de T12 en août 2012, qui a été gérée de manière conservatrice par un traitement orthopédique avec un corset.
+Nouvelle admission en décembre 2013 en médecine digestive pour anémie et hémorragie digestive haute sous forme de mélénas, nécessitant à nouveau une transfusion. Dans ce contexte, une angiographie par tomodensitométrie a été réalisée, montrant une tumeur jéjunale avec hémorragie active.
+Face à ce constat, le patient a été opéré en urgence le 20 décembre 2013, et une chirurgie exploratoire par laparoscopie a confirmé la présence d'une tumeur jéjunale attachée au côlon descendant, qui a ensuite été convertie en laparotomie, avec résection intestinale de 30 cm de jéjunum avec anastomose jéjuno-jéjunale à 30 cm de l'angle de Treitz.
+Après sa sortie de l'hôpital, le patient a été adressé au service d'oncologie médicale.
+
+Examen physique
+Lors de la première visite en oncologie médicale :
+La patiente présente un état de performance de 1.
+Elle présente de multiples neurofibromes cutanés.
+L'auscultation cardio-pulmonaire ne révèle rien de particulier.
+Dans l'abdomen, il y a une cicatrice de la laparoscopie, sans autres résultats pertinents, et pas de masses ou de mégalithes.
+Les membres inférieurs ne présentent pas d'œdème, mais seulement des signes discrets d'insuffisance veineuse chronique.
+
+Examens complémentaires
+Lors de l'admission en décembre 2013, en raison de l'apparition d'une nouvelle hémorragie gastro-intestinale haute et d'une nouvelle anémie avec nécessité de transfusion, les examens complémentaires décrits ci-dessous ont été réalisés :
+- Le 18 décembre 2013, une endoscopie gastro-intestinale supérieure urgente a été réalisée, révélant une hernie hiatale avec un sac herniaire de 4 cm, déjà connue lors d'examens précédents, présentant des zones érythémateuses sans érosions.
+L'examen a été gêné par des restes de nourriture dans le fundus, ce qui a rendu difficile une évaluation complète. Le duodénum examiné ne présentait aucune lésion et il n'y avait pas de restes hématiques dans toute la section examinée.
+- Le 20 décembre 2013, une angiographie par tomodensitométrie a été réalisée, montrant une large masse solide-nécrotique dans le jéjunum, mesurant 34 x 39 millimètres (mm), avec une vascularisation marquée. À côté de la masse se trouvait une zone de fuite de produit de contraste, suggérant qu'il s'agissait de la zone responsable de l'hémorragie gastro-intestinale. Les caractéristiques de la vascularisation précoce marquée dans la phase artérielle et de la nécrose centrale suggèrent un diagnostic possible de tumeur stromale gastro-intestinale (GIST).
+Au cours du même examen, de multiples nodules hypercapillaires ont été observés dans les parois des deuxième et troisième portions duodénales et dans l'angle de Treitz, cette dernière étant une lésion de 17 mm, toutes ces lésions suggérant des GIST multiples.
+- L'anatomie pathologique de la pièce de résection jéjunale de 27 cm réalisée le 20 décembre 2013 décrit plusieurs formations nodulaires indésirables sur la surface séreuse, jusqu'à un nombre de cinq, dont la taille varie de 0,2 à 4,5 cm de diamètre maximum. Les tumeurs les plus petites présentent des caractéristiques similaires à celles de la section, étant fibreuses et d'aspect blanchâtre. La plus grande formation mesure 4,5 x 3,2 x 3 cm et présente sur la coupe un aspect charnu blanchâtre avec des zones d'hémorragie.
+- La microscopie montre une prolifération fusiforme de cellules allongées, disposées en fascicules, avec des noyaux allongés, à arêtes vives et ondulées. Elles présentent des zones cellulaires variables, avec des atypies dégénératives focales, sans mitose (entre 0 et 1) ni nécrose. Le plus grand présente des zones centrales de pseudocystification avec hémorragie, avec une zone externe d'interruption de la capsule. La prolifération part principalement du plexus de Meissner, atteignant la sous-muqueuse et la sous-séreuse. L'étude immunohistochimique montre une expression intense de CD117, DOG1 et CD34 ; avec de l'actine focale ; négative pour S-100, neurofilaments et une positivité très isolée pour la calponine. Les cinq adénopathies et les limites longitudinales ne présentent aucune altération d'intérêt.
+- L'étude a été complétée en oncologie médicale par une tomodensitométrie thoracique-abdominale-pelvienne et la détermination du statut mutationnel de c-KIT et PDGFR- ? ainsi qu'une analyse complète de la fonction thyroïdienne. La tomodensitométrie thoraco-abdomino-pelvienne n'a révélé aucune nouvelle lésion et l'analyse sanguine n'a révélé aucune anomalie.
+- Les mutations de c-KIT (exons 9, 11, 13 et 17) et de PDGFR- ? (exons 12 et 18) étaient négatives.
+
+Diagnostic
+Tous les résultats ci-dessus sont compatibles avec le diagnostic de tumeurs stromales gastro-intestinales (GIST), multiples dans ce cas (5 tumeurs). La taille des tumeurs varie de 0,2 à 4,5 centimètres et le nombre de mitoses par champ à fort grossissement est compris entre 0 et 1. L'index prolifératif, mesuré par le Ki 67, est faible, de l'ordre de 1 %.
+En résumé, il s'agit d'une GIST à lozalisation multiple jéjunale et duodénale à faible risque dans le contexte d'un patient atteint de neurofibromatose de type 1 (NF1).
+
+Traitement
+Le patient est envoyé en oncologie médicale pour évaluer la nécessité d'un traitement adjuvant.
+Compte tenu de l'évolution généralement indolente des GIST associées à la NF1 et du fait qu'elles ne présentent généralement pas de mutations dans c-KIT et PDGFR- ? comme dans ce cas, il a été décidé de ne pas indiquer de traitement adjuvant par l'imatinib et de surveiller le patient.
+
+Progrès
+La patiente est suivie par l'oncologie médicale.
+En mars 2014, elle a été admise dans l'unité hépato-biliaire après une intervention chirurgicale pour une cholédocholithiase compliquée, nécessitant une cholédochoduodénostomie.

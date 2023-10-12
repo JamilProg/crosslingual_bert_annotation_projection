@@ -1,0 +1,6 @@
+T1	pathologie 98 113	ictus isquémico
+T2	pathologie 194 225	tromboembolismo venoso profundo
+T3	pathologie 1029 1045	obesidad extrema
+#1	SNOMED T1	422504002
+#2	SNOMED T2	128053003
+#3	SNOMED T3	238136002

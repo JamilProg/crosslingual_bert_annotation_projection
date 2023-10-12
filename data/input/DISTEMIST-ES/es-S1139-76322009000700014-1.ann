@@ -1,0 +1,38 @@
+T1	pathologie 113 162	exantema urticariforme en extremidades inferiores
+T2	pathologie 343 426	erupción maculosa que afecta ahora ya, a extremidades inferiores, superiores y cara
+T3	pathologie 517 546	edema periorbital y palpebral
+T4	pathologie 620 637	obstrucción nasal
+T5	pathologie 639 683	adenopatías sub-maxilares y laterocervicales
+T6	pathologie 696 717	amígdalas congestivas
+T7	pathologie 745 759	esplenomegalia
+T8	pathologie 762 775	hepatomegalia
+T9	pathologie 785 807	Adenopatías inguinales
+T10	pathologie 866 874	exantema
+T11	pathologie 1009 1035	insuficiencia respiratoria
+T12	pathologie 1534 1542	neumonía
+T13	pathologie 1553 1573	adenopatías hiliares
+T14	pathologie 1596 1610	esplenomegalia
+T15	pathologie 1667 1691	mononucleosis infecciosa
+T16	pathologie 2379 2402	atelectasia segmentaria
+T17	pathologie 2429 2447	proceso infeccioso
+T18	pathologie 2462 2486	mononucleosis infecciosa
+T19	pathologie 2491 2499	neumonia
+#1	SNOMED T18	271558008
+#2	SNOMED T19	233604007
+#3	SNOMED T15	271558008
+#4	SNOMED T1	64305001
+#5	SNOMED T12	233604007
+#6	SNOMED T5	127085002+127087005
+#7	SNOMED T13	87500009
+#8	SNOMED T16	61448007
+#9	SNOMED T6	281795003
+#10	SNOMED T9	127199000
+#11	SNOMED T11	409623005
+#12	SNOMED T17	40733004
+#13	SNOMED T7	16294009
+#14	SNOMED T14	16294009
+#15	SNOMED T8	80515008
+#16	SNOMED T2	725119006
+#17	SNOMED T3	49563000+193967004
+#18	SNOMED T4	232209000
+#19	SNOMED T10	271807003

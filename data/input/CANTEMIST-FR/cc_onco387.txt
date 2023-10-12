@@ -1,0 +1,62 @@
+Anamnèse
+"Motif de l'admission :
+Patient de 38 ans admis en médecine interne en septembre 2007 pour l'étude d'une splénomégalie détectée lors d'un examen professionnel.
+
+"Antécédents personnels :
+- Aucune allergie médicamenteuse connue.
+- Pas d'hypertension, pas de diabète, pas de dyslipidémie.
+- Asthme depuis l'enfance.
+- Pas d'intervention chirurgicale.
+- Pas de médicaments habituels.
+
+"Maladie actuelle :
+Le patient avait remarqué en juin 2007 une grosseur dans l'hypochondre gauche à laquelle il n'attachait pas d'importance. Depuis août 2007, il a également signalé des sueurs nocturnes. En septembre 2007, lors d'une visite médicale, une splénomégalie a été observée lors de l'examen physique et le patient a été admis en médecine interne pour un examen plus approfondi.
+
+Examen physique
+Conscient et orienté, bien hydraté et perfusé, couleur normale, eupnéique. ECOG 0.
+NFS : pas de ganglions lymphatiques périphériques palpables.
+Auscultation cardio-pulmonaire : normale.
+Abdomen : palpation de la rate à environ 10 cm, traversant la ligne médiane, avec une consistance dure. Pas d'hépatomégalie palpable.
+Membres inférieurs : pas d'œdème ni de signes de TVP.
+
+Tests complémentaires
+"Examens de laboratoire : légère pancytopénie (Hb 10,4, L 2960, plaq 122000). Marqueurs tumoraux négatifs.
+Sérologie de l'hépatite B, de l'hépatite C et du VIH : négative. Microglobuline B2 élevée (6,09 mcg/ml).
+"Radiographie du thorax : hypertrophie médiastinale.
+"Tomodensitométrie thoraco-abdominale : importante masse médiastinale occupant le médiastin supérieur et la région paratrachéale droite, s'étendant sur une longueur d'environ 8 cm, évoquant un conglomérat adénopathique. Dans la veine sous-clavière droite, collée à sa paroi interne, on observe un petit défaut de réplétion non occlusif, mesurant 10 mm dans l'axe antéro-postérieur, évocateur d'un thrombus. Foie : taille et morphologie normales. Aucune lésion focale n'est évidente. Rate : augmentation significative de la taille (17 cm), aucune lésion focale n'est évidente. Adénopathies pathologiques dans le ligament gastro-hépatique.
+Adénopathies mésentériques de taille pathologique. Adénopathies rétropéritonéales de taille pathologique au niveau précave, interaortique et para-aortique gauche. CONCLUSION : Masse médiastinale paratrachéale droite évocatrice d'un conglomérat adénopathique. Splénomégalie. Adénopathies mésentériques et rétropéritonéales de taille pathologique. Il est recommandé d'exclure en premier lieu un processus lymphoprolifératif. Petit thrombus non occlusif dans la veine sous-clavière droite.
+"Médiastinoscopie : biopsie des adénopathies paratrachéales droites 4R et 2R.
+Culture microbiologique : négative.
+Pathologie : compatible avec un lymphome diffus de haut grade.
+"Biopsie-aspiration des crêtes : pas de preuve d'implication tumorale.
+"Cytométrie en flux : population minimale de lymphoïdes B coexprimant CD19/CD10/CD38 et pas d'expression d'IgS suggérant une population centrofolliculaire.
+"FEVG : 0,67 (normale).
+"Scintigraphie au gallium-67 : accumulations pathologiques du produit radiopharmaceutique dans le médiastin et la région épigastrique, dans la région périombilicale, suggérant une atteinte néoplasique, probablement dans les ganglions lymphatiques médiastinaux supérieurs et para-aortiques.
+
+Diagnostic
+Lymphome diffus à grandes cellules B. Stade IIIBs. IPI 3.
+
+Traitement
+Plan : QT avec RCHOP14 x 8 cycles.
+"9/10/07 : Début du traitement.
+"Évaluation par tomodensitométrie de la réponse au 4e cycle : réponse partielle, avec une grande réponse dans le médiastin et le rétropéritoine et une diminution de la splénomégalie. Il a été décidé de poursuivre le traitement jusqu'à l'obtention de 8 cycles.
+"En raison de l'asthénie et de la neurotoxicité de G2 dans les mains, la Vincristine a été arrêtée au 7ème cycle.
+"22/01/08 : Elle a reçu le 8ème et dernier cycle de traitement.
+"CT scan pour évaluer la réponse : RP significative (diminution des adénopathies médiastinales >75%, adénopathies rétropéritonéales <1,5 cm).
+"Scintigraphie au Ga-67 : normale.
+"Scanner PET-CT : foyers hypermétaboliques au niveau des lymphadénopathies rétropéritonéales, étant normaux au niveau médiastinal et splénique, le tout compatible avec la persistance d'un processus lymphoprolifératif au niveau rétropéritonéal.
+"Le cas a été évalué en collaboration avec le service d'hématologie et il a été décidé de surveiller l'évolution radiologique.
+"La tomodensitométrie a été répétée deux mois plus tard : les lymphadénopathies médiastinales et rétropéritonéales étaient stables, de même que la splénomégalie hétérogène.
+"Une TEP-TDM a été réalisée, sans évidence d'atteinte ganglionnaire métaboliquement active en relation avec le processus lymphoprolifératif connu de la patiente.
+"Réponse complète (RC).
+
+Développements
+"Révisions.
+"Réponse complète de mai 2008 à novembre 2011. ILE : 3 ans et 4 mois.
+"Dans la tomodensitométrie de révision de novembre 2011 : une légère croissance de l'adénopathie latérotrachéale droite et de la lymphadénopathie hilaire droite a été observée.
+"Scanner PET-CT : augmentation du métabolisme dans l'adénopathie paratrachéale droite (SUV max : 13,6) et le hile droit (SUV max : 20,9). Le reste ne présente pas d'altérations. Conclusion : foyers hypermétaboliques coïncidant avec le scanner dans l'adénopathie paratrachéale droite et le hile droit. Cette observation peut être liée à une récidive de sa maladie lymphoproliférative, bien que d'autres causes ne puissent être exclues.
+"Thoracotomie diagnostique (30/11/11) : une adénopathie hilaire macroscopiquement élargie a été visualisée, et une résection partielle a été effectuée.
+"PA : compatible avec le LYMPHOME DE HODGKIN LYMPHOCYTIQUE PREDOMINAIRE. Description microscopique : "Ganglion lymphatique montrant un effacement complet de sa structure normale avec la présence d'une population lymphoïde prédominante de taille petite ou intermédiaire de contour légèrement irrégulier avec de grandes cellules éparses avec des noyaux vésiculaires, certains binucléés avec des nucléoles de taille intermédiaire ou quelques éosinophiles plus grands, avec le cytoplasme également mal défini avec la morphologie de type de cellule L&H. En IHC complémentaire, la cellularité atypique est positive pour l'EMA et l'OCT-2 et négative pour le CD20. Le CD79 et le BCL6 sont positifs dans certaines cellules atypiques. Les CD15 et CD30 sont négatifs. La morphologie est différente de celle du ganglion lymphatique biopsié en 2007 où la cellularité atypique était clairement positive pour le CD20 et négative pour l'EMA. L'étude moléculaire du ganglion de 2007 a montré un réarrangement monoclonal B et était négative dans le ganglion actuel. L'évaluation combinée des résultats suggère une maladie de Hodgkin avec une prédominance lymphocytaire dans le ganglion lymphatique actuel avec une possible négativité du CD20 en relation possible avec le traitement par Rituximab".
+"Le cas a été référé pour une consultation de deuxième avis au groupe du Dr Piris à l'hôpital Valdecilla de Santander, qui a confirmé le diagnostic.
+"Un traitement par RT externe exclusive (40Gy en 20 séances) a été décidé, qui s'est terminé en février 2012.
+"Depuis lors, elle subit des examens de contrôle et reste en réponse complète.

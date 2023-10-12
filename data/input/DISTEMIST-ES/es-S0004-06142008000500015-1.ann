@@ -1,0 +1,12 @@
+T1	pathologie 276 299	tumor sólido testicular
+T2	pathologie 581 627	pulpa testicular, contenía una lesión quística
+T3	pathologie 905 945	formación quística en cordón espermático
+T4	pathologie 1097 1115	formación quística
+T5	pathologie 1529 1567	lesión quística del cordón espermático
+T6	pathologie 1586 1599	espermatocele
+#1	SNOMED T4	441457006
+#2	SNOMED T2	767754009
+#3	SNOMED T1	126900000
+#4	SNOMED T3	118658007
+#5	SNOMED T5	118658007
+#6	SNOMED T6	49263001

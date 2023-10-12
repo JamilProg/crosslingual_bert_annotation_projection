@@ -1,0 +1,18 @@
+T1	pathologie 51 61	pretérmino
+T2	pathologie 114 131	asfixia periparto
+T3	pathologie 136 173	encefalopatía neonatal moderada-grave
+T4	pathologie 187 204	asfixia periparto
+T5	pathologie 554 575	lesión cutánea dorsal
+T6	pathologie 712 718	escara
+T7	pathologie 869 896	necrosis grasa licuefactiva
+T8	pathologie 1384 1390	herida
+T9	pathologie 1787 1793	herida
+#1	SNOMED T1	771299009
+#2	SNOMED T7	238888007
+#3	SNOMED T2	275368005
+#4	SNOMED T3	95628005
+#5	SNOMED T4	275368005
+#6	SNOMED T8	416462003
+#7	SNOMED T9	416462003
+#8	SNOMED T5	95324001
+#9	SNOMED T6	247452009

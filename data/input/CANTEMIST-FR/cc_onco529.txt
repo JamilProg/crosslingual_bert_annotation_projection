@@ -1,0 +1,26 @@
+Anamnèse
+Homme âgé de 65 ans, ex-fumeur invétéré (dose totale accumulée de 70 paquets-années). Aucun antécédent familial connu de cancer. Il est ingénieur de profession.
+
+Examen physique
+Elle a consulté le service des urgences de notre centre en novembre 2013 en raison d'une dyspnée progressive jusqu'au moindre effort, associée à une fièvre basse l'après-midi et à une perte de poids de 12 kg en 3 mois environ. À son arrivée, il était hémodynamiquement stable et afébrile, avec des saturations de 88-89 % à l'air.
+L'examen physique a montré une hypophonie dans l'hémisphère gauche et une adénopathie supraclaviculaire gauche.
+
+Tests complémentaires
+Une radiographie et un scanner thoraciques ont montré un épanchement pleural gauche massif avec déviation du médiastin, et un tube de drainage pleural a été mis en place.
+Il a été admis en pneumologie pour compléter l'étude, où un PET-CT a été réalisé, montrant une masse hypermétabolique dans la lingula, ainsi qu'un épaississement pleural et de multiples adénopathies sus-claviculaires, médiastinales et rétropéritonéales. Des lésions lytiques ont également été trouvées au niveau de l'axe, de C7, de L4 et du sacrum, compatibles avec des métastases.
+La cytologie du liquide pleural était concluante pour un adénocarcinome, CK7+, TTF-1+.
+Une biopsie pleurale a été réalisée le 17/12/2013, montrant une amélioration clinique progressive, et le patient a finalement été autorisé à rentrer chez lui après 20 jours d'hospitalisation.
+
+Diagnostic
+Le cas décrit est celui d'un homme d'âge moyen, 65 ans, ex-fumeur, atteint d'un adénocarcinome pulmonaire de catégorie cT2bN3M1c, de stade IVb, avec dissémination pleurale, ganglionnaire et osseuse.
+
+Traitement
+Le patient a été évalué dans le service ambulatoire d'oncologie médicale et, après avoir assuré un traitement de 10 jours à la vitamine B12 et à l'acide folique, il a commencé le 31 décembre 2013 un traitement systémique de première intention à base de cisplatine 75 mg/m2 et de pemetrexed 500 mg/m2 tous les 21 jours.
+Après 5 cycles de traitement, il a obtenu une réponse partielle (Response Evaluation Criteria in Solid Tumors [RECIST] : 50%), et a terminé un total de 6 cycles.
+
+Évolution
+Il a continué à être surveillé jusqu'en novembre 2015, date à laquelle il a présenté une progression locale. À ce moment-là, il a été considéré comme un candidat pour une deuxième ligne avec le docétaxel 75 mg/m2 tous les 21 jours dans l'étude de phase III SUNRISE, qui a comparé docétaxel + bavituximab contre docétaxel + placebo. La maladie stable a été atteinte comme réponse maximale (RECIST : -14%), en complétant un total de 6 cycles.
+En janvier 2017, de multiples nodules pulmonaires bilatéraux et une carcinomatose péritonéale ont été observés. La détermination de PD-L1 dans la cytologie pleurale du diagnostic était positive avec une expression élevée (90%) et, étant donné le bon état général du patient, ECOG PS 1, une troisième ligne avec pembrolizumab 2 mg/kg tous les 21 jours a été proposée, qui a débuté le 09/02/2017.
+Lors du bilan précédant le deuxième cycle, le patient a rapporté une augmentation des plaques rougeâtres apparues quelques années auparavant dans la région costale inférieure gauche. À l'examen physique, l'extension de ces lésions à la région dorsale et supramammaire ipsilatérale était notable, avec l'apparition de nouvelles lésions dans la région costale antérieure droite. Le patient a été envoyé en dermatologie pour une évaluation et un prélèvement afin d'exclure une composante à médiation immunitaire. La biopsie s'est révélée positive pour un adénocarcinome peu différencié.
+Le patient a poursuivi son traitement jusqu'au 21/03/2017, date à laquelle il a consulté l'hôpital de jour d'oncologie en raison d'une dyspnée au moindre effort. Un scanner thoracique urgent a été réalisé, qui a montré un nouvel épanchement péricardique diffus important, d'une épaisseur de 40 mm et des signes de tamponnade cardiaque. En outre, il y avait une augmentation des lésions pulmonaires, avec une lymphangite carcinomateuse et une augmentation du liquide péritonéal. Il a été transféré d'urgence à l'unité coronaire, où un drain péricardique a été mis en place avec 50 ml de liquide sérohématique en sortie. La cytologie a confirmé son origine maligne. L'expression de PD-L1 était positive dans les deux échantillons (peau et liquide péricardique), à 80 % et 75 % respectivement. Le patient a évolué favorablement, avec un échocardiogramme de contrôle montrant une nette réduction de l'épanchement (6 mm), et a finalement été renvoyé chez lui.
+Il a de nouveau été évalué en consultation externe et, compte tenu de son bon état général à ce moment-là et du long intervalle sans progression, après le doublet de platine initial, une nouvelle ligne de traitement par carboplatine AUC 5 + vinorelbine 25 mg/m2 a été proposée, qu'il a commencée le 05/04/2017. Cependant, il a été admis le 05/05/2017 pour des symptômes subocclusifs secondaires à une atteinte péritonéale avec détérioration de l'état général. Il a présenté une évolution torpide, réfractaire au traitement médical administré et est finalement décédé le 06/07/2017.

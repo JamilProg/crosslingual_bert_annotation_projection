@@ -1,0 +1,10 @@
+T1	pathologie 145 156	traumatismo
+T2	pathologie 900 945	región costal derecha fue informada de lipoma
+T3	pathologie 1063 1137	lesión firmemente adherida a la fascia del músculo frontal y al pericráneo
+T4	pathologie 1632 1646	lesión nodular
+T5	pathologie 2278 2325	neoplasia benigna de origen mesenquimal tipo FN
+#1	SNOMED T5	703616008
+#2	SNOMED T3	26077002+118934005
+#3	SNOMED T2	448270009
+#4	SNOMED T1	417746004
+#5	SNOMED T4	27925004

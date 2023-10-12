@@ -1,0 +1,44 @@
+Anamnèse
+Une femme de 36 ans qui, depuis juillet 2016, a signalé une douleur mécanique au genou gauche qui s'est progressivement aggravée. Par la suite, elle a éprouvé des difficultés à se déplacer. Le 2 février 2017, on lui a diagnostiqué une thrombose veineuse profonde du membre inférieur gauche, sous traitement par énoxaparine.
+Antécédents personnels
+"Aucune allergie médicamenteuse connue.
+"Pas de diabète sucré, d'hypertension ou de dyslipidémie. Pas d'habitudes toxiques.
+"Pas d'antécédents chirurgicaux. Pas d'antécédents cardiaques, gastro-intestinaux ou bronchopathiques connus.
+"Profession : assistant administratif.
+"Traitement actuel : enoxaparine 60 mg/12h et paracétamol 1 g/8h.
+Antécédents familiaux
+Grand-père maternel cancer du colon à 65 ans et cancer du poumon à 79 ans. La grand-mère paternelle est décédée à l'âge de 75 ans d'un cancer du poumon. Cousine germaine paternelle atteinte d'un cancer du sein à l'âge de 43 ans. Oncle paternel atteint d'un cancer du pancréas à l'âge de 70 ans.
+
+Examen physique
+"PS ECOG 1, vient à la consultation en fauteuil roulant.
+"Conscient et orienté. Non hydraté et de couleur normale.
+"Pas d'adénopathies périphériques.
+"Auscultation cardiaque : tons rythmés, pas de souffle.
+"Auscultation pulmonaire : eupnéique. Murmure vésical conservé, pas de bruits supplémentaires.
+"Abdomen : mou, dépressible, non douloureux à la palpation. Pas de masses ni de mégalithes.
+Péristaltisme présent.
+"Membres inférieurs : pas d'œdème. Douleur et gonflement du genou gauche.
+
+Tests complémentaires
+" 02/02/2017. Échographie doppler veineuse urgente du membre inférieur gauche. Signes de thrombose veineuse profonde dans la veine fémorale superficielle à partir de son tiers moyen dans la cuisse, ainsi que dans la veine poplitée, avec extension au moins vers les troncs tibiopéroniers proximaux. Des résultats similaires sont également observés dans une veine intramusculaire de l'intérieur du mollet.
+" 06/02/2017. IRM du genou gauche. Il existe une large lésion occupant l'espace au niveau du condyle fémoral interne, expansive, élargissant le condyle et présentant des signes radiologiques d'agressivité avec interruption de la corticale. La lésion présente une hyperintensité hétérogène du signal pondéré en T1 et des artefacts de susceptibilité magnétique marqués sur l'échographie en Gr montrant une prise de contraste hétérogène. Les diamètres approximatifs de la lésion sont de 5,7 x 5,1 x 4,2 cm CC x AP x T. Il s'agit d'une lésion néoplasique primaire agressive, la première possibilité diagnostique évoquant un chondrosarcome, et moins probablement un ostéosarcome. L'œdème de l'os adjacent est minime. Léger épanchement articulaire. Après administration de produit de contraste, on observe une prise synoviale, probablement due à une synovite. Le ménisque présente un volume, une morphologie et une intensité de signal normaux, sans signe de déchirure ou de dégénérescence à l'examen actuel. Thrombose de la veine poplitée avec œdème dans la musculature de la face postérieure du genou. Kyste de Baker. Signe probable de la bandelette iliotibiale.
+" 03/03/2017. Tomodensitométrie du thorax, de l'abdomen et du bassin réalisée après administration d'un produit de contraste intraveineux. Aucun signe d'extension de la maladie à distance.
+" 03/03/2017. Tomodensitométrie du genou gauche (coupes axiales et MPR). Tumeur osseuse centrée sur le condyle fémoral interne du fémur, aux caractéristiques lytiques, expansive avec des zones d'amincissement cortical marqué, d'autres d'aspect mité avec des microfoyers de déhiscence osseuse, et des foyers de déhiscence osseuse plus évidents de 1,3 cm dans la région postérieure et de 1 cm dans la région médiale. A travers ces foyers, on observe une extension de la tumeur en dehors des marges osseuses sous la forme d'une petite hernie. Le bord interne de la lésion est circonscrit, mais ne présente pas de bordure scléreuse. La tumeur touche légèrement la corticale de l'aspect articulaire du condyle fémoral interne. La masse intratumorale présente des valeurs d'atténuation élevées par rapport à la prise de contraste tardive. Petit épanchement articulaire. Image de thrombus dans la veine poplitée et la veine gémellaire interne. Impression diagnostique : tumeur osseuse aux caractéristiques agressives dans le condyle fémoral interne compatible comme première option diagnostique avec une tumeur à cellules géantes.
+" 03/03/2017. Analyse de sang. Pas d'altération.
+" 15/03/2017. Biopsie à l'aiguille carottée guidée par scanner d'une lésion lytique dans le condyle fémoral interne du genou gauche. Données morphologiques compatibles avec le diagnostic radiologique de tumeur à cellules géantes.
+
+Diagnostic
+Tumeur à cellules géantes dans le condyle fémoral gauche.
+
+Traitement
+La nature et le pronostic de la maladie sont rapportés et un traitement par denosumab 120 mg en sous-cutané (jours 1, 8, 15 et 28 ; ensuite tous les 28 jours) est proposé, à partir du 06/04/2017, associé à une supplémentation en calcium/vitamine D (1 000 mg/880UI) toutes les 24 h.
+
+Évolution
+Pendant le traitement, la patiente ne présente aucune toxicité liée au médicament et une réponse clinique claire est progressivement évidente avec une récupération de l'amplitude des mouvements et un meilleur contrôle des analgésiques. Elle est capable de commencer des activités sportives telles que la natation et de marcher avec des béquilles.
+Après 6 cycles de traitement, elle est allée en consultation avec réévaluation de la réponse en octobre 2017.
+" 04/10/2017. Échographie doppler veineuse du MII : aucun signe échographique de TVP n'est observé.
+" 04/10/2017. Tomodensitométrie du genou gauche (coupes axiales MPR) . Tumeur lytique dans la région épiphysométaphysaire du fémur distal interne du fémur gauche déjà connue et diagnostiquée comme une tumeur à cellules géantes. Par rapport à l'étude précédente avec laquelle nous avons comparé, réalisée le 3 mars 2017, avant le début du traitement par dénosumab, une diminution du volume de la tumeur a été observée, principalement aux dépens de ses diamètres antéropostérieur et transversal. La composante expansive de la lésion a significativement diminué, principalement aux dépens de sa partie antéro-médiale, où une déhiscence osseuse a été initialement observée. Dans l'étude actuelle, le cortex osseux s'est reconstitué dans les zones de déhiscence et s'est renforcé dans les zones où il était très aminci. Cette réosification est également visible au niveau intralésionnel avec l'apparition de plusieurs foyers de calcification au sein de la tumeur avec un début de trabéculation dans la partie antérieure du condyle fémoral interne. Actuellement, on observe une altération de l'interligne articulaire fémoro-tibial interne avec un aplatissement de la partie antérieure de la surface articulaire du condyle interne et une surcroissance du condyle sur la face antérieure médiale du condyle interne.
+Au vu de ces résultats, l'énoxaparine a été retirée à une dose anticoagulante et maintenue à une dose prophylactique (40 mg/24 h).
+À ce stade, il a été décidé de présenter le patient au comité des tumeurs osseuses pour évaluer le curetage et le remplissage ultérieur avec du ciment.
+En novembre 2017, le cas a été évalué par le comité multidisciplinaire des tumeurs osseuses et il a été décidé de poursuivre pendant 6 cycles supplémentaires avec le dénosumab car, à ce moment-là, la marge articulaire n'était pas suffisante pour pouvoir intervenir en toute sécurité et ne pas endommager l'articulation.
+Le patient attend actuellement une réévaluation de la maladie par tomodensitométrie pour tenter une résection chirurgicale.

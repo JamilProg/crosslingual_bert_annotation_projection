@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 62 ans sans antécédents personnels ou familiaux pertinents qui a consulté le service de gynécologie pour des métrorragies en mars 2009, sans autres symptômes.
+
+Examen physique
+À l'examen physique, la patiente était stable sur le plan hémodynamique et afébrile. L'abdomen était souple et non douloureux à la palpation. Aucune masse n'était palpable. Le reste de l'examen était tout à fait normal.
+
+Tests complémentaires
+"NFS : normale, avec LDH 121 U/l (120,0-250,0), antigène carcinoembryonnaire (ACE) < 0,5 ng/ml (0,0-3,0) et antigène CA 125 27,0 U/ml (0,0-35,0).
+"Échographie transvaginale : endomètre épaissi de 38 mm.
+"Hystéroscopie : polype de 3 cm inséré dans le fundus du côté droit, surface irrégulière avec vaisseaux anormaux et tissu friable.
+"Tomodensitométrie abdominopelvienne : aucun signe de propagation de la tumeur.
+"Biopsie : adénocarcinome endométrioïde bien différencié.
+
+Diagnostic
+Adénocarcinome de l'endomètre cTxN0M0.
+
+Traitement
+Une hystérectomie totale avec double annexectomie, lymphadénectomie pelvienne et lavage péritonéal a été pratiquée, révélant un adénocarcinome infiltrant invasif avec ulcération à sa surface qui a rompu la capsule de l'organe et a infiltré l'ovaire gauche et a montré un modèle de croissance tubulo-papillaire, sans preuve d'infiltration des structures vasculaires. La cytologie du liquide ascitique est positive pour la malignité. 38 ganglions lymphatiques ont été réséqués sans atteinte : adénocarcinome endométrioïde de grade 2 selon la FIGO, stade pT3a pN0 cM0.
+Elle a ensuite reçu une radiothérapie (50,4 Gy) en décembre 2009 et a développé une proctite actinique secondaire.
+
+Évolution
+Il a subi des examens semestriels, sans signe de récidive, jusqu'à ce qu'un scanner, en janvier 2015, révèle un nodule de 1,5 cm dans le lobe pulmonaire inférieur droit (LID) et des images d'épaississement pleural basal droit. Une nouvelle IRM a confirmé l'existence de multiples nodules sous-diaphragmatiques suggérant la présence d'implants tumoraux péritonéaux. Une chimiothérapie a été débutée avec 6 cycles de carboplatine-paclitaxel, avec une bonne tolérance (vomissements et neurotoxicité de grade 1) et une réponse partielle au scanner de septembre 2015. Compte tenu de la bonne réponse à la chimiothérapie et du doute que la lésion pulmonaire soit due à une contiguïté plutôt qu'à une métastase pulmonaire hématogène, un sauvetage chirurgical a été envisagé. En octobre 2015, une chirurgie cytoréductive péritonéale (CRS) a été réalisée avec une résection partielle de l'hémidiaphragme droit en raison de la présence d'une lésion de 10 x 6 cm à son insertion, une omentectomie et une appendicectomie, ainsi qu'une HIPEC (paclitaxel à 42 ºC pendant 60 minutes). Pathologie : adénocarcinome endométrioïde bien différencié très évocateur de métastases de la tumeur primaire.
+Dans la revue d'août 2016, lorsqu'une croissance du nodule pulmonaire de 9 mm à 12 mm a été observée dans la LID, et que la résection chirurgicale a été décidée au moyen d'une lobectomie inférieure droite, avec une anatomie pathologique : adénocarcinome infiltrant d'un diamètre maximal de 2,2 cm, compatible avec une métastase d'un adénocarcinome endométrioïde bien différencié avec des récepteurs positifs aux œstrogènes et à la progestérone. Un traitement hormonal a été proposé, que la patiente a refusé.
+Actuellement, la patiente jouit d'une bonne qualité de vie et d'un bon état fonctionnel. Elle continue d'être suivie sans aucun signe de récidive, avec un intervalle sans maladie de 20 mois.

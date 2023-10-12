@@ -1,0 +1,36 @@
+Anamnèse
+Enceinte de 33 semaines (G:3, P:1, V:1, A:1) et âgée de 19 ans. Antécédents de rhinite allergique et de syndrome du côlon irritable. Aucune habitude toxique. Cholécystectomie en mars 2010. Pas d'autres antécédents.
+Elle a consulté le service des urgences le 7/1/2011 en raison d'une semaine de dyspnée progressive jusqu'au repos. Elle avait signalé une dysphonie et une lymphadénopathie douloureuse cervicale gauche de croissance progressive depuis 3 mois.
+
+Examen physique
+ECOG = 0. Hémodynamiquement stable, tachypnée à 40 respirations/minute. Stridor laryngé.
+Adénopathie de 8 cm de diamètre au niveau cervical II gauche, pierreuse et adhérente aux plans profonds. Pas d'autre adénopathie cervicale, sus-claviculaire, axillaire ou inguinale.
+Laryngoscopie indirecte : tumeur hémilaryngée gauche avec diminution de plus de 50 % de la lumière glottique et déplacement de la corde vocale droite.
+Auscultation cardiaque normale.
+Auscultation pulmonaire avec diminution du murmure vésiculaire dans les deux hémithorax.
+L'abdomen est gravide, normal à l'examen.
+Extrémités sans altération.
+
+Tests complémentaires
+- Lors des soins d'urgence, il a été nécessaire de réaliser une trachéotomie urgente.
+- Biopsie à l'aiguille de l'adénopathie cervicale (11/1/2011) : compatible avec une tumeur maligne à petites cellules.
+- Compte tenu du diagnostic histologique préliminaire, l'accouchement a été déclenché le 19/1/2011.
+- Immunohistochimie de la biopsie de l'adénopathie cervicale : AE1/AE3, CK7 et CK8.18 négatifs. Immunoréactivité intense et diffuse pour p63, synaptophysine, CD56 et CD57. Chromogranine négative. Positivité focale pour la vimentine et le CD99. CD20 et CD3 positifs dans la composante lymphoïde mixte de l'échantillon. ACL négatif, sauf dans les cellules lymphoïdes périvasculaires. Pas de réaction à la myogénine, à la desmine et à la protéine S-100. Ki67 de 100 %.
+- FISH pour la détection du réarrangement du gène EWS : non concluant.
+- Analyse du réarrangement du gène NUT : négative.
+- TDM cerveau-cou-thorax-abdomen-pelvis (21/1/2011) : masse glottique-supraglottique gauche de 3,5 cm de diamètre qui occupe la vallecula et le sinus piriforme gauche et s'étend à l'épiglotte avec épaississement des deux cordes, principalement la gauche, avec une masse de tissu mou qui occupe la commissure antérieure, déplace les voies respiratoires et réduit considérablement la lumière. Conglomérat adénopathique latérocervical gauche dans l'espace jugulo-carotidien mesurant 7,2 x 3,5 cm.
+
+Diagnostic
+Carcinome neuroendocrine à petites cellules du larynx cT2-3N3M0. Stade IVB.
+
+Traitement
+Le 27 janvier 2011, il a commencé un traitement d'intention radical selon le schéma suivant : cisplatine 80 mg/m2 jour 1, étoposide 100 mg/m2 jours 1, 2 et 3 tous les 21 jours (4 cycles au total) et radiothérapie concomitante avec les deuxième et troisième cycles, atteignant 70 Gy après réduction volumétrique à 50 Gy (fractionnement : 2 Gy/fraction, 5 fractions/semaine).
+
+Évolution
+Scanner d'évaluation de la réponse après le quatrième cycle (10/5/2011) : diminution significative de la taille de la masse supraglottique, avec seulement un effacement de la graisse parapharyngée gauche et une oblitération du sinus piriforme homolatéral. Les cordes vocales étaient toujours touchées, davantage du côté gauche, ainsi que la commissure antérieure. Adénopathie pathologique de 13 mm de diamètre au niveau IIA gauche.
+Laryngoscopie : synéchies antérieures des cordes vocales, avec fibrose de la corde vocale gauche. Sinus piriforme libre, espace sous-glottique indemne de tumeur.
+Compte tenu de la réponse locale complète et de la persistance probable des ganglions lymphatiques, une aspiration cervicale gauche a été réalisée (30/6/2011), sans preuve de malignité dans l'étude anatomopathologique.
+La patiente est restée indemne de la maladie pendant les 5 mois suivants, à la fin desquels une récidive a été détectée dans le lobe inférieur droit du poumon, confirmée par fibrobronchoscopie et biopsie. Il a été décidé de retraiter avec du cisplatine et de l'étoposide à des doses identiques, étant donné la bonne réponse antérieure, confirmant une nouvelle réponse complète après 5 cycles en avril 2012.
+En décembre 2012, il consulte à nouveau pour asthénie, hyporexie et toux ; le scanner, la bronchoscopie et l'EBUS révèlent une récidive dans la lumière trachéale et dans la pyramide basale droite.
+Elle a de nouveau reçu une chimiothérapie selon le schéma cisplatine-étoposide, 3 cycles, entre le 8/12/2012 et le 12/2/2013, montrant une réponse partielle au scanner de réévaluation du 22/2/2013. Au cours des traitements successifs, la patiente a présenté une toxicité hématologique, des infections intercurrentes et une mauvaise tolérance subjective, avec la nécessité de réduire la dose dans les deux derniers cycles ; pour cette raison, le traitement systémique a été suspendu et la radiothérapie a été commencée, atteignant 60 Gy entre le 11/3/2013 et le 25/4/2013.
+Un nouveau scanner de réévaluation en mai 2013 a révélé une progression de la maladie, avec l'apparition de nouvelles lésions métastatiques dans les poumons et le foie. Une chimiothérapie de seconde ligne a été proposée, que la patiente a refusée, poursuivant un traitement symptomatique en soins palliatifs, et elle est décédée en décembre 2013.

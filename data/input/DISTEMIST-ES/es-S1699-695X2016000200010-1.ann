@@ -1,0 +1,14 @@
+T1	pathologie 156 170	otitis externa
+T2	pathologie 695 714	nistagmo horizontal
+T3	pathologie 1187 1202	blefaroespasmos
+T4	pathologie 1260 1287	parálisis facial periférica
+T5	pathologie 1630 1639	nistagmus
+T6	pathologie 1740 1773	vesículas en el pabellón auricula
+T7	pathologie 1832 1855	Síndrome de Ramsay Hunt
+#1	SNOMED T1	3135009
+#2	SNOMED T3	59026006
+#3	SNOMED T4	449916008
+#4	SNOMED T6	82515000+79313003
+#5	SNOMED T7	21954000
+#6	SNOMED T2	81756001
+#7	SNOMED T5	563001

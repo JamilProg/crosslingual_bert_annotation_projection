@@ -1,0 +1,25 @@
+Anamnèse
+Nous présentons le cas d'un homme de 38 ans, sans antécédents personnels ou familiaux intéressants, qui ne prend pas de traitement médical régulier et qui n'a pas subi d'intervention chirurgicale antérieure. En mars 2007, il consulte aux urgences pour une douleur du flanc gauche non irradiante évoluant depuis quelques jours, sans syndrome fébrile ni symptôme mictionnel associé.
+
+Examen physique
+L'examen physique initial est sans particularité, à l'exception de la présence d'une légère gêne au niveau du poing de percussion rénal gauche. L'abdomen est mou, dépressible, aucune masse ou mégalithe n'est palpable, il n'y a pas de signe de péritonisme et les bruits intestinaux sont préservés. Les signes vitaux sont stables et ne présentent pas d'altérations notables.
+
+Examens complémentaires
+Devant la suspicion clinique initiale de colique néphrétique compliquée, les examens suivants ont été réalisés :
+ échographie rénale : une masse hétérogène a été observée dans le tiers moyen du rein gauche.
+ L'étude a été complétée par un scanner thoraco-abdominal, qui a révélé l'absence d'adénopathies, de sorte que le patient a été programmé pour une intervention chirurgicale visant à réaliser une néphrectomie radicale.
+
+Diagnostic
+Une néphrectomie radicale a été pratiquée et le diagnostic anatomopathologique de la pièce opératoire était le suivant : carcinome rénal à cellules claires d'un diamètre supérieur à 7,7 cm (grade histologique de Furhman 3) avec atteinte microscopique de la capsule et de la veine rénales (pT3N0Mx : stade II).
+
+Traitement
+Au vu de ces résultats, il a été décidé de poursuivre une surveillance étroite avec des tests d'imagerie et des contrôles analytiques.
+
+Évolution
+À 18 mois de suivi, un scanner abdominopelvien a montré une adénopathie para-aortique gauche mesurant 16 mm avec quelques ganglions lymphatiques médiastinaux, paratrachéaux et pré-vasculaires mesurant moins de 1 cm, de nature non spécifique.
+Il a été décidé de procéder à une nouvelle tomodensitométrie abdominopelvienne à 4 mois, soit après 22 mois de suivi. On a observé une adénopathie para-aortique de 18 mm, une adénopathie paratrachéale de 22 mm et une adénopathie rétrocrurale droite de 24 mm, toutes plus grandes que sur le scanner précédent.
+Il a donc été décidé d'effectuer une TEP-TDM, qui a révélé la présence de ganglions lymphatiques para-aortiques gauches, paratrachéaux gauches, thyroïdiens et de la crosse de l'aorte.
+À partir de ce moment, un diagnostic de progression ganglionnaire médiastinale et para-aortique d'un carcinome rénal à cellules claires a été posé et un traitement de première intention par sunitinib 50 mg par jour selon un schéma 4:2 a été entamé en mars 2009.
+Au cours du suivi par imagerie, après le début du traitement par le sunitinib, il a été observé que la première mesure des lésions cibles basales était L1 22 mm et L2 18 mm et que lors de la troisième évaluation par tomodensitométrie, une nette croissance de L1 34 mm et L2 16 mm a été observée. Une augmentation de 10 mm des dimensions globales des lésions a été observée (40 mm au départ et 50 mm lors de la réévaluation par tomodensitométrie), ce qui équivaut à 25 % et correspond à une première ILP de 8 mois si l'on applique les critères RECIST.
+Le patient a continué à prendre du sunitinib et nous avons ensuite observé une croissance minimale sur une période de 24 mois et une augmentation du taux de croissance de 44 % au cours des 11 mois suivants. Cette deuxième progression selon les critères RECIST équivaudrait à un deuxième PPA de 35 mois avec une croissance de trois lésions mesurables de 44 % (L1 34 mm, L2 16 mm et L3 22 mm), dont la somme totale est de 72 mm, augmentant à 104 mm (L1 43 mm L2 23 mm et L3 38 mm). Enfin, la troisième évaluation de la progression vers la 3eILP au sunitinib est de 41 mois, avec une croissance de la lésion cible de 21 % (L1 43 mm, L2 23 mm et L3 38 mm), dont la somme totale est de 104 mm, augmentant à 126 mm (L1 50 mm, L2 27 mm et L3 49 mm).
+Pendant toute la durée du traitement, le patient a fait preuve d'une excellente tolérance au médicament sans réduction de la dose, et il y a un bénéfice clinique constant sans aucun symptôme lié à la maladie, et il reste actif au travail.

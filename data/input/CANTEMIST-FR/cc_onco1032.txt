@@ -1,0 +1,55 @@
+Anamnèse
+Une femme de 38 ans présente les antécédents suivants :
+ Pas d'antécédents familiaux d'oncologie ni d'allergies médicamenteuses connues.
+ Fumeuse de 10 cigarettes par jour.
+ Ménarche à l'âge de 12 ans. G2A1P1. Allaitement maternel pendant 11 mois.
+ Opération de herniorraphie ombilicale.
+ Profession : technicien en radiologie.
+ANTÉCÉDENTS ONCOLOGIQUES :
+Septembre 2010 (grossesse au premier trimestre) : diagnostic de carcinome lobulaire infiltrant du sein droit, ER 87 %, PR 69 %, HER-2 +++, Ki 67 62 %. La grossesse a été interrompue, une chimiothérapie a été administrée en intention néoadjuvante au moyen de EC (90) X 4 cycles suivis de docetaxel + trastuzumab jusqu'en mars 2011, étant opérée en avril de la même année, avec une réponse pathologique complète dans le sein, l'implication de deux ganglions sur les 11 retirés, étant classée comme ypT0N1Mx.
+Juin 2011 : elle a reçu une radiothérapie adjuvante et a commencé une hormonothérapie avec du tamoxifène 20 mg/24 h, qu'elle a poursuivie pendant 5 ans.
+ANTÉCÉDENTS ACTUELS
+En décembre 2016, elle s'est présentée aux urgences pour des douleurs dorsolombaires intermittentes s'aggravant depuis deux semaines, accompagnées de paresthésies dans les membres, d'une faiblesse des membres internes et d'une perte de contrôle sphinctérien depuis 48 heures. Elle a été admise en neurologie.
+
+Examen physique
+ Bon état général. Conscient, orienté, coopératif et eupnéique. Pupilles isochores et normoréactives à la lumière. Mouvements oculaires extrinsèques conservés. Pas d'atteinte des fonctions supérieures.
+ Paraparésie avec équilibre 3/5 en MII et 4/5 en MID. Arréflexie rotulienne et achilléenne. Réflexe cutanéo-plantaire bilatéral indifférent. Hypoesthésie touch-algésie avec niveau en D8. Pas de dysmétrie ni de dysdiadochokinésie.
+ Auscultation cardio-pulmonaire normale.
+ Examen abdominal normal.
+
+Tests complémentaires
+ Hémogramme normal.
+ Hémostase et coagulation normales.
+ Biochimie normale.
+ Sédiment urinaire normal.
+ Tomodensitométrie crânienne urgente normale.
+ Culture et Gram du LCR : aucun résultat.
+ Première cytologie du LCR : pas de cellules néoplasiques.
+ IRM crânienne : pas de résultats pathologiques.
+ IRM cervicale et dorsale : pas de signes de myélopathie ou de carcinomatose méningée.
+ Protrusion discale C5-C6. Hémangiome D7.
+ Electromyogramme : discret tableau neurogène chronique dans la musculature MMII, sans signes dégénératifs aigus.
+ Potentiels évoqués : légère atteinte de la voie visuelle bilatérale dans les fibres de la vision centrale, légère atteinte extra-axiale de la voie acoustique.
+ Anticorps anti-NMO, antineuronaux et antigangliosides négatifs.
+ Marqueurs tumoraux : normaux sauf Ca 15.3 à 82.7 U/ml.
+ Nouvelle cytologie du LCR (27/01/2017) : infiltration carcinomateuse (PanCK +) avec GATA3 +, suggérant une origine mammaire.
+
+Diagnostic
+Infiltration méningée par un carcinome d'origine mammaire chez une patiente ayant des antécédents de carcinome lobulaire du sein en 2010.
+
+Traitement
+La patiente est prise en charge par le service d'oncologie médicale et, après une revue de la littérature, un traitement intrathécal hebdomadaire est mis en place :
+"Premier flacon (5 ml) : trastuzumab 40 mg.
+"Deuxième flacon (5 ml) : hydrocortisone 20 mg + cytarabine 30 mg + méthotrexate 12 mg.
+Comme soins de soutien, le patient a besoin de fentanyl transdermique 75 mcg/72 heures pour la dorsalgie.
+
+Évolution
+Après deux semaines, il est sorti de l'hôpital le 01/03/2017.
+ Par la suite, lors du suivi à l'ECCC, elle a poursuivi l'administration intrathécale hebdomadaire des médicaments décrits ci-dessus, avec une cytologie du LCR à chaque séance.
+ Le 08/03/2017, elle a commencé un traitement systémique par lapatinib 1 250 mg par voie orale toutes les 24 heures.
+ Le 30/03/2017, elle a subi une salpingo-ovariectomie bilatérale par laparoscopie, et a commencé à prendre du létrozole 2,5 mg/24 heures par voie orale le 05/04/2017.
+ Progressivement, la patiente a ressenti une amélioration de la douleur et une plus grande indépendance fonctionnelle.
+ Évolution du marqueur 15,3 : 82,7 UI/ml (29/12/2017) ; 66,7 UI/ml (16/03/2017) ; 44,7 UI/ml (05/04/2017) ; 38,5 UI/ml (20/04/2017).
+ Anatomie pathologique de la salpingo-ovariectomie bilatérale : métastase de carcinome mammaire avec l'étude immunohistochimique suivante : ER 100 %, PR 100 %, HER-2 +++, Ki 67 20 %.
+ Le 20/04/2017, une cytologie négative du LCR a été observée pour la première fois, qui a été maintenue le 04/05/2017.
+ 7/05/2017 : la patiente a présenté une hypotension lycopénique qui a nécessité une admission aux urgences pour observation, raison pour laquelle le régime a été modifié pour un calendrier trihebdomadaire.

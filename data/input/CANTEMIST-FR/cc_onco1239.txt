@@ -1,0 +1,28 @@
+Anamnèse
+Femme de 72 ans, avec des antécédents personnels d'hypertension artérielle, de colique néphrétique et de polypose rectale. Elle a subi une appendicectomie, une cataracte, une arthroscopie du genou et une thyroïdectomie totale en 2009 avec pour résultat un goitre dyshormonogénétique. Elle a présenté une douleur costale droite à caractère inflammatoire qui ne s'est pas améliorée avec le traitement médical.
+
+Examen physique
+ECOG 0. Patient conscient, orienté, réceptif et perceptif. Eupnéique au repos. Pâleur cutanée non muqueuse.
+Normohydraté. Glasgow 15. Tête et cou : cicatrice de thyroïdectomie ; pas d'adénopathies palpables latérocervicales ou supraclavillaires. Poitrine symétrique et extensible. Auscultation pulmonaire : ventilation normale. Auscultation cardiaque : rythme cardiaque à 75 bpm sans souffle ni extratonos. Abdomen : légèrement excavé, souple, dépressible, non douloureux. Pas de signes d'irritation péritonéale. Péristaltisme présent. Membres inférieurs : pas d'œdème ni de signes de TVP.
+
+Examens complémentaires
+- Radiographie simple réalisée en raison d'une douleur à la côte droite : lésion ostéolytique à la 3e côte droite d'aspect malin. Une biopsie a été réalisée le 28/3/2011, qui a montré un parenchyme thyroïdien avec un motif folliculaire et aucune zone de carcinome ou d'invasion lymphatique ou vasculaire n'a été identifiée.
+- Tomodensitométrie thoraco-abdominale (mai 2011) : masse de tissus mous avec destruction de l'arc antérieur de la troisième côte droite, destruction du composant antérieur de D10 et destruction du petit trochanter de la hanche droite, compatible avec une dissémination métastatique. Nodules pulmonaires bilatéraux compatibles avec une métastase.
+- Une scintigraphie à l'131I (juillet 2011) a permis de diagnostiquer de multiples métastases osseuses dans le squelette axial, la calotte, le bassin et les fémurs.
+
+Diagnostic
+Carcinome thyroïdien folliculaire de stade IV (métastases osseuses multiples dans le squelette axial, la calotte, les deux fémurs, la cage thoracique, le bassin, la diaphyse humérale gauche et très probablement pulmonaire).
+
+Traitement
+La patiente a été adressée à la médecine nucléaire pour un traitement à l'131I et une dose de 200 mCi a été administrée avec le protocole TSHrh le 4/7/2011. Le taux de TSH était de 150,99 ?U/ml, le taux de thyroglobuline de 284,160 ng/ml et le taux d'anticorps anti-thyroglobuline de 21,51 UI/ml.
+Lors de la scintigraphie post-thérapeutique, des métastases osseuses ont été observées dans la calotte, la colonne vertébrale, la cage thoracique, le bassin, les fémurs et très probablement dans les poumons.
+Après le traitement à l'iode radioactif, le patient a montré une grande amélioration clinique et les niveaux de thyroglobuline ont diminué à 48 700 ng/ml.
+Lors de l'examen d'octobre 2011, le taux de thyroglobuline a augmenté pour atteindre 59 145 ng/ml et la tomodensitométrie a montré une augmentation de la tumeur costale. Au cours de son évolution ultérieure, elle a présenté une douleur métastatique de forte intensité au niveau pelvien et a été examinée dans un autre centre (CUN) où, du 21/12/2011 au 11/1/2012, la patiente a reçu des fractions quotidiennes de radiothérapie à L5, au sacrum, à l'ischion gauche et au fémur droit jusqu'à ce qu'elle atteigne une dose totale de 35 Gy dans tous les volumes.
+Après cela, elle a été adressée à la médecine nucléaire pour évaluer la possibilité d'un nouveau traitement à l'iode radioactif, qui serait effectué avec le protocole HRST. La HRST a été administrée par voie IM les 20 et 21/2/2012. 100 mCi de 131I ont été administrés par voie orale.
+Suivi post-thérapeutique : aucun changement par rapport aux précédents. Douleur clinique.
+Au cours du suivi ultérieur, une augmentation des marqueurs (TGB, anticorps antithyroïdiens) et une progression de l'imagerie radiologique avec des fractures dans les branches iliopubiennes et ischiopubiennes droites, ainsi que dans la branche ischiopubienne gauche (sur une zone déjà irradiée) ont été observées. Cliniquement, la douleur s'est manifestée malgré une analgésie de troisième niveau.
+Après évaluation des doses d'irradiation reçues et de la possibilité d'une iatrogénie avec une nouvelle dose d'131I, la patiente a été considérée comme iodo-réfractaire, le sorafenib a donc été demandé à titre compassionnel en raison de ses bons résultats à l'époque dans un essai de phase II.
+
+Evolution
+Le traitement a débuté le 22/11/2012 à 400 mg deux fois par jour, avec une amélioration clinique, une diminution des marqueurs (TGB) et une stabilité de la maladie aux examens radiologiques (CT) et à la scintigraphie à l'131I.
+Après presque deux ans, la patiente poursuit depuis le sorafénib à la dose de 800 mg/jour avec quasiment aucune toxicité, à l'exception d'un syndrome main-pied de grade 1 et surtout avec une excellente qualité de vie, avec un ECOG 0 et aucune limitation fonctionnelle pour les activités quotidiennes.

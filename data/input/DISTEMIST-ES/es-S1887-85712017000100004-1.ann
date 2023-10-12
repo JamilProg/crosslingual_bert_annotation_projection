@@ -1,0 +1,16 @@
+T1	pathologie 98 210	impacto de un proyectil (calibre de 9 mm.), por disparo accidental de pistola, a corta distancia, sobre el muslo
+T2	pathologie 324 425	fractura de tercio distal de fémur derecho, abierta Gustilo tipo III, conminuta, y sin desplazamiento
+T3	pathologie 475 483	lesiones
+T4	pathologie 540 556	heridas en muslo
+T5	pathologie 916 962	fractura conminuta del tercio distal del fémur
+T6	pathologie 1838 1885	retardo de consolidación en el foco de fractura
+T7	pathologie 1972 2018	ausencia de consolidación del foco de fractura
+T8	pathologie 2411 2449	contractura en extensión de la rodilla
+#1	SNOMED T2	208591002
+#2	SNOMED T6	281466008
+#3	SNOMED T5	263232003
+#4	SNOMED T7	281466008
+#5	SNOMED T8	239739005
+#6	SNOMED T4	7523003
+#7	SNOMED T3	157670007
+#8	SNOMED T1	243005007

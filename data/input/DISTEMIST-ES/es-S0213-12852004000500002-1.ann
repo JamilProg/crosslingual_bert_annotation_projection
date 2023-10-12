@@ -1,0 +1,6 @@
+T1	pathologie 255 261	lesión
+T2	pathologie 301 313	ulceraciones
+T3	pathologie 1025 1037	masa tumoral
+#1	SNOMED T2	429040005
+#2	SNOMED T1	417163006
+#3	SNOMED T3	55342001

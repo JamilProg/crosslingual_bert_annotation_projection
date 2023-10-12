@@ -1,0 +1,33 @@
+Anamnèse
+Femme de 56 ans, fumeuse active jusqu'au diagnostic, avec une consommation cumulée de tabac de 20 paquets-années. En janvier 2016, elle a commencé par présenter des manifestations cliniques de toux avec expectoration purulente sans fièvre, orthopnée ou dyspnée paroxystique nocturne, initialement traitée comme une infection respiratoire avec des bronchodilatateurs et des antibiotiques.
+Présentant une mauvaise évolution clinique avec les mesures mises en œuvre, elle s'est rendue aux urgences de son hôpital de référence le 9 février 2018 en raison d'une dyspnée sévère.
+Après le diagnostic de SVCS secondaire à une volumineuse masse supra-hilaire droite, une surinfection respiratoire et une insuffisance respiratoire globale avec acidose nécessitant une assistance ventilatoire, elle a été transférée en urgence dans le service de pneumologie de notre centre pour une ventilation mécanique non invasive (VNI), l'étude de la masse et un traitement spécifique.
+Le lendemain matin, le service de pathologie a été contacté et a réalisé une biopsie du bloc adénopathique sus-claviculaire, confirmant histologiquement un carcinome pulmonaire microcytaire.
+
+Examen physique
+Tension artérielle 128/72 mm Hg. FC 120 bpm. O2 Sat. O2 97 % avec oxygénothérapie et VNI avec FiO2 50 %. Conscient, orienté et coopératif. Mauvaise perfusion périphérique, avec lividité et cyanose acrale. Travail respiratoire important, avec tachypnée et utilisation des muscles accessoires. Grosse adénopathie sus-claviculaire droite, de consistance pierreuse, fixée aux plans profonds. Auscultation pulmonaire avec des rhonchies éparses et des crépitants de la base gauche. Auscultation cardiaque avec bruits cardiaques rythmés.
+Membres inférieurs sans œdème ni signe de thrombose veineuse profonde.
+
+Examens complémentaires
+"Biochimie : sodium, potassium, urée et créatinine normaux, créatine kinase 186 U/l, troponine I 6,1 ng/l, CRP 32,54 mg/dl.
+"Hémoglobine 15,7 g/dl, plaquettes 252 000/ml, leucocytes 23 000/ml, 87 % polymorphonucléaires.
+"Coagulation : taux de prothrombine 50 %.
+"Gaz du sang artériel de base : pO2 25,4 mm Hg, pCO2 70,7 mm Hg, SatO2 43,6 %, pH 7,287.
+"Gaz du sang de contrôle avec la VNI : pO2 138 mm Hg, pCO2 55,2 mm Hg, pH 7,38, excès de base 3,2, bicarbonate 29 mmol/l.
+"Électrocardiogramme : tachycardie sinusale à 120 bpm.
+"Radiographie pulmonaire portable : infiltrat alvéolaire à la base du poumon gauche, avec bronchogramme aérien, évoquant une consolidation pulmonaire. Masse supra-hilaire droite.
+"Tomodensitométrie thoracique : volumineuse masse supra-hilaire droite infiltrant les structures médiastinales, s'étendant au côté controlatéral et à la région sus-claviculaire, avec adénopathies infracarinales, hilaires bilatérales et axillaires droites dans la plage pathologique, le tout évoquant une néoplasie pulmonaire primitive. Masse cavitaire dans le lobe supérieur droit et nodules pulmonaires dans le lobe supérieur gauche, évocateurs de métastases. Infiltrats de type alvéolaire avec zones de consolidation dans le lobe inférieur gauche et la lingula, ainsi que dans le lobe moyen, d'origine inflammatoire-infectieuse aiguë probable. Circulation collatérale abondante dans la paroi costale et périvertébrale gauche, secondaire à l'effondrement de la veine cave inférieure par la masse précédemment décrite.
+"Aspiration à l'aiguille fine de la lésion dans la région sus-claviculaire droite : carcinome pulmonaire neuroendocrine à petites cellules (carcinome microcytaire).
+
+Diagnostic
+Syndrome de la veine cave supérieure secondaire à un carcinome microcytaire du poumon, maladie étendue avec atteinte supraclaviculaire s'étendant à la région cervicale et axillaire.
+
+Traitement
+Après la biopsie réalisée par l'anatomo-pathologie, la radiothérapie oncologique a été contactée, qui a administré une radiothérapie décompressive flash de 8 Gy sur la lésion hilaire, et l'oncologie médicale, qui, après confirmation histologique du carcinome pulmonaire microcytaire, a prescrit en urgence le premier cycle de carboplatine 4 AUC + étoposide 80 mg/m2 (à 80 % d'intensité de dose et en évitant le cisplatine en raison de l'état général médiocre du patient). Dose totale pour une surface corporelle de 1,5 m2 : carboplatine 500 mg iv jour 1 + étoposide 120 mg iv jours 1, 2 et 3.
+
+Évolution
+La patiente est restée hospitalisée dans le service de pneumologie avec une amélioration progressive de son état général et une moindre dépendance à la ventilation mécanique non invasive. Elle est sortie de l'hôpital après 14 jours, sans avoir eu besoin d'oxygénothérapie à domicile. Lors de son admission, un scanner du crâne, du thorax et de l'abdomen a été réalisé, qui a montré une légère réduction de la masse médiastinale (7 jours après le début du traitement).
+En ambulatoire, un PET-CT a été réalisé et a montré une atteinte ganglionnaire métastatique locale et distante, ainsi qu'une lésion rétropéritonéale hypermétabolique évocatrice de métastases.
+La patiente s'est présentée à la consultation externe le jour du deuxième cycle, signalant une dyspnée et une toux productive, avec une leucocytose et une neutrophilie dans les analyses sanguines, ce qui a nécessité une nouvelle admission à l'hôpital en raison d'une insuffisance respiratoire. En raison de la suspicion d'une infection respiratoire d'origine nosocomiale, une oxygénothérapie et un traitement antibiotique à large spectre ont été mis en place. Compte tenu de la faible évolution dans les heures suivantes, il a contacté le service de pneumologie et il a été décidé de procéder à une ventilation mécanique non invasive jusqu'à la réévaluation radiologique de la maladie.
+Un scanner du thorax, de l'abdomen et du bassin a montré une diminution de la taille de la masse médiastinale et hilaire droite, mais en conséquence une nécrose avec destruction de la paroi trachéale droite a été observée, qui communiquait avec une cavité aérienne de 4 cm, qui présentait une fistule avec une cavitation périphérique de 5 cm. Il y a également une réponse de deux nodules pulmonaires, avec cavitation et présence d'un niveau hydro-aérien à l'intérieur. L'apparition d'une consolidation de l'espace aérien avec bronchogramme dans le lobe inférieur droit et de multiples nodules centrolobulaires et un motif arborescent en foyer, principalement dans les lobes inférieurs, compatible avec un processus infectieux-inflammatoire associé.
+Compte tenu du mauvais pronostic à court terme dû aux altérations présentées par le scanner et de la souffrance physique du patient malgré les mesures mises en place, la VNI a été interrompue et une sédation palliative a été mise en place, et le patient est finalement décédé.

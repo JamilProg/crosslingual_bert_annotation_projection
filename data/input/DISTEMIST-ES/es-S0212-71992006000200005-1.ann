@@ -1,0 +1,14 @@
+T1	pathologie 346 353	fumador
+T2	pathologie 1305 1334	lesiones quísticas pulmonares
+T3	pathologie 1481 1525	lesión lítica a nivel del cuarto arco costal
+T4	pathologie 2323 2327	HPCL
+T5	pathologie 2366 2382	hábito tabáquico
+T6	pathologie 2512 2530	lesiones quísticas
+T7	pathologie 2754 2765	lesión ósea
+#1	SNOMED T2	275504005
+#2	SNOMED T3	203522001
+#3	SNOMED T4	417152008
+#4	SNOMED T7	76069003
+#5	SNOMED T1	77176002
+#6	SNOMED T5	89765005
+#7	SNOMED T6	441457006

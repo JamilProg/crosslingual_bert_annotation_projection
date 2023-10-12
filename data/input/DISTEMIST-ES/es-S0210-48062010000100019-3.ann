@@ -1,0 +1,10 @@
+T1	pathologie 43 62	artritis reumatoide
+T2	pathologie 144 160	íleo suboclusivo
+T3	pathologie 366 381	coágulo vesical
+T4	pathologie 759 785	fisura en la pared vesical
+T5	pathologie 1086 1116	alteración hemodinámica severa
+#1	SNOMED T1	69896004
+#2	SNOMED T2	81060008
+#3	SNOMED T3	42643001
+#4	SNOMED T4	42643001
+#5	SNOMED T5	422773005

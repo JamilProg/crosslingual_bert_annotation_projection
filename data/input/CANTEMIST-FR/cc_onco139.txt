@@ -1,0 +1,28 @@
+Anamnèse
+Femme de 64 ans, pas d'allergie médicamenteuse connue, ex-fumeuse d'un paquet de cigarettes par jour. Elle a des antécédents familiaux de tante maternelle atteinte d'une néoplasie mammaire et des antécédents personnels d'hypertension, de dyslipidémie et de phakectomie. Elle suit un traitement à base de lansoprazole, de paracétamol et d'ibuprofène.
+En juillet 2014, elle s'est rendue à la clinique ambulatoire d'endocrinologie pour une hypertrichose. Elle a rapporté sa pilosité excessive habituelle, légère à modérée, qui s'est accentuée en mai 2014 avec un changement de ses caractéristiques. En outre, elle a noté une dyspepsie occasionnelle et une perte de poids d'environ 10 kg en 6 mois environ, que la patiente a attribuée à un régime hypocalorique.
+
+Examen physique
+L'examen physique a révélé la présence de poils fins, longs et hypopigmentés sur le menton et la région péribuccale, ainsi que sur les membres supérieurs et la région dorsolombosacrée, de même qu'une glossite. Le reste de l'examen était sans particularité.
+
+Examens complémentaires
+Les examens complémentaires suivants ont été effectués :
+"Analyse de sang avec hémogramme normal et biochimie générale. Fonction thyroïdienne normale.
+Bêta-HCG, FSH et LH normales. Profil œstrogénique (dans la fourchette post-ménopausique) et hormones mâles normales. ACTH et cortisol normaux. Profil d'insuline normal. Catécholamines normales.
+Marqueurs tumoraux (CA 12,5, CA 15,3, CA 19,9, AFP, énolase neuronale spécifique, chromogranine A, SCC) normaux.
+"Fibrogastroscopie : grosse masse ulcérée dans la zone de l'antrum-cisure angulaire avec un aspect néoplasique.
+"Bioscopie gastrique : adénocarcinome de type intestinal.
+"Tomodensitométrie (CT) thoraco-abdomino-pelvienne : multiples adénopathies globulaires dans la partie supérieure de l'abdomen (zone cœliaque, espace porto-cave et adjacent à l'antre gastrique) avec épaississement de la paroi de l'antre gastrique et irrégularité de la paroi, sans qu'aucune maladie ne soit trouvée dans d'autres endroits.
+
+Diagnostic
+En septembre 2014, un diagnostic d'adénocarcinome gastrique de type intestinal, stade cT3N1M0, stade IIB, avec un syndrome paranéoplasique associé sous la forme d'une hypertrichose lanuginosa (HLA) acquise et d'une glossite a été établi.
+
+Traitement
+Il a été considéré comme un traitement tributaire de la chimiothérapie périopératoire (QT) selon le schéma ECX (épirubicine 50 mg/m2 le jour 1, cisplatine 65 mg/m2 le jour 1 et capécitabine 1250 mg/m2 jours 1-14 tous les 21 jours)1,2.
+
+Évolution
+Après le premier cycle de traitement, malgré l'amélioration de l'HLA et de la glossite, il a présenté des douleurs thoraciques, avec des modifications de l'électrocardiogramme qui ont nécessité une admission avec une étude cardiologique normale et un diagnostic d'angine vasospastique secondaire à la capécitabine. Elle a arrêté l'ECX et a poursuivi le traitement avec quatre cycles de chimiothérapie selon le schéma FOLFOX (oxaliplatine 100 mg/m2 le jour 1, folinate de calcium 400 mg/m2 le jour 1, 5-fluorouracile 400 mg/m2 en bolus suivi de 2 400 mg/m2 en perfusion continue sur 46 heures dans un cycle de 14 jours)3, le dernier ayant eu lieu en novembre 2014 et ayant obtenu une réponse ganglionnaire partielle significative au scanner de contrôle, sans pouvoir évaluer la lésion primaire.
+En janvier 2015, une gastrectomie subtotale avec reconstruction Roux-en-Y a été réalisée avec une maladie résiduelle macroscopique non résécable au niveau hilaire hépatique.
+La tomodensitométrie de contrôle post-chirurgicale a montré une progression adénopathique, elle a donc repris le traitement QT selon le schéma FOLFOX, ayant reçu 3 cycles jusqu'en avril.
+En mai 2015, l'HLA s'est aggravée, de même que la glossite, avec un profil hépatique altéré. Un scanner abdominopelvien a été demandé, montrant une progression des ganglions lymphatiques avec une compression extrinsèque des voies biliaires et une dilatation de celles-ci, ainsi que des métastases hépatiques.
+Une endoprothèse biliaire a été mise en place dans un but palliatif, initiant un traitement de seconde ligne par paclitaxel hebdomadaire 80 mg/m2, actuellement en cours.

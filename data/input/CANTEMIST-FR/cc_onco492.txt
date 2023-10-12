@@ -1,0 +1,21 @@
+Anamnèse
+Le patient est un homme de 69 ans avec des antécédents personnels intéressants, y compris une HTN en cours de traitement avec un contrôle adéquat et une polyarthrite rhumatoïde.
+Il n'a pas d'antécédents familiaux de cancer.
+En décembre 2018, il consulte aux urgences pour des douleurs abdominales au niveau FID de 48 heures d'évolution.
+
+Examen physique
+La patiente présente un abdomen douloureux, prédominant au niveau de la FID, avec défense à la palpation à ce niveau et Blumberg +. Aucune masse ni mégalithes n'ont été observés. Le reste de l'examen physique est normal.
+
+Tests complémentaires
+Un bilan sanguin d'urgence a été réalisé, dans lequel seule la présence d'une leucocytose avec neutrophilie et d'une élévation des réactifs de phase aiguë a été notée. L'étude a été complétée par une échographie, qui a confirmé la suspicion clinique d'appendicite.
+
+Diagnostic
+En raison d'une suspicion d'appendicite, il a subi une appendicectomie en urgence. L'anatomie pathologique de la pièce opératoire était compatible avec une tumeur carcinoïde à cellules gobétiques, située dans le tiers proximal de l'appendice, la tumeur a atteint la marge chirurgicale proximale, a infiltré la paroi et a dépassé la couche musculaire (pT3 dans l'échantillon), aucune invasion vasculolymphatique ou périneurale n'a été observée (IHC : CK20 +, CDX2+, chromogranine +, synaptophysine non évaluable, CD56+).
+
+Traitement
+Au vu des résultats anatomopathologiques, une étude d'extension a été réalisée par tomodensitométrie (CT-CT), qui n'a montré aucun signe de maladie à d'autres niveaux, et le patient a subi une hémicolectomie droite programmée. L'histologie n'a révélé aucun signe d'infiltration néoplasique dans la pièce opératoire (pT3pN0).
+Il s'est bien rétabli après l'opération et a été adressé à notre clinique. Le patient avait un score ECOG (Eastern Cooperative Oncology Group) de 1.
+Après examen de la littérature et évaluation du cas lors d'une séance clinique, compte tenu de l'agressivité de ce sous-type de tumeur et du fait qu'il s'agissait d'un stade II, il a été décidé d'extrapoler le traitement à celui de l'adénocarcinome du côlon. Le patient a commencé une chimiothérapie à base de capécitabine (l'oxaliplatine n'a pas été envisagé dans ce cas en raison des antécédents de polyarthrite rhumatoïde et de sa toxicité potentielle), qu'il reçoit toujours.
+
+Évolution
+Le patient est actuellement sous traitement sans aucun signe de maladie et avec une tolérance adéquate.

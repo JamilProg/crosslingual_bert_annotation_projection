@@ -1,0 +1,45 @@
+Anamnèse
+Homme de 75 ans, pas d'allergies médicamenteuses connues, ex-fumeur depuis 7 ans avec une dose totale accumulée de 50 paquets-années, pas d'autres habitudes toxiques.
+Antécédents médicaux et chirurgicaux
+" Hypothyroïdie subclinique dans le cadre d'une chirurgie et d'une radiothérapie au niveau cervical, diagnostiquée en septembre 2015. En cours de traitement substitutif et suivi par l'endocrinologie.
+" Épanchement vitré postérieur de l'œil gauche diagnostiqué en 2011 dans le cadre d'un contrôle ophtalmologique de routine, en cours de traitement au laser en 2011.
+Situation socio-fonctionnelle
+Retraité, a travaillé comme maçon. Vit avec sa femme dans un appartement sans barrières architecturales. Barthel 100 points.
+Médication habituelle
+Lorazepam 0,5 mg le soir si nécessaire. Paracétamol 1 g toutes les 8 heures si nécessaire pour la douleur. Lévothyroxine 100 mcg toutes les 24 heures du lundi au vendredi 125 mcg toutes les 24 heures le samedi et le dimanche.
+Antécédents oncologiques
+Diagnostiqué en novembre 2011 avec un carcinome épidermoïde de haut grade de la corde vocale gauche suite à une dysphonie de deux mois. Une lésion a été observée dans la corde vocale gauche (CVI) avec atteinte de la commissure antérieure et extension à la corde vocale droite (CVD), et une chordectomie au laser a été réalisée dans le centre externe. À l'époque, cT1bN0M0 ; pT1N0M0.
+"Première récidive, locale :
+- En décembre 2012, il s'est présenté aux urgences pour une dysphonie, montrant une paralysie de la VCI et une hypomobilité de la CVD, et une trachéotomie urgente a été réalisée. Présenté au comité, il a été décidé de réaliser une microlaryngoscopie peropératoire avec des biopsies périopératoires, qui se sont révélées positives pour la malignité, de sorte qu'une laryngectomie totale a été réalisée le 11 janvier 2013. Le rapport pathologique souligne la présence d'un carcinome épidermoïde modérément différencié, infiltrant 3,5 cm dans l'axe maximal, avec une invasion du sinus piriforme, de la glotte et de l'extension sous-glottique, ainsi que du cartilage thyroïde et une extension aux tissus mous pré-trachéaux. Il y a une infiltration périneurale et vasculaire et la marge trachéale est libre. Il s'agit donc d'une récidive locale et le cancer est classé rpT4NxM0.
+- Traitement : une radiothérapie adjuvante a été réalisée du 21/2/2013 au 6/5/2013, avec une dose totale de 66 gray (Gy) dans le lit chirurgical et 50 Gy dans les chaînes ganglionnaires, en utilisant la radiothérapie à modulation d'intensité (IMRT).
+"Deuxième récidive, ganglionnaire :
+- En janvier 2014, un scanner de contrôle du cou a montré une lésion mal délimitée au niveau IV du ganglion droit, et une FNA a été réalisée sur la lésion, qui s'est révélée positive à la recherche de cellules malignes. En mars 2014, dans ce contexte, une exérèse cervicale radicale droite a été réalisée, avec des résultats positifs dans 4 des 6 ganglions lymphatiques, un envahissement extracapsulaire dans 2 ganglions et un envahissement périneural.
+- Traitement : chimioradiothérapie concomitante avec cisplatine (CDDP) 40 mg/m2 hebdomadaire et une dose totale de 66 Gy par IMRT, du 12/5/2014 au 23/6/2014, bien tolérée.
+"Troisième récidive, non résécable.
+- En mars 2015, suite à une suppuration dans la zone de péritrachéostomie, une zone ulcérée a été observée à cet endroit, la tomodensitométrie (TDM) montrant la présence d'une récidive tumorale de péritrachéostomie gauche, avec infiltration du muscle sterno-cléido-mastoïdien et contraction avec le lobe thyroïdien et la trachée gauches. L'étude d'extension par tomographie par émission de positons (PET-CT) s'est révélée négative. Une biopsie a été réalisée montrant la présence d'un carcinome peu différencié.
+- Traitement : du 7/4/2015 au 13/7/2015, elle a subi 5 cycles de carboplatine-fluorouracile (5-FU)-cétuximab, la meilleure réponse étant une maladie stable après 3 cycles.
+Maladie actuelle
+La patiente a fréquenté la clinique ambulatoire d'oncologie médicale en juillet 2015, et la tomodensitométrie de contrôle a montré la présence d'une récidive dans la zone de la paratrachéostomie. Le patient se présentait alors comme asymptomatique, niant toute douleur ou suppuration de la péritrachéostomie.
+Une biopsie de la récidive locorégionale a été réalisée dans le cadre de l'étude HAWK (NCT02207530 durvalumab in PD-L1 positive patients).
+
+Examen physique
+"ECOG 0. Poids 72 kg.
+"Cavité buccale : aucun signe pathologique.
+"Cou : lésion dans la zone de péritrachéostomie, sans signe d'infection locale. Pas d'adénopathie palpable dans le cou ou la région sus-claviculaire.
+"Examen physique pulmonaire : murmure vésiculaire conservé, sans bruit additionnel.
+"Examen cardiovasculaire : tonalités cardiaques rythmiques, sans souffle ajouté.
+"Abdomen : mou, pas de signes d'irritation péritonéale.
+"Examen neurologique : aucun signe de focalité neurologique aiguë.
+
+Tests complémentaires
+Biopsie de récidive locorégionale (24/7/2015) : la détermination immunohistochimique avec le test qualitatif VENTANA PD-L1 (SP263, un anticorps monoclonal de souris contre PD-L1) a montré une négativité pour PDL-1 (absorption < 25 % dans l'échantillon traité). Négativité également pour p16, déterminée par immunohistochimie.
+
+Diagnostic
+Le patient est diagnostiqué avec une récidive locorégionale non résécable de sa maladie, PD-L1 négatif.
+
+Traitement
+Compte tenu de la négativité du PD-L1, il est proposé au patient d'entrer dans l'essai clinique D419300003 (CONDOR). Le 27 août 2015, le patient a signé le consentement éclairé pour entrer dans l'étude, étant randomisé pour recevoir durvalumab 20 mg/kg + tremelimumab 1 mg/kg toutes les 4 semaines pendant 4 cycles, puis durvalumab 10 mg/kg toutes les 2 semaines pendant 12 mois. Il a terminé son traitement en septembre 2016.
+
+Évolution
+La patiente a montré un bénéfice clinique rapide sous la forme d'un contrôle symptomatique local, atteignant une réponse partielle radiologique (selon les critères RECIST) en mars 2016. La patiente est restée en réponse partielle jusqu'à la fin du traitement en septembre 2016. Ensuite, la réponse partielle a été maintenue jusqu'au dernier contrôle en janvier 2018, où une progression de la maladie a été observée sous la forme d'adénopathies médiastinales, date à laquelle le traitement a été repris dans le cadre du même essai clinique.
+A aucun moment elle n'a présenté de toxicité immuno-médiée.

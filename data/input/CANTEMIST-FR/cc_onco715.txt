@@ -1,0 +1,20 @@
+Anamnèse
+Le patient est un homme de 64 ans sans antécédents familiaux pertinents. Il n'a pas d'allergies médicamenteuses ni d'habitudes toxiques. Antécédents personnels : diabète sucré de type 2 traité par vildagliptine, dyslipidémie traitée par atorvastatine 80 mg/jour et une surrénalectomie gauche pour un phéochromocytome d'un axe maximal de 8 cm en février 2014, avec des résultats histologiques potentiellement malins (cellularité > 250 cellules/, > 3mitoses/ champ à fort grossissement, Ki-67 > 50 %), infiltration de la capsule, des tissus périphériques et des petits vaisseaux, expression de chromogranine A, synaptophysine et énolase). L'état de base est bon, ECOG 0, indépendant pour les activités de base de la vie quotidienne.
+Le patient a été adressé au service d'endocrinologie suite à l'apparition de douleurs au flanc gauche, où il a subi une IRM de l'abdomen et du bassin en juillet 2015, avec pour seule découverte un hémangiome hépatique, puis un PET scan montrant une captation compatible avec une récidive dans le site chirurgical de la surrénalectomie gauche.
+
+Examen physique
+Aucun résultat pertinent n'a été observé à l'examen. Auscultation cardiorespiratoire sans murmure ni extratonos, avec un bon murmure vésiculaire. Abdomen souple et dépressible, non douloureux à la palpation. Aucune masse ou mégalithe n'était palpable. Il n'y avait pas d'adénopathies palpables.
+
+Examens complémentaires
+Une nouvelle IRM a été réalisée en juin 2016, montrant une image nodulaire de 8 mm au contact de la crura diaphragmatique et de la paroi postérieure du fundus gastrique, en plus d'un nodule de 1 cm d'apparition récente dans le tiers moyen externe du rein gauche. Dans le foie, il y avait 10 lésions compatibles avec des métastases, la plus grande mesurant 6 cm dans le grand axe.
+
+Diagnostic
+Phéochromocytome malin opéré en 2014 avec récidive au niveau du site chirurgical et métastases hépatiques, rénales et gastriques.
+
+Traitement
+Il est traité en première intention depuis le 28/6/2016 par 10 cycles de trois semaines de CVD (cyclophosphamide 750 mg/m2 jour 1, vincristine 1,4 mg/m2 jour 1, dacarbazine 600 mg/m2 jours 1 et 2), avec une bonne tolérance malgré une neurotoxicité de grade 1 ayant nécessité une réduction de la dose de vincristine. Il conserve un bon contrôle de la douleur du flanc gauche avec une analgésie de premier niveau.
+
+Évolution
+Tomodensitométrie (TDM) tous les 2 mois depuis le début du traitement de première intention. La maladie est restée stable jusqu'en janvier 2017, date à laquelle une progression a été observée à la tomodensitométrie. Un traitement de deuxième ligne a été débuté avec du paclitaxel 175 mg/m2 trois fois par semaine, basé sur la série de cas publiée dans Cancer Chemother Pharmacol (2).
+Après 3 cycles de paclitaxel, une progression a été observée au scanner d'avril 2017, et nous avons proposé une troisième ligne de traitement par témozolamide, pour laquelle nous avons demandé une étude de la méthylation du gène MGTM de l'échantillon de biopsie, qui était non méthylé (3,5%). Étant donné qu'il n'y a pas de troisième ligne standard pour cette maladie, le traitement n'a pas été commencé jusqu'à une progression plus importante, et il était asymptomatique pendant toute cette période et a maintenu une maladie stable depuis lors jusqu'en février 2018. Nous avons alors commencé une troisième ligne avec de la gemcitabine 1 000 mg/m2 jours 1 et 8 tous les 21 jours, en maintenant le traitement jusqu'à présent.
+À l'heure actuelle, la douleur au flanc gauche a été moins bien contrôlée, nécessitant des patchs de fentanyl 25 mcg c/72 h.

@@ -1,0 +1,16 @@
+T1	pathologie 34 76	espondilitis anquilosante HLA B27 positiva
+T2	pathologie 127 154	quistes hepáticos y renales
+T3	pathologie 237 259	enfermedades quísticas
+T4	pathologie 279 323	enfermedad poliquística por mutación de novo
+T5	pathologie 764 778	polineuropatía
+T6	pathologie 781 788	púrpura
+T7	pathologie 1141 1157	hernia umbilical
+T8	pathologie 1469 1486	quistes hepáticos
+#1	SNOMED T1	9631008
+#2	SNOMED T2	85057007+722223000
+#3	SNOMED T3	16340001
+#4	SNOMED T4	71064009+85057007
+#5	SNOMED T5	42345000
+#6	SNOMED T6	387778001
+#7	SNOMED T7	396347007
+#8	SNOMED T8	85057007

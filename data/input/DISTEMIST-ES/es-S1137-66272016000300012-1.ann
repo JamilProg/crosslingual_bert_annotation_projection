@@ -1,0 +1,19 @@
+T1	pathologie 18 25	fumador
+T2	pathologie 53 63	ex-bebedor
+T3	pathologie 233 240	síncope
+T4	pathologie 337 393	endocarditis infecciosa sobre una válvula mitral mixoide
+T5	pathologie 410 430	perforación valvular
+T6	pathologie 433 460	insuficiencia mitral severa
+T7	pathologie 781 801	hipotensión arterial
+T8	pathologie 841 854	hepatomegalia
+T9	pathologie 1082 1088	anemia
+T10	pathologie 1434 1447	hepatomegalia
+T11	pathologie 1511 1521	esteatosis
+T12	pathologie 1691 1717	derrame pericárdico masivo
+T13	pathologie 1972 2007	taponamiento ecocardiográfico grave
+T14	pathologie 2283 2330	derrame localizado a nivel apical (encapsulado)
+T15	pathologie 2414 2430	derrame hemático
+T16	pathologie 2877 2901	derrame pericárdico leve
+T17	pathologie 3181 3200	hepatitis isquémica
+T18	pathologie 3243 3264	taponamiento cardiaco
+T19	pathologie 3278 3337	síndrome postpericardiotomía con transformación hemorrágica

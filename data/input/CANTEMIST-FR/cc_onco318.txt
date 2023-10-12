@@ -1,0 +1,41 @@
+Anamnèse
+Patient de sexe masculin âgé de 31 ans.
+Pas de réactions médicamenteuses indésirables connues.
+Pas d'antécédents familiaux ou personnels en rapport avec l'épisode actuel.
+Aucune habitude toxique connue.
+En mars 2002, il a subi une gastrectomie subtotale pour une tumeur stromale gastro-intestinale de phénotype épithélioïde et des métastases hépatiques.
+En juin 2002, il a commencé un traitement à l'imatinib à raison de 400 mg par jour.
+
+Examen physique
+Patient en bon état général, eupnéique et coopératif. ECOG 0
+Examen cardio-pulmonaire : Rythme cardiaque à 80 battements par minute, pas de souffle. Bon murmure vésiculaire sans bruits pathologiques.
+Abdomen souple et dépressible. Cicatrice de laparotomie sans signe de complication, hépatomégalie palpable non douloureuse.
+Membres inférieurs sans œdème ni signe de thrombose.
+
+Examens complémentaires
+Numération sanguine : normale dans les trois séries.
+Biochimie : pas d'altération
+Profil abdominal : pas d'altération
+Étude anatomopathologique :
+Gastrectomie : tumeur stromale gastro-intestinale épithélioïde, G1, groupe AFIP 6b, correspondant à un potentiel de malignité élevé pour cette localisation.
+Etude immunohistochimique :
+CD117 positif, DOG 1 positif, CD 34 positif, PKC- teta positif (focal), S100 négatif.
+Pathologie moléculaire :
+Duplication dans l'exon 9 du gène ckit.
+
+Diagnostic
+GIST avec métastases hépatiques
+
+Traitement
+Première ligne : Imatinib 400 mg 1 comprimé toutes les 24 heures (juin 2002 à juin 2006).
+Deuxième ligne : Sunitinib 50 mg 1 comprimé toutes les 24 heures pendant 4 semaines et 2 semaines de repos.
+Après deux cycles, la dose a été réduite à 37,5 mg en raison d'une toxicité hématologique (neutropénie) et indéfiniment (juin 2006 à août 2013).
+Troisième ligne : Regorafenib 40 mg 4 comp toutes les 24 heures pendant 3 semaines et 1 semaine de repos.
+En janvier 2015, il a été décidé de réduire la dose à 80 mg en raison de la toxicité hématologique (d'août 2013 à aujourd'hui).
+
+Évolution
+Depuis le diagnostic en mars 2002, le patient a maintenu une maladie stable associée à une bonne qualité de vie, recevant un traitement à base d'imatinib à raison de 400 mg par jour. Cependant, en mai 2006, l'imagerie par résonance magnétique a montré une progression de la maladie, avec de multiples métastases hépatiques, la plus grande mesurant 12 centimètres.
+Il a été décidé d'entamer un traitement de deuxième intention par le sunitinib à la dose de 50 mg par jour pendant 4 semaines et 2 semaines de repos. La tolérance initiale a été bonne, avec une stabilisation de la maladie, mais après le troisième cycle, la dose a dû être réduite à 37,5 mg en raison d'une toxicité hématologique (neutropénie).
+En août 2013, après 72 cycles de sunitinib, la maladie du patient était stable, mais il a commencé des épisodes intermittents de diarrhée qui n'ont pas pu être contrôlés par un traitement symptomatique associé à une anémie modérée, raison pour laquelle il a été décidé de passer à une troisième ligne de traitement avec regorafenib 160mg par jour toutes les 24 heures pendant 3 semaines et 1 semaine de repos.
+Après un an de traitement, il a recommencé à présenter des épisodes d'anémie symptomatique, et il a donc été décidé de réduire la dose à 80 mg.
+Actuellement, le patient est stable depuis 14 ans, il est totalement asymptomatique et a une très bonne qualité de vie, y compris au travail.

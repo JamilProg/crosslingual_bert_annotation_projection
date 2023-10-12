@@ -1,0 +1,18 @@
+T1	pathologie 77 110	paraganglioma de cuerpo carotídeo
+T2	pathologie 190 196	lesión
+T3	pathologie 437 445	disfonía
+T4	pathologie 718 724	lesión
+T5	pathologie 914 947	paraganglioma de cuerpo carotídeo
+T6	pathologie 972 978	lesión
+T7	pathologie 1148 1154	lesión
+T8	pathologie 1264 1270	lesión
+T9	pathologie 1712 1745	paraganglioma de cuerpo carotídeo
+#1	SNOMED T1	302833002
+#2	SNOMED T5	302833002
+#3	SNOMED T9	302833002
+#4	SNOMED T3	16617009
+#5	SNOMED T2	417163006
+#6	SNOMED T4	417163006
+#7	SNOMED T6	417163006
+#8	SNOMED T7	417163006
+#9	SNOMED T8	417163006

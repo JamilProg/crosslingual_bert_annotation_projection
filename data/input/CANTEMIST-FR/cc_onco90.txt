@@ -1,0 +1,21 @@
+Anamnèse
+Patient âgé de 61 ans, sans antécédents particuliers à l'exception d'une hernie hiatale sous traitement par inhibiteurs de la pompe à protons, fumeur d'un paquet par jour depuis sa jeunesse et buveur d'environ 40 g d'alcool par jour.
+
+En juillet 2014, elle a commencé à ressentir une gêne abdominale non spécifique et a consulté le service digestif, où une échographie abdominale a été réalisée et plusieurs lésions hépatiques ont été détectées, qui après biopsie se sont avérées compatibles avec des métastases d'un adénocarcinome pancréatique. Des études d'extension ont confirmé la présence de la tumeur primaire, qui n'était pas résécable en raison de métastases hépatiques.
+
+Examen physique
+Bon état général, Karnofsky 90%, ECOG 0. Hyperpigmentation cutanée d'apparence chronique due à l'exposition au soleil. Nerfs crâniens normaux. Bouche sans lésions, implants dentaires. Pas de ganglions lymphatiques palpables. Auscultation cardiaque et pulmonaire : normale. Abdomen souple, dépressible, non douloureux, sans masse palpable ni organomégalie. Force et sensibilité préservées dans les quatre extrémités. Membres inférieurs sans œdème ni signes de thrombose.
+
+Tests complémentaires
+"Gamma-glutaminase élevée (273 mg/dl).
+"Ca 19.9 : 27 290 UI/ml.
+"Tomodensitométrie (CT) : masse dans la tête du pancréas de 1,4 cm de diamètre et multiples lésions occupant l'espace dans le foie.
+
+Diagnostic
+Adénocarcinome pancréatique de stade IV avec métastases hépatiques.
+
+Traitement
+Compte tenu du caractère non résécable de la tumeur, il a été décidé de traiter par FOLFIRINOX à doses réduites (fluorouracile 2 400 mg/m2 en perfusion continue de 46 heures, irinotécan 160 mg/m2, oxaliplatine 80 mg/m2 tous les 14 jours). Ce schéma a été choisi parce que le patient ne présentait pas de données cliniques de vulnérabilité : bon état général, pas de comorbidité, pas d'altération des tests hépatiques ni d'obstruction du canal, autant de facteurs qui, s'ils sont présents, sont des prédicteurs d'une plus grande toxicité.
+
+Évolution
+Elle a reçu 11 cycles du schéma susmentionné jusqu'en novembre 2014, avec une toxicité minimale (neuropathie de grade 1, diarrhée de grade 2 et alopécie universelle). Au scanner de contrôle après six cycles, trois mois de chimiothérapie ont révélé une maladie stable sans apparition de nouvelles métastases à d'autres niveaux. Lorsqu'elle s'est présentée pour le 12e cycle, elle a présenté une détérioration significative de son état général, nécessitant une admission en raison de vomissements et de difficultés à se déplacer. Un scanner de contrôle a été réalisé montrant une progression de la masse pancréatique, une augmentation des lésions hépatiques et l'apparition d'une lésion dans l'hémisphère cérébelleux droit. Compte tenu de la situation du patient, il a été décidé de passer à un traitement symptomatique palliatif et le patient est sorti de l'hôpital six mois après le diagnostic.

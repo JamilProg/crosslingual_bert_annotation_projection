@@ -1,0 +1,4 @@
+T1	pathologie 965 1035	metahemoglobinemia grave secundaria a la administración tópica de EMLA
+T2	pathologie 1285 1294	alcalosis
+#1	SNOMED T1	191390009
+#2	SNOMED T2	21420006

@@ -1,0 +1,22 @@
+Anamnèse
+Femme de 65 ans, sans allergie médicamenteuse connue, avec une dyslipidémie sous traitement médical et une légère insuffisance aortique. Elle ne fume pas (fumeuse passive) et ne consomme pas d'alcool.
+Diagnostiquée en mai 2011 suite à une toux irritative de deux mois d'un adénocarcinome pulmonaire EGFR non muté, sans translocation ALK, stade IV au diagnostic en raison d'une dissémination osseuse dans L5, le pédicule gauche de L4, l'aile iliaque droite et le tiers postérieur de l'aile iliaque gauche, l'acétabulum gauche et la cellule cotyloïdienne gauche.
+Elle a reçu une radiothérapie antalgique palliative aux niveaux sacro-iliaque bilatéral, L5-L4 et coxofémoral gauche avec une dose totale de 30 Gy avec une bonne palliation.
+En juillet 2011, elle a commencé une chimiothérapie à base de cisplatine 75 mg/m2 + pemetrexed 500 mg/m2, dont elle a suivi 4 cycles au total, avec une réduction de 20 % de la dose de pemetrexed après le deuxième cycle en raison d'une neutropénie fébrile de grade 3 après le premier cycle, avec une amélioration symptomatique et une stabilisation de la maladie à l'imagerie, de sorte que la patiente a poursuivi le traitement par pemetrexed en monothérapie.
+Pendant le traitement au pemetrexed, le patient a consulté pour une fièvre allant jusqu'à 39 ºC avec frissons, arthromyalgie, douleur, érythème et œdème sur le dos de la main gauche.
+Les examens de laboratoire ont révélé une leucocytose avec neutrophilie, une lymphopénie et une augmentation des réactifs de phase aiguë.
+Le diagnostic initial a été celui d'une cellulite secondaire à une phlébite et un traitement antibiotique à base d'amoxicilline-acide clavulanique a été instauré. Le patient a consulté à nouveau deux jours plus tard en raison d'un syndrome fébrile persistant et de l'apparition de douleurs articulaires aux deux chevilles, au genou droit, à la main et au poignet gauche. Un traitement à la cloxacilline a été instauré et une hospitalisation a été décidée.
+
+Examen physique
+Hémodynamiquement stable, eupnéique. Température de 38,5 ºC. Bruits cardiaques rythmés, sans murmure ni frottement. Présence d'un murmure vésiculaire. Pas d'autres bruits superposés. Erythème et œdème avec augmentation de la température locale avec limitation de la flexion et de l'extension sur le dos des mains et au niveau du genou droit. Oedème aux deux chevilles, avec peu de signes de la fovéa.
+
+Tests complémentaires
+- Examens sanguins à l'admission : Protéine C-réactive >320 mg/L (0,0-5,0) ; Hb 91 g/dL (120-155) ; MCV 85,2 fL (80,0-98,0) ; leucocytes 14,06 x 10E9/L (3,80-11,00) ; neutrophiles absolus 12,28 x 10E9/L (1,80-7,00) ; monocytes absolus 1,10 x 10E9/L (0,00-0,80) ; lymphocytes absolus 0,67 x 10E9/L (1,00-4,00).
+Le reste n'a pas changé.
+
+Évolution
+Le patient est resté fébrile sous traitement antibiotique à la cloxacilline. Les cultures d'urine et de sang étaient négatives. Une échocardiographie transœsophagienne a exclu la présence de végétations sur les valves cardiaques et la radiographie du thorax n'a pas montré de condensation. La radiographie du poignet gauche n'a rien révélé de significatif.
+L'étude rhumatologique (facteur rhumatoïde, complément, cryoglobulines, anticorps anti-mitochondriaux, anti-muscle lisse, anti-muqueuse gastrique, ANA, anti-RO/SSA et peptide anti-citrulliné) s'est révélée négative.
+Pour rechercher l'étiologie du syndrome fébrile, des sérologies pour le virus d'Epstein-Barr, l'herpès virus de type 6, les hépatites A, B et C, la fièvre typhoïde, Yersinia et le virus de l'immunodéficience humaine ont été demandées, et toutes se sont révélées négatives. Les sérologies pour le cytomégalovirus (IgM et IgG) étaient positives.
+Après le diagnostic d'infection à cytomégalovirus avec polyarthrite réactive, un traitement antiviral par ganciclovir intraveineux de 5 mg/kg toutes les 12 heures a été instauré et un total de 21 jours de traitement a été effectué.
+Depuis le début du traitement, le patient est resté afébrile et la polyarthrite s'est résorbée après sept jours de traitement au ganciclovir.

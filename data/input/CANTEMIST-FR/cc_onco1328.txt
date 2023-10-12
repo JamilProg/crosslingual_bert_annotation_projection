@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 57 ans, sans habitudes toxiques. Menuisier de profession. Il a présenté une douleur thoracique centrale oppressante, irradiant vers les membres supérieurs et une croûte végétative, qui a commencé avec l'exercice. Une échocardiographie urgente a montré un épanchement péricardique sévère sans signe de tamponnade, et la tomodensitométrie (TDM) du thorax a montré l'occupation du médiastin antéro-supérieur droit par une masse de tissu mou, avec des zones solides et nécrotiques.
+Un drainage péricardique et une thoracentèse droite ont été effectués avant une médiastinoscopie avec biopsie, identifiant une masse dans le médiastin antérieur, de consistance blanchâtre et dure, hautement vascularisée et non résécable.
+
+Examen physique
+État général acceptable, PS1. Bien hydraté et perfusé. Saturation basale de 96%. Tension artérielle 110/79 mm Hg. FC 110 bpm. Ingurgitation jugulaire. Examen de l'appareil : non décrit.
+
+Examens complémentaires
+Examens de laboratoire : numération sanguine, coagulation et biochimie avec enzymes cardiaques et profil thyroïdien, normaux. GPT 107 U/l ; GGT 231 U/l ; FA 87 U/l ; protéines 5,7 g/dl ; albumine 3,5 g/dl ; calcium 8,8 mg/dl. Ca 19,9 142 U/ml.
+Electrocardiogramme : rythme sinusal à 110 bpm. Axe QRS normal. Élévation du segment ST en II, III, aVF et V5-V6.
+Radiographie thoracique : cardiomégalie et élargissement médiastinal.
+Échocardiographie : épanchement péricardique sévère avec séparation maximale de 3 cm. FEVG préservée, sans signes de tamponnade.
+Tomodensitométrie thoraco-abdominale-pelvienne : masse médiastinale antérieure droite de 99 x 72 x 106 mm, lobulée, hétérogène, avec des zones kystiques et nécrotiques, et de multiples calcifications centrales. En contact avec l'aorte ascendante, la veine cave supérieure et la veine innominée. Épanchement péricardique et pleural bilatéral modéré.
+Biopsie médiastinale : tumeur à cellules épithéliales avec palissade basaloïde périphérique. Exprime des cytokératines à large spectre, CAM 5-2, p63, CD117 et CD5. Négativité pour TTF1, CK20 et CK7.
+Cytologie du liquide pleural et péricardique : négatif pour la malignité.
+
+Diagnostic
+Carcinome basaloïde du thymus localement avancé et non résécable.
+
+Traitement
+Compte tenu de la non résécabilité de la tumeur et de la comorbidité cardiovasculaire, un traitement par carboplatine AUC6/paclitaxel 225 mg/m2 est proposé et accepté.
+
+Évolution
+Après 6 cycles de chimiothérapie bien tolérés, une stabilisation de la maladie est observée au scanner de réévaluation. La lésion n'étant toujours pas résécable, il a reçu une radiothérapie externe séquentielle (dose totale de 60 Gy), ce qui a permis d'obtenir une réponse partielle. Le patient continue à subir des contrôles dans notre unité et est asymptomatique après un intervalle sans progression (PFI) de 16 mois.

@@ -1,0 +1,41 @@
+Anamnèse
+Femme de 69 ans avec hypertension et dyslipidémie sous traitement. Intervenue en février 2012 pour un néoplasme multifocal (IM) du sein gauche, chirurgie conservatrice et ganglion sentinelle : carcinome papillaire invasif 15 mm + carcinome intraductal (DCIS) 8 mm de bas grade (g) + carcinome canalaire infiltrant (CDI) grade 1 12 mm dans l'UCS. Immunohistochimie (IHC) : récepteur des oestrogènes (ER) 2+ 95%, récepteur de la progestérone (PR) 1+ 5%, HER2 1+. Pas d'invasion vasculolymphatique (VILI), marges -, KI 67 non rapporté. pN0 sn (0/1).
+Cancer du sein de stade I. Elle a reçu un traitement adjuvant à base d'anastrozole et une radiothérapie locorégionale. Avec un intervalle sans maladie (ISM) de 2,8 ans, lors d'un contrôle en octobre 2012, alors qu'elle était asymptomatique, une adénopathie supraclaviculaire droite controlatérale de 1 cm a été palpée.
+
+Examen physique
+Bon état général, auscultation, abdomen et extrémités sans altérations pertinentes. Localement : cicatrice I du sein droit, dans la fosse SCLD ADP de 4 cm mobile. Nodule thyroïdien droit (NTD) mobile à la déglutition.
+
+Examens complémentaires
+" Échographie sus-claviculaire : deux petites images de 7 et 9 mm.
+" Biopsie à l'aiguille de carotte (BAG) (17/11/2014) : métastase (M1) de carcinome mammaire, mammoglobine +, GCDFP-15 +, CK 7-, CK 10+, ER 3+ 95% RP 3+ 20%, HER2 1+.
+" NFS : Ca 15,3 négatif ; hémogramme et biochimie corrects.
+"Scintigraphie osseuse (2/12/2014) : pas de M1.
+" Mammographie + échographie bilatérale (15/12/2014) : normale.
+" Tomodensitométrie thoraco-abdominale (22/12/2014) : adénopathie axillaire droite importante.
+" IRM mammaire (15/12/2014) : sein droit (MD) avec faible rehaussement non spécifique en CSU.
+Adénopathie axillaire droite, ganglions sus-claviculaires et rétropectoraux D. Sein gauche (MI) avec nodule spiculé de 13,8 mm BIRADS IVc. Non biopsiable car dans les plans profonds.
+" Deuxième échographie (19/12/2014) : la lésion décrite par l'IRM n'est pas identifiée, biopsie IRM impossible. Ganglions axillaires et SPCLD.
+" Tomodensitométrie du cou (22/12/2014) : multiples ganglions latérocervicaux réactifs bilatéraux. Nodule dans le lobe thyroïdien droit (LTD) de 12 mm.
+" TC-PET (7/1/2015) : ADP hypermétabolique (SUVmax 6,2), intrathyroïdien en LTI. ADP hypermétabolique axillaire D de 10 mm (SUVmax) de 5,3. ADP rétropectorale sans prise significative, mais suspecte de malignité. ADP prévasculaire douteux. Foyer hypermétabolique dans le segment IVA hépatique (SUVmax 5,5) non spécifique.
+" Aucune lésion n'ayant été observée dans la MI, une tumorectomie de la MI a été réalisée (4/2/2015). L'anatomie pathologique (AP) montre un ganglion intramammaire de 0,4 cm, sans malignité.
+
+Diagnostic
+Avec un ILE de 2,8, deux options diagnostiques sont d'abord évaluées :
+1. tumeur occulte dans le DM (cT0N3M1 avec atteinte rétropectorale, cytologie axillaire positive + ADP SCLD +).
+Un traitement par chimiothérapie néoadjuvante (QT) et un sauvetage chirurgical ultérieur +/- RDT SPCL sont proposés.
+Nodule thyroïdien LTI SUV 6 (en attente de FNA). Probable carcinome papillaire de la thyroïde (PTC) vs sein M1.
+L'étude est terminée :
+"Echographie du cou (13/1/2015) : TIL : zone pseudonodulaire localisée superficielle et au tiers moyen isoéchogène avec microcalcifications de 11 mm (SUV 6 par TEP). LTD : nodules kystiques bénins. ADP latérocervical (ganglions réactifs par CT) et ADP SPCL D (+ par BAG et pas de captation par PET).
+"FNA de la thyroïde : + pour atypies.
+"FNA ADP latérocervicale (29/1/2015) : ganglion M1 pour carcinome d'origine mammaire (CKAE1/AE3+, mammoglobine+, GCDFP-15 + TTF-1 i thyroglobuline-).
+" IHQ ADP SCLD : HER2 1+ RE 3+ 95% RP 3+ 20%.
+"NFS (9/2/2015) : hormones thyroïdiennes normales. AC antithyroglobuline 5,83.
+"IRM 23.4.15 : stéatose hépatique, pas de M1.
+
+Traitement
+Après avoir été évaluée par l'endocrinologie, la patiente a été orientée vers la chirurgie pour une thyroïdectomie totale et un curage ganglionnaire cervical central (VC) de niveaux VI+ VII. AP : hyperplasie nodulaire bilatérale avec métaplasie des cellules de Hürthle ; VC-.
+
+Début du QT : 1er cycle de CA (doxorubicine 45 mg/m2, cyclophosphamide 450 mg/m2, 75% de la dose totale) le 17/2/2015. 4e cycle le 21/4/2015. Maladie stable au niveau de l'ADP sus-claviculaire (celui qui a été palpé).
+
+Évolution
+La patiente présente un ECOG 0, une bonne récupération postopératoire avec un enrouement résiduel. En attente d'un scanner thoraco-abdominal, d'une IRM du cou et du sein pour l'évaluation de la réponse. Compte tenu de la stabilité clinique de l'ADP SPCL D, un 5e cycle de QT a été réalisé le 19/5/2015.

@@ -1,0 +1,14 @@
+T1	pathologie 470 501	agenesia del conducto deferente
+T2	pathologie 614 641	ausencia completa del riñón
+T3	pathologie 689 757	ausencia de la vesícula seminal, del conducto deferente y del uréter
+T4	pathologie 953 973	azoospermia completa
+T5	pathologie 1009 1029	agenesia deferencial
+T6	pathologie 1041 1080	agenesia renal y de la vesícula seminal
+T7	pathologie 1313 1327	agenesia renal
+#1	SNOMED T1	5286009
+#2	SNOMED T3	840508009+5286009+77761000
+#3	SNOMED T4	425558002
+#4	SNOMED T5	5286009
+#5	SNOMED T6	204942005+840508009
+#6	SNOMED T7	204942005
+#7	SNOMED T2	204942005

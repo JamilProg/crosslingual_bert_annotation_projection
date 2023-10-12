@@ -1,0 +1,33 @@
+Anamnèse
+Homme caucasien de 48 ans, originaire de Getxo, électricien de profession. Il n'a pas d'antécédents familiaux de cancer. Ses antécédents personnels incluent un ancien fumeur pendant plus de 20 ans (taux accumulé de 15 paquets-années) et une dyslipidémie sans traitement pharmacologique.
+L'épisode actuel a débuté en décembre 2011. Il a débuté par un tableau de céphalées occipitales et de latéropulsion à droite de 15 jours d'évolution.
+
+Examen physique
+ECOG1. Couleur normale et bonne hydratation. Auscultation cardio-pulmonaire normale. Abdomen souple et dépressible, non douloureux à la palpation, sans masse ni mégalithes.
+Examen neurologique : conscient et orienté dans les trois sphères. Pas d'aphasie ni de dysarthrie, pas de nerfs crâniens sans altération. Pas de signes de méningisme. Pas d'altération de la force ou de la sensibilité. Pas de dysmétrie. Démarche avec augmentation de la base d'appui, avec tendance à la latéralisation vers la droite. Romberg+.
+
+Tests complémentaires
+Compte tenu des manifestations cliniques susmentionnées, le patient a été admis pour des examens complémentaires :
+La tomodensitométrie cérébrale étant normale, une imagerie par résonance magnétique (IRM) cérébrale a été réalisée et a mis en évidence une lésion cérébelleuse droite évoquant une métastase.
+L'étude a d'abord été complétée par une tomodensitométrie du corps entier (CTap) sans résultat, puis par une TEP montrant une absorption pathologique dans le tiers distal de l'œsophage.
+La gastroscopie et l'échographie endoscopique ont montré une lésion proliférative dans le tiers distal de l'œsophage (jonction gastro-œsophagienne) avec une muqueuse environnante suggérant une métaplasie de Barrett et une anatomie pathologique (AP) compatible avec un adénocarcinome. La présence d'une lymphadénopathie périgastrique significative a été exclue. Elle effaçait focalement le plan musculaire, sans toucher la graisse médiastinale.
+Sur le plan analytique, il n'y a pas d'altération de la biochimie, de l'hémogramme et de la coagulation. Les marqueurs tumoraux digestifs sont normaux.
+
+Diagnostic
+Adénocarcinome de la jonction gastro-œsophagienne EIV (simple M1 cérébelleux)
+
+Traitement
+Le 20/1/12, il a subi une craniotomie de la fosse postérieure latérale droite et une exérèse complète de la lésion cérébelleuse avec une AP compatible avec une métastase d'adénocarcinome intestinal.
+Le 6/2/12, il a subi une oesophagectomie transhiatale et une anastomose termino-terminale avec un AP compatible avec un adénocarcinome intestinal de type UGE pT2pN2 (4/9) R0.
+En mars 2012, la tomodensitométrie et la tomographie par émission de positons n'ont révélé aucun signe de la maladie. Le patient était asymptomatique, avec un ECOG0, un examen physique et des tests de laboratoire et un MT normaux.
+Entre le 12/3/12 et le 1/8/12, il a reçu 6 cycles de QT adjuvant selon le schéma 5-FU 425 mg/m2 + acide folinique 20 mg Jours 1-5, tous les 28 jours. Lors des 3e et 4e cycles (réduits de 40 %), il a reçu une radiothérapie (RT) concomitante avec DT 50 Gy sur le lit tumoral et les drains. Après le 4e cycle, elle a présenté une neutropénie de type G4 nécessitant un délai d'une semaine et une réduction de la dose de 20 %. Les autres toxicités présentées étaient une asthénie G1, une diarrhée G1 et une anorexie G1.
+
+Évolution
+En septembre 2012, le CA 19.9 a été augmenté à 129 (limite normale jusqu'à 37), de sorte qu'une étude d'extension a été demandée à l'aide d'un scanner cérébral, d'un CT ctap et d'une TEP, qui a confirmé une récidive des ganglions lymphatiques rétropéritonéaux.
+L'amplification du gène HER2/neu a d'abord été déterminée par immunohistochimie (herceptest), dont le résultat était limite (valeur 2), puis confirmée par un résultat FISH positif.
+Le 21/9/12, le traitement QT a débuté selon le schéma suivant : Cisplatine 80 mg/m2 D1 + 5 FU 1000 mg/m2 D1-D4 + trastuzumab 6mg/kg D1 tous les 21 jours avec une réduction initiale de 25% en raison d'une toxicité hématologique antérieure et également associée à un soutien par G-CSF. Un scanner après le deuxième cycle a montré une progression cérébrale avec l'apparition de 3 nouvelles lésions et une nette réduction de la lymphadénopathie rétropéritonéale.
+Compte tenu de la progression cérébrale unique, il a reçu un traitement de RT holocrânien avec DT 30Gy pendant 2 semaines, qui s'est terminé le 8/11/12. Etant donné qu'une réponse radiologique avait été obtenue au niveau extra-cérébral, le traitement QT a été poursuivi selon le schéma cisplatine - 5-FU -trastuzumab.
+Après 5 cycles, le 24/12/12, le CA19.9 s'est normalisé et une IRM cérébrale, un scanner cérébral et une tomodensitométrie ont été réalisés, confirmant une réponse complète au niveau du SNC et au niveau rétropéritonéal. Elle a donc continué la monothérapie au trastuzumab à 6 mg/kg tous les 21 jours, dont elle a reçu 17 doses jusqu'au 27/12/13, maintenant une rémission complète à l'IRM cérébrale et à la tomodensitométrie, sans aucune toxicité à noter.
+Le 7/1/14, après un intervalle sans maladie de 12 mois, la patiente étant asymptomatique et ECOG0, la progression de la maladie au niveau rétropéritonéal a été confirmée.
+Compte tenu de la réponse obtenue précédemment et de l'absence de toxicité accumulée, un retraitement avec un doublet de platine-fluoropyrimidines associé au trastuzumab a été proposé. Entre le 22/1/14 et le 12/5/14, il a reçu un total de 6 cycles selon un schéma de cisplatine 80 mg/m2 D1, de capécitabine 750 mg/m2 toutes les 12 heures D2-15 et de trastuzumab 6 mg/kg D1 tous les 21 jours, réduit de 25 % en raison d'une toxicité hématologique antérieure et avec un soutien de G-CSF. Après le 2e cycle, il a présenté une réponse radiologique partielle qui s'est améliorée après le 5e cycle. Depuis, le cisplatine a été retiré et le traitement par capécitabine et trastuzumab a été poursuivi tous les 21 jours jusqu'au 2/7/15 pour un total de 25 cycles, la capécitabine ayant été suspendue en raison d'un syndrome palmoplantaire de type G2. Des échocardiogrammes périodiques, une IRM cérébrale et une tomodensitométrie ont été réalisés, ce qui a permis de maintenir la stabilité de la maladie avec un volume minimal.
+Depuis lors, elle a poursuivi le trastuzumab à raison de 600 mg par voie sous-cutanée tous les 21 jours, ayant reçu un total de 41 cycles de traitement jusqu'à présent, le 2/6/16, avec une excellente tolérance.

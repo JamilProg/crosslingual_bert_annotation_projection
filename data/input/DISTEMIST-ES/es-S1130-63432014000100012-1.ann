@@ -1,0 +1,25 @@
+T1	pathologie 234 260	insuficiencia respiratoria
+T2	pathologie 370 390	neumotórax bilateral
+T3	pathologie 395 410	neumomediastino
+T4	pathologie 775 786	gripe A y B
+T5	pathologie 917 934	infección por VIH
+T6	pathologie 987 1019	neumonía extrahospitalaria grave
+T7	pathologie 1499 1513	histoplasmosis
+T8	pathologie 1705 1726	neumonía organizativa
+T9	pathologie 1729 1739	vasculitis
+T10	pathologie 1788 1801	IR progresiva
+T11	pathologie 1814 1827	shock séptico
+T12	pathologie 1830 1844	nefrotoxicidad
+T13	pathologie 2136 2168	síndrome renopulmonar autoinmune
+T14	pathologie 2654 2720	neumonía por Adenovirus con síndrome de distrés respiratorio agudo
+T15	pathologie 2682 2720	síndrome de distrés respiratorio agudo
+T16	pathologie 2775 2783	IR aguda
+T17	pathologie 3724 3730	anemia
+T18	pathologie 3756 3778	sangrado intraalveolar
+T19	pathologie 3809 3863	hematotoxicidad por el tratamiento previo de linezolid
+T20	pathologie 4005 4030	insuficiencia renal grave
+T21	pathologie 4833 4847	nefrotoxicidad
+T22	pathologie 5618 5633	infección viral
+T23	pathologie 5765 5855	insuficiencia respiratoria refractaria secundaria a síndrome de distrés respiratorio agudo
+T24	pathologie 5817 5855	síndrome de distrés respiratorio agudo
+T25	pathologie 5996 6030	fibrosis en el parénquima pulmonar

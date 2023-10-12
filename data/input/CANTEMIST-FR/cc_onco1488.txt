@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 58 ans, sans allergie médicamenteuse. Antécédents personnels d'hypertension artérielle (traitement diététique). Il a été opéré de polypes des cordes vocales (1990) et d'une hypertrophie bénigne de la prostate (2003). Fumeur de 20 paquets/an.
+Pas de traitement régulier. En octobre 2010, il consulte pour des nausées, vomissements, douleurs abdominales de deux mois d'évolution accompagnés de fièvre, colurie intermittente et douleur de l'hypochondre droit de 24 heures d'évolution. Elle ne présentait pas de syndrome constitutionnel ni aucun autre symptôme. Le diagnostic de cholangite aiguë a été posé aux urgences et le patient a été admis dans le service de médecine digestive pour traitement et approfondissement de l'étude.
+
+Examen physique
+ECOG 0. Indice de masse corporelle 28 kg/m2.
+Fièvre 38,3 ºC. Ictère cutanéo-conjonctival discret.
+Abdomen : globulaire, gêne diffuse à la palpation et sensation de crampe dans l'hypochondre droit, Murphy positif, mais mou et dépressible sans irritation péritonéale. Péristaltisme normal. Le reste de l'examen physique est normal. Triade de Charcot (fièvre + ictère + douleur de l'hypochondre droit) caractéristique d'une cholangite aiguë.
+
+Examens complémentaires
+- Analyses sanguines (21 février 2011) : créatinine 1,48 mg/dL ; bilirubine totale 2,80 mg/dL ; bilirubine directe 1,05 mg/dL ; phosphatase alcaline 170 U/L ; gamma-glutamyl transpeptidase 165 U/L ; 28 000 leucocytes dont 24 200 neutrophiles ; activité prothrombinique 57%.
+- Echographie abdominale (21 février 2011) : dilatation des voies biliaires intrahépatiques. Extra-hépatique normal. Prostate hypertrophiée. Le reste est normal.
+- Tomodensitométrie thoraco-abdominale (22 février 2011) : dilatation anévrismale d'une anse de l'intestin grêle (iléon) mesurant 66 x 48 mm, avec composante inflammatoire régionale modérée remontant à travers la racine du mésentère où il y a des adénopathies d'aspect inflammatoire réactif. Quantité minime de liquide intrapéritonéal adjacent. Résultats compatibles avec une tumeur iléale de type lymphome ou des tumeurs stromales gastro-intestinales (GIST).
+- Iléocoloscopie (1er mars 2011) : normale.
+- Entéro-résonance (2 mars 2011) : masse inframésocolique hétérogène de 84 mm en contact étroit avec la paroi de l'iléon proximal avec dilatation proximale de cette dernière, suggérant une origine intraluminale. Suggère comme première possibilité une tumeur stromale gastro-intestinale avec une possible abcédation.
+- Anatomie pathologique :
+- Macroscopie : segment d'intestin grêle avec tumeur végétative et infiltrante mesurant 6 x 5 cm, traversant les couches musculaires et infiltrant le mésentère. Pas de métastases dans 0 des 6 ganglions lymphatiques isolés. Marges chirurgicales libres.
+- Microscopie : tumeur solide, de lignée mésenchymateuse, occupant toute la paroi intestinale avec atteinte et ulcération de la muqueuse. Elle est constituée de grandes cellules polygonales, ovales et parfois allongées, au cytoplasme éosinophile, aux noyaux membranaires irréguliers, à la chromatine grumeleuse et au nucléole patent. De nombreuses figures mitotiques sont identifiées, dont certaines sont atypiques. Les cellules néoplasiques expriment la vimentine, l'actine et la cytokératine AE1/AE3.
+- Immunohistochimie (tableau I) : positivité de Ki-67 de 80 %. Les cellules néoplasiques expriment l'actine, la vimentine et la cytokératine AE1/AE3 positives.
+Desmine, c-kit (CD 117) et CD34 négatifs.
+
+Diagnostic
+Cholangite aiguë et léiomyosarcome jéjunal non GIST de haut grade.
+
+Traitement
+Le 18 mars 2011, une résection segmentaire de l'intestin grêle avec anastomose manuelle de bout en bout a été réalisée.
+Après évaluation par le service d'oncologie médicale, une chimiothérapie adjuvante a été prescrite avec 2 500 mg d'ifosfamide et 25 mg/m2 de doxorubicine les jours 1, 2 et 3 tous les 21 jours pendant quatre cycles (du 27 avril au 2 juillet 2011).
+
+Évolution
+Le patient a suivi les contrôles ultérieurs, le dernier en avril 2012, restant asymptomatique et sans maladie.

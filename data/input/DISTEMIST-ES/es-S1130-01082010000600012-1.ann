@@ -1,0 +1,19 @@
+T1	pathologie 78 86	obesidad
+T2	pathologie 88 91	HTA
+T3	pathologie 93 105	fibromialgia
+T4	pathologie 108 127	hernia discal D3-D4
+T5	pathologie 227 239	lumbociática
+T6	pathologie 316 324	disfagia
+T7	pathologie 686 731	lesiones vertebrales (en D7 y desde D9 a D12)
+T8	pathologie 748 789	aplastamientos vertebrales osteoporóticos
+T9	pathologie 862 874	lumbociática
+T10	pathologie 879 951	lesiones vertebrales múltiples de origen osteoporótico en columna dorsal
+T11	pathologie 1140 1148	disfagia
+T12	pathologie 1295 1308	hepatomegalia
+T13	pathologie 1475 1516	lesión situada a 18 cm de arcada dentaria
+T14	pathologie 1611 1622	adenopatías
+T15	pathologie 1684 1724	metástasis hepáticas en segmento IV y II
+T16	pathologie 1894 1906	masa tumoral
+T17	pathologie 1941 1963	implantes mesentéricos
+T18	pathologie 1965 2036	metástasis hepáticas múltiples y óseas en esqueleto axial y periféricas
+T19	pathologie 2061 2077	melanoma maligno

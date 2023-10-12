@@ -1,0 +1,22 @@
+T1	pathologie 35 42	fumador
+T2	pathologie 44 59	enolismo severo
+T3	pathologie 104 125	hipertensión arterial
+T4	pathologie 140 166	pancreatitis aguda enólica
+T5	pathologie 243 273	inflamación pancreática difusa
+T6	pathologie 436 454	quiste hemorrágico
+T7	pathologie 554 579	cuadro inflamatorio agudo
+T8	pathologie 768 784	lesiones renales
+T9	pathologie 1024 1050	granuloma esteatonecrótico
+T10	pathologie 1105 1147	necrosis grasas secundarias a pancreatitis
+T11	pathologie 1135 1147	pancreatitis
+#1	SNOMED T2	713862009
+#2	SNOMED T3	38341003
+#3	SNOMED T4	235942001
+#4	SNOMED T10	46626002
+#5	SNOMED T11	75694006
+#6	SNOMED T8	90708001
+#7	SNOMED T5	75694006
+#8	SNOMED T7	4532008
+#9	SNOMED T6	52321009
+#10	SNOMED T1	77176002
+#11	SNOMED T9	27058005

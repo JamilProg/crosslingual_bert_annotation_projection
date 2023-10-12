@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 65 ans, fumeuse de 40 paquets-années, sans autres antécédents médicaux dignes d'intérêt. En septembre 1994, on lui a diagnostiqué un carcinome canalaire infiltrant du sein droit, pT1b N1b M0, stade IIA, récepteurs d'oestrogènes positifs, progestérone négative, Ki 67 de 20 %. Elle a subi une tumorectomie avec lymphadénectomie axillaire et a reçu une chimiothérapie adjuvante à base de cyclophosphamide-méthotrexate-fluorouracile pendant 6 cycles, suivie d'une radiothérapie locorégionale (50 Gy plus un boost de 10 GY). Par la suite, elle a poursuivi ses examens dans le service de gynécologie jusqu'en janvier 2003, date à laquelle une lymphadénopathie sus-claviculaire a été détectée et où elle a été adressée à notre service.
+
+Examen physique
+Karnofsky 80 %, palpation d'une adénopathie dans la région sus-claviculaire droite, eupnéique au repos, pas d'altération de l'auscultation cardio-pulmonaire ou abdominale, pas d'œdème des membres inférieurs.
+
+Examens complémentaires
+Tomodensitométrie thoraco-abdominale : apparition d'une adénopathie sus-claviculaire droite, sans autre élément notable.
+Biopsie de l'adénopathie sus-claviculaire compatible avec une métastase de carcinome mammaire (étude immunohistochimique avec récepteurs d'œstrogènes positifs, progestatifs négatifs et HER-2 positif).
+
+Diagnostic
+Récidive ganglionnaire sus-claviculaire d'un carcinome canalaire infiltrant de stade IIA du sein droit avec récepteurs hormonaux +, HER-2+ et Ki 67 20%.
+
+Traitement
+Le diagnostic de rechute du ganglion lymphatique sus-claviculaire ayant été posé, il a été décidé d'entamer un traitement de première intention de la maladie avancée par docétaxel-trastuzumab à raison de trois fois par semaine pendant 6 cycles. Après 6 cycles de docétaxel-trastuzumab, une réponse radiologique complète a été observée, de sorte que le trastuzumab a été poursuivi pendant 6 cycles supplémentaires et qu'une hormonothérapie a été mise en place (initialement avec du torémifène et plus tard avec du létrozole). Une radiothérapie de consolidation a également été administrée dans le creux sus-claviculaire.
+
+Évolution
+En mai 2009, des signes de progression hépatique, splénique et ganglionnaire ont été observés. Le traitement a donc commencé avec de la vinorelbine orale à 60 mg/m2 les 1er et 8e jours et du trastuzumab à 6 mg/kg tous les 21 jours pendant 8 cycles, ce qui a permis d'obtenir une réponse partielle significative. Par la suite, elle a poursuivi l'exémestane et le trastuzumab sans interruption, sans développer de toxicité cardiologique.
+En janvier 2018, alors qu'elle était asymptomatique, un scanner thoraco-abdominal de contrôle a été demandé, qui a révélé l'apparition d'une lésion nodulaire dans le segment antérieur du LSD en situation paramédiastinale mesurant 3 par 1,6 cm et une atteinte métastatique hépatique, splénique et ganglionnaire sans modification par rapport à l'étude d'imagerie précédente. Il a donc été décidé de réaliser une biopsie de la lésion pulmonaire, dont le résultat anatomopathologique est un carcinome pulmonaire microcytaire.
+Compte tenu du diagnostic de carcinome pulmonaire microcytaire de stade IA, il a été décidé d'arrêter le trastuzumab et de commencer une chimiothérapie à base de carboplatine et d'étoposide. À ce jour, elle a reçu deux cycles de chimiothérapie avec une bonne tolérance et, malgré la suspension du trastuzumab, la patiente ne présente aucun signe de progression. Etant donné qu'elle a déjà reçu un traitement de radiothérapie à pleine dose, un sauvetage chirurgical sera envisagé en fonction de la réponse obtenue.

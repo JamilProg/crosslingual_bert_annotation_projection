@@ -1,0 +1,10 @@
+T1	pathologie 595 601	lesión
+T2	pathologie 1234 1260	lesión de células gigantes
+T3	pathologie 1356 1380	sangrado intraoperatorio
+T4	pathologie 1581 1584	MAV
+T5	pathologie 2242 2269	malformación arterio-venosa
+#1	SNOMED T2	443790001
+#2	SNOMED T4	234141001
+#3	SNOMED T5	234141001
+#4	SNOMED T3	213261000
+#5	SNOMED T1	417163006

@@ -1,0 +1,20 @@
+T1	pathologie 155 175	exantema eritematoso
+T2	pathologie 564 590	infección bacteriana grave
+T3	pathologie 896 916	exantema evanescente
+T4	pathologie 1346 1367	edema agudo de pulmón
+T5	pathologie 1389 1401	pancitopenia
+T6	pathologie 1479 1486	gripe A
+T7	pathologie 1770 1798	infección por parvovirus B19
+T8	pathologie 1800 1826	insuficiencia respiratoria
+T9	pathologie 1829 1841	pancitopenia
+T10	pathologie 2029 2047	eritema infeccioso
+#1	SNOMED T2	87628006
+#2	SNOMED T7	34730008
+#3	SNOMED T8	409623005
+#4	SNOMED T9	127034005
+#5	SNOMED T10	34730008
+#6	SNOMED T4	40541001
+#7	SNOMED T5	127034005
+#8	SNOMED T6	6142004
+#9	SNOMED T1	271807003
+#10	SNOMED T3	271807003

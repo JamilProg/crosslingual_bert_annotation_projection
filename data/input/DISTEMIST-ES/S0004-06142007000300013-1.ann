@@ -1,0 +1,10 @@
+T1	pathologie 438 444	lesión
+T2	pathologie 526 537	traumatismo
+T3	pathologie 867 889	adenopatias inguinales
+T4	pathologie 1125 1146	enfermedades venéreas
+T5	pathologie 1214 1232	abstinencia sexual
+#1	SNOMED T3	127199000
+#2	SNOMED T4	187367009
+#3	SNOMED T5	47037006
+#4	SNOMED T1	417163006
+#5	SNOMED T2	417746004

@@ -1,0 +1,12 @@
+T1	pathologie 293 304	cardiopatía
+T2	pathologie 336 358	enfermedades cardiacas
+T3	pathologie 907 931	taquicardia de QRS ancho
+T4	pathologie 1565 1624	taquicardia supraventricular (TSV) conducida con aberrancia
+T5	pathologie 1595 1598	TSV
+T6	pathologie 2220 2260	TSV paroxística con conducción aberrante
+#1	SNOMED T3	251156000
+#2	SNOMED T4	6456007
+#3	SNOMED T5	6456007
+#4	SNOMED T6	67198005+251183004
+#5	SNOMED T1	56265001
+#6	SNOMED T2	56265001

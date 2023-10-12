@@ -1,0 +1,50 @@
+Anamnèse
+Homme, actuellement âgé de 54 ans, pas d'allergies médicamenteuses connues, ex-fumeur depuis 20 ans à raison d'un paquet par jour, buveur d'une bière par jour, diagnostic de sarcoïdose pulmonaire en 1995 et suivi par la médecine interne sans traitement. Antécédents familiaux : frère décédé d'un hépatocarcinome à l'âge de 52 ans.
+Le 2 avril 1997, le patient a consulté le service de gastro-entérologie pour des douleurs abdominales datant de plusieurs mois, qui s'étaient intensifiées au cours des dernières semaines. Une endoscopie supérieure a montré une masse importante avec un ulcère fibrineux au niveau de la grande courbure gastrique. La biopsie était compatible avec un fragment de muqueuse gastrique avec adénocarcinome.
+Le 21 avril 1997, il a subi une intervention chirurgicale qui a révélé une volumineuse tumeur gastrique et du côlon transverse. Une gastrectomie subtotale, une colectomie transverse et une lymphadénectomie avec ablation de l'épiploon (anastomose gastrique de type Billroth I et anastomose termino-terminale dans le côlon) ont été réalisées. L'anatomie pathologique était compatible avec un adénocarcinome ulcéro-végétatif bien différencié du côlon, perforé à l'estomac avec la paroi largement envahie par des zones de colloïde et de muqueuse gastrique ulcérée. Les adénopathies, l'épiploon et les berges chirurgicales étaient exempts de tumeur et l'étude d'extension ultérieure s'est révélée négative pour une maladie à distance.
+Il a ensuite suivi 12 cycles de chimiothérapie adjuvante (QT) à base de 5-fluorouracile-leucovorine (5FU-LV), qui se sont terminés en mars 1998, le laissant indemne de toute maladie.
+En 2006, le patient a décidé de ne plus se présenter aux examens de contrôle.
+En juillet 2011, il a commencé à présenter des rectorragies occasionnelles indolores et une nouvelle étude a été entreprise sur le tube digestif.
+
+Examen physique
+Le patient est en bon état général, eupnéique, sans ictère cutané et muqueux, sans syndrome constitutionnel. Auscultation : tonalités rythmiques sans murmures ni extratonos. Murmure vésiculaire conservé dans les deux champs pulmonaires. Abdomen souple et dépressible, sans douleur ni signe d'irritation péritonéale. Examen rectal : pas de masse palpable ni de traces de sang au moment de l'examen.
+
+Tests complémentaires
+"Coloscopie : masse sténosante dans le sigma qui ne permet pas le passage de l'endoscope.
+"Biopsie : adénocarcinome infiltrant.
+"Étude d'extension avec tomodensitométrie du thorax, de l'abdomen et du bassin sans preuve de métastases.
+
+Diagnostic
+Le 28 août 2011, le patient a subi une sigmoïdectomie avec lymphadénectomie.
+"L'examen anatomopathologique a révélé un adénocarcinome modérément différencié infiltrant jusqu'au tissu adipeux, avec des métastases dans 3 des 18 ganglions lymphatiques isolés et une invasion lymphovasculaire, correspondant au stade IIIA (pT3N1).
+Pendant la période post-opératoire, le patient a souffert d'un iléus obstructif dû à un plastron dans l'intestin grêle, secondaire à un abcès abdominal dû à une déhiscence anastomotique et à une colite ischémique gauche, qui a nécessité une colectomie totale et une iléostomie terminale.
+"L'anatomie pathologique dans ce cas correspondait à des signes d'ischémie aiguë et subaiguë et à une inflammation transpariétale abcédée aiguë, sans tissu tumoral ni implication métastatique des ganglions lymphatiques dans les 35 ganglions analysés.
+
+Traitement
+Le patient est resté hospitalisé pendant deux mois en raison de complications infectieuses et, en décembre 2011, il a été examiné pour une évaluation clinique et thérapeutique.
+"Examens de laboratoire : numération sanguine et paramètres de coagulation dans les limites des paramètres normaux. Créatinine 1,20 mg/dl, enzymes hépatiques et bilirubine dans les limites des paramètres normaux. CEA et CA 19.9 non élevés.
+"Tomodensitométrie du thorax, de l'abdomen et du bassin (CAT scan) : 2 lésions hypovasculaires occupant l'espace hautement suspectes de malignité, 2 cm dans le segment 8 et 8,6 cm x 6 cm adjacents, le reste de l'étude étant négatif.
+"Etude du gène RAS sauvage.
+Après avoir présenté le cas au comité multidisciplinaire, il a été décidé de commencer par le schéma QT FOLFOX et panitumumab. Après trois cycles de traitement, une réponse partielle a été observée, réduisant la taille de la lésion hépatique à 2,7 cm.
+En avril 2012, une segmentectomie hépatique a été réalisée et la période postopératoire a été très favorable et sans complications :
+"L'anatomie pathologique a montré un adénocarcinome intestinal modérément différencié avec une composante mucosécrétoire extracellulaire.
+En mai 2012, il a continué le FOLFOX sans panitumumab pendant deux cycles supplémentaires, puis le 5FU sans oxaliplatine en raison d'une neurotoxicité de grade 3, jusqu'à ce qu'il termine 6 mois de traitement périopératoire en août 2012.
+Le patient a commencé les contrôles et n'a pas eu de maladie et a même subi une reconstruction du transit intestinal avec fermeture de l'iléostomie sans complications, ce qui a eu un impact positif sur la qualité de vie du patient.
+
+L'évolution
+En mars 2013, il se présente pour un bilan avec les examens complémentaires suivants :
+" CT du TAP : lésion unique d'aspect nouveau située dans le lobe inférieur gauche (LII) de 18mm.
+Granulomes calcifiés résiduels dans le lobe supérieur droit (LSD). Le reste de l'étude n'a montré aucun signe de métastase.
+"Scanner PET-CT : la lésion décrite dans le scanner du LII mesure 19 mm avec un SUV de 13,3 suggérant une tumeur maligne.
+Après avoir présenté le cas au comité des tumeurs thoraciques, une thoracotomie avec résection cunéiforme du nodule a été réalisée en avril 2013.
+"L'anatomie pathologique a montré un adénocarcinome avec nécrose extensive, fibrose et calcification avec immunohistochimie CD20+, p63-, TTF1+ focal et CDX-2+ suggérant une origine intestinale primaire. 6 ganglions lymphatiques avec anthracose ganglionnaire.
+A nouveau indemne de maladie confirmée par la tomodensitométrie, la patiente ne souhaite pas de médicaments de chimiothérapie intraveineuse et débute un traitement adjuvant par capécitabine en monothérapie jusqu'en septembre 2013 (5 mois), interrompu à cette date en raison d'une toxicité palmoplantaire et digestive de grade 3 et 2, respectivement.
+En février 2014, la patiente s'est présentée à la clinique en se plaignant d'une toux occasionnelle avec expectoration de mucus qui ne cédait pas sous acétylcystéine.
+" Tomodensitométrie thoracique : deux formations polypoïdes situées dans la paroi supérieure et inférieure de la bronche principale gauche qui n'existaient pas auparavant, le reste de la tomodensitométrie étant normal.
+"Bronchoscopie : au début de la bronche principale gauche (BPG), quatre implants circonférentiels ont provoqué une sténose de la lumière, le reste des bronches lobaires et la bronche principale droite étant normales.
+En mars 2014, les implants ont été réséqués et une prothèse en silicone a été implantée.
+"L'anatomie pathologique était compatible avec un adénocarcinome entéroïde dans les polypes réséqués.
+"Lavage bronchique négatif pour la malignité.
+"Nouvelle étude du gène RAS : mutation dans l'exon 4 du gène KRAS.
+Après avoir été rediscuté en comité multidisciplinaire, elle a débuté un traitement par QT adjuvant avec FOLFIRI en avril 2014 jusqu'en septembre 2014 avec une tolérance acceptable.
+Depuis, il suit des examens de contrôle sans aucune donnée clinique, analytique ou radiologique suggérant une récidive de la maladie. Le patient a une bonne qualité de vie et souffre occasionnellement d'infections respiratoires bactériennes traitées par antibiotiques oraux.

@@ -1,0 +1,30 @@
+Anamnèse
+Une femme ménopausée de 54 ans, ayant eu deux grossesses à terme, dont la ménarche remonte à l'âge de 15 ans et dont les dernières règles remontent à 2 ans, sans autres antécédents intéressants. Elle a été adressée en gynécologie pour des saignements vaginaux intermittents d'une durée de deux semaines. Elle a également signalé une légère asthénie et des douleurs dans les deux hanches, des douleurs musculo-squelettiques d'une amplitude de 6 à 8 qui ne se sont pas améliorées malgré le paracétamol. Elle nie avoir d'autres symptômes.
+
+Examen physique
+ECOG 1, légère pâleur cutanéo-muqueuse.
+Les examens cardio-pulmonaire et abdominal sont sans particularité.
+L'examen des seins révèle des seins denses avec des irrégularités mal définies. Un nodule douteux mesurant environ 6 x 8 cm à la jonction des quadrants supérieurs gauches. L'examen des régions axillaires et du col de l'utérus s'est révélé négatif.
+À l'examen gynécologique, une cicatrice chéloïde a été observée sur la face latérale gauche du périnée antérieur, en relation avec la vulve. Col postérieur hypotrophe avec une lésion arrondie de 6-7 mm saignant au contact, compatible avec un polype endocervical sessile.
+
+Tests complémentaires
+- Biopsie d'un polype endocervical : polype endocervical focalement métastasé par un carcinome lobulaire du sein : CK19 +, BRST2 positif, e-cadhérine négatif, récepteur des œstrogènes focalement positif.
+Suite aux résultats de la biopsie cervicale, les examens complémentaires suivants ont été réalisés :
+- Mammographie : sein gauche avec épaississement cutané diffus et signes de malignité avec lésion hétérogène étendue à la jonction du CCSS du sein gauche mesurant 35 x 25 mm, avec des lésions satellites adjacentes (BI-RADS 5 à gauche et BI-RADS 1 à droite).
+- Tomodensitométrie thoraco-abdominopelvienne : masse mammaire avec atteinte du tissu cellulaire sous-cutané et de l'aisselle (jusqu'à 18 mm) ; multiples LOE osseuses ostéoblastiques-ostéolytiques (costales gauches, sternum, humérus gauche, dorsolombaire, sacrum, lames iliaques et ischion).
+- Biopsie d'un nodule mammaire : carcinome mammaire infiltrant e-cadhérine négatif : carcinome lobulaire infiltrant.
+Récepteurs des œstrogènes : forte positivité nucléaire dans environ 30 % des cellules tumorales, avec évaluation +/+++. Récepteurs de la progestérone : négatifs. Surexpression HER2 : négative pour le traitement, titration 0. p53 : négative.
+Indice de prolifération cellulaire (ki-67) : environ 70% des cellules tumorales. L'indice de prolifération cellulaire élevé indique un carcinome lobulaire pléomorphe.
+- Hémoglobine 10,5 g/dl, le reste de l'hémogramme était normal. Biochimie normale, y compris le calcium et les fonctions hépatique et rénale. CEA dans la fourchette normale, CA 15.3 de 58,4 UI/ml (0-28 UI/ml).
+- Scintigraphie osseuse : de multiples foyers d'activité osseuse accrue ont été observés, avec une réaction ostéoblastique, au niveau de la calotte (frontale et pariétale), des deux côtes costales, de la colonne vertébrale dorsale et des premières vertèbres lombaires, de l'os iliaque gauche, des deux diaphyses fémorales et de la diaphyse tibiale gauche, en relation avec une maladie métastatique osseuse.
+- Après avoir trouvé des lésions métastatiques dans la calotte crânienne, le service de médecine nucléaire a indiqué que des lésions méningées ne pouvaient être exclues, et un scanner crânien a donc été réalisé, qui a été jugé normal.
+
+Diagnostic
+Carcinome lobulaire du sein gauche de stade IV.
+Métastases dans le col de l'utérus et dans les os.
+
+Traitement
+Après avoir présenté le cas au comité du cancer du sein, il a été proposé de commencer un traitement systémique selon le schéma AC (doxorubicine + cyclophosphamidia) tous les 21 jours pendant 4 cycles, suivi de 4 cycles de docétaxel tous les 21 jours, en plus de l'acide zolédronique.
+
+Évolution
+Actuellement, le patient est dans le deuxième cycle de CA, avec une réponse partielle sur l'imagerie, en plus d'une amélioration clinique du patient.

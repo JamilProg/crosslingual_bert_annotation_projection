@@ -1,0 +1,46 @@
+T1	pathologie 56 80	cardiopatía hipertensiva
+T2	pathologie 82 101	hipercolesterolemia
+T3	pathologie 103 119	diabetes tipo II
+T4	pathologie 139 155	prolapso uterino
+T5	pathologie 172 181	cistocele
+T6	pathologie 183 206	hipotiroidismo primario
+T7	pathologie 208 231	neuralgia del trigémino
+T8	pathologie 233 247	asma bronquial
+T9	pathologie 249 258	depresión
+T10	pathologie 260 277	arterioesclerosis
+T11	pathologie 299 321	adenomioma de vesícula
+T12	pathologie 323 348	insuficiencia suprarrenal
+T13	pathologie 419 440	hematoma abcesificado
+T14	pathologie 742 756	neumoperitoneo
+T15	pathologie 1285 1299	neumoperitoneo
+T16	pathologie 1398 1412	neumoperitoneo
+T17	pathologie 1463 1495	perforación de una víscera hueca
+T18	pathologie 1773 1793	infección peritoneal
+T19	pathologie 1822 1831	infección
+T20	pathologie 1970 1990	infección peritoneal
+T21	pathologie 2142 2156	neumoperitoneo
+T22	pathologie 2412 2427	aire peritoneal
+T23	pathologie 2506 2520	neumoperitoneo
+#1	SNOMED T21	17204006
+#2	SNOMED T1	64715009
+#3	SNOMED T23	17204006
+#4	SNOMED T2	13644009
+#5	SNOMED T3	44054006
+#6	SNOMED T18	66579008
+#7	SNOMED T4	24976005
+#8	SNOMED T19	40733004
+#9	SNOMED T5	252005008
+#10	SNOMED T6	111566002
+#11	SNOMED T7	31681005
+#12	SNOMED T8	195967001
+#13	SNOMED T9	394924000
+#14	SNOMED T10	72092001
+#15	SNOMED T11	73479003
+#16	SNOMED T20	66579008
+#17	SNOMED T12	237785004
+#18	SNOMED T15	17204006
+#19	SNOMED T13	128477000
+#20	SNOMED T16	17204006
+#21	SNOMED T17	36191001
+#22	SNOMED T14	17204006
+#23	SNOMED T22	17204006

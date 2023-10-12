@@ -1,0 +1,10 @@
+T1	pathologie 179 264	seudoaneurisma de aorta torácica distal a la salida de la arteria subclavia izquierda
+T2	pathologie 283 318	hematoma periaórtico y mediastínico
+T3	pathologie 332 351	hemotórax bilateral
+T4	pathologie 454 465	traumatismo
+T5	pathologie 555 609	arteria subclavia izquierda quedó parcialmente ocluida
+#1	SNOMED T1	113262008+22036004
+#2	SNOMED T5	18000001000004101
+#3	SNOMED T3	31892009
+#4	SNOMED T4	417746004
+#5	SNOMED T2	473451005+301296002

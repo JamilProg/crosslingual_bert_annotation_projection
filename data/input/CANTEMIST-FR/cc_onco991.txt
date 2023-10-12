@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 50 ans, enseignante. Pas d'antécédents familiaux de cancer. Pas d'allergies médicamenteuses connues. Fumeuse depuis 20 paquets-années. Pas de maladie cardiaque ou de bronchopathie connue. Pas de CVRF connue. Pas d'antécédents chirurgicaux. Pas de traitement concomitant à domicile.
+Antécédents oncologiques :
+Le patient a été admis le 24/09/2015 en raison de vomissements récurrents et d'une intolérance orale aux solides. Après évaluation clinique et radiologique, des images compatibles avec une néoplasie pancréatique sans infiltration vasculaire ont été obtenues et une chirurgie urgente a été décidée au moyen d'une pancréatoduodénectomie radicale (Whipple) le 25/09/2015. Sans complications. L'anatomie pathologique a confirmé que le patient présentait un adénocarcinome canalaire du pancréas de grade 2 avec une infiltration de la paroi duodénale et des tissus mous péripancréatiques, un envahissement lymphovasculaire et périneural positif, des berges chirurgicales libres et une absence d'envahissement ganglionnaire (0/6). Il s'agit donc d'un adénocarcinome canalaire pancréatique pT3pN0pMx RO (STAGE IIA).
+
+Examen physique
+Statut de performance ECOG 1. Poids : 65 kg, taille 162 cm. SC : 1,69. Eupnéique, conscient et orienté. Bien hydraté et perfusé. Pas d'adénopathies périphériques palpables. ACR : sons rythmiques sans souffle audible. VCM sans bruits additionnels.
+Abdomen souple, dépressible et non douloureux, RHA conservé, pas de signes d'irritation péritonéale, pas de masses ni de mégalithes, et cicatrice consolidée de bonne apparence. Les membres inférieurs ne présentent pas d'œdème ni de signes de TVP.
+
+Tests complémentaires
+"Hémogramme : leucocytes, hémoglobine et plaquettes dans les limites de la normale.
+"Coagulation : PT et aPTT normaux.
+"Biochimie : glucose, fonction rénale et ions normaux.
+"CA 19.9 : 16 (normal).
+"Profil thyroïdien normal.
+"Endoscopie buccale : lésion sténosante dans la deuxième/troisième portion duodénale suggérant une néoplasie duodénale ou une infiltration tumorale.
+"Tomodensitométrie thoraco-abdominopelvienne (04/09/2015) : épaississement mural mammillaire d'aspect néoplasique dans la deuxième/troisième portion duodénale accompagné d'une sténose importante de la lumière et d'une distension secondaire dans les segments proximaux. De plus, il existe une lésion hypodense dans l'apophyse uncinée pancréatique qui semble infiltrer la paroi médiale de la deuxième portion duodénale. Ces résultats sont compatibles avec une néoplasie pancréatique de l'apophyse uncinée avec extension au duodénum sans implication locorégionale ni adénopathie pathologique. Le reste de l'étude n'a pas révélé de résultats pertinents.
+
+Diagnostic
+Adénocarcinome canalaire du pancréas de grade 2 avec infiltration de la paroi duodénale et des tissus mous péripancréatiques. Stade II A (pT3pN0cM0). Whipple R0.
+
+Traitement
+Le traitement cytostatique adjuvant a été décidé avec la gemcitabine en monothérapie 1 g/m2 iv (DT : 1 700 mg) les 1er, 8ème et 15ème jours tous les 28 jours x 6 cycles.
+Tolérance au traitement : diarrhée de grade 2, transaminite de grade 1, myalgies de grade 1 et plaquettopénie de grade 3.
+Admis après le 5ème cycle en raison d'une anémie microangiopathique, de plaquettes et d'une légère insuffisance rénale, nécessitant une transfusion de globules rouges et de plaquettes. A sa sortie, il a été décidé de ne pas administrer le dernier cycle adjuvant prévu et un suivi a été mis en place.
+
+Évolution
+Après un intervalle sans maladie (ISM) de 7 mois, la patiente a manifesté une asthénie de grade 2 et une perte de 5 kg. En avril 2016, un scanner du thorax, de l'abdomen et du bassin a révélé deux nouvelles lésions occupant de l'espace dans le foie, compatibles avec des métastases, ainsi qu'un épanchement pleural et péricardique asymptomatique. Devant l'impossibilité d'administrer à nouveau de la gemcitabine en raison de la toxicité hématologique sévère observée lors du traitement adjuvant, il a alors été proposé de débuter une monothérapie par nab-paclitaxel 125 mg/m2 iv (DT : 200 mg) les 1er, 8e et 15e jours tous les 21 jours. Six cycles de traitement. Tolérance au traitement ; asthénie grade 1, alopécie, anémie grade 1, insuffisance rénale aiguë grade 3 (clairance de la créatinine 56 ml/min) sans nécessité d'ajustement de la dose.
+Neurotoxicité de grade 2. Suite à l'apparition des effets indésirables précités, un repos thérapeutique et une surveillance radiologique ont été décidés. Une IRM abdominale réalisée en novembre 2016 a montré une réponse radiologique complète qui s'est maintenue lors d'un nouveau scanner du thorax, de l'abdomen et du bassin réalisé en février 2017. Par conséquent, aucun nouveau traitement cytostatique n'a été nécessaire. La patiente présente une neuropathie résiduelle de grade 1. Elle est actuellement indemne de la maladie et fait l'objet d'un suivi étroit.

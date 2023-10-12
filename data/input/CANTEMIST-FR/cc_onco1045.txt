@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 58 ans, sans allergie médicamenteuse connue, n'ayant jamais fumé, sans antécédents pathologiques, personnels ou familiaux intéressants, a consulté en mai 2014 pour une dyspnée d'effort moyenne progressive et une asthénie, ainsi qu'une oppression thoracique.
+Lors de l'admission pour l'étude de la douleur thoracique, les examens d'imagerie ont révélé un nodule pulmonaire solitaire dans le lobe supérieur gauche.
+
+Examen physique
+Bon état général. Conscient et orienté, pupilles isochoriques et normoréactives, nerfs crâniens préservés. Bien hydraté et perfusé. Pas d'ingurgitation jugulaire, pas d'adénopathies latérocervicales, axillaires ou sus-claviculaires. Auscultation cardio-respiratoire sans résultat. L'abdomen est sans particularité. Extrémités sans œdème ni signe de thrombose.
+
+Examens complémentaires
+ Une tomodensitométrie thoraco-abdominale a montré une masse pulmonaire de 56,3 x 32,5 mm de diamètre, située dans le segment apicopostérieur du LSI. La tumeur était associée à de multiples petits ganglions lymphatiques médiastinaux subcentimétriques dans la zone prévasculaire et dans la région de la fenêtre aortopulmonaire, avec la présence d'une adénopathie non spécifique de 13,2 mm et d'une adénopathie de 1 cm dans le hile pulmonaire gauche.
+ Le résultat anatomopathologique de la ponction pulmonaire était positif pour un adénocarcinome modérément différencié.
+ La tomographie par émission de positons (TEP) a montré une masse tumorale hypermétabolique dans le lobe supérieur gauche (SUVmax : 10,10) en contact avec le médiastin. Au niveau du hile pulmonaire, une adénopathie hypermétabolique (SUVmax : 3,98) de 10 mm de diamètre a été observée, suggérant une infiltration ganglionnaire.
+ Compte tenu de la découverte de métastases ganglionnaires, une médiastinoscopie a été réalisée en janvier 2014, qui a permis d'exclure une métastase ganglionnaire au niveau N2.
+
+Diagnostic
+Il s'agit d'un adénocarcinome modérément différencié, de 5,5 cm avec atteinte ganglionnaire 5/10, pT2bpN2M0, stade IIIA (N2). Il présente une mutation dans l'exon 21 du gène EGFR.
+
+Traitement
+Le traitement adjuvant est décidé avec un schéma séquentiel QT-RT cisplatine 80 mg/m2 jour 1 + vinorelbine 20 mg/m2 jours 1 et 8 toutes les 4 semaines pendant quatre cycles, se terminant en juin 2014 suivi d'une RT (60 Gy au total en 30 sessions), se terminant en septembre 2014.
+
+Evolution
+En janvier 2015, 10 mois après la chirurgie, un scanner thoracique de contrôle a montré l'apparition de multiples métastases pulmonaires bilatérales. Une inclusion dans l'essai clinique GOAL a été proposée, randomisée dans le bras gefitinib 250 mg par jour + olaparib 250 mg par jour, qui a débuté en février 2015 avec une réponse complète. Après 14 cycles, elle a développé des symptômes d'aphasie globale, de léthargie et d'incoordination, initialement diagnostiqués comme un accident vasculaire cérébral ischémique et admis dans le service de neurologie pour investigation. En l'absence de lésions ischémiques au scanner crânien, une IRM cérébrale a été réalisée, qui a montré une prise de contraste leptoméningée supratentorielle, compatible avec une dissémination intracrânienne de l'adénocarcinome, sans aucun signe de maladie extracérébrale. La cytologie du LCR a révélé la présence de cellules d'adénocarcinome métastatique malin, et une mutation de l'exon 21 de l'EGFR a été détectée, sans la mutation T790M. Un traitement par erlotinib hebdomadaire à la dose de 1 500 mg a été débuté en mars 2016, et le patient a été maintenu avec une maladie méningée stable jusqu'en janvier 2017.
+Pendant le traitement, le patient a été bien toléré, le principal effet indésirable étant l'asthénie G2. En janvier 2017, les symptômes neurologiques se sont aggravés sous la forme d'une aphasie expressive. L'IRM cérébrale a confirmé la progression sans maladie extracérébrale et l'analyse du liquide céphalorachidien a détecté la mutation T790M, ce qui a conduit à l'utilisation de l'osimertinib. Dans le contexte d'une pneumonie nosocomiale, l'état général de la patiente s'est fortement dégradé, l'empêchant de recevoir tout traitement supplémentaire pour son néoplasme. La patiente est décédée en mars 2017.

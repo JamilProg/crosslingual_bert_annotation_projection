@@ -1,0 +1,28 @@
+T1	pathologie 132 134	DM
+T2	pathologie 136 157	hipertensión arterial
+T3	pathologie 159 171	dislipidemia
+T4	pathologie 173 186	hiperuricemia
+T5	pathologie 188 221	insuficiencia cardíaca congestiva
+T6	pathologie 224 233	depresión
+T7	pathologie 319 344	trombosis venosa profunda
+T8	pathologie 474 530	trombosis venosa profunda de las extremidades inferiores
+T9	pathologie 958 1001	parada cardíaca por fibrilación ventricular
+T10	pathologie 978 1001	fibrilación ventricular
+T11	pathologie 1582 1601	acidosis metabólica
+T12	pathologie 1646 1660	hiperpotasemia
+T13	pathologie 1691 1714	neumonía por aspiración
+T14	pathologie 1764 1781	estado vegetativo
+#1	SNOMED T1	73211009
+#2	SNOMED T2	38341003
+#3	SNOMED T3	370992007
+#4	SNOMED T4	35885006
+#5	SNOMED T5	42343007
+#6	SNOMED T6	394924000
+#7	SNOMED T7	128053003
+#8	SNOMED T8	404223003
+#9	SNOMED T9	71908006+410429000
+#10	SNOMED T10	71908006
+#11	SNOMED T11	59455009
+#12	SNOMED T12	14140009
+#13	SNOMED T13	422588002
+#14	SNOMED T14	24473007

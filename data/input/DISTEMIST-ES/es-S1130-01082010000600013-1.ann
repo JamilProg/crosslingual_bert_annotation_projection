@@ -1,0 +1,20 @@
+T1	pathologie 37 58	cardiopatía isquémica
+T2	pathologie 431 449	anemia ferropénica
+T3	pathologie 578 647	recto hasta ciego infinidad de lesiones sesiles de aspecto polipoideo
+T4	pathologie 862 882	colitis inespecífica
+T5	pathologie 887 917	hiperplasia folicular linfoide
+T6	pathologie 1178 1273	lesiones polipoideas sesiles de diferentes tamaños (mayor 8-9 mm) en mucosa gástrica y duodenal
+T7	pathologie 1667 1688	lesión linfoepitelial
+T8	pathologie 1839 1912	infiltración gástrica, de intestino delgado y colon por linfoma del manto
+T9	pathologie 1895 1912	linfoma del manto
+T10	pathologie 2069 2165	linfoma no Hodgkin del manto estadio IVB con afectación gástrica y de intestino delgado y grueso
+#1	SNOMED T1	194828000
+#2	SNOMED T3	68496003
+#3	SNOMED T10	443487006+428905002
+#4	SNOMED T6	301797007+87252009
+#5	SNOMED T4	404811004
+#6	SNOMED T2	87522002
+#7	SNOMED T8	94313005+443487006
+#8	SNOMED T9	443487006
+#9	SNOMED T5	76616003
+#10	SNOMED T7	43961000

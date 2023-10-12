@@ -1,0 +1,35 @@
+Anamnèse
+Une femme de 30 ans, aux antécédents de polyarthropathie inflammatoire séronégative évoluant depuis 7 ans, a débuté en septembre 2013 par une asthénie généralisée, une perte de poids, une dyspnée à l'effort modérée, une xérophtalmie et une toux, des adénopathies latérocervicales et une hypertrophie de la glande thyroïde. Une échographie de la thyroïde et une FNA ont été réalisées, suggérant une tumeur maligne. L'étude d'extension a été complétée par une tomographie par émission de positons (PET-CT), qui a révélé des métastases osseuses et ganglionnaires.
+En octobre 2013, une scintigraphie corporelle à l'iode 131 a été réalisée, avec une captation au niveau du lit thyroïdien, sans foyers de captation extra-thyroïdiens. En novembre 2013, elle a subi une thyroïdectomie complète et un curage ganglionnaire bilatéral (incomplet du côté droit), et on a diagnostiqué chez elle un carcinome papillaire de la thyroïde, variante sclérosante diffuse, avec métastases osseuses et lymphatiques. Elle a également présenté un épanchement pleural droit (cytologie positive pour le cancer de la thyroïde), un épanchement péricardique et une thromboembolie pulmonaire aiguë avec infarctus pulmonaire en décembre 2013.
+
+Examen physique
+Examen à l'admission par l'oncologie médicale :
+Saturation à 96% avec de l'oxygène en lunettes à 2 litres, 22 respirations par minute.
+Pâleur de la peau et des muqueuses, examen neurologique normal, faiblesse générale.
+Pas d'adénomégalie cervicale ou axillaire, cicatrice de thyroïdectomie en bon état.
+ACR : tons légèrement sourds, tachycardie, rythme sans souffle, diminution du souffle vésiculaire dans les champs pulmonaires droits.
+Abdomen mou, dépressible, non douloureux à la palpation, pas de masses ni de mégalithes.
+Membres inférieurs sans œdème, pas de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+- Échographie thyroïdienne (18/09/2013) : ultrastructure dyshomogène, microcalcifications diffuses, pas de nodules, adénopathie latérocervicale gauche adjacente.
+- PET-CT (21/9/2013) : glande thyroïde hypermétabolique dans les deux lobes, plusieurs foyers hypermétaboliques clairement évocateurs de métastases osseuses, touchant le sternum, l'humérus gauche, l'omoplate gauche et le fémur gauche, en plus d'une certaine hétérogénéité de la captation au niveau du bassin et du sacrum. De multiples adénopathies métaboliquement actives affectant les chaînes médiastinales latérocervicales et multiniveaux bilatérales, suspectes d'implication métastatique.
+- Scintigraphie coporale à l'I131 : captation du traceur au niveau du lit thyroïdien, sans évidence de captation à distance.
+- Angio-TDM (30/12/2013) : thromboembolie pulmonaire de branches artérielles segmentaires au niveau du lobe inférieur gauche avec infarctus pulmonaire.
+- Echocardiographie (30/12/2013) : épanchement péricardique minime au niveau des cavités gauches. Légère dilatation du ventricule droit, sans signe de retentissement hémodynamique.
+- Radiographie thoracique (7/2/2013) : épanchement pleural droit, atteignant le tiers inférieur de l'hémithorax droit.
+- Scintigraphie corporelle totale post-thérapeutique I131 150 mCi : légère captation au niveau cervical évoquant des reliquats thyroïdiens.
+- Ventriculographie isotopique (18/3/2014) : pas de dilatation des cavités ventriculaires, courbe de remplissage ventriculaire légèrement altérée, fraction d'éjection ventriculaire gauche à la limite inférieure de la normalité (FEVG = 51%).
+
+Diagnostic
+Carcinome papillaire de la thyroïde, variante sclérosante diffuse. Stade IV (métastases ganglionnaires, osseuses et pleurales).
+
+Traitement
+Une thyroïdectomie et un curage ganglionnaire, une thoracentèse pour évacuer les épanchements pleuraux répétés ont été réalisés en novembre 2013.
+En avril 2014, le cas a été présenté au comité des tumeurs thyroïdiennes, qui comprend l'endocrinologie, la chirurgie, la médecine nucléaire et l'oncologie médicale, et une décision a été prise :
+- Traitement à l'iode radioactif en dépit de la faible captation à la scintigraphie. Transfert au service de médecine nucléaire pour un traitement à l'iode 131, en doses ablatives, sans que la lésion ne présente d'affinité pour l'iode, avec une faible captation.
+-Traitement oncologique par sorafenib. Après vérification de la FEVG et du suivi favorable de l'épanchement péricardique, un traitement par sorafenib est débuté avec 50% de la dose à 200 mg c/12 h le 19/3/2014.
+
+Évolution
+Après avoir subi une thérapie ablative, la patiente a été transférée de la médecine nucléaire au service d'oncologie médicale pour poursuivre le traitement, avec une FEVG = 51%, le sorafenib a été commencé à une dose de 200 mg/12 h, avec une bonne tolérance ; compte tenu de l'amélioration clinique et de la stabilisation de sa dyspnée, elle a été libérée.
+Lors de la révision au service d'oncologie 12 jours après le début du traitement, la patiente a présenté une aggravation clinique, avec une asthénie intense, une somnolence, une hypoperfusion, une froideur cutanée, une hypersudation, des douleurs abdominales et des nausées ; Avec la suspicion d'une crise hypothyroïdienne, le patient a été admis, présentant pendant l'admission un épisode de dyspnée soudaine avec une saturation < 80 % malgré un masque avec réservoir et une hypotension, nécessitant l'admission à l'USI ; enfin, le patient est décédé d'une hypoxémie sévère réfractaire au traitement secondaire à l'ETP.

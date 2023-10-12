@@ -1,0 +1,26 @@
+Anamnèse
+Elle s'est présentée au service des urgences le 4e jour du 1er cycle, avec une histoire de 24 heures de palpitations et de dyspnée progressive jusqu'à ce qu'elle devienne reposée. Elle est restée calme à son domicile, sans douleur thoracique ni autre symptôme d'accompagnement.
+Compte tenu de l'hypotension marquée, il a fallu lui administrer des amines au service des urgences (noradrénaline et dobutamine) pour maintenir la pression artérielle. La cardiologie et l'unité de soins intensifs ont été notifiées pour évaluation, et un échocardiogramme a été réalisé, montrant un dysfonctionnement biventriculaire sévère, et l'admission à l'unité de soins intensifs a été décidée.
+
+Examen physique
+Mauvais état général et mauvaise perfusion périphérique avec un remplissage capillaire lent. TA 85/45 mm Hg, tachycardie sinusale à 170 bpm, fébricule avec température 39 ºC, SatO2 94 % avec lunettes nasales 2 bpm.
+
+Examens complémentaires
+Les examens de laboratoire effectués aux urgences ont montré une légère augmentation des transaminases (GPT 102), une augmentation des marqueurs d'insuffisance cardiaque (proBNP 27885), une altération minime des enzymes cardiaques (TnTus 59), une leucocytose avec neutrophilie, une coagulopathie avec PT 61% et des gaz du sang artériel sans résultats. L'électrocardiogramme a montré une tachycardie sinusale à 180 bpm, sans signe d'ischémie aiguë ou d'altération de la repolarisation.
+La radiographie du thorax a montré un épanchement pleural droit. Un angio-CT scan a été demandé en raison d'une suspicion de PTE due à l'apparition d'une dyspnée soudaine, qui a été exclue, et le CT scan a montré un épanchement pleural droit ainsi que des infiltrats dans le lobe supérieur droit, le lobe moyen et la lingula.
+L'échocardiographie réalisée en urgence a montré une FEVG estimée visuellement à 10-15 % avec une hypokinésie-akinésie diffuse, montrant une certaine contractilité uniquement dans les segments basaux. Des hémocultures ont été prélevées et une thoracocentèse droite diagnostique a été effectuée, avec pour résultat un liquide transsudatif.
+
+Diagnostic
+Choc cardiogénique associé à un dysfonctionnement biventriculaire sévère secondaire à une cardiotoxicité aiguë probablement liée à la perfusion de fluorouracile ; en plus d'un dysfonctionnement hépatique secondaire à une congestion hépatique due à une défaillance du ventricule droit et à un faible débit cardiaque.
+
+Traitement
+À l'arrivée à l'USI, surveillance, vitamine K et canulation échoguidée pour le monitorage du cathéter de l'artère pulmonaire. Ajustement des amines vasoactives, diurétiques, thérapie sérique avec ajustement ionique et antibiothérapie empirique avec méropénème et linézolide.
+
+Evolution
+Amélioration hémodynamique dans les premières 24 heures d'évolution en USI, avec soutien par dobutamine et noradrénaline, maintien de bons niveaux de pression artérielle et diurèse préservée avec bilan journalier négatif.
+Lors de la première échocardiographie de contrôle, la fonction systolique globale était légèrement-modérément déprimée, avec une FEVG de 40 % et une hypokinésie généralisée. Dans les analyses de l'unité de soins intensifs, une élévation des enzymes hépatiques a été notée, atteignant un pic de GPT de 4 282, de LDH de 6 041, de PT de 29 % et d'aPTT30.
+30 La possibilité d'un transfert vers un autre centre disposant d'une oxygénation par membrane extracorporelle (ECMO) comme système d'assistance circulatoire mécanique à court terme a été envisagée, mais finalement rejetée.
+Un Pleurocath® a été posé, en raison de la présence d'un épanchement pleural dans les études d'imagerie, avec un débit de 1 l de liquide pleural séreux retiré après 24 h avec une diminution de la tachypnée sans nécessiter de ventilation mécanique.
+Les résultats des hémocultures étaient négatifs, avec une diminution de la leucocytose, de sorte qu'après un court traitement empirique au méropénème et au linézolide, ils ont été interrompus. Amélioration progressive des enzymes hépatiques (GPT 302), absence de leucocytose (5 980 avec 49 % de neutrophiles) et coagulopathie corrigée (INR : 1,1 ; aPTT 32,5 s). La cytologie du liquide pleural était négative pour les cellules tumorales malignes.
+Compte tenu de la stabilité hémodynamique, il a été transféré dans le service de cardiologie où le traitement a été ajusté avec des inhibiteurs de l'ECA, des bêta-bloquants et de la spironolactone avec une bonne tolérance clinique. L'échocardiographie a montré une récupération de la FEVG (60 %) et la patiente a été autorisée à sortir.
+Réévaluée à nouveau dans le service d'oncologie, elle était asymptomatique avec des contrôles et un ajustement du traitement par la cardiologie. Etant donné la toxicité sévère développée, avec un choc cardiogénique après la première perfusion de fluorouracil, qui a exclu son utilisation ultérieure, un scanner de réévaluation a été demandé, sans adénopathies macroscopiques ni autres signes de maladie active ; le traitement adjuvant a été interrompu et elle a été placée sous surveillance étroite. Les résultats du conseil génétique sont en attente.

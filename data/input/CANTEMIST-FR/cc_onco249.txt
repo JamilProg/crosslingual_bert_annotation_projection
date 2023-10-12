@@ -1,0 +1,26 @@
+Anamnèse
+En mars 2013, une femme de 51 ans sans antécédents et sans traitement habituel s'est présentée aux urgences pour un mois de douleurs abdominales accompagnées d'écoulements diarrhéiques occasionnels, et a été admise en médecine interne pour un examen plus approfondi.
+
+Examen physique
+Normal, à l'exception d'une légère douleur à la palpation profonde du flanc droit.
+
+Tests complémentaires
+-Analyses : normales. CEA, CA 19.9 : normaux
+-Échographie abdominale : multiples lésions hépatiques bilobaires.
+CT-CT-PA : masse intrapéritonéale dans la fosse iliaque droite, solide, d'environ 7 cm, avec dépendance probable de l'iléon. Lésions hépatiques bilobaires multiples évoquant des métastases.
+Biopsie hépatique : carcinome neuroendocrine bien différencié avec Ki 67 <1% d'origine digestive probable.
+-Octreoscan : hyperenhancement modéré sur la masse abdominale et les lésions hépatiques confirmant la surexpression des récepteurs de la somatostatine.
+
+Diagnostic
+Carcinome neuroendocrine de bas grade de l'iléon avec métastases hépatiques non résécables. Stade IV.
+
+Traitement
+Pas de traitement régulier, seulement l'utilisation occasionnelle d'un analgésique de première intention.
+
+L'évolution
+Devant le diagnostic d'une tumeur neuroendocrine de bas grade de l'iléon avec des métastases hépatiques non résécables et des symptômes digestifs, il a été décidé de réaliser une résection intestinale en juin 2013. Le résultat de l'anatomie pathologique a montré un carcinome neuroendocrine bien différencié de l'iléon avec un nodule mésentérique de 8 cm qui semble correspondre à un ganglion métastatique. La tumeur infiltre toutes les couches jusqu'à la couche sous-séreuse. Ki 67 <1%.
+Après l'intervention chirurgicale, un traitement par analogues de la somatostatine 120 mg/SC/28 jours et deux séances de chimioembolisation hépatique à la doxorubicine ont été mis en place.
+Lors d'examens radiologiques successifs, une maladie stable a été observée dans le foie, mais en février 2015, une progression hépatique et une augmentation des niveaux de chromogranine ont été observées, de sorte que le 11/2/15, le Sunitinib 37,5mg/24h VO a été ajouté au traitement.
+Le 2 mars 2015, elle s'est rendue au service des urgences en raison d'une hématurie franche et de l'apparition d'ecchymoses à l'arrière de la cuisse droite et sur les deux fesses. Une analyse sanguine d'urgence a été réalisée montrant une Hb 8,3 g/dl, 2000 plaquettes, un temps de prothrombine <120 sec, un INR >8, un TCA 55 sec et un fibrinogène 0,17 g/l, elle a donc été admise pour étude et traitement.
+Lors de l'admission, un frottis de sang périphérique a été réalisé, montrant la présence de schistocytes et de sphérocytes, compatibles avec une microangiopathie.
+Compte tenu de la coagulation intravasculaire disséminée secondaire au traitement par Sunitinib, il a été décidé de suspendre l'inhibiteur de tyrosine kinase et un traitement de soutien a été mis en place avec une thérapie sérique, de la vitamine K IV, une transfusion de concentrés de globules rouges ainsi que de plasma frais congelé et un lavage continu à l'aide d'une sonde vésicale. L'état général du patient s'est progressivement amélioré, avec la disparition de l'hématurie, la réabsorption progressive des hématomes et l'amélioration des données analytiques, et le patient a pu rentrer chez lui après un mois d'hospitalisation. Le patient est actuellement en très bon état général et est traité par des analogues de la somatostatine.

@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 41 ans, ancien fumeur d'un paquet par jour depuis 6 ans, sans autre antécédent intéressant.
+En mars 2017, il a consulté son médecin traitant pour une bronchite récidivante sans amélioration après un traitement antibiotique et anti-inflammatoire. Une radiographie thoracique a été demandée, révélant une masse hilaire droite, et elle a été adressée à la pneumologie pour des examens complémentaires.
+
+Examen physique
+Bon état général. ECOG 0. Hémodynamiquement stable. PCA : bruits rythmiques sans murmures ni frottements. Bon murmure vésiculaire. Abdomen souple et dépressible, non douloureux à la palpation, sans masse ni mégalithe. RHA présent. MMII sans pathologie.
+
+Examens complémentaires
+Tomodensitométrie du thorax et de l'abdomen supérieur : masse du lobe supérieur droit (LSD) mesurant 6 x 9 x 6,5 cm contactant la plèvre médiastinale et entourant la région distale de l'artère pulmonaire droite et de l'artère LSD. Adénopathies paratrachéales droites.
+PET/CT scan : masse hypermétabolique correspondant à celle précédemment décrite au CT, évocatrice de malignité. Adénopathies paratrachéales droites avec un faible taux de prolifération cellulaire et une faible probabilité de malignité.
+Fibrobronchoscopie : lésion sténosante au niveau de la bronche lobaire supérieure droite.
+Anatomie pathologique : carcinome à petites cellules indifférencié de type épidermoïde. IHC : p40 positif et négatif pour le facteur de transcription thyroïdien 1 (TTf1) et la napsine A. EGFR, ALK, ROS-1 négatifs. PDL-1 < 1 %.
+
+Diagnostic
+Carcinome épidermoïde du poumon T4N0M0, stade IIIA en raison de l'infiltration des grands vaisseaux.
+
+Traitement
+En avril 2017, le cas a été présenté au comité multidisciplinaire, et il a été décidé de traiter par chimiothérapie, avec cisplatine 80 mg/m2 jour 1 + vinorelbine 25 mg/m2 jour 1 par voie intraveineuse, et 60 mg/m2 par voie orale le jour 8, pendant 4 cycles et radiothérapie séquentielle.
+
+Évolution
+Après le troisième cycle de chimiothérapie, il a été évalué par la radio-oncologie, qui a rejeté le traitement complémentaire en raison de la stabilisation de la maladie, et il a alors été décidé de poursuivre la chimiothérapie jusqu'à ce que 6 cycles aient été effectués.
+En août 2017, après le 5e cycle de chimiothérapie, le patient a signalé une fièvre fébrile et l'apparition d'une lésion mandibulaire gauche, douloureuse à la palpation, pierreuse et immobile avec des signes inflammatoires et une augmentation de taille jusqu'à 5 cm, sans réponse au traitement antibiotique et anti-inflammatoire. Le patient a terminé les 6 cycles de traitement.
+Une biopsie de la lésion a été demandée et s'est avérée compatible avec une métastase de carcinome épidermoïde.
+Compte tenu de la progression de la maladie, un traitement par nivolumab 3 mg/kg par voie intraveineuse aux jours 1 et 15 tous les 28 jours a été initié en septembre 2017. Après le deuxième cycle, une disparition complète de la lésion mandibulaire a été observée.
+Elle a actuellement terminé 8 cycles de nivolumab avec une réponse radiologique partielle de la maladie après le troisième cycle, et la réponse a été maintenue après le 6e cycle. En termes de toxicité, il n'a présenté qu'une arthromyalgie de grade 1 et une pyrexie occasionnelle de grade 1. Il a toujours maintenu un ECOG 0-1.

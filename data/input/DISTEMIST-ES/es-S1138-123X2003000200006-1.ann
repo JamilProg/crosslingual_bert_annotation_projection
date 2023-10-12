@@ -1,0 +1,10 @@
+T1	pathologie 25 53	fractura de la corona y raíz
+T2	pathologie 342 380	fractura del incisivo central superior
+T3	pathologie 489 526	fractura complicada de la corona-raíz
+T4	pathologie 894 903	fracturas
+T5	pathologie 1001 1009	fractura
+#1	SNOMED T1	109754001
+#2	SNOMED T2	36202009
+#3	SNOMED T3	109754001
+#4	SNOMED T4	125605004
+#5	SNOMED T5	72704001

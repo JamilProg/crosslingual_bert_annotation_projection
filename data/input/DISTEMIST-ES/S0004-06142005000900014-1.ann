@@ -1,0 +1,18 @@
+T1	pathologie 109 131	hematuria autolimitada
+T2	pathologie 270 276	lesión
+T3	pathologie 421 483	fuera de orificio ureteral dos pequeñas lesiones sobreelevadas
+T4	pathologie 556 575	lesión inflamatoria
+T5	pathologie 656 664	lesiones
+T6	pathologie 728 746	lesiones vesicales
+T7	pathologie 790 807	leiomioma vesical
+T8	pathologie 825 831	lesión
+T9	pathologie 1208 1216	lesiones
+#1	SNOMED T1	53298000
+#2	SNOMED T3	428090004
+#3	SNOMED T6	300457003
+#4	SNOMED T7	146801000119103
+#5	SNOMED T5	157670007
+#6	SNOMED T9	157670007
+#7	SNOMED T2	417163006
+#8	SNOMED T4	708039003
+#9	SNOMED T8	417163006

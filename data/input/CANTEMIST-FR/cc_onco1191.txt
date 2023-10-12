@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 72 ans aux antécédents personnels d'hypertension, d'hypercholestérolémie et de tabagisme passif, présentant des manifestations cliniques de toux persistante et d'expectoration depuis 1 an.
+
+Examen physique
+ECOG 1, pas de résultats pathologiques.
+
+Examens complémentaires
+- Radiographie thoracique PA et L (10/8/2008) : image nodulaire dans le LSI.
+- TDM c/poitrine-abdomen (19/9/2008) : image spiculée de 2,5 cm dans le LSI, avec rétraction cisternale. Adénopathies hilaires. Hyperplasie de la glande surrénale gauche.
+- TEP thoraco-abdominale (16/9/2008) : positive pour le nodule LSI (SUV 7), adénopathie hilaire gauche de 1 cm (SUV 3,8) et adénopathie hilaire droite (SUV 4,4). Stade métabolique IIIB.
+- Fibrobronchoscopie (1/9/2008) : aucun résultat. Brossage et biopsies négatifs.
+- Vidéothoracoscopie droite (10/10/2008) : poumon collé à la plèvre pariéto-viscérale empêchant la chambre à air nécessaire à la biopsie de l'adénopathie hilaire droite. Lobectomie supérieure gauche et lymphadénectomie. PA : adénocarcinome pulmonaire de 4 cm, modérément différencié et infiltrant avec un motif bronchioloalvéolaire et acinaire, n'affectant pas la plèvre viscérale et des marges de résection libres. Absence de métastases dans 0/8 des ganglions lymphatiques hilaires et médiastinaux gauches. pT2 pN0 cM0.
+
+Diagnostic
+Carcinome bronchique non à petites cellules (CBNPC) de sous-type bronchioloalvéolaire gauche pT2 (4 cm) pN0 (0/8) cM0, stade IB, traité par lobectomie supérieure gauche + lymphadénectomie (territoires 5, 6, 8 et 10) (10/2008) avec des facteurs de risque de mauvais pronostic (taille de la tumeur et lymphadénectomie incomplète). EGFR non muté et ALK non transloqué.
+
+Traitement
+En décembre 2008, il a commencé un traitement adjuvant QT selon le schéma CDDP 80 mg/m2 jour 1 + VNR 30 mg/m2 jours 1 et 8 pour 4 cycles, car une lymphadénectomie incomplète avait été réalisée et la tumeur mesurait 4 cm.
+
+Évolution
+Progression pulmonaire multiple (12/2010-ILE 26 mois), donc QT palliatif de première intention avec carboplatine AUC 5 et paclitaxel 200 mg/m2 tous les 21 jours pendant 4 cycles, avec stabilisation de la maladie mais mauvaise tolérance en raison d'une toxicité gastro-intestinale de grade 2 et d'une neurotoxicité de grade 3, donc le traitement a été suspendu et il a été proposé, malgré l'absence de mutation de l'EGFR, d'initier un traitement d'entretien avec erlotinib 150 mg/m2 tous les 21 jours d'avril 2011 à ce jour avec maintien d'une maladie stable, mais avec nécessité d'une réduction de la dose, malgré l'absence de mutation de l'EGFR, l'instauration d'un traitement d'entretien par erlotinib 150 mg/jour, d'avril 2011 à ce jour, avec maintien d'une maladie stable, mais nécessitant une réduction progressive de la dose à 100 mg/jour et 50 mg/jour après 6 et 10 cycles ou mois respectivement, en raison d'une éruption cutanée de grade 3. Actuellement, la patiente a terminé 34 cycles de traitement, sans aucune nouvelle toxicité, avec une maladie radiologiquement stable et une excellente qualité de vie.

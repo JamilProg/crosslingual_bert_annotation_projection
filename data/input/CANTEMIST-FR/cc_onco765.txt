@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 70 ans avec des antécédents médicaux et chirurgicaux d'hypertension, de myasthénie, d'anémie par carence en vitamine B12, de polypectomie nasale et de phakectomie.
+En février 2016, il est hospitalisé pour l'étude d'un syndrome constitutionnel et d'une altération du rythme des selles.
+
+Examen physique
+Conscient, orienté, de couleur normale et normohydraté. Eupnéique. ECHO 0. L'examen abdominal a révélé une distension diffuse avec palpation d'une masse épigastrique. Le reste de l'examen est sans particularité.
+
+Tests complémentaires
+"Fibrocolonoscopie : lésion exocytaire et infiltrante du côlon transverse ne permettant pas le passage de l'endoscope. Anatomie pathologique : adénocarcinome du côlon de type classique.
+"Tomodensitométrie abdominale : néoplasie primaire du côlon transverse avec signes d'invasion locorégionale. Lésion occupant l'espace dans le segment VIII hépatique sous-diaphragmatique sans pouvoir exclure une nature métastatique proliférative.
+"Marqueurs tumoraux : CEA : 8,29.
+
+Diagnostic
+Adénocarcinome du côlon pT3pN1aM1 (IV).
+
+Traitement
+Après présentation du dossier au comité des tumeurs digestives, il a été décidé de réaliser une intervention chirurgicale, qui a été effectuée en mars 2016, révélant une tumeur sténosante dans le côlon transverse, ainsi qu'une lésion synchrone dans l'angle splénique et des métastases hépatiques bilobaires. Une colectomie droite par laparoscopie a été réalisée. Le rapport anatomopathologique a confirmé le diagnostic d'adénocarcinome du côlon synchrone G2 et de zones focales G3 avec infiltration lymphovasculaire et périneurale, sans atteinte des berges chirurgicales, RAS muté. Sur les 19 ganglions lymphatiques disséqués, l'un d'entre eux présentait une atteinte tumorale sans débordement capsulaire (+1/19). Un scanner ultérieur a montré de multiples nodules de moins de 14 mm de diamètre dans les deux lobes hépatiques, compatibles avec des métastases hépatiques non résécables. L'ACE post-chirurgical est de 11,94. Le patient a été adressé pour évaluation d'un traitement systémique. Il présentait un bon état général et un ECOG 0.
+Il a débuté le traitement dans le cadre de l'essai clinique MODUL MO29112, recevant 8 cycles de chimiothérapie d'induction par FOLFOX + bevacizumab de mai à août 2016.
+La toxicité secondaire au traitement comprenait une neurotoxicité G1, une AHT G1 et une toxicité hématologique (anémie G1, neutropénie G2 et thrombopénie G1).
+En août 2016, un scanner a été réalisé, montrant une réponse partielle avec une diminution du volume des métastases hépatiques. Elle répondait aux critères d'inclusion pour un traitement d'entretien et après randomisation, elle a commencé un QT avec 5-FU + bevacizumab + atezolizumab de septembre à octobre 2016, recevant 4 cycles.
+Les toxicités comprenaient une neurotoxicité résiduelle G2, une anémie G1 et une neutropénie G3 afébrile.
+
+Évolution
+En octobre 2016, un scanner a été réalisé, montrant une nouvelle lymphadénopathie médiastinale avec une maladie hépatique stable. Au vu de ces résultats, une TEP-TDM a été demandée, qui a confirmé une progression médiastinale selon les critères RECIST 1.1 et RECIST modifiés, et la patiente a donc été exclue de l'essai clinique.
+Cependant, étant donné la suspicion de pseudoprogression et le bénéfice clinique obtenu, il a été décidé de poursuivre le traitement par 5-FU-bevacizumab, qu'il a maintenu jusqu'à présent, ayant reçu un total de 22 cycles, obtenant une réponse complète maintenue par PET/CT et restant asymptomatique. Il est actuellement sous surveillance.

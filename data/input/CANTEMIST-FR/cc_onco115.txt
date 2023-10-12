@@ -1,0 +1,28 @@
+Anamnèse
+Homme de 72 ans. Pas d'allergies médicamenteuses. Pas de facteurs de risque cardiovasculaire. Pas de traitement chronique. Antécédents sociaux et familiaux : maçon, marié, deux enfants. Pas d'antécédents familiaux de cancer.
+
+Son histoire oncologique a commencé en décembre 2014, lorsqu'il a développé une affection cutanée suite à l'apparition d'un nodule solitaire, érythémato-violacé et surélevé sur la face latérale de la jambe droite, qui n'était ni prurigineux ni hémorragique. Le patient n'a consulté son médecin que 5 mois plus tard, lorsqu'il a constaté de nouvelles lésions sur le thorax, le dos et en plus grand nombre sur les deux membres inférieurs, désormais sous forme de nodules, de plaques aériques ou ecchymotiques, avec une fine desquamation et parfois ulcérées, mesurant de quelques millimètres à quelques centimètres de diamètre. Elles ne sont toujours pas prurigineuses ni douloureuses.
+
+Au vu de ces résultats, il consulte son médecin de famille, qui l'oriente vers le dermatologue local.
+
+Examen physique
+Poids 95 kg, taille 180 cm, IMC 29,3, SC 2,15, ECOG 1, lésions cutanées nodulaires, érythémateuses-squameuses, généralisées, prédominant sur le thorax, l'abdomen et les jambes, à bords irréguliers et adhérant aux plans profonds, de 1 à 3 cm de diamètre. Il n'y avait pas d'adénomégalie palpable, ni d'hépatomégalie ou de splénomégalie. L'examen physique n'a révélé aucun autre signe positif.
+
+Tests complémentaires
+Avec le diagnostic de suspicion de métastase cutanée, de lymphome ou de mélanome, une biopsie de l'une des lésions décrites a été réalisée, qui a révélé :
+"Macroscopique : pièce cutanée cylindrique de 0,4 cm de diamètre et de 0,6 cm d'épaisseur.
+"Microscopique : épidémie sans résultats pathologiques. Derme avec présence d'une infiltration par un néoplasme malin de lignée hématopoïétique qui est disposé dans le derme papillaire superficiel et réticulaire profond sous forme d'agrégats de disposition pseudonodulaire. Il est constitué de cellules immatures de taille intermédiaire, au cytoplasme indéfini et aux noyaux irréguliers ne présentant pas un nombre élevé de mitoses.
+"IHC : expression intense de CD2, CD43, CD56, Bcl-2, CD7. Expression minimale pour CD4, focale et faible. Négative pour CD34, CD79a, TDT, CD20, CD10, Pax-5, CD117, CD123, D3, CD4R0, CD8, CD5, S-100, CD1a, myéloperoxydase. Ki-67 : +/- 35%.
+
+Conclusion : les résultats sont compatibles avec le diagnostic de néoplasme des cellules dendritiques plasmacytoïdes blastiques.
+"Aspiration de MO : 57 000 leuco/ul. Pas de cellules myéloïdes immatures compatibles avec
+leucémie/lymphome à cellules dendritiques décrit dans le phénotype pathologique.
+
+Diagnostic
+Néoplasme blastique des cellules dendritiques plasmacytoïdes (BPDCN).
+
+Traitement
+Au vu de ces résultats, il a été adressé à notre service d'oncologie médicale où, après une recherche dans la littérature médicale sur le traitement de cette entité, il a été décidé d'entamer un traitement par QT.
+
+L'évolution
+Les avantages et les effets secondaires du traitement sont expliqués au patient et il accepte de commencer le traitement, qui devrait débuter dans les prochains jours.

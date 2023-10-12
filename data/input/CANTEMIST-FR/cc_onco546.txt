@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 44 ans, pas d'allergie médicamenteuse, ex-fumeuse depuis septembre 2018 avec une dose cumulée de 30 paquets-années. Elle souffre d'un syndrome anxio-dépressif et est traitée par fluoxétine.
+Concernant ses antécédents gynécologiques, ménarche à l'âge de 11 ans, cycles menstruels réguliers et prise de contraceptifs oraux depuis 5 ans. Pas de grossesse.
+Sa mère est décédée à l'âge de 39 ans d'une néoplasie mammaire métastatique.
+Son histoire oncologique a commencé en juillet 2018, lorsque, en raison d'antécédents familiaux de cancer, une mammographie de dépistage a été réalisée, qui a révélé la présence de deux nodules, l'un à la jonction des quadrants inférieurs du sein gauche mesurant 10 x 12 mm et l'autre mesurant 4 x 3 mm à la jonction des quadrants externes.
+Un examen complémentaire a été effectué par imagerie par résonance magnétique (IRM), qui a révélé la présence de multiples dépôts ressemblant à des masses, dont le plus important, situé à la jonction des quadrants inférieurs du sein gauche, mesurait 15 x 13 x 20 mm. L'échographie axillaire n'a pas révélé d'images suspectes de malignité, de même que la tomodensitométrie thoraco-abdominale, qui a permis d'exclure une maladie à distance. Finalement, deux biopsies ont été réalisées en août 2018, diagnostiquant un carcinome canalaire infiltrant (CDI) de grade histologique (GH) 3 dans la jonction du quadrant inférieur, avec des récepteurs aux œstrogènes (ER) négatifs, des récepteurs à la progestérone (PR) à 40 % et HER-2 positif (+3) par immunohistochimie. L'indice de prolifération Ki 67 était de 45 % et la pathologie a été rapportée comme luminale B-HER-2+.
+Dans la seconde biopsie, réalisée au niveau de la jonction du quadrant externe, un CDI GH 2, ER négatif, RP négatif. HER-2 positif par immunohistochimie (+3) et avec un indice Ki67 de 35%, HER-2+ non luminal.
+Évalué comme un CDI multicentrique du sein gauche cT1N0M0 HER-2+ avec des foyers luminaux B et un autre non luminal, un traitement néoadjuvant a été débuté avec le schéma AC (doxorubicine et cyclophosphamide) pendant 4 cycles, du 26/9/2018 au 29/11/2018, avec une excellente tolérance. Par la suite, le paclitaxel trastuzumab pertuzumab a été débuté le 24/12/2018.
+Par ailleurs, compte tenu des antécédents familiaux de cancer, un panel de gènes de susceptibilité aux cancers héréditaires a été réalisé, qui s'est révélé négatif.
+L'épisode qui nous a amenés à présenter ce cas a débuté en janvier 2019, lorsque la patiente a présenté une instabilité sévère de la marche et des difficultés à utiliser son membre supérieur droit pendant des semaines, pour lesquelles elle a consulté le service des urgences de notre centre le 12/1/2019.
+
+Examen physique
+Fonctions supérieures normales. Nerfs crâniens normaux. Force conservée dans les membres. Réflexes faibles et symétriques, sauf le réflexe rotulien droit qui est diminué par rapport à l'autre. Réflexes cutanés fléchisseurs plantaires. Sensibilité superficielle normale avec légère hypopallesthésie des 4 membres. Dismétrie de la manœuvre orteil-nez et talon-genou à droite. Discrète adiadokinésie droite. Romberg négatif.
+
+Examens complémentaires
+En premier lieu, une tomodensitométrie crânienne a été réalisée, qui n'a révélé aucune altération.
+Une IRM de l'ensemble du neuroaxe a permis d'exclure une maladie ou des lésions carcinomateuses, de même qu'un électromyogramme montrant des altérations des voies pyramidales et somatosensorielles.
+Afin d'étendre l'étude, une ponction lombaire a été effectuée, qui a montré une analyse biochimique normale, ainsi que la détermination des anticorps antineuronaux, avec des résultats positifs à la fois dans le liquide céphalorachidien et dans le sang périphérique pour les anticorps des cellules de Purkinje (I).
+Afin de déterminer le stade de la maladie, un scanner PET-CT a été réalisé, ce qui a permis d'exclure une maladie à distance.
+
+Diagnostic
+Le diagnostic est celui d'une dégénérescence cérébelleuse paranéoplasique.
+
+Traitement
+Le traitement s'est poursuivi jusqu'à l'achèvement de 4 cycles de paclitaxel-trastuzumab-pertuzumab, achevés le 3/4/2019 avec une réponse clinique. Le traitement a été commencé avec des immunogammaglobulines et le 15/04/2019, une mastectomie totale conservatrice de la peau et du complexe mamelon-aréole a été réalisée, avec une réponse pathologique complète (ypT0 et ypN0 dans le ganglion sentinelle 0/7), de sorte que le trastuzumab a été poursuivi en même temps que le tamoxifène pendant 14 cycles.
+
+L'évolution
+Sur le plan neurologique, le trouble de l'équilibre persiste et il sort dans la rue nécessitant un double appui pour la déambulation. Elle présente toujours une dysmétrie nette du côté droit du corps.
+Du point de vue oncologique, elle continue à prendre du trastuzumab et du tamoxifène sans aucun signe de récidive de la maladie.

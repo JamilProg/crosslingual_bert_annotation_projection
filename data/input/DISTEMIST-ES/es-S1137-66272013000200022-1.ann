@@ -1,0 +1,22 @@
+T1	pathologie 74 99	enfermedad de Crohn ileal
+T2	pathologie 230 248	corticodependencia
+T3	pathologie 1165 1180	hepatitis B y C
+T4	pathologie 1337 1345	lesiones
+T5	pathologie 1361 1380	Leve esplenomegalia
+T6	pathologie 1708 1716	lesiones
+T7	pathologie 1732 1751	Leve esplenomegalia
+T8	pathologie 1828 1868	esófago se observan 3 cordones varicosos
+T9	pathologie 2240 2253	hemosiderosis
+T10	pathologie 2844 2863	hipertensión portal
+T11	pathologie 2922 2940	varices esofágicas
+#1	SNOMED T8	28670008
+#2	SNOMED T10	34742003
+#3	SNOMED T1	38106008
+#4	SNOMED T11	28670008
+#5	SNOMED T5	16294009
+#6	SNOMED T3	442374005
+#7	SNOMED T2	95919007
+#8	SNOMED T7	16294009
+#9	SNOMED T9	39011001
+#10	SNOMED T4	157670007
+#11	SNOMED T6	157670007

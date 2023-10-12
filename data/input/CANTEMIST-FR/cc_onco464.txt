@@ -1,0 +1,30 @@
+Anamnèse
+Patient de 64 ans présentant les antécédents personnels suivants : fumeur de 10 cigarettes par jour, gammapathie monoclonale IgG-lambda et polyarthrite séronégative pour laquelle il avait été traité par méthotrexate.
+Il a été diagnostiqué en mars 2018 lors d'une étude de l'anorexie et de la dyspepsie des années d'évolution d'un lymphome extranodal de la zone marginale de type MALT de stade IVB au moyen d'une biopsie endoscopique gastrique. Il a reçu un traitement avec six cycles du schéma R-CHOP (y compris rituximab, cyclophosphamide, doxorubicine, vincristine et prednisone), entrant en réponse complète.
+En novembre 2018, lors de l'étude de réévaluation de la réponse après la fin du traitement, il a été diagnostiqué au moyen d'une nouvelle biopsie gastrique endoscopique de transformation en LPB, sans autre implication dans l'étude d'extension. Un traitement a alors été débuté par étoposide, méthylprednisolone, cytarabine et cisplatine (ESHAP), recevant un seul cycle en octobre suivi d'une radiothérapie sur le volume tumoral gastrique de 30 Gy en 15 jours en décembre 2018.
+En décembre, elle a consulté pour des symptômes subaigus de désorientation, d'aphasie motrice et de faiblesse des membres inférieurs pendant deux semaines, non associés à de la fièvre, des maux de tête, des vomissements ou tout autre symptôme, et il a été décidé à ce moment-là de l'admettre dans le service pour étudier les symptômes.
+
+Examen physique
+Au niveau neurologique, le patient a été noté à l'admission pour une désorientation temporaire, une dysnomie et une perte de force dans les membres inférieurs. Pas de lymphadénopathie ni de masse abdominale palpable, auscultation cardiorespiratoire et examen des membres normaux.
+
+Examens complémentaires
+- Analyses sanguines urgentes : pas d'altérations notables.
+- Tomodensitométrie crânienne urgente : aucune lésion occupant l'espace ou lésions ischémiques aiguës/subaiguës n'a été observée. Foyer hypodense sous-cortical frontal gauche.
+- Corps PET/CT : diminution de la captation dans le cortex cérébral de l'hémisphère gauche, en particulier dans les régions frontales, pariétales et temporales, ainsi que dans les régions thalamiques, les ganglions de la base gauche et l'hémisphère cérébelleux droit. Ces altérations suggèrent une origine vasculaire. En outre, une nouvelle masse en contact avec le rein droit, non visualisée lors des précédents examens TEP de suivi, est apparue.
+- Biopsie de la masse rétropéritonéale : infiltration de lymphome plasmablastique.
+- IRM cérébrale : lésion frontale gauche irrégulière ne prenant pas le contraste et présentant une vascularisation accrue, suggérant une origine néoplasique, peut-être un astrocytome diffus. Lésions ponctuelles hyperintenses en FLAIR et T2 dans la substance blanche sous-corticale, compatibles avec une artériopathie des petits vaisseaux. Lésion cérébelleuse droite d'aspect encéphalomalacique.
+Étude du liquide céphalo-rachidien : biochimie normale, coloration de Gram sans micro-organismes, cultures négatives, cytométrie avec absence de données d'infiltration par un lymphome, PCR herpès virus et varicelle-zona négatives.
+- Électroencéphalogramme : activité sans anomalies.
+- Biopsie des lésions cérébrales : modifications compatibles avec une leucoencéphalopathie multifocale progressive (LMP) avec positivité pour l'anticorps SV-40 (virus JC). Infiltrats inflammatoires périvasculaires, macrophages et cellules oligodendrogliales avec de gros noyaux atypiques à la chromatine effacée. Aucun signe d'infiltration par un néoplasme glial primaire ou un lymphome. Positivité nucléaire modérée pour le HSV-I avec un motif granulaire.
+- Sérologie VIH : négative.
+
+Diagnostic
+Au vu des résultats des examens d'imagerie cérébrale et de la découverte d'une lésion frontale gauche ne prenant pas le contraste et présentant une vascularisation accrue, le diagnostic différentiel initial a été considéré comme un néoplasme primaire du SNC, un lymphome et une lésion d'origine inflammatoire. Le patient a été examiné par un neurochirurgien, qui a exclu la nécessité d'une intervention chirurgicale urgente et a ajouté des corticostéroïdes au traitement, avec une amélioration ultérieure des symptômes. Après avoir présenté le cas au Comité de Neuroncologie et l'aggravation progressive des symptômes malgré une corticothérapie à moyen terme, il a été décidé de faire une biopsie de la lésion. Le rapport anatomopathologique préliminaire a décrit une tumeur cérébrale primaire, qui a ensuite été évaluée par l'oncologie médicale, l'option astrocytome ou gliome de haut grade étant envisagée.
+Par la suite, après une analyse exhaustive de l'échantillon, l'origine infectieuse de la lésion a été confirmée, plus précisément la LEMP ; en outre, une faible positivité pour le HSV-1 a été détectée.
+
+Traitement
+Compte tenu des options thérapeutiques limitées pour les patients non infectés par le VIH, il a été décidé de commencer le traitement par la mirtazapine pour la LEMP et par l'acyclovir pour la positivité au HSV-1, avec une aggravation progressive de l'état clinique et général du patient, puis d'y ajouter le maraviroc.
+
+Évolution
+L'évolution a été défavorable, avec une aggravation progressive des symptômes neurologiques (apparition d'une hémiplégie, d'une paralysie faciale, d'un mutisme), l'apparition d'une fièvre probablement liée à une pneumonie d'aspiration avec des épisodes d'insuffisance respiratoire hypoxémique et des mouvements incoordonnés des membres parétiques pour lesquels un traitement anticonvulsivant a dû être ajouté.
+Finalement, la patiente est sortie en février 2019 après deux mois d'hospitalisation.

@@ -1,0 +1,24 @@
+Anamnèse
+Un jeune homme de 16 ans s'est présenté aux urgences pour des symptômes progressifs évoluant depuis 5 mois, consistant en un strabisme divergent de l'œil droit avec diplopie, accompagné de céphalées frontales occasionnelles et d'une sensation de rotation des objets avec instabilité et difficulté à marcher.
+
+Examen physique
+Normal, à l'exception de l'examen neurologique : pupilles lentement réactives. Nystagmus horizontal bilatéral. Limitation de la supraversion du regard et de la lévoduction de l'œil droit. Dysmétrie de l'index du nez. Romberg+. Impossibilité de marcher en tandem. Fond d'œil : œdème papillaire bilatéral.
+
+Examens complémentaires
+Examens de laboratoire : NFS et biochimie, y compris LDH, normales. Les taux d'AFP et de B-HCG sont normaux.
+Tomodensitométrie du cerveau : masse dans la glande pinéale mesurant 37 x 87 x 32 mm. Effet de masse important avec dilatation du troisième ventricule et des ventricules latéraux.
+Compte tenu des symptômes décrits, le patient a été admis en neurochirurgie où une ventriculostomie endoscopique a été pratiquée et des biopsies ont été effectuées, confirmant la présence d'un germinome pur de la glande pinéale.
+Les études d'extension sont complétées par :
+Imagerie par résonance magnétique (IRM) du cerveau et de la colonne vertébrale complète : lésion tumorale sphérique de 3 cm de diamètre dans la région pinéale entraînant une déformation du mésencéphale, du troisième ventricule et de la partie supérieure du vertex cérébelleux. Oedème périlésionnel important. L'étude de la colonne vertébrale n'a révélé aucune donnée suggérant une altération structurelle.
+L'échographie testiculaire, le CT-TAP et la ponction lombaire avec étude cytologique et marqueurs tumoraux dans le LCR sont négatifs.
+
+Diagnostic
+Germinome pur de la glande pinéale sans atteinte de la moelle épinière.
+
+Traitement
+Le cas a été discuté avec le département d'oncologie pédiatrique et, compte tenu de la localisation et de l'histologie, et afin d'éviter les toxicités tardives, il a été décidé de combiner le traitement par chimiothérapie et radiothérapie selon le protocole SIOP CNS GCT II.
+Après cryoconservation du sperme, le patient a commencé un traitement de chimiothérapie avec deux cycles (1 et 3) de carboplatine 600 mg/m2 d1 et d'étoposide 100 mg/m2 d1-d3, en alternance avec deux cycles (2 et 4) d'ifosfamide 1 800 mg/m2 d1-d5 et d'étoposide 100 mg/m2 d1-d3. Après avoir reçu le premier cycle, la patiente a récupéré la position et la convergence du regard et le nystagmus horizontal a disparu.
+L'IRM cérébrale post-chimiothérapie montre une diminution de la masse pinéale qui mesure maintenant 1,8 cm. Compte tenu de la réponse partielle obtenue, le patient a terminé le traitement par radiothérapie, en administrant une dose de 24 Gy dans les ventricules et un boost de 16 Gy dans le lit tumoral.
+
+Évolution
+La patiente a terminé son traitement de radiothérapie sans incident en août 2012, et a été suivie par des examens périodiques normaux jusqu'à la rédaction de ce cas.

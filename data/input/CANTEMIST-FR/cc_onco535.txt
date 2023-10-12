@@ -1,0 +1,31 @@
+Anamnèse
+Nous présentons le cas d'un homme de 74 ans vivant à domicile avec son épouse, indépendant pour les activités de base de la vie quotidienne et cognitivement correct. Pas d'antécédents familiaux intéressants. Aucune allergie médicamenteuse connue. Antécédents personnels d'hypertension sous traitement à l'amlodipine.
+
+Antécédents oncologiques
+En juillet 2009, on lui a diagnostiqué une néoplasie de la prostate à la suite d'une élévation enzymatique de l'antigène prostatique spécifique (PSA) de 8 ng/ml (valeurs normales ajustées en fonction de l'âge de 0 à 6,5 ng/ml) et d'une phosphatase alcaline de 98 U/l (valeurs normales de 30 à 120 U/l) sans aucun autre symptôme associé. Examen physique : état de performance 1 et examen rectal T2c (augmentation homogène de la consistance du lobe droit et nodule induré palpable dans le lobe gauche). Une biopsie transrectale est réalisée qui révèle un adénocarcinome de Gleason 7 (4 + 3) dans 3 des 5 cylindres du lobe droit et un adénocarcinome de Gleason 7 (4 + 3) dans 5 des 5 cylindres du lobe gauche et l'étude locale par IRM confirme un néoplasme prostatique à haut risque T3bN0 avec un bilan d'extension négatif.
+Un traitement par radiothérapie et hormonothérapie est indiqué pendant trois ans. Radiothérapie 3D normofractionnée par séances de 2 Gy, qui s'est terminée en décembre 2009, 46 Gy ont été irradiés dans les chaînes ganglionnaires, 70 Gy dans les vésicules séminales et 76 Gy dans la prostate. Concomitamment, il a débuté une hormonothérapie avec une bonne tolérance et un PSA nadir < 0,01 ng/ml.
+En février 2017, huit ans après le diagnostic, il a présenté des critères de progression biochimique avec un
+PSA de 2,87 ng/ml, ce qui a été confirmé lors de deux déterminations ultérieures. La récidive locale a été confirmée par une IRM de la prostate et une biopsie, qui ont révélé un adénocarcinome de Gleason 8 (4 + 4) dans 4 des 5 cylindres du lobe droit et un adénocarcinome de Gleason 8 (4 + 4) dans 5 des 5 cylindres du lobe gauche.
+Le diagnostic de récidive locale ayant été posé chez un patient irradié, une TEP-TDM a été demandée pour exclure une maladie à distance. Elle a révélé un foyer hypermétabolique médio-basal dans le lobe gauche (SUVmax 5) et un foyer de moindre intensité dans le tiers moyen du lobe droit (SUVmax 2,7), sans qu'aucune maladie à distance n'ait été observée. Il a subi un traitement de sauvetage par curiethérapie à haut débit avec deux implants et une dose totale de 32 Gy.
+Dix-neuf mois après la fin du traitement, en novembre 2018, le PSA est remonté à 13 ng/ml. Le patient reste asymptomatique, sans douleur osseuse ni autre symptôme d'accompagnement.
+L'étude d'extension a confirmé la présence de métastases osseuses et ganglionnaires. Un traitement hormonal à base d'analogues de la LH-RH a été mis en place. Après trois mois, le patient a montré une réponse avec un PSA de 7 ng/ml et une testostérone dans les limites de la normale.
+
+Maladie actuelle
+Cinq mois après le début du traitement hormonal, le patient a consulté à plusieurs reprises le service des urgences pour des douleurs lancinantes hémicrâniennes droites dans la région cervicale irradiant vers l'orbite, sans autre symptôme neurologique, traitées par des analgésiques.
+Lors de la dernière consultation en avril 2019, il a rapporté des céphalées persistantes et une mobilité limitée de la langue.
+
+Examen physique
+L'examen physique a révélé une protrusion de la langue avec déviation vers la droite et des signes d'hémiatrophie évoquant une paralysie unilatérale du nerf hypoglosse. Le reste de l'examen neurologique et systémique n'a rien révélé de pertinent.
+
+Examens complémentaires
+Comme examens complémentaires, un scanner des troncs supra-aortiques a été réalisé pour exclure une dissection de l'artère carotide interne, signalant une possible paralysie du nerf hypoglosse droit. La tomodensitométrie crânienne a montré une lésion invasive à la base de l'os occipital droit, compatible avec une métastase. Les analyses sanguines ont révélé un taux de PSA de 12 ng/ml et un taux de testostérone de 0 ng/dl.
+Une scintigraphie osseuse a été réalisée avec des critères de progression radiologique en raison de l'apparition de trois nouvelles lésions osseuses. La tomodensitométrie abdominale a confirmé la stabilité de la maladie ganglionnaire.
+
+Diagnostic
+En résumé, il s'agit d'un patient atteint d'un cancer de la prostate métastatique résistant à la castration (CPMR) avec une progression osseuse symptomatique.
+
+Traitement
+Il a été décidé de traiter la lésion par une radiothérapie palliative de 30 Gy, répartie en 10 fractions de 3 Gy, et de commencer une chimiothérapie par docétaxel.
+
+Évolution
+Actuellement, après un traitement par radiothérapie, les céphalées du patient ont disparu. Il est toujours sous traitement actif par docétaxel, troisième cycle le 30 mai 2019.

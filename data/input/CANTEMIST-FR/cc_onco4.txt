@@ -1,0 +1,37 @@
+ANAMNÈSE
+Une femme de 65 ans ayant des antécédents d'hypertension artérielle, de diabète sucré de type 2 et de dyslipidémie a consulté le service des urgences pour une distension abdominale datant de trois semaines, des nausées, une constipation et des difficultés à se ventiler. Il n'a pas signalé de syndrome constitutionnel ni de fièvre.
+
+EXAMEN PHYSIQUE
+Il présentait un état de performance de 1 et avait un abdomen globulaire, douloureux à la palpation dans l'hémiabdomen gauche, sans masses ou mégalithes palpables. Il n'y avait pas de péritonisme. Le reste de l'examen physique était normal.
+
+EXAMENS COMPLÉMENTAIRES
+Une tomodensitométrie (TDM) du thorax, de l'abdomen et du bassin a révélé une tumeur sténosante dans le côlon gauche avec des adénopathies à proximité, une masse paramédiastinale gauche d'environ 9 centimètres et des lésions pleurales gauches évoquant des métastases.
+
+Les analyses de laboratoire ont révélé un taux d'hémoglobine de 11,5 mg/dL et un taux d'antigène carcino-embryonnaire de 12,1 mg/dL.
+
+ANATOMIE PATHOLOGIQUE
+Le diagnostic pathologique initial de la biopsie pleurale était un carcinome épidermoïde. Aucune mutation de l'EGFR n'a été détectée et ALK et ROS-1 n'ont pas pu être évalués en raison de la rareté des cellules tumorales. L'étude PD-L1 était positive dans 80 % des cellules tumorales. Après avoir examiné le cas au sein d'un comité multidisciplinaire, le service de radiodiagnostic a envisagé la possibilité d'un carcinome thymique compte tenu des caractéristiques de la lésion pulmonaire à l'imagerie. Après révision du diagnostic par le service d'anatomie pathologique, cette hypothèse a été confirmée et le diagnostic final a été celui d'un carcinome thymique.
+La biopsie colique était compatible avec un adénocarcinome bien différencié du côlon, sans instabilité des microsatellites.
+
+JUGEMENT DIAGNOSTIQUE
+Diagnostic synchrone d'un adénocarcinome sténosant du côlon, stade clinique T3N1M0, et d'un carcinome thymique malpighien avec atteinte pleurale multiple (PD-L1 de 80 %).
+
+TRAITEMENT
+Compte tenu du diagnostic initial de carcinome épidermoïde métastatique du poumon, le traitement a été considéré comme une priorité. Un traitement de première intention par pembrolizumab a été mis en place et, en fonction de la réponse au traitement et des symptômes du patient, une intervention chirurgicale a été envisagée.
+
+ÉVOLUTION
+Le traitement a débuté avec une excellente tolérance, présentant une réponse partielle au niveau de la masse paramédiastinale et des implants pleuraux selon les critères RECIST 1.1 après 6 cycles. La toxicité la plus importante a été un œdème de grade 1. L'imagerie a également montré un œdème des plans graisseux, un liquide abdominal libre et un léger épanchement bilatéral.
+
+Après le septième cycle, il a consulté le service des urgences pour asthénie, œdèmes et dyspnée. L'examen physique a révélé un œdème de grade 3 au niveau des membres inférieurs, une ascite sans tension et des bruits crépitants jusqu'aux champs moyens bilatéraux à l'auscultation. Les examens de laboratoire ont révélé une hyponatrémie modérée et une hypoprotéinémie. Un traitement au furosémide et des suppléments protéiques ont été mis en place et le patient a été admis pour des examens complémentaires.
+
+Dans le cadre de l'étude de l'état œdémateux, une échocardiographie a été réalisée, qui s'est révélée normale, il n'y avait aucun signe de protéinurie dans la gamme néphrotique dans les urines, aucune altération rénale, surrénalienne ou hypophysaire et l'étude auto-immune (complément, anticorps nucléaires extractibles totaux et anticorps antinucléaires) s'est révélée négative.
+
+Parallèlement à l'anasarque, la patiente a dû être opérée en urgence pour une péritonite purulente secondaire à une perforation colique au niveau de la prothèse. Elle a reçu un traitement antibiotique et a subi une hémicolectomie gauche et une colostomie terminale, nécessitant un séjour prolongé dans l'unité de soins intensifs (USI) en raison de complications post-chirurgicales.
+
+Une fois l'état infectieux résolu et la patiente rétablie après l'opération, elle est restée dans un état d'anasarque, avec une aggravation respiratoire progressive qui a nécessité une nouvelle admission en soins intensifs. Elle a nécessité une ventilation mécanique non invasive et la mise en place d'un drain thoracique pour drainer l'épanchement pleural (compatible avec un transsudat, avec une cytologie négative pour une tumeur maligne). En collaboration avec le service de néphrologie, le traitement de déplétion a été progressivement intensifié, avec l'ajout d'albumine, d'acétazolamide et de métolazone.
+
+Au même moment, il a présenté des enzymes hépatiques élevées (aspartate aminotransférase (GOT) 169 U/L, alanine aminotransférase (GPT) 1027 U/L, phosphatase alcaline 662 U/L, bilirubine totale 7,3 mg/dL), pour lesquelles il a été suspendu des médicaments hépatotoxiques sans amélioration et sans qu'une condition infectieuse ou auto-immune ne le justifie. Les examens d'imagerie (cholagio-résonance et résonance magnétique hépatique) n'ont révélé aucune anomalie.
+
+Étant donné que le patient était dans un état d'anasarque réfractaire et compte tenu de l'aggravation de l'état du foie, sans cause identifiable pour l'une ou l'autre circonstance, un traitement par corticostéroïdes à forte dose a été instauré en raison de la suspicion d'un effet indésirable à médiation immunitaire, compte tenu des antécédents de traitement par anti-PD1. Le mycophénolate mofétil a été instauré en raison de la suspicion d'une hépatite toxique à médiation immunitaire. Le patient a présenté une légère amélioration clinique et biologique initiale, suivie d'une aggravation clinique progressive.
+
+Compte tenu des signes de souffrance active et de sa réfractarité clinique aux traitements administrés, une perfusion sédoanalgésique a été mise en place et la patiente est décédée deux mois après son admission. Une autopsie clinique a été proposée, que la famille a refusée.

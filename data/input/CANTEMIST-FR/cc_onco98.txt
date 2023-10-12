@@ -1,0 +1,27 @@
+Anamnèse
+Il s'agit d'une femme de 52 ans qui présente un bultome parotidien gauche depuis plusieurs semaines. Elle nie toute toux, expectoration ou dyspnée. Elle n'a pas de fièvre ni de sensation de dysthermie. Ses principaux antécédents personnels sont le tabagisme, une césarienne et des amygdalectomies antérieures.
+
+Le patient a été adressé au service d'oto-rhino-laryngologie pour évaluation du traitement, avec suspicion de phlegmon parotidien. Un traitement antibiotique a été administré mais, en l'absence d'amélioration du tableau clinique, il a été décidé de procéder à une ponction du bultome, mais l'aspiration du contenu purulent ne s'est pas révélée. Une IRM cervicale et un scanner ont été demandés, qui ont confirmé les résultats de l'examen physique. L'anatomie pathologique de la masse, obtenue par aspiration, a révélé un carcinome épidermoïde intraparotidien gauche. Le patient a été adressé au service de chirurgie maxillo-faciale et a subi une parathyroïdectomie radicale, une dissection cervicale fonctionnelle gauche et une reconstruction par un lambeau microvascularisé ALT gauche.
+
+Le diagnostic de carcinome épidermoïde de la parotide pT4 N2 (18+/31) Mx est donc confirmé.
+
+Examen physique
+La patiente a un statut de performance de 0. Elle est hémodynamiquement stable et a une saturation en oxygène de base de 96 %. Elle est orientée dans les trois sphères, normoperfusée, normoperfusée et normohydratée. L'examen physique de la tête et du cou révèle une grosseur dure, non pierreuse, douloureuse à la palpation et d'un diamètre d'environ 3 cm, dans la région parotidienne gauche. Dans la chaîne ganglionnaire latérocervicale gauche, il y avait deux ganglions lymphatiques centimétriques, ni pierreux ni douloureux. L'auscultation cardio-pulmonaire n'a révélé aucune altération notable. L'examen de l'abdomen et des extrémités était sans particularité.
+
+
+Tests complémentaires
+"Les analyses sanguines n'ont révélé aucune anomalie significative.
+"Un bilan d'extension post-chirurgical par tomodensitométrie a été demandé, montrant un épanchement pleural avec atélectasie secondaire, un infiltrat alvéolointerstitiel dans le lobe moyen et inférieur droit, ainsi que des adénopathies de taille pathologique dans la fenêtre aorto-pulmonaire et prévascualaire.
+"Une fibrobronchoscopie a été demandée, mais aucune tumeur maligne endobronchique n'a été trouvée, et l'histologie du broncho-aspirat ainsi que la thoracentèse se sont révélées négatives pour la malignité.
+"Une tomographie par émission de positons a été demandée, qui a révélé des lymphadénopathies latérocervicales, médiastinales et axillaires gauches, un épanchement et un léger épaississement pleural bilatéral avec un comportement hypermétabolique compatible avec une étiologie néoplasique métastatique.
+"Étant donné le manque de concordance décrit dans la littérature scientifique entre l'histoire naturelle du carcinome épidermoïde de la parotide et les résultats de l'imagerie dans l'étude d'extension de notre cas clinique, il a été décidé de contacter le service de pathologie pour examiner l'histologie de la tumeur. La pièce opératoire a été confirmée comme étant un carcinome épidermoïde cutané infiltrant la parotide et les ganglions lymphatiques cervicaux.
+
+Diagnostic
+Le diagnostic définitif est un carcinome épidermoïde cutané de stade IV (métastases adénopathiques, pleurales, parotidiennes).
+
+Traitement
+Compte tenu de la situation du patient, du diagnostic histopathologique et de l'étendue de la maladie, il a été décidé de commencer le traitement selon un schéma basé sur le cisplatine à 100 mg/m2 jour 1, le 5-FU à 1 000 mg/m2 jours 1-4 en IC, ainsi que le cetuximab à 400 mg/m2 jour 1 et hebdomadairement par la suite à une dose de 250 mg/m2.
+
+Évolution
+La réévaluation par tomodensitométrie après un total de six cycles du traitement proposé révèle une réponse radiologique complète.
+La patiente reçoit actuellement un traitement d'entretien par cetuximab. Elle a déjà eu des épisodes d'éruption cutanée de grade 2-3, mais elle est actuellement bien tolérée.

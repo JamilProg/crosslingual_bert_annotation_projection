@@ -1,0 +1,19 @@
+T1	pathologie 65 73	neumonía
+T2	pathologie 99 106	fumador
+T3	pathologie 117 131	hábito etílico
+T4	pathologie 157 182	asma bronquial extrínseco
+T5	pathologie 185 255	rinoconjuntivitis alérgica con hipersensibilidad a gramíneas y a olivo
+T6	pathologie 787 837	lesión en fase cicatricial en la pared del abdomen
+T7	pathologie 866 875	forúnculo
+T8	pathologie 1581 1590	hepatitis
+T9	pathologie 1782 1801	derrame pericárdico
+T10	pathologie 1854 1909	lesión eritematosa y caliente en la región paraesternal
+T11	pathologie 2004 2010	lesión
+T12	pathologie 2144 2169	derrame pleural izquierdo
+T13	pathologie 2393 2417	abscesos estafilocócicos
+T14	pathologie 2474 2485	adenopatías
+T15	pathologie 2640 2648	artritis
+T16	pathologie 3033 3041	artritis
+T17	pathologie 3074 3087	osteomielitis
+T18	pathologie 3566 3593	lesión dérmica paraesternal
+T19	pathologie 3663 3689	inmunodeficiencia primaria

@@ -1,0 +1,44 @@
+Anamnèse
+Patiente de 33 ans ayant des antécédents personnels de gastrite chronique à helicobacter pylori traitée par un régime d'éradication et de syndrome des ovaires polykystiques. Elle ne recevait pas de traitement régulier.
+Dans sa famille, sa mère a été diagnostiquée d'un carcinome mammaire à l'âge de 49 ans et a été dispensée de consultation médicale oncologique après un suivi de 10 ans. Tante maternelle atteinte d'un cancer de l'ovaire à l'âge de 45 ans, décédée à l'âge de 53 ans. Grand-mère maternelle diagnostiquée avec un carcinome ovarien à l'âge de 52 ans, décédée à l'âge de 53 ans. Aucun autre antécédent familial de cancer.
+En août 2012, elle a commencé à présenter des symptômes cliniques de rougeur de la région dorsale des mains qui s'est progressivement étendue au reste de sa surface corporelle, associée à une asthénie et à des douleurs ostéomusculaires généralisées. Elle a subi une étude dermatologique avec un profil d'auto-immunité et une biopsie cutanée dont les résultats étaient compatibles avec une dermatomyosite.
+
+Examen physique
+Bon état général, PS:0.
+Adénopathie latéro-cervicale gauche (niveau IV) 2 x 2,5 cm, adhérente aux plans profonds, non douloureuse.
+PCA : tonalités rythmiques à environ 80 systoles par minute. Bonne ventilation bilaire, pas de bruits pathologiques.
+Abdomen : mou, dépressible, légèrement distendu avec une gêne au niveau de la fosse iliaque droite (impression de masse à ce niveau), sans signe de péritonisme.
+
+Examen dermatologique :
+Lésions purpuriformes palpables sur les doigts, principalement au niveau des éminences osseuses (jointures et poignets), ainsi que dans les zones d'extension. Lésions exanthémateuses confluentes sur les deux cuisses. Érythème au niveau périoculaire.
+
+Examen fonctionnel :
+Douleur articulaire diffuse, principalement au niveau des poignets et des articulations.
+Faiblesse musculaire dans les membres, principalement dans les membres supérieurs. Force et sensibilité préservées (5/5). Dermatographie ++/+++.
+
+Tests complémentaires
+- Résultats analytiques :
+- Biochimie : élévation discrète des transaminases, élévation marquée de la CPK-S (4132 U/L) et de la LDH (1211 U/L).
+- Marqueurs tumoraux : Ca 125 (568 ng/ml) et Ca 15.3 (343 U/ml) élevés. L'ACE et l'alpha-fœtoprotéine étaient normales.
+- Auto-immunité : ANA-IFI avec moucheture nucléaire au titre de 1/80, Anti-ADN 22,3 OMS U/ml et anti-muscle lisse positif (immunofluorescence indirecte) au titre de 1/40.
+- Tomodensitométrie du thorax/abdomen (01/06/2012) tumeur annexielle droite. Adénopathies rétro-péritonéales interaortocaves et para-aortiques.
+- Séquençage massif des gènes BRCA 1 et BRCA 2 : un changement nucléotidique c.213-2 A>C a été détecté dans le gène BRCA 1.
+
+Diagnostic
+Étant donné les symptômes compatibles avec un processus paranéoplasique, une étude d'extension a été demandée avec un scanner du thorax, de l'abdomen et du bassin, dans lequel une masse annexielle droite a été trouvée et elle a été référée à la gynécologie.
+Après un examen gynécologique qui a confirmé l'existence de la masse annexielle et compte tenu du résultat cytologique suggérant un carcinome, le cas a été évalué de manière multidisciplinaire au sein du comité des tumeurs gynécologiques et adressé au département d'oncologie médicale pour programmer le traitement.
+Dans le même temps, une FNA de l'adénopathie latéro-cervicale gauche a été réalisée, avec des résultats cytologiques compatibles avec un carcinome, de sorte que l'excision du ganglion lymphatique a été programmée avec des résultats anatomopathologiques de métastases d'un carcinome pléomorphe de haut grade.
+
+Traitement
+Il a été décidé de commencer un traitement de chimiothérapie, Carboplatine-Paclitaxel, en intention néoadjuvante.
+Un contrôle radiologique a été effectué après trois cycles, et une réponse partielle a été observée, avec disparition de l'adénopathie supraclaviculaire et disparition des symptômes de dermatomyosite du premier cycle, raison pour laquelle une chirurgie d'effort maximal a été programmée.
+Une chirurgie R0 a été réalisée avec un diagnostic anatomopathologique d'adénocarcinome ovarien séreux-papillaire de haut grade.
+Par la suite, elle a suivi trois autres cycles de chimiothérapie, en conservant le même calendrier.
+
+Évolution
+Le diagnostic de carcinome ovarien ayant été posé chez une patiente présentant une agrégation familiale, celle-ci a été orientée vers un conseil génétique et, après ce conseil, une étude de séquençage massif des gènes BRCA 1/BRCA 2 a été demandée, et une mutation a été détectée dans le gène BRCA 1.
+Après l'initiation de l'étude par la patiente (test), qui est BRCA 1 (+), l'étude familiale s'est poursuivie et la présence d'une mutation pathogène chez sa mère a été détectée. Un examen gynécologique et analytique a été effectué avec des marqueurs (Ca 125), tous deux strictement normaux. Elle a subi une salpingo-ovariectomie bilatérale prophylactique à l'âge de 60 ans, la pièce opératoire ayant révélé un carcinome papillaire séreux de l'ovaire, stade IA.
+
+Deux de ses trois frères et sœurs étaient mutés, une femme et un homme âgés respectivement de 36 et 28 ans. La mutation a également été détectée chez l'une de ses cousines maternelles, dont la mère est décédée d'un cancer de l'ovaire.
+L'une de ses sœurs, porteuse d'une mutation BRCA 1 (+), continue d'être suivie de près dans une clinique de conseil génétique, avec un contrôle radiologique semestriel par IRM mammaire, en alternance avec une mammographie. Étant donné qu'elle a actuellement 36 ans et qu'elle a des désirs génétiques, la salpingo-ovariectomie prophylactique n'a pas été effectuée pour le moment.
+Après le traitement indiqué, la patiente continue d'être surveillée à l'heure actuelle sans signe de rechute, avec le suivi habituel pour le carcinome ovarien. Les deux seins sont également surveillés.

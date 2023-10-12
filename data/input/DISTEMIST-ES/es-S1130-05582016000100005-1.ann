@@ -1,0 +1,12 @@
+T1	pathologie 132 153	labio-paladar hendido
+T2	pathologie 286 302	hipoplasia malar
+T3	pathologie 355 385	dismorfia de la pirámide nasal
+T4	pathologie 522 540	hipoplasia maxilar
+T5	pathologie 1279 1335	macizo facial, en la cual se evidenció un seudoaneurisma
+T6	pathologie 1880 1941	seudoaneurisma y su dependencia de la arteria maxilar interna
+#1	SNOMED T2	93303009
+#2	SNOMED T6	443089001
+#3	SNOMED T4	444967008
+#4	SNOMED T1	66948001
+#5	SNOMED T3	128274005
+#6	SNOMED T5	443089001

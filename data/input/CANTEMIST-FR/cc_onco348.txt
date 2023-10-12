@@ -1,0 +1,30 @@
+Anamnèse
+Une femme de 51 ans a consulté son médecin traitant en avril 2015 pour l'auto-palpation d'un nodule indolore au sein gauche, présent selon elle depuis un an, et a été adressée au service de gynécologie pour examen.
+Antécédents personnels : pas d'antécédents médicaux ou chirurgicaux intéressants. Contraceptifs oraux depuis 8 ans.
+
+Examen physique
+À l'examen physique, la patiente présente une asymétrie mammaire marquée. Le sein droit est d'apparence normale, tandis que le sein gauche présente une masse dure et fixe d'environ 10 cm, adhérant aux plans profonds et très proche de la peau. Aucun ganglion lymphatique axillaire n'était palpable.
+
+Examens complémentaires
+" Mammographie bilatérale (14/04/2015) : Une masse de 8 cm aux limites mal définies est identifiée dans le sein gauche.
+" Échographie mammaire bilatérale (14/04/2015) : masse hypoéchogène, hétérogène, de contenu solide qui s'imprime sur le complexe mamelon-aréole, avec infiltration apparente. Aucune adénopathie n'est identifiée.
+" IRM mammaire (03/05/2015) : masse de 8 cm située dans les quadrants internes du sein gauche, hypervasculaire, avec rehaussement marqué et atteinte cutanée. Lésion de 18 mm dans les quadrants supéro-internes du sein controlatéral d'aspect similaire. Ganglions axillaires bilatéraux non spécifiques.
+" Tomodensitométrie thoraco-abdominale-pelvienne (07/05/2015) : pas de signe de maladie à distance.
+" Marqueurs tumoraux (07/05/2015) : CEA 1,8, CA 15-3 5,4.
+
+Diagnostic
+Sein droit : angiosarcome (CD34+, CD31+).
+Sein gauche : Angiosarcome (CD34+, CD31+) HHV8 négatif. Absence de mutation k-RAS et NRAS. Ki67 25%.
+Angiosarcome primaire bilatéral du sein.
+
+Traitement
+Initialement (26/05/2015), une mastectomie simple du sein gauche et une quadrantectomie du sein droit ont été réalisées, puis il a été décidé de réaliser une mastectomie droite en raison de marges insuffisantes (23/06/2015).
+AP : Angiosarcome (expression CD31 et CD34). Ki67 20-25%. Grade 2. Pas de perméabilité vasculaire ni d'infiltration périneurale.
+Le cas a été présenté au comité des tumeurs mammaires et il a été décidé que, compte tenu de l'histologie, la patiente serait candidate à un traitement de radiothérapie adjuvante, qui a été effectué sur l'hémithorax gauche en raison de la taille de la tumeur.
+Il a été décidé de ne pas administrer de chimiothérapie adjuvante en raison du faible bénéfice attendu.
+
+Évolution
+La patiente a fait l'objet d'un suivi. Le premier scanner réalisé pour réévaluation le 20/09/2015 a montré l'apparition de lésions hépatiques dans les segments VI et VII et une autre plus importante dans le segment VI.
+A ce stade, il a été décidé de débuter une chimiothérapie de première ligne pour une maladie avancée avec Paclitaxel 80mg/m2 aux jours 1, 8 et 15 tous les 28 jours, qui a débuté le 16 octobre 2015. Après quatre cycles de traitement, un scanner thoraco-abdomino-pelvien a été réalisé le 31 janvier 2016, qui a montré la persistance des lésions hépatiques décrites ci-dessus, mais avec un contenu nécrotique plus important à l'intérieur, ce qui pourrait indiquer une réponse partielle au traitement. La patiente a montré une bonne tolérance au traitement, bien que présentant une neurotoxicité de grade 1.
+Après l'administration de 7 cycles, un nouveau scanner thoracique-abdomino-pelvien a été réalisé le 22 avril 2016, montrant une progression discrète de la maladie dans le foie avec deux nouvelles lésions spléniques.
+Il a été décidé de compléter l'étude moléculaire de la tumeur afin de réaliser un traitement ciblé, et aucun réarrangement ALK ou instabilité des microsatellites n'a été observé, avec une amplification MET de seulement 10 %. Une nouvelle ligne de traitement par doxorubicine liposomale pégylée a été débutée en mai 2016.

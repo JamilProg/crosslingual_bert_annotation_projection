@@ -1,0 +1,12 @@
+T1	pathologie 31 44	trauma facial
+T2	pathologie 86 92	lesión
+T3	pathologie 111 141	fractura del ángulo desplazada
+T4	pathologie 173 179	lesión
+T5	pathologie 261 269	fractura
+T6	pathologie 393 422	quiste radicular inflamatorio
+#1	SNOMED T1	125593007
+#2	SNOMED T6	89988002
+#3	SNOMED T3	721326008
+#4	SNOMED T2	417163006
+#5	SNOMED T4	417163006
+#6	SNOMED T5	72704001

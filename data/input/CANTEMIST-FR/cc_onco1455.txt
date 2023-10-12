@@ -1,0 +1,30 @@
+Anamnèse
+Femme de 79 ans, sans allergie médicamenteuse connue ; antécédents personnels d'hypertension, de dyslipidémie, d'hyperuricémie et de glaucome chronique. Diagnostiquée en février 2011 d'un carcinome canalaire infiltrant du sein. Elle a été traitée par mastectomie radicale droite en mars 2011 pT2pN2 (9/9) M0. RE+++ RP+ c-erbB2 + (négatif) et chimiothérapie adjuvante (28 mars au 30 août 2011) : AC avec myocet x 4 et docetaxel 75 x 2. Après le troisième cycle de chimiothérapie, la patiente commence à avoir une tolérance subjective plus faible et une anémie. Après le deuxième cycle de docétaxel, la patiente a été admise pour vomissements, diarrhée et asthénie, et la chimiothérapie adjuvante a été définitivement suspendue. Elle a reçu 21 séances de radiothérapie locorégionale.
+Elle s'est rendue aux urgences en raison d'une détérioration de son état général, d'une asthénie intense, d'une dysphagie pour les solides et les liquides.
+Elle ne signale ni fièvre ni douleur à d'autres niveaux.
+
+Examen physique
+Tension artérielle 18/82 mm Hg ; température 36,4 °C ; fréquence cardiaque 88 bpm ; saturation en oxygène 97%. Pâleur de la peau, mauvaise hydratation.
+Signes d'atrophie musculaire. Dermite de grade 2 au FSCD. Cicatrice de mastectomie droite normale.
+Le sein gauche et le reste de l'examen physique sont normaux.
+
+Tests complémentaires
+- Biochimie sanguine : glucose 217,1 mg/dL ; urée 95,2 mg/dL ; créatinine 0,7 mg/dL ; protéines totales 5,6 g/dL ; albumine 3,1 g/dL ; sodium 130,8 mEq/L ; potassium 3,46 mEq/L ; magnésium 1,83 mg/dL ; lactate déshydrogénase (LDH) 325,0 mU/mL ; protéine C-réactive (CRP) 1,0 mg/L.
+- Système urinaire : pyurie.
+- Hémogramme : 4 900 leucocytes/mm3 (94,9% de neutrophiles) ; Hto 32,8% ; Hb 11,3 g/dL ; volume corpusculaire moyen (MCV) 97,3 fL ; hémoglobine corpusculaire moyenne (MCH) 33,6 pg ; concentration corpusculaire moyenne d'hémoglobine (MCHC) 34,5 g/dL ; 90 000 plaquettes/mm3.
+- Coagulation : paramètres normaux.
+- Radiographie du thorax : mastectomie droite avec clips chirurgicaux sur la paroi thoracique et la paroi axillaire.
+Index cardiothoracique dans les limites normales. Aucune masse ou adénopathie médiastinale de taille significative n'a été observée. Altérations non spécifiques du parenchyme pulmonaire sans signes d'infiltrats parenchymateux. Plèvre sans altération.
+- Électrocardiogramme : rythme sinusal à 80 bpm, sans altération de la repolarisation.
+- Examen ORL : compatible avec une probable candidose œsophagienne.
+
+Diagnostic
+Cancer du sein en cours de radiothérapie adjuvante. Probable candidose œsophagienne. Diabète aux stéroïdes. Malnutrition. Anémie et thrombopénie.
+Infection urinaire probable.
+
+Traitement
+Le traitement commence par un régime liquide, une thérapie sérique, de l'insuline, des antibiotiques, des corticostéroïdes et du fluconazole.
+
+Évolution
+Le patient évolue défavorablement en raison de la fièvre, de l'aggravation de la dysphagie et de la malnutrition ; de l'hypocalcémie, de l'hypophosphatémie et de la pancytopénie ; avec un hémogramme de 1 300 leucocytes/mm3 (1 100 neutrophiles/mm3), une hémoglobine de 7,3 g/dL, 17 000 plaquettes/mm3 et la présence de lymphocytes activés dans le frottis sanguin périphérique. Un soutien nutritionnel et un contrôle de la douleur ont été mis en place. L'étude a été prolongée, révélant une malnutrition sévère, une carence en vitamine D, des hémocultures positives pour Staphylococcus epidermidis et une pancytopénie due à une hémophagocytose dans la biopsie de la moelle osseuse. L'endoscopie supérieure n'a pas été pratiquée en raison du mauvais état général du patient et de sa thrombopénie sévère. La couverture antibiotique a été étendue, l'acyclovir a été ajouté de manière empirique et un traitement de la douleur a été mis en place avec des opioïdes majeurs en raison de la douleur œsophagienne sévère. Une sérologie pour le virus d'Epstein-Barr et le cytomégalovirus a été demandée. Le patient a évolué favorablement, avec une disparition de la douleur œsophagienne, la possibilité de commencer à s'alimenter par voie orale en quelques jours et le retrait des opioïdes ; récupération progressive de la pancytopénie. Le patient continue à avoir de la fièvre, qui disparaît lorsque le cathéter central est retiré.
+Les analyses sanguines ont confirmé une antigénémie très positive : IgG anti-cytomégalovirus positives, IgM anti-cytomégalovirus positives, ADN quantitatif du cytomégalovirus de 24 260 copies/mL. Le patient a ensuite signalé des douleurs neuropathiques dans la région sus-orbitaire gauche. Le diagnostic de réactivation d'une infection à cytomégalovirus chez un patient immunodéprimé (chimiothérapie, radiothérapie, corticoïdes, malnutrition) avec oesophagite, hépatite (tests de laboratoire légers), diarrhée (un jour seulement), pancytopénie avec hémophagocytose et névrite ayant été posé, le ganciclovir a été administré pendant 14 jours.

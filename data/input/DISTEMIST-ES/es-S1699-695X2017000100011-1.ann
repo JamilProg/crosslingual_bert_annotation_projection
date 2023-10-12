@@ -1,0 +1,40 @@
+T1	pathologie 94 117	dilatación estacionaria
+T2	pathologie 241 257	amenaza de parto
+T3	pathologie 297 332	retraso en el desarrollo psicomotor
+T4	pathologie 356 375	crisis de ausencias
+T5	pathologie 380 398	crisis epilépticas
+T6	pathologie 461 484	retraso mental moderado
+T7	pathologie 486 516	dificultades en el aprendizaje
+T8	pathologie 518 551	alteraciones conductuales severas
+T9	pathologie 558 578	espectro del autismo
+T10	pathologie 580 615	déficit en el control de esfínteres
+T11	pathologie 618 669	trastorno de hiperactividad con déficit de atención
+T12	pathologie 817 832	ansiedad social
+T13	pathologie 835 870	fobias extremas a ruidos y animales
+T14	pathologie 994 1016	hipotonía generalizada
+T15	pathologie 1018 1038	articulaciones laxas
+T16	pathologie 1040 1051	pies valgos
+T17	pathologie 1112 1132	alteración del sueño
+T18	pathologie 1169 1195	alteraciones cardiológicas
+T19	pathologie 1219 1250	rasgos faciales característicos
+T20	pathologie 1391 1394	SXF
+#1	SNOMED T20	613003
+#2	SNOMED T2	199049003
+#3	SNOMED T3	1144814003
+#4	SNOMED T4	79631006
+#5	SNOMED T5	84757009
+#6	SNOMED T6	61152003
+#7	SNOMED T8	25786006
+#8	SNOMED T9	408856003
+#9	SNOMED T10	447740001
+#10	SNOMED T11	406506008
+#11	SNOMED T12	247832004
+#12	SNOMED T16	79807003
+#13	SNOMED T17	39898005
+#14	SNOMED T7	1855002
+#15	SNOMED T13	370567003+54307006
+#16	SNOMED T1	7768008
+#17	SNOMED T14	398151007
+#18	SNOMED T15	298203008
+#19	SNOMED T18	129898001
+#20	SNOMED T19	205797000

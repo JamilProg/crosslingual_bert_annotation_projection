@@ -1,0 +1,24 @@
+Anamnèse
+Un homme de 62 ans sans antécédents personnels d'intérêt ou d'habitudes toxiques. Ses antécédents familiaux de cancer comprennent un père atteint d'un carcinome thyroïdien et d'un mélanome à un âge avancé.
+
+Antécédents oncologiques
+Un mélanome nodulaire de stade pT4bpN1M0 (TNM 7e éd. 2010, stade III) a été diagnostiqué chez lui en 2014. Une excision de la lésion à bords libres et une lymphadénectomie ont été réalisées après une biopsie positive du ganglion sentinelle. Elle n'a pas reçu de traitement adjuvant et a commencé des examens de contrôle. Deux ans plus tard, un seul nodule pulmonaire a été découvert, qui a été réséqué avec des résultats histologiques de métastases de mélanome, et le suivi s'est poursuivi. Huit mois plus tard, une nouvelle lésion pulmonaire est apparue en même temps qu'une lésion splénique, confirmée histologiquement comme une atteinte métastatique. Compte tenu de la présence d'un BRAF non muté, il a été mis sous nivolumab en monothérapie. Il s'agissait d'un patient asymptomatique, avec un ECOG 0, des LDH normales et une faible charge tumorale.
+Lors de la réévaluation après 3 mois, une réponse presque complète a été observée. La lésion située dans le pôle supérieur de la rate a disparu après 6 mois avec des signes d'une nouvelle splénomégalie de plus de 14 cm, qui a disparu un mois plus tard. Après 26 doses bihebdomadaires du médicament (13 mois après le début du traitement), des images pseudonodulaires ont été observées dans plusieurs lobes pulmonaires, compatibles avec un processus inflammatoire/infectieux dépendant de l'arbre bronchique central. Un scanner thoracique de contrôle a ensuite été réalisé.
+Une bronchoscopie a été demandée pour exclure une pathologie infectieuse au moyen de cultures BAS/BAL et d'une étude cytologique qui a révélé l'absence de cellules tumorales malignes. Le tableau s'est donc orienté vers une toxicité pulmonaire secondaire à l'immunothérapie. Étant donné que la patiente était asymptomatique à tout moment et en raison de la réponse complète précoce, il a été décidé de ne pas réintroduire le médicament anti-PD-1 et de ne pas prescrire de traitement aux corticostéroïdes.
+Après l'arrêt du traitement, et sans qu'il soit nécessaire de prescrire une corticothérapie, une résolution complète des images nodulaires a été observée lors de la réévaluation d'imagerie suivante, trois mois après le diagnostic initial. Lors de l'évaluation suivante, après 8 mois sans traitement anti-PD-1 et à nouveau asymptomatique, de nouvelles images en verre dépoli ont été observées en relation avec un nouvel épisode de pneumopathie, avec un schéma radiologique complètement différent de l'épisode précédent. Lors de la nouvelle bronchoscopie, les pathologies infectieuses et tumorales ont de nouveau été exclues, et la numération cellulaire a montré une prédominance des lymphocytes avec une inversion du rapport CD4/CD8.
+
+Examen physique
+La patiente est restée asymptomatique au cours des deux processus de pneumopathie, sans nécessiter d'oxygénothérapie ni de traitement par corticostéroïdes.
+
+Examens complémentaires
+Le patient a été suivi radiologiquement par CT et PET-CT tout au long de son évolution. Des bronchoscopies ont été réalisées lors des deux épisodes de pneumopathie pour éliminer une pathologie infectieuse et tumorale.
+
+Diagnostic
+"Pneumopathie récurrente de grade 1 sous anti-PD-1 dans le cadre d'un mélanome métastatique non muté BRAF en première intention, avec atteinte pulmonaire et splénique.
+"Splénomégalie pendant le traitement par anti-PD-1.
+
+Traitement
+La patiente a été traitée par immunothérapie anti-PD-1 pendant 26 cycles.
+
+Évolution
+Le patient est sous suivi clinique, en réponse complète sans traitement.

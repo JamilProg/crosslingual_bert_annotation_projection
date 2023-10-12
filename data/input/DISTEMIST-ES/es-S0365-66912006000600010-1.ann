@@ -1,0 +1,6 @@
+T1	pathologie 324 342	crisis epilépticas
+T2	pathologie 794 838	hemianopsia homónima izquierda no congruente
+T3	pathologie 1079 1106	fenómeno tóxico por Topamax
+#1	SNOMED T1	84757009
+#2	SNOMED T3	62014003
+#3	SNOMED T2	55634009

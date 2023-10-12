@@ -1,0 +1,12 @@
+T1	pathologie 37 56	pancolitis ulcerosa
+T2	pathologie 76 94	corticodependiente
+T3	pathologie 132 165	actividad inflamatoria intestinal
+T4	pathologie 427 477	diarrea (5-6 deposiciones diarias) con sangre roja
+T5	pathologie 528 544	colitis ulcerosa
+T6	pathologie 883 902	reacciones adversas
+#1	SNOMED T1	444548001
+#2	SNOMED T5	64766004
+#3	SNOMED T2	95919007
+#4	SNOMED T3	24526004
+#5	SNOMED T4	95545007
+#6	SNOMED T6	281647001

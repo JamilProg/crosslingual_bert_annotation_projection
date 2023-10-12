@@ -1,0 +1,33 @@
+Anamnèse
+Patient âgé de 41 ans. Antécédents personnels : allergique au métamizole. Préménopausée. Pas d'antécédents médicaux ou chirurgicaux intéressants.
+En septembre 2007, à l'âge de 35 ans, elle consulte pour une tumeur douloureuse dans une MICI évoluant depuis 4-5 mois.
+
+Examen physique
+Conscient et orienté. Couleur normale et hydratation normale. Eupnéique au repos. Pas d'adénopathies palpables.
+Auscultation cardiaque et pulmonaire sans altération. Tumeur palpable dans la fesse gauche, douloureuse, adhérente aux plans profonds, mesurant environ 5 x 5 cm.
+
+Examens complémentaires
+Imagerie par résonance magnétique (IRM) de la hanche : lésion encapsulée et septée mesurant 60 x 63 x 85 mm dans le grand fessier gauche.
+Tomodensitométrie thoraco-abdominale (TA CT) : tumeur hétérogène du fessier d'environ 10 cm, petits ganglions inguinaux bilatéraux, micronodule pulmonaire périphérique sous-pleural dans le lobe supérieur droit (LSD), lésion hypervasculaire ovoïde solide dans le lobe hépatique droit (LHD) d'aspect bénin.
+Biopsie : sarcome pléomorphe de la fesse gauche avec un index prolifératif élevé (Ki67 50%). IHC : vimentine +, CD34+, pankératine AE1/AE3-, desmine-, actine musculaire lisse-, S100-, CD 31-. Histomorphologie compatible avec un fibrohistiocytome malin pléomorphe.
+
+Diagnostic
+Sarcome de la fesse gauche pléomorphe avec un index prolifératif élevé (Ki67 50%). Immunohistochimie (IHC) : vimentine+, CD34+, pankératine AE1/AE3-, desmine-, actine musculaire lisse-, S100- CD 31-. Histomorphologie compatible avec un fibrohistiocytome malin pléomorphe.
+
+Traitement
+Octobre 2007 : résection marginale de la lésion avec confirmation anatomopathologique d'un fibrohistiocytome malin pléomorphe. Une chimiothérapie adjuvante (4 cycles d'ifosfamide-doxorubicine) et une radiothérapie séquentielle ont ensuite été administrées. À la fin du traitement, la patiente a été adressée à une clinique externe pour un suivi.
+
+Évolution
+En décembre 2008, elle a présenté une progression au niveau pulmonaire, et après évaluation par le Comité des tumeurs thoraciques, un sauvetage chirurgical a été décidé. En janvier 2009, une résection de 5 nodules pulmonaires a donc été réalisée par thoracotomie postérieure droite, l'anatomie pathologique étant positive pour des métastases de fibrohistiocytome dans deux d'entre eux. Les berges chirurgicales sont libres. La patiente n'a pas reçu de traitement adjuvant par la suite.
+Alors que la patiente était asymptomatique, en avril 2010, une collection de liquide dans la fesse gauche a été détectée lors d'une révision du scanner et une tomographie par émission de positons (PET-CT) a été demandée pour identifier la lésion. La TEP-TDM a identifié une seule lésion axillaire droite avec un SUV (2,52) évocateur de malignité, sans aucune prise à d'autres niveaux (y compris la collection fessière).
+L'étude a été complétée par une mammographie/échographie mammaire et une biopsie à l'aiguille (BAG), avec un diagnostic de carcinome canalaire infiltrant (CDI) du sein droit G2SB 7 RE+++ RP+++ RP+++ Herceptest++(FISH non amplifié) Ki67 70 %.
+En juin 2010, une chirurgie conservatrice et une BSGC ont été réalisées, avec un diagnostic définitif d'IDC bifocal du sein droit pT1c(15 et 9mm)pN0(0/2 sn et 0/1 no sn) avec un profil IHQ identique à celui du BAG.
+Après discussion du cas en séance d'oncologie, un traitement adjuvant de chimiothérapie (QT) par taxotère-cyclophosphamide a été décidé, avec 5 cycles toutes les 3 semaines (le sixième n'a pas été administré en raison d'une mauvaise tolérance), une radiothérapie locale et une hormonothérapie par tamoxifène pendant 5 ans.
+En septembre 2011, alors qu'elle suivait un traitement adjuvant au tamoxifène, des microcalcifications ont été détectées à la mammographie de contrôle dans les interquadrants inférieurs du sein gauche, avec une BAV compatible avec un carcinome intraductal de haut grade. L'IRM mammaire a montré que le sein gauche présentait 2 lésions de 15 et 37 mm et des adénopathies gauches suspectes, avec une ponction à l'aiguille fine axillaire compatible avec un CDI G2 SB 6 RH- Herceptest +++, Ki67 50 %.
+Il a été décidé d'effectuer un traitement néoadjuvant par doxorubicine liposomale plus paclitaxel plus trastuzumab (x 4 cycles), avec une réponse clinique et radiologique complète.
+Elle a été envoyée à l'unité de conseil génétique après le diagnostic de la deuxième tumeur primaire du sein.
+En février 2012, une mastectomie radicale modifiée avec vide axillaire a été réalisée, avec une réponse régionale de type D.
+Classification ypTNM : ypTisypN0(0/14).
+Elle a ensuite suivi un an de traitement adjuvant à l'Herceptin jusqu'en octobre 2012.
+En juillet 2013, on lui a diagnostiqué un syndrome de Li-Fraumeni.
+Elle est actuellement traitée par Tamoxifen (1ère tumeur mammaire hormono-sensible). Dernier examen le 23 mai 2013, aucun signe de maladie néoplasique.

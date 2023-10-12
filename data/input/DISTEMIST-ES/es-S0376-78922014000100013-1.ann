@@ -1,0 +1,14 @@
+T1	pathologie 189 221	lesión nodular gingival superior
+T2	pathologie 733 754	condrosarcoma maxilar
+T3	pathologie 977 982	tumor
+T4	pathologie 1011 1016	tumor
+T5	pathologie 1775 1780	tumor
+T6	pathologie 2080 2093	condrosarcoma
+T7	pathologie 2197 2202	tumor
+#1	SNOMED T1	300251004
+#2	SNOMED T2	447792005
+#3	SNOMED T6	443520009
+#4	SNOMED T3	55342001
+#5	SNOMED T4	55342001
+#6	SNOMED T5	55342001
+#7	SNOMED T7	55342001

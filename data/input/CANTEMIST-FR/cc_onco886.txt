@@ -1,0 +1,29 @@
+Anamnèse
+Il s'agit d'un homme de 56 ans aux antécédents de tabagisme de seulement 20 cigarettes par jour sans autre facteur de risque cardiovasculaire ni habitudes toxiques, sans traitement régulier et autonome pour les activités de la vie quotidienne et ouvrier du bâtiment. Il s'est présenté aux urgences en avril 2017 en raison de symptômes neurologiques consistant en une perte de force, une paresthésie et une myoclonie du membre supérieur et de la région hémifaciale droite d'une évolution de 48 heures. Interrogé lors de l'entretien, il a commenté une perte de poids d'environ 10 kg en 4 mois, coïncidant avec une dyspnée à l'effort modérée et une augmentation intermittente de l'expectoration d'hémoptysie. Dans ce contexte, une radiographie du thorax a été réalisée, montrant une opacification du poumon gauche, et un scanner cérébral a révélé de multiples lésions compatibles avec des métastases. Par conséquent, une corticothérapie a été débutée avec 4 mg de dexaméthasone toutes les 6 heures et une radiothérapie (RT) holocrânienne palliative a été réalisée entre le 09/05 et le 22/05/2017 avec une dose totale de 30 Gys.
+Vingt-quatre heures après la fin de la RT crânienne (23/05/2017), elle est allée en consultation pour débuter une chimiothérapie palliative (cisplatine-gemcitabine) avec une augmentation de l'asthénie et de la faiblesse, une détérioration clinique et l'apparition à nouveau d'hémoptysies. Un contrôle radiologique a donc été réalisé, qui a révélé, en plus de l'effondrement tumoral connu à gauche, deux infiltrats au niveau du poumon droit avec des bronchogrammes aériens compatibles avec une bronchopneumonie ou des zones de bronchoaspiration.
+
+Examen physique
+"Signes vitaux : température 36,8 ºC ; FC : 145 bpm ; PA 106/73 mm Hg ; saturation basale en O2 92 %. Mauvais état général, pâleur de la peau, bien perfusée, mais sécheresse cutanéo-muqueuse. Légère tachypnée en décubitus sans signe de travail respiratoire. Cachexie. GCS 13/15.
+"Tête et cou : muqueuses sèches avec muguet buccal. Carotides isopulsatiles, pas de souffle, pas d'ingurgitation jugulaire.
+"Poitrine : éruption acnéiforme dans la région thoracique antérieure (probablement secondaire aux corticoïdes).
+"Auscultation cardio-pulmonaire : arythmique, tachycarde, pas de souffle. Hypoventilation globale sans bruits respiratoires ajoutés.
+"Abdomen : mou, dépressible, non douloureux à la palpation. Bruits hydro-aériques présents, pas de signes d'irritation péritonéale.
+"Membre inférieur : pas d'œdème ni de signes de thrombose veineuse profonde, pas d'insuffisance veineuse chronique.
+
+Examens complémentaires
+1) Radiographie thoracique 23/05/2017 : en plus de l'affaissement déjà connu du lobe supérieur gauche d'origine tumorale, deux infiltrats étendus mais focaux avec des bronchogrammes aériens ont été observés dans le poumon droit, probablement compatibles avec une bronchopneumonie. Il pourrait s'agir de zones d'aspiration. Il est plus douteux qu'il s'agisse d'une hémorragie, car il s'agit de deux foyers très bien définis et les hémorragies sont généralement plus diffuses.
+2. Angio-TDM des artères pulmonaires : consolidations cavitaires multimodulaires confluentes dans les trois lobes droits et le lobe inférieur gauche, compatibles avec une pneumonie abcédée. Le bombement de la grande scissure a été décrit comme caractéristique d'une infection à Klebsiella, bien qu'en raison de la sémiologie décrite, les micro-organismes anaérobies, Pseudomonas ou Staphylococcus aureus doivent être inclus dans le diagnostic différentiel, sans pouvoir exclure les mycobactéries ou même les champignons (moins probables) par l'imagerie.
+CT scan crânien 22/04/2017 : multiples lésions intra-axiales supra et infratentorielles, au moins trois dans la région pariétale gauche avec un aspect kystique et un œdème environnant important avec un effet de masse qui comprime même le ventricule ipsilatéral sans hernie. Également au moins trois dans la fosse postérieure, hémisphères cérébelleux, sans signe d'hémorragie active.
+4. Anatomie pathologique au moment du diagnostic : cytologie de l'aspiration bronchique suspecte de malignité. Biopsie bronchoscopique avec muqueuse bronchique infiltrée présentant les caractéristiques d'un carcinome épidermoïde, avec étude immunohistochimique avec p63 positif et TTF-1 négatif.
+Microbiologie au moment du diagnostic : la flore saprophyte habituelle a été isolée.
+5. Examens de laboratoire à l'admission : leucocytes 12 880 mcl, neutrophiles 10 740 mcl, hémoglobine 15,6 g/dl, plaquettes 211 000 mcl, fonction rénale 211 000 mcl.
+La fonction rénale est normale, avec un potassium de 5,9 mmol/l et une CRP de 30 mg/dl, le reste ne présentant pas d'altérations significatives.
+
+Diagnostic
+Pneumonie cavitaire compatible avec une aspergillose pulmonaire massive chez un patient atteint d'un carcinome épidermoïde du poumon IV.
+
+Traitement
+Elle a débuté une antibiothérapie empirique à large spectre par pipéracilline-tazobactam avec une aggravation de l'état respiratoire et une tachycardie dans ce contexte, correspondant à un flutter auriculaire. Compte tenu de la désaturation, il a été nécessaire de débuter une perfusion de morphine pour contrôler les symptômes, et une angiographie CT a été réalisée (25/05/2017) qui a exclu une thromboembolie pulmonaire, mais a montré une cavitation pulmonaire dans pratiquement tout le lobe droit, ce qui pourrait correspondre à une infection par des bactéries atypiques, des anaérobies ou des mycobactéries. La clindamycine a donc été associée à la bêta-lactamine sans amélioration. Au cours de ce processus, des résultats d'expectoration ont été obtenus 24 heures plus tard avec Aspergillus fumigatus, de sorte que le voriconazole a été commencé.
+
+Evolution
+Cependant, la situation respiratoire est restée non stabilisée, associant une altération cardiologique avec la présence d'un flutter auriculaire, et la patiente est finalement décédée le 28/05/2017.

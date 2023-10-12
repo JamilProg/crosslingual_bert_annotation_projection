@@ -1,0 +1,35 @@
+Anamnèse
+ANTÉCÉDENTS ONCOLOGIQUES
+58 ans, fumeur jusqu'à l'âge de 30 ans, fumant 1 paquet par jour et totalement abstinent depuis, sans aucun antécédent intéressant.
+Diagnostiqué suite à un épisode d'apparition d'hémoptysie, en novembre 2016, d'un carcinome pulmonaire à petites cellules cT3 cN2 M0, stade IIIA. Il a débuté le traitement dans le cadre de l'essai clinique de phase II Stimuli, réalisant quatre cycles de CDDP-VP16 entre décembre 2016 et mars 2017 avec une radiothérapie (RT) locorégionale concomitante (33 séances jusqu'à une dose totale de 66 Gy) avec une bonne tolérance et sans incident, à l'exception d'une asthénie de grade I et d'une œsophagite de grade I, sans nécessiter de décalage de dose. Elle a également reçu un traitement prophylactique standard par RT holocrânienne.
+Elle a ensuite débuté la phase de consolidation avec 3 mg/kg d'ipilimumab en association avec 1 mg/kg de nivolumab toutes les 3 semaines pour les 4 premières doses, puis une maintenance avec 3 mg/kg de nivolumab toutes les 2 semaines.
+
+La patiente s'est présentée au jour +7 du deuxième cycle de nivolumab en association avec l'ipilimumab en raison d'un tableau clinique de 3 jours avec 6-7 selles liquides quotidiennes accompagnées de mucus et occasionnellement de sang. Elle souffrait de proctalgie et de selles nocturnes, avec une diminution significative de l'ingestion. Pas de nausées ni de vomissements. Pas de fièvre ni de sensation de dysthermie. Aucun autre symptôme par appareil ou système.
+
+Examen physique
+"État général moyen, déshydraté. Niveau de performance (PS) 0.
+"Auscultation cardio-pulmonaire : aucun signe pathologique.
+"Abdomen : mou et dépressible, sans masses ou mégalithes palpables. Douleur diffuse à la palpation, sans défense. Présence de bruits hydro-aériques.
+"Examen rectal : pas d'hémorroïdes externes, pas de fissure ; les doigts sont tachés de débris muqueux.
+
+Tests complémentaires
+"Biochimie à l'admission : urée 39 mg/dl, créatinine 1,46 mg/dl, sodium 132 mmol/l, potassium 3,3 mmol/l, protéine C-réactive (CRP) 116,7 mg/l.
+"Hémogramme à l'admission : pas d'altération. Pas d'anémie.
+"Calprotectine fécale : 1 359,53 mg/kg de fèces.
+"Culture des selles : pas de cellules inflammatoires ni de globules rouges à l'examen microscopique direct.
+"La culture à 48 heures a permis d'isoler la flore habituelle.
+"Coloscopie à l'admission : du rectum au cæcum, œdème diffus de la muqueuse avec érythème, lésions pétéchiales multiples, ulcérations superficielles et exsudat muqueux. L'atteinte est continue, circonférentielle et confère une friabilité marquée à la muqueuse sur toute la longueur du côlon, provoquant des hémorragies spontanées et des saignements au frottement. Diagnostic : colite hémorragique en activité sévère.
+"Pathologie : biopsie endoscopique de l'intestin grêle et du gros intestin : diagnostic : iléite lymphocytaire érosive. Colite sévèrement active.
+
+Diagnostic
+"Carcinome pulmonaire à petites cellules de stade IIIA cT3 cN2 M0.
+"Traitement d'entretien ipilimumab-nivolumab.
+"Colite immunorélée sévèrement active.
+
+Traitement
+Chez un patient présentant une diarrhée de grade 3 associée à une insuffisance rénale aiguë d'origine prérénale, une hypokaliémie et une détérioration clinique, l'admission a été décidée. Un traitement empirique a été mis en place avec de la méthylprednisolone intraveineuse à 1 mg/kg (80 mg au total) et une fluidothérapie.
+Après trois jours de diarrhée persistante de grade 2, un examen endoscopique a été réalisé, compatible avec une colite, et la dose de corticostéroïdes a été augmentée à 2 mg/kg (160 mg de méthylprednisolone IV) et un repos digestif absolu, ainsi qu'une nutrition parentérale ont été mis en place. Compte tenu de l'absence de réponse à des doses plus élevées de corticostéroïdes systémiques, nous avons considéré que l'entérocolite était réfractaire aux stéroïdes. Après confirmation de la négativité du QuantiFERON® et de la normalité de la sérologie du patient, l'infliximab 5 mg/kg (425 mg), responsable du blocage du récepteur du facteur de nécrose tumorale alpha, a été mis en place et, après amélioration, la dose de méthylprednisolone a été diminuée à 1 mg/kg.
+
+L'évolution
+L'évolution a été favorable avec une réponse clinique rapide et une diminution significative du nombre de selles dans les premières 48 heures. La nutrition entérale progressive et les médicaments ont été réintroduits sans incident. Compte tenu de la bonne évolution clinique, le suivi ambulatoire s'est poursuivi avec un contrôle clinique en consultation et une diminution progressive de la corticothérapie jusqu'à son arrêt sans récidive des symptômes cliniques.
+Le patient a interrompu le traitement de l'essai clinique et cela a été signalé comme un effet indésirable aux autorités de sécurité. Actuellement, il continue d'être suivi sans aucun signe de rechute de la maladie.

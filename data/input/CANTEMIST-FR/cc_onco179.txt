@@ -1,0 +1,53 @@
+Anamnèse
+Antécédents personnels : NAMC. Dyslipidémie sous traitement diététique, polype endométrial hyperplasique réséqué en janvier 2010. Pas d'habitudes toxiques. Pas de traitement à domicile.
+Antécédents gynéco-obstétricaux : nullipare. Ménarche à 13 ans. Ménopause à 49 ans.
+Pas de contraception hormonale.
+Antécédents familiaux : sans intérêt.
+Antécédents sociaux : originaire du Brésil, aux îles Canaries depuis 7 ans, elle vit seule bien qu'elle bénéficie d'un bon soutien social. Elle a travaillé comme enseignante.
+Antécédents oncologiques : femme de 66 ans, indice de Barthel 100, à qui l'on a diagnostiqué deux types de cancer du sein au cours de son histoire naturelle :
+"Carcinome mammaire indifférencié triple négatif avec primitif occulte sous forme de métastase cutanée dans la zone dorsale en septembre 2012 au Brésil. La lésion a été excisée, avec des résultats anatomopathologiques : infiltration dermique par un carcinome peu différencié avec des caractéristiques immunophénotypiques qui suggèrent avec une forte probabilité qu'il s'agit d'une métastase d'un carcinome du sein. Cytokératine 19 (CK19) : positive (+++). GCDFP-15 : positif (+++). Récepteur des œstrogènes (ER) : négatif. Récepteur de la progestérone (PR) : négatif. Ki-67 : < 10 %. Herceptest : négatif. Sur la base de ce résultat, des études complémentaires ont été réalisées au Brésil, mais aucune lésion n'a été trouvée dans le sein. Pour cette raison, elle n'a pas reçu de traitement de chimiothérapie ou de radiothérapie et il a été décidé de la suivre.
+" Carcinome lobulaire infiltrant (CLI) du sein droit en décembre 2012 aux îles Canaries. Suite au diagnostic observé au Brésil, une mammographie de contrôle a été réalisée en décembre 2012, où des microcalcifications regroupées dans le CSE du sein droit mesurant 1,5 cm ont été observées, avec une échographie mammaire suspecte de malignité de catégorie BIRADS 4 et une échographie axillaire sans résultat significatif. Une biopsie à l'aiguille a été réalisée et a donné les résultats suivants : carcinome lobulaire infiltrant, bien différencié (G1), avec une composante de carcinome lobulaire in situ. CK 19 : positif (+++). ER : 100%. PR : 100%. Ki-67 : < 10%. Herceptest : +1. L'étude d'extension a été complétée par les examens suivants :
+- Tomodensitométrie thoraco-abdominale (janvier/2013) : il existe une altération de la trabéculation osseuse du corps de D7 qui pourrait correspondre à un hémangiome. Pas d'autres particularités à noter.
+- Scintigraphie osseuse (GGO) (janvier 2013) : hyperenhancement focal localisé en D7-D8.
+Avec un diagnostic de CLI du sein droit stade clinique I (T1cN0M0), la patiente a décidé de retourner au Brésil pour être évaluée par l'équipe médicale qui l'avait précédemment diagnostiquée.
+
+En mars 2013, une tumorectomie droite a été réalisée avec biopsie sélective du ganglion sentinelle, avec le résultat suivant : CLI de 1,8 cm, grade 1. Deux ganglions sentinelles ont été isolés avec des macrométastases dans les deux cas et une extension au tissu adipeux. Les récepteurs hormonaux sont positifs et Herceptest négatif.
+Avec un diagnostic pathologique d'ILC du sein droit de stade IIA (pT1cpN1M0), elle a reçu un traitement de chimiothérapie adjuvante avec épirubicine 90 mg/m2 et cyclophosphamide 600 mg/m2 (EC) x 4 cycles, suivi de paclitaxel 100 mg/m2 x 8 cycles, qu'elle a terminé entre avril-octobre/2013, avec une bonne tolérance et sans incident.
+Elle a reçu son traitement adjuvant de radiothérapie et a commencé une hormonothérapie (HT) par exemestane en novembre 2013. En février 2014, elle est retournée aux Canaries et a poursuivi le suivi habituel. En juin 2014, une lésion surélevée et indurée a été palpée au niveau de la cicatrice dorsale, de sorte qu'une étude d'extension a été demandée en raison de la suspicion de rechute cutanée sur la cicatrice précédente.
+" Radiographie du thorax (juin 2014) : aucun résultat pathologique.
+" Échographie abdominale (juin 2014) : aucun signe de métastase.
+" GGO (juin 2014) : augmentation de l'activité au niveau D7-D8.
+" Imagerie par résonance magnétique (IRM) de la colonne vertébrale dorsale (juillet/2014) : altérations du signal dans la moelle osseuse du corps vertébral de D7, peut-être un foyer angiomateux, bien qu'une métastase ne puisse être exclue dans ce contexte.
+Avec la suspicion d'une rechute cutanée et d'une possible métastase osseuse versus hémangiome sur le corps vertébral de D7, il a été décidé d'abord de réséquer la peau et ensuite de faire une biopsie de la lésion sur D7.
+En août 2014, la résection chirurgicale de la lésion dorsale a été effectuée avec le résultat de l'anatomie pathologique : carcinome avec des caractéristiques histologiques similaires à la biopsie cutanée précédente en 2012, compatible avec un diagnostic de métastase de carcinome avec motif d'infiltration interstitielle.
+"ER : négatif.
+"RP : négatif.
+"Herceptest : douteux (+2). SISH : non amplifié.
+Il a reçu un traitement complémentaire de radiothérapie sur la lésion excisée. Suite à ce traitement, une biopsie chirurgicale du corps vertébral de D7 compatible avec un hémangiome a été réalisée en octobre 2014.
+Elle a poursuivi le suivi habituel jusqu'en janvier 2105 où elle a rapporté des symptômes de polyurie d'environ 6 litres/jour, de polydipsie de 4 litres/jour associés à un amaigrissement de 4 kg et une asthénie de grade 1 d'un mois d'évolution. L'examen neurologique n'a révélé aucun déficit ou altération.
+Devant la suspicion d'un diabète insipide, dû soit à un syndrome paranéoplasique, soit à une métastase centrale, elle a été admise pour investigation. Les examens complémentaires ont révélé ce qui suit :
+"Analyses. Marqueurs tumoraux : CEA 347 (0-5 ng/ml), Ca 15.3 143 (0-33 ng/ml). Biochimie : osmolalité 298 (280-295 mOsm/l), Na 150 (135-145 mEq/l), AST 98 (5-32 IU/l), ALT 120 (7-33 IU/l), GGT 426 (10-55 IU/l), FA 417 (30-110 IU/l), LDH 327 (100-250 IU/l). Urine : osmolalité 289 (300-1.200 mOsm/kg), Na 50 (40-220 mEq/l).
+"Tomodensitométrie thoraco-abdominale : multiples lésions mal définies, petites, hypodenses focales dans tout le parenchyme hépatique. Lésions lytiques et scléreuses affectant pratiquement tout le squelette, surtout au niveau axial.
+"Trucut hépatique : métastase d'un carcinome peu différencié.
+"ER : négatif.
+"RP : négatif.
+"GCPDF-15 : positif.
+"IRM de la selle turcique : la présence d'un petit nodule hypercapillaire subcentimétrique situé dans l'hypothalamus, immédiatement derrière le chiasma optique, au point d'insertion de la tige pituitaire, est frappante.
+Une fois que la suspicion de diabète insipide a été confirmée, un traitement par DDVAP est instauré, ce qui permet de contrôler les symptômes.
+
+Examen physique
+.
+
+Tests complémentaires
+.
+Diagnostic
+Jugement clinique : carcinome du sein, peu différencié, stade IV en raison des lésions cutanées depuis septembre 2012 d'un carcinome du sein primaire triple négatif occulte évoluant avec de multiples métastases hépatiques et osseuses.
+Carcinome lobulaire infiltrant de stade IIA diagnostiqué en décembre 2012.
+Diabète insipide secondaire à des métastases d'un carcinome mammaire.
+Après avoir informé la patiente des nouveaux diagnostics, elle a décidé, avant tout traitement de chimiothérapie ou de radiothérapie, de retourner au Brésil pour consulter à nouveau l'équipe médicale qui avait suivi son dossier.
+
+Traitement
+.
+
+Développements
+.

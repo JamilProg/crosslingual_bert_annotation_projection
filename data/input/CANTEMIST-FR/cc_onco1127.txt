@@ -1,0 +1,51 @@
+Anamnèse
+Fumeur de 30 paquets/an. Ancien gros buveur.
+Orchidopexie droite pour cryptorchidie à l'âge de 18 ans.
+Ouvrier du bâtiment.
+Problème social, vit seul, sans emploi.
+Pas de traitement habituel.
+Un homme de 45 ans s'est présenté aux urgences le 29 août 2012 pour une dyspnée d'une durée de 3 jours, qui avait progressivement augmenté jusqu'à devenir reposante. Il était également accompagné d'un œdème du visage et des bras avec cyanose centrale. Il n'y a pas de toux, de fièvre ou de douleur thoracique. Il signale une masse indolore dans le testicule droit, qui augmente progressivement depuis un an. Perte de poids de 12 kg au cours du dernier mois.
+
+Examen physique
+Apyrétique. Saturation en O2 de 94 %. TA 1.
+Ingurgitation jugulaire à 45º. Pas d'adénopathie cervicale.
+Tachypnée, cyanose centrale, œdème facial.
+Auscultation cardiaque : rythmée sans souffle ni frottement.
+Auscultation pulmonaire : souffle vésiculaire conservé avec respiration sifflante à l'apex droit.
+Abdomen : sans particularité, avec réflexe hépatojugulaire présent.
+Masse scrotale droite d'environ 15 cm de diamètre, indolore au toucher, non réductible.
+Membres inférieurs : pas d'œdème, pas de signes de TVP, pouls symétriques.
+Membres supérieurs : œdème des deux membres supérieurs.
+
+Examens complémentaires
+- Radiographie du thorax (29/8/2012) : masse de 7 cm dans le médiastin supérieur s'étendant au hile pulmonaire droit. Sinus costophréniques libres. Indice cardiothoracique < 0,5.
+- Analyses sanguines (30/8/2012) : LDH 3 679 UI/l, ?-HCG 13 mUI/ml, alpha-fœtoprotéine 1,93 ng/ml.
+- Tomodensitométrie thoraco-abdominale-pelvienne avec contraste (30/8/2012) : grosse tumeur occupant le canal inguinoscrotal droit mesurant 13 x 12,7 cm par rapport à la tumeur primaire. Importante masse médiastinale mesurant 7 x 7,6 cm, déplaçant la veine cave supérieure (une infiltration vasculaire ne peut être exclue). La masse s'étend jusqu'au hile pulmonaire droit.
+Thrombus dans la veine cave supérieure. Nodules pulmonaires bilatéraux, le plus grand dans le DSL, sous-pleural, mesurant 4,6 x 4 cm. L'hémothorax droit présentait des zones réticulaires interstitielles. Dans l'espace rétropéritonéal supérieur, il y a une grosse masse mesurant 7,5 x 8 cm. De petits ganglions lymphatiques dans l'espace para-aortique rétropéritonéal gauche, la chaîne iliaque commune droite et le plus grand à côté de la veine fémorale commune droite mesurant environ 2 cm. D'autres ganglions lymphatiques pathologiques inguinaux droits sont visibles.
+- Echographie testiculaire (31/8/2012) : testicule gauche de taille, échogénicité et vascularisation conservées, très déplacé crânialement et latéralement par une masse qui occupe tout le scrotum droit, par rapport à la tumeur testiculaire primitive mesurant environ 15 x 13 x 12 cm, solide, vascularisée, avec des zones d'échogénicité plus ou moins importante par rapport à la tumeur testiculaire. Au niveau de la région inguinale, on visualise deux formations ovoïdes hypoéchogènes vascularisées de 2,8 cm et 1,6 cm en rapport avec des masses adénopathiques.
+- Fibrobronchoscopie (31/8/2012) : infiltration dans le tiers inférieur de la trachée, bronche principale droite, intermédiaire et moyenne. Les échantillons ont été envoyés au service de pathologie et se sont révélés négatifs pour la malignité.
+- Biopsie du testicule droit (13/9/2012) : données morphologiques et immunohistochimiques compatibles avec un séminome testiculaire largement nécrosé. Immunophénotypage : phosphatase alcaline placentaire, C KIT (CD117) : positif. Vimentine : positif focal. Kératine, EMA, CD 30 et p63 : négatifs.
+
+Diagnostic
+- Syndrome de compression de la veine cave supérieure (30/8/2012).
+- Thrombose de la veine cave supérieure et thromboembolie pulmonaire gauche (30/8/2012).
+- Séminome testiculaire droit cT3-4N3M1a (ganglionnaire et pulmonaire) stade S3 UICC IIIC, risque intermédiaire selon la classification IGCCCG, par biopsie testiculaire droite (13/9/2012).
+
+Traitement
+Le syndrome de la veine cave supérieure (SVCS) et la thromboembolie pulmonaire (PTE) étant deux urgences médicales cliniquement pertinentes, ces processus ont été traités en premier lieu par des mesures de soutien et des traitements spécifiques tels que l'anticoagulation, qui est la base du traitement dans les cas de PTE et de thrombose de la veine cave. Pour la prise en charge de la SVCS, des mesures générales ont été appliquées en plus de la radiothérapie, avec une bonne réponse au traitement :
+- Anticoagulation à partir du 31/8/2012 pendant 6 mois.
+- Radiothérapie externe sur le médiastin supérieur, y compris la masse pulmonaire parahilaire droite, en utilisant deux champs antéro-postérieurs avec collimation multi-lames, administrant une dose de 30 Gy (31/8/2012-13/9/2012).
+Au cours de ce processus, les tests déjà décrits pour l'étude de la tumeur primaire ont été effectués en parallèle. Une fois la nature du processus tumoral diagnostiquée, la patiente a été adressée au service ambulatoire d'oncologie médicale et a commencé un traitement de chimiothérapie :
+- Chimiothérapie par étoposide : 100 mg/m2 + cisplatine 20 mg/m2 (EP) tous les 21 jours pendant quatre cycles.
+(25/9/2012-26/11/2012).
+
+Évolution
+Après 4 cycles de chimiothérapie avec PD, la patiente a été réévaluée en décembre 2012, présentant une réponse biochimique complète (B-HCG après le premier cycle et réponse partielle de LDH 676) avec une réponse radiologique partielle :
+- Masse médiastinale 3,8 x 2,4 cm (SUVmax 2,6).
+- Masse testiculaire droite 12,9 x 12 cm (SUVmax. 10,3).
+- Poumon : LSD 2,3 cm (SUVmax. 2,7). LSD sous-pleural 0,51 cm (amétabolique). LID 1,3 cm (amétabolique).
+- Épanchement pleural droit (amétabolique).
+- Nodule inguinal droit de 1 cm (SUVmax. 2,6).
+- Pas de captation au niveau rétropéritonéal.
+En janvier 2013, orchidectomie droite par voie inguinale (ypT4) suivie d'une radiothérapie externe pelvienne (iliaque, inguinofémorale, inguinale bilatérale, testiculaire, scrotum et cicatrice, jusqu'à 30,4 Gy), qui s'est terminée en avril 2013. Lors du suivi en juin, une réponse biochimique complète a été observée, avec des marqueurs tumoraux normaux, et la tomodensitométrie a montré une progression pulmonaire et rétropéritonéale. Au vu de ces résultats, il a été décidé d'entamer une chimiothérapie de sauvetage avec paclitaxel 250 mg/m2 + ifosfamide 1 500 mg/m2 + cisplatine 25 mg/m2 pendant 4 cycles. Après 3 cycles de chimiothérapie, un scanner de contrôle a été réalisé, qui a montré une réponse partielle des ganglions lymphatiques pulmonaires et rétropéritonéaux. Une fois le traitement terminé, lors de la visite de suivi en novembre 2013, le patient a montré une réponse métabolique complète et le scanner PET-CT a montré une masse médiastinale amétabolique de 1,8 x 1,6 cm et des lésions pulmonaires dans le LSD de 1,1 cm (SUVmax. 1,5), LSD supleural < 1 cm et dans le LID de 1,8 x 1,6 cm, tous amétaboliques.
+Il n'y a actuellement aucun signe de récidive, la maladie étant stable avec des lésions résiduelles de la même taille ou même plus petites.

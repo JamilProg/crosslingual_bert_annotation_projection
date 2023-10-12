@@ -1,0 +1,59 @@
+Anamnèse
+"Femme de 46 ans.
+"Aucune réaction allergique médicamenteuse connue.
+"Nie toute habitude toxique.
+"Antécédents familiaux : cancer du sein chez la mère à l'âge de 68 ans, actuellement en cours de suivi.
+Antécédents personnels :
+"Formule obstétrique : G2P2A0.
+"Amygdalectomie dans l'enfance.
+"Traitement habituel : contraceptifs oraux.
+ANTÉCÉDENTS ONCOLOGIQUES :
+Adressée en août 2015 par la gynécologie en raison de la découverte au scanner d'une lésion pelvienne avec atteinte péritonéale et d'une biopsie compatible avec un adénocarcinome. Après confirmation de l'absence de maladie métastatique, elle a été classée T3cN1M0 (stade IIIC de la FIGO). Elle a commencé un traitement néoadjuvant par carboplatine-paclitaxel jusqu'au 30 novembre 2015 (5 cycles). Le 12 janvier 2016, elle a été opérée d'une hystérectomie totale, d'une annexectomie bilatérale avec dissection et exérèse du péritoine supravésical, d'une omentectomie infra- et supracolique, d'une appendicectomie et d'une lymphadénectomie bilatérale para-aortique et pelvienne. Après l'intervention chirurgicale, le stade a été déterminé comme ypT3cN1M0 avec une infiltration massive de l'épiploon et des deux paramètres par un adénocarcinome séreux de haut grade. Au scanner d'avril 2016, après un intervalle sans progression (PFI) de 5 mois, une progression de la maladie a été observée dans le bassin et le foie, ainsi qu'une augmentation de l'ascite dans tous les compartiments avec un Ca 125 élevé. Elle a commencé un traitement pour une maladie résistante au platine avec de la doxorubicine liposomale pégylée (PLD) en mai 2016. Après deux cycles, elle a été testée positive pour le statut mutationnel BRCA1, de sorte que le carboplatine a été ajouté en juin 2016.
+
+Examen physique
+"Bon état général. Conscient, orienté et coopératif. Eupnéique au repos et à la parole. Bien perfusé et hydraté. Hémodynamiquement stable.
+"Poids : 57 kg. Taille : 154 cm. Statut de performance (PS) : 1.
+"Auscultation cardio-pulmonaire sans résultat. Pas de ganglions lymphatiques périphériques palpables. Abdomen avec ascite non tendue, molle et dépressible, avec gêne diffuse à la palpation, sans signes d'irritation péritonéale. Membres inférieurs sans œdème.
+
+Tests complémentaires
+Pendant le diagnostic :
+"Toucher bimanuel : col mobile, non douloureux. Utérus mobile, non augmenté de volume. Zone annexielle droite occupée.
+"Échographie transvaginale : utérus normal. Masse polylobée hétérogène et liquide libre abondant au Douglas.
+"Scanner du thorax, de l'abdomen et du bassin : thorax : épanchement pleural gauche important. Abdomen et bassin : quantité modérée de liquide autour du foie et, dans le bassin, infiltration généralisée du péritoine et du mésos, avec d'innombrables nodules solides coalescents, particulièrement importants au niveau supravésical, sous forme d'un conglomérat aux bords polylobulés d'un diamètre maximal de 10 cm. Nombreux implants omentaux de type Omental Cake, mettant en évidence une tumeur pelvienne solide qui pourrait émerger de l'ovaire droit et, par conséquent, compatible avec un néoplasme ovarien.
+"Marqueur tumoral Ca 125 : 4381,3 U/ml.
+Après traitement néoadjuvant :
+"Tomodensitométrie thoracique : l'épanchement pleural gauche est résolu. Aucun autre résultat.
+"Tomodensitométrie abdominale et pelvienne : l'ascite libre est pratiquement résolue, seule une quantité minime subsiste dans le bassin. Presque tous les implants péritonéaux ont disparu. Une localisation lobulée de liquide péritonéal mesurant 4 cm verticalement avec un discret épaississement du péritoine subsiste dans la gouttière paracolique. Aucune masse annexielle n'est observée.
+"Marqueur tumoral Ca125 : 82 U/ml.
+"Résultats pathologiques à la chirurgie : Utérus et annexes : adénocarcinome papillaire séreux ovarien bilatéral de haut grade. Cervicite chronique. Endomètre atrophié. Infiltration des deux paramètres par un adénocarcinome séreux de haut grade. Le néoplasme est très pléomorphe et présente un taux élevé de mitoses atypiques.
+"Ganglions lymphatiques para-aortiques (6) : lymphadénopathie réactive.
+"Ganglions lymphatiques iliaques droits et gauches (5 + 4) : lymphadénopathie réactive.
+"Péritoine : infiltration par un adénocarcinome séreux de haut grade avec des zones étendues de nécrose et d'hémorragie.
+"Appendice cæcal : aucune altération.
+"Omentum : infiltration massive par un adénocarcinome séreux de haut grade.
+Au cours du suivi :
+"Tomodensitométrie de l'abdomen et du bassin (25/04/2016) : multiples implants péritonéaux sous-diaphragmatiques s'imprimant sur la surface hépatique. Lésion hypodense de 5,5 cm dans le segment VIII hépatique. Ascite du côté droit et deux lésions kystiques de 7 et 8 cm à prédominance septale dans le bassin comprimant le côlon sigmoïde et suggérant une récurrence de son processus ovarien néoplasique antérieur. Par conséquent, les résultats suggèrent une progression.
+"Marqueur tumoral Ca 125 : 2539,2 U/ml.
+"Mutation BRCA-1 (11/07/2016) : positive.
+
+Diagnostic
+"Carcinome ovarien séreux de haut grade de stade IIIC.
+"La patiente est porteuse de la mutation BRCA-1.
+
+Traitement
+"Chimiothérapie néoadjuvante avec carboplatine AUC-5 (dose totale 520 mg) + paclitaxel (dose 175 mg/m2 ; dose totale 270 mg) trois fois par semaine x 5 cycles.
+"Chimiothérapie après rechute avec ILP 5 mois : DLP 76 mg tous les 28 jours.
+"Après un résultat mutationnel BRCA-1 positif, le carboplatine AUC-2 est ajouté (jours 1 et 15 de chaque 28) (dose totale 208 mg).
+
+Évolution
+En août 2016, un scanner de réévaluation a été réalisé, qui a montré une réponse favorable de l'atteinte péritonéale et une stabilité du reste des lésions, qui s'est maintenue à ce jour.
+Evolution du Ca 125 après récidive :
+ 19/04/2016 : 2539,2 U/ml.
+ 16/05/2016 : 3417.2 U/ml.
+ 07/07/2016 : 1248.6 U/ml.
+ 22/08/2016 : 187.6 U/ml.
+ 23/11/2016 : 129 U/ml.
+ 08/02/2017 : 83,7 U/ml.
+La patiente a reçu un total de 8 cycles de carboplatine + DLP, conservant un excellent état général et un PS 0 (aucun symptôme de la maladie). Le seul effet secondaire notable a été une plaquettopénie de grade II, qui a conduit à retarder le traitement de deux cycles et à réduire de 20 % la dose de carboplatine lors des deux derniers cycles, qui se sont terminés le 14/03/2017.
+L'olaparib a été demandé par la Commission Permanente de Pharmacie en traitement d'entretien, à partir du 28/04/2017 à la dose de 400 mg toutes les 12 heures, qu'elle maintient actuellement avec une excellente tolérance, sans effets secondaires et menant une vie normale.
+La patiente est suivie par la Cellule de Conseil Génétique, ainsi que sa fille et sa sœur, également porteuses de la mutation.

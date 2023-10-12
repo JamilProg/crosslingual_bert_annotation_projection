@@ -1,0 +1,16 @@
+T1	pathologie 203 214	traumatismo
+T2	pathologie 254 260	lesión
+T3	pathologie 428 483	lesión malar expansiva, polilobulada, con calcificación
+T4	pathologie 569 583	lesión medular
+T5	pathologie 751 775	lesión osteolítica malar
+T6	pathologie 973 988	lesión vascular
+T7	pathologie 1724 1744	hemangioma intraóseo
+T8	pathologie 1908 1937	malformación venosa intraósea
+#1	SNOMED T6	699605009
+#2	SNOMED T8	764100007
+#3	SNOMED T4	146251000146109
+#4	SNOMED T7	685021000119103
+#5	SNOMED T1	417746004
+#6	SNOMED T2	417163006
+#7	SNOMED T3	126546006
+#8	SNOMED T5	128227001

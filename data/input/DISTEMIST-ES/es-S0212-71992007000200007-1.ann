@@ -1,0 +1,22 @@
+T1	pathologie 91 103	pancitopenia
+T2	pathologie 139 152	LNH di tipo B
+T3	pathologie 447 469	enfermedad linfomatosa
+T4	pathologie 517 531	mielodisplasia
+T5	pathologie 558 581	infiltración neoplásica
+T6	pathologie 688 702	esplenomegalia
+T7	pathologie 921 933	pancitopenia
+T8	pathologie 1063 1071	lesiones
+T9	pathologie 1100 1120	ipertensión cerebral
+T10	pathologie 1762 1781	metaplasia mieloide
+T11	pathologie 2258 2271	coma cerebral
+#1	SNOMED T1	127034005
+#2	SNOMED T2	109979007
+#3	SNOMED T3	414628006
+#4	SNOMED T4	109995007
+#5	SNOMED T7	127034005
+#6	SNOMED T9	50490005
+#7	SNOMED T10	443230004
+#8	SNOMED T11	371632003
+#9	SNOMED T5	128462008
+#10	SNOMED T6	16294009
+#11	SNOMED T8	157670007

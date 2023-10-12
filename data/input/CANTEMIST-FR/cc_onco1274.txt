@@ -1,0 +1,20 @@
+Anamnèse
+Femme de 45 ans sans allergie médicamenteuse connue, diagnostiquée en 2005 en Roumanie avec un carcinome canalaire infiltrant du sein gauche pour lequel elle a subi une mastectomie radicale modifiée gauche avec un résultat anatomopathologique de cacinome canalaire infiltrant pT2pN1 (2/10 ganglions lymphatiques touchés) M0, et montrant une positivité pour les récepteurs des œstrogènes et de la progestérone dans l'étude immunohistochimique, sans étude de Her2. Elle a ensuite subi une radiothérapie de 50 Gy dans le lit tumoral et une chimiothérapie à base d'anthracycline (FEC x 6 cycles). Par la suite, elle a reçu une hormonothérapie à base de tamoxifène et d'analogues mensuels de la LH-RH (Goséréline).
+Elle a consulté en 2008 pour une grosse tumeur de la paroi thoracique antérieure gauche d'aspect évolutif.
+
+Examen physique
+Bon état général. Conscient et orienté. Auscultation cardio-pulmonaire et examen abdominal sans particularité. Absence d'œdème et de signes de TVP. Pas d'adénopathie palpable.
+Il existe une tumeur voluptueuse, palpable dans la région supramammaire gauche, de la zone supraclaviculaire gauche au creux axillaire gauche, non douloureuse, sans signe d'inflammation.
+
+Examens complémentaires
+Tomodensitométrie thoracique : grande formation lobulée solide et hétérogène dans la région du sein gauche, infiltrant la paroi thoracique et la paroi pleurale et mesurant 12,5 x 8 cm de diamètre. BAG : infiltration par un carcinome compatible avec un carcinome mammaire primaire. Récepteurs d'œstrogènes et de progestérone négatifs et surexpression de HER2 +++.
+
+Diagnostic
+Rechute d'un carcinome canalaire infiltrant à récepteurs d'œstrogènes et de progestérone négatifs et HER2 positifs.
+
+Traitement
+Le traitement par docétaxel + trastuzumab a été instauré toutes les trois semaines (11 cycles). Au 6ème cycle, une diminution de la lésion tumorale thoracique a été observée, mais la TEP a montré une infiltration des 1ère et 2ème côtes. Une RT externe a été réalisée sur la tumeur (40 Gy) et sur les 1ère et 2ème côtes avec une réponse partielle. Après un mois, le docétaxel a été arrêté et le trastuzumab a été poursuivi trois fois par semaine, avec l'ajout ultérieur de létrozole car il s'agissait d'une femme ménopausée avec une RH positive dans la tumeur d'origine.
+
+Évolution
+Après un an de survie sans progression (SSP), on a constaté une légère augmentation de la lésion avec une augmentation de l'altération de l'os costal. On a donc commencé à administrer de la vinorelbine tout en maintenant le trastuzumab, ce qui a donné une bonne réponse initiale.
+Après 6 mois de SSP, la masse tumorale est restée stable, mais l'atteinte costale a augmenté, de sorte qu'un nouveau traitement a été instauré avec capécitabine (1 000 mg/m2/12 h jours 1-14 tous les 21 jours) + lapatinib (1 250 mg/jour), avec une excellente tolérance et une réponse complète par tomodensitométrie après 4 mois. Après 17 mois de SSP, une nouvelle progression tumorale est apparue et un double blocage avec lapatinib (1 000 mg/jour) + trastuzumab (6 mg/kg trois fois par semaine) a été initié avec une SSP de 20 mois. Actuellement, une progression costale a été détectée et une nouvelle ligne de traitement est envisagée.

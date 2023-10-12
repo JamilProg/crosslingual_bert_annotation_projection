@@ -1,0 +1,23 @@
+T1	pathologie 89 111	síndrome postflebítico
+T2	pathologie 234 246	sepsis grave
+T3	pathologie 285 288	HTA
+T4	pathologie 290 298	obesidad
+T5	pathologie 300 308	artrosis
+T6	pathologie 324 348	adenoma tubular de colón
+T7	pathologie 404 475	colecistitis litiásica con importante plastrón inflamatorio subhepático
+T8	pathologie 554 564	TVP de EII
+T9	pathologie 569 572	TEP
+T10	pathologie 585 606	fibrilación auricular
+T11	pathologie 847 867	hipotensión arterial
+T12	pathologie 1152 1161	trombosis
+T13	pathologie 1390 1413	sepsis de origen biliar
+T14	pathologie 1692 1700	abscesos
+T15	pathologie 1779 1818	endocarditis a nivel subvalvular mitral
+T16	pathologie 1955 1970	lesión hepática
+T17	pathologie 1992 2016	dilatación de via biliar
+T18	pathologie 2141 2145	SDMO
+T19	pathologie 2236 2267	colangiocarcinoma multicéntrico
+T20	pathologie 2310 2377	extensión local al lecho vesicular y a vías biliares extrahepáticas
+T21	pathologie 2379 2441	metástasis regionales a ganglios linfáticos del hilio hepático
+T22	pathologie 2569 2608	sobreinfección por Enterobacter cloacae
+T23	pathologie 2713 2727	cuadro séptico

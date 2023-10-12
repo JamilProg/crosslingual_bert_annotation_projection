@@ -1,0 +1,47 @@
+Anamnèse
+Femme de 55 ans, pas d'allergies médicamenteuses connues ni d'habitudes toxiques. Profession : administrative.
+"Antécédents familiaux de cancer : un frère est décédé d'un carcinome pulmonaire et un cousin s'est vu diagnostiquer un carcinome du côlon.
+"Antécédents personnels : goitre multinodulaire, dyslipidémie, carcinome canalaire infiltrant du sein à l'âge de 30 ans (1992). Elle a subi une mastectomie bilatérale avec reconstruction et a reçu une chimiothérapie et une radiothérapie adjuvante. Elle a subi une appendicectomie.
+En juin 2009, elle a consulté pour des douleurs et une distension abdominale.
+
+Examen physique
+"Conscient et orienté, coloration et hydratation normales, bon état général.
+"Auscultation cardio-pulmonaire : tonalités cardiaques rythmiques sans souffle audible, souffle vésiculaire préservé sans bruits pathologiques additionnels.
+"Abdomen : distension abdominale et sémiologie de l'ascite.
+"Membres inférieurs : pas d'œdème ni de signes de thrombose veineuse profonde.
+
+Examens complémentaires
+"CT thoracique, abdominal et pelvien : épanchement pleural droit, nodules parenchymateux pulmonaires bilatéraux (18 dans l'hémithorax droit et 12 dans l'hémithorax gauche). Liquide péritonéal abondant. Implants péritonéaux. Masses annexielles bilatérales à composante mixte avec prédominance kystique et rehaussement de contraste. Nodules irréguliers sur la surface convexe et antérieure de l'utérus.
+"Biopsie d'un nodule dans la voûte vaginale : carcinome peu différencié et ulcéré d'origine ovarienne. Etude IHC : R. Oestrogène (-) R. Progestérone (-). p53 : positif 100% des cellules intensité : 3+/3+. Ki67 : élevé (supérieur à 80 %). HercepTest® : négatif.
+"Marqueurs tumoraux : Ca 125 : 305.
+"Une étude génétique BRCA a été demandée, détectant la mutation pathogène 3600del11 (E1161fsX1163) dans l'exon 11 de BRCA-1.
+
+Diagnostic
+Carcinome ovarien indifférencié de stade IV, porteur de la mutation pathogène BRCA-1.
+
+Traitement
+"La patiente a reçu une chimiothérapie d'induction par carboplatine AUC 6 + TAXOL 17 5mg/m2 pendant 6 cycles de juin à octobre 2009, avec une bonne tolérance.
+"Évaluation de la réponse par tomodensitométrie : les masses annexielles bilatérales persistent sans signe de maladie à distance.
+"En novembre 2009, une chirurgie a été réalisée par laparotomie exploratrice, avec hystérectomie totale, annexectomie bilatérale, omentectomie et appendicectomie.
+"L'anatomie pathologique n'a révélé aucun signe de maladie néoplasique, et les masses annexielles, décrites dans le scanner, correspondaient à du tissu nécrotique.
+"Elle a reçu trois cycles supplémentaires de chimiothérapie adjuvante selon le même schéma, terminant le dernier cycle en janvier 2010.
+
+Évolution
+1ère récidive
+En août 2010, un examen gynécologique a révélé un nodule dans la voûte vaginale, qui a été biopsié et s'est avéré être un carcinome indifférencié, avec un haut degré de malignité, suggérant une métastase d'un carcinome ovarien. Le scanner PET-CT a montré une augmentation de la captation dans la voûte vaginale.
+Elle a reçu un nouveau traitement de chimiothérapie, 3 cycles de carboplatine AUC 6 + taxol 175 + bevacizumab 7.5, se terminant en octobre 2010, avec une bonne tolérance et l'obtention d'une réponse complète à la maladie, pour laquelle elle continue à être suivie.
+2ème rechute
+En novembre 2011, une récidive ganglionnaire inguinale bilatérale a été observée au scanner, confirmée anatomopathologiquement.
+Il a reçu 6 cycles de chimiothérapie avec un schéma de carboplatine AUC 6 + gemcitabine 1 000 mg/m2, le dernier en mai 2012. Une réduction de dose a été nécessaire en raison de la toxicité hématologique (anémie G3 et thrombopénie G1).
+Il a de nouveau présenté une réponse complète par PET-CT après 3 cycles.
+Le traitement a été consolidé par une radiothérapie de la masse vaginale, des chaînes inguinales et du vagin.
+3ème récidive
+En juin 2014, une masse tumorale pelvienne paramédiane droite avec une composante kystique a été détectée par PET-CT, SUVmax : 12,9.
+En octobre 2014, la lésion a été sauvée chirurgicalement et la lésion suspecte dans le foie a été excisée. L'anatomie pathologique a confirmé la récidive d'un carcinome séreux de haut grade de l'ovaire.
+Elle a commencé une chimiothérapie adjuvante avec du carboplatine AUC 5 et de l'adriamycine liposomale 30 mg/m2 pendant 4 cycles, se terminant en février 2015 et obtenant une réponse complète.
+En avril 2015, elle a commencé un traitement d'entretien par olaparib, dans le cadre du programme d'accès élargi avant la commercialisation, à une dose quotidienne totale de 800 mg, qu'elle a maintenue à ce jour.
+Les toxicités du traitement comprennent une diminution de l'appétit, une diarrhée G1, une anémie G1 et une lymphopénie persistante (400-500 lymphocytes/mm3), qui ont toutes été gérées de manière symptomatique, en maintenant des doses complètes de traitement.
+Elle poursuit un suivi clinique et analytique tous les 2 mois et un suivi par TEP-CT, en maintenant une rémission métabolique complète (dernière réalisation en novembre 2017).
+En résumé, il s'agit d'une patiente qui a débuté avec un carcinome ovarien à un stade avancé, dans lequel une variante pathogène du gène BRCA-1 a été détectée, et qui a présenté 3 récidives de la maladie (sensible au platine).
+Après la troisième récidive, elle a obtenu une réponse complète et a commencé un traitement d'entretien à l'olaparib, qu'elle suit actuellement.
+A ce jour, elle a une survie globale de 105 mois et une survie sans progression de 38 mois depuis la dernière dose de platine.

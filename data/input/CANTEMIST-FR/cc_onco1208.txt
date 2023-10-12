@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 76 ans diagnostiqué en août 2013 avec un adénocarcinome pulmonaire non muté EGFR, T3N2M0, stade IIIA. Il a débuté un traitement de chimiothérapie par carboplatine/pemetrexed. Après la première dose, elle a été admise avec une histoire de 8 semaines de fièvre matinale et nocturne, d'asthénie, d'hyporexie et de myalgies, symptômes déjà présents au moment du diagnostic oncologique. Elle a reçu un traitement antibiotique empirique pour des ITG, sans disparition de la fièvre ni amélioration des symptômes. Pas de dyspnée, de douleur thoracique ou de troubles urinaires. Lors de l'examen des systèmes, il n'a signalé qu'une faible toux et une expectoration occasionnelle. Il n'a pas voyagé dans des zones à risque pour les maladies tropicales et n'a signalé aucun contact avec des animaux, à l'exception d'un chien vacciné à la maison et de poulets dont il s'occupe.
+
+Examen physique
+ECOG 1, normotendu. FC 78 bpm, RR 18 rpm, température 37,9 ºC.
+Hydratée, bouche sans lésions. Pas de masse cervicale. CA avec souffle systolique de grade I au foyer mitral et à l'apex. PA sans crépitants ni rhonchi. Abdomen non douloureux, pas de masses. Peau sans lésion.
+Pas de focalité neurologique ni de signes méningés.
+
+Examens complémentaires
+- Radiographie pulmonaire : masse pulmonaire dans le LSD. Pas de consolidation.
+- Échographie abdominale : pas de résultats échographiques significatifs.
+- ETT : valve aortique trivalve, dépendante du feuillet non coronaire, une image mobile de 6 x 3 mm est visualisée, ouverture normale.
+- ETO : valve aortique trivalve sans atteinte structurelle de base significative, avec une masse dépendant du feuillet coronaire gauche sans répercussion sur la fonction valvulaire.
+
+Diagnostic
+Compte tenu de l'atteinte endocardique, un diagnostic différentiel doit être posé entre l'endocardite bactérienne (EB) et l'endocardite thrombotique non bactérienne (ETNB). L'antibiothérapie empirique a été interrompue et après 48 heures, une HC en série a été débutée pendant 3 jours, qui s'est révélée négative. Sérologie pour les bactéries atypiques : anti-Legionella pneumophila total, IgG phase II anti-Coxiella burnetii, IgM anti-Chlamydia pneumoniae, IgM anti-Bartonella henselae, IgG anti-Brucella spp, IgM anti-Brucella spp : négatif.
+
+Traitement
+Le patient a été traité avec 500 mg de naproxène toutes les 12 heures, la fièvre a disparu, l'anticoagulation avec HBPM et la deuxième dose de carboplatine/Pemetrexed ont été administrées. La thérapie antibiotique n'a pas été reprise.
+
+Évolution
+La patiente est sortie de l'hôpital et a poursuivi son traitement par chimiothérapie, avec une bonne tolérance. Après six cycles, un scanner PET-CT a été réalisé, qui a montré une réponse métabolique partielle. Il a été adressé à l'hôpital Puerta de Hierro, où une lobectomie supérieure droite et une segmentectomie ont été réalisées pour un adénocarcinome pulmonaire de 8,8 cm avec infiltration de la plèvre, en obtenant des marges chirurgicales libres, sans atteinte des ganglions lymphatiques. pT3N0.
+Les échocardiogrammes de contrôle après traitement adjuvant et chirurgical ont montré la disparition de la lésion végétante de la valve aortique.

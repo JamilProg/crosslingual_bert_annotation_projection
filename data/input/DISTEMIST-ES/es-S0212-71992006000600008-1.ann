@@ -1,0 +1,26 @@
+T1	pathologie 80 94	asma bronquial
+T2	pathologie 231 293	hiperreactividad bronquial secundaria a infección respiratoria
+T3	pathologie 271 293	infección respiratoria
+T4	pathologie 632 654	insuficiencia cardiaca
+T5	pathologie 738 764	hiperreactividad bronquial
+T6	pathologie 810 816	anemia
+T7	pathologie 981 994	cardiomegalia
+T8	pathologie 1066 1092	hiperreactividad bronquial
+T9	pathologie 1094 1120	angina de esfuerzo estable
+T10	pathologie 1123 1145	insuficiencia cardiaca
+T11	pathologie 1344 1360	estenosis mitral
+T12	pathologie 1440 1459	lesiones coronarias
+T13	pathologie 1513 1529	mixoma auricular
+#1	SNOMED T1	195967001
+#2	SNOMED T2	782520007
+#3	SNOMED T3	275498002
+#4	SNOMED T4	84114007
+#5	SNOMED T5	195967001
+#6	SNOMED T8	195967001
+#7	SNOMED T9	300995000
+#8	SNOMED T10	84114007
+#9	SNOMED T11	79619009
+#10	SNOMED T13	233854003
+#11	SNOMED T6	271737000
+#12	SNOMED T7	8186001
+#13	SNOMED T12	53741008

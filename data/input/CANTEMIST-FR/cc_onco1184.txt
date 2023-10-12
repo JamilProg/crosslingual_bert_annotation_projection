@@ -1,0 +1,34 @@
+Anamnèse
+Homme de 55 ans, ex-fumeur de 20 cigarettes par jour, sans autre antécédent intéressant, consulte en juillet 2013 pour une dysphagie progressive d'un mois pour les solides et les liquides et l'apparition d'une tumeur sus-claviculaire droite ayant augmenté de taille ces dernières semaines, sans syndrome constitutionnel associé.
+
+Examen physique
+Patient conscient et orienté, en bon état général. Cavité buccale sans altération. Conglomérat adénopathique sus-claviculaire droit de 5 cm de diamètre maximum, pierreux, non douloureux à la palpation. Adénopathie sus-claviculaire gauche de 2 cm. Le reste de l'examen n'a rien révélé de significatif.
+
+Examens complémentaires
+Elle a commencé une étude dans un centre privé, en demandant une évaluation en oto-rhino-laryngologie, qui, après examen, a exclu la présence de lésions biopsiables. L'étude a été complétée par la demande des examens complémentaires suivants :
+- Analyses sanguines : hémogramme et biochimie normaux. Ca 19.9 à 126, CEA à 56.
+- TDM cervico-thoracique-abdominale : adénopathies sus-claviculaires droites jusqu'à 35 mm. Adénopathies médiastinales supérieures, paratrachéales hautes et basses à droite et paratrachéales basses à gauche jusqu'à 30 mm.
+Il existe également des adénopathies para-œsophagiennes (11 mm), paravertébrales gauches (10 mm), rétrocrurales (23 mm) dans la région du tronc cœliaque, interaortocaves, dans le hile hépatique jusqu'à 12 mm et para-aortiques gauches de quelques millimètres. Les autres résultats n'étaient pas significatifs.
+- Gastroscopie et coloscopie sans résultats significatifs.
+- Scintigraphie osseuse : aucune prise suggérant une métastase.
+- TEP-TDM : conglomérat adénopathique de 50 x 50 mm dans la région latérocervicale droite avec un SUV maximal de 16,6.
+Conglomérat au niveau paratrachéal supérieur et inférieur, vers le médiastin, de 50 x 70 cm du côté droit et de 50 x 20 cm du côté gauche et dans les régions pré-vasculaires avec un SUV maximal de 13. Conglomérats au niveau de la fenêtre aortopulmonaire et de la région rétrocave prétrachéale avec un diamètre de 22 mm SUV 13,7. Adénopathies para-œsophagiennes et paravertébrales gauches de 17 mm et SUV 9,5.
+Adénopathies rétrocrurales bilatérales, 12 mm SUV 10,4. Adénopathies du hile hépatique, 16 mm SUV 8,9. Aucune autre captation (ni œsophage, ni pancréas, ni parenchyme hépatique). Conclusion : adénopathies supra et infradiaphragmatiques avec une activité métabolique élevée, suggérant un processus lymphoprolifératif comme première possibilité, sans autres résultats significatifs dans le reste de l'étude.
+- Étant donné la suspicion d'un processus lymphoprolifératif comme première possibilité, une biopsie du ganglion lymphatique supraclaviculaire droit a été réalisée.
+- Anatomie pathologique : métastase ganglionnaire d'un carcinome solide d'origine inconnue. IHC : CK7 positive, CDX2 positive, CK 20, TTF-1, PSA, S-100 et synaptophysine négative.
+Le patient est venu à notre hôpital pour un examen plus approfondi et un traitement. Il a soumis un échantillon de biopsie et a été à nouveau évalué par le service d'anatomie pathologique de notre centre, qui a décrit une morphologie compatible avec un adénocarcinome de type indifférencié avec CK7, CK9 et CEA positifs, suggérant une pathologie biliopancréatique comme première possibilité, sans pouvoir exclure une origine gastrique.
+
+Diagnostic
+Adénocarcinome d'origine inconnue, probablement d'origine biliopancréatique, stade IV en raison de l'atteinte des ganglions lymphatiques supra et infradiaphragmatiques.
+
+Traitement
+Avec le diagnostic immunohistochimique d'origine biliopancréatique probable, et compte tenu de l'élévation progressive du Ca 19,9 (dernier contrôle de 1 397), le cas a été présenté en séance multidisciplinaire et il a été décidé de le traiter comme une tumeur des voies biliaires.
+Le traitement a débuté en août 2013 avec du cisplatine 25 mg/m2 jour 1 et de la gemcitabine 1 000 mg/m2 jours 1 et 8 tous les 21 jours.
+
+Évolution
+Après le début du traitement, on a observé une amélioration progressive de la dysphagie et de la dysphonie, avec une réduction de la taille de l'adénopathie sus-claviculaire droite à l'examen physique et une diminution marquée du Ca 19,9 à 121 dans le contrôle analytique 2 mois après le début du traitement.
+Un scanner thoraco-abdominal de contrôle a été réalisé après trois cycles de traitement, montrant une réponse partielle avec une diminution de la taille des adénopathies rétrocrurales et rétropéritonéales et des adénopathies du médiastin supérieur, avec une circulation collatérale abondante et un syndrome de la veine cave supérieure dû à une thrombose probable de la veine cave supérieure et de la veine sous-clavière droite.
+Le traitement a commencé par une héparine de faible poids moléculaire et s'est poursuivi par un traitement cytotoxique. Après six cycles de traitement, la tomodensitométrie a été répétée et a continué à montrer une réponse avec une diminution de la taille de l'adénopathie infradiaphragmatique et une stabilisation de l'adénopathie supraclaviculaire droite (4 cm).
+Elle a reçu 8 cycles de traitement, qu'elle a terminés en février 2014 avec une excellente tolérance, et a effectué des contrôles.
+Trois mois plus tard, en mai 2014, elle est venue consulter avec un examen physique montrant une masse dans la région sus-claviculaire droite mesurant plus de 9 cm de diamètre maximal, pierreuse, non douloureuse à la palpation, ainsi qu'un scanner cervico-thoraco-abdominal montrant une progression ganglionnaire sans atteinte viscérale.
+Un traitement de seconde ligne par carboplatine-paclitaxel est proposé, dans l'attente d'une initiation.

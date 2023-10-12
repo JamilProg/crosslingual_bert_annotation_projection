@@ -1,0 +1,33 @@
+Anamnèse
+Patiente de 32 ans, originaire du Sénégal et vivant en Espagne depuis plusieurs années. Elle est indépendante pour les activités de base de la vie quotidienne et ses antécédents médicaux comprennent une hépatite chronique à virus B (traitée de 2011 à 2016) avec une surinfection aiguë à virus D pour laquelle elle est actuellement traitée par entécavir.
+
+Antécédents oncologiques
+En février 2019, elle consulte aux urgences pour une douleur pleurétique de l'hémithorax gauche, accompagnée d'une dyspnée à l'effort modérée. Une radiographie du thorax a montré des images multinodulaires pulmonaires bilatérales.
+
+Examen physique
+"À l'examen physique, les signes vitaux sont normaux. Pas d'adénopathies latérocervicales ou supraclaviculaires palpables. Auscultation cardiaque : rythmée à environ 70 bpm, pas de souffle.
+"Auscultation pulmonaire : murmure vésiculaire conservé, pas de bruits supplémentaires.
+"Abdomen : mou, dépressible, non douloureux à la palpation, légère hépatomégalie, bruits hydro-aériques présents, pas de signes d'irritation péritonéale.
+"Pas d'œdème dans les membres inférieurs, pas de signes de thrombose.
+
+Tests complémentaires
+Compte tenu de ces résultats, il a été décidé d'admettre le patient dans le service pour des examens complémentaires.
+Une tomodensitométrie thoraco-abdominale est réalisée, montrant de multiples nodules pulmonaires arrondis et bien définis, d'un diamètre allant jusqu'à 20 mm, compatibles avec un relâchement du ballonnet. Le foie présente une tumeur de 90 mm de diamètre, affectant principalement les segments IV, V et VIII, accompagnée de multiples nodules d'un diamètre allant jusqu'à 25 mm, présentant des caractéristiques sémiologiques similaires et présents dans les deux lobes hépatiques. Les images montrent une faible prise de contraste périphérique avec une atténuation centrale marquée qui est peu modifiée dans la phase portale, augmentant la densité périphérique. Les autres observations notables sont une splénomégalie modérée et une lymphadénopathie rétropéritonéale subcentimétrique.
+Les examens de laboratoire montrent une bilirubine totale de 2,95, une AST de 215, une ALT de 126, une GGT de 232, une phosphatase alcaline de 143, des plaquettes de 87 000, un temps de prothrombine de 18 secondes et un INR de 1,61. En ce qui concerne les marqueurs tumoraux, on a trouvé une alpha-fœtoprotéine de 2,575, une B-HCG < 1 et une LDH de 321.
+Afin d'obtenir davantage de données sur le comportement des lésions hépatiques, une scintigraphie par angio-résonance a été réalisée. Dans cet examen, la tumeur était principalement hypointense en T1 et hyperintense en T2, avec une restriction de la diffusion de l'eau, présentant un rehaussement périphérique dans la phase artérielle avec une plus grande prise intratumorale dans les phases tardives.
+Après une analyse minutieuse des données recueillies, les antécédents d'hépatite chronique du patient et les taux élevés d'alpha-fœtoprotéine suggèrent l'hépatocarcinome comme première option diagnostique. Cependant, ni la morphologie ni le comportement des examens d'imagerie (il n'y a pas d'hypervascularisation dans la phase artérielle suivie d'un lavage dans la phase veineuse) ne sont typiques de cette entité. Tout ceci nous amène à penser à d'autres origines primaires possibles, comme un cholangiocarcinome ou une tumeur germinale testiculaire extragonadale.
+Un examen génital approfondi est effectué. Apparemment, aucune masse n'est palpable au niveau scrotal, les deux testicules sont symétriques et dans des poches, sans prise de poids ni dysmétrie, et sans hernie inguinale ou crurale. Une échographie scrotale a été réalisée et n'a révélé aucune altération. Le patient a été réinterrogé et a nié avoir des problèmes testiculaires ou des antécédents de cryptorchidie. Le patient a seulement indiqué qu'un an auparavant, il avait eu une hypertrophie des testicules, pour laquelle il s'était rendu au service des urgences et avait été traité avec des anti-inflammatoires, et que son état s'était amélioré par la suite.
+Une biopsie du foie guidée par échographie a été réalisée et a révélé une infiltration néoplasique maligne. Les techniques immunohistochimiques utilisées suggèrent une tumeur germinale : CKAE1/AE3 (+), SALL4 (+), CK19 faiblement positive, hépatocyte (-), CK7 (-), CK20 (-), CD31 (-), CD30 (-),
+CD34 (-), CD10 (-), Pax8 (-), PSA (-), PLAP (-), C-KIT (-), AFP (-). Ce résultat a permis d'exclure une origine hépatique, pancréaticobiliaire, gastro-intestinale, prostatique, rénale, vésicale, pulmonaire et vasculaire, entre autres.
+
+Diagnostic
+Après les résultats anatomopathologiques, le patient a été diagnostiqué comme une tumeur germinale avec une maladie secondaire au niveau pulmonaire et hépatique sans preuve de tumeur au niveau testiculaire TxNxM1b S2, stade IIIC, mauvais pronostic selon la dernière classification de l'IGCCCG.
+
+Le traitement
+Une fois le diagnostic établi, le 26 mars 2019, le traitement par chimiothérapie a débuté. Comme indiqué dans les directives cliniques, en cas de forte charge tumorale et d'atteinte pulmonaire étendue, elle a reçu un premier cycle d'étoposide et de cisplatine (EP), suivi de trois autres cycles d'étoposide, de cisplatine et de bléomycine (BEP).
+
+Évolution
+Le patient a bien toléré le traitement et n'a pas eu d'effets indésirables. Le marqueur tumoral diminue dans le contrôle effectué après le 2e cycle de BEP à 1,674 (2,575 précédemment) et à 1,372 après le 3e cycle.
+Pendant l'administration du 4e cycle de BEP, le patient a consulté pour une distension abdominale sans autres signes cliniques notables. L'examen a révélé une augmentation du périmètre abdominal, une légère hépatomégalie présente depuis le diagnostic et un aspect terne des flancs.
+Un scanner de suivi a montré une progression de la maladie avec une augmentation des lésions pulmonaires, une augmentation du nombre et de la taille des lésions hépatiques, ainsi que du liquide libre dans les zones périhépatiques et périspléniques, à la fois en gouttelettes, interasales et dans le petit bassin avec une raréfaction de la graisse abdominale évoquant une carcinomatose péritonéale.
+Le patient est actuellement en période de convalescence après le dernier cycle de BEP, dans l'attente d'un régime de chimiothérapie de deuxième ligne et d'une reconfirmation du diagnostic par une nouvelle biopsie en raison de la réfractarité du traitement établi.

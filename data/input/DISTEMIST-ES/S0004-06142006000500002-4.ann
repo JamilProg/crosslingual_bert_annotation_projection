@@ -1,0 +1,12 @@
+T1	pathologie 237 258	hipertensión arterial
+T2	pathologie 723 732	hidrocele
+T3	pathologie 870 895	orquiepididimitis crónica
+T4	pathologie 1031 1040	hidrocele
+T5	pathologie 1459 1513	tumor de células de Leydig con criterios de malignidad
+T6	pathologie 2145 2155	metástasis
+#1	SNOMED T1	38341003
+#2	SNOMED T2	26614003
+#3	SNOMED T3	10194007+236768005
+#4	SNOMED T4	26614003
+#5	SNOMED T5	77870005
+#6	SNOMED T6	128462008

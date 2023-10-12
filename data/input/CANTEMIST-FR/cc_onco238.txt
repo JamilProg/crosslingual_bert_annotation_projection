@@ -1,0 +1,34 @@
+Anamnèse
+Il s'agit d'une patiente de 60 ans, aux antécédents d'insuffisance veineuse chronique, fumeuse de 6-7 cigarettes par jour depuis l'âge de 17 ans, IPA de 15 ans, sans antécédents gynécologiques et digestifs à ce jour.
+Indépendant pour toutes les activités basales et instrumentales de la vie quotidienne, ECOG : 0.
+
+Examen physique
+CONSTANTS : TA : 110/60 mmHg. FC : 72 bpm. T : 37ºC. RR : 18r.p.m. SatO2 : 98%.
+IMPRESSION GÉNÉRALE : Conscience et orientation adéquates. Bon état d'hydratation et de perfusion.
+Habitation mince. Bonne coloration de la peau et des muqueuses.
+TÊTE ET COU : Pupilles isochores et normoréactives. Pression veineuse jugulaire normale. Carotides rythmées et symétriques, pas de souffle. Pas d'adénopathies.
+Auscultation pulmonaire : souffle vésiculaire conservé, sans bruits surajoutés.
+Auscultation cardiaque : rythmée, sans souffle.
+ABDOMEN : souple, non douloureux à la palpation. Pas de viscéro-mégalie palpable. Pas de masse palpable. Pas de signes d'irritation péritonéale. Bruits hydro-aériques normaux. Percussion bilatérale du poing rénal négative.
+Pas d'adénopathies inguinales significatives.
+EXTRÉMITÉS : Pouls périphériques présents, symétriques, pas d'œdème, pas de signes de TVP.
+
+Tests complémentaires
+ABOMINO-SCANNER PELVIEN (11/04/10) : Une masse hétérogène est observée dans le bassin, comprimant la vessie en avant et déplaçant le rectosigma en arrière, avec des zones solides et kystiques, avec une prise de contraste hétérogène, probablement dépendante du corps utérin ou des annexes. Aucun liquide n'a été observé.
+Sur la base de ces résultats, la patiente a été examinée par le service de gynécologie, qui a confirmé la présence d'une image hétérogène occupant tout le bassin inférieur (environ 15 cm), avec des zones liquides à l'intérieur, probablement d'origine utérine.
+Le dosage des marqueurs tumoraux Ca 125 a été demandé : 39,2 U/ml, et il a été décidé de procéder à une intervention chirurgicale.
+
+Diagnostic
+Carcinosarcome d'origine utérine probable pT4N0M0. Stade IVA.
+
+Traitement
+Le 03/05/2010 : Une laparotomie exploratrice a été pratiquée et une tumeur a été trouvée qui semblait dépendre de l'utérus, était intimement attachée au rectosigma et semblait infiltrer l'iléon. Une hystérectomie abdominale, une annexectomie bilatérale, une hémicolectomie droite, une sigmoïdectomie et une anastomose terminale de l'uretère avec un cathéter double J ont été pratiquées. Aucune tumeur macroscopique infiltrante n'a été observée après la résection chirurgicale.
+Le résultat anatomopathologique de la pièce opératoire confirme la présence d'un néoplasme malin peu différencié de haut grade histologique avec infiltration transmurale de l'intestin grêle et sigma dans l'utérus et les ovaires. Cinq ganglions lymphatiques ont été isolés sans infiltration, et l'origine primaire du néoplasme n'a pas pu être établie avec certitude, mais compte tenu de l'ensemble des résultats histologiques et de l'étude immunohistochimique, le néoplasme pourrait correspondre à un carcinosarcome d'origine utérine probable avec des composants épithéliaux et mésenchymateux de haut grade histologique.
+CK20 négative, RREE positive 60%, RRPP négative, S100 positive, Vimentine positive dans les zones d'aspect mésenchymateux et négative dans les zones d'aspect épithélial et enfin Ki 67 : 50%. La cytologie du lavage péritonéal était négative pour la malignité.
+
+Évolution
+La patiente a eu une évolution postopératoire torpide, compliquée par une septicémie d'origine abdominale, raison pour laquelle un scanner abdomino-pelvien a été réalisé, montrant la présence d'un pneumopéritoine, avec une suspicion de déhiscence de la suture anastomotique, qui n'a pas été confirmée par un lavement à la gastrografine réalisé ultérieurement. Elle présentait également une thrombose partielle de la veine mésentérique et de nouvelles adénopathies para-aortiques gauches.
+Après sa sortie, la patiente a été réadmise pour une fièvre persistante et des métrorragies, qui se sont améliorées avec un traitement antibiotique empirique. Cependant, un nouveau scanner thoraco-abdomino-pelvien a été réalisé et a révélé une récidive tumorale importante au niveau pelvien avec une infiltration des structures régionales et la présence de nombreux implants péritonéaux métastatiques, d'adénopathies iliaques externes et para-aortiques gauches, des métastases pulmonaires et hépatiques, ainsi qu'une obstruction urétérale gauche liée à l'infiltration tumorale et une hydronéphrose secondaire avec un cathéter double J mal positionné nécessitant un remplacement urgent par le service d'urologie.
+Sur la base de ces résultats, la patiente a commencé un traitement de chimiothérapie systémique en juin 2010 avec Carboplatine AUC=2 plus Paclitaxel à 80mg/m2, selon un calendrier hebdomadaire (jours 1, 8 et 15 tous les 28 jours), recevant 7 cycles au total avec une tolérance régulière en raison d'une toxicité hématologique de grade 2 nécessitant un soutien avec des facteurs G-CSF et une neurotoxicité sensorielle périphérique progressive de grade 2-3 qui a forcé l'arrêt du traitement en décembre 2010.
+Lors des évaluations de la réponse par tomodensitométrie après les troisième et septième cycles, elle a présenté une réponse partielle majeure avec disparition des lésions hépatiques, des implants péritonéaux, des adénopathies rétropéritonéales et des métastases pulmonaires, seule une lésion pelvienne de 3 cm persistant dans la fosse iliaque gauche.
+Compte tenu de la réponse significative, il a été décidé de poursuivre le traitement en passant à la doxorubicine liposomale pégylée à 40 mg/m2 tous les 28 jours, pour un total de 5 cycles avec une réponse radiologique complète de la lésion pelvienne résiduelle dans la fosse iliaque gauche, sans autres résultats significatifs. En accord avec la patiente, le traitement a été interrompu en mai 2011 en raison d'un syndrome main-pied de grade 2-3, et elle a ensuite subi des contrôles avec des tomodensitométries périodiques, sans aucun signe de récidive de la maladie à ce jour (5 ans de suivi). Lors du dernier contrôle en mai 2016, la patiente était asymptomatique et vivait normalement.

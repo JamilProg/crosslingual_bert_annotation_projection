@@ -1,0 +1,23 @@
+Anamnèse
+Homme de 64 ans, ex-fumeur (indice pack-année = 40), hypertendu, sans autre antécédent personnel ou familial notable, qui s'est présenté aux urgences le 19/04/2016 pour une dysphasie motrice, sans autre focalité neurologique. Il rapportait une perte de poids de 7 kg au cours des 6 derniers mois, sans autre signe ou symptôme associé.
+
+Examen physique
+L'état général était bon. L'auscultation cardio-pulmonaire était rythmée, sans souffle, avec un souffle vésiculaire préservé. L'abdomen est souple, non douloureux, sans viscéro-mégalie. Une dysphasie motrice a été observée, le reste de l'examen neurologique étant normal.
+
+Examens complémentaires
+Une tomodensitométrie (TDM) du crâne a été réalisée au service des urgences, qui a révélé une lésion sous-corticale frontale gauche avec œdème vasogénique. L'étude a été complétée par une imagerie par résonance magnétique (IRM) du cerveau, qui a confirmé la lésion évocatrice de métastases.
+Par la suite, un scanner thoraco-abdominal a été réalisé, montrant un nodule de 15 mm dans le lobe supérieur droit et des adénopathies hilaires ipsilatérales de taille significative. L'étude a été complétée par une tomographie par émission de positons (TEP) qui a révélé des adénopathies paratrachéales droites suspectes par rapport à ce qui avait déjà été décrit dans la tomodensitométrie. Une stadification par EBUS de l'adénopathie paratrachéale droite a été décidée, qui s'est révélée négative. Compte tenu de la maladie oligométastatique avec un primitif traitable, il a été décidé de réséquer l'unique métastase cérébrale le 05/05/2016. Par la suite, une médiastinoscopie a été réalisée, confirmant une atteinte ganglionnaire multiple N2.
+Le diagnostic anatomopathologique était un adénocarcinome du poumon, cT1a pN2, pM1b, stade IVA. EGFR non muté. ALK non transloqué, ROS-1 non transloqué, PD-L1 négatif.
+
+Diagnostic
+Adénocarcinome pulmonaire, cT1a pN1, pM1b, stade IVa. EGFR non muté. ALK non transloqué, ROS-1 non transloqué. PD-L1 négatif.
+
+Traitement
+Après résection de la métastase cérébrale et stadification médiastinale, il a bénéficié d'un traitement par carboplatine et pemetrexed, 4 cycles entre le 26/07/2016 et le 05/10/2016. Un PET scan de réévaluation a été réalisé, qui a montré une réponse partielle au niveau des ganglions lymphatiques et dans la lésion primaire, de sorte qu'il a ensuite terminé la chimioradiothérapie avec intention radicale entre décembre 2016 et janvier 2017, lésion primaire et hile médiastinal ipsilatéral, dose totale de 66 Gy et 60 Gy respectivement, avec 6 cycles de paclitaxel hebdomadaires.
+Le patient a présenté une bonne tolérance et une bonne récupération, en commençant les révisions.
+
+Évolution
+Quatre mois après la fin de la radiothérapie, elle consulte pour des céphalées et passe une IRM crânienne qui révèle deux lésions cérébrales, pariétale gauche et cérébelleuse gauche. Avec un PET scan qui a exclu la maladie dans d'autres localisations, il a été décidé de réaliser une radiothérapie stéréotaxique sur les deux lésions, en administrant une dose de 40 Gy en 10 séances en juin 2017.
+Il a continué à être surveillé, avec une nouvelle progression dans le SNC, vernix cérébelleux, dans l'IRM réalisée en avril 2018, et a été trouvé asymptomatique et avec une réponse radiologique des lésions précédemment traitées et sans maladie extracrânienne active à la TEP. Une radiochirurgie a été réalisée à nouveau, 16 Gy le 10/04/2018.
+En septembre 2018, une discrète augmentation de la taille de la lésion hémisphérique cérébelleuse gauche a été observée par IRM, et le patient a été suivi car il était asymptomatique, avec une croissance lente jusqu'en mars 2019, où il a présenté une légère instabilité de la marche. Finalement, étant donné le bon contrôle de la maladie systémique, avec 35 mois d'évolution depuis le diagnostic, un traitement chirurgical a été proposé sur la seule localisation en progression, réalisant l'excision de la métastase cérébelleuse gauche le 24/05/2019.
+Après la chirurgie, il a commencé les examens de contrôle et a été trouvé asymptomatique.

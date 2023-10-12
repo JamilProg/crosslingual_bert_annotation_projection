@@ -1,0 +1,32 @@
+T1	pathologie 52 71	alcoholismo crónico
+T2	pathologie 91 111	pancreatitis crónica
+T3	pathologie 114 152	diabetes mellitus insulino dependiente
+T4	pathologie 262 282	pancreatitis crónica
+T5	pathologie 334 358	pseudoquiste pancreático
+T6	pathologie 486 537	colecistitis enfisematosa con absceso perivesicular
+T7	pathologie 1238 1270	queratitis ulcerativa periférica
+T8	pathologie 1341 1363	úlcera córneal central
+T9	pathologie 1389 1396	hiphema
+T10	pathologie 1769 1813	malnutrición calórica severa y proteica leve
+T11	pathologie 2069 2084	hipoproteinemia
+T12	pathologie 2196 2236	déficit severo de vitaminas liposolubles
+T13	pathologie 2563 2580	malabsorción leve
+T14	pathologie 2872 2882	diabéticos
+T15	pathologie 3243 3249	anemia
+T16	pathologie 3330 3347	ulceras cornéales
+#1	SNOMED T1	284591009
+#2	SNOMED T2	235494005
+#3	SNOMED T14	73211009
+#4	SNOMED T3	46635009
+#5	SNOMED T15	271737000
+#6	SNOMED T16	91514001
+#7	SNOMED T4	235494005
+#8	SNOMED T7	416473005
+#9	SNOMED T5	111374002
+#10	SNOMED T8	7426009
+#11	SNOMED T6	95558008+32038009
+#12	SNOMED T10	190606006
+#13	SNOMED T11	8900005
+#14	SNOMED T12	85670002
+#15	SNOMED T13	32230006
+#16	SNOMED T9	75229002

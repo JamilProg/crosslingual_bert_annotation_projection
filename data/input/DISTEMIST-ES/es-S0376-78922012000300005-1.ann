@@ -1,0 +1,24 @@
+T1	pathologie 56 79	deformidades congénitas
+T2	pathologie 160 184	hipoplasia del antebrazo
+T3	pathologie 197 249	ausencia de rayos digitales tercero, cuarto y quinto
+T4	pathologie 252 281	desviación cubital de la mano
+T5	pathologie 492 550	hipoplasia cubital y radial a expensas de su tercio distal
+T6	pathologie 556 579	sinostosis radiohumeral
+T7	pathologie 581 635	ausencia de los huesos del carpo de aparición temprana
+T8	pathologie 638 681	ausencia del tercero, cuarto y quinto rayos
+T9	pathologie 1056 1110	fallo en la formación longitudinal de miembro superior
+T10	pathologie 1154 1196	moderado acortamiento longitudinal humeral
+T11	pathologie 3635 3641	lesión
+T12	pathologie 4261 4274	cicatrización
+#1	SNOMED T1	276655000
+#2	SNOMED T2	253929007
+#3	SNOMED T3	34111000
+#4	SNOMED T5	253929007
+#5	SNOMED T6	205329008
+#6	SNOMED T7	91873009
+#7	SNOMED T9	70902004
+#8	SNOMED T4	249757009
+#9	SNOMED T12	275322007
+#10	SNOMED T11	417163006
+#11	SNOMED T10	93264003
+#12	SNOMED T8	34111000

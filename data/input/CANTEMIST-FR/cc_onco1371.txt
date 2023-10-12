@@ -1,0 +1,24 @@
+Anamnèse
+Patiente de 39 ans à qui l'on a diagnostiqué un carcinome canalaire infiltrant (CDI) du sein gauche avec des ganglions lymphatiques 0/14.
+Immunohistochimie (IHC) : récepteur des œstrogènes (ER) négatif ; récepteur de la progestérone (PR) 70% ; HER-2 +++). Traitée par MRM, chimiothérapie (QT), hormonothérapie (HT) et radiothérapie holocrânienne (RT) ; actuellement au stade IV en raison de métastases hépatiques, pulmonaires et cérébrales, sous traitement QT avec paclitaxel, carboplatine et trastuzumab.
+Elle s'est présentée aux urgences 10 jours après le dernier cycle de QT en raison d'une fièvre de 39,5 ºC sur 24 heures, sans symptômes respiratoires, digestifs ou urinaires.
+
+Examen physique
+L'examen physique est sans particularité. Le patient est conscient et orienté, l'auscultation cardiaque est rythmée, l'auscultation pulmonaire ne révèle aucun bruit pathologique, l'abdomen est souple et non douloureux, et l'examen neurologique est normal, sans rigidité nucale.
+
+Tests complémentaires
+Analyses sanguines : hémoglobine 11,2 g/dl, hématocrite 32,5 %, leucocytes 4,3 x 109/l avec 53 % de neutrophiles, plaquettes 233 x 109/l, TCA 79 %, INR 1,17, TCA 30,6 s, fibrinogène 449 mg/dl, glucose 102 mg/dl, créatinine 0,81 mg/dl, urée 19 mg/dl, protéines 7,6 g/dl, bilirubine 1,1 mg/dl, ALT 14 U/l, amylase 60 U/l, sodium (Na+) 131 mEq/l, chlore (Cl-) 97 mEq/l, procalcitonine 3,47 ng/ml, protéine C-réactive (CRP) 2,5 mg/l.
+Électrocardiogramme (ECG) : RS à 97 bpm.
+Radiographie du thorax : normale.
+
+Diagnostic
+Des hémocultures ont été prélevées et il a été décidé d'hospitaliser la patiente dans le service d'oncologie médicale, le diagnostic étant celui d'une fièvre non focalisée chez une patiente immunodéprimée.
+
+Traitement
+Poursuivre le traitement.
+
+Évolution
+Dans le service d'oncologie médicale, une dysarthrie et une aphasie globale ont été détectées, avec un langage monosyllabique. Lorsque les proches ont été interrogés, ils ont déclaré que le patient souffrait de ces symptômes depuis 48 heures. Une tomodensitométrie crânienne a été réalisée, et comme aucune pathologie aiguë n'a été détectée, une évaluation par le service de neurologie a été demandée.
+Suspectant une encéphalite herpétique chez un patient immunodéprimé, un traitement empirique à base d'acyclovir 750 mg IV toutes les 8 heures a été indiqué. Ils ont demandé une imagerie par résonance magnétique (IRM) crânienne, qui a montré une altération du signal dans la région temporale antérieure gauche avec des signes de perte de volume, et une hyperintensité du signal T2 affectant le cortex insulaire et accompagnée d'une restriction de la diffusion ; un EEG, qui a montré un foyer lent continu (delta) dans la région temporale gauche avec une diffusion occasionnelle vers les zones antérieures ; et une ponction lombaire, avec un glucose de 64 mg/dl, une protéine de 27 mg/dl et une PCR positive pour le HSV de type I.
+Dans les jours qui ont suivi l'introduction du traitement antiviral, le patient a connu une amélioration progressive, étant afébrile quatre jours plus tard et présentant une orientation temporo-spatiale adéquate, avec un langage cohérent et fluide.
+L'acyclovir IV a été maintenu pendant 14 jours supplémentaires et, compte tenu de l'excellente évolution, la sortie de l'hôpital a été indiquée.

@@ -1,0 +1,53 @@
+Anamnèse
+Patiente âgée de 44 ans, sans allergies médicamenteuses connues ni antécédents médicaux dignes d'intérêt. En décembre 2013, elle s'est présentée aux urgences pour une céphalée frontale très sévère associée à des nausées et des vomissements.
+À son arrivée, la pression artérielle était de 220/100. Du captopril 50 mg et du furosémide IV ont été administrés sans amélioration significative de la pression artérielle. Lors de l'anamnèse, le patient a signalé des douleurs abdominales dans l'hypochondre droit depuis plusieurs jours. Aucun autre symptôme ne l'accompagnait.
+
+Examen physique
+Patient conscient, orienté, normohydraté et de couleur normale. Eupnéique au repos. TA 220/100 avec HR 79 bpm et SatO2 97%. ECOG : 0.
+- Examen neurologique : pupilles isochoriques, normoréactives, nerfs crâniens normaux. Pas d'altération des réflexes campimétriques. Force et sensibilité préservées dans les membres supérieurs et inférieurs.
+Pas de dysmétrie. Rombreg négatif. Démarche normale. Réflexes ostéo-tendineux présents et symétriques. Pas de raideur de la nuque. Signes méningés négatifs.
+- Cardio-pulmonaire : tonalités rythmiques sans souffle, ventilation normale dans les champs pulmonaires.
+- Abdomen : douleur douce, dépressible, légère dans l'hypochondre droit à la palpation profonde avec des caractéristiques mécaniques. Pas de douleur ailleurs. Pas de masses ou de mégalithes palpables. Pas d'irritation péritonéale. Péristaltisme conservé.
+
+Examens complémentaires
+Échographie abdominale (décembre 2013) : grosse masse rétropéritonéale droite déplaçant le rein droit. Probable dépendance surrénalienne, sans pouvoir exclure d'autres possibilités.
+Le foie, le rein gauche, la zone pancréatique et la rate étaient normaux.
+CT scan cérébral urgent (décembre 2013) : pas de signes de pathologie vasculaire ischémique aiguë. Il n'y a pas d'images évidentes d'hémorragie intra- ou extra-axiale.
+Tomodensitométrie thoraco-abdominale-pelvienne :
+"Un conglomérat adénopathique médiastinal occupant le médiastin antérieur, une compression extrinsèque pré-vasculaire et para-aortique de la veine innominée est visualisée sans défaut de réplétion suggérant une thrombose comme un bon passage de contraste.
+"Aucun nodule pulmonaire significatif n'est observé dans le parenchyme pulmonaire.
+"Large masse abdominale rétropéritonéale dépendant de la glande surrénale droite, hétérogène avec de larges zones nécrotiques hypodenses et une importante néo-vascularisation, visualisant de larges vaisseaux à l'intérieur, la masse mesure approximativement 16 cm x 13 cm x 15 cm, déplaçant le rein droit vers l'inférieur et l'antérieur. De multiples nodules satellites de tumeurs secondaires sont visualisés, il y a un déplacement significatif de la veine cave supérieure, probablement infiltrée.
+Conglomérat adénopathique intercavo-aortique de 5 cm.
+"Stéatose hépatique diffuse sans visualisation de lésions occupant l'espace. Voies biliaires intrahépatiques et extrahépatiques normales. Glande pancréatique, rate, glande surrénale gauche et rein gauche normaux. Rate accessoire. Pas de liquide péritonéal libre. Avec fenêtre osseuse, spondylose dorsale.
+Scintigraphie de la médullosurrénale (MIBG) : probable phéochromocytome surrénalien droit avec métastases ganglionnaires cervico-médiastinales et interaorto-caves, hépatiques (segment IV et plus douteux dans le segment VIII) et osseuses (L2 et fémur droit).
+Analyse hormonale : dans les limites de la normale.
+
+Catécholamines urinaires :
+Métanéphrines : 4748.85 μg/24h (20 - 374 )
+Normétanéphrines : 80233.95 μg/24h (30 - 778)
+Acide vanillylmandélique : 10,1 mg/24h (1 - 7,3)
+
+Diagnostic
+Phéochromocytome malin métastatique de stade IV (métastases ganglionnaires cervico-médiastinales et interaortocaves, métastases hépatiques, osseuses et pulmonaires)
+
+Traitement
+La chirurgie cytoréductive a été réalisée en 2 étapes avec un contrôle de la pression artérielle à l'aide d'alpha-bloquants.
+Un traitement par 131I-MIBG a été instauré par le service de médecine nucléaire à des doses fractionnées de 100 mCi.
+Compte tenu de la progression de la maladie, un traitement chimiothérapeutique par cyclophosphamide + vincristine + dacarbazine a été mis en place. Un cycle a été suspendu en raison de la toxicité et il a été décidé d'instaurer un traitement par Sunitinib.
+
+Évolution
+Un traitement par alpha-bloquants a été instauré et il a été proposé de procéder à une chirurgie cytoréductive en deux étapes, suivie d'une admission en soins intensifs pour le contrôle postopératoire en raison de la difficulté à contrôler la pression artérielle avec des médicaments vasoactifs.
+En janvier 2014, la résection d'une masse surrénalienne droite de 16 cm et une suprarénalectomie radicale avec néphrectomie ipsilatérale et résection d'un nodule hépatique ont été réalisées.
+Résultats de l'anatomopathologie :
+"Région interaortocave : phéochromocytome au comportement agressif. aucun tissu lymphoïde résiduel n'a été observé.
+"Nodule hépatique : métastase d'un phéochromocytome.
+"Masse surrénalienne : résection d'une masse surrénalienne droite : phéochromocytome (16 cm), infiltrant la capsule surrénalienne et le tissu adipeux péri-surrénalien. nécrose : étendue. des images fréquentes d'invasion vasculaire sanguine sont observées. parenchyme rénal : pas de signe de néoplasie.
+"La présence d'une invasion vasculaire, d'une nécrose, d'un pléomorphisme et d'une invasion de la capsule et du tissu adipeux péri-surrénalien confère au néoplasme un comportement très probablement agressif, avec une capacité métastatique.
+En mai 2014, la deuxième opération a été réalisée par sternotomie médiane pour la résection d'une masse médiastinale de 19 cm et d'un nodule pulmonaire de 1,5 cm dans le LSI, correspondant tous deux à des métastases de phéochromocytome.
+La patiente a été adressée à la médecine nucléaire pour un traitement palliatif par 131I-MIBG administré en doses fractionnées de 100 mCi. En septembre 2014, la deuxième dose de 131I MIBG a été administrée.
+Elle a ensuite été suivie en ambulatoire avec une amélioration clinique et une réduction des métabolites adrénergiques dans les urines.
+En février 2015, elle a été admise au service d'oncologie médicale pour des nausées et des vomissements persistants, la tomodensitométrie montrant une progression de la maladie au niveau latérocervical et hépatique. Elle présentait une hypertension artérielle, ainsi que des bouffées vasomotrices et des sueurs profuses difficiles à gérer.
+
+Le comité des tumeurs a décidé d'initier un traitement de QT par un CICLOFOSFAMIDE 750 mg/m2 + VINCRISTIN + DACARBACINE 600 mg/m2 (jours 1 et 2) tous les 21 jours, recevant le premier cycle en mars 2015 avec une toxicité : G4 vomissements, G4 asthénie, pancytopénie fébrile.
+Compte tenu de la mauvaise tolérance à la chimiothérapie, il a été décidé en mai 2015 de débuter un traitement par Sunitinib.
+En mai 2015, la patiente a été admise au service d'oncologie médicale pour une hypertension réfractaire aux médicaments, des bouffées vasomotrices et des sueurs profuses. Un traitement par labétalol IV en perfusion continue a été instauré sans amélioration de la pression artérielle. En raison de l'aggravation clinique, le patient est décédé en mai 2015.

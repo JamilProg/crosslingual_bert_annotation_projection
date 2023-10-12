@@ -1,0 +1,31 @@
+Anamnèse
+Une femme de 68 ans, aux antécédents d'hypothyroïdie primaire sous traitement substitutif, sans autre antécédent médical ou chirurgical intéressant et sans habitudes toxiques, a été évaluée en avril 2015 à la consultation externe d'ophtalmologie pour avoir présenté des troubles visuels consistant en des corps flottants dans l'œil droit (OD) et une baisse de l'acuité visuelle qui évoluait depuis un an jusqu'à une perte complète de l'acuité visuelle au cours des deux dernières semaines. Elle a signalé une tumeur hétérogène superficielle dans l'aisselle gauche, présente depuis un an, parfois gonflée et rouge, avec une douleur à la palpation.
+Un examen du fond d'œil a été effectué, qui a montré une grosse tumeur pigmentée dans la rétine inférieure de l'œil, suspectant un mélanome choroïdien.
+Le patient a été admis en médecine interne pour une étude d'extension.
+
+Examen physique
+IK 90. À noter la palpation de ganglions lymphatiques de 2 cm dans l'aisselle gauche, qui sont douloureux. Aucun ganglion périphérique n'a été palpé à d'autres niveaux. L'examen mammaire, cardio-pulmonaire, abdominal et neurologique est sans particularité.
+Examens complémentaires
+"IRM des orbites et du cerveau : sur le plancher du globe oculaire, en position intraoculaire, il y a une tumeur arrondie, bien définie, mesurant 13 mm de diamètre maximal. Il s'agit d'une lésion à large base d'implantation, présentant un signal hypointense homogène en T2 et une prise de contraste. Cette lésion est très suspecte de mélanome choroïdien. Au niveau de la tente cérébelleuse du côté gauche, un épaississement leptoméningé hypointense est identifié sur les séquences pondérées en T2 et FLAIR montrant une prise de contraste intense, correspondant à un petit méningiome.
+"CT TAP : masse solide située dans le segment apical du LSD montrant un axe maximal oblique dans le plan axial jusqu'à 35 mm, suspect de métastase/tumeur pulmonaire primaire.
+Ganglions lymphatiques pathologiques jusqu'à 22 mm dans l'aisselle gauche.
+"Fibrobronchoscopie : dans la bronche apicale droite, il y a une lésion nécrotique qui obstrue la bronche.
+"Spirométrie : normale.
+"Examens de laboratoire : normaux, y compris les marqueurs tumoraux et l'étude immunologique.
+
+Diagnostic
+Compte tenu de la présence d'une masse pulmonaire solide dans le DSL, observée par tomodensitométrie, avec une captation pathologique par TEP-TDM, une fibrobronchoscopie et une biopsie de la lésion ont été réalisées, avec un diagnostic définitif d'adénocarcinome papillaire du poumon de type cT2a (3,5 cm) N0 M0, stade IB. L'excision de la masse axillaire gauche a été réalisée et a révélé un carcinome papillaire solide avec du tissu mammaire comportant des foyers de carcinome canalaire in situ de bas grade, ER 100 %, RP 50 %, Ki67 15 %, Cerb2 négatif, cTx Nx M0.
+
+Traitement
+En mai 2015, une énucléation de l'O.D. a été réalisée avec un diagnostic anatomopathologique (AP) compatible avec un mélanome uvéal, avec atteinte du corps ciliaire, pT4b, avec des marges de résection libres, EGFR et BRAF de type sauvage.
+En juillet 2015, une résection pulmonaire a été réalisée (lobectomie supérieure droite) avec un résultat définitif du PA compatible avec un adénocarcinome pulmonaire papillaire, pT2aN0M0, stade IB EGFR muté, ALK négatif.
+En août 2015, une tumorectomie du sein gauche et une lymphadénectomie axillaire ont été réalisées avec un résultat AP de carcinome canalaire infiltrant de grade III, avec une composante in situ étendue, ER + (99%), RP + (60%), HER 2 négatif, Ki-67 9%, pT1aN0M0, stade IB EGFR muté, ALK négatif. Ki-67 9%. pT1b pN1a (en raison d'un ganglion lymphatique intramammaire aphteux) M0, stade IIA. Une marge externe affectée a été identifiée (à la fois postérieure et antérieure), de sorte qu'il a été proposé d'étendre les marges, ce que la patiente a rejeté.
+En octobre 2015, elle a commencé un traitement de chimiothérapie adjuvante selon le schéma TC (Docetaxel 75mg/m2 + Cyclophosphamide 600mg/m2) jour 1 tous les 21 jours, pour un total de 4 cycles.
+
+Évolution
+Lors d'un examen tomodensitométrique de réévaluation après la fin du traitement adjuvant, la présence d'un implant péritonéal dans le mésogastre/flanc droit, absent de l'examen tomodensitométrique précédent, a été identifiée, avec une prise pathologique (SUV max 2,6) lors de l'examen tomodensitométrique par émission de positons. Une FNA du nodule a été réalisée avec un résultat non représentatif.
+
+En mars 2016, elle a commencé un traitement adjuvant par RT externe sur le lit tumoral et la glande mammaire, ainsi qu'une thérapie hormonale au Letrozole.
+Elle a été évaluée par l'unité de conseil génétique en cancérologie. Après avoir évalué son cas et étudié les antécédents familiaux et personnels de la patiente, il a été déterminé qu'il n'y avait pas de critères pour poursuivre l'étude génétique.
+La TEP-TDM de contrôle réalisée en avril 2016 a révélé la persistance d'un nodule péritonéal de 7x8 mm et d'un épaississement pleural postérieur droit avec un SUV de 4,13.
+Le patient a été invité à subir une rebiopsie du nodule mésentérique et une biopsie pleurale, dans l'attente de résultats définitifs à l'heure actuelle.

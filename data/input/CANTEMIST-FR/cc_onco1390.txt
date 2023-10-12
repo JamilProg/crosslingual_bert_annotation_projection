@@ -1,0 +1,27 @@
+Anamnèse
+Un homme de 41 ans, sans antécédents particuliers, a consulté en mars 2011 pour une distension abdominale, des épigastralgies, une sensation de plénitude gastrique et une perte de poids de 15 kg au cours des 16 derniers mois.
+
+Examen physique
+Bon état général. Abdomen distendu avec ascite modérée sans tension ; pas de masse palpable, pas de péritonisme.
+Le reste de l'examen est sans particularité.
+
+Examens complémentaires
+Tomodensitométrie thoraco-abdomino-pelvienne : liquide intrapéritonéal abondant, évocateur d'ascite maligne. Épaississement du péritoine pariétal, asymétrique et hypercapillaire. Repos sans résultat.
+Sérologies VIH, VHB et VHC : négatives.
+Numération sanguine, biochimie et hémostase : normales.
+Cytobiochimie du liquide ascitique : légèrement xanthochromique. Leucocytes 281/ul, prédominance lymphocytaire (87 %), glucose 22 mg/dl, protéines 4 mg/dl et LDH 333 u/l.
+Test de Mantoux : 12 x 12 mm (positif).
+Culture de Lowestein et coloration de Ziehl-Neelsen : négatives.
+Biopsie péritonéale : tumeur à cellules fusiformes. Positif pour la vimentine, l'actine, le CD-117, le CD34 et le S-100. Négatif pour la desmine. Ki-67 de 5 %. Le profil immunohistochimique suggère une tumeur stromale gastro-intestinale.
+
+Diagnostic
+Tumeur stromale gastro-intestinale avancée (métastases péritonéales).
+
+Traitement
+Un cathéter péritonéal a été nécessaire en raison de la grande quantité de liquide ascitique. Les résultats cytobiochimiques ont suggéré un diagnostic différentiel avec l'ascite tuberculeuse, qui a été exclu en raison de l'absence d'isolats microbiologiques. Une chimioprophylaxie à l'isoniazide a donc été mise en place pendant six mois.
+Au vu des résultats de l'anatomie pathologique, il a été adressé au service d'oncologie médicale en avril 2011. Il a commencé un traitement à l'imatinib 400 mg/jour avec une tolérance adéquate, une réponse radiologique partielle, bien qu'il y ait eu peu d'amélioration de l'ascite.
+Après 5 mois de traitement, une intervention chirurgicale a été réalisée en novembre 2011, révélant une grosse tumeur provenant de la grande courbure gastrique, une ascite et une maladie péritonéale de faible volume. La tumeur a été complètement excisée.
+La biopsie a montré une tumeur du stroma gastro-intestinal de 21 cm de diamètre, une prolifération vasculaire frappante et des zones de nécrose de 30 %, positive pour CD 117 et CD 34, négative pour S-100 et desmine, Ki-67 de 3 %.
+
+Evolution
+Un traitement pseudo-néoadjuvant par imatinib 800 mg/jour a été instauré en raison de la taille et de la rareté de la nécrose observée, malgré sa localisation et le faible taux de mitose. Après 18 mois de traitement, elle a présenté une excellente tolérance et les modifications du péritoine (post-chirurgicales et persistance de la maladie) ont progressivement diminué.

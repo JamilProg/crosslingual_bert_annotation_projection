@@ -1,0 +1,26 @@
+Anamnèse
+Un patient de 44 ans, sans habitudes toxiques, sans antécédents connus de maladie hépatique ou de pathologie intéressante, a été adressé à notre centre pour une lésion hépatique évoquant un hémangiome avec élévation pathologique associée de l'alpha-fœtoprotéine (AFP) et, en cas de suspicion de malignité, une résection atypique du segment hépatique II-III a été pratiquée.
+
+Examen physique
+L'examen physique était tout à fait normal : ECOG 0, pas de lymphadénopathie palpable ni de viscéro-mégalie.
+
+Examens complémentaires
+Hémogramme et coagulation : normaux.
+Biochimie avant l'opération : GPT 111, GOT 124, tous les autres normaux.
+Marqueurs tumoraux : AFP préopératoire 58 800 ng/mL. Bêta-HCG normale.
+AFP postopératoire : 13.
+Sérologie : IgG VHA positives, HBsAg négatives, HBsAc > 1000, HCV négatives, HIV négatives.
+Échographie testiculaire : aucun résultat pertinent.
+TDM et IRM : tumeur pédiculée de 5 cm dépendant du segment hépatique II-II qui pourrait correspondre à un hémangiome hépatique sans qu'il soit possible d'exclure d'autres possibilités.
+Anatomie pathologique (AP) : hépatocarcinome multinodulaire modérément différencié avec un modèle histologique principalement trabéculaire et des zones acineuses minoritaires de 10,3 cm. IHC : CK CAM 5.2, AE 1, AE 3, 18 et 8 ++, CK 7 et 20-, anti-hépatocytes positifs ++ Ac focal. Alpha-fœtoprotéine : négative.
+
+Diagnostic
+Hépatocarcinome IIIA (pT3NxMx).
+
+Traitement
+Chirurgie à visée curative, aucune thérapie adjuvante n'est décidée.
+
+Evolution
+Lors du suivi post-opératoire, 18 mois plus tard, une élévation de l'AFP (70 ng/ml) et l'apparition de deux lésions hépatiques évocatrices de malignité, une cholécystectomie et une segmentectomie VI-VII ont été réalisées. L'AP a montré 2 nodules de 2,3 cm et 2 cm compatibles avec un hépatocarcinome.
+Après cette intervention, il a été évalué dans notre service avec un test sanguin qui a montré une nouvelle élévation de l'AFP (238 ng/ml) et une tomodensitométrie a été demandée qui a montré une progression des ganglions lymphatiques médiastinaux. Compte tenu de la progression métastatique, il a été décidé d'entamer un traitement systémique par sorafenib. Malgré ce traitement, le taux d'AFP est passé de 1 143 ng/l au début du traitement à 2 864 ng/l et une nouvelle lésion métastatique est apparue au niveau du hile hépatique.
+Nous nous trouvons donc en présence d'un patient en bon état général, avec une fonction hépatique préservée, qui présente un hépatocarcinome résistant au sorafenib et pour lequel il n'existe pas de traitement de seconde ligne approuvé. Après avoir évalué différentes options, une chimiothérapie a été mise en place avec du cisplatine-doxorubicine-5-FU. Après avoir reçu 6 cycles de chimiothérapie avec une bonne tolérance (diarrhée G2 et asthénie G1), le patient a montré une maladie stable selon les critères RECIST et une diminution marquée du marqueur (AFP) à 45 ng/ml.

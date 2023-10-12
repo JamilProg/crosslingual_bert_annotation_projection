@@ -1,0 +1,16 @@
+T1	pathologie 342 354	valvulopatía
+T2	pathologie 436 454	patología cardíaca
+T3	pathologie 738 751	cardiomegalia
+T4	pathologie 781 829	hipertrofia concéntrica del ventrículo izquierdo
+T5	pathologie 917 931	edema pulmonar
+T6	pathologie 1028 1077	engrosamiento de las valvas de la válvula aórtica
+T7	pathologie 1264 1289	válvula aórtica bicúspide
+T8	pathologie 1397 1414	estenosis aórtica
+#1	SNOMED T1	368009
+#2	SNOMED T2	56265001
+#3	SNOMED T3	8186001
+#4	SNOMED T4	55827005
+#5	SNOMED T5	19242006
+#6	SNOMED T7	72352009
+#7	SNOMED T8	75145007
+#8	SNOMED T6	253606002

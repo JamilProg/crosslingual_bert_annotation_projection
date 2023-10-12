@@ -1,0 +1,44 @@
+Anamnèse
+Ces dernières années, l'immunothérapie s'est imposée comme un traitement standard pour de nombreuses tumeurs, y compris le cancer du poumon non à petites cellules (CPNPC), démontrant une amélioration de la survie et de la qualité de vie des patients atteints de cancer. Le profil de toxicité de l'immunothérapie, sa gestion, la sélection des patients, ainsi que la durée idéale du traitement sont des sujets qui suscitent un grand intérêt. Nous présentons un cas de cancer du poumon non à petites cellules traité par nivolumab, la réponse au traitement et les toxicités associées.
+Après une lobectomie du poumon supérieur droit, un homme de 47 ans, fumeur depuis 20 paquets-années et sans autres antécédents, a été diagnostiqué avec un carcinome adénosquameux peu différencié avec des zones sarcomatoïdes, EGFR non muté, ALK et ROS1 non réarrangés, pT2a pN0 avec infiltration de la plèvre viscérale, avec des marges libres et sans infiltration vasculaire ou périneurale.
+Après une évaluation du rapport bénéfice/risque avec le patient, dont le statut de performance de l'Eastern Cooperative Oncology Group (ECOG-PS) était de 0, un traitement adjuvant a été mis en place en mars 2015. Il a reçu du cisplatine 75 mg/m2 jour 1 et de la vinorelbine 25 mg/m2 jours 1 et 8 tous les 21 jours pendant 4 cycles, avec une excellente tolérance, sans retard de traitement et à pleine dose. Par la suite, elle a commencé le suivi.
+Lors de la tomodensitométrie (TDM) de mars 2016, une excroissance de la glande surrénale gauche a été observée, qui a été ponctionnée et s'est avérée positive pour la malignité et l'immunohistochimie compatible avec un primitif pulmonaire. Après le diagnostic de maladie avancée, le patient a commencé à augmenter sa consommation de boissons alcoolisées, avec des altérations des tests de la fonction hépatique (LFT). La nécessité d'une abstinence d'alcool a été indiquée pour assurer une bonne adhésion au traitement oncologique. On lui a également diagnostiqué une hypertension artérielle et elle a commencé un traitement à base d'amlodipine 5 mg et d'olmésartan 20 mg toutes les 24 heures.
+En avril 2016, elle s'est présentée avec un ECOG-PS 1. Elle a commencé un traitement de première ligne à visée palliative avec du cisplatine 75 mg/m2 jour 1 et de la gemcitabine 1 250 mg/m2 jours 1 et 8 tous les 21 jours, dont elle a reçu 3 cycles. Les toxicités notables comprennent des nausées de grade 1, une thrombopénie de grade 1 et une asthénie de grade 2.
+2. L'examen tomodensitométrique d'évaluation fait état d'une maladie stable. Sur décision de la patiente, qui a refusé de poursuivre le traitement, un suivi a été mis en place.
+En novembre 2016, une progression thoracique et surrénalienne a été observée, avec des signes cliniques et radiologiques de syndrome de la veine cave supérieure (SVCS). Elle a bénéficié d'une radiothérapie (800 cGy en une seule dose) et d'un traitement par dexaméthasone, présentant une amélioration clinique du SVCS, ce qui a permis une diminution progressive de la corticothérapie jusqu'à sa suppression. Il a été proposé de commencer un traitement de deuxième ligne à visée palliative par nivolumab, après un entretien avec le patient au cours duquel il a été informé des bénéfices attendus et des effets indésirables possibles, notamment l'hépatite auto-immune, pour laquelle il lui a été conseillé d'arrêter ou de réduire la consommation de boissons alcoolisées. Lors de la consultation suivante, une amélioration des HPF a été observée. Un traitement par nivolumab à la dose de 3 mg/kg tous les 15 jours a été débuté en deuxième ligne de la maladie avancée avec ECOG-PS 1. Lors du premier scanner (février 2017), une réponse partielle de la masse médiastinale et surrénalienne a été observée, avec l'apparition d'un épanchement pleural. Une thoracentèse diagnostique a été réalisée, négative pour une tumeur maligne, et le traitement par nivolumab a été poursuivi.
+En avril 2017, après 11 perfusions de nivolumab, elle a consulté pour une aggravation de son état général.
+
+Examen physique
+"PS-ECOG 3 : asthénie de grade 3, anorexie de grade 2 et vomissements de grade 1.
+"Auscultation cardio-pulmonaire : aucun résultat intéressant.
+"Abdomen : hépatomégalie de la largeur d'un doigt, molle et dépressible, sans signes d'irritation péritonéale.
+"Membres inférieurs : dermatite des membres inférieurs, sans œdème. Pouls périphériques présents.
+
+Tests complémentaires
+Examens sanguins
+"Hémogramme : dans les limites de la normale.
+"Cortisol basal : 1,8 mcg/dl (plage normale 5,27-22,45 mcg/dl).
+"ACTH : < 5 pg/ml.
+"Sodium : 128 mmol/l (plage normale 137-148 mmol/l).
+"TSH : 15,05 mUI/l (plage normale 0,35-5,5).
+"T4 : 0,74 ng/dl (plage normale 0,89-1,73).
+" Testostérone : 1,71 ng/ml (plage normale 2,85-7,75 ng/ml).
+Tomodensitométrie (mai 2017)
+" Réponse partielle et amélioration de l'épanchement pleural persiste.
+
+Diagnostic
+1. cancer du poumon non à petites cellules de stade IV à traiter par nivolumab.
+1.1 Insuffisance surrénale secondaire à ce qui précède.
+1.1.1 Hyponatrémie secondaire.
+1.2 Hypothyroïdie primaire.
+1.3 Insuffisance gonadique.
+1.4 Dermatite.
+
+Traitement
+Un traitement immédiat a été mis en place avec 100 mg d'hydrocortisone toutes les 8 heures et de la lévothyroxine sodique, et la patiente a été admise pour surveillance. Les examens ultérieurs ont montré une amélioration et une normalisation de la natrémie et du profil hormonal (axe surrénalien et axe thyroïdien). Elle est restée cliniquement et hémodynamiquement stable. A sa sortie, un traitement oral a été prescrit avec 20 mg d'hydrocortisone toutes les 8 heures et 75 mg de lévothyroxine sodique par jour, le reste du traitement à domicile restant inchangé.
+
+Évolution
+Au vu de la toxicité endocrinienne sévère, il a été décidé d'arrêter le nivolumab (dernière administration le 10 avril 2016), en poursuivant le suivi et une corticothérapie dégressive. Après sa sortie, le patient s'est rendu aux urgences en raison d'une asthénie et d'un malaise général. Il a alors reconnu une augmentation de sa consommation d'alcool et une aggravation des résultats des analyses sanguines de la thyroïde, bien que les taux de cortisol de base soient restés dans les limites de la normale. À sa sortie, la dose de lévothyroxine sodique a été augmentée et le traitement antihypertenseur a été définitivement suspendu.
+Lors d'un bilan clinique en juillet 2017, la patiente a présenté un ictère cutanéomuqueux, avec des résultats analytiques compatibles avec une hépatite aiguë, à prédominance cholestatique, et a été admise pour un traitement de substitution thyroïdienne et l'hydrocortisone a été remplacée par de la dexaméthasone à la dose de 4 mg toutes les 8 heures, en suspectant une hépatite auto-immune. L'échographie abdominale n'a pas identifié de lésions parenchymateuses focales, mais une hépatomégalie diffuse et une stéatose. Les sérologies du virus hépatotrope étaient négatives. L'HFP s'est améliorée après un traitement aux corticostéroïdes et il a été autorisé à quitter l'hôpital avec un diagnostic d'hépatite toxique aiguë ou d'hépatite médicamenteuse. Les tests de laboratoire se sont normalisés deux mois après sa sortie.
+Les tomodensitométries de suivi (septembre 2017 et décembre 2017) ont montré une amélioration de la réponse partielle dans la récidive sur la cicatrice, ainsi que dans l'épanchement pleural.
+Du 10 avril 2016 à aujourd'hui, le patient n'a pas reçu de traitement oncologique spécifique. Il est actuellement traité par lévothyroxine sodique 125 mg par jour et une diminution progressive et lente de la dose de corticostéroïdes, actuellement sous prednisone 5 mg par jour, avec un PS-ECOG 1, et la persistance de la consommation d'alcool avec une altération légère et oscillante de la PFH. Lors de la dernière évaluation réalisée en avril 2018, il maintient une réponse partielle.

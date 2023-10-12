@@ -1,0 +1,20 @@
+T1	pathologie 53 62	depresión
+T2	pathologie 102 109	varices
+T3	pathologie 272 320	quiste de tipo mixto (sólido y líquido) en riñón
+T4	pathologie 372 389	quiste hidatídico
+T5	pathologie 516 527	hidatidosis
+T6	pathologie 802 808	quiste
+T7	pathologie 833 855	adenopatías regionales
+T8	pathologie 883 902	tumoración quística
+T9	pathologie 1047 1065	formación quística
+T10	pathologie 1177 1198	nefroma multiquístico
+#1	SNOMED T1	394924000
+#2	SNOMED T9	441457006
+#3	SNOMED T2	128060009
+#4	SNOMED T5	74942003
+#5	SNOMED T3	722223000
+#6	SNOMED T4	74942003
+#7	SNOMED T10	92165001
+#8	SNOMED T6	441457006
+#9	SNOMED T7	30746006
+#10	SNOMED T8	441457006

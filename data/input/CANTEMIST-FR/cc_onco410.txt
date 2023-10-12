@@ -1,0 +1,30 @@
+Anamnèse
+Homme de 82 ans sans allergie médicamenteuse connue, ex-fumeur, ayant des antécédents médicaux et chirurgicaux d'hypertension, de diabète sucré non insulino-dépendant, de cardiopathie ischémique, de résection du côlon pour une possible néoplasie du sigmoïde en 1980, de gastrectomie partielle pour néoplasie en 1999, de cholécystectomie par laparoscopie en 2012 et d'énucléation de l'œil droit en 2016 pour un mélanome choroïdien. Il n'avait pas d'antécédents familiaux intéressants.
+En mai 2018, après avoir été étudié pour une anémie ferriprive, il a été diagnostiqué avec un adénocarcinome du côlon transverse, avec plusieurs lésions occupant l'espace dans le foie étant visualisées dans les tests d'imagerie de stadification réalisés.
+En juin 2018, une résection segmentaire du côlon transverse a été réalisée avec une étude histologique qui a révélé un adénocarcinome du côlon de bas grade pT3N1c. De plus, lors de la même intervention chirurgicale, une biopsie/excision d'une des lésions hépatiques a été réalisée avec un diagnostic anatomo-pathologique final de métastase hépatique due à un mélanome BRAF non muté.
+Fort de ces résultats, après mise à jour des examens d'imagerie et vérification des valeurs analytiques normales, le patient, avec un diagnostic de mélanome de stade IV, a débuté un traitement de 1ère ligne par pembrolizumab en septembre 2018.
+En octobre 2018, après avoir reçu 2 perfusions de traitement à ce jour, le patient s'est présenté aux urgences avec une augmentation progressive de l'asthénie et de l'anorexie sur une période de 2 semaines.
+
+Examen physique
+Le patient avait un état de performance de 3. Il était conscient, coopératif et orienté. Il était déshydraté. L'auscultation cardio-pulmonaire était normale, avec une hépatomégalie importante à la palpation abdominale.
+
+Tests complémentaires
+"Dans l'analyse de sang, il a été noté hémoglobine 9,1 g/dl, urée 232 mg/dl, acide urique 18 mg/dl, créatinine 2,68, potassium 6,9 mmol/l, bilirubine totale 2,8 mg/dl, aspartate aminotransférase (AST/GOT) 199 UI/l, alanine aminotransférase (ALT/GPT) 112 UI/l, gamma-glutamyltransférase (GGT) 273 UI/l, phosphatase alcaline 320 UI/l, lactate déshydrogénase (LDH) 8.958 U/l, calcium corrigé pour l'albumine 8,2 mg/dl.
+"Gaz du sang artériel : pH 7,36, pCO2 23,6 mm Hg, pO2 79 mm Hg, bicarbonate 13,2 mmol/l, excès de base -10,9 mmol/l, lactate 10,88 mmol/l.
+"ECG : fibrillation auriculaire avec réponse ventriculaire à 98 bpm. Bloc de branche droit et hémibloc antérieur gauche. Nécrose inférieure.
+
+Diagnostic
+"Mélanome de stade IV traité par pembrolizumab.
+"Syndrome de lyse tumorale.
+"Insuffisance rénale aiguë de grade 3.
+"Hépatite toxique de grade 2.
+
+Traitement
+Pendant son séjour aux urgences, le traitement a commencé par une sérothérapie, 300 mg d'allopurinol c/12 h par voie orale et du furosémide. Du gluconate de calcium a également été administré pour l'hyperkaliémie, qui s'est améliorée par la suite.
+Après cela, et une fois que la nécessité d'une hémodialyse a été exclue, le patient a été admis.
+
+Évolution
+Pendant son séjour à l'hôpital, le patient est resté cliniquement et hémodynamiquement stable, avec une amélioration progressive des valeurs de laboratoire. Malgré cela, les taux d'acide urique du patient sont restés élevés, et il a donc été décidé d'arrêter l'allopurinol et de commencer la rasburicase.
+Aucune nouvelle altération électrocardiographique n'a été observée pendant cette période, toutes celles décrites correspondant à des changements chroniques secondaires à une maladie cardiaque antérieure.
+Les contrôles analytiques ultérieurs ont montré une aggravation de la fonction rénale, de sorte que l'hydratation a été intensifiée.
+Malgré l'amélioration initiale, 36 heures après l'admission, le patient a subi un arrêt cardio-respiratoire et est finalement décédé. À ce moment-là, les taux de potassium dans le test sanguin étaient normaux.

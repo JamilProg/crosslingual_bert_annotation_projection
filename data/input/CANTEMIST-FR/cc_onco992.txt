@@ -1,0 +1,29 @@
+Anamnèse
+Le patient est un homme de 32 ans atteint d'une anémie de Fanconi associée à une thrombocytopénie, une polydactylie et une hypoplasie du pouce droit lors de sa découverte en 1993, alors qu'il venait d'avoir 8 ans.
+En juin 2009, un syndrome myélodysplasique (cytogénétique +1q et +12p) a été ajouté, un candidat à l'allo-TTPH provenant de sa sœur HLA-identique qui a été perfusée le 12/11/10 après un conditionnement à la fludarabine, au cyclophosphamide et aux globulines antithymocytaires. En conséquence, il a souffert d'une très légère maladie chronique du greffon contre l'hôte (cGVHD) oculaire.
+En janvier 2016, on lui a diagnostiqué un carcinome malpighien infiltrant de la muqueuse jugale gauche, papillomavirus humain positif, traité par résection locale et vidange cervicale (pT4N2b) suivie d'une radiothérapie complémentaire (dose totale 50Gy, début 6/4/16 - fin 10/5/16), sans toxicité. Dernier bilan en novembre 2016, sans aucun signe de la maladie.
+Le patient n'avait pas d'allergies, d'habitudes toxiques ou d'autres antécédents médicaux ou chirurgicaux intéressants, et était traité par la ciclosporine pour la GVHDc, le triméthoprime-sulfaméthoxazole et l'acide folinique hebdomadaire.
+Il a fait ses débuts en janvier 2017, lorsqu'il s'est présenté aux urgences avec un gonflement cervical, une pléthore faciale et une dyspnée progressive d'une semaine, associés à une fièvre de 38,5 ºC. À son arrivée, il était tachycarde et tachypnéique, avec une saturation en oxygène de 92 % avec un masque à 28 % à 6 bpm. La radiographie thoracique a montré une opacité occupant la quasi-totalité de l'hémithorax droit, absente lors du dernier scanner thoracique réalisé en juin 2016.
+
+Examen physique
+L'examen physique a révélé une hypophonie dans le champ pulmonaire droit, associée à un souffle tubaire ipsilatéral. Une tumeur douloureuse et indurée d'environ 3 cm au niveau sous-acromial gauche était également palpable.
+
+Examens complémentaires
+Un scanner thoracique urgent a montré une tumeur de 80 mm dans le lobe supérieur droit avec obstruction de la bronche ipsilatérale, une infiltration étendue du médiastin et de la veine cave supérieure avec thrombose de la veine innominée, et un épanchement pleural droit modéré.
+La bronchoscopie a révélé une masse endobronchique occupant toute la lumière de la bronche principale droite. L'examen anatomopathologique a révélé la présence d'un carcinome épidermoïde kératinisant infiltrant. Aucune mutation de l'EGFR ni translocation de l'ALK n'a été identifiée, mais une forte expression de PD-L1 (60 %) a été constatée. Aucune souche de papillomavirus humain à risque faible ou élevé n'a été identifiée.
+La TEP-TDM a confirmé la dissémination de la maladie avec une atteinte adénopathique hilaire et sous-carénale droite, une glande surrénale droite et des lésions lytiques dans l'acromion gauche et la cinquième côte droite. Il ne présentait aucun signe de récidive du néoplasme de la muqueuse jugale, et le mode de dissémination était en faveur d'un primitif pulmonaire.
+En ce qui concerne le processus fébrile, probablement justifié par une pneumopathie obstructive, des cultures de sang périphérique et de sédiments urinaires ont été effectuées et aucun germe n'a été isolé.
+
+Diagnostic
+Le cas a été classé comme carcinome épidermoïde du poumon, T4N2M1b - stade IV. EGFR non muté, ALK non transloqué. En outre, il présentait un syndrome de la veine cave supérieure et une pneumopathie obstructive probable au niveau de la bronche principale droite, qui ont tous conduit à une insuffisance respiratoire aiguë.
+
+Traitement
+Le traitement a commencé par des corticostéroïdes intraveineux à forte dose et une antibiothérapie à base d'amoxicilline-acide clavulanique.
+Le 12/1/16, une angioplastie par ballonnet a été réalisée et deux stents ont été placés dans la veine cave supérieure, sans incident. La bémiparine 5 000 UI/jour a été mise en place en raison de la thrombose de la veine innominée mentionnée plus haut.
+En collaboration avec l'hématologie et après examen de la bibliographie, la patiente a été considérée comme candidate à une chimiothérapie de première ligne avec du carboplatine AUC 3 et de la gemcitabine adaptée à la fonction hépatique. Cette chimiothérapie a été administrée le premier jour du premier cycle le 17/1/17.
+En ce qui concerne la gestion de l'immunosuppression pour la cGVHD, il a été décidé d'arrêter la ciclosporine pour éviter les interactions possibles avec les cytostatiques et réduire ainsi le taux d'effets indésirables possibles.
+
+Évolution
+Le patient a bien évolué après les mesures thérapeutiques décrites ci-dessus, ce qui a permis de réduire progressivement l'oxygénothérapie jusqu'à son arrêt.
+En ce qui concerne les toxicités de la chimiothérapie, il a présenté des vomissements de grade 2 contrôlés par le métoclopramide et le granisétron, ainsi qu'une thrombopénie de grade 1.
+Le patient est sorti de l'hôpital 13 jours après son admission pour poursuivre son traitement en ambulatoire. Il a été réadmis fin février 2017 pour une dyspnée au moindre effort avec des signes radiologiques compatibles avec une progression de la maladie. Le patient évoluant de manière torpide, il a été décidé de privilégier le contrôle des symptômes. Il est finalement sorti de l'hôpital le 24/2/17.

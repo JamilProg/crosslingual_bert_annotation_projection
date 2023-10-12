@@ -1,0 +1,25 @@
+ANAMNÈSE
+Femme de 58 ans, sans antécédents pathologiques ou familiaux intéressants. Ex-fumeuse depuis 10 ans (paquet/an : 10).
+On lui a diagnostiqué en mars 2011 un adénocarcinome (ADC) du poumon, stade IV (cT2bN2M1b), avec atteinte métastatique pulmonaire bilatérale diffuse et lésions blastiques au niveau des corps vertébraux et des arcs costaux. Il a reçu une chimiothérapie systémique de première intention (SCT) avec paclitaxel 175mg/m2, carboplatine AUC 5 et bevacizumab 7,5mg/kg c/21 jours pendant 6 cycles, avec une réponse partielle (PR). Il a poursuivi son traitement d'entretien au bevacizumab trois fois par semaine, avec une maladie stable pendant huit mois supplémentaires.
+En mai 2012, des papules acuminées jaunâtres sont apparues sur la peau du sein droit. La biopsie était compatible avec une métastase pulmonaire ADC et l'étude moléculaire a détecté une délétion de l'exon 19 de l'EGFR (récepteur du facteur de croissance épidermique) et elle a commencé un traitement par erlotinib à 150 mg/jour. Il a développé une toxicité cutanée de grade III, et il a donc été nécessaire de réduire la dose à 100 mg/jour à partir du deuxième mois de traitement. Les réévaluations ultérieures ont montré une réponse complète des lésions cutanées et une RP dans les poumons et les os.
+En mai 2014, la patiente a présenté pendant un mois des céphalées frontales bilatérales et une sensation d'instabilité sans tourner les objets. Elle a également signalé des acouphènes dans l'oreille gauche et une diplopie binoculaire intermittente. Elle a également présenté une crise tonico-clonique généralisée de quelques secondes, pour laquelle elle s'est rendue aux urgences.
+
+Examen physique
+Le patient avait un indice de performance ECOG (Eastern Cooperative Oncology Group Performance Status) de 2 et les résultats de l'examen neurologique étaient les suivants : parésie du droit externe de l'œil gauche et instabilité de la démarche.
+
+Examens complémentaires
+- La tomodensitométrie cérébrale n'a révélé aucun signe pathologique et il a été décidé d'hospitaliser le patient, où l'étude a été complétée par une IRM cérébrale :
+- une IRM cérébrale qui a détecté une lésion hyperintense de 4 mm en T1 au niveau périventriculaire frontal gauche et, après administration d'un produit de contraste, un hyperenrichissement méningé diffus a été visualisé.
+- Analyse du liquide céphalo-rachidien (LCR).
+- Une évaluation complète a été réalisée, avec un scanner thoraco-abdomino-pelvien et une scintigraphie osseuse, au cours de laquelle une réponse partielle soutenue de la maladie au niveau systémique a été observée.
+
+Diagnostic
+Carcinomatose leptoméningée par un ADC pulmonaire muté EGFR
+
+Traitement
+Un traitement anticomitial a été instauré avec du levetiracetam et des bolus de dexaméthasone à haute dose pour contrôler les symptômes. Étant donné que le patient présentait une progression exclusive au niveau méningé, il a été décidé de poursuivre le traitement par erlotinib, en augmentant la dose à 150 mg/jour, et d'administrer simultanément une chimiothérapie intrathécale (ITC) par l'intermédiaire d'un réservoir Ommaya avec du méthotrexate 12 mg et de l'hydrocortisone 20 mg deux fois par semaine.
+
+Évolution
+Après seulement deux semaines de traitement, tous les symptômes neurologiques ont disparu et la cytologie du LCR s'est révélée négative. Un traitement dégressif de corticostéroïdes a été suivi jusqu'à l'arrêt du traitement et l'administration de QIT a été espacée : une fois par semaine pendant le deuxième mois, puis une fois par mois pendant 6 mois. Une nouvelle analyse du LCR s'est révélée négative et le traitement s'est poursuivi avec l'erlotinib seul, sans toxicité significative.
+
+En juillet 2015, les symptômes neurologiques sont réapparus, et une atteinte métastatique du LCR ainsi que de nouveaux nodules dans le sein droit ont été à nouveau confirmés. Une biopsie a été pratiquée sur l'un d'entre eux, dont le résultat a été une métastase de l'ADC dans le poumon ; l'étude moléculaire a détecté simultanément la délétion de l'exon 19 et la mutation T790M de l'EGFR. Jusqu'alors, la survie sans progression (SSP) au niveau systémique avec l'erlotinib était de 38 mois et de 14 mois avec la CML. Il a été décidé d'initier une GCS avec du pemetrexed 500mg/m2 c/21 jours et une TKT avec le même schéma que celui décrit ci-dessus. Une RP systémique, une amélioration neurologique et une négativation du LCR ont été observées pour la deuxième fois (tableau 1). Actuellement (mai/2016), le patient poursuit son traitement, la survie globale est de 5,3 ans ; 2 ans depuis le diagnostic de MLC.

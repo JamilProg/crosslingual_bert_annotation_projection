@@ -1,0 +1,12 @@
+T1	pathologie 125 181	carcinoma ductal infiltrante en cuadrante súpero-externo
+T2	pathologie 220 241	metástasis ganglionar
+T3	pathologie 1274 1297	cicatriz de mastectomía
+T4	pathologie 1600 1608	cicatriz
+T5	pathologie 1934 1950	tumores malignos
+T6	pathologie 2685 2701	rotura protésica
+#1	SNOMED T1	82711006
+#2	SNOMED T5	363346000
+#3	SNOMED T2	94392001
+#4	SNOMED T4	275322007
+#5	SNOMED T6	271543000
+#6	SNOMED T3	245850007

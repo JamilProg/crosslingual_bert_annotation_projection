@@ -1,0 +1,28 @@
+Anamnèse
+Une femme de 77 ans, sans allergie ni habitudes toxiques, avec des antécédents d'hypertension, de diabète sucré de type 2 et de dyslipidémie, sous traitement par metformine, simvastatine et énalapril/hydrochloritiazide et sans antécédents familiaux de cancer, a consulté en août 2014 pour autopalpation d'un nodule au sein gauche.
+
+Examen physique
+La patiente était consciente et orientée, avec une auscultation cardio-pulmonaire normale, un abdomen sans signe de péritonisme, sans masse palpable ni mégalithes, et sans focalité neurologique aiguë. Une tumeur de 2 cm était palpable dans le quadrant interne du sein gauche avec une adénopathie axillaire homolatérale, et l'examen du sein droit était normal.
+
+Examens complémentaires
+"La mammographie a montré une image nodulaire à cet endroit avec une classification BIRADS 4 ; à l'échographie, le nodule mesurait 17 x 15 mm, et il y avait des ganglions lymphatiques axillaires suspects.
+"Une biopsie à l'aiguille de la lésion a été effectuée dans le quadrant interne et interne avec placement de marqueurs et s'est révélée positive pour un carcinome canalaire infiltrant, grade 2, récepteur d'œstrogène positif (histoscore 300, Allred 8/8), récepteur de progestérone négatif (histoscore 30, Allred 2/8), indice de prolifération Ki-67 de 35 %, HER2 négatif (1+). La biopsie du ganglion lymphatique axillaire était également positive pour un carcinome d'origine mammaire avec le même phénotype.
+"L'étude d'extension par tomodensitométrie et la scintigraphie osseuse n'ont montré aucun signe de maladie disséminée.
+"L'étude a été complétée par une IRM mammaire, qui a révélé une lésion de 30 x 15 mm dans le sein gauche et une lymphadénopathie axillaire gauche de 17 mm de diamètre.
+
+Diagnostic
+Avec ces résultats, il s'agissait d'un carcinome canalaire infiltrant du sein, grade 2, cT2N1M0, stade IIB, phénotype luminal B.
+
+Traitement
+Après évaluation du cas par le comité multidisciplinaire du sein, il a été décidé de commencer une chimiothérapie néoadjuvante à base d'anthracyclines (4 cycles de doxorubicine et de cyclophosphamide), suivie de taxanes (4 cycles de docétaxel), puis de planifier une chirurgie conservatrice avec vidange axillaire.
+
+Avec une fraction d'éjection ventriculaire gauche préservée, il a commencé une chimiothérapie néoadjuvante en septembre 2014 avec doxorubicine 60 mg/m2 plus cyclophosphamide 600 mg/m2 tous les 21 jours, avec une bonne tolérance initiale, présentant comme effets secondaires une alopécie et une neutropénie de grade 2 afébrile, uniquement lors du premier cycle, qui s'est résolue avec un décalage d'une semaine du cycle suivant. Elle a reçu 4 cycles avec une bonne réponse clinique initiale, une réduction de 5 mm de la taille de la tumeur et une stabilisation de la taille de l'adénopathie à l'échographie.
+
+Le docétaxel 100 mg/m2 tous les 21 jours a alors été commencé, mais après 2 cycles, la lésion a augmenté de taille pour atteindre 4 cm à l'échographie. À ce stade, il a été décidé d'arrêter la chimiothérapie et un sauvetage chirurgical de la lésion a été proposé.
+
+Une nouvelle IRM du sein a révélé une lésion de 40 x 15 mm dans le quadrant interne et une adénopathie axillaire gauche de 1 cm de diamètre.
+
+S'agissant d'une tumeur luminale, œstrogéno-dépendante, et compte tenu de la progression locale, il a été décidé de débuter un traitement hormonal de première intention par fulvestrant 500 mg tous les 28 jours (avec une dose de charge de 500 mg après 14 jours), en attendant la programmation de l'intervention chirurgicale. Elle a reçu ce traitement du 3 février 2015 jusqu'à la date de l'intervention chirurgicale.
+
+Évolution
+Le 19 mars 2015, elle a subi une mastectomie gauche avec curage ganglionnaire et l'anatomie pathologique a révélé un carcinome canalaire infiltrant résiduel de grade 2 de 4,5 x 3 mm avec invasion lymphovasculaire, avec des marges libres, impliquant 2 des 15 ganglions réséqués, sans rupture capsulaire ni invasion des tissus mous. Le profil immunohistochimique était positif pour les récepteurs d'œstrogènes (histoscore 295, Allred 8/8), négatif pour les récepteurs de progestérone (histoscore 0), exprimait un Ki-67 de 9 % et était HER2 négatif.

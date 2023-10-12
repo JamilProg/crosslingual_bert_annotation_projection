@@ -1,0 +1,12 @@
+T1	pathologie 54 62	migrañas
+T2	pathologie 75 108	ciática refractaria a tratamiento
+T3	pathologie 111 130	hernia discal L5-S1
+T4	pathologie 2262 2316	no veía absolutamente nada por ninguno de los dos ojos
+T5	pathologie 2949 2959	migrañosos
+T6	pathologie 3342 3357	discromatopsias
+#1	SNOMED T1	37796009
+#2	SNOMED T4	193699007
+#3	SNOMED T2	23056005
+#4	SNOMED T5	37796009
+#5	SNOMED T3	84857004
+#6	SNOMED T6	193683001

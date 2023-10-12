@@ -1,0 +1,26 @@
+T1	pathologie 33 40	fumador
+T2	pathologie 95 118	alergias medicamentosas
+T3	pathologie 136 146	hipertenso
+T4	pathologie 151 160	diabético
+T5	pathologie 171 181	dislipemia
+T6	pathologie 198 207	cataratas
+T7	pathologie 707 770	glándula parótida derecha se identifican dos lesiones nodulares
+T8	pathologie 938 989	parótida izquierda se identifica una lesión nodular
+T9	pathologie 1261 1277	tumor de Warthin
+T10	pathologie 1370 1386	tumor de Warthin
+T11	pathologie 1470 1531	lesiones nodulares heterogéneas, en ambas glándulas parótidas
+T12	pathologie 1723 1765	tumor de Warthin multicéntrico y bilateral
+T13	pathologie 1869 1908	tumor de Warthin multifocal y bilateral
+#1	SNOMED T7	126788000
+#2	SNOMED T11	126788000
+#3	SNOMED T10	422470007
+#4	SNOMED T9	422470007
+#5	SNOMED T13	20776008
+#6	SNOMED T3	38341003
+#7	SNOMED T4	73211009
+#8	SNOMED T5	370992007
+#9	SNOMED T6	193570009
+#10	SNOMED T8	126788000
+#11	SNOMED T12	20776008
+#12	SNOMED T2	416098002
+#13	SNOMED T1	77176002

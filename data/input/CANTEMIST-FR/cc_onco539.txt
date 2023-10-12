@@ -1,0 +1,29 @@
+Anamnèse
+Femme de 55 ans, sans habitudes toxiques, avec des antécédents familiaux : mère décédée à l'âge de 58 ans d'un probable cancer gastrique (néoplasme métastatique, primitif inconnu), sœur décédée à l'âge de 49 ans d'un cancer métastatique d'un primitif non affilié (adénocarcinome d'un primitif non affilié) et frère décédé à l'âge de 56 ans, diagnostiqué d'un cancer du côlon.
+Le patient était asymptomatique.
+
+Examen physique
+Il y avait un nodule mal délimité d'environ 15 mm, de consistance moyenne, situé dans le quadrant périaréolaire super-externe du sein gauche. L'examen axillaire gauche est normal.
+
+Examens complémentaires
+Une mammographie a été réalisée dans le cadre du programme de dépistage (13-07-2015) qui a révélé des calcifications suspectes et elle a été adressée au service de pathologie mammaire pour compléter les études.
+Depuis, de nombreux examens diagnostiques ont été réalisés :
+" Mammographie + échographie mammaire + échographie axillaire (05-08-2015) où des microcalcifications fortement suspectes de malignité sont mises en évidence au niveau rétroaréolaire gauche.
+"Biopsie à l'aiguille (15-08-2015) : compatible avec un carcinome canalaire infiltrant faiblement-modérément différencié et de haut grade cytologique dans l'échantillon soumis avec récepteur d'œstrogène négatif, récepteur de progestatif faiblement positif (25-30 % des cellules néoplasiques), P53 faiblement positif, HER-2 positif (+++), Ki-67 positif dans 30 % des cellules et cytokératine 19 positive.
+" Imagerie par résonance magnétique (IRM) mammaire (28-08-2015) : le sein gauche étant compatible avec une IRM BIRADS 6 avec multicentricité probable et le sein droit avec une IRM BIRADS 1.
+" Échographie de l'ensemble de l'abdomen (5-09-2015) : foie à échostructure inhomogène avec augmentation diffuse de l'échogénicité possiblement liée à une stéatose/hépatopathie, détectant un nodule hypoéchogène (11 mm) situé dans le segment IV-A, non spécifique, pouvant être lié à un hémangiome, une métastase n'étant pas exclue compte tenu de la pathologie sous-jacente de la patiente.
+" IRM hépatique (11-09-2015) : foie avec plusieurs kystes simples. LOE de 17 mm dans le segment IV compatible avec une métastase.
+" BAG hépatique (10-11-2015) : métastase hépatique d'un carcinome canalaire infiltrant.
+" Scintigraphie osseuse (03-11-2015) : pas de preuve de lésions métastatiques avec réaction ostéoblastique. Suspicion de captation au niveau du sternum.
+
+Diagnostic
+Carcinome canalaire infiltrant peu ou moyennement différencié du sein gauche avec invasion lymphovasculaire pT2 pN1a (3/21) M1 (hépatique unique, suspicion sternale possible à la scintigraphie et douteuse à D12) ER négatif, RP faiblement positif (25-30 % des cellules néoplasiques), P53 faiblement positif, HER-2 positif (+++), Ki-67 positif dans 30 % des cellules, cytokératine 19 positive.
+
+Traitement
+Le 24-09-2015, une mastectomie totale simple du sein gauche + biopsie sélective du ganglion sentinelle a été réalisée (3 sentinelles, avec macrométastases dans les 2ème et 3ème avec CCT : 234 000 copies, NPV 76,82%), et a été complétée par une lymphadénectomie axillaire gauche.
+En novembre 2015, une première ligne de traitement a été initiée pour la maladie avancée avec docétaxel + trastuzumab + pertuzumab pour 6 cycles (1er : 25-11-2015/6ème : 10-03-2016), avec une réponse hépatique partielle et une stabilité de la maladie au niveau osseux.
+Il est décidé de poursuivre le traitement par pertuzumab + trastuzumab + TAXOL pendant trois cycles avec disparition de la captation gammagraphique sternale (16 juin), décidant d'un traitement d'entretien par double blocage + létrozole, débuté le 16 juin et recevant le 40e cycle en mai 2018 avec une réponse complète maintenue jusqu'à cette date.
+En mai 2018, il a présenté des vertiges et des céphalées, associés à une perte de force dans le membre supérieur droit, pour lesquels une IRM cérébrale a été réalisée, montrant une seule progression du SNC au niveau frontal gauche, pour laquelle une radiothérapie stéréotaxique fractionnée a été décidée avec une dose totale de 30 Greys entre mai et juin 2018 avec craniectomie ultérieure et ablation de la métastase frontale le 21-06-2018.
+
+Évolution
+Une fois la progression du système nerveux central résolue, il a été décidé de poursuivre le traitement par double blocage et létrozole, avec 54 cycles à ce jour, en maintenant une réponse complète à la fois au niveau systémique et au niveau du système nerveux central.

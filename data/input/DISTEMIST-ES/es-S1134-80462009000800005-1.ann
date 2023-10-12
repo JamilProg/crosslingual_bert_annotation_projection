@@ -1,0 +1,6 @@
+T1	pathologie 145 204	afectación herpética de la rama oftálmica del V par craneal
+T2	pathologie 363 397	queratitis y uveítis de repetición
+T3	pathologie 906 978	neuralgia posqueratitis herpética de la rama oftálmica del V par craneal
+#1	SNOMED T2	5888003+128473001
+#2	SNOMED T1	87513003
+#3	SNOMED T3	371409005

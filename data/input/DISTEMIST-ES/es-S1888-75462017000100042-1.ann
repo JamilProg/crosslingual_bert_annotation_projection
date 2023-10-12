@@ -1,0 +1,6 @@
+T1	pathologie 491 552	neuropatía compresiva del nervio cubital en el canal de Guyon
+T2	pathologie 795 847	pseudoartrosis de la apófisis unciforme del ganchoso
+T3	pathologie 988 1002	pseudoartrosis
+#1	SNOMED T2	208369005
+#2	SNOMED T1	193134004
+#3	SNOMED T3	410818009

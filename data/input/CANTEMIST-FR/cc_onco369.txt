@@ -1,0 +1,37 @@
+ANAMNÈSE
+Patiente de 67 ans, pas d'allergies médicamenteuses connues, pas d'habitudes toxiques, pas de facteurs de risque cardiovasculaire, pas d'interventions chirurgicales d'intérêt.
+Elle ne prend pas de traitement régulier.
+
+Antécédents familiaux de cancer : le père est décédé à l'âge de 67 ans d'un cancer du côlon et la mère est décédée à l'âge de 86 ans d'un cancer métastatique, non affilié.
+
+Examen physique
+Conscient et orienté. Bon état général. PS0.
+Lésion pigmentée de 8x3 mm sur la face externe du 5ème orteil du pied gauche.
+Auscultation cardio-pulmonaire : rythmée, sans souffle. Murmure vésiculaire conservateur sans bruits superposés.
+Abdomen souple et non douloureux. Pas de ganglions lymphatiques palpables.
+
+Tests complémentaires
+Voir Evolution.
+
+Diagnostic
+Voir Evolution.
+
+Traitement
+Voir Evolution.
+
+Evolution
+En octobre 2014, le patient a consulté au service de dermatologie pour une lésion pigmentée mesurant 8x3mm sur le 5e orteil du pied gauche, qui a été excisée.
+Anatomie pathologique de la lésion : Mélanome malin d'extension superficielle mesurant 0,8x0,3cm, non ulcéré, avec un indice de Breslow de 1,5 mm et un nombre de mitoses en mm2 de 1. La marge de résection profonde est atteinte et le niveau de Clark ne peut être évalué. Aucun ganglion lymphatique sentinelle n'a été réalisé. Le stade à ce moment-là était T2 à N0M0.
+La question a été discutée au sein du comité des tumeurs et il a été décidé, compte tenu de la localisation, de demander une étude d'extension :
+- Tomodensitométrie thoraco-abdominale avec contraste intraveineux : aucune adénopathie médiastinale ou axillaire n'a été observée.
+Il existe une lésion nodulaire bien circonscrite dans l'oreillette gauche, en contact avec le versant supérieur de la paroi, qui présente une certaine calcification et est hypodense, des résultats liés à un thrombus dû à une lésion dépendante de la paroi.
+- Échographie du creux poplité et de la région inguinale gauche : absence d'adénopathies pathologiques.
+- Analyse sanguine : hémogramme et biochimie sans altération.
+
+L'affaire a été discutée avec le service de cardiologie et une IRM cardiaque a été réalisée : masse intracavitaire dépendant de la paroi supérieure de l'oreillette gauche, de morphologie nodulaire et d'un diamètre maximal de 19 mm, avec un large ancrage à la paroi de l'oreillette, sans preuve de mobilité significative au cours du cycle cardiaque. Les caractéristiques d'intensité du signal et le rehaussement après l'administration de contraste suggèrent une lésion métastatique comme première possibilité, sans pouvoir exclure d'autres étiologies moins probables (myxome auriculaire). Aucune autre lésion focale ou épanchement péricardique n'a été observé.
+Un élargissement chirurgical a été effectué sur la marge profonde affectée avec amputation du 5e orteil du pied gauche et des tiers moyen et distal du 5e métatarsien du pied gauche, et l'échantillon analysé par anatomie pathologique a montré une peau avec une fibrose cicatricielle sans l'existence de restes tumoraux.
+Un échocardiogramme transthoracique et transœsophagien a ensuite été réalisé : taille normale des cavités cardiaques, sans altération de la contractilité segmentaire, avec une bonne fonction systolique biventriculaire. Valves morphologiquement et hémodynamiquement normales. Absence de PHT. Masse de 19 x 17 mm de morphologie arrondie avec micro-dépôts calciques et petites zones de liquéfaction, ancrée au niveau de la paroi antéro-supérieure de l'oreillette gauche, sans compromettre les veines pulmonaires.
+Les caractéristiques de la masse et le contexte de bonne fonction ventriculaire sans raison de stase sanguine rendent peu probable qu'il s'agisse d'un thrombus, de sorte que la colonisation myocardique du mélanome doit être exclue.
+L'étude est complétée par un PET-CT. TEP-CT : Aucun signe métabolique n'a été observé au niveau cardiaque ou dans d'autres localisations évocatrices de la viabilité de la tumeur.
+Après évaluation par le service de cardiologie, il a été décidé d'adresser le patient au service de chirurgie cardiaque, quelle que soit son origine, et comme il répondait aux critères d'ablation de la masse atriale, la masse atriale gauche a été enlevée en avril 2015. Le rapport pathologique de la biopsie peropératoire était évocateur d'un myxome atrial et le résultat définitif était une tumeur stromale laxe mucoïde.
+La patiente a ensuite été suivie par les services de dermatologie, d'oncologie et de cardiologie. Elle n'a pas eu de maladie tumorale et présente de légers symptômes secondaires à une intervention chirurgicale cardiaque majeure.

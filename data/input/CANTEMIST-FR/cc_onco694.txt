@@ -1,0 +1,28 @@
+Anamnèse
+L'histoire oncologique de notre patient a commencé en août 2016, après avoir consulté en raison de la persistance d'une tumeur des tissus mous cervicaux qui causait une dysphonie et une dysphagie avec les solides. Dans ses antécédents personnels, il était fumeur depuis l'âge de 16 ans, avec une consommation cumulée de 20 paquets par an, avait été un consommateur occasionnel de cannabis et de cocaïne dans sa jeunesse, et avait jusqu'à trois pneumothoraces spontanés gauches dans ses antécédents, le dernier ayant nécessité une chirurgie vidéo-assistée (VAT). À l'exception d'un adénocarcinome de la prostate survenu à l'âge de 70 ans chez son père, il n'y avait pas d'autres antécédents intéressants.
+Après la découverte d'une masse paratrachéale droite à la radiographie du thorax, le processus diagnostique correspondant a été mis en place, comprenant : tomographie axiale du cou, du thorax, de l'abdomen et du bassin (CT), tomographie par émission de positons (PET-CT), bronchoscopie, spirométrie, biopsie à l'aiguille centrale guidée par CT du nodule médiastinal et imagerie par résonance magnétique (IRM) du cerveau.
+Finalement, le patient a été diagnostiqué avec un adénocarcinome pulmonaire non à petites cellules cT4 cN2 cM0, stade IIIB, EGFR et ALK négatifs. En outre, au moment du diagnostic, le patient présentait un syndrome de la veine cave supérieure et une thrombose de la veine jugulaire droite, qui ont été contrôlés après un traitement à la dexaméthasone et à l'héparine de faible poids moléculaire (HBPM), respectivement.
+Compte tenu de cette situation clinique, le comité des tumeurs thoraciques a décidé d'entreprendre une chimiothérapie et une radiothérapie (RT) concomitantes selon le schéma cisplatine-vinorelbine, avec une intention radicale. Il a reçu un total de quatre cycles, présentant comme toxicité : une dysgueusie de grade 2, un acouphène de grade 1, une anémie de grade 3, une neutropénie fébrile de grade 3 et une asthénie de grade 2.
+En décembre 2016, lors du premier contrôle iconographique après la fin de la chimioradiothérapie concomitante, un scanner a mis en évidence une lésion hépatique focale de 1,28 cm sur le segment II, et une étude diagnostique a été complétée par TEP-TDM et AGB hépatique, qui a confirmé la nature métastatique de la lésion due à un adénocarcinome pulmonaire. L'étude anatomopathologique a été étendue, avec ROS1 négatif, BRAF négatif et PD-L1 < 1 %. Elle a alors débuté une immunothérapie par nivolumab, dont elle a reçu 8 doses, ne présentant comme toxicité qu'une asthénie de grade 1.
+En mai 2017, compte tenu de la croissance de la lésion hépatique mise en évidence par la tomodensitométrie, et après avoir écarté la possibilité d'une réponse paradoxale au nivolumab lors des contrôles successifs, une troisième ligne par docétaxel a été proposée. Le patient a reçu un total de quatre cycles, avec une maladie stable à partir du deuxième cycle, et un profil de toxicité consistant en une asthénie de grade 1 et une mucosite de grade 2. Cependant, en août de la même année, le patient a présenté une nouvelle progression hépatique iconographique.
+
+Examen physique
+Au moment de la progression hépatique sous nivolumab, le patient avait un indice de Karnofsky de 100. A l'examen de l'abdomen, on note une hépatomégalie d'environ 2 cm. Par ailleurs, on note une augmentation du diamètre du membre supérieur droit, dans le cadre d'une thrombose de la veine sous-clavière déjà décrite et en cours de traitement. Les examens cardiaques, pulmonaires et neurologiques n'ont révélé aucune anomalie pathologique.
+
+Tests complémentaires
+" Analyses sanguines : HDL 36, GGT 263, FA 209, LDH 2575, Fe 27, Hb 11,7, le reste normal.
+"Tomodensitométrie d'août 2017. Croissance d'une lésion métastatique hépatique connue (10 à 12 cm), associée à une thrombose portale gauche.
+" PET-CT scan d'août 2017. Lésion du lobe hépatique gauche mesurant 86 par 128 mm, avec un SUVmax de 17,53. Le reste de l'étude sans captation pathologique.
+
+Diagnostic
+"Métastase hépatique unique d'un adénocarcinome pulmonaire dans le segment II, 12 cm.
+"Carcinome non à petites cellules cT4 cN2 cM0, stade IIIB. EGFR et ALK négatifs. B-RAF.
+"Négatif. ROS-1 négatif. PD-L1 < 1 %.
+"Thrombose portale.
+
+Traitement
+À ce stade, nous avons trouvé un patient avec une maladie disséminée dans une seule localisation de 12 cm, évoluant vers un traitement de troisième ligne avec un ECOG de 0. Après avoir exclu la maladie à d'autres niveaux par PET-CT, la RT a été proposée pour le traitement de la lésion hépatique avec l'intention d'une résection chirurgicale en cas de réponse.
+La patiente a reçu la RT selon le schéma de 250 cGy/séance 5 jours par semaine, se terminant le 11 septembre 2017, avec une mauvaise tolérance : anorexie et asthénie de grade 2 associées à une perte de poids accélérée (ECOG 2). Après traitement, la lésion ayant diminué de taille et de captation en TEP-TDM, il a été proposé une résection chirurgicale qui a été réalisée avec succès le 19 février 2018.
+
+Évolution
+Par la suite, un mois après l'opération, un scanner de réévaluation a révélé des lésions scléreuses des corps vertébraux T1 à T4, qui ont été confirmées comme métastatiques par PET-CT. En outre, le patient présentait une maladie à d'autres niveaux : hépatique, surrénalien, ganglions lymphatiques abdominaux et implant du côlon. Compte tenu des résultats, il a été proposé de commencer le pemetrexed en monothérapie, qui a débuté le 26 mars 2018 et dont il a actuellement reçu un total de deux cycles sans toxicité rapportée.

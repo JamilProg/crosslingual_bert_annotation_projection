@@ -1,0 +1,58 @@
+ANAMNESIS
+
+CONTEXTE PERSONNEL
+
+La patiente, une femme de 62 ans, a subi un curetage de l'utérus à l'âge de 31 ans. Elle n'a jamais fumé ni bu. Pas d'antécédents familiaux intéressants. En avril 2015, elle a consulté le service des urgences à plusieurs reprises en raison d'épistaxis de la narine droite, nécessitant plusieurs tamponnements, pour lesquels elle a entamé des études dans un centre privé. Un scanner (tomodensitométrie) des sinus paranasaux a montré une masse polypoïde dans la narine droite.
+Compte tenu de la suspicion d'un processus néoplasique, une biopsie a été effectuée et a révélé un mélanome de la muqueuse (immunohistochimie Melan A et HMB 45 +. Positivité étendue pour CD117. Mutation du gène BRAF négative.
+Au vu de ces résultats, un scanner crânien complet a été réalisé et a montré que la lésion était expansive avec une atteinte de la paroi médiane du maxillaire et une extension à la choane. Le reste du bilan d'extension s'est révélé négatif.
+Finalement, le 28 juillet 16, le patient a subi une maxillectomie radicale du maxillaire droit avec exantation de l'orbite droite et reconstruction par un lambeau de muscle temporal (marges chirurgicales libres, sans invasion vasculaire ou périneurale dans l'étude de la pièce). La patiente a ensuite été suivie en oto-rhino-laryngologie et en oncologie, et en décembre 2015, l'IRM et le PET-CT ont détecté une récidive tumorale avec des signes d'invasion extra-axiale de la fosse cérébrale antérieure. Étude d'extension négative.
+Adressé au service d'oncologie de notre hôpital après avoir rejeté la possibilité d'une chirurgie R0 où une imagerie par résonance magnétique (IRM) de référence a été réalisée en janvier 2016, montrant une masse importante au comportement malin agressif avec un épicentre dans la région hémifaciale droite montrant une invasion intracrânienne avec une infiltration probable de la méninge de la région frontale droite.
+Le conglomérat nécrotique adénopathique de la latérocervicale droite occupe le niveau II A et atteint 3 cm.
+À l'examen, on note un œdème, un érythème et des zones étendues de nécrose avec froideur au toucher dans la région fronto-orbitaire et la joue droite. Cliniquement, elle a signalé des douleurs et des saignements au niveau de la lésion, pour lesquels elle a reçu cinq séances de 4 Gy avec des photons de 6 Mv dans un but hémostatique.
+Après élargissement de l'immunohistochimie à cKIT (très positive), il a été décidé en février 2016 de débuter l'Imatinib le 08/02/2016 à la dose de 400 mg/24 heures après avoir correctement informé la patiente des interactions médicamenteuses (P450 CYP3A4) et des effets secondaires. L'étude moléculaire de c-KIT a été étendue et d'autres possibilités telles que la chimiothérapie et l'immunothérapie ont été envisagées et examinées (peu de données publiées dans ce sous-type).
+Le 15/02/16, elle allait subjectivement mieux car elle présentait moins de douleur et d'inflammation locale, et la chirurgie plastique a réalisé des pansements avec une bonne évolution. La dernière visite a eu lieu pour le cycle 3 le 7/3/16 où la patiente a continué à s'améliorer progressivement.
+
+MOTIF DE LA CONSULTATION
+
+Le 1/04/16 à 13h, la patiente s'est présentée au service des urgences avec un saignement abondant de la lésion et une douleur dans l'épigastre irradiant vers la taille. Elle n'a pas eu de fièvre, n'a pas subi de traumatisme dans la région, n'a pas eu de maux de tête et n'a présenté aucun autre symptôme lors de l'anamnèse effectuée par l'appareil.
+
+Examen physique
+Hémodynamiquement stable. Afébrile.
+Auscultation : tons rythmiques à une bonne fréquence. Bon murmure vésiculaire.
+Abdomen mou et dépressible, douloureux à la palpation au niveau épigastrique.
+Importante hépatomégalie palpable et douloureuse. Pas de signes d'irritation péritonéale.
+Membres inférieurs sans œdème ni signe de thrombose veineuse profonde.
+
+Tests complémentaires
+- Examens de laboratoire 01/04/16 : fonction rénale et ions normaux. Bilirubine et amylase normales. GGT 148 mU/ml (10-50), GOT 347 mU/ml (10-40), GPT 347 mU/ml (10-37) (normales auparavant). NFS : leucocytes normaux avec une légère neutrophilie, hémoglobine 85g/dl (110-130), 79000 plaquettes (110 000-440 000).
+Tous les temps de coagulation sont allongés : INR 1,84 (0,8-1,2), temps de prothrombine 19 secondes (9-13,5), temps de prothrombine 33,7 secondes (19-27), TPTA 50,8 (22-40). Consommation de fibrinogène 0,38 (1,5-4). Augmentation des D-dimères 554 000 mcg/L (0-500).
+- Frottis sanguin périphérique : thrombopénie avérée, quelques schistocytes.
+- Echographie abdominale urgente 01/02/16 : hépatomégalie avec de multiples LOE hépatiques inconnues, dont une dans le lobe hépatique droit (segment IVB) avec possible complication hémorragique.
+Reste de l'abdomen sans altération.
+- Hémocultures sans fièvre : négatives.
+
+Diagnostic
+- Signes de CIVD aiguë chez un patient atteint d'un mélanome de la muqueuse nasale et d'une progression métastatique massive vers le foie.
+- Hypertransaminasémie sans signe d'insuffisance hépatique et avec une fonction rénale préservée.
+
+Traitement
+La chirurgie maxillo-faciale et l'hématologie sont contactées pour une prise en charge conjointe et un traitement est mis en place :
+- Interruption de l'imatinib
+- Traitement topique avec des pansements d'acide tranexamique.
+- Transfusion de plaquettes toutes les 8 heures et transfusion sanguine sur demande analytique et clinique.
+- Plasma à 15 ml/kg (60 kg) toutes les 12-24 heures.
+- Vitamine K intraveineuse toutes les 8 heures.
+- Acide tranexamique 500 mg toutes les 8 heures par voie intraveineuse.
+- Sérothérapie.
+- Héparine 40 mg sous-cutanée (dose prophylactique).
+
+Évolution
+Après 2 heures passées dans la salle de traitement, la patiente a continué à saigner abondamment de la lésion et a commencé à souffrir d'hypotension. À 17 heures, elle a été transférée à l'unité de soins intensifs où elle a été surveillée, le traitement a été intensifié par sérothérapie et les mesures établies ont été poursuivies. Aucune fièvre ou foyer infectieux n'a été observé à aucun moment, mais un traitement a été mis en place avec 1g de méropénem par voie intraveineuse toutes les 8 heures.
+À 21 heures, le patient était tachypnéique, avec une saturation en oxygène de 86 %. À l'examen, des crépitants bilatéraux et un ictère de la peau et des muqueuses n'étaient pas présents auparavant. Un nouveau bilan sanguin a été réalisé, montrant une détérioration de la fonction rénale, avec une créatinine à 1,7 mg/dl (0,5-1,1), une hyperbilirubinémie au détriment de la directe à 3 mg/dl (0-0,35), une augmentation des enzymes hépatiques, 39 000 plaquettes, une hémoglobine post-transfusionnelle à 8,8 et une aggravation de la coagulation. La radiographie du thorax a montré un infiltrat interstitiel alvéolaire bilatéral compatible avec une hémorragie pulmonaire. Une oxygénothérapie a été mise en place et le traitement s'est poursuivi, avec l'ajout de diurétiques en raison d'une éventuelle surcharge volumique.
+A 00h00, la patiente était agitée, désorientée et obnubilée, dyspnéique malgré l'utilisation d'un masque à réservoir d'oxygène et avec apparition de battements de cils. Nous avons expliqué à ses proches le taux de mortalité élevé de la CIVD quelle qu'en soit la cause, ajoutant à cela une maladie sous-jacente non contrôlée (mélanome muqueux en progression) et la faible réponse aux mesures prises. Une perfusion de chlorure morphique a été mise en place pour le contrôle des symptômes.
+
+Jugement clinique évolutif
+- Signes de CIVD aiguë en phase hémorragique réfractaire après près de 12 heures chez un patient atteint d'un mélanome de la muqueuse nasale et d'une progression métastatique massive au foie.
+- Insuffisance respiratoire hypoxémique secondaire à une probable hémorragie alvéolaire.
+- Données cliniques et analytiques de l'insuffisance hépatique secondaire.
+A 10h00 le 2/4/16, après presque 24 heures de traitement, la situation clinique et analytique restait mauvaise avec des saignements tumoraux actifs et une insuffisance respiratoire avec une saturation en O2 de 75%. Devant l'absence de réponse, la patiente a été admise en unité de soins palliatifs et, après une sédation terminale, a été exhumée à 13h00.

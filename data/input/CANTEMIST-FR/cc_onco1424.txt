@@ -1,0 +1,29 @@
+Anamnèse
+Le patient était un homme de 66 ans sans antécédents pertinents qui a consulté pour un tableau clinique de 6 mois de douleurs lombaires progressives devenant invalidantes, associées à un syndrome constitutionnel et à des sueurs.
+
+Examen physique
+Palpation du bord supérieur du lobe thyroïdien gauche, augmentation de la consistance. Douleur à la palpation de la région dorso-lombaire et, à l'examen neurologique, diminution des réflexes tendineux dans les extrémités. Force limitée en raison de la douleur lombaire, sensibilité préservée.
+
+Examens complémentaires
+Radiographie du rachis lombaire : arthrose L4-L5 et L5-S1.
+Tomodensitométrie cervicothoracoabdominale : goitre intrathoracique aux dépens du lobe gauche, LOE multiple hygiénique. Au niveau du rectum, zone de sténose évocatrice de néoplasie.
+Marqueurs tumoraux : CEA 6,3 ng/ml, antigène CA 125 7,6 U/ml, antigène CA 19-9 13,5 U/ml, PSA 1,91 ng/ml.
+Scintigraphie osseuse : dissémination osseuse métastatique.
+Coloscopie : diverticulose colique. Hémorroïdes internes.
+Ponction à l'aiguille fine (FNA) du LOE hépatique : métastase d'un carcinome médullaire de la thyroïde.
+Immunohistochimie CK AE1-AE3 (+) ; -TTF-1 (+) ; synaptophysine (+) ; chromogranine (+) ; calcitonine (+) ; thyroglobuline (-) ; CDX-2(-) ; Ki-67 (MIB-1) 98 %. Rouge Congo et thioflavine (-).
+Echographie cervicale : lésion au pôle inférieur de l'ITL, atteinte ganglionnaire cervicale et sus-claviculaire ipsilatérale.
+T.S.H. 1,45 μU/ml T4 libre 1,27 ng/dl
+Marqueurs tumoraux : Chromogranine A 752,77 ng/ml Enolase spécifique neuronale 188,90 ng/ml Calcitonine 9885 pg/ml.
+FNA de la thyroïde gauche : carcinome neuroendocrine produisant de la calcitonine suggérant un carcinome médullaire.
+Scintigraphie à l'octréotride : négative.
+
+Diagnostic
+Carcinome médullaire de la thyroïde de stade IV (métastases osseuses et hépatiques).
+
+Traitement
+À l'admission, une analgésie par opioïdes a été instaurée en raison de douleurs lombaires difficiles à contrôler et, après des examens complémentaires, un diagnostic de carcinome médullaire de la thyroïde avec dissémination hépatique et osseuse a été posé.
+En raison du risque de complications locales dues à la grande taille de la lésion thyroïdienne, une thyroïdectomie subtotale a été pratiquée pour éviter l'occlusion des voies respiratoires. La complication immédiate a été une paralysie de la corde vocale médiane. Par la suite, l'admission a été prolongée en raison d'une pneumonie nosocomiale.
+
+Evolution
+À la fin du traitement antibiotique, un traitement au vandétanib 300 mg/jour a été instauré, avec une amélioration rapide du syndrome constitutionnel, de la transpiration et de la douleur. Actuellement, le patient est toujours en réponse clinique, en attendant l'évaluation de la réponse radiologique et avec une bonne tolérance au traitement, ne présentant qu'une légère toxicité cutanée qui n'a pas nécessité de modification de la dose.

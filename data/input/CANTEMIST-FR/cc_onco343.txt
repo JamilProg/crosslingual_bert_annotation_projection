@@ -1,0 +1,44 @@
+Anamnèse
+
+CONTEXTE PERSONNEL
+
+Homme, 54 ans, marié, deux enfants, vit à la maison avec sa femme dans une zone urbaine.
+Aucune allergie médicamenteuse connue. Hypertension artérielle non traitée, dyslipidémie et hyperuricémie. Syndrome d'apnée obstructive du sommeil traité par l'utilisation nocturne d'un appareil à pression positive continue. Aucun antécédent chirurgical. Aucun traitement pharmacologique actif au moment de la consultation.
+
+HISTOIRE DE LA FAMILLE
+
+Pas d'antécédents familiaux pertinents.
+
+MALADIE ACTUELLE
+Le patient a consulté en décembre 2012 en raison de l'apparition d'une masse douloureuse de cinq mois d'évolution sur la paroi thoracique postérieure gauche, de croissance progressive, non associée à une perte de poids, à de la fièvre ou à d'autres symptômes. Anamnèse par appareil sans données pertinentes.
+
+Examen physique
+T.A. 130/70 ; C.F. 86 bpm ; ECOG 1 ; Poids 94 kg ; Taille 170 cm. Muqueuses humides, de couleur normale. Pas de ganglions lymphatiques cervicaux, sus-claviculaires, axillaires ou inguinaux palpables. Bruits cardiaques rythmiques sans souffle. Murmure vésiculaire universel sans bruits pathologiques. Masse palpable de 3 cm de diamètre, située sur la paroi thoracique postéro-latérale gauche, légèrement douloureuse. Abdomen mou, dépressible, non douloureux à la palpation, sans masse ni mégalithe. Membres inférieurs sans œdème ni douleur à la palpation.
+
+Examens complémentaires
+"Radiographie simple du thorax et du thorax latéral : aucune altération pertinente n'a été observée.
+"Scanner du thorax, de l'abdomen et du bassin : une tumeur des tissus mous mesurant 3,2 x 2 cm a été observée dans la région postéro-latérale de la paroi costale gauche, située dans l'espace intercostal entre les 10e et 11e côtes, avec un plan de clivage avec la musculature dorsale. Une tumeur solide a également été observée sur le bord inférieur du rein droit, radiologiquement compatible avec un hypernéphrome, ainsi qu'une tumeur de 2 cm en relation étroite avec le bord supérieur d'une anse de l'iléon avec une calcification grossière à l'intérieur.
+"IRM de la paroi costale gauche : la présence de la tumeur dans l'espace intercostal entre la 10ème (en relation étroite avec son arc postérieur) et la 11ème côte gauche est confirmée, avec des changements de signal dans la moelle osseuse de la 10ème côte, compatibles avec une infiltration. Elle est entourée d'un plan graisseux, tant par rapport à la musculature dorsale que dans la graisse sous-diaphragmatique gauche et par rapport au bord de la rate. Il y a également une lésion de 5,5 cm dans la région interpolaire antérieure du rein droit.
+"Biopsie à l'aiguille d'une masse de tissu mou de la paroi thoracique gauche : sarcome de haut grade compatible avec un rhabdomyosarcome pléomorphe.
+
+Diagnostic
+"Sarcome de haut grade de la paroi thoracique gauche, compatible avec un rhabdomyosarcome pléomorphe.
+"Masse rénale droite, radiologiquement compatible avec un hypernéphrome, à étudier.
+"Tumeur iléale extrinsèque, à étudier.
+
+Traitement
+Le cas a été présenté au comité multidisciplinaire des sarcomes, et il a été décidé de procéder à la chirurgie de la masse thoracique et à l'étude ultérieure des lésions rénales et iléales.
+Le 12 février 2013, la tumeur a été excisée de la paroi thoracique postérieure gauche et de la 10e côte, y compris le muscle latissimus dorsi qui la recouvre et la plèvre pariétale sur laquelle elle est située, et reconstruite avec un filet.
+"Pathologie : rhabdomyosarcome pléomorphe d'un diamètre maximal de 3,3 cm infiltrant le tissu costal. Bords chirurgicaux libres (marge de sécurité de 4 mm au bord profond).
+Une adénopathie indemne de malignité. G3 pT1b pN0. Les techniques d'immunohistochimie montrent une positivité intense contre l'actine et la desmine et une positivité focale contre la myogénine. CKAE1-AE3, S100, CD34, CD 31 et MyoD1 négatifs. Ki 67 de 50 %.
+Compte tenu de l'existence d'une marge anatomique libre, un traitement radiothérapeutique complémentaire est exclu.
+
+Évolution
+Le 27 février 2013, la patiente a été évaluée dans le service d'oncologie médicale et un scanner post-chirurgical a été demandé, qui n'a montré aucun signe de récidive de la lésion thoracique et une augmentation minime de la taille de la lésion rénale droite. La tumeur sous-séreuse liée à l'iléon ne présentait aucune variation de taille et s'était déplacée vers la fosse iliaque gauche (ce qui indique l'absence de réaction desmoplastique associée). Un petit nodule hypercapillaire de 7 mm a également été observé sur la paroi postérieure de la quatrième portion duodénale, qui était réapparu.
+Le 22 avril 2013, une néphrectomie radicale droite et une résection partielle de l'iléon et des implants de la paroi de l'intestin grêle ont été réalisés (six implants sur la séreuse de l'intestin grêle, de la quatrième portion duodénale à l'iléon proximal, et un autre de 1,5 cm dans le bord mésentérique de l'iléon et un autre de 1 cm dans le mésentère).
+"Anatomie pathologique de la néphrectomie radicale droite : adénocarcinome rénal à cellules claires, grade nucléaire de Fuhrman 3. Lésion de 5 cm de dimension maximale, qui infiltre focalement la graisse périnéale. Veine rénale sans signe de malignité. La caudale urétérale et la glande surrénale ne présentent pas d'altérations histologiques notables.
+"Pathologie de l'intestin grêle et implants du mésentère : tumeur stromale gastro-intestinale (GIST) de cellules fusiformes de bas grade en six foyers, le plus grand mesurant 1,9 cm.
+Catégorie de risque très faible (classification de Fletcher). Une mitose / 50 HPF. G1 pT1(m6). La cellularité tumorale est positive pour c-kit, CD 34 et PDGFR, S100, desmine, AE1/AE3, myod1, myogénine, actine et desmine sont négatifs. Ki 67 < 5 %.
+Au scanner post-chirurgical de mai 2013, un nodule hyperdense de 7 mm persistait dans la paroi de la quatrième portion duodénale, sans autre lésion visualisée dans la paroi thoracique ou intra-abdominale, de sorte que le sauvetage chirurgical du nodule restant a été envisagé, ce qui a été réalisé le 07 octobre 2013 par une résection segmentaire duodéno-jéjunale, L'anatomie pathologique a confirmé une tumeur stromale à cellules fusiformes de bas grade de 4 mm (G1 pT1), respectant les marges chirurgicales de résection et n'identifiant aucune mitose dans 50 champs à fort grossissement (catégorie de risque très faible selon la classification de Fletcher).
+Lors d'une nouvelle évaluation du patient dans le service d'oncologie médicale, le traitement adjuvant par imatinib a été rejeté car il s'agissait d'une GIST à faible risque ; en raison de son caractère multifocal, le patient a été adressé au service de conseil génétique où l'extraction et l'analyse de l'ADN ont été demandées pour l'étude moléculaire de c-kit, avec information préalable et signature du consentement, en trouvant deux polymorphismes décrits dans la population de contrôle et sans association clinique avec un quelconque syndrome familial associé à la GIST.
+De même, lors des contrôles cliniques et d'imagerie successifs, la patiente est restée indemne de maladie, ayant été évaluée pour la dernière fois en avril 2016.

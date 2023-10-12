@@ -1,0 +1,31 @@
+Anamnèse
+Il s'agit d'une femme de 61 ans ayant des antécédents d'obésité et d'hypertension artérielle essentielle sous traitement par irbésartan 150 mg toutes les 24 heures, sans antécédent familial de cancer intéressant, qui, en octobre 2010, a consulté pour une grosseur au sein droit évoluant depuis 6 mois avec une rétraction cutanée et mammaire.
+Il a été décidé de réaliser une mammographie et une échographie avec ponction à l'aiguille fine (FNA) en raison de la suspicion clinique de cancer du sein localement avancé, avec le diagnostic radiologique d'une tumeur mesurant 36 x 31 mm dans le CSE MD et les ganglions lymphatiques axillaires droits suspects de malignité BI-RADS 5 ; et le diagnostic anatomopathologique de confirmation d'un carcinome canalaire infiltrant du sein (CDI) avec invasion du derme profond et de l'hypoderme, récepteurs d'œstrogènes et de progestérone négatifs, C erb B2 positif (plus de 10 %), EGFR négatif et un Ki 67 de 25 %. Une étude d'extension a été réalisée avec un scanner thorax-abdomen-pelvis (TAP) montrant des lymphadénopathies axillaires droites, ainsi que des métastases pulmonaires et hépatiques bilatérales. On a diagnostiqué chez la patiente un IDC du sein droit enrichi en HER-2 de stade IV (cT4 cN2 M1).
+Elle a été présentée au Comité du sein et un traitement par doxorubicine liposomale et paclitaxel en association avec du trastuzumab a été décidé comme traitement de première intention. Au scanner TAP de février 2011, elle a montré une amélioration radiologique de la maladie avec une diminution notable des adénopathies axillaires droites, de la lésion mammaire droite (23 x 11 mm), ainsi que des métastases pulmonaires et hépatiques.
+La patiente a reçu 8 cycles, la seule toxicité étant une légère augmentation des transaminases et une légère paresthésie dans les membres inférieurs et supérieurs, sans autre toxicité pertinente ; et dans le PET-CT scan de mai 2011, il n'y avait pas de prise pathologique, avec aucune preuve de maladie macroscopique, il a donc été décidé de pratiquer une chirurgie sur la tumeur primaire et de continuer avec le trastuzumab intraveineux.
+En juin 2011, une mastectomie radicale modifiée a été réalisée, ainsi qu'une lymphadénectomie des 3 niveaux de Berg et du ganglion de Rotter, suivie d'une radiothérapie (RT) sur la paroi costale (50 Gy 200 cGy/séance ; 5 séances/semaine). Dans le rapport de l'AP sur la pièce, aucune tumeur résiduelle ou atteinte ganglionnaire n'a été observée, la patiente ayant obtenu une réponse pathologique complète au traitement néoadjuvant (G5 dans la classification de Miller et Payne), et il n'a pas été possible de répéter l'immunohistochimie sur la pièce car il n'y avait pas de tumeur résiduelle.
+Depuis lors, au stade NED, la patiente est traitée par trastuzumab iv et des contrôles bimensuels avec imagerie et tests analytiques, bon état général (PS 0) et scanners dans les limites de la normale, à l'exception d'une légère augmentation des transaminases. En mars 2015, après 32 cycles de trastuzumab intraveineux, la voie d'administration a été changée en sous-cutanée en raison d'effets secondaires moindres.
+En janvier 2018, 7 ans et demi après le diagnostic initial, la patiente a signalé des vertiges et des étourdissements avec des changements de position et d'ambulation, ainsi que des douleurs cervicales depuis un mois.
+PET-CT SCAN.
+L'IRM a montré une image compatible avec une métastase cérébelleuse gauche avec des signes d'hydrocéphalie active et une descente de l'amygdale cérébelleuse de 15 mm sous le plan du foramen magnum, ainsi qu'une diminution de l'intensité du signal dans les vertèbres T1 à T3 évocatrice d'une atteinte métastatique. Le PET CT scan n'a révélé aucune lésion tumorale. Au vu de ces résultats, le comité de neurochirurgie a été consulté et il a été décidé de réaliser une intervention chirurgicale consistant en une craniotomie rétrosigmoïde sous-occipitale gauche et une excision de la tumeur en février 2018, un traitement par corticoïdes et une radiothérapie holocrânienne ultérieure (500 cGy par fraction 3 fois pendant une semaine), avec des nausées de grade 1 qui se sont résolues en tant qu'effet secondaire de la RT.
+Après le traitement, le patient a signalé la disparition de l'instabilité et des maux de tête.
+Le PA de la biopsie du cervelet a été rapporté comme une métastase d'un carcinome largement nécrosé avec des récepteurs d'œstrogènes positifs +++, une progestérone négative et un C erb 2 positif.
+Compte tenu de la progression des os et du SNC, il a été décidé, après le traitement radical de la métastase cérébelleuse, de commencer un traitement par TDM-1 trastuzumab emtansine en deuxième intention pour le cancer du sein métastatique HER-2+.
+
+Examen physique
+Bon état général, examen cardio-pulmonaire, abdominal et des membres inférieurs sans particularité. Obésité.
+
+Tests complémentaires
+"Hémogramme et coagulation normaux. Biochimie normale sauf GPT 57 U/l et GOT 47 U/l.
+"IRM : image compatible avec une métastase cérébelleuse gauche avec signes d'hydrocéphalie active et descente des amygdales cérébelleuses 15 mm sous le plan du foramen magnum. Altération de l'intensité du signal dans les vertèbres T1 à T3 suggérant une atteinte métastatique.
+"TEP-TDM : aucun dépôt anormal de traceur n'a été observé dans les territoires ganglionnaires latérocervicaux, dans le médiastin ou les aisselles. Fixation adéquate du traceur dans le parenchyme pulmonaire, sans nodules pulmonaires hypermétaboliques. Foie et rate normométaboliques. Pas de ganglions lymphatiques présentant une activité métabolique anormale. Activité intestinale diffuse, sans dépôts focaux.
+"Mammographie : BI-RADS 2.
+
+Diagnostic
+Métastase cérébelleuse d'un carcinome mammaire canalaire infiltrant HER-2+.
+
+Traitement
+TDM-1 (trastuzumab emtansine).
+
+Évolution
+La patiente évolue favorablement, sans symptômes neurologiques, avec seulement des nausées matinales sans vomissements et une bonne réponse au métoclopramide.

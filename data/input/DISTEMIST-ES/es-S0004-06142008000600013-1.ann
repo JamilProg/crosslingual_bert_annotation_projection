@@ -1,0 +1,10 @@
+T1	pathologie 196 214	bocio multinodular
+T2	pathologie 838 853	carcinoma renal
+T3	pathologie 954 976	adenopatías cervicales
+T4	pathologie 987 1044	imágenes ocupantes de espacio en seno piriforme izquierdo
+T5	pathologie 1066 1074	lesiones
+#1	SNOMED T1	237570007
+#2	SNOMED T2	254915003
+#3	SNOMED T3	127086001
+#4	SNOMED T5	157670007
+#5	SNOMED T4	7393007

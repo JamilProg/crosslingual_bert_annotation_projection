@@ -1,0 +1,21 @@
+Anamnèse
+Femme de 72 ans, d'origine anglaise, sans antécédents médicaux ou chirurgicaux intéressants, ancienne fumeuse de 35 ans/pack et consommatrice de 3 combinés par jour. Elle a eu sa ménarche à l'âge de 14 ans et a commencé à avoir ses règles à l'âge de 50 ans. Elle a eu 2 grossesses, 0 fausse couche et 2 accouchements à terme. Elle ne prend aucun traitement de façon régulière et n'a jamais reçu de traitement hormonal substitutif ou de contraceptifs oraux. La patiente consulte pour des épisodes intermittents de saignements post-ménopausiques d'une durée de 3 mois, qui deviennent plus fréquents.
+
+Examen physique
+Le patient était en bon état général, avec un ECOG de 1 et aucun résultat pertinent à l'examen physique. Le seul résultat notable était un IMC de 29.
+
+Examens complémentaires
+Les examens de laboratoire habituels étaient normaux. En ce qui concerne les marqueurs tumoraux, on note une augmentation du CA 125 de 29,4 U/ml, alors que l'ACE et le CA 19.9 restent dans les valeurs normales.
+L'hystéroscopie a montré un épaississement de l'endomètre et la biopsie de l'endomètre a montré une tumeur maligne avec une composante de carcinome indifférencié à petites cellules intermédiaires associée à un adénocarcinome endométrioïde avec un aspect villoglandulaire, sans pouvoir exclure une composante stromale maligne. L'immunohistochimie était positive pour la kératine AE1-AE3, la vimentine, le CD56 et l'énolase, et négative pour la chromogranine, avec un Ki67 de 70 % dans la composante indifférenciée. Suite à ces résultats, il a été décidé de lancer une étude d'extension.
+
+Diagnostic
+La tomodensitométrie thoraco-abdominale-pelvienne a montré 2 adénopathies rétropéritonéales latérales à la veine cave de 1,7 et 1,4 cm de plus grand diamètre et plusieurs adénopathies sous-centimétriques para-aortiques gauches, ainsi qu'une masse occupant la cavité utérine mesurant 86,8 x 67,7 mm.
+L'étude a été complétée par une IRM pelvienne qui a révélé la présence d'une volumineuse tumeur de 81 x 70,9 mm avec une distribution circonférentielle occupant la cavité utérine, affectant plus de 50% de l'épaisseur du myomètre, ce qui correspond au stade IB selon la classification de la FIGO.
+
+Traitement
+Une laparotomie médiane infra-ombilicale avec lavage péritonéal, une hystérectomie totale avec brassard vaginal, une salpingo-ovariectomie bilatérale et une lymphadénectomie pelvienne bilatérale sont pratiquées.
+
+Evolution
+Après analyse de la pièce opératoire, le diagnostic histologique définitif est celui d'un sarcome stromal endométrial indifférencié monomorphe en collision avec un adénocarcinome endométrioïde de stade IB (FIGO 1, grade 2 et 10 mitoses/champ). Dans l'étude immunohistochimique, la composante tumorale indifférenciée a montré une forte positivité pour CD10, B-caténine et WT1, alors qu'elle était négative pour CK AE1/AE3, EMA, chromogranine, synaptophysine, desmine, h-caldesmon, CD20 et CD30.
+L'étude a été complétée par un scanner PET-CT montrant une adénopathie para-aortique gauche (la plus grande mesurant 9x11 mm), iliaque gauche (la plus grande mesurant 10x15 mm) et iliaque droite (mesurant 6,7 mm), avec des SUV Max de 4,45, 5,87 et 3,58 respectivement.
+Dans ces conditions, il a été décidé de commencer un traitement de chimiothérapie selon le schéma Gemcitabine 900 mg/m2 jours 1 et 8, associé à Docetaxel 75 mg/m2 jour 8, tous les 21 jours pendant 4 cycles.

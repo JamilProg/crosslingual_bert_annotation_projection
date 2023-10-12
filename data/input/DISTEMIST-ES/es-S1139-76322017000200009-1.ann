@@ -1,0 +1,28 @@
+T1	pathologie 71 89	dermatitis atópica
+T2	pathologie 201 211	infeccioso
+T3	pathologie 241 249	varicela
+T4	pathologie 284 290	lesión
+T5	pathologie 306 319	herpes labial
+T6	pathologie 393 422	lesiones cutáneas vesiculosas
+T7	pathologie 510 526	impetiginización
+T8	pathologie 541 550	celulitis
+T9	pathologie 556 644	lesiones cutáneas estaban distribuidas en ambos miembros inferiores, superiores y tronco
+T10	pathologie 801 810	infección
+T11	pathologie 862 894	erupción variceliforme de Kaposi
+T12	pathologie 1629 1647	lesiones costrosas
+T13	pathologie 1823 1840	lesiones cutáneas
+T14	pathologie 1850 1868	dermatitis atópica
+#1	SNOMED T11	186535001
+#2	SNOMED T1	24079001
+#3	SNOMED T14	24079001
+#4	SNOMED T8	128045006
+#5	SNOMED T2	40733004
+#6	SNOMED T3	38907003
+#7	SNOMED T5	1475003
+#8	SNOMED T10	40733004
+#9	SNOMED T9	400202001+400160003+400106006
+#10	SNOMED T13	95324001
+#11	SNOMED T4	417163006
+#12	SNOMED T6	53788007
+#13	SNOMED T7	48277006
+#14	SNOMED T12	95324001

@@ -1,0 +1,22 @@
+T1	pathologie 71 80	exfumador
+T2	pathologie 133 158	válvula aórtica bicúspide
+T3	pathologie 221 266	diverticulitis de sigma aguda con perforación
+T4	pathologie 269 280	peritonitis
+T5	pathologie 329 376	trombosis venosa profunda (TVP) fémoro-poplítea
+T6	pathologie 356 359	TVP
+T7	pathologie 508 539	síndrome de hipercoagulabilidad
+T8	pathologie 2091 2116	válvula aórtica bicúspide
+T9	pathologie 2434 2458	tromboembolismo pulmonar
+T10	pathologie 3679 3712	síndrome antifosfolípido primario
+T11	pathologie 3715 3734	hemorragia pulmonar
+#1	SNOMED T1	8517006
+#2	SNOMED T2	72352009
+#3	SNOMED T4	48661000
+#4	SNOMED T5	703277001
+#5	SNOMED T7	234467004
+#6	SNOMED T8	72352009
+#7	SNOMED T9	59282003
+#8	SNOMED T10	239892009
+#9	SNOMED T11	78144005
+#10	SNOMED T3	110429003
+#11	SNOMED T6	128053003

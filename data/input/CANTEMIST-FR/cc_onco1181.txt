@@ -1,0 +1,35 @@
+Anamnèse
+La patiente est une femme de 32 ans sans antécédents particuliers qui, en juin 2006, a remarqué une grosseur douloureuse se développant dans le quadrant supérieur externe du sein droit.
+À cette époque, une échographie mammaire a été réalisée, qui a révélé une lésion bénigne de 2 cm dans le sein droit.
+En novembre 2006, elle s'est présentée à la clinique avec une mammographie/échographie montrant une lésion évoquant un fibroadénome géant ou un cystosarcome phyloïde.
+Le 9 février 2007, une excision a été réalisée, avec un rapport peropératoire de carcinome infiltrant, et une acmastectomie avec vidange axillaire a été effectuée.
+Le résultat définitif était un carcinome canalaire infiltrant avec une différenciation de grade 3, 4,7 cm de grand axe et un vide axillaire avec une implication de 2 des 16 ganglions lymphatiques, des récepteurs d'œstrogène et de progestagène de 0 %, Herceptest grade 1 et MIB-1 de 64 %.
+La patiente a été adressée à notre service pour compléter le diagnostic et le traitement.
+
+Examen physique
+Examen des seins : modifications post-chirurgicales dans le sein droit et dans le sein gauche sans résultats pathologiques. Pas de ganglions lymphatiques palpables.
+Auscultation cardio-pulmonaire : rythmique sans souffle. Le murmure vésical a été préservé.
+Abdomen : bruits hydro-aériques présents. Doux, dépressible, non douloureux, sans péritonisme.
+Membres inférieurs : pas d'œdème ni de signe de TVP.
+
+Examens complémentaires
+- Tomodensitométrie thoraco-abdominale-pelvienne : trois lésions pulmonaires nodulaires, la plus grande mesurant 21 mm, compatibles avec une métastase.
+- La scintigraphie osseuse est normale.
+
+Diagnostic
+Carcinome canalaire infiltrant du sein droit, grade 3, pT2N1(2/16)M1 (pulmonaire) triple négatif chez une patiente préménopausée sans antécédents.
+
+Traitement
+Un traitement de première ligne a été instauré dans le cadre de l'étude ATHENA avec du docétaxel à 75 mg/m2 et du bévacizumab à 15 mg/kg tous les 21 jours entre le 22 mai et le 10 octobre 2007, avec une progression des nodules pulmonaires.
+Elle est passée à un traitement de seconde ligne dans l'essai clinique BALI avec du cisplatine à 75 mg/m2 tous les 21 jours et du cetuximab à 250 mg/m2 par semaine pendant 6 cycles jusqu'en juin 2008, obtenant une réponse radiologique complète, et continuant à maintenir le cetuximab jusqu'en octobre 2008.
+En octobre 2008, un scanner crânien a été demandé en raison de céphalées persistantes, montrant une métastase occipitale gauche de 32 mm. Le traitement a été indiqué avec une radiothérapie holocrânienne (30 Gy) et une surimpression ultérieure avec une radiochirurgie en une seule séance (15 Gy) le 12 février 2009. Compte tenu de la réponse systémique complète, il a été décidé d'entamer une observation étroite sans traitement.
+Au cours du suivi de la patiente, un test de mutation BRCA 1-2 a été demandé et le résultat s'est avéré positif pour 185 de l'AG dans l'exon 2 du gène BRCA1.
+
+Évolution
+En août 2009, on lui a diagnostiqué une nécrose avasculaire de la hanche secondaire à un traitement prolongé aux corticostéroïdes.
+À la fin de l'année 2009, on lui a diagnostiqué un cancer du sein luminal B controlatéral, et il a été décidé de procéder à une mastectomie palliative.
+Après l'opération du 17 décembre 2009, avec le résultat d'un carcinome canalaire infiltrant de grade 2, des récepteurs d'œstrogènes à 97 %, des récepteurs de progestatifs à 75 %, HER2 non amplifié par FISH et MIB à 13 %, elle a commencé à prendre du tamoxifène à raison de 20 mg/24 heures.
+Une ovariectomie prophylactique a été pratiquée le 29 avril 2010.
+En novembre 2011, elle a commencé à présenter un défaut de vision dans le champ latéral et a été envoyée en ophtalmologie, où l'on a parlé d'un défaut homonyme avec quadrantanopsie. Une IRM cérébrale a été demandée, qui a révélé une progression significative (à la fois de la lésion précédemment décrite dans la région occipitale gauche et de l'œdème environnant), sans pouvoir exclure une radionécrose, de sorte qu'un traitement par corticostéroïdes et capécitabine-bevacizumab a été mis en place jusqu'en juin 2012, avec une nette amélioration des symptômes et un entretien continu avec le létrozole depuis lors.
+En juin 2013, un œdème accru autour de la lésion occipitale a été observé, compatible avec une radionécrose, de sorte que le bévacizumab et le létrozole ont été réintroduits, avec une amélioration lors des contrôles successifs.
+En mai 2014, la tomodensitométrie de réévaluation mettait en évidence une progression adénopathique gauche et une progression hépatique douteuse. Un nouvel ECO-BAG des adénopathies axillaires a été demandé et, selon le phénotype, une nouvelle ligne de traitement par fulvestrant ou exémestane-évérolimus a été décidée, ou si le phénotype était triple négatif, l'anthracilline serait envisagée.

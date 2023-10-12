@@ -1,0 +1,33 @@
+Anamnèse
+La patiente est une femme de 58 ans, sans habitudes toxiques, avec des antécédents personnels d'asthme allergique et de syndrome anxieux suivis en psychiatrie et traités par bromazépam, paroxétine et escitalopram. Antécédents chirurgicaux : appendicectomie, saphénectomie.
+Amenée par ses proches au service des urgences en raison de symptômes confusionnels et d'une détérioration cognitive évoluant depuis plusieurs jours. La famille a indiqué que la patiente présentait une détérioration cognitive progressive depuis trois semaines, accompagnée ces derniers jours de troubles de la mémoire, d'hallucinations visuelles et d'idées d'automutilation. Elle a également présenté l'apparition d'une tumeur sous-mandibulaire droite évoluant depuis plusieurs mois et dont la taille a progressivement augmenté, sans aucun autre symptôme.
+
+Examen physique
+ECOG 1, conscient et orienté. Palpation d'une masse dans l'angle mandibulaire droit, de consistance dure et non douloureuse, sans adénopathies périphériques. L'examen neurologique montre une bradypsychie, des tremblements des membres supérieurs sans perte de force, une amnésie et une dysesthésie corporelle, aucune autre focalité neurologique n'est observée et le reste de l'examen physique est normal.
+
+Tests complémentaires
+- ANALYTIQUES SANGUINES : pas d'altération. Toxines urinaires négatives.
+- ÉCHOGRAPHIE DE LA THYROÏDE ET DU COU,
+Dans la région cervicale droite, coïncidant avec une lésion palpable, on observe des lésions ganglionnaires infiltrantes solides, la plus grande de 3,8 cm de diamètre, la plus grande hétérogène.
+- SCANNER DU COU : Masse latéro-cervicale médiane par rapport au muscle sterno-cléido-mastoïdien droit et latérale par rapport aux principaux vaisseaux cervicaux qu'elle déplace médialement, d'environ 3,1 cm de diamètre antéro-postérieur et 2,3 cm de prise de contraste transversale, hétérogène, évoquant une adénomégalie métastatique, en outre le contour postérieur de la base de la langue sur son côté gauche apparaît proéminent, asymétrique par rapport au côté contralatéral.
+- FIBROBRONCOSCOPIE : Au niveau du pli glossopharyngien droit, on observe une image rugueuse, une biopsie est réalisée sans mise en évidence de cellules malignes.
+- Tomodensitométrie crânienne : aucun signe évocateur d'une pathologie intracrânienne aiguë.
+- Ponction-aspiration à l'aiguille fine (FNA) de la masse latéro-cervicale droite : Infiltration d'un carcinome peu différencié.
+Étude immunohistochimique : positive pour CK AE1/AE2 et CD 56, positive focale pour CK 7 et CK 5/6, négative pour CK 20, Vimentine et CD 45.
+- PET-CT : confirme la présence d'une adénopathie de 36 mm à axe majeur unique avec SUVmax pathologique.
+
+Diagnostic
+Carcinome métastatique adénopathique indifférencié d'origine inconnue (zone ORL probable).
+
+Traitement
+Une vidange radicale droite a été effectuée, avec ablation d'un faisceau de ganglions lymphatiques sous-digastriques droits, qui infiltraient la veine jugulaire interne, et ablation de 3 ganglions positifs pour un carcinome peu différencié.
+Résultats anatomopathologiques : carcinome peu différencié. Immunohistochimie : positive pour PAN-CK, EMA, P63 et focalement et faiblement pour CD10. et négative pour CK7, CK20, TTF1, RE, VIMENTIN, CD45, ALK, CDK5/6, CK34BE12 et S100.
+Compte tenu du diagnostic de carcinome adénopathique métastatique indifférencié d'origine probablement oto-rhino-laryngologique, un traitement par chimiothérapie au Carboplatine à une dose hebdomadaire d'aire sous la courbe de 2 (AUC 2) et une radiothérapie concomitante ont été proposés.
+
+Évolution
+Dans les jours qui ont suivi l'intervention chirurgicale, avant le début du traitement, il a présenté une aggravation clinique avec des symptômes progressifs de troubles de la mémoire, d'insomnie avec parasomnies et de bradypsychie et bradykinésie significatives avec apparition d'une paralysie du nerf facial gauche. Une imagerie par résonance magnétique (IRM) a été demandée, dont les résultats suggèrent une encéphalite limbique avec atteinte bilatérale et symétrique de l'amygdale et de l'hippocampe.
+Une étude étiologique a été entamée avec un panel d'auto-immunité (anticorps antiphysine, CV2, PNMA2 Anti Ri, Anti Yo, Anti Hu) et une sérologie (VIH 1 et 2, Syphilis et Hépatite) et une détermination de la vitamine B12 et de l'acide folique ainsi qu'une ponction lombaire avec détermination bactériologique, entérovirus et herpès virus, tous avec des résultats normaux, excluant ainsi les causes auto-immunes et infectieuses.
+La patiente a commencé un traitement adjuvant au carboplatine AUC 2 fois par semaine concomitamment à une radiothérapie IMRT recevant un total de 60 Gy sur les niveaux gagglioniques Ib, II, III et V et un total de 54 Gy sur les niveaux ganglionnaires droits II et IV. Elle a présenté comme toxicité pertinente une dermite G2.
+Après le début du traitement, la patiente a montré une amélioration progressive de ses symptômes, mais a persisté avec une légère paralysie faciale gauche, des tremblements dans le membre supérieur droit, une amnésie et une dysesthésie, et une amélioration des troubles de la mémoire, des hallucinations visuelles et de la bradykinésie.
+Une IRM cérébrale a été réalisée deux mois après le diagnostic, montrant une amélioration de l'encéphalite sans évidence de foyers avec une captation anormale.
+La patiente a vu ses symptômes s'améliorer progressivement et ne présente actuellement qu'un tremblement persistant dans le membre supérieur droit. Elle continue à être suivie régulièrement par le service d'oncologie médicale, sans aucun signe de rechute après 12 mois de suivi.

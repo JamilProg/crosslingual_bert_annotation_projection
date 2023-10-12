@@ -1,0 +1,57 @@
+ANAMNÉSIE
+Patient de 67 ans sans allergie médicamenteuse connue ni habitudes toxiques.
+Antécédents intéressants : diabète sucré de type 2 traité par antidiabétiques oraux. Diagnostiqué en 2010 avec un lymphome diffus à cellules B avec atteinte rétropéritonéale, traité par QT selon R-CHOP14 X 6 cycles + 2 doses de rituximab sans aucun signe de maladie hématologique à ce jour.
+
+Antécédents oncologiques actuels
+
+En août 2012, des adénopathies rétropéritonéales sont apparues, initialement attribuées au processus hématologique. Finalement, une BAG du même a établi le diagnostic d'adénocarcinome d'origine intestinale probable. Une fibrocolonoscopie a été réalisée, montrant une lésion au niveau du sigma et l'étude d'extension a montré une implication métastatique également dans le foie. Etude des exons du gène KRAS : natif.
+
+Après discussion du cas au sein du comité de chirurgie hépato-bilio-pancréatique, il a été considéré que le M1 hépatique était non résécable. Le traitement a été débuté selon le schéma FOLFOX-CETUXIMAB le 6/11/2012, avec une pause de trois mois en raison de la neurotoxicité. En septembre 2013, une progression de la maladie a été observée au niveau pleural, pulmonaire bilatéral et rétropéritonéal. Étant donné que la progression n'était pas due à une inefficacité, mais au fait que le patient était en repos thérapeutique, le même schéma a été repris, qui a été maintenu à ce jour, avec une stabilité de la maladie.
+
+Le 15 janvier 2015, il a été admis dans le service d'oncologie médicale pour une dyspnée soudaine associée à une insuffisance respiratoire hypocapnique.
+
+Examen physique
+TA : 105/62 ; FC : 125 bpm ; SatO2 basale 80%. Cachectique. ECOG 2.
+Éruption acnéiforme de grade 1 (secondaire au cétuximab).
+
+Tête et cou : mucosite de grade 3 dans la cavité buccale. Pas de muguet. Une crépitation sous-cutanée est palpée au niveau supraclaviculaire et latérocervical.
+
+Cardiovasculaire : tonalités cardiaques tachyarythmiques, sans souffle ni frottement. Pouls périphériques présents et symétriques. Pas de signes de TVP.
+
+Respiratoire : tachypnée avec rétractions intercostales. Hypophonie généralisée dans les deux champs pulmonaires.
+
+Abdomen : mou et dépressible. Non douloureux à la palpation. Péristaltisme présent. Murphy négatif.
+
+Blumberg négatif. Aucun signe d'irritation péritonéale.
+
+Neurologique : conscient et orienté dans les trois sphères. Pupilles isochores et normalement réactives. Nerfs crâniens préservés. Force et sensibilité préservées. ROT présent. RFCP préservé. Aucun signe d'irritation péritonéale.
+
+Tests complémentaires
+" CBC (25/1/2015) : Hb 11,7 g/dL ; leucocytes 5 790/mm3 (neutrophiles 58%) ; plaquettes 143 000/mm3 ; TP 100% ; INR 1 ; aPTT 28,7 sg ; fibrinogène 614 mg/dL. Glucose 203 mg/dL ; urée 44 ; créatinine 1,14 ; GPT 24 UI/L ; GGT 90 UI/L ; Na+ 141 mEq/L ; K+ 4,9 mEq/L. D-dimères 10 500 ng/mL.
+"Gaz du sang veineux (25/1/2015) : pH 7,37 ; PCO2 36 mm Hg ; PO2 29 mm Hg ; bicarbonate courant 20,8 mmol/L ; teneur en CO2 21,9 mmol/L ; excès de base -4 mmol/L ; excès de base (ecf) -4,5 mmol/L ; bicarbonate standard 20,8 mmol/L ; saturation basale en oxygène 53 %.
+" Radiographie thoracique : présence d'air au niveau médiastinal et infraclaviculaire.
+" CT thoracique (25/1/2015) : présence de TEP dans les branches segmentaires et sous-segmentaires de la LID. Pneumomédiastin et emphysème cervical et scapulaire droit avec extension au canal rachidien sans pouvoir exclure l'origine œsophagienne de l'air car un probable défaut de continuité de sa paroi est observé au niveau du tiers moyen infracarinal.
+
+Diagnostic
+Orientation diagnostique :
+Insuffisance respiratoire hypocapnique nécessitant une oxygénothérapie en relation avec :
+(a) Thromboembolie pulmonaire dans les branches segmentaires et sous-segmentaires de la LID.
+b) Pneumomédiastin en attente d'origine.
+2) Pneumorragies en cours d'étude en tant que découverte fortuite.
+3. mucosite de grade 3 comme toxicité du traitement oncologique.
+4. Adénocarcinome disséminé du sigma dans le foie, lymphadénopathie rétropéritonéale et épanchement pleural. En cours de 1 l de métastatique selon le schéma FOLFOX + CETUXIMAB. KRAS DE TYPE SAUVAGE.
+
+Traitement
+Nous avons commencé le traitement avec :
+1. héparine de faible poids moléculaire adaptée au poids.
+2. Antibiotique prophylactique pour prévenir une médiastinite secondaire.
+3. Oxygénothérapie.
+4. Analgésie si nécessaire (il prenait déjà des opioïdes importants à domicile pour gérer la douleur).
+5. Nous laissons le patient au régime absolu jusqu'à ce que l'évolution soit observée.
+
+Évolution
+Sous traitement, le patient a évolué favorablement avec une amélioration progressive de son état respiratoire. Il n'y a pas eu de fièvre ni de signes de surinfection.
+
+Comme l'étiologie de l'affection n'avait pas été établie et qu'une perforation de l'œsophage avait été exclue, nous avons commencé le régime en fonction de la tolérance et de la progression sans complications. Le patient est sorti de l'hôpital dix jours plus tard.
+
+En ce qui concerne la pneumorragie, un scanner thoracique de contrôle a été réalisé et a montré la résolution de la pneumorragie, mais avec la persistance du pneumomédiastin sans signe de complication.

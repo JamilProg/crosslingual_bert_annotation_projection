@@ -1,0 +1,54 @@
+Anamnèse
+Un homme de 31 ans, sans antécédents médicaux ou chirurgicaux intéressants ni habitudes toxiques, qui, en juillet 2009, a commencé à ressentir des douleurs dans la région lombaire qui n'étaient pas contrôlées malgré divers traitements. Pas de diminution de la force ni d'altération de la sensibilité des quatre membres. Pas d'incontinence sphinctérienne. Syndrome général marqué avec asthénie et anorexie et perte de poids de 8-10 kg au cours des 2-3 derniers mois.
+
+Examen physique
+Conscient, orienté, afébrile. IK À 90 %. Cou : normal. Poitrine : PCA : normal. Abdomen : mou, dépressible, non douloureux à la palpation profonde. Bruits intestinaux présents. Pas de masses ou de mégalithes palpables. Percussion bilatérale du poing sur les reins négative. La percussion du poing sur les apophyses épineuses est indolore.
+
+Examen des testicules : testicules dans le sac scrotal, de taille et de consistance normales. Extrémités : normales. Pas de signes méningés. Pas de focalité neurologique. Pas d'adénopathies palpables dans les zones accessibles.
+
+Examens complémentaires
+Lors d'un examen ambulatoire en urologie, les examens suivants sont effectués :
+"Analyses sanguines. Hémogramme : bicytopénie (neutropénie et thrombopénie). Biochimie normale (y compris LDH). Marqueurs : AFP et BHCG normaux. CA 19.9 : 116,3 et Ca 125 : 44.
+"Radiographie du thorax : aucun résultat.
+"Échographie abdominale pelvienne (10/9/2009) : masse de 11 cm dans le pôle inférieur du rein gauche.
+"Tomodensitométrie abdominopelvienne (18/9/2009) : grosse masse complexe au pôle inférieur du rein gauche mesurant 17 x 11 cm. Lésions hépatiques hypodenses, pour exclure une métastase (la plus grande de 2,8 cm dans le dôme).
+"Biopsie à l'aiguille d'une masse rétropéritonéale sous contrôle échographique (25/9/2009) : tumeur maligne à petites cellules avec un taux de prolifération élevé et une différenciation neuroendocrine. La positivité du CD-99 impose d'exclure une tumeur neuroectodermique primitive extrasquelettique (PNET). Des échantillons ont été envoyés pour une étude moléculaire dans un autre centre, avec un résultat final qui n'a pas pu être évalué en raison de problèmes liés à la technique.
+
+Le patient est adressé à l'oncologie médicale et les études sont terminées :
+
+"Sérologie : Treponema pallidum négatif. Virus de l'hépatite B, anticorps total négatif, anticorps de surface plus 1 000 mU/ml. Hépatite C négative. VIH négatif.
+"Scanner thoraco-abdomino-pelvien (2/10/2009) : masse rétro-péritonéale complexe, solide kystique mesurant 15 x 17 x 8,6 cm dont l'origine pourrait être le pôle inférieur du rein gauche ou rétro-péritonéale. Trois lésions hépatiques occupant l'espace, une lésion kystique inchangée. Lésion kystique au pôle supérieur de la rate mesurant 1,6 cm. Hydronéphrose gauche due à la compression de la masse sur l'uretère proximal. Atteinte osseuse généralisée avec prédominance de lésions blastiques compatibles avec des métastases osseuses (corps vertébraux et bassin).
+"Tomodensitométrie cérébrale (5/11/2009) : normale.
+"Scintigraphie osseuse (15/10/2009) : augmentation de la captation focale dans la région supra-orbitaire gauche, l'ischion droit (droit) et plus douteuse dans le col fémoral droit et la lame iliaque droite compatible avec des métastases osseuses.
+Le 27/10/2009, une aspiration de moelle osseuse a été réalisée au niveau du manubrium sternal et une biopsie osseuse de la crête iliaque postérieure droite avec les résultats de l'anatomie pathologique (AP) : Moelle osseuse (aspiration) : moelle osseuse hypercellulaire avec augmentation de l'érythropoïèse et présence d'une cytologie atypique. Biopsie de la moelle osseuse : infiltration par une tumeur maligne compatible avec une PNET.
+
+Le matériel a été envoyé pour un second avis PA au centre de référence, mais là encore, la confirmation moléculaire des résultats n'a pas été possible (impossible à évaluer en raison d'une erreur dans la technique), bien que l'échantillon ait été examiné et que le diagnostic de PNET ait été confirmé.
+
+Diagnostic
+Tumeur indifférenciée à petites cellules, probable PNET extrasquelettique de stade IV (métastases osseuses et hépatiques douteuses, infiltration de la moelle osseuse, masse rétropéritonéale).
+
+Traitement
+Après avoir signé le formulaire de consentement éclairé, le patient a commencé un traitement de chimiothérapie d'induction (QT) selon un schéma alternant VAC/IE (vincristine 2 mg/m2, adriamycine 75 mg/m2, cyclophosphamide 1 200 mg/m2 en alternance avec ifosfamide 1 800 mg/m2 et étoposide 100 mg/m2). Il a reçu le premier cycle le 06/11/09 avec une bonne tolérance et par la suite deux autres cycles complets jusqu'au 12/03/2010, sans nécessiter de réductions de dose ou de retards dus à la toxicité.
+
+Il présente les études d'évaluation suivantes après trois cycles :
+"CT scan craniothoracoabdominopelvien (15/3/2010) : crâne et thorax sans anomalie. Masse rétropéritonéale gauche de 14,5 x 7,8 hétérogène sans changement significatif par rapport à la tomodensitométrie précédente, provoquant une dilatation rétrograde du système excréteur rénal gauche. Lésion du segment 7 de 2 cm inchangée par rapport à la tomodensitométrie précédente. Atteinte métastatique blastique diffuse du squelette axial stable.
+
+Scintigraphie osseuse (25/3/2010) : amélioration gammagraphique très significative par rapport à l'étude précédente d'octobre 2009. Persistance de la captation dans la région supra-orbitaire gauche et la lame iliaque gauche. Le reste des résultats a diminué en intensité et a même disparu, et aucun nouveau foyer d'hyperenrichissement n'est observé.
+"Biopsie de la moelle osseuse (23/3/2010) : cylindre de moelle osseuse, crête iliaque postérieure gauche, sans signe de malignité.
+"Deuxième biopsie de confirmation de la moelle osseuse (9/4/2010) : moelle osseuse sans résultats significatifs. Aucune cytologie blastique n'a été observée. Aucune cytologie non hématopoïétique n'a été observée.
+
+Évaluation du cas : PNET rétropéritonéal de stade IV avec une réponse partielle supérieure à 50%, et il a été décidé de compléter le traitement avec trois cycles supplémentaires de QT.
+
+Le patient reçoit les 4e, 5e et 6e cycles d'ACC/IE sans toxicité notable (le sixième et dernier cycle est administré avec une réduction de 20 % en raison d'une neutropénie fébrile de grade 4 après la deuxième partie de l'IE du cinquième cycle). L'intensité de la dose a été maintenue à tout moment. Fin du traitement le 2 août 2010.
+
+L'évolution
+Dans les études de réévaluation à la fin du traitement, il a présenté :
+"CT scan thoraco-abdominopelvien (2/9/2010) : masse rétropéritonéale avec calcifications mesurant 14 x 6,7 cm, avec une large zone de contact avec l'aorte infrarénale. Métastases blastiques multiples stables. Aucun changement par rapport à l'étude de mars 2010.
+"Scintigraphie osseuse (30/8/2010) : hyperenhancement supra-orbitaire gauche de signification douteuse pour le moment et normalisation du reste des rehaussements.
+"Biopsie de la moelle osseuse (11/11/2010) : aucun signe de malignité.
+"PET scan (17/1/2011) : prise pathologique abdominale qui oblige à considérer une atteinte métaboliquement agressive associée à des zones de nécrose en relation avec un processus néoprolifératif connu (SUV maximum 4). Aucune prise pathologique n'a été observée au niveau osseux.
+
+Évaluation : PNET extra-osseux de stade IV en réponse partielle versus réponse complète avec masse rétropéritonéale résiduelle.
+Le cas a été référé pour évaluation de la résection de la masse résiduelle dans un centre externe ayant une grande expérience de la chirurgie rétropéritonéale. Le 11 avril 2011, une excision complète de la masse a été réalisée, nécessitant une néphrectomie gauche sans complication. Le rapport histologique définitif fait état d'un tératome mature de 13,5 cm, sans infiltration rénale ou urétérale.
+
+La patiente a poursuivi les contrôles médicaux oncologiques dans notre centre avec une réponse maintenue et est asymptomatique 4 ans après le sauvetage chirurgical et presque 5 ans depuis la fin du traitement QT. La dernière tomodensitométrie du 13/4/2015 a été rapportée comme une adénopathie dans la bifurcation iliaque de 13 mm de petit axe stable et des lésions osseuses dans les corps vertébraux et le bassin stable.

@@ -1,0 +1,17 @@
+T1	pathologie 89 104	bronquiectasias
+T2	pathologie 107 117	neumonitis
+T3	pathologie 118 138	peribronquiectásicas
+T4	pathologie 140 168	anemia severa multifactorial
+T5	pathologie 170 197	insuficiencia renal crónica
+T6	pathologie 222 246	gastritis crónica difusa
+T7	pathologie 327 365	fractura del húmero izquierdo y cadera
+T8	pathologie 440 476	hematuria macróscopica (postsondaje)
+T9	pathologie 478 489	hipotensión
+T10	pathologie 637 677	neumonía evolucionada a absceso pulmonar
+T11	pathologie 679 699	hematuria fulminante
+T12	pathologie 701 723	sepsis por pseudomonas
+T13	pathologie 726 751	insuficiencia renal aguda
+T14	pathologie 819 834	coágulo vesical
+T15	pathologie 973 990	patología tumoral
+T16	pathologie 1060 1084	amiloidosis vesical (AA)
+T17	pathologie 1081 1083	AA

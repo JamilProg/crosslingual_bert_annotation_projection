@@ -1,0 +1,33 @@
+Anamnèse
+
+Antécédents personnels
+Femme de 36 ans sans allergie médicamenteuse connue. Elle n'a pas d'antécédents personnels intéressants, à l'exception de migraines occasionnelles. En ce qui concerne les antécédents gynéco-obstétricaux, la patiente déclare avoir eu ses premières règles à l'âge de 14 ans et les avoir eues il y a 20 jours. Elle nie prendre des contraceptifs oraux et a eu une grossesse et un accouchement euthecologique.
+Pas de traitement habituel.
+
+Histoire de la famille
+Le père est décédé d'un cancer gastrique à l'âge de 65 ans. Deux oncles paternels atteints d'un cancer gastrique à l'âge de 42 et 45 ans respectivement. Un cousin atteint d'un cancer gastrique à l'âge de 41 ans.
+
+Antécédents oncologiques
+En janvier 2018, la patiente a consulté en gynécologie suite à la détection d'un nodule mammaire de 2 cm dans le quadrant supéro-externe du sein gauche.
+Une échographie du sein a été réalisée, confirmant l'existence d'un nodule solide de 5,5 mm (BIRADS 4), et une biopsie à l'aiguille centrale (CNB) a été réalisée.
+Le diagnostic pathologique était un carcinome lobulaire du sein gauche de grade 2 avec des récepteurs hormonaux positifs (récepteurs aux œstrogènes 80 %, récepteurs à la progestérone 90 %) et HER-2 négatif (HercepTest® 2+ ; FISH ratio 1,2). Expression de ki67 dans 5 % des cellules tumorales.
+La patiente a subi une mastectomie gauche et une biopsie sélective du ganglion sentinelle, confirmant les résultats obtenus lors de la biopsie précédente : carcinome lobulaire du sein gauche, stade tumoral IA (pT1b [0,9 cm] N1mi [2/2]). AJCC 8e édition.
+Elle a ensuite été adressée à la clinique ambulatoire d'oncologie pour évaluer un traitement complémentaire.
+
+Examen physique
+IK 100%. Cicatrice de mastectomie gauche intacte. Sein controlatéral normal. Pas d'adénopathie axillaire palpable. Le reste de l'examen physique n'a rien révélé.
+
+Examens complémentaires
+Les examens de laboratoire, la radiographie pulmonaire et la scintigraphie osseuse n'ont révélé aucune anomalie.
+Un test génomique PAM50 a été demandé pour estimer plus précisément le risque de récidive. À la suite de cette étude, la tumeur a été classée comme luminale A, avec une probabilité de récidive à 10 ans de 6 %.
+
+Diagnostic
+Carcinome lobulaire infiltrant du sein gauche, luminal A. Stade IA.
+
+Traitement
+Compte tenu de ces résultats, un traitement hormonal par tamoxifène 20 mg/24 heures a été mis en place.
+
+Évolution
+Les antécédents familiaux de cancer ont été recueillis de manière plus détaillée. Compte tenu de l'importante agrégation familiale de cas de cancer gastrique diffus dans sa lignée paternelle, une étude germinale du gène CDH-1 a été demandée après un conseil génétique. Une variante pathogène a été trouvée dans l'exon 10 du gène CDH-1, consistant en la délétion du dernier nucléotide de l'exon 10 et du premier de l'intron 10 (c.1565_1565+1del2), ce qui produit un codon STOP dans la protéine : p.Thr522AsnfsX34 (codon STOP 556). Cette variante est considérée comme pathogène, confirmant ainsi l'existence d'un syndrome de cancer gastrique héréditaire diffus.
+La patiente a été informée du risque accru de développer un cancer gastrique au cours de sa vie et de son association avec un carcinome lobulaire infiltrant du sein. Après avoir discuté des options de suivi et des mesures de réduction des risques, la patiente a décidé de subir une gastrectomie totale avec réduction des risques et une mastectomie prophylactique controlatérale. L'étude anatomopathologique des pièces opératoires n'a révélé aucun foyer néoplasique.
+La patiente suit actuellement un traitement hormonal bien toléré. Parallèlement, les membres de sa famille ont été orientés vers une étude génétique prédictive.

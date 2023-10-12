@@ -1,0 +1,37 @@
+Anamnèse
+Le patient a noté une augmentation douloureuse du volume à la palpation dans la région antérieure du thorax depuis environ un mois.
+
+Examen physique
+L'examen physique a révélé une grosseur dans la région dorsale, adjacente au pli axillaire postéro-inférieur.
+Le reste de l'examen est sans particularité.
+Sur la base de ces résultats, les examens d'imagerie complémentaires suivants ont été demandés.
+
+Examens complémentaires
+"Radiographie du thorax et de la cage thoracique droite : lésion calcifiée dans le troisième arc costal antérieur droit suggérant un enchondrome probable, une deuxième possibilité étant un îlot osseux.
+Dans tous les cas, il n'y a pas de lien avec la masse des tissus mous.
+"Échographie des tissus mous : masse d'échostructure hétérogène, avec des zones hypoéchogènes alternant avec d'autres zones hyperéchogènes, bien délimitée par une capsule apparente et présentant une structure vasculaire isolée. Taille : 6 cm de profondeur sur environ 9 cm de section ; elle est située sous le tissu cellulaire sous-cutané et au-dessus de l'échostructure musculaire.
+Possibilité de diagnostic : tumeur des tissus mous de nature mixte, probablement mésenchymateuse.
+"Scanner thoraco-abdomino-pelvien : masse solide de 6 cm, superficielle au muscle deltoïde droit, compatible avec une tumeur mésenchymateuse. Nodules pulmonaires de 3 mm, dans la lingula1, LII3 et le segment postérieur de LSD1. Pas d'adénopathie médiastinale, axillaire, hilaire ou supraclaviculaire. L'abdomen est normal. Pas de lésions osseuses agressives.
+"Biopsie (25/5/2012) : néoformation mésenchymateuse constituée de cellules à noyau fusiforme ou allongé, disposées dans une matrice fibrillaire éosinophile. La cellularité est modérée avec pléomorphisme nucléaire.
+Foyer de nécrose tumorale. IHC : négativité pour l'actine, la desmine, la protéine S-100, le HMB 45, le CD 68 et l'énolase spécifique des neurones. Positif pour la vimentine et le CD10. Diagnostic : tumeur mésenchymateuse maligne suggérant une origine neuronale (nécrose, S-100 et CD10+ négatifs).
+"TEP/TDM : lésion sous-cutanée sur la paroi thoracique latérale droite adjacente à la musculature ronde mesurant 4,7 x 2,7 x 7 cm avec SUVmax 9,1, attribuable à une lésion tumorale viable. Aucun signe de maladie dans d'autres localisations.
+"Échocardiographie : FEVG > 60 %.
+
+Diagnostic
+Tumeur mésenchymateuse maligne évocatrice d'une origine neuronale (nécrose, S-100 négatif et CD10+).
+
+Traitement
+Diagnostiqué en mai 2012 avec une tumeur mésenchymateuse de la paroi thoracique. Une résection en bloc des tissus mous (peau, TCS et plans musculaires jusqu'à la cage thoracique, qui a été laissée intacte) a été réalisée en juin 2012. Élargissement des marges chirurgicales (3-4 cm).
+Anatomie pathologique de la pièce opératoire : tumeur cavitaire, hémorragique avec une marge jaunâtre de 4 cm de diamètre. Marges très larges, la plus proche étant de 1 cm. Macroscopiquement, il s'agit d'une tumeur à cellules fusiformes avec des zones très collagénisées et des zones étendues de nécrose. Noyaux pléomorphes avec des mitoses très abondantes. Marges libres. Diagnostic : histiocytome fibreux malin (sarcome pléomorphe de haut grade).
+Suite aux résultats pathologiques confirmant le diagnostic de sarcome pléomorphe de haut grade avec des marges libres, une reconstruction de la paroi thoracique par chirurgie plastique a été programmée.
+En août 2012, un scanner thoraco-abdominal de réévaluation a été réalisé, montrant des lésions pulmonaires nodulaires millimétriques entre 0,3 et 0,9 mm, compatibles avec un ensemencement hématogène pulmonaire.
+L'abdomen est normal. À ce moment-là, il a été évalué par la chirurgie thoracique au sein du comité multidisciplinaire des tumeurs, qui a exclu la métastasectomie. C'est pourquoi il a été adressé au service d'oncologie.
+En septembre 2012, il a commencé une chimiothérapie de première ligne avec 75 mg/m2 de doxorubicine (DT : 150 mg).
+Il a reçu trois cycles, avec une bonne tolérance, jusqu'en novembre 2012, lorsqu'il y a eu des preuves de croissance iconographique des nodules pulmonaires connus (9 mm à 18 mm) dans la tomodensitométrie de réévaluation.
+En novembre 2012, il a commencé une deuxième ligne avec de l'ifosfamide 2 000 mg/m2 j+1 à +3 (DT : 4 000 mg j 1-3).
+Il a reçu deux cycles jusqu'en décembre 2012. La toxicité s'est manifestée par une fièvre non neutropénique d'origine respiratoire.
+En janvier 2014, une progression pulmonaire a été observée, il a donc débuté une troisième ligne avec docétaxel 100 mg/m2 j+1 (DT : 200 mg) + gemcitabine 900 mg/m2 j+1 et +8 (DT : 1 800 mg). Elle a reçu six cycles entre janvier et juin 2013. La toxicité a montré des infiltrats pulmonaires avec des images en verre dépoli au scanner suggérant une toxicité pulmonaire probablement secondaire au docétaxel ; pour cette raison, la dose a été réduite de 20 % à partir du quatrième cycle. Un scanner de réévaluation a été réalisé en juin 2013, qui a montré une maladie stable, et un suivi a donc été décidé.
+Après un intervalle sans progression de 3 mois, elle a présenté une progression pulmonaire, de sorte qu'elle a commencé une quatrième ligne avec pazopanib 800 mg/jour, qu'elle a reçu entre septembre 2013 et janvier 2014. En décembre 2013, un scanner thoraco-abdominal de réévaluation a été réalisé, rapportant l'apparition de zones de cavitation dans plusieurs des nodules pulmonaires bilatéraux en relation avec des métastases de masse des tissus mous (Images 1 et 2). Certains de ces nodules ont une localisation périphérique sous-pleurale et sont la cause du pneumothorax bilatéral. Les autres nodules restent stables.
+
+Évolution
+Compte tenu de la stabilité de la maladie, il a été décidé de poursuivre le pazopanib. En janvier 2014, il a été admis pour un second pneumothorax lié à des métastases pulmonaires, résolu par un drainage thoracique. Le patient a poursuivi le pazopanib jusqu'en mai 2014, qui a été interrompu en raison de multiples complications et d'admissions pour des pneumothorax bilatéraux répétés (images 3 et 4), nécessitant même une fixation pleurale par le service de chirurgie thoracique. Une cinquième ligne de trabectidine a été débutée, complétant trois cycles jusqu'en juin 2014, avec une aggravation clinique et radiologique. A ce moment, son statut de performance était de 3, avec une détresse respiratoire sévère, et donc les soins et le suivi par l'unité de soins palliatifs ont été décidés, et elle est décédée en juillet 2014.

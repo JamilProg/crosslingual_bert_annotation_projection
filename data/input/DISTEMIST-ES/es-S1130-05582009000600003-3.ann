@@ -1,0 +1,4 @@
+T1	pathologie 352 376	erosión en la raíz nasal
+T2	pathologie 454 480	luxación traumática de ATM
+#1	SNOMED T2	81629009
+#2	SNOMED T1	301191003

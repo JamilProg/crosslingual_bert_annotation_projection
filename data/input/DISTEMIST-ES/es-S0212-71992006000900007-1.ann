@@ -1,0 +1,36 @@
+T1	pathologie 95 180	lesiones nodulares, eritemato-violáceas y dolorosas en las piernas y el dorso de pies
+T2	pathologie 365 413	pancreatitis aguda secundaria a etilismo crónico
+T3	pathologie 397 413	etilismo crónico
+T4	pathologie 525 545	pancreatitis crónica
+T5	pathologie 560 586	pseudoquistes pancreáticos
+T6	pathologie 804 821	lesiones cutáneas
+T7	pathologie 1126 1149	paniculitis pancreática
+T8	pathologie 1228 1268	reagudización de su pancreatitis crónica
+T9	pathologie 1290 1307	lesiones cutáneas
+T10	pathologie 1762 1796	dilatación del conducto de Wirsung
+T11	pathologie 1798 1844	destrucción parcial de la glándula pancreática
+T12	pathologie 1846 1915	adenopatías peripancreáticas, celíacas y del ligamento gastrohepático
+T13	pathologie 1925 1951	trombosis de la vena porta
+T14	pathologie 2035 2058	paniculitis pancreática
+T15	pathologie 2108 2129	patología pancreática
+T16	pathologie 2135 2170	transformación cavernomatosa portal
+T17	pathologie 2189 2209	pequeñas adenopatías
+T18	pathologie 2300 2339	eagudización de su pancreatitis crónica
+#1	SNOMED T1	400202001
+#2	SNOMED T2	445507008
+#3	SNOMED T3	284591009
+#4	SNOMED T4	235494005
+#5	SNOMED T5	111374002
+#6	SNOMED T6	95324001
+#7	SNOMED T7	46626002
+#8	SNOMED T8	721724009
+#9	SNOMED T9	95324001
+#10	SNOMED T10	235969000
+#11	SNOMED T11	21118000
+#12	SNOMED T12	127134007+127117004+127120007
+#13	SNOMED T13	17920008
+#14	SNOMED T14	46626002
+#15	SNOMED T15	3855007
+#16	SNOMED T17	30746006
+#17	SNOMED T18	721724009
+#18	SNOMED T16	307223005

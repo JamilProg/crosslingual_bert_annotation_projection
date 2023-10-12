@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 65 ans, sans habitudes toxiques. Syndrome d'hypercoagulabilité par résistance à la protéine C et déficit en protéine S. Cardiopathie ischémique non revascularisable diagnostiquée en 2005.
+
+Au cours d'un suivi en consultation de pneumologie pour un asthme bronchique, un nodule pulmonaire solitaire dans le lobe inférieur gauche a été détecté de manière fortuite à la tomodensitométrie (TDM) en mai 2008. Une fibrobronchoscopie non diagnostique, une ponction à l'aiguille fine guidée par scanner, qui s'est révélée négative, et une tomographie par émission de positons (TEP) avec une faible probabilité de malignité, ont été demandées et un suivi radiologique étroit a été décidé. Une réévaluation par tomodensitométrie en octobre 2008 a montré une légère augmentation de la lésion avec des caractéristiques radiologiques de malignité, de sorte que, après avoir soulevé le cas au sein du Comité des tumeurs thoraciques, il a été décidé d'effectuer une procédure chirurgicale diagnostique (et thérapeutique), qui a été réalisée en novembre 2008 au moyen d'une lobectomie inférieure gauche et d'une lymphadénectomie.
+
+Examen physique
+ECOG 1, poids 61 kg. Bon état général. Eupnéique au repos sans oxygénothérapie. Pas de palpation des ganglions lymphatiques périphériques. Auscultation cardio-pulmonaire sans anomalie. Abdomen et membres inférieurs sans altération.
+
+Tests complémentaires
+"Les examens de laboratoire effectués au moment du diagnostic (mai 2008) n'ont montré qu'une légère augmentation de l'antigène carcinoembryonnaire (ACE) de 4,5 ng/ml et une anémie microcytaire hypochrome (10,4 g/dl).
+"Scanner thoracique (mai 2008) : dans le segment apical du lobe inférieur gauche, il y a une condensation pulmonaire d'environ 3 cm avec un contour lobulé en relation avec un possible nodule satellite postérieur.
+"FBO (juin 2008) : aucun signe direct de néoplasie. Cytologie et étude microbiologique du brossage et de l'aspiration négatives.
+"FNA guidée par CT (juillet 2008) avec un résultat histologique sans cellules néoplasiques et quelques macrophages.
+"PET scan (juillet 2008) : dépôt dans le segment supérieur du lobe inférieur gauche mesurant 2,8 cm avec un SUV maximum de 2,4 qui n'est pas détecté dans une étude tardive avec une faible probabilité de malignité.
+"Tomodensitométrie thoracique (octobre 2008) : lésion de 3,2 cm présentant des caractéristiques néoplasiques (légère augmentation par rapport à l'étude précédente) avec un contour lobulé et des limites mal définies, montrant une connexion avec la plèvre adjacente.
+"Résultat histologique de la lobectomie inférieure gauche et de la lymphadénectomie : adénocarcinome pulmonaire bien différencié de type bronchioalvéolaire infiltrant la plèvre viscérale à 1,7 cm du bord de résection bronchique. Ganglions lymphatiques hilaires, aortopulmonaires et interlobaires avec anthracose et histiocytose sinusale réactive (0/10). Étude moléculaire : facteur de croissance épidermique (EGFR) muté à l'exon 21 Leu858Arg (L858R).
+
+Diagnostic
+Après une étude d'extension négative, un diagnostic d'adénocarcinome pulmonaire de stade IIIA (T4N0M0) a été posé.
+
+Traitement
+La patiente a été évaluée par le service d'oncologie médicale en juin 2008 et le traitement adjuvant a été rejeté à la demande de la patiente, et des contrôles réguliers ont été mis en place.
+
+Évolution
+Après un intervalle de 18 mois sans maladie, une rechute de la tumeur avec atteinte pulmonaire bilatérale a été détectée en juin 2010.
+
+Il a commencé un traitement par erlotinib après une détermination positive de l'EGFR (L858R dans l'exon 21), détectant une réponse complète lors d'un scanner de réévaluation après 3 cycles, qui a été maintenue après 15 cycles jusqu'en août 2011, date à laquelle une nouvelle progression pulmonaire bilatérale a été détectée. Elle a commencé une deuxième ligne de traitement avec du cisplatine et du pemetrexed pendant 6 cycles avec une stabilisation de la maladie, puis a maintenu le pemetrexed jusqu'à la fin des 11 cycles avec une progression pulmonaire et ganglionnaire en février 2013. Un retraitement à l'erlotinib a alors été décidé, avec une progression pulmonaire après 3 cycles. En juin 2013, il a commencé un traitement de quatrième ligne avec la vinorelbine en monothérapie pendant 6 cycles avec une maladie stable comme meilleure réponse. A la demande du patient, un suivi a été initié de novembre 2013 à mars 2014 avec une survie sans progression de 5 mois. En avril 2014, une progression pulmonaire a de nouveau été détectée et un traitement a été envisagé dans le cadre d'un essai clinique de phase I avec l'inhibiteur EGFR-T790M après une nouvelle biopsie pulmonaire par thoracotomie avec détermination positive de la mutation T790M dans l'exon 20 du gène EGFR. Un scanner de réévaluation après 3 cycles en juin 2014 a montré une réponse partielle et après 5 cycles en août 2014 une réponse radiologique complète a été détectée, qui a été maintenue après 19 cycles en mai 2015, présentant une très bonne tolérance au traitement avec une période de survie sans progression de 11 mois.

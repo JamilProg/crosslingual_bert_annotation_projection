@@ -1,0 +1,33 @@
+Anamnèse
+Antécédents personnels : allergie au ruban adhésif, mais aucune réaction allergique médicamenteuse connue, hypertension traitée par énalapril 5 mg par jour, hypertriglycéridémie familiale traitée par fénofibrate 250 mg par jour, syndrome d'anxiété dépressive traité par paroxétine, ménarche à l'âge de 13 ans, symptômes périménopausiques d'une maladie vasculaire périphérique.
+13 ans, périménopause, FO : G3A0P3.
+
+Une femme de 53 ans s'est présentée au service d'oncologie ambulatoire avec un diagnostic de néoplasie du sein droit dans le quadrant supérieur externe, pour laquelle une tumorectomie et un vide axillaire ont été effectués le 14 avril 2009. La patiente a été adressée par le comité des tumeurs mammaires pour une évaluation du traitement adjuvant. Il s'agissait d'un carcinome canalaire infiltrant G2 de 1,6 cm de diamètre, ER positif (70 %), RP positif (80 %), p53 négatif, Bcl21 négatif, Ki67 10 %, C-ERB-B2 négatif (+/+++) dans lequel une infiltration périneurale a été observée. Sur les 7 ganglions axillaires affectés, aucune maladie tumorale n'a été identifiée dans aucun d'entre eux. Le reste de l'étude d'extension n'a montré aucun signe de maladie disséminée.
+
+Il s'agit donc d'une patiente avec un diagnostic de carcinome canalaire infiltrant du sein droit de stade pT1, pN0 (0/7), M0, récepteurs E+ et P+ et C-ERB-B2 surexprimé.
+
+Le comité a décidé de traiter le patient par chimiothérapie, radiothérapie et hormonothérapie. Le 07.05.2009, l'adriamycine + cyclophosphamide a été prescrite pour 6 cycles. Le 6.8.2009, le tamoxifène 20 mg par jour pendant 5 ans a également été ajouté et a commencé le 15.9.2009.
+
+Le 7 juin 2010, le patient s'est présenté au service des urgences pour des douleurs abdominales qui duraient depuis 48 heures. La douleur s'aggravait quelques minutes après avoir mangé et bu, était d'intensité modérée, irradiait vers le dos et augmentait d'intensité en position couchée.
+
+
+Examen physique
+REG. NH. NC. Eupnéique respirant l'air ambiant. PS 1. tête et cou : pas de lymphadénopathie, pas de mucosite, pas de méningisme, pas d'injection jugulaire. Cicatrice de tumorectomie droite, bon aspect, pas de signe de récidive précoce. Auscultation cardiaque : rythmée, sans signe de frottement ou de souffle. Auscultation pulmonaire : souffle vocal conservé, pas d'autres bruits ajoutés. Abdomen : distendu, douleur à la palpation dans le mésogastre et l'hypogastre, bruits hydro-aériques conservés, pas de masses ou de mégaléas à la palpation, pas de signes d'irritation péritonéale. Membres inférieurs sans œdème et sans signe de thrombose veineuse profonde.
+
+Examens complémentaires
+Les examens complémentaires suivants sont effectués au service des urgences :
+"Analyse sanguine avec hémogramme, biochimie et hémostase montrant un taux élevé d'amylase et de lipase sériques.
+"Radiographie du thorax et de l'abdomen montrant une distension des boucles intestinales sans signe de perforation ou d'obstruction.
+"ECG : RS à 98 bpm, PR normal, QRS étroit, pas d'anomalies de repolarisation aiguë.
+"Compte tenu de ces résultats et d'un indice élevé de suspicion de pancréatite aiguë, il a été décidé de demander une tomodensitométrie abdominale avec contraste, qui a montré les résultats suivants : pancréas élargi, altérations des marges, zone de faible atténuation dans la queue du corps pancréatique due à la nécrose, associée à de multiples collections péripancréatiques et abdominales, fascia latérocostale bilatérale, surtout à gauche ; il s'agissait d'une pancréatite de grade E de Balthazar.
+
+Diagnostic
+Tout ceci est compatible avec une pancréatite aiguë sévère, grade E de Balthazar, et le 15.6.2010 une colicystectomie laparoscopique a été réalisée. Plus tard, en juin 2011, le patient a de nouveau été admis dans l'unité de soins intensifs en raison d'un autre épisode de pancréatite aiguë sévère, avec un sérum lipémique, une leucocytose de 16 000, une amylasémie de 282 et une oligoanurie, avec un diagnostic de sortie de pancréatite de grade E de Balthazar avec des voies biliaires normales. Après le deuxième épisode de pancréatite sévère, il a été décidé d'interrompre le traitement au tamoxifène.
+
+Traitement
+Le 15 juin 2010, une colicistectomie laparoscopique a été pratiquée par le service de chirurgie générale.
+
+Évolution
+La pancréatite aiguë est un processus inflammatoire aigu du pancréas, déclenché par une activation inappropriée des enzymes pancréatiques, avec des lésions tissulaires et une réponse inflammatoire locale, ainsi qu'une réponse inflammatoire variable et l'implication d'autres tissus ou de systèmes organiques éloignés. Dans le cas en question, il convient de noter que, malgré une hypertriglycémie familiale (une cause de pancréatite), la femme n'avait jamais eu de symptômes cliniques, et c'est lorsque le TAM a été introduit qu'elle a souffert de deux épisodes de pancréatite aiguë sévère, nécessitant une admission aux soins intensifs dans l'un des cas. Lors du premier épisode, le TAM n'a pas été soupçonné d'être l'agent causal nécessaire, de sorte qu'une cholécystectomie laparoscopique a été pratiquée pour éliminer le réservoir de lithiase et donc la cause présumée de la pancréatite. Ce n'est qu'à l'occasion d'un second épisode de pancréatite (où il n'y a plus de lithiase pour le justifier) que la MAT est suspectée d'être la cause nécessaire de l'épisode d'inflammation pancréatique. Par ailleurs, après le retrait du MAT en juillet 2011, la patiente n'a pas eu d'autres épisodes de pancréatite à ce jour.
+
+Dans le cas de notre patient, il existe deux facteurs reconnus comme étant séparément responsables de la pancréatite. Cependant, ce n'est qu'après l'introduction du TAM que le patient a souffert de deux épisodes de pancréatite sévère à un an d'intervalle, et après son retrait, le patient n'a pas souffert d'autres épisodes de pancréatite aiguë et est resté asymptomatique. Nous considérons donc que le TAM chez notre patient était une cause nécessaire et probablement suffisante de la pancréatite aiguë sévère.

@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 64 ans, nulligeste, sans antécédents intéressants, qui a consulté un gynécologue en 11/2007 en raison d'une gêne abdominale diffuse au niveau de l'hypogastre, sans autres symptômes associés.
+
+Examen physique
+L'état général est correct, l'ECOG est de 1. L'abdomen est légèrement distendu, douloureux à la palpation profonde dans l'hypogastre, avec une sémiologie ascitique sans tension et sans signe d'irritation péritonéale.
+
+Tests complémentaires
+Examens de laboratoire : Ca19-9 et CEA élevés.
+Échographie gynécologique : ovaire droit mesurant 113 x 89 x 52 mm, avec des zones dyshomogènes et la formation de néovaisseaux, compatibles avec une néoplasie de l'ovaire droit.
+Mammographie bilatérale : résultats bénins B-2.
+Cytologie cervico-vaginale et liquide ascitique : négatifs.
+
+Diagnostic
+Une laparotomie exploratrice a été pratiquée et une tumeur annexielle droite de 11 cm a été visualisée, enlevée et analysée. Une hystérectomie totale avec annexectomie bilatérale a été pratiquée.
+Analyse peropératoire : métastase d'un adénocarcinome avec des cellules en anneau de signet infiltrant massivement les deux ovaires (tumeur de Krukenberg), le paramètre, les lymphatiques et le mésorectum. Endomètre atrophique. Col de l'utérus sans altération.
+L'examen du tube digestif a mis en évidence une masse infiltrante dans une courbure de moins de 8 cm de diamètre, qui a affecté le drainage lymphatique sans infiltrer le rétropéritoine. Implant péritonéal dans le mésorectum. L'AP définitive confirme les résultats peropératoires d'une tumeur de Krukenberg. HER-2 négatif, ce qui conduit au diagnostic d'adénocarcinome gastrique de stade IV (tumeur de Krukenberg).
+
+Traitement
+Dans une étude d'extension, une atteinte osseuse a été détectée et la première ligne de chimiothérapie a été mise en place avec docétaxel + capécitabine + cisplatine et bisphosphonates. Après 6 cycles, le cisplatine et le docétaxel ont été arrêtés en raison d'une toxicité hématologique et neurologique de grade 3-4, et la capécitabine et les bisphosphonates ont été maintenus jusqu'à ce que 16 cycles aient été effectués. À ce moment-là, la patiente a présenté une érythrodysesthésie palmo-plantaire toxique de grade 3, avec une maladie stable selon les critères RECIST, et il a donc été décidé d'entamer un suivi étroit. Deux ans plus tard, elle a signalé des douleurs dans les extrémités inférieures secondaires à une progression osseuse, recevant une radiothérapie antalgique sur une lésion ostéolytique dans le fémur proximal gauche à une dose totale de 30 Gy. A la fin du traitement, une progression pulmonaire a été confirmée, initiant une seconde ligne avec EOX, elle a reçu 2 cycles avec une mauvaise tolérance, il a donc été suspendu et un traitement de soutien exclusif a été décidé.
+
+Évolution
+Dans le cadre d'une approche multidisciplinaire depuis le diagnostic, une période sans progression de 2 ans a été obtenue. Enfin, la patiente a dû être hospitalisée pour une dyspnée associée à une lymphangite carcinomateuse, qui n'a pas été contrôlée par un traitement symptomatique, et elle est décédée 4 ans après le diagnostic.

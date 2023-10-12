@@ -1,0 +1,20 @@
+Anamnèse
+Homme de 40 ans, diagnostiqué syndrome de Von Hippel Lindau à l'adolescence, avec confirmation de la mutation c. 194 C > T (pSer65Leu) en hétérozygotie dans l'exon 1 du gène VHL, confirmant la même mutation que chez son père et ses 2 frères. Antécédents familiaux : le père et le frère sont décédés de ce syndrome à l'âge de 53 et 28 ans, respectivement. Antécédents personnels : il a développé plusieurs tumeurs liées au syndrome, telles que des hémangioblastomes, un cancer du rein, une tumeur neuroendocrine pancréatique non fonctionnelle, des angiomyolipomes rénaux et des tumeurs dans les deux épididymes. D'autres lésions bénignes telles que des kystes rénaux et pancréatiques ont également été observées. Compte tenu de la présence de multiples hémangioblastomes cérébelleux et dans le bulbe rachidien depuis 2003, il a été décidé de réséquer les plus gros en 3 opérations, dont 2 par radiochirurgie. Les autres lésions cérébelleuses et cervico-dorsales sont restées stables dans le cadre d'un contrôle progressif depuis 2008. Il a également été opéré d'adénomes bilatéraux dans l'épididyme et, en février 2012, il a subi une néphrectomie gauche pour un adénocarcinome à cellules claires. En août de la même année, il a été admis pour un pneumothorax spontané et un scanner a décrit des résultats pathologiques.
+
+Examen physique
+Hémiparésie et hypoesthésie résiduelles à gauche (2/5) après la chirurgie de l'hémangioblastome. Le reste de l'examen est sans particularité.
+
+Examens complémentaires
+Tomodensitométrie abdominopelvienne d'août 2012 : masse de 3 cm dans la tête du pancréas, lésions rénales droites compatibles avec des angiomyolipomes et un cancer rénal droit.
+Biochimie, hémogramme, coagulation : dans les limites de la normale.
+Marqueurs : CA19.9, CEA et chromogranine A dans les limites de la normale.
+Radiographie pulmonaire : pneumothorax résolu.
+
+Diagnostic
+La masse pancréatique a été biopsiée et diagnostiquée comme une tumeur neuroendocrine pancréatique (PNET) bien différenciée G1 (Ki67 2%) non fonctionnelle ; la présence d'une adénopathie périportale et rétropéritonéale la rendait non résécable. L'octréoscan confirme une prise pathologique au niveau du pancréas et des ganglions, tandis que les taux sériques de chromogranine et les indices urinaires sont normaux.
+
+Traitement
+Au vu de ces résultats, il a été décidé de commencer le traitement de la PNET et du cancer du rein par 37,5 mg de sunitinib par jour. La tolérance au traitement a été bonne, avec comme effets secondaires une mucosite, une diarrhée et une neutropénie de grade I.
+
+Évolution
+Après 3 mois, un scanner de réévaluation a été réalisé et a montré une réponse partielle, selon les critères RECIST, tant au niveau pancréatique que rénal. Actuellement, il est sous sunitinib depuis 6 mois, conservant un indice de Karnofsky de 80%, avec une vie professionnelle active et aucun symptôme clinique secondaire aux 2 tumeurs.

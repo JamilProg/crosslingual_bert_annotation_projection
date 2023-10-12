@@ -1,0 +1,23 @@
+Anamnèse
+Un homme de 66 ans, ex-fumeur depuis 6 ans, avec une dose cumulée de 40 paquets-années, qui a consulté en traumatologie pour une coxalgie droite progressive sévère à caractéristiques mixtes, évoluant depuis 1 mois, sans lien avec un traumatisme antérieur, une fièvre ou un syndrome constitutionnel.
+
+Examen physique
+Bon état général. Bien nourri. Pas d'adénopathies accessibles. Auscultation cardio-pulmonaire sans particularité.
+Abdomen sans masse palpable. Examen rectal compatible avec une hypertrophie prostatique. Hanches mobiles et non douloureuses à la mobilisation passive ou active. Lassegue négatif bilatéralement.
+
+Examens complémentaires
+Radiographie pulmonaire : une masse pulmonaire a été observée dans le lobe supérieur gauche.
+Numération sanguine complète avec hémogramme de base et biochimie : aucun résultat intéressant. PSA sérique de 8 ng/ml (hyperplasie bénigne de la prostate connue).
+Tomodensitométrie du thorax au bassin et imagerie par résonance magnétique (IRM) du bassin : masse pulmonaire de 38 mm. Lésion dans la branche iliopubienne droite, avec des caractéristiques ostéolytiques et une composante de tissu mou. À l'IRM, elle infiltre le faisceau musculaire et la prostate sans suggérer son origine.
+Tomographie par émission de positons (TEP)-CT : hypermétabolisme suggérant la viabilité de la tumeur (SUV 25,7 poumon, SUV 15,7 os), ainsi qu'une adénopathie adjacente à la crosse de l'aorte (SUV 15,7).
+IRM du cerveau : aucun résultat. Une ponction-biopsie des deux masses a été réalisée et a révélé un adénocarcinome d'origine pulmonaire. EGFR indéterminé en raison d'un échantillon insuffisant.
+
+Diagnostic
+Adénocarcinome pulmonaire de stade clinique IV-b (T2N2M1b) (lésion osseuse unique). Niveau de performance (PS) 1.
+
+Traitement
+Le cas a été présenté au Comité multidisciplinaire, et il a été décidé de traiter radicalement la lésion osseuse par RT (40 Gy) et de traiter la lésion pulmonaire par QT-RT (CDDP 75 mg/m2 et pemetrexed 500 mg/m2 le jour 1, tous les 21 jours, 4 cycles + radiothérapie externe, dose totale 66 Gy), suivi d'un traitement d'entretien au pemetrexed 500 mg iv tous les 21 jours.
+
+Evolution
+Après le troisième cycle de pemetrexed, avec un intervalle sans progression de 6 mois, le patient a été admis pour une crise comateuse et de nouvelles lésions sont apparues, 1 iliaque, 1 suprarénale et 2 cérébrales (pariétale 2,4 x 2 cm et occipitale 5 mm), avec une réponse complète des lésions initiales. La lésion musculaire a été biopsiée et une radiothérapie stéréotaxique fractionnée a été administrée aux deux lésions cérébrales (31,5 Gy et 25,5 Gy). Résultat génétique : mutation EGFR exon 20 S7681.
+ALK : FISH positif pour le réarrangement. Dans l'attente d'une confirmation ALK par le laboratoire central, l'erlotinib 150 mg/jour a été débuté, avec une réponse métabolique complète après le troisième cycle et une bonne tolérance (éruption cutanée de grade 2). Stable 19 mois après le diagnostic.

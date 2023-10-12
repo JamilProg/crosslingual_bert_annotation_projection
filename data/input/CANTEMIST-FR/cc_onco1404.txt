@@ -1,0 +1,21 @@
+Anamnèse
+Un homme de 44 ans a été vu en septembre 2012 pour un syndrome général de 2 mois, ainsi qu'une dyspnée et des douleurs pleurales. Antécédents pathologiques : arthrite goutteuse. Chirurgies antérieures : hernie inguinale.
+Ancien fumeur de 40 cigarettes par jour.
+
+Examen physique
+Patient lucide, orienté, hydraté, bien perfusé. CV : bruits cardiaques rythmés, pas de souffle. Apnée respiratoire : souffle vésiculaire conservé dans les deux champs pulmonaires. Douleur à la palpation au niveau costal droit. Abdomen : mou, dépressible, non douloureux à la palpation. Examen neurologique : nerfs crâniens normaux, force et sensibilité préservées. Langage et équilibre préservés.
+
+Tests complémentaires
+Fonction thyroïdienne normale, cortisol normal.
+CT scan de réévaluation en janvier 2013 : diminution des lésions au niveau des adénopathies médiastinales et légère diminution des lésions hépatiques.
+CT scan de réévaluation en avril 2013 : stabilisation de la maladie au niveau des adénopathies et progression au niveau hépatique.
+
+Diagnostic
+Le patient a été admis en médecine interne. La radiographie thoracique a montré un élargissement médiastinal et la tomodensitométrie a mis en évidence un conglomérat adénopathique, paratrachéal, subcarinal et para-œsophagien à droite, ainsi que des lésions hépatiques évoquant des métastases, un épanchement péricardique et un épanchement pleural à gauche. La fibrobronchoscopie a montré une néoplasie endobronchique gauche produisant une compression extrinsèque et une sténose totale de la bronche segmentaire VI. La FNA a révélé un carcinome neuroendocrine (synaptophysine +, chromogranine -), au stade disséminé. Une chimiothérapie à base de carboplatine et d'étoposide a été mise en place. Initialement, le Na sérique était de 112 mmol/l, l'osmolarité sérique de 216,4, le Na urinaire de 134 mmol/l, l'osmolarité urinaire de 368,79 mOsmol/kg, classés comme SIADH.
+
+Traitement
+Tolvaptan 15 mg c/24 heures, puis 30 mg c/24 heures et enfin 60 mg c/24 heures.
+
+Evolution
+La patiente a été admise dans le service d'oncologie après qu'on lui a trouvé un taux de Na de 113 mmol/l sans aucun symptôme neurologique.
+L'hyponatrémie a persisté malgré le traitement par chimiothérapie, la restriction hydrique, l'utilisation de diurétiques et l'apport de Na par voie parentérale, de sorte qu'il a été décidé de commencer un traitement en octobre 2012 avec du tolvaptan à une dose de 15 mg/jour, obtenant une récupération rapide du Na sérique à 135 mmol/l. Par la suite, lors d'une réévaluation par tomodensitométrie en avril 2013, des signes de progression hépatique ont été observés, et le topotécan a donc été mis en place. En mai 2013, elle a été admise avec un Na 113, des céphalées, des vomissements et des vertiges, et la dose de tolvaptan a été augmentée à 60 mg par jour avec une résolution du tableau clinique.

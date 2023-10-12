@@ -1,0 +1,10 @@
+T1	pathologie 117 137	lesión subepicárdica
+T2	pathologie 156 168	IAM inferior
+T3	pathologie 370 412	taquicardias ventriculares extrasistólicas
+T4	pathologie 850 870	acinesia inferobasal
+T5	pathologie 1127 1130	SRP
+#1	SNOMED T2	73795002
+#2	SNOMED T3	25569003
+#3	SNOMED T5	428417006
+#4	SNOMED T4	195675009
+#5	SNOMED T1	56265001

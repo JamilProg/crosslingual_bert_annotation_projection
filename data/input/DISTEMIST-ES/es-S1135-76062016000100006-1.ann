@@ -1,0 +1,20 @@
+T1	pathologie 470 478	lesiones
+T2	pathologie 526 544	luxación de hombro
+T3	pathologie 1084 1092	lesiones
+T4	pathologie 1763 1791	conductas sexuales desviadas
+T5	pathologie 2402 2416	retraso mental
+T6	pathologie 2746 2771	conductas metasimulativas
+T7	pathologie 3080 3112	trastorno límite de personalidad
+T8	pathologie 4023 4046	distorsiones cognitivas
+T9	pathologie 4266 4274	lesiones
+T10	pathologie 4352 4375	distorsiones cognitivas
+#1	SNOMED T8	443265004
+#2	SNOMED T7	20010003
+#3	SNOMED T5	110359009
+#4	SNOMED T4	50299009
+#5	SNOMED T10	443265004
+#6	SNOMED T6	430909002
+#7	SNOMED T2	417076003
+#8	SNOMED T1	157670007
+#9	SNOMED T3	157670007
+#10	SNOMED T9	157670007

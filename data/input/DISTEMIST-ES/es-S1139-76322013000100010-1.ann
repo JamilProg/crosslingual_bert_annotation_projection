@@ -1,0 +1,12 @@
+T1	pathologie 147 181	adenopatías submaxilares dolorosas
+T2	pathologie 264 381	exantema micropapular sobreelevado en "piel de gallina" que afectaba al tronco y a los pliegues inguinales y axilares
+T3	pathologie 472 483	escarlatina
+T4	pathologie 734 742	exantema
+T5	pathologie 781 792	escarlatina
+T6	pathologie 1151 1159	exantema
+#1	SNOMED T1	127085002
+#2	SNOMED T2	271807003
+#3	SNOMED T3	30242009
+#4	SNOMED T5	30242009
+#5	SNOMED T4	271807003
+#6	SNOMED T6	271807003

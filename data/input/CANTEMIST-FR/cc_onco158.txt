@@ -1,0 +1,32 @@
+Anamnèse
+Espagnole de 75 ans, vivant avec son mari et bénéficiant d'un soutien social et familial adéquat.
+Indépendante pour les activités de base de la vie quotidienne et avec des fonctions cognitives préservées.
+Antécédents personnels d'hypertension artérielle sous traitement par énalapril 20 mg, un comprimé par jour. Aucun autre antécédent médical ou chirurgical intéressant.
+La patiente se présente aux urgences en signalant un amaigrissement de 3 kg depuis 3 mois accompagné d'une asthénie évoluant depuis 2 mois et depuis une semaine d'une augmentation significative de l'asthénie, associée à une hyporexie, un prurit généralisé, une acholie, une cholurie et un ictère. Elle signale également des paresthésies sous forme de "fourmillements" dans l'épigastre et les deux hypocondres, sans aucune sensation douloureuse.
+
+Examen physique
+Fièvre de 37,6 ºC. Ictère cutané léger. Lésions de grattage sur le tronc, les membres supérieurs et inférieurs. Abdomen : légèrement douloureux à la palpation de l'épigastre. Hépatomégalie de trois largeurs de doigt, non douloureuse.
+
+Tests complémentaires
+"Bilan sanguin : bilirubine 2,8 au détriment de la bilirubine conjuguée (2,5). LDH 412 UI/l, GPT 233 UI/l, GOT 231 UI/l, phosphatase alcaline 509 UI/l.
+"Radiographie du thorax : présence de multiples nodules bilatéraux. Modèle de lâcher de ballons.
+"Marqueurs tumoraux : alpha-fœtoprotéine 2,8 ng/ml, antigène carcinoembryonnaire 2,8 ng/ml, antigène CA 125 78,1 U/ml, antigène CA 19-9 1 074,2 U/ml, antigène CA 15-3 61 UI/ml.
+"CT thoraco-abdominal : multiples métastases pulmonaires bilatérales, lésion focale dans le segment IV du foie, distension de la vésicule biliaire, dilatation du canal biliaire extrahépatique proximal, carcinomatose péritonéale et implants tumoraux.
+"Cholangio-IRM : dilatation des voies biliaires intrahépatiques.
+" Échographie abdomino-pelvienne (9/10/2014) : lésion nodulaire de 24 mm dans le segment latéral du lobe hépatique gauche.
+" Mammographie et échographie mammaire bilatérale : BI-RADS 2.
+" Gastroscopie : compression extrinsèque de la chambre gastrique.
+"Biopsie du foie : prolifération néoplasique épithéliale formant des structures glandulaires.
+Stroma desmoplastique avec des zones étendues de nécrose. Atypies cytologiques, pléomorphisme et mitoses. Aucun parenchyme hépatique n'est identifié. Immunophénotypage : positif pour CK7, CK18, CK19, MOC-31, CEA polyclonal ; et négatif pour CK17, CK20, CDX-2, TTF-1. Diagnostic pathologique : compatible avec un adénocarcinome.
+
+Diagnostic
+Adénocarcinome des voies biliaires. Stade IV (métastases pulmonaires, hépatiques et péritonéales).
+Justification du jugement diagnostique : en résumé, la patiente présentait des symptômes de syndrome constitutionnel avec acholie, cholurie, ictère et prurit ; ce qui, avec les altérations analytiques de la cholestase et la radiographie du thorax compatible avec un lâchage de ballonnet, a initialement suggéré un processus tumoral d'origine hépatobiliaire ou pancréatique. Une gastroscopie et une mammographie ont été réalisées dans le cadre du diagnostic différentiel de l'image radiologique afin d'exclure d'autres origines possibles. Tout au long du processus diagnostique de l'hospitalisation en médecine interne, les données analytiques de la cholestase ont augmenté légèrement mais continuellement, sans que la situation clinique de la patiente ne s'aggrave.
+
+Traitement
+Pendant son séjour dans le service d'oncologie médicale, une endoprothèse biliaire a été posée à titre de traitement palliatif dans l'attente d'une prise en charge définitive et une septicémie biliaire a été détectée avec isolement de
+Enterococcus faecium et Klebsiella pneumoniae traités à l'imipenem et au linézolide pendant 14 jours. Au milieu de la septicémie, il a développé une insuffisance rénale aiguë. Après avoir vérifié la diminution progressive des taux de bilirubine et la récupération de la fonction rénale, et après avoir terminé l'antibiothérapie, il a été décidé de le faire sortir de l'hôpital et de le surveiller dans des cliniques externes.
+Une chimiothérapie a été entamée avec de la gemcitabine hebdomadaire, dont il a reçu le premier cycle en novembre 2014, présentant un ECOG de 0.
+
+Évolution
+Le patient poursuit son traitement en ambulatoire jusqu'à présent, avec une bonne tolérance et en conservant un ECOG de 0-1.

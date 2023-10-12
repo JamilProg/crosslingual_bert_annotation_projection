@@ -1,0 +1,36 @@
+ANAMNÉSIE :
+Patiente de 52 ans sans allergie connue ni habitudes toxiques. Ménopause à 50 ans, antécédents personnels d'hypercholestérolémie en traitement par statines, pas d'antécédents familiaux d'intérêt oncologique.
+En juin 2011, en raison du dépistage de la population, elle a été adressée en gynécologie pour l'excision d'une tumeur au sein droit.
+
+Examen physique
+Le patient présente un excellent état fonctionnel. Pas d'adénopathie latérocervicale ou sus-claviculaire à la palpation. Tumeur rétroaréolaire dure dans le sein droit, sans atteinte cutanée.
+
+Examens complémentaires
+IRM mammaire : masse rétro et para-aréolaire externe du sein droit. Infiltration localisée très probable de la marge aréolaire externe.
+-Echographie abdominale : a éliminé des lésions métastatiques à un autre niveau.
+-Scintigraphie osseuse : négative pour les métastases.
+-Marqueurs tumoraux : Ca 15.3 : 25.57 U/ml et CEA : 8.46 ng/ml.
+-Biopsie à l'aiguille : carcinome canalaire infiltrant.
+
+Diagnostic
+En juin 2011, elle a subi une tumorectomie et une lymphadénectomie droite avec le résultat anatomopathologique suivant : carcinome canalaire infiltrant de 4 cm, de faible grade de malignité (Bloom 1), avec présence de satellites tumoraux. Présence de métastases dans 3 des 20 ganglions lymphatiques étudiés avec débordement capsulaire dans 2 d'entre eux.
+
+Étude immunohistochimique : ER (récepteurs d'œstrogènes) 3+/3+ dans 99%, PR (récepteurs de progestérone) négatifs. Pas de surexpression de HER-2 (+/3+). Ki 67 95%. La patiente est donc diagnostiquée avec un carcinome canalaire infiltrant du sein droit de stade IIIA (pT2a, pN2a M0) selon la 7e édition de la classification TNM de l'American Joint Committee on Cancer (AJCC), sous-type luminal B selon la classification internationale de consensus de Saint-Gall de 2013.
+
+Traitement
+En raison des facteurs de mauvais pronostic et du risque élevé de récidive, la patiente a reçu un traitement adjuvant à base d'adriamycine à 60 mg/m2, de cyclophosphamide à 600 mg/m2 pendant 4 cycles et de docétaxel à 100 mg/m2 pendant 4 autres cycles, avec une bonne tolérance. Par la suite, une radiothérapie a été administrée à la région du sein droit avec une dose de 50,4 Gy, à l'aisselle et à la région supraclaviculaire ipsilatérale avec une dose de 45 Gy, et s'est terminée en avril 2012.
+Elle a poursuivi une hormonothérapie adjuvante avec des inhibiteurs de l'aromatase (létrozole à 2,5 mg par jour).
+
+Évolution
+En février 2013, après une survie sans progression de 18 mois, les marqueurs tumoraux sont élevés avec un CEA de 31 ng/ml et un Ca15.3 de 51 U/ml. La TEP-TDM a confirmé l'apparition de métastases pulmonaires et ganglionnaires médiastinales bilatérales.
+Il a commencé une chimiothérapie palliative de première ligne avec nab-paclitaxel 260 mg/m2 tous les 21 jours, avec une réponse ganglionnaire complète et une stabilisation pulmonaire après 4 cycles. En mai 2013, en raison d'une progression biochimique avec CEA 49,04 ng/mL et Ca 15,3 87,92 U/mL, elle a commencé une deuxième ligne avec Capecitabine 1000mg/m2 toutes les 12 heures. Elle a reçu un total de 9 cycles avec une réponse partielle des métastases pulmonaires.
+En novembre 2013, le PET-CT a montré une progression pulmonaire et de nouvelles métastases osseuses dans la sixième vertèbre cervicale et l'os iliaque gauche.
+Il a commencé une chimiothérapie de troisième ligne avec de la doxorubicine liposomale à 50mg/m2 tous les 21 jours et de l'acide zolendronique à 4 mg. Après 5 cycles de traitement, une progression radiologique de la maladie pulmonaire et osseuse et une nouvelle apparition de métastases dans le foie ont été observées en mars 2014.
+Il a commencé une autre ligne de traitement avec de la Vinorelbine orale à 60 mg/m2 jusqu'en juin 2014, lorsque la maladie a progressé dans les poumons, les os et les ganglions lymphatiques.
+La thérapie a été changée pour l'Eribuline les jours 1 et 8 tous les 21 jours, mais après deux cycles, elle a été admise en oncologie médicale pour des symptômes neurologiques consistant en une diplopie. L'examen ophtalmologique a révélé un œdème papillaire et une paralysie du droit latéral de l'œil droit. Un scanner du cerveau a montré une métastase pariéto-occipitale de 35 x 25 mm avec un œdème périlésionnel important.
+Après une amélioration clinique partielle avec une corticothérapie intraveineuse (dexaméthasone 24 mg toutes les 24 heures), elle a commencé une nouvelle ligne de traitement avec du carboplatine AUC : 4. Elle a reçu 30 Gy de radiothérapie holocrânienne en septembre 2014. Malgré le traitement, la patiente a continué à présenter une diplopie et une détérioration fonctionnelle progressive.
+En décembre 2014, une progression de la maladie a été notée à la TEP, coïncidant avec une augmentation du syndrome constitutionnel et une perte d'autonomie conséquente (fauteuil roulant).
+Elle a alors été mise sous une autre ligne d'hormonothérapie avec un antagoniste des récepteurs aux œstrogènes, le Fulvestrant 500 mg tous les 30 jours, avec une réponse partielle de toutes les lésions.
+En avril 2015, la patiente a présenté une aggravation clinique consistant en une augmentation de son syndrome constitutionnel et une nouvelle diplopie avec de légères céphalées et une gêne oculaire gauche. Le PET scan a montré une maladie stable, même avec une diminution de la captation du glucose dans tous les foyers. Cependant, il a été adressé au service d'ophtalmologie et l'examen a révélé une anisocorie due à une métastase probable dans l'iris, ce qui a été confirmé par une échographie ophtalmique.
+En raison de la progression de l'iris, une nouvelle ligne de traitement a été mise en place avec 50 mg de cyclophosphamide par voie orale et des soins de soutien.
+Enfin, en juin 2015, après une admission due à une détérioration et à une progression clinique et biochimique franche, la patiente est sortie de l'hôpital.

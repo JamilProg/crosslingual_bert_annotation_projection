@@ -1,0 +1,16 @@
+T1	pathologie 457 478	hipertensión arterial
+T2	pathologie 539 545	angina
+T3	pathologie 678 739	paro cardiorrespiratorio secundario a fibrilación ventricular
+T4	pathologie 1691 1711	bloqueo A-V completo
+T5	pathologie 2052 2210	enfermedad difusa de la arteria descendente anterior con lesión en el tercio distal del 50% y lesión del 40% en el tercio proximal de la primera rama diagonal
+T6	pathologie 2215 2330	arteria circunfleja tenía una lesión del 50% en el tercio medio y enfermedad difusa de sus ramas obtusas marginales
+T7	pathologie 2335 2382	arteria coronaria derecha presentaba una lesión
+T8	pathologie 2488 2541	arteria descendente posterior presentaba dos lesiones
+#1	SNOMED T5	840608004
+#2	SNOMED T6	414024009
+#3	SNOMED T7	876856005
+#4	SNOMED T4	27885002
+#5	SNOMED T1	38341003
+#6	SNOMED T2	194828000
+#7	SNOMED T3	410430005+71908006
+#8	SNOMED T8	868222004

@@ -1,0 +1,8 @@
+T1	pathologie 124 135	traumatismo
+T2	pathologie 138 157	cuadro inflamatorio
+T3	pathologie 186 208	maldescenso testicular
+T4	pathologie 472 481	hidrocele
+#1	SNOMED T4	26614003
+#2	SNOMED T1	417746004
+#3	SNOMED T2	128139000
+#4	SNOMED T3	249240009

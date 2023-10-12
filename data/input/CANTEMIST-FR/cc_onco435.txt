@@ -1,0 +1,27 @@
+Anamnèse
+
+Antécédents oncologiques
+Femme de 59 ans sans antécédents intéressants. Diagnostiquée en octobre 2016 d'un adénocarcinome sténosant du bas rectum avec métastases péritonéales, pulmonaires, ganglionnaires et hépatiques (stade IVC), RAS muté. Une chirurgie urgente a été nécessaire en raison de l'obstruction intestinale, et une colostomie de décharge a été réalisée.
+Chimiothérapie de première ligne avec FOLFOX-bevacizumab, dont elle a reçu 8 cycles, avec une bonne tolérance. Les examens d'imagerie ont mis en évidence une diminution des marqueurs tumoraux et une réponse partielle. Elle a terminé 10 cycles de traitement et a commencé une maintenance jusqu'en juillet 2017, date à laquelle elle a demandé une pause thérapeutique. En septembre 2017, une tomodensitométrie (TDM) a montré une progression de la maladie (PE). Une deuxième ligne de chimiothérapie avec FOLFIRI-aflibercept a été entamée, avec une réponse partielle comme meilleure réponse, après le 8e cycle. Au total, 20 cycles ont été administrés jusqu'en juin 2018, date à laquelle une nouvelle pause thérapeutique a été prise, avec des critères de stabilité de la maladie. Après un intervalle de 4 mois, elle a de nouveau progressé, redémarrant OLFIRI-aflibercept, jusqu'à un total de 11 cycles avec une maladie stable. En février 2019, elle a présenté un nouvel EP au niveau pulmonaire et osseux, maintenant un PS de 1. Une troisième ligne avec regorafenib à la dose de 120 mg/jour a donc été débutée.
+
+Maladie actuelle
+Dix jours après le début du traitement, elle a consulté son médecin de famille pour l'apparition de lésions exanthémateuses et prurigineuses sur l'abdomen, et a été mise sous méthylprednisolone, 16 mg par jour, avec une amélioration partielle. Après 48 heures, sous traitement corticoïde décroissant, il a présenté une aggravation progressive et une généralisation des lésions précédemment décrites sur toute la surface du corps. L'état s'accompagnant d'une asthénie, d'une anorexie et d'une fièvre, elle s'est rendue aux urgences.
+
+Examen physique
+Tension artérielle 3. 102/64 mm Hg. FC 91 bpm. T 37,9 ºC. Saturation en oxygène 95 %. Dermatose généralisée, constituée de lésions maculopapuleuses à base érythémateuse, à bords surélevés, mal définis et confluents, localisées sur le visage, le thorax, l'abdomen et les membres, affectant plus de 90 % de la surface corporelle totale. Le reste de l'examen n'a révélé aucun élément pertinent.
+
+Tests complémentaires
+"Hémogramme et coagulation : normaux.
+"Biochimie : GFR 41 ml/min et Cr 1,39 mg/dl (avant de commencer le régorafénib 69 ml/min et 0,9 mg/dl, respectivement).
+"Radiographie du thorax : aucun résultat pertinent.
+
+Diagnostic
+"Éruption cutanée de grade 3 secondaire au régorafénib.
+"Insuffisance rénale aiguë prérénale.
+
+Traitement
+En raison de la détérioration significative de l'état général, de l'altération de la fonction rénale et de la toxicité réfractaire au traitement par corticoïdes, il a été décidé d'hospitaliser la patiente en oncologie médicale.
+Dans le service, un traitement de soutien par sérothérapie, antihistaminiques et antibiotiques systémiques a été mis en place. Après 48 heures, le patient a présenté une évolution clinique médiocre, avec l'apparition de nouvelles lésions et un mauvais contrôle du prurit, de sorte que de la méthylprednisolone 20 mg IV toutes les 12 heures a été administrée.
+
+Évolution
+Après 48 heures, on a constaté une amélioration progressive et une récupération de la fonction rénale et de l'état général. Elle est sortie de l'hôpital après 7 jours d'hospitalisation, avec un traitement descendant de corticostéroïdes et une antibiothérapie systémique. Quinze jours plus tard, elle s'est présentée à une consultation externe, sans aucun signe de lésions cutanées et avec une fonction rénale normale.

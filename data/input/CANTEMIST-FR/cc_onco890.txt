@@ -1,0 +1,25 @@
+Anamnèse
+Patient en bon état général et asymptomatique, adressé au service d'urologie pour un taux de PSA élevé.
+Homme de 67 ans ayant des antécédents de dyslipidémie. Il nie avoir consommé des substances toxiques ou avoir été exposé professionnellement à des substances cancérigènes. Il a travaillé comme chauffeur et est actuellement à la retraite. Son traitement habituel comprend des statines et un inhibiteur de la pompe à protons. En février 2009, le patient a été adressé au service d'urologie pour un taux de PSA élevé de 11,7 ng/dl.
+
+Examen physique
+Le patient était en bon état général, avec une numération sanguine normale. L'examen physique a révélé un adénome prostatique de grade 2 avec une zone irrégulière dans le lobe gauche. Le reste de l'examen physique était sans particularité.
+
+Examens complémentaires
+L'étude a été complétée par une biopsie de la prostate qui a révélé un adénocarcinome prostatique de Gleason 5 (3 + 2) dans le lobe droit (80 %) et de Gleason 6 (3 + 3) dans le lobe gauche (20 %).
++ La stadification TNM définitive a été effectuée après la réalisation de l'examen TNM de l'adénocarcinome prostatique.
+La stadification TNM définitive après l'étude par IRM pelvienne et scintigraphie osseuse était cT3 (en raison de l'infiltration des vésicules séminales) cN0 cM0.
+
+Diagnostic
+Adénocarcinome prostatique cT3N0M0.
+
+Traitement
+Un traitement par radiothérapie radicale et privation d'androgènes avec blocage complet pendant 24 mois a été proposé. Une dose totale de 76 Gy a été administrée par imagerie guidée par IGRT entre septembre et novembre 2009. Contrôles ultérieurs avec PSA < 0,1 ng/dl.
+
+Évolution
+En décembre 2016, après un intervalle de 7 ans après avoir terminé une radiothérapie sur la région pelvienne, la patiente a présenté un épisode d'insuffisance rénale aiguë due à une uropathie obstructive bilatérale qui a nécessité la mise en place d'une néphrostomie percutanée gauche. Une urétrocystoscopie peropératoire a été réalisée sans parvenir à accéder à la vessie malgré l'utilisation d'un résecteur et d'un urétrotome.
+Compte tenu de la suspicion que les symptômes obstructifs étaient secondaires à une fibrose urétrale prostatique associée à une cystite radiculaire, une cystectomie avec dérivation urétéro-iléale a été proposée. En mars 2017, une cystectomie radicale avec dérivation urinaire de type Bricker et néphrostomie antérieure droite a été réalisée, retrouvant une zone pelvienne avec une importante composante inflammatoire, notamment péritonéale (adhérence épiploïque) et une vessie hypertrophique et rétractée, ainsi qu'une prostate complètement adhérente aux plans voisins.
+L'examen anatomopathologique a révélé une néoformation avec des zones à cellules fusiformes/sarcomatoïdes et d'autres zones plus épithélioïdes avec une importante composante hémorragique compatible avec un angiosarcome de haut grade (Ki-67 90%) qui occupait la quasi-totalité de la vessie et s'étendait à la graisse périvésicale avec atteinte de la marge chirurgicale au niveau du trigone. Une nécrose étendue (> 50 %) et une invasion vasculolymphatique étaient évidentes. Le profil immunohistochimique était CD31+, CD117+, CKAE1/AE3-.
+L'étude d'extension post-chirurgicale a révélé une progression rapide de la maladie, à la fois pelvienne et systémique, avec développement de métastases hépatiques et pulmonaires et d'un épanchement pleural malin.
+Le patient a développé une dyspnée rapidement progressive à l'effort jusqu'à ce qu'il se repose, ce qui a conduit à une admission à l'hôpital et à la mise en place d'un tube de drainage thoracique et d'une pleurodèse palliative ultérieure.
+La détérioration clinique du patient pendant l'admission a été rapide, avec une dyspnée prédominante et des symptômes constitutionnels. Au moment de l'évaluation par le service d'oncologie, l'état général du patient était médiocre avec un ECOG de 3. L'administration d'une chimiothérapie palliative a donc été exclue et le patient a été traité exclusivement par un traitement symptomatique avec le soutien de l'Unité d'Hospitalisation à Domicile. Le décès est survenu quelques jours après la sortie de l'hôpital.

@@ -1,0 +1,29 @@
+Anamnèse
+Le patient était un homme de 57 ans, fumeur âgé de 40 ans, hypertendu bien contrôlé, traité par un ARA-2, sans autre antécédent médical intéressant et avec un antécédent familial d'un frère décédé d'un mélanome à l'âge de 50 ans.
+En octobre 2013, on lui a diagnostiqué un mélanome cutané sur l'épaule droite, qui a été opéré par excision complète et biopsie sélective du ganglion lymphatique sentinelle, qui était positif pour les micrométastases. Après la lymphadénectomie et l'étude d'extension par PET-CT, le cancer a été classé T3N2M1b (stade IV) en raison de la présence de métastases pulmonaires dans les lobes inférieurs gauche, moyen et droit et de multiples métastases sous-cutanées (région deltoïde, poplité gauche, genou droit et sous-scapulaire gauche) confirmées par l'histologie. Dans ces conditions, une étude moléculaire de BRAF et c-KIT a été demandée, avec des résultats natifs pour les deux.
+En novembre, elle a commencé un traitement de première ligne par temozolamide avec des signes de progression de la maladie après 4 cycles en raison de l'apparition d'un implant rétropéritonéal et de nouvelles lésions sous-cutanées. Il a donc débuté en mars 2014 un traitement de seconde ligne par ipilimumab à la dose de 3 mg par kg, dont il a bénéficié de 4 cycles sans toxicité notable. L'évaluation de la réponse globale selon les critères de réponse liés à l'immunité (IRRC) était une maladie stable avec une réduction de 20 % des lésions pulmonaires et cutanées. À ce moment-là, un suivi a été mis en place.
+En septembre 2014, elle a été admise au service d'oncologie pour constipation, difficulté à initier la miction et légère perte de force dans le membre inférieur droit.
+
+Examen physique
+"ECOG 2, bon état général. Hémodynamiquement stable.
+"L'examen abdominal a révélé la présence d'un ballon vésical.
+"L'examen neurologique a révélé une hypoesthésie parcellaire au niveau du membre inférieur gauche ; au niveau du membre inférieur droit, une perte de force (4/5), une hyperréflexie et un réflexe cutané plantaire extenseur ; et une anesthésie dans la région périnéale avec atteinte sphinctérienne.
+"Le reste de l'examen n'a rien révélé.
+
+Examens complémentaires
+Lors de l'admission, un examen d'imagerie a été réalisé :
+"IRM cérébrale : deux lésions cérébrales frontales subcentimétriques dans le lobe frontal gauche et le lobe frontal droit, évoquant une métastase, toutes deux avec un discret halo d'oedème. Pas d'autres résultats.
+"IRM de la colonne vertébrale : œdème intramédullaire affectant la moelle dorsale avec une discrète hyperintensité du centre médullaire dans la région postérieure au soma vertébral D7 avec une prise de contraste nodulaire d'environ 9 mm de diamètre sur la face antérieure droite, ce qui, compte tenu des antécédents, suggère une métastase intramédullaire solitaire d'un mélanome.
+"CT T-A-P : apparition d'une nouvelle métastase surrénalienne gauche, d'un implant mésentérique à côté de l'anse droite de l'intestin grêle et d'une métastase dans le corps pancréatique. Nodule rétropéritonéal, nodules pulmonaires et sous-cutanés inchangés par rapport à l'étude précédente.
+
+Diagnostic
+Compression de la moelle épinière due à des métastases intramédullaires au niveau D7 associées à une progression de la maladie aux niveaux cérébral, surrénalien, mésentérique et pancréatique.
+
+Traitement
+À l'admission, un cathétérisme vésical et des lavements ont été effectués et un traitement médical a été instauré avec une corticothérapie (dexaméthasone 4 mg/8 h) avec une amélioration clinique. Le patient est resté stable, sans nouveau foyer neurologique. Une légère diminution de la force du membre inférieur droit, pour laquelle il se déplaçait à l'aide d'une canne, et une anesthésie de la région périnéale avec atteinte du sphincter, nécessitant un sondage vésical et des laxatifs pour la défécation, ont été constatées. Compte tenu de sa stabilité clinique, il a été autorisé à terminer son traitement en ambulatoire.
+Sur la base des résultats de l'IRM, en octobre 2014, une radiothérapie externe a été réalisée sur la lésion spinale à 25 Gy en 5 fractions de 5 Gy/fraction et une radiochirurgie sur les deux lésions cérébrales avec une dose unique de 20 Gy. Après le traitement, les symptômes neurologiques du patient se sont améliorés, avec la récupération de l'altération du sphincter qui a permis le retrait du cathéter. Le seul symptôme était une légère parésie résiduelle dans le membre inférieur droit, pour laquelle il n'avait plus besoin d'aide pour se déplacer.
+Compte tenu de la progression de la maladie, en novembre 2014, un traitement de 3ème ligne a été initié avec le pembrolizumab à la dose de 2 mg par kg toutes les 3 semaines.
+
+Évolution
+Dès la première évaluation, 12 semaines après le début du traitement par pembrolizumab, une réduction progressive de toutes les lésions métastatiques a été observée, atteignant une réponse complète après 72 semaines de traitement, qui s'est maintenue jusqu'à présent. Les examens IRM du cerveau et de la moelle épinière ont également montré une réponse complète.
+Actuellement, le patient a dépassé les deux ans de traitement et ne présente plus aucun signe de maladie. Les symptômes neurologiques ont complètement disparu et il présente une excellente tolérance au traitement, sans effets indésirables notables. Lors de la dernière consultation, il nous a demandé combien de temps nous devrions poursuivre le traitement.

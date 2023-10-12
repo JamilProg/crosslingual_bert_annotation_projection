@@ -1,0 +1,22 @@
+Anamnèse
+Femme de 45 ans, ex-fumeuse avec une dose cumulée de 20 paquets-années, aux antécédents d'infection par le virus de l'hépatite C traitée par interféron et ribavirine en 2006 avec une charge virale négative et une insuffisance rénale chronique (IRC) de stade V secondaire à une polykystose rénale hépatorénale sous traitement substitutif par hémodialyse depuis janvier 2009. Elle a été retirée de la liste de transplantation en novembre 2009 en raison de l'apparition d'une lésion malpighienne intraépithéliale de haut grade (HSIL, CIN III) positive pour les HPV à haut risque (16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68) avec surexpression de la protéine p16 lors de la cytologie vaginale de dépistage. Une colposcopie et une biopsie cervicale ont été réalisées, montrant l'apparition d'un carcinome malpighien micro-invasif du col de l'utérus sur des zones étendues de lésions intra-épithéliales malpighiennes de haut grade.
+
+Examen physique
+Patiente en bon état général (ECOG-PS 1). L'examen gynécologique a montré la présence d'une tumeur cervicale exophytique de consistance élastique et molle, non friable, atteignant jusqu'à 2 cm de l'introitus vaginal. Le cul-de-sac n'était pas touché et le toucher rectal était négatif.
+
+Examens complémentaires
+- Une IRM pelvienne a été réalisée (24/11/2009), qui a montré la présence d'une masse cervicale exophytique dépendant du bord antéro-inférieur du col de l'utérus mesurant 5 x 4,8 x 2,5 cm, s'étendant vers le vagin sans infiltration de la paroi et sans atteindre le tiers inférieur. Aucune adénopathie rétropéritonéale ou pelvienne de taille pathologique n'a été observée. Présence d'une polykystose rénale hépatorénale connue, avec kystes hémorragiques rénaux bilatéraux.
+- Une lymphadénectomie laparoscopique para-aortique a été réalisée (15/1/2010), sans présence de maladie métastatique dans 11 ganglions isolés.
+- Examens de laboratoire (15/1/1200) : IRC avec un taux de filtration glomérulaire rénale de 6,88 ml/min, hémogramme sans altération.
+- Marqueurs tumoraux avec CEA de 2,7 ng/ml, CYFRA 21.1 de 7,3 ng/ml et SCC de 20 ng/ml.
+- Tomodensitométrie thoraco-abdominale (26/1/2010) : pas de signe de maladie à distance.
+
+Diagnostic
+Le cas a été évalué par le comité multidisciplinaire d'oncologie comme un carcinome malpighien du col de l'utérus de stade IB2 de la FIGO chez une patiente atteinte d'IRC et sous hémodialyse, et un traitement par radio-chimiothérapie concomitante à visée radicale a été décidé.
+
+Traitement
+Il a commencé une radiothérapie externe en janvier 2010, recevant un total de 50,4 Gy à 1,8 Gy/fraction.
+Administration concomitante de cisplatine à une dose de 25 mg/m2 par semaine pendant 6 cycles (03/02/2010-10/3/2010), coordonnée avec une séance d'hémodialyse 1 heure après l'administration du cytostatique. La patiente a présenté une bonne tolérance au traitement, sans effets indésirables pertinents, ni arrêt ou ajustement de dose. Enfin, un boost a été réalisé avec une curiethérapie de bas débit à une dose totale de 34 Gy. L'examen physique et l'IRM pelvienne à la fin du traitement (4/5/2010) ont montré une réponse complète de la maladie. Après évaluation du cas par le Comité multidisciplinaire d'oncologie, compte tenu du risque accru de récidive secondaire à une future immunosuppression, une hystérectomie laparoscopique a été pratiquée (y compris une boucle vaginale de 1 cm) et une double annexectomie (2/6/2010), montrant une réponse pathologique complète sur la pièce opératoire.
+
+L'évolution
+Après des contrôles réguliers pendant 2 ans sans aucun signe de maladie, il a été décidé de la réinscrire sur la liste d'attente de transplantation. Le 1er novembre 2011, la transplantation rénale a été réalisée sans incident. Elle est actuellement sous traitement immunosuppresseur par mycophénolate mofétil (500 mg/8 h) et tacrolimus (2,5 mg/12 h) et bénéficie d'un suivi trimestriel dans l'unité de transplantation rénale. Elle poursuit les contrôles oncologiques semestriels, sans aucun signe de maladie à ce jour (dernière visite le 19/5/2014).

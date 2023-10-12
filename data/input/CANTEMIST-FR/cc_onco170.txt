@@ -1,0 +1,35 @@
+Anamnèse
+Une femme de 27 ans, ingénieur de profession, sans allergies médicamenteuses connues ni antécédents médicaux ou chirurgicaux intéressants, a été diagnostiquée par hasard en novembre 2013 avec une grosse tumeur rétropéritonéale ; la patiente n'avait pas de tableau clinique constitutionnel, de douleur, de perte de poids ou d'autres symptômes associés.
+
+Une biopsie échoguidée a été réalisée, qui a révélé la possibilité d'un sarcome rétropéritonéal de bas grade. Elle a donc subi une laparotomie exploratoire en décembre 2013, qui a permis une résection chirurgicale complète (R0). Les résultats peropératoires et la description de l'anatomie pathologique de la pièce opératoire ont révélé une masse rétropéritonéale de grande taille, très vascularisée, qui rejetait en avant la rate et le pancréas et en bas le rein gauche et le côlon, sans les infiltrer, bien qu'elle soit en contact étroit avec la capsule du pôle rénal supérieur. La patiente s'est rétablie de manière satisfaisante après l'opération et a conservé un excellent état général. Elle a été adressée au service d'oncologie médicale de notre hôpital pour évaluer la nécessité d'un traitement adjuvant.
+
+Examen physique
+Excellent état général, niveau de performance (PS) 0. Cicatrice de la plaie chirurgicale en bon état, le reste de l'examen physique est sans particularité.
+
+Examens complémentaires
+" Tomodensitométrie (TDM)-CTP (21/11/2013) : masse hétérogène bien définie, 15 x 10 x 12 cm, avec des zones de nécrose, située dans la région de la glande surrénale gauche, déplaçant le pancréas, les gros vaisseaux et en contact étroit avec le pôle supérieur du rein gauche.
+"Anatomie pathologique de la pièce opératoire : tumeur délimitée de 16 x 10 x 13 cm, hétérogène, avec des zones fibreuses, charnues et hémorragiques. Prolifération cellulaire constituée de nids de cellules épithélioïdes monomorphes à noyaux excentrés séparés par des tractus fibreux. Positivité diffuse de la vimentine, du WT1 et du CD-99. Translocation positive du gène EWRS. Ki-67 : 15%. Les cytokératines et les marqueurs myéloïdes sont négatifs. Résultats compatibles avec un sarcome rétropéritonéal indifférencié avec translocation du gène EWRS.
+"Numération sanguine, biochimie et hémostase : normales.
+
+Diagnostic
+Sarcome pléomorphe indifférencié à phénotype épithélioïde/rhabdoïde (tumeur des cellules rondes desmoplastiques à phénotype rhabdoïde et fusion EWSR1-WT1).
+
+Traitement
+Avec le diagnostic de sarcome rétropéritonéal indifférencié avec translocation du gène EWRS, et en l'absence d'un diagnostic pathologique et moléculaire définitif, chez une jeune patiente asymptomatique chez qui une résection chirurgicale R0 avait été réalisée, une cryoconservation du cortex ovarien a été effectuée, étant donné qu'il existait un degré élevé d'incertitude quant à la possibilité d'avoir besoin d'un traitement de chimiothérapie adjuvante.
+
+Une fois le diagnostic anatomopathologique définitif de fibrosarcome épithélioïde sclérosant obtenu (des translocations chromosomiques ont été effectuées par la technique de réaction en chaîne de la polymérase [PCR], à la fois pour le sarcome d'Ewing et la tumeur desmoplastique à petites cellules rondes, avec des résultats négatifs, bien qu'il y ait eu une FISH positive pour le gène EWRS moins spécifique dans la biopsie initiale) et comme il s'agissait d'un sarcome de bas grade, dans lequel aucun bénéfice d'une chimiothérapie adjuvante n'a été démontré, il a été décidé de maintenir un suivi étroit. La patiente est restée asymptomatique et mène une vie normale.
+
+Évolution
+En juillet 2014 (sept mois après l'opération), un scanner d'évaluation a montré une progression de la maladie en raison de la présence de métastases hépatiques, péritonéales et musculaires (paroi thoracique-abdominale postérieure). La patiente est restée asymptomatique et son PS était de 0.
+
+Le cas clinique a été présenté au Comité des tumeurs musculo-squelettiques et, compte tenu de la nature atypique du tableau, il a été décidé de procéder à un nouvel examen de l'échantillon anatomopathologique initial et une nouvelle biopsie guidée a été demandée dans le but d'évaluer la composante de dédifférenciation. La métastase musculaire a été choisie comme le site le plus accessible.
+
+Une fois la biopsie réalisée, un traitement systémique par adriamycine liposomale pégylée a été instauré pendant trois cycles, avec une tolérance acceptable, mais avec une progression radiologique dans le foie et le péritoine. C'est à ce moment-là que le résultat définitif de la seconde biopsie a été reçu, faisant état d'un sarcome pléomorphe indifférencié de phénotype épithélioïde/rhabdoïde ; les résultats morphologiques et moléculaires indiquaient une forme de tumeur desmoplastique à cellules rondes de phénotype rhabdoïde et une fusion EWSR1-WT1.
+
+Il s'agissait d'un cas clinique exceptionnel, une tumeur desmoplastique à cellules rondes avec un phénotype très atypique, où le diagnostic final a été posé par une seconde analyse moléculaire. Bien qu'elle n'ait pas répondu au traitement par l'adriamycine liposomale, la patiente était en bon état général et asymptomatique. Il a donc été décidé d'entamer une deuxième ligne de traitement avec le schéma VIDE (vincristine, ifosfamide, adriamycine et étoposide) avec le soutien du pegfilgrastim en prophylaxie primaire de la fièvre neutropénique, similaire au sarcome d'Ewing.
+
+Malgré cela, après le premier cycle, il a dû être hospitalisé pour une fièvre neutropénique. Il a donc été décidé de réduire la dose d'étoposide à 75 %, en essayant de maintenir l'intensité de la dose d'ifosfamide et d'adriamycine. Les cycles suivants ont été administrés sans incident ni retard, à l'exception d'une anémie de grade 3 qui a nécessité des transfusions à deux reprises. L'évaluation après trois cycles a montré une maladie radiologiquement stable, et le bénéfice clinique a été maintenu, de sorte que six cycles ont été complétés au total.
+
+En mars 2015, l'évaluation finale du traitement a été effectuée, et l'activité métabolique de la tumeur a persisté dans les métastases hépatiques, les implants mésentériques, rétropéritonéaux et de la paroi abdominale ; la patiente est restée en bon état général, paucisymptomatique et a conservé son indépendance pour les activités de la vie quotidienne. La maladie étant stable et le bénéfice clinique maintenu, il a été décidé de poursuivre le traitement d'entretien avec le schéma VACTcD (vincristine, actinomycine D et cyclophosphamide) par analogie avec le sarcome d'Ewing.
+
+A ce jour, trois cycles d'entretien ont été administrés, la tolérance a été acceptable, l'anémie de grade 3 étant la toxicité hématologique la plus notable, mais avec un traitement de soutien approprié (érythropoïétine trois fois par semaine), elle a été contrôlée, au point que la patiente a repris son travail habituel et mène une vie normale.

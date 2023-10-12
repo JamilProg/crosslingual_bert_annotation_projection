@@ -1,0 +1,28 @@
+T1	pathologie 70 97	edema conjuntival bilateral
+T2	pathologie 299 320	hipertensión arterial
+T3	pathologie 351 368	diabetes mellitus
+T4	pathologie 390 406	candidiasis oral
+T5	pathologie 479 509	quemosis conjuntival bilateral
+T6	pathologie 822 841	síndrome de Cushing
+T7	pathologie 1189 1206	carcinoma adrenal
+T8	pathologie 1212 1239	adenopatías locorregionales
+T9	pathologie 1548 1556	quemosis
+T10	pathologie 1615 1650	carcinoma de la corteza suprarrenal
+T11	pathologie 1948 1981	metástasis pulmonares bilaterales
+T12	pathologie 2007 2041	recidiva local a nivel suprarrenal
+T13	pathologie 2181 2218	insuficiencia respiratoria y cardíaca
+T14	pathologie 2335 2361	insuficiencia respiratoria
+#1	SNOMED T5	8148005
+#2	SNOMED T10	2227007
+#3	SNOMED T6	47270006
+#4	SNOMED T1	84178004
+#5	SNOMED T2	38341003
+#6	SNOMED T9	8148005
+#7	SNOMED T3	73211009
+#8	SNOMED T11	94391008
+#9	SNOMED T4	79740000
+#10	SNOMED T7	255035007
+#11	SNOMED T12	94161006
+#12	SNOMED T8	30746006
+#13	SNOMED T13	410431009
+#14	SNOMED T14	409623005

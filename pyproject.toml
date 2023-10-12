@@ -1,0 +1,31 @@
+[tool.pdm]
+
+[tool.pdm.resolution]
+respect-source-order = true
+
+# ------------------------ Project Info ------------------------
+[project]
+name = "app"
+version = "0.0.0"
+requires-python = ">=3.10"
+
+# ------------------------ Dependencies ------------------------
+dependencies = [
+    "faiss-gpu==1.7.2",
+    "googletrans==4.0.0rc1",
+    "sentence-splitter==1.4",
+    "sentence-transformers==2.2.2",
+    "torch @ http://download.pytorch.org/whl/cpu/torch-2.0.1%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=fec257249ba014c68629a1994b0c6e7356e20e1afc77a87b9941a40e5095285d",
+    "transformers>=4.29.2",
+    "torch-scatter @ https://data.pyg.org/whl/torch-2.0.0%2Bcpu/torch_scatter-2.1.1%2Bpt20cpu-cp310-cp310-linux_x86_64.whl",
+    "pandas==2.0.3",
+]
+
+[tool.pdm.dev-dependencies]
+dev = []
+
+# --------------------------- Scripts --------------------------
+[tool.pdm.scripts]
+clean_all = {cmd = "git clean -dfX --exclude='!*keepme*'"}
+#
+anntranslate = {call = "src.app:translate_ann_files"}

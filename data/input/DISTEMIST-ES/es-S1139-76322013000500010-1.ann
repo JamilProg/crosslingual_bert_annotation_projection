@@ -1,0 +1,12 @@
+T1	pathologie 127 141	tumor de Wilms
+T2	pathologie 772 786	deshidratación
+T3	pathologie 1055 1068	globo vesical
+T4	pathologie 1605 1622	apendicitis aguda
+T5	pathologie 1766 1783	apendicitis aguda
+T6	pathologie 1840 1861	apendicitis flemonosa
+#1	SNOMED T1	302849000
+#2	SNOMED T5	85189001
+#3	SNOMED T4	85189001
+#4	SNOMED T6	735591005
+#5	SNOMED T2	34095006
+#6	SNOMED T3	267064002

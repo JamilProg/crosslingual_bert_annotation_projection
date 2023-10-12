@@ -1,0 +1,30 @@
+T1	pathologie 49 58	exfumador
+T2	pathologie 105 125	Infarto de miocardio
+T3	pathologie 140 171	aneurisma abdominal infrarrenal
+T4	pathologie 175 189	Litiasis renal
+T5	pathologie 201 222	Hipertensión arterial
+T6	pathologie 247 269	hematuria macroscópica
+T7	pathologie 316 348	carcinoma transicional de vejiga
+T8	pathologie 415 432	carcinoma in situ
+T9	pathologie 459 475	recidiva tumoral
+T10	pathologie 516 533	carcinoma in situ
+T11	pathologie 1105 1119	lesión nodular
+T12	pathologie 1275 1308	carcinoma pobremente diferenciado
+T13	pathologie 1702 1771	metástasis en pared abdominal por un carcinoma micropapilar de vejiga
+T14	pathologie 1960 1981	metástasis ganglionar
+T15	pathologie 2072 2090	recidiva en vejiga
+#1	SNOMED T2	22298006
+#2	SNOMED T6	197941005
+#3	SNOMED T3	444569004
+#4	SNOMED T4	95570007
+#5	SNOMED T14	94392001
+#6	SNOMED T7	255109008
+#7	SNOMED T5	38341003
+#8	SNOMED T13	399326009+94418000
+#9	SNOMED T1	8517006
+#10	SNOMED T9	25173007
+#11	SNOMED T11	27925004
+#12	SNOMED T15	94186002
+#13	SNOMED T8	68956006
+#14	SNOMED T10	68956006
+#15	SNOMED T12	722688002

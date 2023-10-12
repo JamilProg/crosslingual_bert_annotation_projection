@@ -1,0 +1,8 @@
+T1	pathologie 62 98	pancreatitis aguda de origen enólico
+T2	pathologie 346 366	hipotensión arterial
+T3	pathologie 805 818	hiperglucemia
+T4	pathologie 977 1001	pseudoquiste pancreático
+#1	SNOMED T1	235942001
+#2	SNOMED T2	45007003
+#3	SNOMED T4	111374002
+#4	SNOMED T3	80394007

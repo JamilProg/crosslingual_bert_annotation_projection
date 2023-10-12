@@ -1,0 +1,31 @@
+Anamnèse
+Homme de 39 ans avec des antécédents médicaux : ulcère gastrique depuis l'âge de 24 ans. Rhinite et asthme bronchique extrinsèque. Pas d'habitudes toxiques.
+Le patient a rapporté des symptômes cliniques d'asthénie et d'anorexie avec une perte de 15 kg en 3 mois. Épisodes fébriles bien tolérés le soir sans foyer infectieux apparent. Pas de transpiration. Manifestations cliniques de douleurs épigastriques qui s'améliorent avec l'ingestion depuis plus d'un an.
+
+Examen physique
+Cardiopulmonaire : rythmique sans souffle.
+Abdomen : hépatomégalie à 3 niveaux. Splénomégalie.
+Extrémités : pas d'œdème. Pas d'altération motrice ou sensorielle.
+Neurologique : pupilles isochoriques et normoréactives. Pas de déficit visuel.
+
+Examens complémentaires
+- Analyses sanguines : hémoglobine 12,6 g/dl, leucocytes 7 260 x103/uL. LDH 145 UI/l. Bêta-2m 1,24 mg/l.
+- Sérologie VIH, VHB, VHC, LUES : négative.
+- Tomodensitométrie du corps entier : pas de signe de malignité.
+- IRM du système nerveux central : résultats normaux.
+- Endoscopie : ulcère antral de 2 cm respectant la sous-muqueuse compatible avec un lymphome B de type MALT CD 20+,
+Helicobacter pylori positif.
+
+Diagnostic
+Lymphome gastrique MALT de stade IE Helicobacter pylori positif.
+
+Traitement
+En cas de diagnostic de lymphome du MALT de stade I-E, une trithérapie d'éradication est mise en place : oméprazole 20 mg toutes les 12 heures, amoxicilline 1 g toutes les 12 heures, clarithromycine 500 mg toutes les 12 heures pendant 7 jours.
+
+Évolution
+Le patient a été adressé au service d'oncologie médicale pour un diagnostic de lymphome du MALT gastrique CD 20+ de stade I-E. Il a commencé une trithérapie d'éradication avec de l'oméprazole, de l'amoxicilline et de la clarithromycine pendant 7 jours. Quinze jours après le début du traitement, il a commencé à ressentir une perte sensori-motrice dans les quatre membres, avec une absence de sensation à la racine des quatre membres et une incapacité à les bouger. Une IRM du SNC a été réalisée, sans preuve de lésions, et l'électromyographie a montré une polyradiculonévrite sensitivomotrice démyélinisante critique aiguë des quatre membres, et un traitement empirique à base de stéroïdes à forte dose a été instauré sans amélioration clinique. En l'absence d'étiologie évidente, la maladie a été réévaluée par tomodensitométrie avec des résultats non visibles un mois plus tôt d'adénopathies rétropéritonéales et médiastinales importantes, un profil auto-immun (ANA, ANCA, anti-Hu, anti-CV2, anti-Yo, anti-Ri, antifisine, anti-Jo-1, anti-La/SSB, anti-U1-RNP, anti-Sm, anticorps IgG-NMO), négatif, ainsi qu'une FNA scan des ganglions lymphatiques et des ganglions lymphatiques négative : négatif ; ainsi qu'une FNA des ganglions lymphatiques et une biopsie de la moelle osseuse infiltrées par un lymphome B de bas grade.
+Compte tenu des manifestations cliniques aiguës de tétraplégie et des signes de progression de la maladie, actuellement au stade IV-E avec R-IPI:2 (bon pronostic), un traitement chimiothérapeutique a été mis en place selon le schéma R-CHOP 21. Après 15 jours, le patient a présenté une récupération sensori-motrice des quatre extrémités confirmée par électromyographie. Au vu du bénéfice clinique, il a été décidé de poursuivre le traitement par chimiothérapie jusqu'à ce que 6 cycles soient terminés. La réévaluation après traitement par tomodensitométrie, endoscopie et biopsie de la moelle osseuse a montré une réponse complète à la maladie.
+Après 4 ans de suivi par l'oncologie médicale, la patiente a commencé à perdre 5 kg, à avoir des sueurs nocturnes et à présenter depuis 20 jours une perte sensori-motrice progressive des quatre membres. En raison de la suspicion d'une rechute du lymphome, il a été admis pour étude et contrôle symptomatique.
+La réévaluation du patient par tomodensitométrie n'a révélé aucune lésion évidente des ganglions lymphatiques ou du parenchyme. L'électromyographie montre des résultats comparables à ceux du diagnostic de polyradiculopathie démyélinisante critique aiguë. L'étude a été complétée par une endoscopie supérieure et inférieure, sans lésions évidentes, une étude d'auto-immunité négative pour les anticorps anti-neuronaux paranéoplasiques, une biopsie de la moelle osseuse négative et une cytométrie de la moelle osseuse négative pour les tumeurs malignes. En l'absence de rechute évidente du lymphome et compte tenu des symptômes aigus du patient, un traitement empirique aux stéroïdes, une plasmaphérèse et l'administration d'immunoglobulines ont été mis en place.
+Un mois plus tard, la neuropathie du patient s'étant légèrement améliorée, une nouvelle gastroscopie a été pratiquée, qui a révélé une lésion antrale de 0,8 cm avec une biopsie positive pour un lymphome MALT gastrique CD20+ Helicobacter pylori-négatif. Par conséquent, compte tenu de la rechute d'un lymphome du MALT gastrique de stade IE avec R-IPI : 1 (bon pronostic), un traitement par rituximab hebdomadaire a été instauré, mais il n'a été mené à bien que 2 cycles en raison d'une aggravation clinique avec perte de vision secondaire à une névrite optique gauche sévère, confirmée par des potentiels évoqués visuels ; le patient a opté pour un nouveau schéma de chimiothérapie avec rituximab-fludarabine-mitoxantrone, menant à bien 4 cycles avec une réponse partielle de la neuropathie périphérique après avoir achevé le traitement complet du lymphome gastrique.
+Depuis, le patient se soumet à des examens semestriels, sans aucun signe de la maladie. Comme séquelles du processus, il souffre d'une neuropathie sensori-motrice modérée dans les quatre membres, ce qui rend la marche difficile, et d'une perte complète de la vision dans l'œil gauche en raison de la neuropathie optique.

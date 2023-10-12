@@ -1,0 +1,31 @@
+Anamnèse
+Nous allons discuter le cas d'une patiente de 59 ans, fumeuse de 20 cigarettes par jour, sans autres antécédents ni traitement habituel. Elle travaille comme enseignante.
+En mars 2017, on lui a diagnostiqué une tumeur mammaire de Phyllodes dans le quadrant supéro-externe du sein gauche, traitée par résection chirurgicale avec marges libres. Lors du premier contrôle en novembre 2017, un nodule a été trouvé dans le quadrant supérieur externe du sein gauche, avec une étude pathologique de carcinome infiltrant de grade histologique III avec des récepteurs aux œstrogènes négatifs (ER 0 %), des récepteurs à la progestérone négatifs (PR 0 %), un indice prolifératif (Ki67) de 80 %, HER-2 (human epidermal growth factor receptor 2) équivoque sans amplification par hybridation fluorescente in situ (FISH). Après excision chirurgicale et étude du ganglion sentinelle, elle correspondait à un stade tumoral IA susceptible d'un traitement complet par radiothérapie et chimiothérapie adjuvante ; en janvier 2018, elle a donc commencé une chimiothérapie selon le schéma TAC (docétaxel-adriamycine-cyclophosphamide).
+Au septième jour du premier cycle, elle a consulté pour une diarrhée de plus de 10 selles par jour accompagnée d'une fièvre de plus de 38 ºC pendant 24 heures d'évolution sans autre symptôme d'accompagnement.
+
+Examen physique
+Les signes vitaux du patient étaient les suivants : tension systolique et diastolique de 138/62 mm Hg, fréquence cardiaque de 108 bpm, température de 37,5 °C et saturation en oxygène de 98 %.
+L'examen physique n'a révélé aucune mucosite, l'auscultation cardio-pulmonaire était inchangée et l'examen abdominal était normal.
+
+Examens complémentaires
+La radiographie abdominale montre un schéma gazeux sans particularité, avec une aération du cadre colique jusqu'à l'ampoule rectale.
+Les résultats des analyses sanguines montrent une procalcitonine normale, un taux de sodium de 131 milliéquivalents décilitre (mEq/dl), une protéine C-réactive de 79,8, des plaquettes de 91 000, des leucocytes de 490 avec 30 neutrophiles.
+Une échographie abdominale a montré un épaississement de la paroi du cæcum, compatible avec la suspicion clinique de typhlite, ainsi que des lésions hépatiques focales légèrement hyperéchogènes, ce qui a recommandé des tests ciblés pour différencier l'origine bénigne (hémangiomes) de l'origine maligne (métastases).
+
+Diagnostic
+Typhlite chimiothérapeutique.
+"Neutropénie de grade 4 et thrombopénie de grade 2 secondaires à la chimiothérapie.
+"Lésions occupant l'espace (LOE) dans le foie.
+
+Traitement
+Il a été admis dans le service de l'hôpital avec des soins de soutien et une antibiothérapie empirique à base de pipéracilline-tazobactam a été mise en place.
+
+Évolution
+Le patient a évolué favorablement, avec une résolution de la toxicité hématologique et de la typhlite après le début de l'antibiothérapie, de sorte qu'après huit jours d'antibiothérapie et des résultats négatifs des cultures, il a été décidé de mettre fin au traitement antibiotique.
+Lors de l'admission, une étude du LOE hépatique a été réalisée :
+À la tomodensitométrie thoraco-abdominopelvienne (CT-TAP), elle présente une altération densitométrique du sein gauche suggérant des changements post-chirurgicaux, avec une lymphadénopathie de 3 mm dans l'aisselle gauche. Les champs pulmonaires montrent un modèle typique d'emphysème pulmonaire, accompagné de lésions cicatricielles dans la région apicale droite et de deux images pseudonodulaires d'aspect cicatriciel dans les champs supérieurs. Il y avait également des images suggérant des métastases hépatiques dans les segments VIII, V et IVB.
+L'imagerie par résonance magnétique (IRM) du foie a montré trois lésions focales situées respectivement dans les segments VIII, à cheval sur les segments VIII, V et IVB. Ces lésions présentent un comportement hypovasculaire avec une prise de contraste annulaire progressive. Celle située dans le segment IVB présente des modifications hémorragiques en son sein. L'ensemble de ces données nous a conduit à suspecter la nature métastatique des lésions.
+Étant donné les doutes quant à l'origine des lésions hépatiques, un échantillon a été prélevé par biopsie à l'aiguille guidée par échographie, avec un résultat anatomopathologique de métastase hépatique de carcinome neuroendocrine bien différencié, avec une étude immunohistochimique positive pour la chromogranine, la synaptophysine, les cytokératines AE1-AE3 et un indice prolifératif Ki67 de 5 % ; également négatif pour ER, PR, HER-2 et la mammaglobuline.
+Suite aux résultats de la biopsie, une scintigraphie des récepteurs de la somatostatine (Octreoscan®) a été demandée et a montré une accumulation pathologique dans le parenchyme hépatique dans les segments VIII, V et dans une moindre mesure IVB, ainsi qu'une augmentation de la captation dans le mésogastre, de faible intensité, qui a persisté sur les images tardives.
+L'analyse des marqueurs des tumeurs neuroendocrines dans le sang a montré des taux normaux de chromogranine (91,2 nanogrammes par millilitre) et de sérotonine (155 nanogrammes par millilitre).
+Après évaluation par le comité multidisciplinaire pour les tumeurs hépatobiliopancréatiques, compte tenu du pronostic favorable de la tumeur neuroendocrine et de sa lente évolution, il a été décidé de terminer le traitement adjuvant du cancer du sein et, après l'avoir terminé, de mettre à jour les examens d'imagerie, avant de poser l'indication d'une intervention chirurgicale à visée curative.

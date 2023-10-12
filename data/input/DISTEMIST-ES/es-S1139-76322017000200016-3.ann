@@ -1,0 +1,8 @@
+T1	pathologie 48 116	lesión eritematosa circinada, con bordes sobreelevados, eritematosos
+T2	pathologie 163 205	lesión, de unos 10 cm, situada en el muslo
+T3	pathologie 301 370	lesiones similares de menor tamaño dispersas en tórax, cuello y muslo
+T4	pathologie 561 575	eccema atópico
+#1	SNOMED T1	70819003
+#2	SNOMED T2	128135006
+#3	SNOMED T4	24079001
+#4	SNOMED T3	118946009+118939000+128135006
